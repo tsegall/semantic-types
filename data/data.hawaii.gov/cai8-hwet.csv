@@ -1,0 +1,1351 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]> <html lang="en" class="ie ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="ie ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+  <head>
+    <!--[if lte ie 8]><script type="text/javascript" src="/fanstatic/vendor/:version:2022-05-12T19:51:01/html5.min.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2022-05-12T19:51:01/select2/select2.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/css/:version:2022-05-12T19:51:01/main.min.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/vendor/:version:2022-05-12T19:51:01/font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/ckanext-geoview/:version:2022-05-16T14:58:41/css/geo-resource-styles.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/ckanext-harvest/:version:2022-05-16T14:58:45/styles/harvest.css" />
+<link rel="stylesheet" type="text/css" href="/fanstatic/heroslideradmin/:version:2022-05-16T14:59:19/css/style.css" />
+
+    
+  <meta charset="utf-8" />
+      <meta name="generator" content="ckan 2.7.3" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="data" id="theme_config" theme_config='{"secondary-color":"#262626","primary-color":"#343d46","footer-color":"#165cab","heading-color":"#07305c","font-family":"Open Sans, sans-serif"}' />
+
+    <title>Welcome - Hawaii Open Data</title>
+
+    
+    
+    
+    <link rel="shortcut icon" href="/img/favicon.ico" />
+    
+    
+        <script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-86377425-16', 'auto', {});
+  
+     
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+  
+</script>
+    
+
+    
+        <link rel="alternate" type="text/n3" href="https://opendata.hawaii.gov/catalog.n3"/>
+        <link rel="alternate" type="text/ttl" href="https://opendata.hawaii.gov/catalog.ttl"/>
+        <link rel="alternate" type="application/rdf+xml" href="https://opendata.hawaii.gov/catalog.xml"/>
+        <link rel="alternate" type="application/ld+json" href="https://opendata.hawaii.gov/catalog.jsonld"/>
+    
+
+  
+    
+    
+  
+  
+  
+      
+    
+
+  
+  
+  
+
+
+  <link href='//fonts.googleapis.com/css?family=Lato:400italic,400,900' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+
+  
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css" />
+  
+  <link rel="stylesheet" href="/css/layout3.css" />
+
+
+  <link rel="stylesheet" href=/css/theme_config.css?:version:2020-09-08T21:03:46.93 />
+
+  <link rel="stylesheet" href="/css/layout3.css"/>
+
+
+    
+    
+
+
+
+    
+    
+
+  <link rel="stylesheet" type="text/css" href="/css/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/slick-theme.css"/>
+
+  
+  
+
+
+    
+      
+      
+    <style>
+        .logo { top: -20px; }
+
+.main-updates h2 { border-bottom: 10px solid #165cab; padding-bottom: 15px;  margin-bottom: 0px;}
+
+.cd-hero-slider { height: 420px; }
+.hero-text-description.secondary.Link Title { color: #FF0000; }
+.hero-text-description p a { color: #0b77d5; font-weight: bold; }
+
+div.main-featured { background-color: #E6EBEE; }
+.media-item:hover { background-color: #fafafa; transition: all 400ms; }
+
+div.main-browse { background-color:  #FFF; }
+a.browse-group { background-color:  #fafafa; width:170px; height:170px; border-radius:50%; margin-right:1.2em; margin-left:1.2em; margin-top:2em;}
+a.browse-group:hover { background-color: #165cab; opacity:1.0; color:white;}
+.browse-group .browse-group-image {margin-top:30px;}
+
+div.main-updates { background-color:  #E6EBEE; }
+.main-updates .dataset-item { margin-bottom: 0px; border-bottom: 1px dotted #dddddd; }
+.main-updates li.dataset-item:hover { background-color: #fafafa; transition: all 400ms; }
+
+.module-content hr {display: none;}
+
+.main-updates li.dataset-item .dataset-heading { overflow: hidden; max-height: 42px; }
+      </style>
+    
+  <script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+
+  
+  <body data-site-root="https://opendata.hawaii.gov/" data-locale-root="https://opendata.hawaii.gov/" >
+
+    
+    <div class="hide"><a href="#content">Skip to content</a></div>
+  
+
+  
+  
+
+  
+
+  
+
+  <header class="account-masthead">
+    <div class="container">
+      
+        
+          <nav class="account not-authed">
+            <ul class="unstyled">
+              
+                
+    
+              <li><a href="/user/login">Log in</a></li>
+              
+                <li><a class="sub" href="/user/register">Register</a></li>
+              
+              
+    
+    <li>
+      <a href="/contact" title="Contact">
+        
+           Contact
+        
+      </a>
+    </li>
+
+
+              
+            </ul>
+          </nav>
+        
+      
+  </div>
+</header>
+
+<header class="navbar navbar-static-top masthead">
+  
+    
+    
+  
+  
+  <div class="container">
+    <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar" type="button">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="fa fa-bars"></span>
+    </button>
+    
+    <hgroup class="header-image pull-left">
+
+      
+        
+        
+          <a class="logo" href="/"><img src="/uploads/admin/2019-04-09-225150.352840Hawaii-State-Seal.png" alt="Hawaii Open Data" title="Hawaii Open Data" /></a>
+        
+      
+      
+
+    </hgroup>
+
+    <div class="nav-collapse collapse">
+      
+        <nav class="section navigation">
+          <ul class="nav nav-pills">
+            
+              <li><a href="/dataset">Datasets</a></li><li><a href="/organization">Organizations</a></li><li><a href="/group">Groups</a></li><li><a href="/pages/terms-of-use">Terms of Use</a></li>
+            
+            <!-- "About" tab is separated from the h.build_nav_main() function so the "About" tab is always right aligned. -->
+            <li>
+              <a href="/about" title="About">
+                <span class="text">About</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+        
+      
+        <form class="section site-search simple-input" action="/dataset" method="get">
+          <div class="field">
+            <label for="field-sitewide-search">Search Datasets</label>
+            <input id="field-sitewide-search" name="q" type="text"/>
+            <label for="sitewide-search-button">Search Button</label>
+            <button class="btn-search" type="submit" id="sitewide-search-button" title="Search"><i class="fa fa-search"></i></button>
+          </div>
+        </form>
+      
+
+    </div>
+  </div>
+</header>
+
+
+
+  <div class="homepage layout-3">
+    <div id="content" class="container">
+      
+            <div class="flash-messages">
+              
+                
+              
+            </div>
+          
+    </div>
+    
+      
+
+
+
+
+  
+
+
+
+<div class="cd-header">
+  <div class="container">
+    <div class="row row1">
+      <div class="col-md-12 span12">
+        <div class="module-content">
+          <div class="module landing-hero-intro-text">
+            <h1 class="hero-text-title">Hawaii Open Data</h1>
+            <div class="hero-text-description">
+              
+                <p>Government that is open and transparent</p>
+              
+            </div>
+          </div>
+          
+            
+
+
+<div class="module module-search module-narrow module-shallow box">
+  <form class="search-form" method="get" action="/dataset">
+    <div class="search-input control-group search-giant">
+      <input type="text" class="search" name="q" value="" autocomplete="off" id="data-search-keyword-input-field" placeholder="Search Datasets" title= "Type search term here"/>
+      <button type="submit" title="Search">
+        <i class="fa fa-search"></i>
+        <span>Search</span>
+      </button>
+    </div>
+  </form>
+</div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<section class="cd-hero">
+  <ul class="cd-hero-slider autoplay list-unstyled">
+    
+      
+        
+      
+    
+      
+        
+          <li style="background-image: url(https://opendata.hawaii.gov/uploads/hero/2019-04-09-223145.502638background-0.jpg)" class="selected">
+            <div class="tint"></div>
+          </li>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+  </ul> <!-- .cd-hero-slider -->
+  <div class="cd-slider-nav">
+    <nav>
+      <span class="cd-marker item-1"></span>
+      <ul class="list-unstyled">
+        
+          
+          
+            
+          
+        
+          
+          
+            
+              <li >
+                <button aria-label="Change slider background to option 2"><i class="fa fa-circle icon-circle"></i></button>
+              </li>
+            
+          
+        
+          
+          
+            
+          
+        
+          
+          
+            
+          
+        
+          
+          
+            
+          
+        
+      </ul>
+    </nav>
+  </div> <!-- .cd-slider-nav -->
+</section> <!-- .cd-hero -->
+
+
+<div>
+  
+  <div class="main-featured">
+    <div class="container">
+      <div class="row">
+        <div class="span12 col1 showcase-container">
+          <div class="module-content box" style="padding-bottom:0px">
+            <h2 class="heading" style="margin-bottom:0px"><a href="/showcase">Showcases</a></h2><hr/>
+            
+
+  
+    <div class="slick-showcase">
+      
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="media-item">
+  
+    
+      
+      
+        <img data-lazy="/uploads/showcase/2022-06-29-023357.448927OpenData-Tile-Design-458-x-250-pxHHDW-Final.png" alt="Hawaiʻi Health Data Warehouse" class="media-image img-responsive">
+      
+    
+    
+      <h3>Hawaiʻi Health Data Warehouse</h3>
+    
+    
+      
+      
+        
+      
+      <a href="/showcase/hawaii-health-data-warehouse" title="View Hawaiʻi Health Data Warehouse" class="media-view" >
+        <span>View Hawaiʻi Health Data Warehouse</span>
+      </a>
+    
+  
+</div>
+
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="media-item">
+  
+    
+      
+      
+        <img data-lazy="/uploads/showcase/2022-06-29-023322.201052OpenData-Tile-Design-458-x-250-pxHHM-Final.png" alt="Hawaiʻi Health Matters" class="media-image img-responsive">
+      
+    
+    
+      <h3>Hawaiʻi Health Matters</h3>
+    
+    
+      
+      
+        
+      
+      <a href="/showcase/hawai-i-health-matters" title="View Hawaiʻi Health Matters" class="media-view" >
+        <span>View Hawaiʻi Health Matters</span>
+      </a>
+    
+  
+</div>
+
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="media-item">
+  
+    
+      
+      
+        <img data-lazy="/uploads/showcase/2020-09-05-014633.442630hub-image-card-crop-i98simocs-250x250.png" alt="Aloha+ Challenge" class="media-image img-responsive">
+      
+    
+    
+      <h3>Aloha+ Challenge</h3>
+    
+    
+      
+      
+        
+      
+      <a href="/showcase/aloha-challenge" title="View Aloha+ Challenge" class="media-view" >
+        <span>View Aloha+ Challenge</span>
+      </a>
+    
+  
+</div>
+
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="media-item">
+  
+    
+      
+      
+        <img data-lazy="/uploads/showcase/2020-05-08-002054.229911gis.jpg" alt="Hawaii GIS Program" class="media-image img-responsive">
+      
+    
+    
+      <h3>Hawaii GIS Program</h3>
+    
+    
+      
+      
+        
+      
+      <a href="/showcase/hawaii-gis-program" title="View Hawaii GIS Program" class="media-view" >
+        <span>View Hawaii GIS Program</span>
+      </a>
+    
+  
+</div>
+
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="media-item">
+  
+    
+      
+      
+        <img data-lazy="/uploads/showcase/2020-05-08-001803.546374HICSC-CC.jpg" alt="Campaign Spending Commission Candidate Committee Dashboard" class="media-image img-responsive">
+      
+    
+    
+      <h3>Campaign Spending Commission Candidate Committee Dashboard</h3>
+    
+    
+      
+      
+        
+      
+      <a href="/showcase/hicsc-cc" title="View Campaign Spending Commission Candidate Committee Dashboard" class="media-view" >
+        <span>View Campaign Spending Commission Candidate Committee Dashboard</span>
+      </a>
+    
+  
+</div>
+
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="media-item">
+  
+    
+      
+      
+        <img data-lazy="/uploads/showcase/2020-05-08-001949.302892NCC.jpg" alt="Campaign Spending Commission Noncandidate Committee Dashboard" class="media-image img-responsive">
+      
+    
+    
+      <h3>Campaign Spending Commission Noncandidate Committee Dashboard</h3>
+    
+    
+      
+      
+        
+      
+      <a href="/showcase/hicsc-ncc" title="View Campaign Spending Commission Noncandidate Committee Dashboard" class="media-view" >
+        <span>View Campaign Spending Commission Noncandidate Committee Dashboard</span>
+      </a>
+    
+  
+</div>
+
+        
+      
+    </div>
+
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.slick-showcase').slick({
+          arrows: true,
+          autoplay: false,
+          autoplaySpeed: 5000,
+          lazyLoad: 'ondemand',
+          slidesToShow: 4,
+          slidesToScroll: 4,
+          responsive: [
+            {
+              breakpoint: 1280,
+              settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3
+              }
+            },
+            {
+              breakpoint: 980,
+              settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2
+              }
+            },
+            {
+              breakpoint: 640,
+              settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+              }
+            }
+          ]
+        });
+      });
+    </script>
+
+  
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="main-browse">
+    <div class="container">
+      <div class="row">
+        <div class="span12 col1">
+          <div class="module-content box">
+            <h2 class="heading"><a href="/group">Groups</a></h2><hr/>
+            
+              
+                <a href="/group/community-group" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-223258.657924community.png">
+                  <div class="browse-group-title">
+                    Community
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/economic-development" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-223402.157905finance.png">
+                  <div class="browse-group-title">
+                    Economic Development
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/government-wide-support" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-224438.117264governmentbuilding.png">
+                  <div class="browse-group-title">
+                    Government-Wide Support
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/employment" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-223450.142076facilities.png">
+                  <div class="browse-group-title">
+                    Employment
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/campaign-finance-ethics-and-elections" title="Campaign Spending Commission, Ethics, Elections" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-01-23-202813.444802electedofficial.jpg">
+                  <div class="browse-group-title">
+                    Campaign Finance, Ethics and Elections
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/formal-education" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-223510.749126education.png">
+                  <div class="browse-group-title">
+                    Formal Education
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/culture-and-recreation" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-223338.865388humanservices.png">
+                  <div class="browse-group-title">
+                    Culture and Recreation
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/other-group" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-225145.613087publicproperty.png">
+                  <div class="browse-group-title">
+                    Other
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/social-services" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-224944.475967publicsafety.png">
+                  <div class="browse-group-title">
+                    Social Services
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/public-safety-group" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2019-08-14-223038.081729shield.png">
+                  <div class="browse-group-title">
+                    Public Safety
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/transportation-facilities" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-225126.116662transportation.png">
+                  <div class="browse-group-title">
+                    Transportation Facilities
+                  </div>
+                </a>
+              
+            
+              
+                <a href="/group/training" title="No description" class="browse-group">
+                  <img class="browse-group-image" alt="" src="https://opendata.hawaii.gov/uploads/group/2020-04-28-225103.811746permitting.png">
+                  <div class="browse-group-title">
+                    Training
+                  </div>
+                </a>
+              
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="main-updates">
+    <div class="container">
+      <div class="row">
+        <div class="span6 col1">
+          
+
+  <div class="module-content box">
+      <header>
+          <h2 class="heading">Popular Datasets</h2>
+          <hr/>
+      </header>
+      <section>
+          <ul id="popular-list" class="unstyled dataset-list">
+              
+                <li class="dataset-item">
+                    <div class="dataset-content">
+                        <h3 class="dataset-heading"><a href="/dataset/view-tax-plat-maps">View Tax Plat Maps</a></h3>
+                        
+                        
+                          <div>18 recent views</div>
+                          
+                            <ul class="dataset-resources unstyled">
+                              
+                                <li>
+                                  <a href="/dataset/view-tax-plat-maps" class="label" data-format="html" style="color:white;">HTML</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/view-tax-plat-maps" class="label" data-format="arcgis geoservices rest api" style="color:white;">ArcGIS GeoServices REST API</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/view-tax-plat-maps" class="label" data-format="geojson" style="color:white;">GeoJSON</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/view-tax-plat-maps" class="label" data-format="csv" style="color:white;">CSV</a>
+                                </li>
+                              
+                            </ul>
+                          
+                        
+                    </div>
+                </li>
+            
+                <li class="dataset-item">
+                    <div class="dataset-content">
+                        <h3 class="dataset-heading"><a href="/dataset/zip-codes">Zip Codes</a></h3>
+                        
+                        
+                          <div>17 recent views</div>
+                          
+                            <ul class="dataset-resources unstyled">
+                              
+                                <li>
+                                  <a href="/dataset/zip-codes" class="label" data-format="html" style="color:white;">HTML</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/zip-codes" class="label" data-format="arcgis geoservices rest api" style="color:white;">ArcGIS GeoServices REST API</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/zip-codes" class="label" data-format="geojson" style="color:white;">GeoJSON</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/zip-codes" class="label" data-format="csv" style="color:white;">CSV</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/zip-codes" class="label" data-format="kml" style="color:white;">KML</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/zip-codes" class="label" data-format="zip" style="color:white;">ZIP</a>
+                                </li>
+                              
+                            </ul>
+                          
+                        
+                    </div>
+                </li>
+            
+                <li class="dataset-item">
+                    <div class="dataset-content">
+                        <h3 class="dataset-heading"><a href="/dataset/adult-residential-care-home-listing">Adult Residential Care Home LISTING</a></h3>
+                        
+                        
+                          <div>15 recent views</div>
+                          
+                            <ul class="dataset-resources unstyled">
+                              
+                                <li>
+                                  <a href="/dataset/adult-residential-care-home-listing" class="label" data-format="csv" style="color:white;">CSV</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/adult-residential-care-home-listing" class="label" data-format="rdf" style="color:white;">RDF</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/adult-residential-care-home-listing" class="label" data-format="json" style="color:white;">JSON</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/adult-residential-care-home-listing" class="label" data-format="xml" style="color:white;">XML</a>
+                                </li>
+                              
+                            </ul>
+                          
+                        
+                    </div>
+                </li>
+            
+                <li class="dataset-item">
+                    <div class="dataset-content">
+                        <h3 class="dataset-heading"><a href="/dataset/current-expired-product-list">Current Product List</a></h3>
+                        
+                        
+                          <div>14 recent views</div>
+                          
+                            <ul class="dataset-resources unstyled">
+                              
+                                <li>
+                                  <a href="/dataset/current-expired-product-list" class="label" data-format="csv" style="color:white;">CSV</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/current-expired-product-list" class="label" data-format="rdf" style="color:white;">RDF</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/current-expired-product-list" class="label" data-format="json" style="color:white;">JSON</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/current-expired-product-list" class="label" data-format="xml" style="color:white;">XML</a>
+                                </li>
+                              
+                            </ul>
+                          
+                        
+                    </div>
+                </li>
+            
+                <li class="dataset-item">
+                    <div class="dataset-content">
+                        <h3 class="dataset-heading"><a href="/dataset/annual-rainfall-in">Annual Rainfall (in)</a></h3>
+                        
+                        
+                          <div>10 recent views</div>
+                          
+                            <ul class="dataset-resources unstyled">
+                              
+                                <li>
+                                  <a href="/dataset/annual-rainfall-in" class="label" data-format="html" style="color:white;">HTML</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/annual-rainfall-in" class="label" data-format="arcgis geoservices rest api" style="color:white;">ArcGIS GeoServices REST API</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/annual-rainfall-in" class="label" data-format="geojson" style="color:white;">GeoJSON</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/annual-rainfall-in" class="label" data-format="csv" style="color:white;">CSV</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/annual-rainfall-in" class="label" data-format="ogc wfs" style="color:white;">OGC WFS</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/annual-rainfall-in" class="label" data-format="kml" style="color:white;">KML</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/annual-rainfall-in" class="label" data-format="zip" style="color:white;">ZIP</a>
+                                </li>
+                              
+                                <li>
+                                  <a href="/dataset/annual-rainfall-in" class="label" data-format="ogc wms" style="color:white;">OGC WMS</a>
+                                </li>
+                              
+                            </ul>
+                          
+                        
+                    </div>
+                </li>
+            
+          </ul>
+      </section>
+  </div>
+        </div>
+        <div class="span6 col2">
+          
+
+  <div class="module-content box">
+      <header>
+          <h2 class="heading">New and Recent Datasets</h2>
+          <hr/>
+      </header>
+      <section>
+          
+
+  
+    <ul class="dataset-list unstyled">
+      
+        
+          
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h3 class="dataset-heading">
+            
+              
+            
+            
+              <a href="/dataset/current-expired-product-list">Current Product List</a>
+            
+            
+              
+              
+            
+          </h3>
+        
+        
+          
+            <div>Updated on July 25, 2022</div>
+          
+        
+        
+          
+            
+              <ul class="dataset-resources unstyled">
+                
+                  
+                    <li>
+                      <a href="/dataset/current-expired-product-list" class="label" data-format="csv" style="color:white;">CSV</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/current-expired-product-list" class="label" data-format="rdf" style="color:white;">RDF</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/current-expired-product-list" class="label" data-format="json" style="color:white;">JSON</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/current-expired-product-list" class="label" data-format="xml" style="color:white;">XML</a>
+                    </li>
+                  
+                
+              </ul>
+            
+          
+        
+      </div>
+    
+  </li>
+
+        
+          
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h3 class="dataset-heading">
+            
+              
+            
+            
+              <a href="/dataset/projects-awarded">Projects Awarded</a>
+            
+            
+              
+              
+            
+          </h3>
+        
+        
+          
+            <div>Updated on July 15, 2022</div>
+          
+        
+        
+          
+            
+              <ul class="dataset-resources unstyled">
+                
+                  
+                    <li>
+                      <a href="/dataset/projects-awarded" class="label" data-format="csv" style="color:white;">CSV</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/projects-awarded" class="label" data-format="rdf" style="color:white;">RDF</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/projects-awarded" class="label" data-format="json" style="color:white;">JSON</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/projects-awarded" class="label" data-format="xml" style="color:white;">XML</a>
+                    </li>
+                  
+                
+              </ul>
+            
+          
+        
+      </div>
+    
+  </li>
+
+        
+          
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h3 class="dataset-heading">
+            
+              
+            
+            
+              <a href="/dataset/projects-closed">Projects Closed</a>
+            
+            
+              
+              
+            
+          </h3>
+        
+        
+          
+            <div>Updated on June 24, 2022</div>
+          
+        
+        
+          
+            
+              <ul class="dataset-resources unstyled">
+                
+                  
+                    <li>
+                      <a href="/dataset/projects-closed" class="label" data-format="csv" style="color:white;">CSV</a>
+                    </li>
+                  
+                
+              </ul>
+            
+          
+        
+      </div>
+    
+  </li>
+
+        
+          
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h3 class="dataset-heading">
+            
+              
+            
+            
+              <a href="/dataset/projects-accepted">Projects Accepted</a>
+            
+            
+              
+              
+            
+          </h3>
+        
+        
+          
+            <div>Updated on June 24, 2022</div>
+          
+        
+        
+          
+            
+              <ul class="dataset-resources unstyled">
+                
+                  
+                    <li>
+                      <a href="/dataset/projects-accepted" class="label" data-format="csv" style="color:white;">CSV</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/projects-accepted" class="label" data-format="rdf" style="color:white;">RDF</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/projects-accepted" class="label" data-format="json" style="color:white;">JSON</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/projects-accepted" class="label" data-format="xml" style="color:white;">XML</a>
+                    </li>
+                  
+                
+              </ul>
+            
+          
+        
+      </div>
+    
+  </li>
+
+        
+          
+
+
+
+
+
+
+  <li class="dataset-item">
+    
+      <div class="dataset-content">
+        
+          <h3 class="dataset-heading">
+            
+              
+            
+            
+              <a href="/dataset/projects-under-construction">Projects Under Construction</a>
+            
+            
+              
+              
+            
+          </h3>
+        
+        
+          
+            <div>Updated on June 24, 2022</div>
+          
+        
+        
+          
+            
+              <ul class="dataset-resources unstyled">
+                
+                  
+                    <li>
+                      <a href="/dataset/projects-under-construction" class="label" data-format="rdf" style="color:white;">RDF</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/projects-under-construction" class="label" data-format="json" style="color:white;">JSON</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/projects-under-construction" class="label" data-format="xml" style="color:white;">XML</a>
+                    </li>
+                  
+                    <li>
+                      <a href="/dataset/projects-under-construction" class="label" data-format="csv" style="color:white;">CSV</a>
+                    </li>
+                  
+                
+              </ul>
+            
+          
+        
+      </div>
+    
+  </li>
+
+        
+      
+    </ul>
+  
+
+      </section>
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+  </div>
+
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="span2 footer-links" style="padding-bottom:12px;">
+        
+          <ul class="unstyled">
+            
+              <li><a href="/about">About Hawaii Open Data</a></li>
+            
+          </ul>
+          <ul class="unstyled">
+            
+            
+              
+              <li><a target="_blank" href="http://docs.ckan.org/en/2.7/api/">API Documentation</a></li>
+            
+          </ul>
+        
+      </div>
+      <div class="span6">
+        <ul class="unstyled">
+          <li><a href="/pages/terms-of-use">Terms of Use</a></li>
+          <li><a href="/pages/accessibility">Accessibility</a></li>
+          <li><a href="/pages/privacy-policy" >Privacy Policy</a></li>
+        </ul>
+    </div>
+      <div class="span4 attribution">
+        
+          <p>
+             <strong>Powered by</strong> <div style="white-space:nowrap; padding-bottom:16px;"> <a class="hide-text" target="_blank" href="https://opengov.com/?utm_campaign=Footer-Product-OpenData&utm_source=OpenGov&utm_medium=product&utm_term=PO-OGOV-1274&utm_content=logo" style="float:left;"> <img src="/img/OpenGov_Logo.png" style="max-height:24px" alt="OpenGov"></img> </a> <a class="hide-text ckan-footer-logo" target="_blank" href="http://ckan.org" style="margin-left:144px;">CKAN</a> </div> 
+          </p>
+        
+      </div>
+    </div>
+    
+  </div>
+
+  
+    
+  
+</footer>
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+        
+        
+        <div class="js-hide" data-module="google-analytics"
+             data-module-googleanalytics_resource_prefix="">
+        </div>
+    
+
+
+    
+
+
+      
+  <script>document.getElementsByTagName('html')[0].className += ' js';</script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2022-05-12T19:51:01/jquery.min.js"></script>
+<script type="text/javascript" src="/fanstatic/vendor/:version:2022-05-12T19:51:01/:bundle:bootstrap/js/bootstrap.min.js;jed.min.js;moment-with-locales.js;select2/select2.min.js"></script>
+<script type="text/javascript" src="/fanstatic/base/:version:2022-05-12T19:51:01/:bundle:plugins/jquery.inherit.min.js;plugins/jquery.proxy-all.min.js;plugins/jquery.url-helpers.min.js;plugins/jquery.date-helpers.min.js;plugins/jquery.slug.min.js;plugins/jquery.slug-preview.min.js;plugins/jquery.truncator.min.js;plugins/jquery.masonry.min.js;plugins/jquery.form-warning.min.js;sandbox.min.js;module.min.js;pubsub.min.js;client.min.js;notify.min.js;i18n.min.js;main.min.js;modules/select-switch.min.js;modules/slug-preview.min.js;modules/basic-form.min.js;modules/confirm-action.min.js;modules/api-info.min.js;modules/autocomplete.min.js;modules/custom-fields.min.js;modules/data-viewer.min.js;modules/table-selectable-rows.min.js;modules/resource-form.min.js;modules/resource-upload-field.min.js;modules/resource-reorder.min.js;modules/resource-view-reorder.min.js;modules/follow.min.js;modules/activity-stream.min.js;modules/dashboard.min.js;modules/resource-view-embed.min.js;view-filters.min.js;modules/resource-view-filters-form.min.js;modules/resource-view-filters.min.js;modules/table-toggle-more.min.js;modules/dataset-visibility.min.js;modules/media-grid.min.js;modules/image-upload.min.js"></script>
+<script type="text/javascript" src="/fanstatic/base/:version:2022-05-12T19:51:01/tracking.min.js"></script>
+<script type="text/javascript" src="/fanstatic/ckanext-googleanalytics/:version:2022-05-16T14:58:42/googleanalytics_event_tracking.js"></script>
+<script type="text/javascript" src="/fanstatic/ckanext-harvest/:version:2022-05-16T14:58:45/js/harvest.js"></script>
+<script type="text/javascript" src="/fanstatic/cloudstorage-js/:version:2022-05-16T14:58:59/:bundle:vendor/jquery-widget.js;vendor/file-upload.js;cloudstorage-multipart-upload.js"></script>
+<script type="text/javascript" src="/fanstatic/heroslideradmin/:version:2022-05-16T14:59:19/:bundle:js/main.js;js/modernizr.js"></script>
+<script type="text/javascript" src="/fanstatic/og_theme/:version:2022-05-16T14:59:24/favorite.js"></script>
+<script type="text/javascript" src="/fanstatic/showcase/:version:2022-05-16T14:58:54/js/slick.js"></script><script>(function(){window['__CF$cv$params']={r:'73480eb31d9a3ba6',m:'ksxYm2a4.D1uUOhdTkIAIQ6J_grWLeA8rRLyqcshNzI-1659456352-0-Ad7eVFwheNVVbHmX3futu8v2olYfAfe7gzxpU//Lz7ECyuHPBG4tiKAhhDK0FKDTUmKTZYSFKIZxTOctCYPe+WBv7W4xDBRToMmp6Sge+z+knHC6hbAWpzOLl4gEpanh2g==',s:[0x5b9712f090,0x856596b717],}})();</script></body>
+</html>

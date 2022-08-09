@@ -1,0 +1,650 @@
+"last_name","first_name","mi","date_of_expiration","business","business_phone","location","counties_served"
+"Stufflebean","Kelly","O","2024-08-31T00:00:00.000","Du All Services LLC","(816) 406-5703","1600 Hight Avenue
+Belton, MO 64012","Morgan, Johnson, Cass, Clay, Jackson, Platte"
+"Gash","Jeffrey","B","2022-09-30T00:00:00.000","Gash Plumbing LLC","(660) 584-2690","14465 Rockyford Road
+Higginsville, MO 64037
+(39.120112, -93.695497)","Jackson, Ray, Johnson, Carroll, Saline, Lafayette, Pettis, Clay"
+"Minderman","Nick","L","2023-11-30T00:00:00.000","7 Oaks Home Inspections","(636) 456-0001","16995 State HWY M
+Warren, MO 63383","Warren,  Jefferson,  Linclon,  St. Charles"
+"Jackson","Tristin",,"2022-08-31T00:00:00.000","Precision Home","(417) 209-2818","233 S. Lulwood Ave
+Springfield, MO 65802
+(37.209428, -93.37682)","Christian, Webster, Taney, Lawrence"
+"Arnold","Travis","D.","2023-08-31T00:00:00.000","State Line Septic","(479) 619-8226","5380 Deer Creek Road
+Noel, MO 64854
+(36.500941, -94.410667)",
+"Harness","Adrian","F.","2024-12-31T00:00:00.000","Central MO All Service Plumbing","(573) 964-5331","187 Wood River Road
+Lake Ozark, MO 65049
+(38.185015, -92.60009)","Camden, Miller, Morgan, Moniteau, Pulaski, Phelps, Polk, Hickory, Laclede, Stone, Lawrence, Barry, Taney, Christian, Greene, Cole, Maries"
+"Russell","Richard","L","2023-10-31T00:00:00.000","Russell's Plumbing","(660) 425-3291","1601 River Street
+Bethany, MO 64424
+(40.272831, -94.03525)","Daviess, Gentry, Grundy, Mercer, Harrison, Worth, Nodaway, Livingston, DeKalb, Caldwell, Buchanan, Osage, Putnam"
+"Lappe","Timothy","M","2024-03-31T00:00:00.000","TWL Inspection Services, LLC","(573) 517-1772","468 Rolling Hills Ln
+Perryville, MO 63775
+(37.67898, -89.858974)","Cape Girardeau, Scott, Bollinger, Madison, Perry, St. Francois, Stoddard, Mississippi"
+"Walker","Dustin",,"2025-04-30T00:00:00.000","1st Choice Septic Pumping","(573) 280-5052","319 Santee Trail
+Camdenton, MO 65020
+(38.076822, -92.825812)","Cadmen, Miller, Dallas, Hickory, Benton, Morgan, Pulaski"
+"Bench","Timothy","L","2022-07-31T00:00:00.000","JCTB inspections, Inc.","(636) 240-7209","501 Dardenne Drive
+O'Fallon, MO 63366
+(38.804824, -90.689871)","St. Louis, Warren, Jefferson, Lincoln, St. Charles, Franklin, Montgomery, Pike"
+"List","Brent",,"2024-08-31T00:00:00.000","Green Acres Home Inspections LLC","(573) 789-3038","276 Hwy M
+Eldon, MO 65026
+(38.325747, -92.515579)","Morgan, Cole, Camden, Miller, Osage, Benton"
+"Taylor","Darren","M.","2022-08-31T00:00:00.000","Drury Property Services","(314) 220-9016","P O Box 592
+Crystal City, MO 63019","Ste. Genevieve, St. Francois, Washington, Franklin, Jefferson, St. Louis"
+"Boehs","Doyle","S","2023-11-30T00:00:00.000","Waste Water Operation & Service, LLC","(573) 569-5580","13430 Wren Rd.
+Versailles, MO 65084
+(38.489089, -92.88775)","Morgan,  Camden,  Miller,  Benton,  Cole, Moniteau"
+"Dykes","Scott",,"2024-03-31T00:00:00.000","Dykes Construction LLC","(816) 580-4100","7777 SE Hwy 69
+Lawson, MO 64062","Clay, Caldwell, Platte, Ray, Clinton, Jackson"
+"Motley Jr.","Larry","L.","2024-12-31T00:00:00.000","Home Performance Group LLC","(816) 635-2493","301 N. Sam Barr Drive
+Kearney, MO 64060
+(39.374319, -94.380521)","Clinton, Platte, Ray, Caldwell, Clay, Lafayette, Buchanon, DeKalb, Jackson, Cass"
+"Parker","Jonathan","Seth","2022-08-31T00:00:00.000","A-Pro Home Inspections","(417) 894-1782","4319 S National Ave #216
+Springfield, MO 65810
+(37.135768, -93.278378)","Webster, Greene, Pulaski, Laclede, Christian"
+"Schumacher","Robert","T","2024-03-31T00:00:00.000","Robert Schumacher Enterprises","(816) 517-3545","32115 South Obannon Rd.
+Creighton, MO 64739
+(38.500953, -94.159039)","Cass, Henry, Bates, Johnson"
+"Simms","Andy","A","2022-09-30T00:00:00.000","Summit Inspection Services LLC","(417) 527-8242","836 Jakes Creek Trail
+Branson, MO 65616
+(36.646418, -93.336135)","Greene, Christian, Barry, Taney, Stone, Lawrence, Webster, Polk"
+"Craighead","Dustin","L.","2024-08-31T00:00:00.000","Pro Property Solutions, LLC","(573) 220-3507","6740 County Rd 104
+Fulton, MO 65251
+(38.836606, -91.894089)","Audrain, Boone, Cole, Montgomery"
+"Cantrell","Kenneth","D.","2023-11-30T00:00:00.000","KC Septic Pumping, Installation & Excavation","(417) 241-2814","3757 Skyline Road
+Seymour, MO 65746
+(37.209426, -92.789784)","Webster, Wright, Christian, Greene, Douglas, Dallas, Laclede, Texas"
+"Cook","Eddie","D","2025-05-31T00:00:00.000","Eddie Cook Enterprises","(573) 866-3107","Rt 1 Box 620
+Marble Hill, MO 63764","Bollinger,  Cape Girardeau,  Wayne,  Scott,  Perry"
+"Carlisle","Jonathan","R.","2023-07-31T00:00:00.000","Carlisle Septic Service","(573) 318-8109","RR 3 Box 3672
+Marble Hill, MO 63764","Bollinger, Cape Girardeau, Perry, Scott, Stoddard, Madison, St. Francois, Ste. Genevieve"
+"Denby","Jason","M","2023-07-31T00:00:00.000","Big River Home Inspections","(636) 226-6829","1007 Ste. Genevieve Avenue
+Farmington, MO 63640
+(37.777866, -90.408056)","St. Francois"
+"Braun","James","E","2022-09-30T00:00:00.000","Braun Inspection Consultants","(573) 761-3581","1409 A E. McCarty
+Jefferson City, MO 65101
+(38.562208, -92.153306)","Cole, Osage, Moniteau, Callaway, Boone"
+"Simmons","Jeremy","T.","2025-04-30T00:00:00.000","Midwest Excavation and Landscape LLC","(573) 338-4444","31124 Hwy AA
+Argyle, MO 65001
+(38.290519, -92.023857)","Camden, Cole, Miller, Morgan, Boone, Osage, Maries, Phelps, Pulaski"
+"Kramer","Ken","H","2023-01-31T00:00:00.000","Kramer Plumbing","(573) 243-5488","543 - Co. Rd. 345
+Cape Girardeau, MO 63755
+(37.391853, -89.73481)","Cape Girardeau, Perry, Scott, Bollinger"
+"Manton","Robert","H","2024-06-30T00:00:00.000","Advanced Inspection Services","(573) 216-1312","371 Avondale Drive
+Branson, MO 65616
+(36.600824, -93.294039)","Camden,  Miller,  Morgan,  Pulaski,  Laclede, Taney, Stone, Ozark"
+"Stoltzfus","Stanley",,"2023-11-30T00:00:00.000","Green Shore Exc","(573) 480-6473","21194 Hillpoint Rd.
+Barnett, MO 65011
+(38.377661, -92.681379)","Camden,  Miller,  Morgan,  Cole, Callway, Boone, Moniteau"
+"Racz","Matthew","S.","2023-11-30T00:00:00.000",,"(417) 597-0941","
+, MO 
+(38.3675, -92.477244)","Christian, Lawrence, Webster, Polk, Dade"
+"Smith","Jeffrey","D","2025-04-30T00:00:00.000","Mid State Inspection Services","(417) 260-4774","18951 Iron Mine Rd.
+Licking, MO 65542
+(37.540852, -91.815)","Texas, Dent, Phelps, Laclede"
+"Butteris","Gabriel","S.","2024-04-30T00:00:00.000","Cedar Hills Septic & Inspection, LLC","(417) 664-3642","
+, MO 
+(38.3675, -92.477244)","Laclede, Pulaski, Camden, Phelps"
+"Danner","Timothy","Loyd","2023-01-31T00:00:00.000","Danner Mobile Home Service","(573) 372-0121","30703 Arrowhead Rd.
+Stover, MO 65078
+(38.244851, -92.972577)","Morgan,  Miller, Benton,  Camden,  Pettis"
+"Hayes","Gregory","S","2023-11-30T00:00:00.000","Hayes Inspections LLC","(573) 893-3509","5416 Tanner Bridge Rd
+Jefferson City, MO 65101
+(38.503735, -92.206771)","Boone, Callaway, Moniteau, Cole"
+"Parker","John","R","2025-01-31T00:00:00.000","Freedom Home Inspections LLC","(417) 894-1782","4319 S. National #216
+Springfield, MO 65810","Webster,  Greene,  Christian,  Polk,  Lawrence,  Dade,  Dallas,  Stone,  Laclede"
+"Wolf","Brandon",,"2024-12-31T00:00:00.000","Freedom Home Inspections","(417) 894-1782","4319 S National Ave, #216
+Springfield, MO 65810
+(37.135768, -93.278378)","Webster, Christian, Polk, Dallas, Greene, Cedar, Wright, Laclede"
+"Eales","Bradley","T","2023-03-31T00:00:00.000","Eales Excavating","(816) 985-1747","2104 Bradford Pl.
+Excelsior Springs, MO 64024
+(39.344146, -94.260991)","Ray, Platte, Clinton, Clay, Jackson"
+"Gramke","Dennis","S","2024-12-31T00:00:00.000","Gramke Home Inspections LLC","(573) 216-0683","10482 McCasland Rd
+Versailles, MO 65084
+(38.344203, -92.88096)","Miller, Camden, Benton, Morgan"
+"Chapman Jr","John","A","2024-03-31T00:00:00.000","Chapman Contracting","(636) 629-7854","PO Box 37
+St. Clair, MO 63077","Franklin,  Washington,  Warren, Crawford, Jefferson, St. Louis, St. Charles"
+"Wald","Katherin","M","2023-11-30T00:00:00.000","C & L Grease and Wastewater Services","(417) 717-0587","1140 E. 1st
+Carterville, MO 64835","Jasper, Newton, McDonald, Barton"
+"Riley","Jerry",,"2023-01-31T00:00:00.000","1st Choice Building Inspections LLC","(417) 860-5278","3369 E. Hoke
+Springfield, MO 65804
+(37.150161, -93.227358)","Greene,  Christian,  Stone,  Lawrence,  Webster,  Wright,  Douglas, Polk"
+"Sharp","Daniel","S","2022-08-31T00:00:00.000","Mirowski Home Inspections","(417) 873-9517","331 E Water St #107
+Springfield, MO 65802
+(37.210853, -93.290078)","Greene, Christian, Webster, Lawrence, Polk, Stone, Dallas, Lawrence, Dade, Wright"
+"Van Haitsma","Scott","A","2023-10-31T00:00:00.000","Solid Rock Excavating","(417) 294-4699","869 Keystone Rd.
+Reeds Spring, MO 65767
+(36.753065, -93.34788)","Stone, Taney, Christian, Barry"
+"Jones","Andy",,"2023-11-30T00:00:00.000","Cornerstone Property Inspections","(417) 209-4321","P O Box 51
+Republic, MO 65738","Stone, Greene, Lawrence, Christian"
+"Lowe","Christopher","M.","2023-08-31T00:00:00.000","Preferred Inspections Group LLC","(636) 283-1278","205 Locust Street
+New Haven, MO 63068
+(38.61285, -91.220998)","St. Louis, Gasconade, Montgomery, Phelps"
+"Hancock","Jon","R","2023-03-31T00:00:00.000","Envirotek Systems","(417) 335-1152","PO Box 700
+Kimberling City, MO 65686","Taney,  Barry,  Christian,  Greene,  Jasper,  Newton,  Howell,  Webster,  Stone"
+"Nixon","Cade","A.","2022-08-31T00:00:00.000","A-Pro Home Inspection Services","(417) 894-1782","4319 S. National Avenue # 216
+Springfield, MO 65810
+(37.135768, -93.278378)","Greene, Christian, Dallas, Taney"
+"Ervin","Matthew","R.","2023-07-31T00:00:00.000","On Site Matt","(417) 631-9317","5446 N 192nd Rd
+Pleasant Hope, MO 65725
+(37.457319, -93.288606)","Greene, Christian, Stone, Webster, Polk, Taney, Lawrence, Hickory"
+"Weber","Justin","K","2025-03-31T00:00:00.000","Jake's Backhoe &construction","(573) 619-9703","1299 S Hwy 19
+Hermann, MO 65041
+(38.69634, -91.440233)","Gasconade, Montgomery, Warren, Franklin"
+"McGhee","Brian","W","2022-08-31T00:00:00.000","McGhee Structures LLC","(660) 525-2924","457 SE 200 Road
+Clinton, MO 64735
+(38.334934, -93.670261)","Henry, Johnson, Pettis, Benton"
+"Harring","Nicole","L","2024-12-31T00:00:00.000",,"(417) 360-5420","5989 Farm Road 1250
+Galena, MO 65656
+(36.83878, -93.612628)","Jasper, Stone, Christian, Taney, Barry"
+"McIntosh","William","J.","2023-07-31T00:00:00.000","Affordable Property Inspections","(417) 459-7008","3333 S. Ridgecrest Avenue
+Springfield, MO 65807
+(37.154539, -93.34782)","Christian, Dallas, Polk, Lawrence, Douglas, Cedar, Dade, Stone"
+"Lee","Bruce","A","2024-08-31T00:00:00.000","Lee Home Inspections","(417) 294-4246","28 Irish Hills Blvd
+Kimberling City, MO 65686
+(36.651365, -93.438218)","Taney, Christian, Barry"
+"Aynes","Tyler","J","2025-04-30T00:00:00.000","Protect Home Inspections","(314) 267-3333","PO Box 2394
+Washington, MO 63090","St. Charles, Jefferson, Warren, St. Louis, Franklin"
+"Gilton","Brandon","R.","2022-08-31T00:00:00.000","C & S Septic Services, LLC","(573) 785-3144","11136 Highway PP
+Poplar Bluff, MO 63901
+(36.820476, -90.547445)","Ripley, Wayne, Stoddard, Dunklin"
+"Truninger","Bill","R","2022-09-30T00:00:00.000","Truninger Brothers, LLC","(816) 540-5673","PO Box 336
+Pleasant Hill, MO 64080","Cass, Johnson, Jackson, Lafayette, Henry, Bates"
+"Zivkovich","Michael","A","2023-11-30T00:00:00.000","Amerispec","(417) 263-3021","175 Split Rock Drive
+Hollister, MO 65672
+(36.56333, -93.284243)","Stone, Taney, Greene, Christian, Barry"
+"Benedict","John",,"2023-07-31T00:00:00.000","Inspection Doctor","(573) 723-0017","2549 Highway 52
+Tuscumbia, MO 64082
+(38.272017, -92.539739)","Miller, Moniteau, Cole, Morgan, Camden"
+"Ebegbodi","Samuel","O.","2023-08-31T00:00:00.000","Samuel Plumbing & Drain Laying","(314) 398-2323","1246 Fairview Ave
+St. Louis, MO 63130
+(38.674294, -90.340781)","St. Louis, St. Charles, Jefferson, Lincoln"
+"Leeker","Doug","T","2024-06-30T00:00:00.000","Leeker Construction Co","(314) 355-0078","1621 Muriel Dr.
+St. Louis, MO 63138
+(38.774728, -90.220652)","St. Louis, Benton, Camden"
+"Hancock","Lucas","S","2025-03-31T00:00:00.000","Lake Property Inspection, LLC","(573) 216-1230","13 Gilliam Rd.
+Eldon, MO 65026
+(38.237613, -92.653704)","Miller, Camden, Morgan, Cole, Pulaski, Benton, Moniteau, Maries"
+"Sullivan","Scott","N","2022-09-30T00:00:00.000","R. Heyl and Associates","(314) 267-3333","766 Wanda Leigh Lane
+Washington, MO 63090
+(38.506615, -91.126624)","Franklin,  Warren,  Gasconade,  Jefferson, St. Charles, Crawford, Washington, Montgomery"
+"Wallis","Ryan","J","2023-01-31T00:00:00.000","Ryan J Wallis","(636) 209-1041","1422 Cedar Lane
+Bismarck, MO 63624
+(37.775759, -90.614092)","Jefferson,  St. Louis,  St. Francois,  Washington,  Iron,  Madison,  Reynolds,  Franklin"
+"Jacobs","Tracy","L","2024-12-31T00:00:00.000",,"(417) 455-4801","12929 Prospect Lane
+Neosho, MO 64850
+(36.88049, -94.32811)","McDonald, Jasper, Barry, Newton, Lawrence, Greene, Taney, Laclede, Phelps"
+"Chapman","Chris","L","2024-03-31T00:00:00.000","Show Me Soils","(636) 629-1788","PO Box 73
+St. Clair, MO 63077","Gasconade, Washington, Jefferson, Franklin, St. Louis, Warren, St. Charles"
+"Copeland","Michael","S","2024-03-31T00:00:00.000","Copeland's Home Inspections LLC","(816) 262-0262","3703 Robin Ln
+St. Joseph, MO 64506
+(39.801748, -94.803052)","Buchanan, Andrew, Dekalb, Holt, Nodaway, Clinton, Platte, Clay, Jackson"
+"Reed","Wesley","R","2023-07-31T00:00:00.000","Reed Sewer & Septic Service","(816) 232-9986","PO Box 2003
+St. Joseph, MO 64502","Andrew, Dekalb,Buchanan Platte"
+"Gentry","Dillon",,"2024-12-31T00:00:00.000","Freedom Home Inspections","(417) 894-1782","4319 S National Ave #216
+Springfield, MO 65810
+(37.135768, -93.278378)","Cedar, Wright, Laclede, Dallas, Greene, Polk, Christian, Lawrence"
+"Spitzmiller","Tasha","M","2024-08-31T00:00:00.000",,"(573) 300-7290","1760 Co Rd 103
+Ironton, MO 63650
+(37.618158, -90.651519)","Wayne, Reynolds, St. Francois, Dent, Madison, Carter, Ste. Genevieve, Ripley"
+"Calhoun","Chandra","S","2023-07-31T00:00:00.000",,"(417) 207-1730",,"Webster,  Greene, Christian,  Dallas"
+"Michael","Ronald","W.","2022-08-31T00:00:00.000","Michael Inspection Services LLC","(636) 887-6929","23 Woodline Drive
+Winfield, MO 63389","Morgan, Camden, Lincoln, Warren"
+"Robben Jr","Kevin","W","2023-06-30T00:00:00.000","All Weather Sewer Service Inc","(636) 797-2345","5300 Lazy Acres
+DeSoto, MO 63020
+(38.210012, -90.551236)","St. Louis, Jefferson, Franklin, Ste. Genevieve"
+"Clarke, Jr","Lawrence","F","2025-04-30T00:00:00.000","Clarke Development LLC","(417) 733-0144","227 Roberts Rd
+Long Lane, MO 65590
+(37.585006, -92.997319)","Dallas, Polk, Greene, Hickory, Cedar, Dade, Laclede, Webster"
+"Hawkins","James","M","2024-12-31T00:00:00.000","MH Inspection Services LLC","(573) 721-3816","P O Box 472
+Perry, MO 63462","Pike, Marion, Monroe, Shelby, Audrain, Randolph, Montgomery, Warren"
+"Yarbrough","David",,"2023-01-31T00:00:00.000","ABF Pumping & Yarbrough Co Inc","(573) 472-1464","PO Box 327
+Matthews, MO 63867","Scott,  Mississippi,  New Madrid, Stoddard"
+"Strong","Brandon","M","2024-06-30T00:00:00.000","Pro-View Home Inspections","(816) 383-1935","11071 SE 32nd Rd
+St. Joseph, MO 64507
+(39.65085, -94.805055)","Buchanan, Andrew, Clinton, Platte, Clay"
+"Floyd","Dr. Willie","N.","2022-08-31T00:00:00.000",,,"
+, MO 
+(38.3675, -92.477244)",
+"Higgins","Jason","L","2022-11-30T00:00:00.000","J. Higgins Plumbing & Septic Co.","(573) 358-2223","113 Northwood Drive
+Bonne Terre, MO 63628","St. Francois, Jefferson, Ste. Genevieve, Washington, Madison, Iron, Franklin, Reynolds"
+"Morris","John","R","2025-03-31T00:00:00.000","Maynard","(417) 230-1772","848 Maynard Rd.
+Nixa, MO 65714
+(37.056492, -93.340088)","Christian, Greene, Stone, Taney, Barry, Polk"
+"Whitebread","Shawn","W.","2023-07-31T00:00:00.000","Inspect It!","(660) 951-3200","27029 Wanoma Way
+Warsaw, MO 65355
+(38.299452, -93.484765)","Henry, St. Clair, Hickory, Morgan, Camden, Benton"
+"Proctor","Keith","R","2023-11-30T00:00:00.000","Central Missouri Home Inspections","(573) 289-7077","2541 W. Dripping Springs Rd
+Columbia, MO 65202
+(39.086494, -92.372891)","Boone, Howard, Callaway, Randolph, Audrain, Cooper, Cole, Moniteau"
+"Black","Daniel","J.","2025-04-30T00:00:00.000","Black's A-1 Septic LLC","(573) 739-1140","804 County Road 5380
+Bunker, MO 63629","Reynolds, Phelps, Shannon, Texas, Crawford, Dent"
+"Smith","Robert","L","2025-05-31T00:00:00.000","Property Investigations","(573) 291-6065","4937 Co Rd 480
+Tebbetts, MO 65080
+(38.656661, -91.984333)","Boone,  Callaway,  Cole,  Osage,   Moniteau, Audrain"
+"Driskill","Aaron","J","2024-12-31T00:00:00.000","Cornerstone Property Inpections","(417) 209-4321","PO Box 51
+Republic, MO 65738","Greene,  Stone,  Lawrence,  Barry,  Christian, Taney"
+"Rush","Brenda","K","2024-04-30T00:00:00.000","Brenda K. Rush","(636) 296-1211","PO Box 250
+Dittmer, MO 63023","Jefferson, St. Louis County, Franklin, St. Charles"
+"Motley","Joshua","S.","2024-12-31T00:00:00.000","Home Performance Group LLC","(816) 635-2493","301 N. Sam Barr Drive
+Kearney, MO 64060
+(39.374319, -94.380521)","Clinton, Platte, Ray, Caldwell, Clay, Lafayette, Buchanon, DeKalb, Jackson, Cass"
+"Kimrey","Chandler","K","2025-04-30T00:00:00.000","Kimrey Complete LLC","(816) 284-5191","3917 NW 74th Street
+Kansas City, MO 64151
+(39.227896, -94.626079)","Platte, Buchanan, Clay, Clinton, Ray, Caldwell, DeKalb, Lafayette, Andrew, Daviess, Carroll, Jackson"
+"Madonna","Bryon","J.","2023-07-31T00:00:00.000","Madonna's Septic and Sewer Solutions","(314) 486-8241","5426 State Road B
+Hillsboro, MO 63050
+(38.23135, -90.609784)","Jefferson, St. Louis, Ste. Genevieve, Washington, St. Francois"
+"Wilcockson","Rick",,"2022-08-31T00:00:00.000","Accurate Septic & Well Inspections","(636) 262-1303","160 Stable Ridge Dr.
+Troy, MO 63379
+(38.988211, -90.905196)","Lincoln, St. Charles, Stl. Louis, Warren, Pike, Montgomery, Jefferson, Franklin"
+"Girardier","Matthew","L","2023-01-31T00:00:00.000","Matt Girardier Excavating, LLC","(636) 629-7925","622 Elk Run
+St. Clair, MO 63077
+(38.305704, -90.936893)","Franklin, Crawford, Jefferson, Washington"
+"Stanley","Michael","G.","2024-12-31T00:00:00.000","Pomme Septic Services LLC","(417) 754-8630","18488 Hampton Drive
+Wheatland, MO 65779","St. Clair, Hickory, Polk, Cedar, Dade, Dallas, Henry, Camden"
+"Vandivort","William","Eric","2024-03-31T00:00:00.000","Wise Inspections","(417) 818-0947","6047 E Farm Rd 170
+Rogersville, MO 65742
+(37.134474, -93.167567)","Greene, Webster, Polk, Christian, Wright, Denton, Dade, Texas"
+"Hicks","Dick",,"2022-09-30T00:00:00.000","Advanced Septic Technologies","(816) 716-4776","1602 NE Northaven
+Gladstone, MO 64118
+(39.213443, -94.560482)","Clay, Cass, Platte,  Johnson, Jackson, Ray, Lafayette, Bates"
+"Schatz","Jason","M","2023-03-31T00:00:00.000","Mr. Rooter Plumbing","(636) 629-9955","559 Walls Ford Road
+St. Clair, MO 63077
+(38.293138, -90.969868)","St. Charles, Franklin"
+"Boyer","Tiffany","L","2024-03-31T00:00:00.000","Simple Septic Inspections","(573) 714-2596","3032 Harris Rd
+Bonne Terre, MO 63628
+(37.879454, -90.505513)","Madison, Jefferson, Washington, Iron, St. Francois, Ste. Genevieve"
+"Maulsby","Ron","L","2025-04-30T00:00:00.000","Blackwater Septic","(816) 401-5154","304 Morningside Terrace
+Richmond, MO 64085
+(39.275953, -93.957207)","Ray, Clay, Caldwell, Lafayette, Clinton"
+"Crabtree","Don","E","2024-12-31T00:00:00.000","Precision Backhoe Service, DBA Nevada Plumbing","(417) 448-9712","703 E Maple St.
+Nevada, MO 64772
+(37.833806, -94.347722)","Cedar,  Hickory,  Barton,  Bates,  St. Clair,  Jasper,  Benton,  Cass,  Vernon"
+"Menne","Bernard (Butch)","E","2023-10-31T00:00:00.000","B & J Septic Systems","(573) 384-5536","755 Mary Jo Road
+Silex, MO 63377
+(39.06729, -91.100949)","Lincoln, Warren, Montgomery, Ralls, Pike, Marion, St. Charles"
+"Gibson","Kolten","M.","2025-04-30T00:00:00.000","Gibson Maintenance & Repair/Honey-Wagon","(913) 999-2987",,"Jackson, Cass"
+"Mason","Dennis","L","2023-06-30T00:00:00.000","Dennis Mason","(816) 529-4244","202 W. 20th Street
+Holden, MO 64040
+(38.701327, -93.992739)","Cass, Pettis, Henry, Lafayette, Johnson, Jackson"
+"Johnson","Adam","K","2024-12-31T00:00:00.000","AJ Inspection Services LLC","(573) 291-3469","3296 Hwy P
+Owensville, MO 65066
+(38.373424, -91.522737)","Maries, Crawford, Franklin, Osage, Gasconade, Montgomery"
+"Bailey","Richard","J","2024-02-28T00:00:00.000","R-J Pest Control","(573) 364-0853","13690 County Rd 2036
+Rolla, MO 65401
+(38.005126, -91.736482)","Phelps, Pulaski, Dent, Crawford, Marie"
+"Trevino","Mario","X","2023-03-31T00:00:00.000","Peace of Mind Home Inspections","(573) 491-8702","2017 County Road 372
+New Bloomfield, MO 65063
+(38.699268, -92.124433)","Callaway, Cole, Boone, Audrain, Howard, Cooper, Moniteau, Miller, Morgan"
+"Robertson","Christopher","Allen","2025-04-30T00:00:00.000","Greenvway Environmental Services, LLC","(417) 251-1380","190 Bobcat Court
+Forsyth, MO 65653
+(36.732932, -93.12059)","Taney, Stone, Greene, Christian, Douglas"
+"Chura","Thomas","J","2024-04-30T00:00:00.000","Show Me Soils LLC","(636) 797-5310","725 Maple Street
+Hillsboro, MO 63049
+(38.22871, -90.564512)","Jefferson, St. Charles, St. Louis, Warren, Franklin"
+"Collins","David","W","2024-03-31T00:00:00.000","DC Plumbing & Backhoe Service","(417) 469-5018","608 Belshe Avenue
+Willow Springs, MO 65793
+(36.995277, -91.960225)","Howell, Texas, Shannon, Douglas, Ozark, Oregon, Dent, Wright"
+"Norman","Robert","D","2025-04-30T00:00:00.000",,"(417) 606-0601","
+, MO 
+(38.3675, -92.477244)","Lawrence, Barry, Stone, Newton, McDonald, Jasper, Christian, Taney, Dade"
+"Dannenmueller","James","P.","2023-08-31T00:00:00.000","Sensible Solutions Heating Cooling Plumbing",,"27845 US Highway 61
+Scott City, MO 63780
+(37.181268, -89.55484)","Cape Girardeau, Bollinger, Perry, Stoddard"
+"Rice","Brent","A","2023-11-30T00:00:00.000","Buyer's Protection Group","(573) 723-0237","5824 Bluebird Circle
+Osage Beach, MO 65065
+(38.138265, -92.687867)","Camden, Miller, Morgan, Cole"
+"Feth","Denise","D","2024-04-30T00:00:00.000","Patriot Inspections LLC","(636) 266-9777","51 David Ave
+Union, MO 63084
+(38.434903, -91.018274)","Gasconade, Franklin, Warren, Crawford, St. Louis, St. Charles"
+"Shaw","Timothy","M.","2024-12-31T00:00:00.000","Stewart Inspection Services","(417) 422-0379","P O Box 798
+Bolivar, MO 65613","Polk, Cedar, Hickory, Dallas, St. Clair, Dade, Greene, Henry, Laclede"
+"Buck","Chris","J","2024-12-31T00:00:00.000","National Property Inspections","(636) 940-1005","PO Box 937
+St. Charles, MO 63302","Lincoln, Warren, St. Louis, Jefferson, St. Charles"
+"O'Connor","Alec","J.","2023-07-31T00:00:00.000","O'Connor Excavation","(816) 682-4973","7408 Maywood Avenue
+Raytown, MO 64133
+(38.988239, -94.46208)","Jackson, Cass, Clay, Johnson, Ray, Platte, Lafayette"
+"Schutte","Kevin","W","2024-12-31T00:00:00.000","Pooles Septic Systems","(573) 358-7905","PO Box 239
+Bonne Terre, MO 63628","St. Francois, Ste. Genevieve, Franklin, Washington, Madison, Jefferson, Iron, Reynolds, Cape Girardeau, St. Louis"
+"Smith","Wesley","J.","2024-12-31T00:00:00.000","Coltrane Inspection & Handyman Services, LLC","(417) 699-1394","180 Lake Club Drive, 39-21
+Branson, MO 65616
+(36.599824, -93.283562)","Stone, Christian, Greene, Ozark, Douglas, Barry, Jasper, Newton, McDonald, Lawrence, Webster"
+"Calkins","Duff","A","2024-04-30T00:00:00.000","Duffers Septic Solutions","(417) 214-9489","8338 Coyote Dr
+Seneca, MO 64865
+(36.950093, -94.561091)","Newton, McDonald, Jasper, Perry, Lawrence"
+"Cummings","Seth","A","2024-08-31T00:00:00.000","C&L Grease and Wastewater Services, LLC","(417) 717-0587","1140 E 1st Street
+Carterville, MO 64835
+(37.144799, -94.431214)","Newton, McDonald, Lawrence, Barton"
+"Earp","Nathan","P.","2023-11-30T00:00:00.000","Central MO All Service Plumbing","(573) 964-5331","187 Wood River Road
+Lake Ozark, MO 65049
+(38.185015, -92.60009)","Camden, Morgan, Laclede, Cole, Miller"
+"Lindsay","John","J.","2024-04-30T00:00:00.000","J & L Underground Construction LLC","(417) 456-0351","12013 Karma Lane
+Neosho, MO 64850
+(36.89269, -94.426156)","Jasper, Newton, McDonald, Lawrence, Barry, Dade"
+"Torrans","Joaquin",,"2022-11-30T00:00:00.000","Boiling Springs Resort","(573) 674-3488","15750 Highway BB
+Licking, MO 65542
+(37.462878, -91.944923)","Phelps, Pulaski, Laclede, Dent, Texas, Shannon, Howell, Douglas"
+"Chandler","Bruce","L","2024-03-31T00:00:00.000","V L Coker","(417) 236-8293","337 South Bel Aire
+Monett, MO 65708
+(36.9058, -93.930653)","Lawrence, Barry, Christian, Jasper, Newton, Stone, McDonald, Greene"
+"George","Stephen","L","2024-08-31T00:00:00.000","Curious Inspection Services","(573) 434-2102","64 Oriole Court
+Lake Ozark, MO 64049","Miller, Morgan, Cole, Laclede, Camden"
+"Boyd","Richard",,"2024-04-30T00:00:00.000","R. L. Boyd Construction","(417) 840-0500","105 Shouse Street
+Greenfield, MO 65661
+(37.417556, -93.843697)","Cedar, Greene, Lawrence, Christian, Dade, Jasper, Barton"
+"Durbin","Kelley","M","2024-03-31T00:00:00.000","Kaysinger Liquid Waste LLC","(573) 885-3341","PO Box 117
+Cuba, MO 65453","Franklin, Phelps, Dent, Crawford, Maries, Jefferson, Washington"
+"Myers","Timothy","W","2022-09-30T00:00:00.000","A-1 Onsite Inspections LLC","(314) 578-7198","13760 HWY JJ
+Desoto, MO 63020","St. Francois, Washington, Jefferson, Ste. Genevieve, St. Louis, Franklin"
+"Dedmon","Dennis","A","2022-11-30T00:00:00.000","Midwest Home Inspections","(417) 872-7327","P O Box 167
+Hartville, MO 65667","Greene, Webster, Douglas, Christian, Wright, Stone, Ozark, Texas"
+"Sheremeta","Viktor","I","2025-04-30T00:00:00.000","Masterpiece Septics","(660) 221-5838","3625 Hwy M
+Sedalia, MO 65301
+(38.676912, -93.186557)","Pettis, Benton, Johnson, Cooper"
+"Hanner","Roger","D.","2025-04-30T00:00:00.000","Hanner Pumping & Precast","(573) 300-1214","312 Shelly Lane
+Poplar Bluff, MO 63901
+(36.729296, -90.526334)","Butler, Ripley, Carter, Stoddard"
+"Ratliff","Jason","B","2022-09-30T00:00:00.000","7 Oaks Home Inspection, LLC","(636) 456-0001","16995 Hwy M
+Warrenton, MO 63383","St. Charles,  Lincoln,  Warren,  Franklin, Pike, Montgomery, Jefferson, St. Louis"
+"Slone","Andrew","J","2024-12-31T00:00:00.000","Mirowski Inspections LLC","(417) 873-9517","1500 E St. Louis Street
+Springfield, MO 65802
+(37.209394, -93.267635)","Christian, Dallas, Webster, Lawrence"
+"Schad","Steven","C.","2022-08-31T00:00:00.000","Sewer-Oscopy LLC","(314) 703-3608","5660 Telegraph Rd
+St. Louis, MO 63129
+(38.466311, -90.305886)","St. Louis, St. Charles, Jefferson, Franklin"
+"LaFevers","Rick","B","2025-06-30T00:00:00.000","Rick LaFevers Home Inspections","(417) 830-7536","11380 Farm Road 1259
+Cape Fair, MO 65624
+(36.76697, -93.595946)","Barry,  Stone,  Lawrence,  Christian,  Taney"
+"Wallace","Brian","G","2024-03-31T00:00:00.000","Wallace Construction LLC","(417) 327-7449","914 E 420th Rd
+Bolivar, MO 65613
+(37.642063, -93.46273)","Cedar,  Dallas, Greene,  Polk,  Webster,  Hickory"
+"Gress","Dave","M","2023-11-30T00:00:00.000","My Home Inspector Pro","(417) 693-1084","920 E. Northfield Road
+Springfield, MO 65803
+(37.283006, -93.279033)","Lawrence, Christian, Webster, Dallas, Greene, Polk, Hickory, Taney, Laclede, Stone, Lawrence, Berry, Dade, Wright, Cedar, Ozark, Jasper, Newton, Barton"
+"York","Jason","T","2024-08-31T00:00:00.000","Apex Underground LLC","(816) 223-2400","23910 S Lucille Lane
+Peculiar, MO 64078
+(38.688316, -94.487175)","Cass, Jackson, Johnson, Bates, Clay, Platte, Henry, Lafayette, Ray"
+"Girard","Harold","E.","2023-11-30T00:00:00.000","Castle Custom Homes","(573) 356-1050","4210 Yeager Road
+Columbia, MO 65202
+(39.004275, -92.415323)","Randolph, Callaway, Cooper, Audrain, Boone, Saline"
+"Bettes","Melissa","S","2023-11-30T00:00:00.000","MB Soil Consulting","(417) 434-2287","153 Martha St
+Ozark, MO 65721
+(37.006374, -93.231561)","Stone,  Taney,  Barry,  Christian,  Ozark,  Morgan Clay"
+"Copeland","Bryson","M","2024-03-31T00:00:00.000","Copeland Home Inspection","(816) 262-1262","3703 Robin Ln
+St. Joseph, MO 64506
+(39.801748, -94.803052)","Buchanan, Andrew, Holt, Clinton, Nodaway, Dekalb, Platte, Clay, Jackson"
+"Houska","Stephen","A","2023-07-31T00:00:00.000","QWK LLC Home Inspections","(573) 434-4521","1641 Cape Wood Drive
+Linn Creek, MO 65052
+(38.055523, -92.721616)","Miller, Pulaski, Laclede, Morgan, Camden"
+"Turpin","Jessica","M","2025-04-30T00:00:00.000","Jessica M Turpin","(573) 286-0682","41168 High Point Rd.
+Russellville, MO 65074
+(38.470947, -92.591299)","Moniteau, Miller, Morgan, Cole, Camden"
+"Jeffery","Robert",,"2024-03-31T00:00:00.000","Jeffery Septic Systems","(816) 716-1134","409 E Orchard
+Odessa, MO 64076
+(38.995781, -93.945864)","Lafayette, Jackson, Johnson, Ray"
+"Vest","Dakota",,"2024-04-30T00:00:00.000","Cornerstone Property Inspections LLC","(417) 209-4321","PO Box 51
+Republic, MO 65738","Webster, Christian, Taney, Polk, Greene, Dallas, Laclede, Texas"
+"Harris","Perry","D.","2023-11-30T00:00:00.000","Sherlock Home Inspection","(417) 531-0045","172 Wolf Point
+Camdenton, MO 65020
+(38.05655, -92.78832)","Pulaski, Laclede, Miller, Morgan, Cole, Benton, Phelps, Maries"
+"Franke Jr","John",,"2022-11-30T00:00:00.000","ARK Plumbing LLC","(816) 320-3209","630 Cleveland St
+Holt, MO 64048
+(39.451969, -94.34913)","Clay, Jackson, Buchanon, Clinton, Platte, Ray, Dekalb, Cass"
+"Pimentel","Daniel","J","2025-04-30T00:00:00.000","A-1 Sewer & Septic Services","(816) 419-5974","1891 Meriam Ln
+Kansas City, KS 66106
+(39.049543, -94.650918)","Caldwell, Clinton, Dekalb, Clay, Platte, Ray, Jackson, Cass"
+"Keast","Kenneth","E","2024-04-30T00:00:00.000",,"(816) 456-5420","1216 NE Barry Rd
+Kansas City, MO 64155
+(39.246312, -94.565346)","Camden, Benton, Morgan, Henry, Miller, Moniteau, Cooper, Platte, Clay, Ray, clinton, Buchanan, Lafayette, Pettis"
+"McClernon","Robert","B","2025-01-31T00:00:00.000","Extra Mile Home Insp. Serv. LLC","(417) 619-7098","2061 W Union Chapel Rd
+Nixa, MO 65714
+(37.058861, -93.362377)","Taney, Stone, Greene, Lawrence, Dallas, Polk, Webster, Douglas"
+"Weisbrod","Dale","C","2023-10-31T00:00:00.000","Sewer Scopes LLC","(314) 630-6710","1824 Orchard Lane
+Festus, MO 63028
+(38.22506, -90.424712)","Franklin, Washington, St. Francois, Ste. Genevieve, Jefferson, Perry, Cape Girardeau, Bollinger"
+"Merrell","Eugene","E.","2023-08-31T00:00:00.000","K-Mel Industries","(913) 681-3563","7105 Blackbob Drive
+Stillwell, KS 66085
+(38.783299, -94.670142)","Jackson, Cass, Clay"
+"Williams","Jonathan","T","2025-04-30T00:00:00.000",,"(573) 535-4297","21726 Palmer Lane
+St. Mary, MO 63673
+(37.855652, -90.059805)","Perry, St. Francois, Iron, Cape Girardeau, Ste. Genevieve"
+"Banwart","Devin","S","2024-03-31T00:00:00.000","Pillar to Post Home Inspections","(417) 631-1315","4601 North 16th Street
+Ozark, MO 65721
+(37.062146, -93.222124)","Greene, Taney, Stone, Christian, Polk, Webster"
+"Greer","Steven","A","2024-03-31T00:00:00.000","Pillar to Post Home Inspections","(417) 631-1315","4601 North 16th Street
+Ozark, MO 65721
+(37.062146, -93.222124)","Greene, Christian, Stone, Taney, Polk, Webster"
+"Romer Jr","Paul",,"2024-03-31T00:00:00.000","AAA Certified Home Inspections","(816) 232-5522","3300 Dale  Ste 201
+St. Joseph, MO 64506
+(39.794435, -94.813038)","Buchanan, Andrew, Platte, Jackson, Clay, Atchison, Holt, Worth, Nodaway, DeKalb"
+"Conduff","Donna","C","2022-09-30T00:00:00.000","Letts & Demery Pump Inc","(417) 624-0426","10498 Hammer Rd.
+Neosho, MO 64850
+(36.916367, -94.426123)","Newton, McDonald, Jasper, Lawrence"
+"Rickey","Dale",,"2022-08-31T00:00:00.000","Dale's Septic Solutions","(816) 286-9712","3016 Highway OO
+Odessa, MO 64076
+(38.958799, -94.001291)","Lafayette, Johnson, Jackson, Ray"
+"Tyndall","Martin","E.","2023-07-31T00:00:00.000","PTL Home & Septic Inspections LLC","(417) 250-0747","RR 3 Box 201A
+Ava, MO 65608","Christian, Taney, Webster, Wright, Douglas, Greene, Stone, Ozark"
+"Labby","Zachary","G","2024-04-30T00:00:00.000","Reliable Plumbing & Septic Inc","(573) 486-3159","1502 Hwy 19 S
+Hermann, MO 65041
+(38.693931, -91.441762)","Franklin, Montgomery, Osage, Crawford"
+"Lynch Jr.","Bill","R","2024-03-31T00:00:00.000","Palladian Home Inspection, LLC","(573) 454-5660","P O Box 241
+Potosi, MO 63664","Washington, Crawford, Jefferson, Ste. Francois"
+"Stewart","Perry","Allan","2023-03-31T00:00:00.000","Green Acres Septic Tank Service","(573) 529-6706","PO Box 67
+Williamsburg, MO 63388","Callaway, Audrain, Boone, Montgomery, Warren, Cole, Howard, Cooper"
+"Myers","Michael","E","2023-07-31T00:00:00.000","Central Missouri Building Inspections","(573) 964-5888","32082 Ginger Rd
+Gravois Mills, MO 65037
+(38.219398, -92.767542)","Morgan, Camden, Miller, Pettis, Clay, Jackson, Clinton, Osage"
+"Darden","Joshua","L","2025-03-31T00:00:00.000","Armor Construction","(417) 779-2457","72 Curtis Lane
+Kimberling City, MO 65686
+(36.63084, -93.45724)","Stone, Taney, Christian, Greene, Barry"
+"Estes","Caleb","A.","2024-08-31T00:00:00.000","Pillar to Post Home Inspectors - Estes Team","(573) 419-9288","1582 Roth Drive
+Scott City, MO 63780
+(37.19443, -89.477702)","Scott, Cape Girardeau, Perry, Bollinger, Stoddard, Mississippi"
+"Bullock","Travis","M","2023-01-31T00:00:00.000","Bullock Septic Pumping LLC","(573) 374-6688","172 Flagstone Rd.
+Gravois Millls, MO 65037
+(38.220042, -92.813866)","Morgan, Camden, Miller, Benton"
+"Pankovits","""Bo"" Robert","A","2025-04-30T00:00:00.000","Clear Inspections LLC","(417) 294-7656","199 Hoot Owl Point
+Kimberling City, MO 65686
+(36.614342, -93.456204)","Stone, Taney, Greene, Barry, Christian"
+"Henson","Tim","E","2022-08-31T00:00:00.000","Tim E Henson","(573) 578-0989","7111 Grob Rd.
+Gerald, MO 63037
+(38.369413, -91.267125)","Franklin, Gasconade, Crawford, Warren, St. Louis, Jefferson, St. Charles"
+"Degraffenreid","David","J","2022-07-31T00:00:00.000","DeGraffenreid Excavating & Construction","(573) 302-1799","282 Bear Creek Road
+Brumley, MO 65017
+(38.164489, -92.529216)","Miller, Morgan, Camden, Laclede, Pulaski, Cole, Benton, Dallas"
+"Franken","Kristopher","M","2024-04-30T00:00:00.000","RK Services","(573) 216-1145","1064 Crystal Springs Road
+LinnCreek, MO 65052
+(38.095059, -92.715275)","Miller, Morgan, Laclede, Camden"
+"Sucher","Mark","L","2022-08-31T00:00:00.000","US Inspect","(314) 402-6877","109 Meadow Lane
+Ladadie, MO 63055
+(38.52736, -90.87193)","Franklin, St. Louis, Warren, Jefferson, Crawford"
+"Scott","Tyler","J","2024-03-31T00:00:00.000","7 Oaks Home Inspection - BPG","(636) 456-0001","10097 Manchester Rd, Ste 200
+St Louis, MO 63122
+(38.602431, -90.388822)","Warren  Lincoln  St. Charles  Montgomery  St. Louis  Pike  Franklin  Jefferson"
+"Sickmyre","Austin","M","2024-08-31T00:00:00.000","Complete Inspection, LLC","(417) 849-1973","837 S Pin Oak Drive
+Springfield, MO 65809
+(37.196815, -93.192737)","Greene, Christian, Stone, Webster, Dallas, Polk, Dade, Larence, Taney"
+"Bruck","Jason","R.","2022-08-31T00:00:00.000","Our Family Home Inspection Services","(660) 492-7690","365 Entry Road
+Ridgedale, MO 65739
+(36.525489, -93.257669)","Stone, Greene, Christian, Barry"
+"Martin","R. Dale",,"2024-03-31T00:00:00.000","Onsite Wastewater","(573) 842-7328","PO Box 354
+Devils Elbow, MO 65457","Miller, Camden, Maries, Pulaski, Laclede, Texas, Phelps"
+"Christiansen","Adam","D","2023-03-31T00:00:00.000","Rock n'Excavating","(816) 651-7470","15810 Co Rd C
+Kearney, MO 64060
+(39.379576, -94.445207)","Clay, Clinton, Ray, Platte, Jackson"
+"Paul","Garry","A","2023-11-30T00:00:00.000","Cooter's Septic LLC","(816) 419-5974","504 Center Street
+Lathrop, MO 64465
+(39.547484, -94.329002)","Ray, Clay, Platte, Caldwell, Clinton, Buchanon, Jackson"
+"Bowles","Wesley","T.","2022-08-31T00:00:00.000","MB Soil Consulting","(417) 434-2287","153 Martha Street
+Ozark, MO 65721
+(37.006374, -93.231561)","Christian, Stone, Taney, Greene"
+"Geyer","Joel","D.","2022-08-31T00:00:00.000","Cedar Ridge Inspections, LLC","(417) 812-5602","5626 S. Farm Road 59
+Republic, MO 65738
+(37.115294, -93.525406)","Dade, Lawrence, Christian, Polk, Greene, Webster"
+"Schutte","Zackery","D.","2023-08-31T00:00:00.000","Poole Septic Systems","(573) 631-5927","11636 Old 8 East
+Mineral Point, MO 63660
+(37.893789, -90.681102)","St. Francois, Ste. Genevieve, Crawford, Iron"
+"Murphy","Brenden","R","2025-03-31T00:00:00.000","Show Me Soils","(636) 629-1788","PO Box 73
+St. Clair, MO 63077","Franklin, Jefferson, St. Louis, St. Charles, Franklin"
+"Cribb","Paul","T (Tim)","2023-07-31T00:00:00.000","Pillar Premier Inspections","(573) 363-5511","803 Upper Prairie Hollow Rd
+Macks Creek, MO 65786
+(37.993172, -92.910698)","Miller, Camden, Benton, Dallas, Polk, Hickory, Greene, Laclede, Webster"
+"York","Shawn","E","2022-08-31T00:00:00.000","Mid-Mo Earth Works","(573) 636-3921","3034 Rock Ridge Road
+Jefferson City, MO 65109
+(38.550183, -92.237726)","Callaway, Osage, Moniteau, Miller, Cole"
+"Ing","Michael","J","2023-06-30T00:00:00.000","All Weather Sewer Service Inc","(636) 797-2345","5300 Lazy Acres
+DeSoto, MO 63020
+(38.210012, -90.551236)","St. Louis, Jefferson, Franklin, Ste. Genevieve"
+"Hardison","Brent","L","2022-08-31T00:00:00.000","A-Pro Home Inspections","(417) 894-1782","4319 S. National Ave., #216
+Springfield, MO 65810
+(37.135768, -93.278378)","Greene, Douglas, Pulaski, Phelps"
+"Thompson","Brett",,"2023-11-30T00:00:00.000","Strong Hold Inspections","(417) 818-9524","1041 State Road M
+Conway, MO 65632
+(37.5094, -92.864093)","Laclede, Webster, Pulaski, Wright, Dallas, Polk, Camden, Greene"
+"Walker","Tyler",,"2024-12-31T00:00:00.000","Freedom Home Inspections","(417) 894-1782","4319 S National Ave, #216
+Springfield, MO 65810
+(37.135768, -93.278378)","Lawrence, Christian, Webster, Dallas; Greene, Polk, Cedar, Wright, Laclede"
+"Jenkins","Shaun","J","2024-12-31T00:00:00.000","Midcoast Property Inspections","(573) 216-4372","31 Hwy MM
+Eldon, MO 65026
+(38.366465, -92.466456)","Morgan, Cole, Camden, Moniteau, Miller"
+"Corn","John","A","2025-04-30T00:00:00.000","All Over the House",,"100 S Glenwood
+Columbia, MO 65203
+(38.950547, -92.347208)","Boone, Callaway, Randolph, Howard, Cooper, Audrain, Moniteau, Cole"
+"Cavaness","Joshua","B","2022-08-31T00:00:00.000","Chapman Septic Services LLC","(816) 690-7206","P O Box 870
+Oak Grove, MO 64075","Jackson, Cass, Lafayette, Johnson"
+"Rafter","Michelle","L","2023-07-31T00:00:00.000","Got Your Six Home Inspections","(573) 466-3909","13810 Forrest Road 1892
+Rolla, MO 65401","Crawford, Pulaski, Maries, Franklin, Dent, Phelps"
+"Sims","Catherine","J","2023-03-31T00:00:00.000","Rose Septic Tank Cleaning Inc","(816) 356-7673","1090 NE Blackwell Rd
+Lee's Summit, MO 64086
+(38.931717, -94.317777)","Jackson, Cass, Clay, Platte, Lafayette, Johnson"
+"Dykes","Nicholas","W","2024-03-31T00:00:00.000","Dykes Construction LLC","(816) 580-4100","7777 SE 69 Highway
+Lawson, MO 64062","Clay, Ray, Platte, Caldwell"
+"Lamarche","Leonard","J","2023-11-30T00:00:00.000","Len's Backhoe Services","(417) 538-4065","202 Holiday Hills Dr.
+Cape Fair, MO 65624
+(36.747368, -93.5183)","Stone,  Taney,  Barry"
+"Schad","Chris","W.","2022-08-31T00:00:00.000","Sewer-Oscopy LLC","(314) 703-3608","5660 Telegraph Rd
+St. Louis, MO 63129
+(38.466311, -90.305886)","St. Louis, St. Charles, Jefferson, Franklin"
+"Monroe","Michael","D","2023-10-31T00:00:00.000","On Site LLC","(417) 880-7062","PO Box 307
+Nixa, MO 65714","Greene, Christian, Taney, Stone, Lawrence, Polk, Hickory, Webster, Dallas, Laclede, Dade"
+"Calton","Dave","B","2025-04-30T00:00:00.000","Digger Dave LLC","(816) 873-2208","30940 West 216th Street
+Lawson, MO 64062
+(39.483922, -94.206303)","Clay, Clinton, Jackson, Platte, Ray, Caldwell, Daviess, DeKalb, Buchannan"
+"Bieg Jr","Dennis","J","2023-11-30T00:00:00.000","Bieg Plumbing","(314) 487-4564","2015 Lemay Ferry Road
+St Louis, MO 63125
+(38.525079, -90.2967)","St. Louis, St. Charles"
+"Gingles","Timothy","A","2024-12-31T00:00:00.000","Gingles Inspections","(816) 210-2300","
+, MO 
+(38.3675, -92.477244)","Taney, Stone, Christian, Ozark, Douglas, Barry, Lawrence, Christian"
+"Lindsey","Maranda","D.","2022-11-30T00:00:00.000","Missouri Soil Solutions","(417) 321-2221","6175 N Farm Road 105
+Willard, MO 65781
+(37.311541, -93.405083)","Greene, Lawrence, Christian, Polk, Dade"
+"Eales","John (JT)","T.","2023-07-31T00:00:00.000","Eales Excavating LLC","(816) 985-1747","2104 Bradford Place
+Excelsior Springs, MO 64024
+(39.344146, -94.260991)","Ray, Clay, Platte, Clinton, Jackson, Caldwell, Carroll"
+"Truninger","Susan","L","2022-09-30T00:00:00.000","Truninger Brothers, LLC","(816) 540-5673","PO Box 336
+Pleasant Hill, MO 64080","Cass, Johnson, Jackson, Lafayette, Henry, Bates"
+"Griffin","William (Bill)","C.","2022-11-30T00:00:00.000","Eagle Eye Inspection LLC","(816) 812-4211","24294 Tangle Wood Road
+St. Robert, MO 65584
+(37.810747, -92.132792)","Laclede, Texas, Phelps, Miller, Jackson, Pulaski"
+"Voisey","Jay","M","2023-10-31T00:00:00.000","Checkered Flag Excavation Inc","(636) 586-1794","12548 Ware Road
+DeSoto, MO 63020
+(38.177794, -90.687015)","Jefferson, St. Louis, Franklin, Washington, St. Francois"
+"Pankovits, Jr","Robert","A","2025-04-30T00:00:00.000","Clear Inspections LLC","(417) 339-9628","123 Chinkapin Ln
+Kimberling City, MO 65686
+(36.60492, -93.449551)","Stone, Taney, Greene, Barry, Christian"
+"Cook","Justin (Mark)","M.","2024-12-31T00:00:00.000","Cook's Home Inspection","(417) 256-0583","7299 US Highway 160
+West Plains, MO 65775
+(36.754879, -91.782444)","Oregon, Ozark, Texas, Shannon, Howell"
+"Rulon","John",,"2024-12-31T00:00:00.000","White River Home Inspection Services",,"204 Breckenridge Road
+Branson, MO 65616
+(36.690858, -93.26498)","Stone, Christian, Greene, Webster, Douglas, Lawrence, Jasper, Ozark"
+"Needy","Douglas","E","2025-03-31T00:00:00.000","Sedalia Septic & Drain","(660) 221-5200","29300 HWY 127
+Green Ridge, MO 65332
+(38.657039, -93.415681)","Pettis, Johnson, Saline, Benton, Henry, Morgan"
+"Chilton","Shawn","M","2024-06-30T00:00:00.000","All Clear Pumping & Sewer","(573) 634-0165","2701 W Main, Ste 201
+Jefferson City, MO 65109
+(38.595796, -92.220351)","Cole, Callaway, Miller, Moniteau, Morgan, Lincoln, Randolph"
+"Delaney","John","M","2024-12-31T00:00:00.000","Delaney Property Inspections, LLC","(573) 525-1634","P O Box 1882
+Camdenton, MO 65020","Camden, Morgan, Miller, Cole, Pulaski, Maries, Osage, Laclede"
+"Smith","Douglas","E.","2023-07-31T00:00:00.000","Doo Doo Dudes","(816) 686-6469","4967 NE Goodview Circle Suite B
+Lee's Summit, MO 64064
+(39.002137, -94.354537)","Jackson, Cass, Johnson, Lafayette, Camden, Morgan, Clay"
+"Simmerman","Melvin",,"2023-07-31T00:00:00.000","Honey-Wagon Septic Services","(913) 681-3563","PO Box 177
+Stilwell, KS 66085","Jackson,  Cass,  Clay,  Johnson, Ray, Platte, Clinton, Bates"
+"Burdine","Cory","L.","2023-11-30T00:00:00.000",,"(870) 204-1096","
+, MO 
+(38.3675, -92.477244)","Greene, Barry, Lawrence, Stone, Newton, Christian, McDonald, Taney"
+"Usry","Gary","D","2023-11-30T00:00:00.000","Assured Inspections","(816) 560-6010","18425 W 153rd Terrace
+Olathe, KS 66062
+(38.850565, -94.799436)","Platte, Clay, Jackson, Cass, Johnson, Lafayette, Clinton, Ray"
+"Kaysinger","Amity","G","2023-06-30T00:00:00.000","Kaysinger Liquid Waste LLC","(573) 885-3341","3418 HWY P
+Cuba, MO 65453
+(38.113918, -91.388973)","Phelps,  Pulaski, Maries, Franklin"
+"Beagle","Jack","D","2024-04-30T00:00:00.000","ProView Residential Consulting dba ProView Home In","(573) 999-5332","2651 W Rte F
+Clark, MO 65243
+(39.239985, -92.364406)","Boone, Randolph, Howard Audrain"
+"Martin","Dakota","J.","2024-04-30T00:00:00.000","Martin Pumping Service, LLC","(573) 795-5049","30783 Old Highway 61
+Taylor, MO 63471","Lewis, Marion, Ralls, Monroe, Knox, Clark, Pike"
+"Metcalf","Ryan","K.","2023-08-31T00:00:00.000",,"(417) 300-9224","
+, MO 
+(38.3675, -92.477244)","Berry, Greene, Christian, Stone"
+"Green, Jr","Andrew",,"2024-11-30T00:00:00.000","Green Home Repair & Inspections","(636) 575-1816","4 Rivermont Drive
+Crystal City, MO 63019
+(38.235516, -90.372111)","Washington, St. Louis, St. Francois, Jefferson, Ste. Genevieve, St. Charles, Franklin"
+"Stich","Howard","L.","2022-08-31T00:00:00.000","BPG Inspections","(800) 285-3001","505 Wilson Bend
+Gravois Mills, MO 65037
+(38.190982, -92.952961)","Miller, Morgan, Osage, Benton"
+"Henderson","Nicholas","L.","2024-12-31T00:00:00.000","Henderson Inspections LL","(417) 840-6894","29000 Highway NN
+Urbana, MO 65767","Hickory, Dallas, Polk, Benton, St Clair, Cedar, Dade, Henry"
+"McCullough","Michael","H","2024-06-30T00:00:00.000","Mike's Inspections","(417) 342-9782","898 State HWY H
+Shell Knob, MO 65747
+(36.551058, -93.560561)","Barry,  Stone,  Taney,  Lawrence"
+"Darden","Joseph (Andy)","A","2022-09-30T00:00:00.000","Armor Home Inspections / Armor Construction","(417) 779-2457","72 Curtis Ln
+Kimberling City, MO 65686
+(36.63084, -93.45724)","Barry, Taney, Greene, Christian, Stone"
+"Brott","Adam",,"2023-08-31T00:00:00.000","Show Me Soils","(636) 629-1788","P O Box 73
+St. Clair, MO 63077","Franklin, Jefferson, St. Louis, Crawford"
+"Rickey","Charles","J","2023-11-30T00:00:00.000","Advanced Septics","(573) 280-5629","596 Moose Hollow Rd.
+Roach, MO 65787
+(38.101926, -92.930998)","Camden,  Morgan,  Miller,  Benton"
+"Sullivan","Kevin","P","2022-08-31T00:00:00.000","R. Heyl & Associates","(314) 402-7352","766 Laretto Ridge Drive
+Labadie, MO 63055
+(38.520282, -90.87829)","Jefferson, Warren, St. Charles, Franklin"
+"Fravell","Garrett","J","2025-04-30T00:00:00.000","Garrett Consulting & Inspection Services LLC","(314) 799-9449","1241 Old Cap Au Gris
+Troy, MO 63379
+(38.978005, -90.95334)","Lincoln, Warren, St. Charles, Pike, St. Louis"
+"Erwin","Zach","G","2025-03-31T00:00:00.000","Zach Erwin Construction Inc","(417) 667-5122","PO Box 202
+Nevada, MO 64772","Vernon, Barton, Bates, Cedar, St. Clair"
+"Scott","Steven","D","2025-06-30T00:00:00.000","Mirowski Inspections","(417) 873-9517","1500 E. St. Louis Street
+Springfield, MO 65802
+(37.209394, -93.267635)","Greene, Christian, Webster, Polk, Lawrence,  Stone,  Taney,  Dade,  Dallas,  Douglas,  Hickory,  Wright,  Cedar"
+"Harrington","Jonathan","L.","2023-07-31T00:00:00.000","Southwest Septic Pumping","(417) 208-8823","10242 Foliage Road
+Joplin, MO 64804
+(36.967861, -94.457787)","Jasper, McDonald, Lawrence, Barry"
+"Kramme","Byrian","B","2023-11-30T00:00:00.000","Aris Home Inspection","(417) 886-2552","1550 West State Highway WW
+Springfield, MO 65803
+(37.332925, -93.307184)","Dallas, Hickory, Cedar, St. Clair, Greene, Christian"
+"Williams","Joseph","M","2025-04-30T00:00:00.000",,"(573) 535-0758","1109 Ridge Drive
+Perryville, MO 63775
+(37.728396, -89.847884)","St. Genevieve, St. Francois, Cape Girardeau, Iron, Perry, Madison"
+"Lucke","Christopher","W","2024-08-31T00:00:00.000","Missouri Property Inspections","(636) 528-1554","PO Box 160
+Cottleville, MO 63338","St. Charles, Lincoln, Pike, Warren, Franklin"
+"Haefner","Don",,"2023-10-31T00:00:00.000","Heartland Building Inspections","(573) 431-7197","2800 Anchor Road
+Farmington, MO 63640
+(37.862576, -90.490502)","Jefferson, Madison, Iron, Washington,  St. Francois, Ste. Genevieve, Franklin, Crawford, Dent, Reynolds, Wayne, Perry"
+"Wade","Richard","N","2024-04-30T00:00:00.000","Mavrick Enterprises","(660) 596-2376","18877 Baptist Ridge Rd
+Warsaw, MO 65355
+(38.176795, -93.355678)","Henry, Pettis, Hickory, Camden, Johnson"
+"Weddington","Randolph","Z","2025-04-30T00:00:00.000",,"(636) 535-5937","9259 Goldman Road
+Hillsboro, MO 63050
+(38.284794, -90.519262)","Jefferson, Ste. Genevieve, St. Louis, Franklin"
+"Yost","Justin","D","2025-04-30T00:00:00.000","Four Seasons Plumbing","(573) 348-2093","1125 Industrial Dr
+Osage Beach, MO 65065
+(38.126827, -92.676541)","Camden, Miller, Morgan, Laclede"
+"Ives","Richard","A","2023-03-31T00:00:00.000","Rich Ives Central MO Inspection Service","(573) 694-0994","9645 County Road 367
+New Bloomfield, MO 65063
+(38.710713, -92.095906)","Callaway, Cole, Audrain, Boone, Moniteau, Osage, Ralls"
