@@ -1,0 +1,603 @@
+CASE ID,SOURCE,DEPARTMENT,WORK GROUP,REQUEST TYPE,CREATION MONTH,CREATION YEAR,STATUS,EXCEEDED EST TIMEFRAME,CLOSED DATE,CLOSED MONTH,CLOSED YEAR,DAYS TO CLOSE,STREET ADDRESS,ADDRESS WITH GEOCODE,ZIP CODE,NEIGHBORHOOD,COUNCIL DISTRICT,PARCEL ID NO,LATITUDE,LONGITUDE,Neighborhood Census,Council Districts,County Boundary,Zip Codes
+2012001115,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Sibley Jackson County,1,2012,RESOL,N,01/05/2012,1,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012000107,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Buckner Jackson County,1,2012,RESOL,N,01/04/2012,1,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012000073,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,1,2012,RESOL,N,01/04/2012,1,2012,1,2534 Prospect Ave,"2534 Prospect Ave64127
+(39.079413, -94.552726)",64127,Wendell Phillips,3,14611,39.079413,-94.552726,234,3,7,95
+2012000452,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concers Unicorporated Jackson County,1,2012,RESOL,Y,01/05/2012,1,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012006962,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concers Unicorporated Jackson County,1,2012,RESOL,N,01/18/2012,1,2012,0,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012027881,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,3,2012,RESOL,Y,03/08/2012,3,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012013019,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/02/2012,2,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012014505,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,2,2012,RESOL,Y,02/09/2012,2,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012022495,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/27/2012,2,2012,3,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012020506,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,2,2012,RESOL,Y,02/24/2012,2,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012015692,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/08/2012,2,2012,0,2904 Blue Ridge Blvd,"2904 Blue Ridge Blvd64129
+(39.069905, -94.470132)",64129,Western Blue Township,3,47561,39.069905,-94.470132,236,3,7,155
+2012015992,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Sibley Jackson County,2,2012,RESOL,N,02/09/2012,2,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012015803,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/08/2012,2,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012028890,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,03/12/2012,3,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012019908,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,2,2012,RESOL,Y,02/23/2012,2,2012,5,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012007819,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Lone Jack Jackson County,1,2012,RESOL,Y,01/23/2012,1,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012014483,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,Y,02/07/2012,2,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012005238,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Sibley Jackson County,1,2012,RESOL,Y,01/17/2012,1,2012,5,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012025921,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/02/2012,3,2012,0,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012029097,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/09/2012,3,2012,0,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012007450,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concers Unicorporated Jackson County,1,2012,RESOL,Y,01/20/2012,1,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012029209,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,03/19/2012,3,2012,10,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012013523,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/02/2012,2,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012028630,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,03/12/2012,3,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012028808,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,03/12/2012,3,2012,4,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012011852,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,1,2012,RESOL,N,01/31/2012,1,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012014404,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,2,2012,RESOL,Y,02/07/2012,2,2012,4,2534 Prospect Ave,"2534 Prospect Ave64127
+(39.079413, -94.552726)",64127,Wendell Phillips,3,14611,39.079413,-94.552726,234,3,7,95
+2012027749,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,3,2012,RESOL,N,03/07/2012,3,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012021041,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,2,2012,RESOL,N,02/23/2012,2,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012007810,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concers Unicorporated Jackson County,1,2012,RESOL,N,01/20/2012,1,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012012329,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,1,2012,RESOL,N,02/01/2012,2,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012022181,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/27/2012,2,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012004216,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concers Unicorporated Jackson County,1,2012,RESOL,N,01/12/2012,1,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012016446,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Sibley Jackson County,2,2012,RESOL,Y,02/13/2012,2,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012020519,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,Y,02/27/2012,2,2012,6,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012006709,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concers Unicorporated Jackson County,1,2012,RESOL,N,01/18/2012,1,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012019463,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/17/2012,2,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012005221,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concers Unicorporated Jackson County,1,2012,RESOL,Y,01/17/2012,1,2012,5,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012023921,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/29/2012,2,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012023707,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/29/2012,2,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012017651,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/13/2012,2,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012005486,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,1,2012,RESOL,Y,01/17/2012,1,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012016186,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/09/2012,2,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012022359,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/27/2012,2,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012019267,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/17/2012,2,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012027747,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,03/08/2012,3,2012,2,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012012863,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,1,2012,RESOL,Y,02/02/2012,2,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012028639,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,03/12/2012,3,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012006615,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concers Unicorporated Jackson County,1,2012,RESOL,Y,01/20/2012,1,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012015013,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,Y,02/08/2012,2,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012015708,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,2,2012,RESOL,N,02/08/2012,2,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012005225,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concers Unicorporated Jackson County,1,2012,RESOL,Y,01/17/2012,1,2012,5,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012041848,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,Y,04/06/2012,4,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012032325,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Lone Jack Jackson County,3,2012,RESOL,N,03/16/2012,3,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012031822,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,3,2012,RESOL,N,03/15/2012,3,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012032520,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/19/2012,3,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012033259,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/20/2012,3,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012038932,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,3,2012,RESOL,N,03/29/2012,3,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012044314,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,04/10/2012,4,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012051280,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,04/23/2012,4,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012045643,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,04/12/2012,4,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012039656,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,04/02/2012,4,2012,3,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012035755,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/26/2012,3,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012037670,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/28/2012,3,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012038424,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/29/2012,3,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012050126,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,4,2012,RESOL,Y,04/23/2012,4,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012041030,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,04/04/2012,4,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012045291,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,04/11/2012,4,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012041278,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,04/04/2012,4,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012031617,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,03/16/2012,3,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012030093,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,03/19/2012,3,2012,7,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012044704,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,Y,04/11/2012,4,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012034277,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/20/2012,3,2012,0,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012038960,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,04/04/2012,4,2012,6,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012033451,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/20/2012,3,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012045198,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Greenwood Jackson County,4,2012,RESOL,N,04/11/2012,4,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012037679,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,3,2012,RESOL,N,03/27/2012,3,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012042818,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,04/05/2012,4,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012044784,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,Y,04/11/2012,4,2012,2,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012034647,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/21/2012,3,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012031178,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,N,03/15/2012,3,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012045747,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,4,2012,RESOL,N,04/12/2012,4,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012032897,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Lone Jack Jackson County,3,2012,RESOL,Y,03/20/2012,3,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012036284,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Greenwood Jackson County,3,2012,RESOL,Y,03/27/2012,3,2012,3,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012045504,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,04/11/2012,4,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012039924,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,3,2012,RESOL,Y,04/03/2012,4,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012063792,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,Y,05/17/2012,5,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012056532,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/02/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012067203,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/22/2012,5,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012052487,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,Y,05/01/2012,5,2012,7,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012072916,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,6,2012,RESOL,N,06/01/2012,6,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012072342,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,Y,06/02/2012,6,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012068687,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Lone Jack Jackson County,5,2012,RESOL,Y,05/25/2012,5,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012058470,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,5,2012,RESOL,N,05/04/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012056449,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/01/2012,5,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012073443,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/05/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012061828,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/10/2012,5,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012064960,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/17/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012060003,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,Y,05/09/2012,5,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012056783,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/02/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012071255,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Lone Jack Jackson County,5,2012,RESOL,Y,06/01/2012,6,2012,2,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012058083,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/04/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012066430,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,5,2012,RESOL,N,05/21/2012,5,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012067393,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,Y,05/23/2012,5,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012054746,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,04/30/2012,4,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012053301,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,06/05/2012,6,2012,41,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012058426,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,Y,05/07/2012,5,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012073173,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,Y,06/07/2012,6,2012,6,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012073009,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/03/2012,6,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012071824,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,06/01/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012063848,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,Y,05/16/2012,5,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012056695,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,Y,05/03/2012,5,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012074127,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/06/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012073826,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Greenwood Jackson County,6,2012,RESOL,N,06/05/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012058563,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/07/2012,5,2012,3,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012063068,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/15/2012,5,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012059068,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,5,2012,RESOL,N,05/07/2012,5,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012056371,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/01/2012,5,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012057048,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/02/2012,5,2012,0,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012070404,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/30/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012053670,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Greenwood Jackson County,4,2012,RESOL,N,04/26/2012,4,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012067612,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,5,2012,RESOL,N,05/23/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012066726,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,5,2012,RESOL,Y,05/23/2012,5,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012066975,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Sibley Jackson County,5,2012,RESOL,N,05/22/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012073430,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/05/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012056182,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,4,2012,RESOL,N,05/01/2012,5,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012072222,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,06/01/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012070492,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/30/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012057221,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/02/2012,5,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012057837,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/04/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012062531,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/14/2012,5,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012057710,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,5,2012,RESOL,Y,05/11/2012,5,2012,9,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012068512,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,5,2012,RESOL,N,05/24/2012,5,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012082927,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/22/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012093923,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,Y,07/16/2012,7,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012081954,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,6,2012,RESOL,Y,06/21/2012,6,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012094946,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/17/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012090883,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/08/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012090312,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Sibley Jackson County,7,2012,RESOL,N,07/09/2012,7,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012077526,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/13/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012083398,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,Y,06/25/2012,6,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012097310,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/20/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012094717,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/17/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012097096,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,7,2012,RESOL,N,07/20/2012,7,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012077045,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/12/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012095625,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/18/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012080799,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/19/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012094433,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/14/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012081236,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,Y,06/20/2012,6,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012096124,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,Y,07/19/2012,7,2012,2,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012095061,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/17/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012093456,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,7,2012,RESOL,N,07/13/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012075863,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/08/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012078776,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/14/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012097639,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/21/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012092525,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/11/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012094122,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/14/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012096516,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,7,2012,RESOL,N,07/19/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012093510,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,Y,07/16/2012,7,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012082573,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,6,2012,RESOL,N,06/21/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012078979,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,6,2012,RESOL,N,06/15/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012092104,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/10/2012,7,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012074799,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,Y,06/07/2012,6,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012097172,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,7,2012,RESOL,N,07/20/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012080505,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Sibley Jackson County,6,2012,RESOL,N,06/19/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012095789,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,7,2012,RESOL,N,07/18/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012080871,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/19/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012081464,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/20/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012090351,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/06/2012,7,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012083019,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/21/2012,6,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012081752,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,6,2012,RESOL,N,06/20/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012082258,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/21/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012087224,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/29/2012,6,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012087119,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/29/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012079739,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/18/2012,6,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012082668,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,6,2012,RESOL,N,06/21/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012083354,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,6,2012,RESOL,N,06/22/2012,6,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012103167,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,08/01/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012102493,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Greenwood Jackson County,7,2012,RESOL,N,07/31/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012102450,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Sibley Jackson County,7,2012,RESOL,N,07/31/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012111470,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Lone Jack Jackson County,8,2012,RESOL,Y,08/16/2012,8,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012098719,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,Y,07/25/2012,7,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012101403,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,Y,07/31/2012,7,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012104230,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/02/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012103128,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,08/01/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012099692,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,Y,07/26/2012,7,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012107508,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,Y,08/16/2012,8,2012,8,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012100760,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/27/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012103576,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,08/01/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012117253,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/23/2012,8,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012098503,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,Y,07/25/2012,7,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012114691,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/20/2012,8,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012119915,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,8,2012,RESOL,N,08/28/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012109613,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,8,2012,RESOL,Y,08/14/2012,8,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012119491,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/27/2012,8,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012115827,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/21/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012119031,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/27/2012,8,2012,3,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012116979,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Lone Jack Jackson County,8,2012,RESOL,N,08/23/2012,8,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012110761,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/14/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012116615,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,8,2012,RESOL,N,08/22/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012103325,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,08/01/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012099298,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/25/2012,7,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012109156,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/11/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012101197,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,7,2012,RESOL,N,07/30/2012,7,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012116349,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/22/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012135451,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/26/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012128515,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/14/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012126394,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/11/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012127354,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/12/2012,9,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012122314,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,09/01/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012139976,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Sibley Jackson County,10,2012,RESOL,Y,10/05/2012,10,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012140693,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,10,2012,RESOL,N,10/08/2012,10,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012125720,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,Y,09/11/2012,9,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012133459,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,9,2012,RESOL,N,09/24/2012,9,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012123549,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/05/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012125298,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/08/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012121397,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,8,2012,RESOL,N,08/30/2012,8,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012136487,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,Y,10/16/2012,10,2012,20,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012127809,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/13/2012,9,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012136138,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/27/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012131639,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,Y,09/20/2012,9,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012140636,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,Y,10/06/2012,10,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012133190,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/21/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012121633,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,8,2012,RESOL,N,08/31/2012,8,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012141209,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,Y,10/16/2012,10,2012,11,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012133344,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,Y,09/22/2012,9,2012,2,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012140759,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,10,2012,RESOL,N,10/08/2012,10,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012126030,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/11/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012127834,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/13/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012132191,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/19/2012,9,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012127929,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/13/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012129125,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,9,2012,RESOL,N,09/15/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012132531,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,Y,09/21/2012,9,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012140389,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/04/2012,10,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012127861,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/13/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012136858,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Greenwood Jackson County,9,2012,RESOL,N,09/27/2012,9,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012140868,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/08/2012,10,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012141348,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Levacy Jackson County,10,2012,RESOL,N,10/09/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012128621,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/14/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012130806,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/18/2012,9,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012122478,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,8,2012,RESOL,N,09/01/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012124768,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,9,2012,RESOL,N,09/07/2012,9,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012136586,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,9,2012,RESOL,N,09/27/2012,9,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012143694,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,Y,10/15/2012,10,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012151331,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/30/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012162290,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,11,2012,RESOL,N,11/27/2012,11,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012159281,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,11,2012,RESOL,N,11/16/2012,11,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012159072,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Sibley Jackson County,11,2012,RESOL,Y,11/19/2012,11,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012146299,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/18/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012155333,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,11,2012,RESOL,N,11/08/2012,11,2012,1,515 DENVER AVE,"515 DENVER AVE64124
+(39.106601, -94.521038)",64124,South Indian Mound,4,45170,39.106601,-94.521038,192,4,7,70
+2012155611,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,11,2012,RESOL,N,11/08/2012,11,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012144705,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/16/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012157674,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Greenwood Jackson County,11,2012,RESOL,Y,11/15/2012,11,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012145092,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/16/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012159285,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,11,2012,RESOL,N,11/16/2012,11,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012164104,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,11,2012,RESOL,N,11/30/2012,11,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012148649,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,10,2012,RESOL,N,10/23/2012,10,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012144105,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,Y,10/17/2012,10,2012,5,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012159282,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,11,2012,RESOL,N,11/16/2012,11,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012157727,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Emergency Animal Levacy Jackson County,11,2012,RESOL,N,11/13/2012,11,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012153095,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,11,2012,RESOL,N,11/02/2012,11,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012143511,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/12/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012163206,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,11,2012,RESOL,Y,12/05/2012,12,2012,8,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012163593,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,11,2012,RESOL,N,11/29/2012,11,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012159286,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,11,2012,RESOL,N,11/16/2012,11,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012155249,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,11,2012,RESOL,Y,11/13/2012,11,2012,7,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012159284,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,11,2012,RESOL,N,11/16/2012,11,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012149178,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,Y,11/05/2012,11,2012,13,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012144723,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/16/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012143923,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/15/2012,10,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012145929,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,10,2012,RESOL,N,10/17/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012159279,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,11,2012,RESOL,N,11/16/2012,11,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012149255,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,10,2012,RESOL,Y,11/05/2012,11,2012,13,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012159283,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,11,2012,RESOL,N,11/16/2012,11,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012152956,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,11,2012,RESOL,N,11/02/2012,11,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012150016,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Greenwood Jackson County,10,2012,RESOL,N,10/26/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012161933,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,11,2012,RESOL,N,11/27/2012,11,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012143628,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,10,2012,RESOL,N,10/12/2012,10,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012164113,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,11,2012,RESOL,N,11/30/2012,11,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012156884,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,11,2012,RESOL,N,11/10/2012,11,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012159280,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,11,2012,RESOL,N,11/16/2012,11,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012154748,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,11,2012,RESOL,Y,11/13/2012,11,2012,7,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012144094,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,Y,10/17/2012,10,2012,5,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012143760,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Levacy Jackson County,10,2012,RESOL,Y,10/17/2012,10,2012,5,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012146629,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/19/2012,10,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012148334,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,10,2012,RESOL,N,10/23/2012,10,2012,1,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012143538,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Greenwood Jackson County,10,2012,RESOL,N,10/15/2012,10,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012162761,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,11,2012,RESOL,N,11/27/2012,11,2012,0,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2012174738,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,N,12/28/2012,12,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012167607,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,N,12/07/2012,12,2012,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012170054,EDC,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Greenwood Jackson County,12,2012,RESOL,Y,12/18/2012,12,2012,5,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012171132,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,N,12/18/2012,12,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012176010,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,N,01/01/2013,1,2013,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012173912,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,Y,12/28/2012,12,2012,4,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012168429,WEB,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,Y,12/12/2012,12,2012,2,414 E 12TH ST,"414 E 12TH ST64106
+(39.100387, -94.577919)",64106,CBD Downtown,4,12614,39.100387,-94.577919,5,4,7,75
+2013000053,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Sibley Jackson County,1,2013,RESOL,N,01/02/2013,1,2013,0,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012171876,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,Y,12/20/2012,12,2012,2,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012175234,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,N,12/31/2012,12,2012,3,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012173421,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,Y,01/03/2013,1,2013,13,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012171126,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Concerns Unincorporated Jackson County,12,2012,RESOL,N,12/18/2012,12,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75
+2012174745,PHONE,NCS,NCS-Animal Health and Safety-Jackson County,Animal Emergency Unincorporated Jackson County,12,2012,RESOL,N,12/28/2012,12,2012,1,415 E 12th St,"415 E 12th St64106
+(39.099123, -94.577983)",64106,CBD Downtown,4,12926,39.099123,-94.577983,5,4,7,75

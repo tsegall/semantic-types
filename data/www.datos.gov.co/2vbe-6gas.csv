@@ -1,0 +1,237 @@
+"cons","nombre1","nombre2","apellido1","apellido2","telefono","condicion","zona","municipio","email"
+"1","GRACIELA",,"LARGO","VILLADA","3206535174","ASOJUNTAS","URBANA","LA VIRGINIA","estrelladivi@hotmail.com"
+"2","ROSALBA",,"GONZALEZ","ARREDONDO","3147884568","ASOJUNTAS","URBANA","LA VIRGINIA","rosalba948@hotmail.com"
+"3","MARIA ","IDALBA","GONZALEZ","ARREDONDO","3113932159","CONCEJALA","URBANA","LA VIRGINIA",
+"4","GRIMANESA",,"RESTREPO","ZAPATA","3216073319","Funcionario Sec Desarrollo Social","URBANA","LA VIRGINIA","grima1506@gmail.com"
+"5","LINA","MARCELA","MARIN","GRAJALES","3136163415","SALUD ALCALDIA","URBANA","LA VIRGINIA","saludpqrs@lavirginia-risralda.gov.co"
+"6","MARIA ","EUGENIA","GIRALDO","MARIN","3122698525","CONCEJALA","URBANA","LA VIRGINIA","maru.meg29@gmail.com"
+"7","LUZ","ANDREA","ZAPATA","ALZATE","3168691739","GESTORA SOCIAL","URBANA","LA VIRGINIA","andrea.zapata0519@gmail.com"
+"8","SANDRA",,"PATIÑO","ECHEVERRY","3677867","DOCENTE","URBANA","LA VIRGINIA","sanpaech@gmail.com"
+"9","CARMENZA",,"MONTOYA","HOLGUIN","3136648804","ASOJUNTAS","URBANA","LA VIRGINIA","florecita.39@hotmail.com"
+"10","MARIA ","CLEMENCIA","MACHADO",,"3123925052","LIDER VICTIMAS-AFRO","URBANA","LA VIRGINIA","clemenciarenteria1@hotmail.com"
+"11","YANET",,"PALACIO","ZULUAGA","3136645561","CONCEJALA","URBANA",,
+"12","MARIA ","CENELIA","MARIN","GALEANO","3142852473",,"RURAL","APIA",
+"13","SAIRA","GISELA","PARRA","BETANCURT","3128685459",,"URBANA","APIA","saira3212009@hotmail.com"
+"14","OMAIRA",,"CRUZ","MONCADA","3609021",,"URBANA","APIA",
+"15","FABIOLA",,"ACEVEDO","CARDONA","3609500",,"URBANA","APIA",
+"16","MARIA ","CENOBIA","TABARES","HERNANDEZ","3142153410",,"URBANA","APIA",
+"17","LUZ","ADRIANA","ECHEVERRY","OSORIO","3186526337","Comisaria de familia","URBANA","APIA","comi-apia@hotmail.com"
+"18","MARIA ","EDITH","VALENCIA","TORRES","3203501092",,"rural","APIA",
+"19","MARINA",,"CEBALLOS",,,,"URBANA","APIA",
+"20","ALEJANDRA",,"ISAO","ISAO","3216186870",,"urbana","APIA",
+"21","FABIOLA",,"AGUDELO","OSORIO","3122122644",,"rural","APIA",
+"22","LAURA","MARCELA","FRANCO","QUINTERO","3105918988",,"urbana","APIA",
+"23","BLANCA","E","ESPINOZA","OCHOA","3212896998","Directora local de salud","urbana","APIA","alcaldia.apia.gobierno@risaralda.gov.co"
+"24","ANA","MILENA","SANCHEZ","BEDOYA","3206976301",,"urbana","APIA",
+"25","LINDELIA","DE JESUS","BEDOYA","CASTAÑO","3226152701",,"urbana","APIA",
+"26","LUZ","MARINA","JARAMILLO",,"3117517599",,"urbana","APIA",
+"27","CARMENZA",,"MUÑOZ",,"3128909379",,"urbana","APIA",
+"28","CARLOS","A","CARO","ISAZA","3104716470",,"URBANA","APIA",
+"29","LUZ","ADRIANA","GOMEZ","VARGAS","3137201431","Funcionaria Alcaldia","urbana","APIA","luzgova1509@gmail.com"
+"30","ADRIANA","ANDREA","GOMEZ",,,,"urbana","APIA",
+"31","PATRICIA ",,"TORRES ","HIDALGO ","3113614281","NINGUNA ","Urbana","APIA ","patriciaalianzamora@gmail.com"
+"32","EVELIN","TATIANA ","CORRALES ","MOLINA ","3136024371","NINGUNA ","Urbana","APIA ","taticorrales1706@gmail.com"
+"33","ANA ","EVA","USUGA","CARVAJAL","3226087918","Discapacidad-victima-ch-desplazada","RURAL","La Celia",
+"34","JESICA ","JULIETH","CARDENAS","CARVAJAL","3193904199","Desplazada","RURAL","La Celia",
+"35","MARIA ","JOSEFINA","AGUIRRE","MOLIINA","3127395774","Desplazada","URBANA","La Celia",
+"36","STEFANIA",,"SOTO","OSPINA","3147385076",,"URBANA","La Celia",
+"37","LUZ","DORA","CASTAÑO","ZULETA","3128178202",,"Rural","La Celia",
+"38","LAURA","JOHANA","VASQUEZ","FERREIRA","3136798634",,"URBANA","La Celia",
+"39","ANGELA","MARIA","BETANCOURT","BEDOYA","3226848346",,"Rural","La Celia",
+"40","XIOMARA","LORENA","VELEZ","PINZON","3104567657",,"URBANA","La Celia",
+"41","LINA","DEL MAR","LONDOÑO","MUSTAFA","3207761961","SEC DESARROLLO SOCIAL","URBANA","La Celia",
+"42","YESIKA","NATALHIA","VILLA","MONTES","3148937443","GESTORA SOCIAL","URBANA","La Celia",
+"43","MARTHA","LUCIA","HENAO","RESTREPO","3128589721","CONCEJALA","URBANA","La Celia",
+"44","GLADYS","INES","VELEZ","CADAVID","3103836238","COMANDANTE POLICIA","URBANA","La Celia",
+"45","ESTEFANIA",,"BRITO","VELEZ","3148939958",,"URBANA","La Celia",
+"46","ABIGAIL",,"GUTIERREZ",,"3136228408","ADULTO MAYOR","Rural","La Celia",
+"47","MARIA ","ARNOBIA","FRANCO ","LOAIZA","3122493798-3142493798","Gestora Social",,"Santuario",
+"48","LUCERO ",,"QUINTERO",,"3687700",,,"Santuario",
+"49","MARIA ","MARGOTH","JARAMILLO ","GONZALEZ","3116323980",,,"Santuario",
+"50","ERIKA","JOHANA","PATIÑO ","FRANCO","3113152020",,,"Santuario",
+"51","ARACELLY",,"CARDONA ","MONTOYA ","3104119525","desplazada",,"Santuario",
+"52","LEIDY ","JULIANA","MONTOYA ","VALLADALES","3128433896","cabeza de hogar",,"Santuario",
+"53","OLGA ","LUCIA","RUIZ ","CASTAÑEDA","3015346493-3015032062",,,"Santuario",
+"54","OMAIRA",,"ROJAS ","GRAJALES","25,196,132",,,"Santuario",
+"55","MARY ","GLADIS","CARDONA ","HOYOS","3113213399",,,"Santuario",
+"56","MARIA ","MELFY","BEDOYA ","VELASQUEZ","3207666211",,,"Santuario",
+"57","MARIA ","PAOLA","TABORDA ","CORTES","3127743252",,,"Santuario",
+"58","MONICA","ANDREA","CASTAÑEDA",,"3116117069",,,"Santuario",
+"59","DANIELA",,"BEDOYA ","PEREA","3207152582",,,"Santuario",
+"60","MARI ","LUZ","MESA","ORREGO ","3226994003","NINGUNA ","Urbana","SANTUARIO ","marimesa90@gmail.com"
+"61","DIANA ","CAROLINA ","MEJIA ","DUQUE ","3137791321","NINGUNA ","Urbana","SANTUARIO ","dimedu69@gmail.com"
+"62","MARY ","GLADIS ","CARDONA ","HOYOS ","3113213399","PERSONERA MPAL","Urbana","SANTUARIO ","personeriasantuario@hotmail.com"
+"63","SILVIA ","LORENA","RAMOS ","MONTOYA ","3105025087","CABEZA DE HOGAR ","Urbana","PUEBLO RICO ",
+"64","LIA","DALILA ","MUÑOZ","PATIÑO ","3138793981","LGTBI ","Urbana","PUEBLO RICO ",
+"65","JAZMIN ","OLIVIA","ARANZAZO ","VARGAS ","3104616822","DESPLAZADO ","Urbana","PUEBLO RICO ",
+"66","kARINA",,"AGUDELO ","MEJIA","3128571651","NINGUNA ","Urbana","PUEBLO RICO ",
+"67","YENIFER ",,"CUESTA ","MOSQUERA ","3104595151","NINGUNA ","Urbana","PUEBLO RICO ",
+"68","RUBIELA ",,"PELAEZ ","GOMEZ ","3132742790","DESPLAZADO ","Urbana","PUEBLO RICO ",
+"69","GLORIA ","INES","FLOREZ ","VALENCIA","3146201357","desplazada","Rural","PUEBLO RICO ",
+"70","NAZLY ","OLIVA","ARANZAZU ","VARGAS","3173077432-3507697624","desplazada","Rural","PUEBLO RICO ",
+"71","EVA","MARIA","CASTRO","CARDENAS","3217386298-3046096205","desplazada-afro","Rural","PUEBLO RICO ",
+"72","CLAUDIA","YULIET","COLORADO"," ARBOLEDA ","3122692700-3206128107",,"Urbana","PUEBLO RICO ",
+"73","DORLAY ",,"JIMENEZ"," GOMEZ","3163060455","desplazada","Urbana","PUEBLO RICO ",
+"74","OMAIRA ",,"LOPEZ"," PATIÑO ","3136954399",,,"PUEBLO RICO ",
+"75","MARIA","FANY","ZAMORA",,"3177919072","Indigena - desplazada","Rural","PUEBLO RICO ",
+"76","DOLLY","HELENA ","ZULUAGA ","GONZALES ","3235361392",,"Urbana","MISTRATO",
+"77","OLGA ","ELCY","LOPEZ ","GALLEGO ","3136379495",,"Urbana","MISTRATO",
+"78","NEYIBI",,"SANCHEZ","MORALES ","3122434127",,"Urbana","MISTRATO",
+"79","GREYZ","ALEJANDRA ","VASQUEZ ","MORALES ","3122727011",,"Urbana","MISTRATO",
+"80","MAYERLY ",,"CARDONA ","ALVAREZ ","3137138638",,"Urbana","MISTRATO",
+"81","MARIA ","LUZDARY ","BUITRAGO ",,,,"Urbana","MISTRATO",
+"82","YISED","LORENA ","SANCHEZ","OSORIO ","3104730315",,"Urbana","MISTRATO",
+"83","DORA","LILIANA ","VASQUEZ ","MORALES ","3104446418",,"Urbana","MISTRATO",
+"84","LUZ ","ADIELA ","RAMIREZ ",,"3226174835",,"Urbana","MISTRATO",
+"85","LUISA ","FERNANDA ","VARGAS "," VILLADA","3226356516","GESTORA SOCIAL",,"MISTRATO",
+"86","ALEJANDRA"," MARIA","ROCHE ","BARRERA","3217708732","Funcionaria Sec Gobierno",,"MISTRATO",
+"87","LUZ "," ESTELLA","LOPEZ","MORALES","3206643481",,,"MISTRATO",
+"88","ADIELA ",,"RAMIREZ",,"3226174835",,,"MISTRATO",
+"89","MARTHA "," LILIANA","CARDONA ","MEDINA","3147493349","victima",,"MISTRATO",
+"90","JENNIFER ",,"LOPEZ ","MARIN","3136639962","desplazada-afro",,"MISTRATO",
+"91","BLANCA "," NUBIA","MARULANDA ","CARDONA","3206965060","desplazada",,"MISTRATO",
+"92","ROSA ","ELENA","GARCIA","MARIN",,,,"MISTRATO",
+"93","ESMERALDA",,"LEMUS","SUAREZ","3216494365",,,"MISTRATO",
+"94","LEIDY","VANESA","HERNANDEZ","LOPEZ",,,,"MISTRATO",
+"95","BEATRIZ ","ELENA ","TEJADA ","BEDOYA ",,"Funcionaria Sec Salud","Urbana","DOSQUEBRADAS",
+"96","MARTHA ","LUCIA ","AGUDELO ",,"3113913601","NINGUNA ","Urbana","DOSQUEBRADAS","marthalagv@hotmail.com"
+"97","ANDREA ",,"PEREZ ","ARANGO ","3177614092","NINGUNA ","Urbana","DOSQUEBRADAS",
+"98","DIANA ","MARCELA ","CARDONA ","GARCIA ","3116316062","NINGUNA ","Urbana","DOSQUEBRADAS","dmcardona@dosquebradas.gov.co"
+"99","BLANCA ","GILMA ","FRANCO","MARTINEZ ","3322249","NINGUNA ","Urbana","DOSQUEBRADAS",
+"100","MARIA ","EDILIA ","RIOS ","SANCHEZ ","3148344089","NINGUNA ","Urbana","DOSQUEBRADAS",
+"101","ALBA ","LUCIA ","BEDOYA ","VALENCIA ","3146629143","NINGUNA ","Urbana","DOSQUEBRADAS",
+"102","MARIA ","ELENA ","LONDOÑO ","GALVIS ","3123487105","NINGUNA ","Urbana","DOSQUEBRADAS",
+"103","LUZ ","MYRIAM","BONILLA ","OLAYA ","3163229435","NINGUNA ","Urbana","DOSQUEBRADAS","myriambonilladosquebradas@hotmail.com"
+"104","EVA","CATERINA ","CORDOBA ","MOSQUERA ","3500554","AFROCOLOMBIANO ","Urbana","DOSQUEBRADAS",
+"105","Marlly",,"Jaramillo","Hernandez","3206368328",,"Urbana","DOSQUEBRADAS",
+"106","Maria","del pilar","Castañeda",,"3016324872",,"Urbana","DOSQUEBRADAS","comitedemujeresrda@gmail.com"
+"107","Martha","Lucia","Puerres",,"3147291168",,"Urbana","DOSQUEBRADAS",
+"108","Marisol",,"Avendaño","Pacheco","3136704041",,"Urbana","DOSQUEBRADAS","marypacheco.1968@hotmail.com"
+"109","Bertha","Amparo","Gomez",,"3137490549",,"Urbana","DOSQUEBRADAS","berthaamparo.12@hotmail.com"
+"110","Beatriz",,"Duran","Duque","3153477614",,"Urbana","DOSQUEBRADAS",
+"111","Beatriz","Eugenia","Camacho","Muñoz","3114189235",,,"DOSQUEBRADAS",
+"112","Maria","Fernanda","Santiago","Pabon","3103754876",,"Urbana","DOSQUEBRADAS",
+"113","Gloria","Isabel","Hernandez",,"3113102959",,"Rural","DOSQUEBRADAS",
+"114","MARIELA",,"FRANCO ","PALACIOS ","3136129225","NINGUNA ","Urbana","SANTA ROSA DE CABAL",
+"115","MILLER","LANDY ","PELAEZ ",,"3132377960","NINGUNA ","Urbana","SANTA ROSA DE CABAL",
+"116","LUZ ","MARINA","CARDONA ",,"3113388062","NINGUNA ","Urbana","SANTA ROSA DE CABAL",
+"117","CLAUDIA ","MILENA","JARAMILLO","SANTA","3137577914","NINGUNA ","Urbana","SANTA ROSA DE CABAL",
+"118","MARLENY ",,"GOMEZ","MUÑOZ","3206742546","REP. MESA VICTIMAS","Urbana","SANTA ROSA DE CABAL",
+"119","CARMEN ",,"ROJAS","RIOS","3183068081","NINGUNA ","Urbana","SANTA ROSA DE CABAL",
+"120","LUZ ","ADRIANA  ","GONZALES ","PATIÑO ","3117420489","NINGUNA ","Urbana","SANTA ROSA DE CABAL",
+"121","ANA","MARIA ","RIASCOS","AGUDELO ","3660482","NINGUNA ","Urbana","SANTA ROSA DE CABAL",
+"122","JULIANA ",,"SOSA","MORALES ","3655225","NINGUNA ","Urbana","SANTA ROSA DE CABAL",
+"123","DORALIN",,,,"3117474532","NINGUNA ","Urbana","SANTA ROSA DE CABAL",
+"124","Marleny",,"Gomez","Muñoz","3206742546",,"Urbana","SANTA ROSA DE CABAL",
+"125","Leidy","Viviana","Salazar",,"3146096624",,"Urbana","SANTA ROSA DE CABAL",
+"126","MARIA","DORALBA ","CARDENAS ","LOPEZ ","3136447530","NINGUNA ","Rural","MARSELLA",
+"127","MARIA ","LUCERO ","LOPEZ","RAMIREZ","3215703664","NINGUNA ","Urbana","MARSELLA",
+"128","LUZ ","MARINA ","GONZALES ","GUSMAN ","3116146609","NINGUNA ","Urbana","MARSELLA",
+"129","LUZ ","DARY ","CRUZ","O",,"NINGUNA ","Urbana","MARSELLA",
+"130","LUZ ","PIEDAD ","Ballesteros","GIRALDO","3138114822","NINGUNA ","Rural","MARSELLA",
+"131","LUZ ","ANDREA ","OSORIO ","GIRALDO ","3117702150","GESTORA SOCIAL","Urbana","MARSELLA",
+"132","Gloria","Ines","Loaiza","Vasquez","3116160605","cabeza de hogar","Urbana","MARSELLA",
+"133","Maria","Eucaris","Zuluaga","Acevedo","3218620510",,"Rural","MARSELLA",
+"134","Carmen","Liliana","Duque","Fernandez","3116393802",,"Urbana","MARSELLA","lilidufe24@hotmail.com"
+"135","Maria","Libia","David","Velez","3116189224","CONCEJALA","Rural","MARSELLA","david.ligia@gmail.com"
+"136","Maria","Isabel","Garcia","Restrepo","3146854250","desplazada","Rural","MARSELLA","maryani510@hotmail.com"
+"137","Nathalia","Maria","Rendon",,"3103887491",,"Rural","MARSELLA","negrita_tierna005@hotmail.com"
+"138","Luz","Maria","Cano","Arias","3146338894",,"Urbana","MARSELLA","umata@marsella-risaralda.gov.co"
+"139","Yury",,"Mancera","Uribe","3146483131","desplazada","Rural","MARSELLA",
+"140","Maria","Elena","Calle",,"3128722821","emisora comunitaria - directora","Urbana","MARSELLA",
+"141","Johana",,"Ospina","Quintero",,,,"MARSELLA",
+"142","Erika ","Dulfay","Rendon "," Montoya","3117378773","cabeza de hogar","Rural","BALBOA","ericarendon284@gmail.com"
+"143","Janet ",,"Gutierrez",,"3128827621","cabeza de hogar-desplazada","Urbana","BALBOA",
+"144","Martha ","Ligia","Valencia","Choren","3128469877","cabeza de hogar","Rural","BALBOA",
+"145","Blanca ","Libia","Mejia","Lopez","3122057698","cabeza de hogar","Rural","BALBOA",
+"146","Maria ","Fany ","Jimenez ","Ortiz","3127094596","victima","Rural","BALBOA",
+"147","Luz ","Nidia","Ocampo ","Uribe","3206297101","cabeza de hogar","Rural","BALBOA",
+"148","Luz ","Miryam","Mesa ","Salgado","3225504711",,"Urbana","BALBOA","lumimesa1976@hotmail.com"
+"149","Blanca","Fanny","Ladino ",,"3148324133","victima","Rural","BALBOA",
+"150","Angela","Yazmin","Arboleda","Valencia","3142183637","cabeza de hogar","Rural","BALBOA","danna.gva@gmail.com"
+"151","Maria","Lorena","Moreno ","Ocampo","3216223626",,"Rural","BALBOA",
+"152","Martha ","Ines","Moreno ","Cardona","3125803419",,"Rural","BALBOA",
+"153","DIANA ","Jannet","Suárez","Vera","3225601666",,"Urbana","BALBOA",
+"154","Luz","Andrea","Alvear","Victoria","3226060149","Funcionaria Desarrollo Social","Urbana","BALBOA",
+"155","LUZ ","AMALIA","OROZCO ","OROZCO","3147510252","desplazada","Urbana","GUATICA",
+"156","OLGA ","CECILIA","GUERRERO ","RIVERA","3147564876","victima","Rural","GUATICA","oceciliaguerrero@gmail.com"
+"157","MARIA","CENELIA","MORALES ","PULGARIN","3146848578","victima","Urbana","GUATICA",
+"158","MARIA ","ALCIRA","GUAPACHA ","GUAPACHA","3217206517","Corregimiento Santana","Rural","GUATICA","mariaalciraguapacha@gmail.com"
+"159","GLORIA ","ELFY","BAYER ","RAMIREZ","3154713360",,"Urbana","GUATICA","sedalatina@yahoo.es"
+"160","FRANCY ","JANETH","CARVAJAL ","SOTO","3233502876","Indigena - desplazada","Rural","GUATICA","francy111975@hotmail.com"
+"161","MARIA","ORFILIA","BAYER ","PEREZ","3137478816",,"Urbana","GUATICA",
+"162","MARIA ","LUCELLY","RAMIREZ ","CALVO","3147020778",,"Rural","GUATICA","marialucelly126@gmail.com"
+"163","LINA ","FERNANDA","LOPEZ ","SALAZAR","3127274244","desplazada","Rural","GUATICA",
+"164","LEIDY ","JANETH","LADINO ","CARVAJAL","3218559850","estudiante","Rural","GUATICA",
+"165","MARLEIDA ","DEL SOCORRO","GUAPACHA ","GUAPACHA","3215143602","desplazada","Rural","GUATICA",
+"166","DIANA","MERCEDES","MAFLA",,"3108992710","desplazada","Rural","GUATICA",
+"167","FLOR ","MARIA","AGUIRRE","OSSA","3136141848","Corregimiento San Clemente","Rural","GUATICA",
+"168","SINDY ","BIBIANA","IDARRAGA ","VILLADA","3117975443","cabeza de hogar","Urbana","GUATICA",
+"169","MELBA ","DEL SOCORRO","MUÑOZ ","HOYOS","3218790559","cabeza de hogar","Urbana","GUATICA",
+"170","EDILMA","DEL CARMEN","GUAPACHA",,"3144924944","cabeza de hogar","Urbana","GUATICA",
+"171","ADRIANA","CAROLINA ","ZAPATA","RAMIREZ","3228607430","JUVENTUD",,"GUATICA","adricaro238@gmail.com"
+"172","EVELIA",,"TAPASCO",,"3136938786",,,"GUATICA",
+"173","Natalia",,"Arias","Castaño","3206969851","Comisaria de familia","Urbana","BELEN DE UMBRIA","comisariaflia@belendeumbria-risaralda.gov.co"
+"174","Maria","Yesenia","Reyes","Rios","3126331324",,"Urbana","BELEN DE UMBRIA","yeseniareyes2030@gmail.com"
+"175","Fany","Arlen","Garcia","Ruiz","3218779963","desplazada",,"BELEN DE UMBRIA",
+"176","Daniela",,"Montoya","Puerta","3183774313","Funcionaria Sec Desarrollo Comunitario","Urbana","BELEN DE UMBRIA",
+"177","MARIA ","ALEJANDRA","MARIN","VELEZ","3107237871",,,"BELEN DE UMBRIA","alejacoj@hotmail.com"
+"178","EDILMA",,"GARCIA","MARIN","3136379567",,,"BELEN DE UMBRIA","edilgar@hotmail.com"
+"179","LIDELIA",,"LOPEZ","JIMENEZ","3206890714",,,"BELEN DE UMBRIA","lindelial@gmail.com"
+"180","LINA","MARIA","MORENO","BEDOYA","3137172932",,,"BELEN DE UMBRIA","profelinalhm@gmail.com"
+"181","LINA","MARCELA","OSPINA","BETANCURT","3117092289",,,"BELEN DE UMBRIA","lina_marcela_ospina@hotmail.com"
+"182","ALEXA","JULIANA","ARCILA","VALLEJO","3145483044",,,"BELEN DE UMBRIA","alexajulianarcila@gmail.com"
+"183","MARIA ","YACENIA","REYES","RIOS",,,,"BELEN DE UMBRIA",
+"184","MARIA ","EUGENIA","CARDONA","GUTIERREZ","3215387800",,,"BELEN DE UMBRIA","marucardona.75@gmail.com"
+"185","CAROLINA",,"RETREPO","VALENCIA","3187973888",,,"BELEN DE UMBRIA","comercial@aspiabel.com"
+"186","MARIA ","ENEIDA","ACEVEDO","GOMEZ","3148591440",,,"BELEN DE UMBRIA",
+"187","NATALIA",,"MONSALVE","JARAMILLO","3147522869",,,"BELEN DE UMBRIA","nat95@gmail.com"
+"188","DANIELA",,"MONTOYA","PUERTA",,,,"BELEN DE UMBRIA",
+"189","BEATRIZ","EUGENIA","NARANJO","ECHEVERRY","3137313827","MCH","RURAL","QUINCHIA","beatrizenaranjo@gmail.com"
+"190","LUZ","MARINA","ORTIZ","OCAMPO","3113288426","VICTIMA-IND-MCH","URBANA","QUINCHIA","lmoroc10@hotmail.com"
+"191","ALBA","MERY","VELASQUEZ","DE LOS RIOS","3103596512",,"URBANA","QUINCHIA","alba0409@hotmail.com"
+"192","GLORIA","INES","RIOS","VIDAL","3122389018","INDIGENA","URBANA","QUINCHIA",
+"193","MILENA","PATRICIA","CLAVIJO","HENAO","3147693501",,"URBANA","QUINCHIA","comisaria@quinchia-risaralda.gov.co"
+"194","YOLANDA",,"ROJAS","VINAZCO","3146546896","VICTIMA-IND-MCH","URBANA","QUINCHIA","miyolaro12@hotmail.com"
+"195","LIBIA","MARIA","JARAMILLO",,"3136383943","MCH","RURAL","QUINCHIA",
+"196","MARIA ","EUGENIA","GALEANO","CASTRO","3217204285","MCH","URBANA","QUINCHIA","lider.me80@hotmail.com"
+"197","OLGA","MILLED","VANEGAS",,"3206055531","MCH","URBANA","QUINCHIA",
+"198","ISABEL",,"FLOREZ","PANESSO","3128187171",,"URBANA","QUINCHIA",
+"199","GLORIA","INES","RIOS","VIDAL","3122389018","INDIGENA","URBANA","QUINCHIA",
+"200","CLAUDIA","XIMENA","SUAREZ","G","3117025068","VICTIMA","RURAL","QUINCHIA",
+"201","VIRGELINA",,"BARTOLO",,,"INDIGENA",,"QUINCHIA",
+"202","GLORIA","ESMERALDA","FERNANDEZ","SANCHEZ","3117110452","VICTIMA-MCH","RURAL","QUINCHIA",
+"203","MARIA ","CECILIA","OSORIO","VILLADA","3127550380","VICTIMA-MCH","URBANA","QUINCHIA",
+"204","ERIKA","ISABEL","ARCE","TREJOS","3234653066","INDIGENA","RURAL","QUINCHIA","ericaisabel2391@hotmail.com"
+"205","MARGARITA",,"IBARRA","LADINO","3128292024",,,"QUINCHIA",
+"206","FLOR","DELID","FLOREZ","MARTINEZ","3136404546","VICTIMA-MCH","URBANA","QUINCHIA","flordelid02@hotmail.com"
+"207","SANDRA","MILENA","RAMIREZ","ESPINOSA","3122834968","MCH","URBANA","QUINCHIA","enlacesocial@quinchia-risaralda.gov.co"
+"208","Yahadira",,"Becerra",,"3177717410","Sindicato Nacional de Trabajadoras al cuidado de la infancia en hogares de bienestar ""Sintracihobi""","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","yayis19992011@hotmail.com"
+"209","Amparo",,"Ballesteros ","Ramírez","3105381900-3355446","Asociación de sabileros BIONATURAL ALOE","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","ampabionatural@yahoo.es"
+"210","Olga",,"Castaño ","Velez","3105381900-3355447","Suplente 1","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","ampabionatural@yahoo.es"
+"211","Olga",,"Guerrero ","Rivera","3105381900-3355448","Suplente 2","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","ampabionatural@yahoo.es"
+"212","Luz","DARY ","Hinestroza","Palacio","3137868177","Asociacion Afrodescendiente Sembrando Futuro","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","luzda@hotmail.com"
+"213","Martha","Lilia","Hinestroza ","Sánchez","3453640-3174868937","Suplente 1","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","martha24_1@hotmail.com"
+"214","Nerlin",,"Palacios ","Palacios","3453640-3174868938","Suplente 2","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","asembrandofuturo2015@gmail.com"
+"215","Maria ","Del Pilar","Garcia",,"3206969813","Fundacion Saber Ayudar","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","comitedemujeresrda@gmail.com"
+"216","Claudia ","Maria","Tamayo ","Holguin","3104051369-3358440","Suplente 1","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","comitedemujeresrda@gmail.com"
+"217","Claudia ","Lorena","Hernández",,"3104051369-3358441","Suplente 2","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","comitedemujeresrda@gmail.com"
+"218","Sonia",,"Valencia ","Yepes","3137300-3007808016","Universidad Tecnologica de Pereira - Centro de estudios de género UTP","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","sovaye@utp.edu.co"
+"219","Angela ",,"Henao ","Fernandez","3004103820","Suplente 1","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","anafe@utp.edu.co"
+"220","Mariela ",,"Franco ","Palacios","3640470","Red de mujeres de Risaralda","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","kairameira@gmail.com"
+"221","Margarita",,"Fajardo ","Tejada",,"Suplente 1","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL",
+"222","Rosalba ",,"Salazar ","Uribe","3154804897","Suplente 2","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","rosalbasu40@hotmail.com"
+"223","Luz ","Myriam","Bonilla ","Olaya","3163229435","Corporacion Angeles de la Tierra","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","myriambonilladosquebradas@hotmail.com"
+"224","Blanca ","Cecilia","Cruz ","Figueroa","3117341227","Suplente 1","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","liliacruz.sdj@hotmail.com"
+"225","Yamileth",,"Collazos ","Ortiz","3134652660","Suplente 2","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","jamileth095@hotmail.com"
+"226","Ayda ",,"Rengifo ","Agudelo","3156613106","ASOMUJERES PROACTIVAS","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","aidarengifoa@yahoo.com"
+"227","Erika ","Vanessa","Tobon ","Gonzales","3116091242-3126439318","Ruta Pacifica de las mujeres","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","rutarisaralda@rutapacifica.org.co"
+"228","Gina ","Marcela","Arias ","Rodriguez","3116091242-3126439319","Suplente 1","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","rutarisaralda@rutapacifica.org.co"
+"229","Sara  ","Lucia","Ochoa ","Correa","3116091242-3126439320","Suplente 2","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","rutarisaralda@rutapacifica.org.co"
+"230","Solany",,"Zapata ","Guasarabe","3194044534-3006362054","Consejo de Autoridades Tradicionales Indigenas de Risaralda - CRIR","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","indigenascrir@yahoo.com"
+"231","Arnobia",,"Obando ","Cardona","3194044534-3006362055","Suplente 1","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","indigenascrir@yahoo.com"
+"232","Maria ","Esther","Valencia ",,"3174489308","CABILDO DE MAYORES","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL",
+"233","Carmen",,"Lozano",,"3174489308","Suplente","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL",
+"234","Laura ",,"Oviedo",,"3104026952","Mesa departamental de juventud","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","laurasoviedo@gmail.com"
+"235","Ana ","Sofia","Olaya ","Diaz","3122574006","Mesa departamental de víctimas","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","anasofiaolaya1970@gmail.com"
+"236","Yeimi ","Katherine","Velasquez",,"3004579565","Mesa departamental de víctimas","URBANA","CONSEJO CONSULTIVO DEPARTAMENTAL","yeimiktvelasques@gmail.com"
