@@ -1,6 +1,9 @@
 # Semantic Type Reference Set #
 
 The file 'reference.csv' captures the 'truth' as it relates to the Semantic Types from the data files stored in the data directory.
+The data files are sourced from a variety of locations including VizNet (https://viznet.media.mit.edu/) and socrata.com.  The intention
+was to select files at random to provide a robust corpus to objectively measure the performance of any process that attempts to determine
+the Semantic Type of a data stream.
 
 ## Reference Fields  ##
 
