@@ -22,4 +22,5 @@ Given a sample file 'current.csv' with the same layout as 'reference.csv' which 
 
 ## Semantic Type Classification ##
 
-The reference file which purports to be the arbiter of truth certainly has errors.  Some of these will be simple errors where fields have been incorrectly classified (if you see any feel free to raise an issue or better still a Pull Request), others may be the result of a close call.
+The reference file which purports to be the arbiter of truth certainly has errors.  Some of these will be simple errors where fields have been incorrectly classified (if you see any,
+feel free to raise an issue or better still a Pull Request), others may be the result of a close call.
