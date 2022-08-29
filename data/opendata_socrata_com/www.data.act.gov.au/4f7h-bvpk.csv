@@ -1,0 +1,3 @@
+"trip_id","location","odometer","timestamp","congestion_level","vehicle_label","vehicle_licenceplate","stop_sequence","gtfsrupdateid","updatedeleted","latitude","longitude","bearing","currentstatus","stopid","vehicleid"
+"456","POINT (-35.227264404296875 149.14389038085938)","232210776.0","2022-08-27T00:13:00.000","RUNNING_SMOOTHLY","LRV10","LRV10","9","12787363","None","-35.227264404296875","149.14389038085938","168.77926635742188","IN_TRANSIT_TO","8113","10"
+"607","POINT (-35.23467254638672 149.1455535888672)","217598347.0","2022-08-27T00:13:00.000","RUNNING_SMOOTHLY","LRV14","LRV14","8","12787364","None","-35.23467254638672","149.1455535888672","35.19638442993164","IN_TRANSIT_TO","8116","14"
