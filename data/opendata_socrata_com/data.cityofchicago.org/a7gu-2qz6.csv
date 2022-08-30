@@ -1,0 +1,702 @@
+"day","date","park","park_phone","title","cc","rating","underwriter","park_address","location"
+"Fri","2017-06-02T00:00:00.000","Berger Park Cultural Center","(773) 761-0376","Young Frankenstein","Y","PG",,"6205 N. Sheridan Rd.","6205 N. Sheridan Rd.
+Chicago, IL 
+(41.994711, -87.655536)"
+"Fri","2017-06-09T00:00:00.000","Sherwood Park","(773) 256-0926","Barber Shop: The Next Cut","Y","PG-13",,"5701 S. Shields Ave.","5701 S. Shields Ave.
+Chicago, IL 
+(41.790484, -87.634039)"
+"Mon","2017-06-12T00:00:00.000","Belmont Harbor","(312) 742-1134","North by Northwest",,"NR",,"3200 N. Lake Shore Dr.","3200 N. Lake Shore Dr.
+Chicago, IL 
+(41.940216, -87.63955)"
+"Tue","2017-06-13T00:00:00.000","Grant Park","(312) 742-3918","Jumanji","Y","PG","Underwritten by the Greater South Loop Association","Columbus Drive","Columbus Drive
+Chicago, IL "
+"Tue","2017-06-13T00:00:00.000","Kedvale Park","(312) 742-7543","Sing","Y","PG",,"4134 W. Hirsch St.","4134 W. Hirsch St.
+Chicago, IL 
+(41.906237, -87.730323)"
+"Wed","2017-06-14T00:00:00.000","Bartelme, Mary Park","(312) 746-5962","La La Land","Y","PG-13","Underwritten by the Mary Bartelme Park Advisory Council","115 S. Sangamon St.","115 S. Sangamon St.
+Chicago, IL 
+(41.879642, -87.650804)"
+"Wed","2017-06-14T00:00:00.000","Foster Park","(312) 747-6135","The Secret Life of Pets","Y","PG",,"1440 W. 84th St.","1440 W. 84th St.
+Chicago, IL 
+(41.741362, -87.659652)"
+"Wed","2017-06-14T00:00:00.000","Winnemac Park","(312) 742-5101","A Cat in Paris",,"PG","Underwritten by the Consulate General of France in Chicago","5100 N. Leavitt St","5100 N. Leavitt St
+Chicago, IL 
+(41.974286, -87.684226)"
+"Thu","2017-06-15T00:00:00.000","Chicago Women's Park and Gardens","(312) 328-0821","Pride & Prejudice","Y","PG","Underwritten by the Clarke House Museum, The National Society of the Colonial Dames of America, The Prairie District Neighborhood Alliance and the Glessner House Museum","1801 S. Indiana Ave.","1801 S. Indiana Ave.
+Chicago, IL 
+(41.857935, -87.622279)"
+"Thu","2017-06-15T00:00:00.000","Churchill Field Playlot Park","(312) 742-7554","The Secret Life of Pets","Y","PG","Underwritten by the Bucktown Community Organization","1825 N. Damen Ave.","1825 N. Damen Ave.
+Chicago, IL 
+(41.914792, -87.677554)"
+"Thu","2017-06-15T00:00:00.000","Wicker Park","(312) 742-7553","Moonstruck","Y","PG","Underwritten by The Wormhole Coffee","1425 N. Damen Avenue","1425 N. Damen Avenue
+Chicago, IL 
+(41.90763, -87.677389)"
+"Fri","2017-06-16T00:00:00.000","Anderson Playground Park","(312) 747-6007","Ghostbusters (2016)","Y","PG-13",,"3748 S. Prairie Ave.","3748 S. Prairie Ave.
+Chicago, IL 
+(41.827101, -87.620457)"
+"Fri","2017-06-16T00:00:00.000","Cornell Square Park","(312) 747-6097","The Secret Life of Pets","Y","PG",,"1809 W. 50th St.","1809 W. 50th St.
+Chicago, IL 
+(41.803113, -87.670689)"
+"Fri","2017-06-16T00:00:00.000","Mayfair Park","(773) 685-3361","Jumanji","Y","PG","Produced by the Mayfair Park Advisory Council","4550 W. Sunnyside Ave.","4550 W. Sunnyside Ave.
+Chicago, IL 
+(41.962597, -87.7422)"
+"Fri","2017-06-16T00:00:00.000","West Chatham Park","(317) 747-6998","The Magnificent Seven (2016)","Y","PG-13",,"8223 S. Princeton Ave.","8223 S. Princeton Ave.
+Chicago, IL 
+(41.744298, -87.63173)"
+"Sat","2017-06-17T00:00:00.000","DuSable Museum of African American History","(312) 742-1134","Queen of Katwe","Y","PG","Underwritten by the DuSable Museum of African American History","740 E. 56th Pl.","740 E. 56th Pl.
+Chicago, IL 
+(41.793186, -87.605804)"
+"Sat","2017-06-17T00:00:00.000","Hermitage Park","(312) 747-6179","Trolls","Y","PG",,"5839 S. Wood St.","5839 S. Wood St.
+Chicago, IL 
+(41.787531, -87.669252)"
+"Sat","2017-06-17T00:00:00.000","Winnemac Park","(312) 742-5101","Ghostbusters (2016)","Y","PG-13",,"5100 N. Leavitt St","5100 N. Leavitt St
+Chicago, IL 
+(41.974286, -87.684226)"
+"Mon","2017-06-19T00:00:00.000","Grant Park: Grove 5","(312) 742-1134","Dirty Dancing","Y","PG-13",,"800 S. Columbus Dr.","800 S. Columbus Dr.
+Chicago, IL 
+(41.872058, -87.620555)"
+"Mon","2017-06-19T00:00:00.000","Tuley Park","(312) 747-6763","Hidden Figures","Y","PG",,"501 E. 90th Pl.","501 E. 90th Pl.
+Chicago, IL 
+(41.730111, -87.60948)"
+"Tue","2017-06-20T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","Ferris Bueller's Day Off","Y","PG-13","Underwritten by the River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892878, -87.640952)"
+"Tue","2017-06-20T00:00:00.000","Archer Park","(773) 284-7029","Angels in the Outfield","Y","PG","Underwritten by Archer Manor Little League","4901 S.Kilbourn Ave.","4901 S.Kilbourn Ave.
+Chicago, IL 
+(41.803782, -87.735659)"
+"Tue","2017-06-20T00:00:00.000","Haas Park","(312) 742-7552","The Dark Knight","Y","PG-13","Produced by the Haas Park Advisory Council","2402 N. Washtenaw Ave.","2402 N. Washtenaw Ave.
+Chicago, IL 
+(41.924954, -87.694974)"
+"Tue","2017-06-20T00:00:00.000","Kells Playground Park","(312) 742-7544","Hotel Transylvania 2","Y","PG","Underwritten by the Bickerdike Redevelopment Corp.","3201 W. Chicago Ave.","3201 W. Chicago Ave.
+Chicago, IL 
+(41.895563, -87.706576)"
+"Wed","2017-06-21T00:00:00.000","Heritage Green Park","(312) 746-5494","Sing","Y","PG","Underwritten by the West Loop Community Organization","610 W. Adams St.","610 W. Adams St.
+Chicago, IL 
+(41.879284, -87.642727)"
+"Wed","2017-06-21T00:00:00.000","Osterman Beach","(312) 742-1134","The Umbrellas of Cherbourg","Y","NR","Underwritten by the Consulate General of France in Chicago","5800 N. Lake Shore Dr.","5800 N. Lake Shore Dr.
+Chicago, IL "
+"Thu","2017-06-22T00:00:00.000","Brooks Park","(773) 631-4401","The Sandlot","Y","PG","Underwritten by the Edison Park Chamber of Commerce","7100 N. Harlem Ave.","7100 N. Harlem Ave.
+Chicago, IL 
+(42.010284, -87.806652)"
+"Thu","2017-06-22T00:00:00.000","Clark (John) Park","(773) 287-7794","The Wiz","Y","G","Co-produced by 24th Ward Alderman Michael Scott Jr.","4615 W. Jackson Blvd.","4615 W. Jackson Blvd.
+Chicago, IL 
+(41.876926, -87.740505)"
+"Thu","2017-06-22T00:00:00.000","Lowe Playground Park","(312) 747-6445","Fences","Y","PG-13",,"5203 S. Lowe Ave.","5203 S. Lowe Ave.
+Chicago, IL 
+(41.799823, -87.641609)"
+"Thu","2017-06-22T00:00:00.000","Oz Park","(312) 742-7898","Angels in the Outfield","Y","PG","Underwritten by the Oz Park Baseball Association","2021 N. Burling St.","2021 N. Burling St.
+Chicago, IL 
+(41.919044, -87.647303)"
+"Thu","2017-06-22T00:00:00.000","West Lawn Park","(773) 284-2803","The LEGO Batman Movie","Y","PG","Underwritten by the St. Nicholas of Tolentine School","4233 W. 65th St.","4233 W. 65th St.
+Chicago, IL 
+(41.774943, -87.728278)"
+"Fri","2017-06-23T00:00:00.000","Athletic Field Park","(773) 478-2889","Fantastic Beasts and Where to Find Them","Y","PG-13","Produced by the Athletic Field Park Advisory Council","3546 W. Addison St.","3546 W. Addison St.
+Chicago, IL 
+(41.946538, -87.715942)"
+"Fri","2017-06-23T00:00:00.000","Columbus Park","(773) 287-7641","Queen of Katwe","Y","PG",,"500 S. Central Ave.","500 S. Central Ave.
+Chicago, IL 
+(41.873961, -87.764595)"
+"Fri","2017-06-23T00:00:00.000","Homan Square Park","(312) 746-6650","Queen of Katwe","Y","PG","Co-produced by 24th Ward Alderman Michael Scott Jr.","3559 W. Arthington","3559 W. Arthington
+Chicago, IL 
+(41.869979, -87.714642)"
+"Fri","2017-06-23T00:00:00.000","Independence Park","(773) 478-3538","Sing","Y","PG","Produced by the Independence Park Advisory Council","3945 N. Springfield Ave.","3945 N. Springfield Ave.
+Chicago, IL 
+(41.952657, -87.72507)"
+"Fri","2017-06-23T00:00:00.000","Minuteman Park","(773) 284-0214","Drop Dead Fred","Y","PG-13",,"5940 S. Central Ave.","5940 S. Central Ave.
+Chicago, IL 
+(41.784098, -87.761961)"
+"Fri","2017-06-23T00:00:00.000","Osterman Beach","(312) 742-1134","The Unsinkable Molly Brown",,"NR",,"5800 N. Lake Shore Dr.","5800 N. Lake Shore Dr.
+Chicago, IL "
+"Sat","2017-06-24T00:00:00.000","Humboldt Park","(312) 742-7549","The Secret Life of Pets","Y","PG",,"1440 N. Sacramento","1440 N. Sacramento
+Chicago, IL 
+(41.902822, -87.701792)"
+"Sat","2017-06-24T00:00:00.000","Murray Playground Park","(312) 747-6562","The Secret Life of Pets","Y","PG",,"1743 W. 73rd St.","1743 W. 73rd St.
+Chicago, IL 
+(41.761241, -87.666741)"
+"Sat","2017-06-24T00:00:00.000","Rowan Park","(773) 646-3180","Space Jam","Y","PG",,"11546 S. Avenue L","11546 S. Avenue L
+Chicago, IL 
+(41.685148, -87.53645)"
+"Sun","2017-06-25T00:00:00.000","Jonquil Playlot Park","(312) 742-7816","La La Land","Y","PG-13","Underwritten by the Wrightwood Neighbors Association","1001 W. Wrightwood Ave.","1001 W. Wrightwood Ave.
+Chicago, IL 
+(41.929029, -87.653839)"
+"Mon","2017-06-26T00:00:00.000","Harold Washington Playlot Park","(312) 747-6620","An American in Paris",,"NR",,"5200 S. Hyde Park Blvd.","5200 S. Hyde Park Blvd.
+Chicago, IL 
+(41.800598, -87.584362)"
+"Tue","2017-06-27T00:00:00.000","Bartelme, Mary Park","(312) 746-5962","The Lego Movie","Y","PG","Underwritten by the Museum of Science and Industry","115 S. Sangamon St.","115 S. Sangamon St.
+Chicago, IL 
+(41.879642, -87.650804)"
+"Tue","2017-06-27T00:00:00.000","Chicago History Museum","(312) 742-1134","Field of Dreams","Y","PG","Underwritten by the Chicago History Museum","1601 N. Clark St.","1601 N. Clark St.
+Chicago, IL 
+(41.911789, -87.631947)"
+"Tue","2017-06-27T00:00:00.000","Webster Park","(312) 745-1479","Rogue One","Y","PG-13","Underwritten by the Greater South Loop Association","1357 S. Indiana Ave.","1357 S. Indiana Ave.
+Chicago, IL 
+(41.864392, -87.622376)"
+"Wed","2017-06-28T00:00:00.000","Harrison Park","(312) 746-5491","Como en el Cine/Like in the Movies","Y","NR","Underwritten by the International Latino Cultural Center","1824 S. Wood St.","1824 S. Wood St.
+Chicago, IL 
+(41.856811, -87.671063)"
+"Wed","2017-06-28T00:00:00.000","Lincoln Park Cultural Center","(312) 742-7726","Big","Y","PG",,"2045 N. Lincoln Park West","2045 N. Lincoln Park West
+Chicago, IL 
+(41.9197, -87.63638)"
+"Wed","2017-06-28T00:00:00.000","Olympia Park","(773) 631-6861","Sing","Y","PG",,"6566 N. Avondale Ave.","6566 N. Avondale Ave.
+Chicago, IL 
+(41.999736, -87.814958)"
+"Thu","2017-06-29T00:00:00.000","Chase Park","(312) 742-7518","Top Gun","Y","PG","Produced by the Chase Park Advisory Council","4701 N. Ashland Ave.","4701 N. Ashland Ave.
+Chicago, IL 
+(41.967097, -87.669326)"
+"Thu","2017-06-29T00:00:00.000","Owens Park","(312) 747-6709","Sing","Y","PG",,"8800 S. Clyde","8800 S. Clyde
+Chicago, IL 
+(41.734405, -87.573238)"
+"Thu","2017-06-29T00:00:00.000","Sumner Park","(312) 746-5394","Trolls","Y","PG",,"4320 W. 5th Ave.","4320 W. 5th Ave.
+Chicago, IL 
+(41.870728, -87.733605)"
+"Thu","2017-06-29T00:00:00.000","Wicker Park","(312) 742-7553","Raising Arizona","Y","PG-13","Underwritten by The Wormhole Coffee","1425 N. Damen Avenue","1425 N. Damen Avenue
+Chicago, IL 
+(41.90763, -87.677389)"
+"Fri","2017-06-30T00:00:00.000","La Villita Park","(312) 747-6608","Sing","Y","PG",,"2800 S. Sacramento Blvd.","2800 S. Sacramento Blvd.
+Chicago, IL "
+"Fri","2017-06-30T00:00:00.000","Oz Park","(312) 742-7898","Hook","Y","PG",,"2021 N. Burling St.","2021 N. Burling St.
+Chicago, IL 
+(41.919044, -87.647303)"
+"Fri","2017-06-30T00:00:00.000","Wentworth Park","(312) 747-6993","Kung Fu Panda 3","Y","PG",,"5625 S. Mobile Ave.","5625 S. Mobile Ave.
+Chicago, IL 
+(41.790224, -87.779233)"
+"Sat","2017-07-01T00:00:00.000","Senn Playlot Park","(312) 742-7502","Sing","Y","PG",,"5887 N. Ridge Ave.","5887 N. Ridge Ave.
+Chicago, IL 
+(41.988713, -87.668464)"
+"Sat","2017-07-01T00:00:00.000","Seward Park","(312) 742-7895","Pete's Dragon","Y","PG",,"375 W. Elm St.","375 W. Elm St.
+Chicago, IL 
+(41.902735, -87.639498)"
+"Sun","2017-07-02T00:00:00.000","Independence Park","(773) 478-3538","The Secret Life of Pets","Y","PG",,"3945 N. Springfield Ave.","3945 N. Springfield Ave.
+Chicago, IL 
+(41.952657, -87.72507)"
+"Wed","2017-07-05T00:00:00.000","Brainerd Park","(312) 747-6027","Captain America: Civil War","Y","PG-13",,"1246 W. 92nd St.","1246 W. 92nd St.
+Chicago, IL 
+(41.726792, -87.654282)"
+"Wed","2017-07-05T00:00:00.000","Vittum Park","(773) 284-6022","Ghostbusters (2016)","Y","PG-13","Underwritten by Paisanos Basketball Association","5010 W. 50th St.","5010 W. 50th St.
+Chicago, IL 
+(41.801881, -87.762183)"
+"Thu","2017-07-06T00:00:00.000","Bogan Park","(773) 284-6456","Ghostbusters (2016)","Y","PG-13",,"3939 W. 79th St.","3939 W. 79th St.
+Chicago, IL 
+(41.749467, -87.720399)"
+"Thu","2017-07-06T00:00:00.000","Rosenblum Park","(312) 747-6649","Captain America: Civil War","Y","PG-13",,"8050 S. Chapel","8050 S. Chapel
+Chicago, IL "
+"Thu","2017-07-06T00:00:00.000","Wicker Park","(312) 742-7553","National Treasure","Y","PG","Underwritten by The Wormhole Coffee","1425 N. Damen Avenue","1425 N. Damen Avenue
+Chicago, IL 
+(41.90763, -87.677389)"
+"Fri","2017-07-07T00:00:00.000","Meyering Playground Park","(312) 747-6545","X-Men: Apocalypse","Y","PG-13",,"7140 S. Martin Luther King Dr.","7140 S. Martin Luther King Dr.
+Chicago, IL 
+(41.764855, -87.615274)"
+"Fri","2017-07-07T00:00:00.000","Moore Park","(773) 287-0561","Fantastic Beasts and Where to Find Them","Y","PG-13",,"5085 W. Adams","5085 W. Adams
+Chicago, IL 
+(41.878517, -87.752765)"
+"Fri","2017-07-07T00:00:00.000","Rutherford Sayre Park","(312) 746-5368","Sing","Y","PG",,"6871 W. Belden Ave.","6871 W. Belden Ave.
+Chicago, IL 
+(41.921134, -87.798468)"
+"Sat","2017-07-08T00:00:00.000","Ken-Well Park","(773) 685-3348","The Secret Life of Pets","Y","PG",,"2945 N. Kenosha Ave.","2945 N. Kenosha Ave.
+Chicago, IL 
+(41.934672, -87.733842)"
+"Sat","2017-07-08T00:00:00.000","Loyola Park","(773) 262-8605","Queen of Katwe","Y","PG","Underwritten by the Loyola Park Advisory Council","1230 W. Greenleaf Ave.","1230 W. Greenleaf Ave.
+Chicago, IL 
+(42.01044, -87.661298)"
+"Sat","2017-07-08T00:00:00.000","Oz Park","(312) 742-7898","Jaws","Y","PG","Underwritten by the Oz Park Advisory Council","2021 N. Burling St.","2021 N. Burling St.
+Chicago, IL 
+(41.919044, -87.647303)"
+"Mon","2017-07-10T00:00:00.000","Bartelme, Mary Park","(312) 746-5962","The Jungle Book","Y","PG","Underwritten by the West Loop Community Organization","115 S. Sangamon St.","115 S. Sangamon St.
+Chicago, IL 
+(41.879642, -87.650804)"
+"Mon","2017-07-10T00:00:00.000","Holstein Park","(312) 742-7554","Queen of Katwe","Y","PG","Underwritten by the Bucktown Community Organization","2200 N. Oakley Ave.","2200 N. Oakley Ave.
+Chicago, IL 
+(41.922402, -87.685509)"
+"Mon","2017-07-10T00:00:00.000","Oakwood Beach","(312) 742-1134","Apollo 13","Y","PG",,"3900 S. Lake Shore Dr.","3900 S. Lake Shore Dr.
+Chicago, IL "
+"Tue","2017-07-11T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","Rogue One","Y","PG-13","Underwritten by the River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892878, -87.640952)"
+"Tue","2017-07-11T00:00:00.000","Beverly Park","(312) 747-6024","The Peanuts Movie","Y","G",,"2460 W. 102nd St.","2460 W. 102nd St.
+Chicago, IL 
+(41.708192, -87.68277)"
+"Wed","2017-07-12T00:00:00.000","Kilbourn Park","(773) 685-3351","Ovni/UFO","Y","NR","Underwritten by the International Latino Cultural Center","3501 N. Kilbourn Ave.","3501 N. Kilbourn Ave.
+Chicago, IL 
+(41.944504, -87.739651)"
+"Wed","2017-07-12T00:00:00.000","Lincoln Park Cultural Center","(312) 742-7726","The Lego Movie","Y","PG","Underwritten bythe Museum of Science and Industry","2045 N. Lincoln Park West","2045 N. Lincoln Park West
+Chicago, IL 
+(41.9197, -87.63638)"
+"Wed","2017-07-12T00:00:00.000","Sheridan Park","(312) 746-5369","The Secret Life of Pets","Y","PG",,"910 S. Aberdeen St.","910 S. Aberdeen St.
+Chicago, IL 
+(41.870662, -87.654257)"
+"Thu","2017-07-13T00:00:00.000","Donovan Playground Park","(312) 747-6111","The Sandlot","Y","PG",,"3620 S.Lituanica Ave.","3620 S.Lituanica Ave.
+Chicago, IL 
+(41.828268, -87.647671)"
+"Thu","2017-07-13T00:00:00.000","Gill Park","(312) 742-7802","Finding Dory","Y","PG",,"825 W. Sheridan Rd.","825 W. Sheridan Rd.
+Chicago, IL 
+(41.952738, -87.650669)"
+"Thu","2017-07-13T00:00:00.000","Ogden park","(312) 747-6572","The Secret Life of Pets","Y","PG",,"6500 S. Racine Ave.","6500 S. Racine Ave.
+Chicago, IL 
+(41.775984, -87.654426)"
+"Fri","2017-07-14T00:00:00.000","Douglas Park Cultural and Community Center","(773) 762-2842","Sing","Y","PG",,"1401 S. Sacramento Dr.","1401 S. Sacramento Dr.
+Chicago, IL 
+(41.862686, -87.701891)"
+"Fri","2017-07-14T00:00:00.000","Franklin Park","(312) 747-7676","Sing","Y","PG","Co-produced by 24th Ward Alderman Michael Scott Jr.","4320 W. 15th St.","4320 W. 15th St.
+Chicago, IL 
+(41.860599, -87.733411)"
+"Fri","2017-07-14T00:00:00.000","Kenwood Community Park","(312) 747-6286","The Secret Life of Pets","Y","PG",,"1330 E. 50th St.","1330 E. 50th St.
+Chicago, IL 
+(41.804204, -87.593853)"
+"Fri","2017-07-14T00:00:00.000","Margate Park","(312) 742-7522","Rogue One","Y","PG-13",,"4921 N. Marine Drive","4921 N. Marine Drive
+Chicago, IL 
+(41.971948, -87.650566)"
+"Fri","2017-07-14T00:00:00.000","Rainbow Beach & Park","(312) 745-1479","Race","Y","PG-13",,"3111 East 77th St.","3111 East 77th St.
+Chicago, IL 
+(41.758192, -87.55023)"
+"Sat","2017-07-15T00:00:00.000","Chicago Women's Park and Gardens","(312) 328-0821","La La Land","Y","PG-13","Underwritten by the Prairie District Neighborhood Alliance","1801 S. Indiana Ave.","1801 S. Indiana Ave.
+Chicago, IL 
+(41.857935, -87.622279)"
+"Sat","2017-07-15T00:00:00.000","DuSable Museum of African American History","(312) 742-1134","Madea's Tough Love","Y","PG","Underwritten by the DuSable Museum of African American History","740 E. 56th Pl.","740 E. 56th Pl.
+Chicago, IL 
+(41.793186, -87.605804)"
+"Sat","2017-07-15T00:00:00.000","Horner Park","(773) 478-3499","Toy Story","Y","PG","Underwritten by the Horner Park Advisory Council","2741 W. Montrose Ave.","2741 W. Montrose Ave.
+Chicago, IL 
+(41.961286, -87.697294)"
+"Sun","2017-07-16T00:00:00.000","Piotrowski Park","(312) 745-4801","Fantastic Beasts and Where to Find Them","Y","PG-13",,"4247 W. 31st St.","4247 W. 31st St.
+Chicago, IL 
+(41.836813, -87.731076)"
+"Mon","2017-07-17T00:00:00.000","Calumet Park","(312) 747-6039","The Princess Bride","Y","PG",,"9801 S. Ave G","9801 S. Ave G
+Chicago, IL 
+(41.717823, -87.531589)"
+"Mon","2017-07-17T00:00:00.000","River Park","(312) 742-7516","Trolls","Y","PG",,"5100 N. Francisco Ave.","5100 N. Francisco Ave.
+Chicago, IL 
+(41.973861, -87.701292)"
+"Mon","2017-07-17T00:00:00.000","Webster Park","(312) 745-1479","Raiders of the Lost Ark","Y","PG","Underwritten by the Greater South Loop Association","1357 S. Indiana Ave.","1357 S. Indiana Ave.
+Chicago, IL 
+(41.864392, -87.622376)"
+"Tue","2017-07-18T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","La La Land","Y","PG-13","Underwritten by the River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892878, -87.640952)"
+"Tue","2017-07-18T00:00:00.000","Dunbar Park","(312) 747-6287","The Angry Birds Movie","Y","PG",,"300 E. 31st St.","300 E. 31st St.
+Chicago, IL 
+(41.838421, -87.618745)"
+"Tue","2017-07-18T00:00:00.000","Park No. 571","(312) 747-6184","Zootopia","Y","PG",,"2754-2860 S. Eleanor St.","2754-2860 S. Eleanor St.
+Chicago, IL 
+(41.843471, -87.662306)"
+"Wed","2017-07-19T00:00:00.000","Blackhawk Park","(312) 746-5014","Finding Dory","Y","PG",,"2318 N. Lavergne Ave.","2318 N. Lavergne Ave.
+Chicago, IL 
+(41.923288, -87.751205)"
+"Wed","2017-07-19T00:00:00.000","Dvorak Park","(312) 746-5083","Vengo Volviendo/Here and There","Y","NR","Underwritten by the International Latino Cultural Center","1119 W. Cullerton St.","1119 W. Cullerton St.
+Chicago, IL 
+(41.855228, -87.653947)"
+"Wed","2017-07-19T00:00:00.000","La Follette Park","(773) 287-0541","The Secret Life of Pets","Y","PG",,"1333 N. Laramie Ave.","1333 N. Laramie Ave.
+Chicago, IL 
+(41.9051, -87.755826)"
+"Thu","2017-07-20T00:00:00.000","Bessemer Park","(312) 747-6023","Monster Trucks","Y","PG",,"8930 S. Muskegon Ave.","8930 S. Muskegon Ave.
+Chicago, IL 
+(41.733131, -87.555461)"
+"Thu","2017-07-20T00:00:00.000","Senka Park","(312) 747-4386","The Secret Life of Pets","Y","PG",,"5656 S. St. Louis Ave.","5656 S. St. Louis Ave.
+Chicago, IL 
+(41.790475, -87.710771)"
+"Thu","2017-07-20T00:00:00.000","Simons Park","(312) 742-7548","Zootopia","Y","PG",,"1640 N. Drake Ave.","1640 N. Drake Ave.
+Chicago, IL 
+(41.911382, -87.714974)"
+"Thu","2017-07-20T00:00:00.000","Wicker Park","(312) 742-7553","The Wicker Man","Y","PG-13","Underwritten by the Wicker Park Bucktown Chamber and the Wicker Park Advisory Council","1425 N. Damen Avenue","1425 N. Damen Avenue
+Chicago, IL 
+(41.90763, -87.677389)"
+"Fri","2017-07-21T00:00:00.000","Independence Park","(773) 478-3538","The LEGO Batman Movie","Y","PG","Produced by the Independence Park Advisory Council","3945 N. Springfield Ave.","3945 N. Springfield Ave.
+Chicago, IL 
+(41.952657, -87.72507)"
+"Fri","2017-07-21T00:00:00.000","Kelly Park","(312) 747-6197","Trolls","Y","PG",,"2725 W. 41st St.","2725 W. 41st St.
+Chicago, IL 
+(41.819371, -87.693257)"
+"Fri","2017-07-21T00:00:00.000","Kilbourn Park","(773) 685-3351","The Sandlot","Y","PG",,"3501 N. Kilbourn Ave.","3501 N. Kilbourn Ave.
+Chicago, IL 
+(41.944504, -87.739651)"
+"Fri","2017-07-21T00:00:00.000","Ronan Park","(312) 742-7516","Zootopia","Y","PG","Underwritten by Alderman Deb Mell","3000 W. Argyle St.","3000 W. Argyle St.
+Chicago, IL 
+(41.972114, -87.704547)"
+"Sat","2017-07-22T00:00:00.000","Bosley Playground Park","(312) 747-6026","Guardians of the Galaxy","Y","PG-13",,"3044 S. Bonfield St.","3044 S. Bonfield St.
+Chicago, IL 
+(41.839324, -87.653616)"
+"Sat","2017-07-22T00:00:00.000","Bradley Park","(312) 747-6022","Sing","Y","PG",,"9729 S.Yates Ave.","9729 S.Yates Ave.
+Chicago, IL "
+"Sat","2017-07-22T00:00:00.000","Dawes Park","(312) 747-6108","The Magnificent Seven (2016)","Y","PG-13",,"8052 S. Damen Ave.","8052 S. Damen Ave.
+Chicago, IL 
+(41.747193, -87.673082)"
+"Sat","2017-07-22T00:00:00.000","Gross Park","(312) 742-7528","Fantastic Beasts and Where to Find Them","Y","PG-13",,"2708 W. Lawrence Ave.","2708 W. Lawrence Ave.
+Chicago, IL 
+(41.968581, -87.696593)"
+"Sun","2017-07-23T00:00:00.000","Emmerson Park","(773) 761-0433","Kung Fu Panda 3","Y","PG",,"1820 W. Granville Ave.","1820 W. Granville Ave.
+Chicago, IL 
+(41.994338, -87.676586)"
+"Sun","2017-07-23T00:00:00.000","Jonquil Playlot Park","(312) 742-7816","Arrival","Y","PG-13","Underwritten by the Wrightwood Neighbors Association","1001 W. Wrightwood Ave.","1001 W. Wrightwood Ave.
+Chicago, IL 
+(41.929029, -87.653839)"
+"Mon","2017-07-24T00:00:00.000","Calumet Park","(312) 747-6039","Sing","Y","PG",,"9801 S. Ave G","9801 S. Ave G
+Chicago, IL 
+(41.717823, -87.531589)"
+"Mon","2017-07-24T00:00:00.000","Osterman Beach","(312) 742-1134","Steel Magnolias","Y","PG",,"5800 N. Lake Shore Dr.","5800 N. Lake Shore Dr.
+Chicago, IL "
+"Tue","2017-07-25T00:00:00.000","Chicago History Museum","(312) 742-1134","Airplane!","Y","PG","Underwritten by the Chicago History Museum","1601 N. Clark St.","1601 N. Clark St.
+Chicago, IL 
+(41.911789, -87.631947)"
+"Tue","2017-07-25T00:00:00.000","Haas Park","(312) 742-7552","The Lego Movie","Y","PG","Produced by the Haas Park Advisory Council","2402 N. Washtenaw Ave.","2402 N. Washtenaw Ave.
+Chicago, IL 
+(41.924954, -87.694974)"
+"Tue","2017-07-25T00:00:00.000","Maggie Daley Park","(312) 742-3918","Big Hero 6","Y","PG","Underwritten by the Museum of Science and Industry","337 E. Randolph St.","337 E. Randolph St.
+Chicago, IL 
+(41.884351, -87.620142)"
+"Tue","2017-07-25T00:00:00.000","Mann Park","(773) 646-0210","The Secret Life of Pets","Y","PG",,"3035 E. 130st St.","3035 E. 130st St.
+Chicago, IL 
+(41.659159, -87.5502)"
+"Tue","2017-07-25T00:00:00.000","Shabbona Park","(773) 685-6205","Mrs. Doubtfire","Y","PG-13",,"6935 W. Addison St.","6935 W. Addison St.
+Chicago, IL 
+(41.945407, -87.800259)"
+"Wed","2017-07-26T00:00:00.000","Gage Park","(312) 747-6147","Ice Age","Y","PG",,"2411 W. 55th St.","2411 W. 55th St.
+Chicago, IL 
+(41.793908, -87.684334)"
+"Wed","2017-07-26T00:00:00.000","Hermosa Park","(312) 742-7540","Los Fabulosos Ma Mejores","Y","NR","Underwritten by the International Latino Cultural Center","2240 N. Kilbourn Ave.","2240 N. Kilbourn Ave.
+Chicago, IL 
+(41.921715, -87.738909)"
+"Wed","2017-07-26T00:00:00.000","Jesse White Community Center","(312) 742-2410","Finding Dory","Y","PG",,"412 W. Chicago Ave.","412 W. Chicago Ave.
+Chicago, IL 
+(41.896584, -87.639255)"
+"Thu","2017-07-27T00:00:00.000","Austin Town Hall Park","(773) 287-7658","Tyler Perry's Boo: A Madea Halloween","Y","PG-13",,"5610 W. Lake St.","5610 W. Lake St.
+Chicago, IL 
+(41.887286, -87.765528)"
+"Thu","2017-07-27T00:00:00.000","Chase Park","(312) 742-7518","Captain America","Y","PG-13","Produced by the Chase Park Advisory Council","4701 N. Ashland Ave.","4701 N. Ashland Ave.
+Chicago, IL 
+(41.967097, -87.669326)"
+"Thu","2017-07-27T00:00:00.000","Normandy Playground Park","(773) 229-1421","Moana","Y","PG",,"6660 W. 52nd St.","6660 W. 52nd St.
+Chicago, IL 
+(41.797751, -87.788917)"
+"Thu","2017-07-27T00:00:00.000","White (Edward H.) Park","(312) 747-7106","The Magnificent Seven (2016)","Y","PG-13",,"1120 W. 122nd St.","1120 W. 122nd St.
+Chicago, IL 
+(41.672243, -87.650157)"
+"Fri","2017-07-28T00:00:00.000","Athletic Field Park","(773) 478-2889","Ferris Bueller's Day Off","Y","PG-13","Produced by the Athletic Field Park Advisory Council","3546 W. Addison St.","3546 W. Addison St.
+Chicago, IL 
+(41.946538, -87.715942)"
+"Fri","2017-07-28T00:00:00.000","Avalon Park","(312) 747-6015","Sing","Y","PG",,"1215 E. 83rd St.","1215 E. 83rd St.
+Chicago, IL 
+(41.744101, -87.594181)"
+"Fri","2017-07-28T00:00:00.000","Oakdale Park","(312) 747-6569","Tyler Perry's Boo: A Madea Halloween","Y","PG-13",,"965 W. 95th St.","965 W. 95th St.
+Chicago, IL 
+(41.721324, -87.648147)"
+"Fri","2017-07-28T00:00:00.000","Schreiber Playground Park","(773) 262-6741","Moana","Y","PG",,"1552 W. Schreiber Ave.","1552 W. Schreiber Ave.
+Chicago, IL 
+(41.998905, -87.669743)"
+"Fri","2017-07-28T00:00:00.000","Veteran's Memorial Park","(312) 747-6812","The LEGO Batman Movie","Y","PG",,"2820 E. 98th St.","2820 E. 98th St.
+Chicago, IL 
+(41.717305, -87.555391)"
+"Sat","2017-07-29T00:00:00.000","Harrison Park","(312) 746-5491","A Monster in Paris","Y","PG","Underwritten by the Consulate General of France in Chicago","1824 S. Wood St.","1824 S. Wood St.
+Chicago, IL 
+(41.856811, -87.671063)"
+"Sat","2017-07-29T00:00:00.000","Kennicott Park","(312) 747-7138","The LEGO Batman Movie","Y","PG",,"4434 S. Lake Park Ave.","4434 S. Lake Park Ave.
+Chicago, IL 
+(41.814477, -87.597067)"
+"Sat","2017-07-29T00:00:00.000","Wolfe Playground Park","(312) 747-7005","Instructions Not Included","Y","PG-13",,"3325 E. 108th St.","3325 E. 108th St.
+Chicago, IL 
+(41.699134, -87.542709)"
+"Mon","2017-07-31T00:00:00.000","Harold Washington Playlot Park","(312) 747-6620","Romeo + Juliet","Y","PG-13",,"5200 S. Hyde Park Blvd.","5200 S. Hyde Park Blvd.
+Chicago, IL 
+(41.800598, -87.584362)"
+"Tue","2017-08-01T00:00:00.000","Blackhawk Park","(312) 746-5014","The Book of Life","Y","PG","Underwritten by Alderman Gilbert Villegas","2318 N. Lavergne Ave.","2318 N. Lavergne Ave.
+Chicago, IL 
+(41.923288, -87.751205)"
+"Tue","2017-08-01T00:00:00.000","Grand Crossing Park","(312) 747-6158","Southside With You","Y","PG-13",,"7655 S. Ingleside Ave.","7655 S. Ingleside Ave.
+Chicago, IL 
+(41.755786, -87.60167)"
+"Tue","2017-08-01T00:00:00.000","Indian Boundary Park and Cultural Center","(773) 764-0338","Beach Blanket Bingo (with Long Haired Hare)",,"NR",,"2500 W. Lunt Ave.","2500 W. Lunt Ave.
+Chicago, IL 
+(42.008606, -87.692536)"
+"Tue","2017-08-01T00:00:00.000","West Lawn Park","(773) 284-2803","Sing","Y","PG",,"4233 W. 65th St.","4233 W. 65th St.
+Chicago, IL 
+(41.774943, -87.728278)"
+"Wed","2017-08-02T00:00:00.000","Hamilton Park","(312) 747-6174","Independence Day: Resurgence","Y","PG-13",,"513 W. 72nd St.","513 W. 72nd St.
+Chicago, IL 
+(41.763485, -87.63878)"
+"Wed","2017-08-02T00:00:00.000","Loyola Park","(773) 262-8605","Yo soy un Politico/I am a Politicion","Y","NR","Underwritten by the International Latino Cultural Center","1230 W. Greenleaf Ave.","1230 W. Greenleaf Ave.
+Chicago, IL 
+(42.01044, -87.661298)"
+"Wed","2017-08-02T00:00:00.000","Union Park","(312) 746-5494","X-Men: Apocalypse","Y","PG-13",,"1501 W. Randolph St.","1501 W. Randolph St.
+Chicago, IL 
+(41.884747, -87.66427)"
+"Thu","2017-08-03T00:00:00.000","Marquette Park","(312) 747-6469","Moana","Y","PG",,"6743 S. Kedzie Ave.","6743 S. Kedzie Ave.
+Chicago, IL 
+(41.77132, -87.702908)"
+"Thu","2017-08-03T00:00:00.000","Nat King Cole Park","(312) 747-6063","Ice Age: Collision Course","Y","PG",,"361 E. 85th St.","361 E. 85th St.
+Chicago, IL 
+(41.740144, -87.615445)"
+"Thu","2017-08-03T00:00:00.000","West Pullman Park","(312) 747-7090","Jason Bourne","Y","PG-13",,"401 W. 123rd St.","401 W. 123rd St.
+Chicago, IL 
+(41.670625, -87.632751)"
+"Fri","2017-08-04T00:00:00.000","Green Briar Park","(773) 761-0582","Moana","Y","PG",,"2650 W. Peterson Ave.","2650 W. Peterson Ave.
+Chicago, IL 
+(41.990486, -87.696173)"
+"Fri","2017-08-04T00:00:00.000","Lindblom Park","(312) 747-6443","Fences","Y","PG-13",,"6054 S. Damen Ave.","6054 S. Damen Ave.
+Chicago, IL 
+(41.783375, -87.67402)"
+"Fri","2017-08-04T00:00:00.000","Vittum Park","(773) 284-6022","Sing","Y","PG",,"5010 W. 50th St.","5010 W. 50th St.
+Chicago, IL 
+(41.801881, -87.762183)"
+"Fri","2017-08-04T00:00:00.000","Wildwood Park","(773) 631-7455","The Secret Life of Pets","Y","PG",,"6950 N. Hiawatha Ave.","6950 N. Hiawatha Ave.
+Chicago, IL 
+(42.006605, -87.777366)"
+"Fri","2017-08-04T00:00:00.000","Woodhull Playground Park","(773) 256-1903","Jason Bourne","Y","PG-13",,"7340 S. East End Ave.","7340 S. East End Ave.
+Chicago, IL 
+(41.760907, -87.583561)"
+"Sat","2017-08-05T00:00:00.000","Sauganash Park","(773) 685-6122","Moana","Y","PG","Underwritten by the Edgebrook Sauganash Athletic Association","5861 N. Kostner Ave.","5861 N. Kostner Ave.
+Chicago, IL 
+(41.987404, -87.738313)"
+"Sat","2017-08-05T00:00:00.000","Senn Playlot Park","(312) 742-7502","Finding Dory","Y","PG",,"5887 N. Ridge Ave.","5887 N. Ridge Ave.
+Chicago, IL 
+(41.988713, -87.668464)"
+"Sat","2017-08-05T00:00:00.000","Winnemac Park","(312) 742-5101","August Rush","Y","PG","Underwritten by the Winnemac Park Park Advisory Council","5100 N. Leavitt St","5100 N. Leavitt St
+Chicago, IL 
+(41.974286, -87.684226)"
+"Sun","2017-08-06T00:00:00.000","Douglas Park Cultural and Community Center","(773) 762-2842","Hidden Figures","Y","PG","Co-produced by 24th Ward Alderman Michael Scott Jr.","1401 S. Sacramento Dr.","1401 S. Sacramento Dr.
+Chicago, IL 
+(41.862686, -87.701891)"
+"Sun","2017-08-06T00:00:00.000","Gill Park","(312) 742-7802","Tomboy","Y","NR",,"825 W. Sheridan Rd.","825 W. Sheridan Rd.
+Chicago, IL 
+(41.952738, -87.650669)"
+"Mon","2017-08-07T00:00:00.000","Chippewa Park","(773) 731-0380","Finding Dory","Y","PG","Underwritten by Alderman Deborah and State Senator Ira Silverstein","6748 N. Sacramento Ave.","6748 N. Sacramento Ave.
+Chicago, IL 
+(42.004309, -87.70461)"
+"Mon","2017-08-07T00:00:00.000","Oakwood Beach","(312) 742-1134","Home Alone","Y","PG",,"3900 S. Lake Shore Dr.","3900 S. Lake Shore Dr.
+Chicago, IL "
+"Mon","2017-08-07T00:00:00.000","South Shore Cultural Center","(773) 256-0149","The Wiz","Y","G",,"7059 S. South Shore Drive","7059 S. South Shore Drive
+Chicago, IL 
+(41.766242, -87.562783)"
+"Tue","2017-08-08T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","Sully","Y","PG-13","Underwritten by the River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892878, -87.640952)"
+"Tue","2017-08-08T00:00:00.000","Cragin Park","(312) 746-5065","The LEGO Batman Movie","Y","PG",,"2611 N. Lockwood Ave.","2611 N. Lockwood Ave.
+Chicago, IL 
+(41.9282, -87.758743)"
+"Tue","2017-08-08T00:00:00.000","Davis Square Park","(312) 747-6107","Power Rangers","Y","PG-13",,"4430 S. Marshfield Ave.","4430 S. Marshfield Ave.
+Chicago, IL 
+(41.813515, -87.666312)"
+"Tue","2017-08-08T00:00:00.000","Roosevelt Park","(312) 747-7640","Moana","Y","PG",,"62 W. Roosevelt Rd.","62 W. Roosevelt Rd.
+Chicago, IL 
+(41.867444, -87.629875)"
+"Wed","2017-08-09T00:00:00.000","Augusta Park","(312) 742-7544","Tyler Perry's Boo: A Madea Halloween","Y","PG-13",,"4433 W. Augusta Blvd.","4433 W. Augusta Blvd.
+Chicago, IL 
+(41.898876, -87.736891)"
+"Wed","2017-08-09T00:00:00.000","Burnside Park","(312) 747-6015","Hidden Figures","Y","PG",,"9400 S. Greenwood Ave.","9400 S. Greenwood Ave.
+Chicago, IL 
+(41.723933, -87.597269)"
+"Wed","2017-08-09T00:00:00.000","Kelly Park","(312) 747-6197","Zootopia",,"PG",,"2725 W. 41st St.","2725 W. 41st St.
+Chicago, IL 
+(41.819371, -87.693257)"
+"Wed","2017-08-09T00:00:00.000","Piotrowski Park","(312) 745-4801","Los Fabulosos Ma Mejores","Y","NR","Underwritten by the International Latino Cultural Center","4247 W. 31st St.","4247 W. 31st St.
+Chicago, IL 
+(41.836813, -87.731076)"
+"Thu","2017-08-10T00:00:00.000","Commercial Club Playground","(312) 742-7558","The Secret Life of Pets","Y","PG",,"1845 W. Rice St.","1845 W. Rice St.
+Chicago, IL 
+(41.896879, -87.673798)"
+"Thu","2017-08-10T00:00:00.000","DuSable Museum of African American History","(312) 742-1134","I Am Not Your Negro","Y","PG-13","Underwritten by the Consulate General of France in Chicago","740 E. 56th Pl.","740 E. 56th Pl.
+Chicago, IL 
+(41.793186, -87.605804)"
+"Thu","2017-08-10T00:00:00.000","Pasteur Park","(773) 284-0530","Sing","Y","PG",,"5825 S. Kostner Ave","5825 S. Kostner Ave
+Chicago, IL 
+(41.786168, -87.732757)"
+"Thu","2017-08-10T00:00:00.000","Shedd Park","(773) 762-3168","Finding Dory","Y","PG",,"3660 W. 23rd St.","3660 W. 23rd St.
+Chicago, IL 
+(41.849847, -87.716566)"
+"Fri","2017-08-11T00:00:00.000","Hadiya Pendleton Park","(312) 747-6707","Sing","Y","PG",,"4345 S. Calumet Ave.","4345 S. Calumet Ave.
+Chicago, IL 
+(41.815818, -87.618305)"
+"Fri","2017-08-11T00:00:00.000","Kelly Park","(312) 747-6197","Hotel Transylvania","Y","PG",,"2725 W. 41st St.","2725 W. 41st St.
+Chicago, IL 
+(41.819371, -87.693257)"
+"Fri","2017-08-11T00:00:00.000","Maplewood Playlot Park","(312) 742-7554","Finding Dory","Y","PG",,"1640 N.Maplewood Ave.","1640 N.Maplewood Ave.
+Chicago, IL 
+(41.911016, -87.690906)"
+"Fri","2017-08-11T00:00:00.000","Smith (Wendell) Playlot Park","(312) 747-6689","Central Intelligence","Y","PG-13",,"9912 S. Princeton Ave.","9912 S. Princeton Ave.
+Chicago, IL 
+(41.713967, -87.630861)"
+"Sat","2017-08-12T00:00:00.000","Chicago Women's Park and Gardens","(312) 328-0821","Moana","Y","PG","Underwritten by the Prairie District Neighborhood Alliance","1801 S. Indiana Ave.","1801 S. Indiana Ave.
+Chicago, IL 
+(41.857935, -87.622279)"
+"Sat","2017-08-12T00:00:00.000","Stout Park","(312) 747-2703","The Sandlot","Y","PG",,"5446 S. Greenwood Ave.","5446 S. Greenwood Ave.
+Chicago, IL 
+(41.796564, -87.599675)"
+"Sat","2017-08-12T00:00:00.000","White (Willye B.) Park","(773) 262-5051","Trolls","Y","PG",,"7631 N. Ashland Ave.","7631 N. Ashland Ave.
+Chicago, IL 
+(42.020685, -87.670605)"
+"Sun","2017-08-13T00:00:00.000","Jonquil Playlot Park","(312) 742-7816","Fantastic Beasts and Where to Find Them","Y","PG-13","Underwritten by the Wrightwood Neighbors Association","1001 W. Wrightwood Ave.","1001 W. Wrightwood Ave.
+Chicago, IL 
+(41.929029, -87.653839)"
+"Sun","2017-08-13T00:00:00.000","Northerly Island","(312) 745-2910","Close Encounters of the Third Kind","Y","PG",,"1521 S. Linn White Dr.","1521 S. Linn White Dr.
+Chicago, IL 
+(41.860664, -87.610261)"
+"Mon","2017-08-14T00:00:00.000","Calumet Park","(312) 747-6039","Lean On Me","Y","PG-13",,"9801 S. Ave G","9801 S. Ave G
+Chicago, IL 
+(41.717823, -87.531589)"
+"Mon","2017-08-14T00:00:00.000","South Shore Cultural Center","(773) 256-0149","Sing","Y","PG",,"7059 S. South Shore Drive","7059 S. South Shore Drive
+Chicago, IL 
+(41.766242, -87.562783)"
+"Mon","2017-08-14T00:00:00.000","Tilton Park","(773) 287-0806","Almost Christmas","Y","PG-13",,"305 N. Kostner Ave.","305 N. Kostner Ave.
+Chicago, IL 
+(41.885906, -87.735629)"
+"Tue","2017-08-15T00:00:00.000","Bell Park","(312) 746-5008","The Sandlot","Y","PG",,"3020 N. Oak Park Ave.","3020 N. Oak Park Ave.
+Chicago, IL 
+(41.935253, -87.795593)"
+"Tue","2017-08-15T00:00:00.000","Hamlin Park","(312) 742-7785","Big Hero 6","Y","PG","Underwritten by the Museum of Science and Industry","3035 N. Hoyne Ave.","3035 N. Hoyne Ave.
+Chicago, IL 
+(41.937197, -87.680691)"
+"Tue","2017-08-15T00:00:00.000","Rosedale Park","(773) 631-7156","Hop","Y","PG",,"6312 W. Rosedale Ave.","6312 W. Rosedale Ave.
+Chicago, IL 
+(41.988423, -87.787031)"
+"Wed","2017-08-16T00:00:00.000","Bartelme, Mary Park","(312) 746-5962","The BFG","Y","PG","Underwritten by the West Loop Community Organization","115 S. Sangamon St.","115 S. Sangamon St.
+Chicago, IL 
+(41.879642, -87.650804)"
+"Wed","2017-08-16T00:00:00.000","Brands Park","(773) 478-2414","Space Jam","Y","PG",,"3259 N. Elston Ave.","3259 N. Elston Ave.
+Chicago, IL 
+(41.940571, -87.699996)"
+"Wed","2017-08-16T00:00:00.000","Cotton Tail Park","(312) 747-7640","Zootopia","Y","PG","Underwritten by the Greater South Loop Association","44 W. 15th St.","44 W. 15th St.
+Chicago, IL 
+(41.861916, -87.629097)"
+"Thu","2017-08-17T00:00:00.000","Edgebrook Park","(773) 631-7461","The LEGO Batman Movie","Y","PG",,"6525 N. Hiawatha Ave.","6525 N. Hiawatha Ave.
+Chicago, IL 
+(41.999284, -87.761796)"
+"Thu","2017-08-17T00:00:00.000","Eugene Field Park","(773) 478-9744","Rudy","Y","PG",,"5100 N. Ridgeway Ave.","5100 N. Ridgeway Ave.
+Chicago, IL 
+(41.973843, -87.722074)"
+"Thu","2017-08-17T00:00:00.000","Hoyne Playground Park","(312) 747-6184","Frozen","Y","PG",,"3417 S. Hamiltion Ave.","3417 S. Hamiltion Ave.
+Chicago, IL 
+(41.831627, -87.678962)"
+"Thu","2017-08-17T00:00:00.000","Washtenaw Park","(312) 747-4420","The LEGO Batman Movie","Y","PG",,"2521 S. Washtenaw Ave.","2521 S. Washtenaw Ave.
+Chicago, IL 
+(41.846195, -87.692821)"
+"Fri","2017-08-18T00:00:00.000","Abbott Park","(312) 747-6001","Moana","Y","PG",,"49 E. 95th St.","49 E. 95th St.
+Chicago, IL 
+(41.721687, -87.622358)"
+"Fri","2017-08-18T00:00:00.000","Independence Park","(773) 478-3538","La La Land","Y","PG-13","Produced by the Independence Park Advisory Council","3945 N. Springfield Ave.","3945 N. Springfield Ave.
+Chicago, IL 
+(41.952657, -87.72507)"
+"Fri","2017-08-18T00:00:00.000","LeClaire Courts-Hearst Community Park","(312) 747-6438","Moana","Y","PG",,"5120 W. 44th St.","5120 W. 44th St.
+Chicago, IL 
+(41.812909, -87.752889)"
+"Fri","2017-08-18T00:00:00.000","Wrightwood Park","(312) 742-7816","The LEGO Batman Movie","Y","PG",,"2534 N. Greenview Ave.","2534 N. Greenview Ave.
+Chicago, IL 
+(41.927985, -87.665809)"
+"Sat","2017-08-19T00:00:00.000","DuSable Museum of African American History","(312) 742-1134","Southside With You","Y","PG-13","Underwritten by the DuSable Museum of African American History","740 E. 56th Pl.","740 E. 56th Pl.
+Chicago, IL 
+(41.793186, -87.605804)"
+"Sat","2017-08-19T00:00:00.000","Unity Playlot Park","(773) 478-1410","Sing","Y","PG","Underwritten by the Unity Park Advisory Council","2636 N. Kimball Ave.","2636 N. Kimball Ave.
+Chicago, IL 
+(41.929239, -87.712198)"
+"Sat","2017-08-19T00:00:00.000","Walsh Playground Park","(312) 742-7769","Harry Potter and the Prisoner of Azkaban","Y","PG","Underwritten by the Bucktown Community Organization","1722 N. Ashland Ave.","1722 N. Ashland Ave.
+Chicago, IL 
+(41.912858, -87.667823)"
+"Sun","2017-08-20T00:00:00.000","Jonquil Playlot Park","(312) 742-7816","Moana","Y","PG","Underwritten by the Wrightwood Neighbors Association","1001 W. Wrightwood Ave.","1001 W. Wrightwood Ave.
+Chicago, IL 
+(41.929029, -87.653839)"
+"Mon","2017-08-21T00:00:00.000","Belmont Harbor","(312) 742-1134","Top Hat",,"NR",,"3200 N. Lake Shore Dr.","3200 N. Lake Shore Dr.
+Chicago, IL 
+(41.940216, -87.63955)"
+"Mon","2017-08-21T00:00:00.000","Clarendon Park Community Center","(312) 742-7512","Queen of Katwe","Y","PG",,"4501 N. Clarendon Ave.","4501 N. Clarendon Ave.
+Chicago, IL 
+(41.963681, -87.649962)"
+"Mon","2017-08-21T00:00:00.000","South Shore Cultural Center","(773) 256-0149","Rogue One","Y","PG-13",,"7059 S. South Shore Drive","7059 S. South Shore Drive
+Chicago, IL 
+(41.766242, -87.562783)"
+"Tue","2017-08-22T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","The Secret Life of Pets","Y","PG","Underwritten by the River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892878, -87.640952)"
+"Tue","2017-08-22T00:00:00.000","Chicago History Museum","(312) 742-1134","City Slickers","Y","PG-13","Underwritten by the Chicago History Museum","1601 N. Clark St.","1601 N. Clark St.
+Chicago, IL 
+(41.911789, -87.631947)"
+"Tue","2017-08-22T00:00:00.000","Haas Park","(312) 742-7552","Sing","Y","PG","Produced by the Haas Park Advisory Council","2402 N. Washtenaw Ave.","2402 N. Washtenaw Ave.
+Chicago, IL 
+(41.924954, -87.694974)"
+"Tue","2017-08-22T00:00:00.000","Lawler Park","(773) 284-7328","Trolls","Y","PG",,"5210 W. 64th St.","5210 W. 64th St.
+Chicago, IL 
+(41.775988, -87.752314)"
+"Wed","2017-08-23T00:00:00.000","Cotton Tail Park","(312) 747-7640","Wall-E","Y","G","Underwritten by the Museum of Science and Industry","44 W. 15th St.","44 W. 15th St.
+Chicago, IL 
+(41.861916, -87.629097)"
+"Wed","2017-08-23T00:00:00.000","Graver Park","(312) 747-6163","The Secret Life of Pets","Y","PG",,"1518 W. 102nd Pl.","1518 W. 102nd Pl.
+Chicago, IL 
+(41.707271, -87.660397)"
+"Wed","2017-08-23T00:00:00.000","McGuane Park","(312) 747-6497","Rogue One","Y","PG-13",,"2901 S. Poplar Ave.","2901 S. Poplar Ave.
+Chicago, IL 
+(41.840891, -87.649283)"
+"Thu","2017-08-24T00:00:00.000","Norwood Park","(773) 631-4893","Field of Dreams","Y","PG",,"5801 N. Natoma Ave.","5801 N. Natoma Ave.
+Chicago, IL 
+(41.98646, -87.794131)"
+"Thu","2017-08-24T00:00:00.000","Park No. 574","(312) 746-5560","Ghostbusters (2016)","Y","PG-13",,"2540 W. Jackson Blvd.","2540 W. Jackson Blvd.
+Chicago, IL 
+(41.877529, -87.690647)"
+"Thu","2017-08-24T00:00:00.000","Wicker Park","(312) 742-7553","Gone in 60 Seconds","Y","PG-13","Underwritten by the Wicker Park Bucktown Chamber and the Wicker Park Advisory Council","1425 N. Damen Avenue","1425 N. Damen Avenue
+Chicago, IL 
+(41.90763, -87.677389)"
+"Fri","2017-08-25T00:00:00.000","Athletic Field Park","(773) 478-2889","The Little Mermaid","Y","G","Produced by the Athletic Field Park Advisory Council","3546 W. Addison St.","3546 W. Addison St.
+Chicago, IL 
+(41.946538, -87.715942)"
+"Fri","2017-08-25T00:00:00.000","Clark (John) Park","(773) 287-7794","Sing","Y","PG","Co-produced by 24th Ward Alderman Michael Scott Jr.","4615 W. Jackson Blvd.","4615 W. Jackson Blvd.
+Chicago, IL 
+(41.876926, -87.740505)"
+"Fri","2017-08-25T00:00:00.000","Jensen Park","(312) 742-7054","Trolls","Y","PG",,"4650 N. Lawndale Ave.","4650 N. Lawndale Ave.
+Chicago, IL 
+(41.9657, -87.720608)"
+"Fri","2017-08-25T00:00:00.000","Jonquil Playlot Park","(312) 742-7816","Wall-E","Y","G","Underwritten by the Museum of Science and Industry","1001 W. Wrightwood Ave.","1001 W. Wrightwood Ave.
+Chicago, IL 
+(41.929029, -87.653839)"
+"Fri","2017-08-25T00:00:00.000","Palmer Park","(312) 747-6577","Ghostbusters (2016)","Y","PG-13",,"201 E. 111th St.","201 E. 111th St.
+Chicago, IL 
+(41.692654, -87.617721)"
+"Sat","2017-08-26T00:00:00.000","Chicago Women's Park and Gardens","(312) 328-0821","The LEGO Batman Movie","Y","PG","Underwritten by the Prairie District Neighborhood Alliance","1801 S. Indiana Ave.","1801 S. Indiana Ave.
+Chicago, IL 
+(41.857935, -87.622279)"
+"Sat","2017-08-26T00:00:00.000","Oz Park","(312) 742-7898","The Wizard of Oz","Y","G",,"2021 N. Burling St.","2021 N. Burling St.
+Chicago, IL 
+(41.919044, -87.647303)"
+"Sat","2017-08-26T00:00:00.000","Pulaski Park","(312) 742-7559","X-Men: Apocalypse","Y","PG-13",,"1419 W. Blackhawk St.","1419 W. Blackhawk St.
+Chicago, IL 
+(41.907049, -87.663404)"
+"Sun","2017-08-27T00:00:00.000","Eckhart Park","(312) 746-5490","The Sandlot","Y","PG","Underwritten by Friends of Eckhart Park","1330 W. Chicago Ave.","1330 W. Chicago Ave.
+Chicago, IL 
+(41.896208, -87.660751)"
+"Mon","2017-08-28T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","April and the Extraordinary World","Y","PG","Underwritten by the Consulate General of France in Chicago","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892878, -87.640952)"
+"Mon","2017-08-28T00:00:00.000","Grant Park: Grove 5","(312) 742-1134","The Manchurian Candidate","Y","PG-13",,"800 S. Columbus Dr.","800 S. Columbus Dr.
+Chicago, IL 
+(41.872058, -87.620555)"
+"Mon","2017-08-28T00:00:00.000","South Shore Cultural Center","(773) 256-0149","Queen of Katwe","Y","PG",,"7059 S. South Shore Drive","7059 S. South Shore Drive
+Chicago, IL 
+(41.766242, -87.562783)"
+"Tue","2017-08-29T00:00:00.000","Northerly Island Park","(312) 745-2910","Chicago Onscreen Local Film Showcase",,"NR",,"1521 S. Linn White Dr.","1521 S. Linn White Dr.
+Chicago, IL 
+(41.860664, -87.610261)"
+"Tue","2017-08-29T00:00:00.000","Shedd Park","(773) 762-3168","Tyler Perry's Boo: A Madea Halloween","Y","PG-13",,"3660 W. 23rd St.","3660 W. 23rd St.
+Chicago, IL 
+(41.849847, -87.716566)"
+"Wed","2017-08-30T00:00:00.000","Indian Boundary Park and Cultural Center","(773) 764-0338","Chicago Onscreen Local Film Showcase",,"NR",,"2500 W. Lunt Ave.","2500 W. Lunt Ave.
+Chicago, IL 
+(42.008606, -87.692536)"
+"Wed","2017-08-30T00:00:00.000","Revere park","(773) 478-1220","Chicago Onscreen Local Film Showcase",,"NR",,"2059 W. Irving Park Rd.","2059 W. Irving Park Rd.
+Chicago, IL 
+(41.954103, -87.680473)"
+"Thu","2017-08-31T00:00:00.000","Chase Park","(312) 742-7518","National Treasure","Y","PG","Produced by the Chase Park Advisory Council","4701 N. Ashland Ave.","4701 N. Ashland Ave.
+Chicago, IL 
+(41.967097, -87.669326)"
+"Thu","2017-08-31T00:00:00.000","Ellis Park","(773) 285-7099","Chicago Onscreen Local Film Showcase",,"NR",,"3520 S. Cottage Grove Ave.","3520 S. Cottage Grove Ave.
+Chicago, IL 
+(41.830713, -87.610379)"
+"Thu","2017-08-31T00:00:00.000","Wicker Park","(312) 742-7553","Chicago Onscreen Local Film Showcase",,"NR",,"1425 N. Damen Ave.","1425 N. Damen Ave.
+Chicago, IL 
+(41.90763, -87.677389)"
+"Fri","2017-09-01T00:00:00.000","Calumet Park","(312) 747-6039","Chicago Onscreen Local Film Showcase",,"NR",,"9801 S. Ave G","9801 S. Ave G
+Chicago, IL 
+(41.717823, -87.531589)"
+"Fri","2017-09-01T00:00:00.000","Ping Tom Park","(312) 225-3121","Chicago Onscreen Local Film Showcase",,"NR",,"1700 S. Wentworth Ave.","1700 S. Wentworth Ave.
+Chicago, IL 
+(41.858695, -87.6319)"
+"Sat","2017-09-02T00:00:00.000","Chase Park","(312) 742-7518","Chicago Onscreen Local Film Showcase",,"NR",,"4701 N. Ashland Ave.","4701 N. Ashland Ave.
+Chicago, IL 
+(41.967097, -87.669326)"
+"Mon","2017-09-04T00:00:00.000","Osterman Beach","(312) 742-1134","Top Gun","Y","PG",,"5800 N. Lake Shore Dr.","5800 N. Lake Shore Dr.
+Chicago, IL "
+"Thu","2017-09-07T00:00:00.000","Hamlin Park","(312) 742-7785","Moana","Y","PG",,"3035 N. Hoyne Ave.","3035 N. Hoyne Ave.
+Chicago, IL 
+(41.937197, -87.680691)"

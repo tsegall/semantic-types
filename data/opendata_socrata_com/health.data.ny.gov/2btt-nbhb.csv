@@ -1,0 +1,11 @@
+"measurement_year","payer","plan_id","plan_name","measure","measure_description","age_category","gender","rate","percentile_10th","percentile_25th","percentile_50th","percentile_75th","percentile_90th","level_of_significance","membermonths","events","days"
+"2018","Commercial HMO","1000001","Statewide","ER Visits","Emergency Room Visits","Age 0-19","Both genders","189",,,,,,,"4961048","78105",
+"2018","Commercial HMO","1000001","Statewide","ER Visits","Emergency Room Visits","Age 20 or older","Both genders","208",,,,,,,"17521190","303765",
+"2018","Commercial PPO","1000001","Statewide","ER Visits","Emergency Room Visits","Age 0-19","Both genders","162",,,,,,,"11795559","159693",
+"2018","Commercial PPO","1000001","Statewide","ER Visits","Emergency Room Visits","Age 20 or older","Both genders","165",,,,,,,"40954231","563969",
+"2018","Health and Recovery Plans","1000001","Statewide","ER Visits","Emergency Room Visits","Age 0-19","Both genders","1500",,,,,,,"16","2",
+"2018","Health and Recovery Plans","1000001","Statewide","ER Visits","Emergency Room Visits","Age 20 or older","Both genders","1604",,,,,,,"1350822","180586",
+"2018","HIV Special Needs Plans","1000001","Statewide","ER Visits","Emergency Room Visits","Age 20 or older","Both genders","1090",,,,,,,"162456","14755",
+"2018","HIV Special Needs Plans","1000001","Statewide","ER Visits","Emergency Room Visits","Age 0-19","Both genders","721",,,,,,,"7906","475",
+"2018","Medicaid Managed Care","1000001","Statewide","ER Visits","Emergency Room Visits","Age 20 or older","Both genders","554",,,,,,,"28280041","1305632",
+"2018","Medicaid Managed Care","1000001","Statewide","ER Visits","Emergency Room Visits","Age 0-19","Both genders","429",,,,,,,"28200318","1007874",

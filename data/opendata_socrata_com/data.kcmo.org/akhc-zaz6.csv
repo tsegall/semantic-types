@@ -1,0 +1,2001 @@
+"number","fraction","prefix","name","suffix","month","day","year","res_non","type","sf_mf","dwelling_units_gained_or_lost","permit_value","how_far_east","how_far_north","permit_number","location_1"
+"701",,"E",,,"8","15","1973","Non-Residential","Demolition","NA","0","500","2767229","1071581","90778","701 E 5TH
+,  "
+"3004",,"E","77","TE","5","1","1970","Residential","Demolition","Single Family","1","150","2773707","1026633","23921","3004 E 77 TE
+,  "
+"8937",,,,,"4","20","1976","Non-Residential","New Construction","NA","0","6975","2792088","1017240","34005","8937 BOOTH
+,  "
+"408",,"NW","80","ST","12","21","1973","Residential","Additions, Alterations, Repairs","NA","0","200","2764481","1118856","96167","408 NW 80 ST
+,  "
+"1210",,,,,"3","3","1977","Non-Residential","Demolition","NA","0","10000","2763541","1067896","55795","1210 BROADWAY
+,  "
+"721",,"NE","100","TE","4","1","1971","Residential","New Construction","Single Family","1","20000","2768773","1132189","40893","721 NE 100 TE
+,  "
+"4418",,"E",,"ST","9","20","1979","Non-Residential","New Construction","NA","0","11000","2777874","1008944","19971","4418 E 104TH ST
+,  "
+"1601",,,,,"3","21","1978","Non-Residential","Demolition","NA","0","3300","2758999","1066063","83331","1601 GENESSEE
+,  "
+"6029",,"E",,"ST","8","15","1977","Non-Residential","Demolition","NA","0","350","2785853","1068113","67986","6029 E 10TH ST
+,  "
+"2900",,,,,"8","26","1974","Non-Residential","Demolition","NA","0","2300","2758654","1058975","7984","2900 GENESSEE
+,  "
+"401",,"E",,,"8","14","1973","Non-Residential","New Construction","NA","0","1500","2763355","1000736","90720","401 E 117TH
+,  "
+"926",,"E",,"ST","12","12","1979","Non-Residential","Demolition","NA","0","21000","2768471","1068448","25398","926 E 11TH ST
+,  "
+"1818",,,,,"7","19","1973","Non-Residential","Demolition","NA","0","2000","2765568","1064970","89460","1818 GRAND
+,  "
+"6",,"E",,"TE","5","26","1978","Non-Residential","New Construction","NA","0","3500","2761967","993959","88356","6 E 127TH TE
+,  "
+"3025",,"E",,,"8","23","1976","Residential","Demolition","Single Family","1","500","2775572","1062725","42582","3025 E 22ND
+,  "
+"2417",,"E",,"ST","8","1","1972","Residential","Demolition","Single Family","1","489","2773349","1057732","70559","2417 E 30TH ST
+,  "
+"3617",,"E",,,"3","26","1976","Residential","Demolition","Single Family","1","1225","2777140","1054933","32877","3617 E 34TH
+,  "
+"1831",,,,,"7","10","1975","Non-Residential","New Construction","NA","0","3000","2770072","1022931","20859","1831 MADDI
+,  "
+"1101",,,,,"3","1","1971","Non-Residential","Demolition","NA","0","100","2770746","1068238","38573","1101 PASEO
+,  "
+"1618",,"E",,"ST","12","1","1977","Non-Residential","Demolition","NA","0","189","2770451","1051385","75646","1618 E 40TH ST
+,  "
+"628",,"W",,"ST","8","22","1974","Non-Residential","Demolition","NA","0","300","2761785","1051781","7835","628 W 40TH ST
+,  "
+"1512",,,,,"2","16","1978","Non-Residential","Demolition","NA","0","500","2779520","1065685","81541","1512 SPRUCE
+,  "
+"6320",,,,"AV","5","14","1974","Non-Residential","Demolition","NA","0","100","2767427","1036267","3617","6320 TROOST AV
+,  "
+"11000",,"E",,"ST","5","2","1978","Non-Residential","New Construction","NA","0","6000","2802926","1043692","86436","11000 E 49TH ST
+,  "
+"2520",,"E",,"ST","7","1","1975","Non-Residential","Demolition","NA","0","832","2772934","1044677","20559","2520 E 50TH ST
+,  "
+"5644",,,,,"10","16","1978","Non-Residential","Demolition","NA","0","300","2768284","1040278","97745","5644 TRACY
+,  "
+"825",,"W",,"TE","6","23","1976","Non-Residential","New Construction","NA","0","5000","2760713","1039528","38349","825 W 58TH TE
+,  "
+"11710",,"E",,"ST","11","29","1974","Non-Residential","New Construction","NA","0","2400","2804864","1037162","11247","11710 E 59TH ST
+,  "
+"445",,"E",,"ST","4","12","1978","Non-Residential","New Construction","NA","0","5000","2765521","1035240","84959","445 E 65TH ST
+,  "
+"9612",,,,,"3","11","1974","Non-Residential","New Construction","NA","0","2600","2791145","1013146","552","9612 WALLACE
+,  "
+"6930",,,,,"8","2","1978","Non-Residential","Demolition","NA","0","350","2774495","1031749","92769","6930 WALROND
+,  "
+"2401",,"NW",,,"5","14","1974","Residential","Demolition","Single Family","1","529","2757924","1110820","3632","2401 NW 68TH
+,  "
+"724",,"E",,"ST","6","3","1974","Non-Residential","New Construction","NA","0","3819","2766306","1030682","4456","724 E 72ND ST
+,  "
+"204",,"E",,"ST","4","9","1979","Non-Residential","New Construction","NA","0","3360","2763875","1025523","8816","204 E 80TH ST
+,  "
+"1819",,"E",,"ST","5","27","1976","Non-Residential","Demolition","NA","0","200","2769980","1023763","36445","1819 E 82ND ST
+,  "
+"14",,"W",,"ST","9","7","1978","Non-Residential","New Construction","NA","0","7200","2762390","1014397","95022","14 W 97TH ST
+,  "
+"308",,"E",,"ST","6","20","1974","Non-Residential","Demolition","NA","0","180","2763847","1012968","5312","308 E 99TH ST
+,  "
+"1416",,,,,"5","2","1979","Non-Residential","Demolition","NA","0","5875","2775196","1066322","10510","1416 AGNES
+,  "
+"7012",,,,,"9","26","1975","Residential","Additions, Alterations, Repairs","NA","0","5000","2773809","1031355","24279","7012 AGNES
+,  "
+"7918",,"N",,,"6","14","1977","Non-Residential","New Construction","NA","0","4000","2750992","1118504","63575","7918 N ANITA
+,  "
+"7118",,,,"AV","1","1","1972","Non-Residential","New Construction","NA","0","2000","2775768","1030447","58693","7118 ASKEW AV
+,  "
+"3840",,,,"AV","8","2","1974","Residential","Demolition","Single Family","1","879","2776375","1051808","7164","3840 BALES AV
+,  "
+"8430",,"N",,,"12","6","1974","Non-Residential","Demolition","NA","0","100","2777930","1121863","11466","8430 N BALES
+,  "
+"1004",,,,,"2","4","1977","Non-Residential","Demolition","NA","0","3000","2764711","1068857","53933","1004 BALTIMORE
+,  "
+"400",,"NW",,"RD","4","19","1978","Non-Residential","New Construction","NA","0","649450","2765366","1123539","85596","400 NW BARRY RD
+,  "
+"2846",,,,,"2","13","1974","Non-Residential","Demolition","NA","0","400","2758395","1059194","99425","2846 BELL
+,  "
+"3916",,,,"BL","3","12","1979","Residential","Additions, Alterations, Repairs","NA","0","700","2775351","1051515","6974","3916 BENTON BL
+,  "
+"4141",,,,"PK","8","1","1972","Non-Residential","New Construction","NA","0","6000","2778303","1044302","72034","4141 BLUE PK
+,  "
+"142",,"N",,,"3","27","1974","Residential","Additions, Alterations, Repairs","NA","0","950","2782034","1073257","1439","142 N BRIGHTON
+,  "
+"2635",,,,,"12","7","1973","Residential","Demolition","Single Family","1","450","2781717","1059830","95123","2635 BRIGHTON
+,  "
+"1331",,,,,"4","23","1975","Non-Residential","Demolition","NA","0","751","2772827","1066827","17318","1331 BROOKLYN
+,  "
+"1702",,,,"DR","11","1","1970","Non-Residential","New Construction","NA","0","10000","2769295","1037239","33229","1702 BUSHMAN DR
+,  "
+"4017",,,,,"6","19","1978","Non-Residential","New Construction","NA","0","6000","2798053","1049556","89743","4017 CRESCENT
+,  "
+"2733",,,,,"11","16","1973","Residential","Demolition","Single Family","1","900","2780085","1059014","94935","2733 CYPRESS
+,  "
+"402",,,,,"5","3","1977","Non-Residential","Demolition","NA","0","8700","2764718","1071338","60494","402 DELAWARE
+,  "
+"600",,,,,"6","5","1974","Non-Residential","New Construction","NA","0","3800","2765006","1070389","4562","600 DELAWARE
+,  "
+"9517",,,,,"8","18","1977","Residential","New Construction","Single Family","1","27000","2787837","1014143","68239","9517 EASTERN
+,  "
+"2514",,,,,"5","16","1974","Residential","Demolition","Multifamily","4","2400","2771821","1061039","3752","2514 EUCLID
+,  "
+"8830",,,,,"5","6","1974","Non-Residential","New Construction","NA","0","2500","2792326","1018187","3236","8830 EVERETT
+,  "
+"2544",,,,"AV","9","1","1970","Residential","Demolition","Single Family","1","200","2768936","1060965","29851","2544 FOREST AV
+,  "
+"1728",,,,,"9","17","1975","Non-Residential","Demolition","NA","0","800","2769099","1065342","23846","1728 FOREST
+,  "
+"3304",,,,,"10","1","1972","Residential","Demolition","Single Family","1","300","2768658","1055944","74423","3304 FOREST
+,  "
+"10822",,,,,"9","16","1976","Residential","Additions, Alterations, Repairs","NA","0","1277","2784185","1005301","44229","10822 FREMONT
+,  "
+"3308",,,,"PZ","3","20","1979","Non-Residential","Demolition","NA","0","2600","2766499","1055658","7520","3308 GILLHAM PZ
+,  "
+"3206",,,,"RD","6","25","1973","Non-Residential","New Construction","NA","0","4300","2766566","1056684","88145","3206 GILLHAM RD
+,  "
+"1120",,,,"AV","1","1","1973","Non-Residential","Demolition","NA","0","3500","2765667","1068219","78172","1120 GRAND AV
+,  "
+"1606",,,,"AV","5","1","1970","Non-Residential","Demolition","NA","0","500","2765577","1065977","24221","1606 GRAND AV
+,  "
+"601",,,,,"1","1","1972","Non-Residential","Demolition","NA","0","1918","2783422","1069722","58385","601 HARDESTY
+,  "
+"8531",,,,,"9","20","1976","Non-Residential","New Construction","NA","0","1500","2769272","1021424","44346","8531 HIGHLAND
+,  "
+"906",,,,,"3","8","1974","Non-Residential","Demolition","NA","0","600","2768288","1070715","451","906 INDEPENDENCE
+,  "
+"3937",,,,,"5","5","1975","Residential","Demolition","Single Family","1","600","2776143","1051204","17735","3937 INDIANA
+,  "
+"500",,,,"RD","2","1","1977","Non-Residential","New Construction","NA","0","6000","2762312","1046816","53725","500 J C NICHOLS RD
+,  "
+"4316",,,,,"1","18","1978","Residential","Demolition","Single Family","1","240","2760453","1049717","79876","4316 JARBOE
+,  "
+"1725",,,,,"11","21","1979","Residential","Demolition","Single Family","1","4220","2762590","1065178","24290","1725 JEFFERSON
+,  "
+"4200",,,,"AV","5","4","1976","Non-Residential","New Construction","NA","0","100000","2766422","1050189","34724","4200 KENWOOD AV
+,  "
+"11638",,,,,"3","4","1976","Non-Residential","New Construction","NA","0","9000","2764121","1000799","31791","11638 KENWOOD
+,  "
+"4229",,,,"ST","1","1","1973","Non-Residential","Demolition","NA","0","900","2764200","1049958","79962","4229 MAIN ST
+,  "
+"3637",,,,,"6","26","1974","Non-Residential","Demolition","NA","0","4200","2764392","1053683","5497","3637 MAIN
+,  "
+"9207",,,,,"7","31","1973","Non-Residential","New Construction","NA","0","2300","2772614","1016556","90070","9207 MONTGALL
+,  "
+"4412",,,,,"12","6","1977","Residential","Demolition","Single Family","1","560","2778196","1048179","75917","4412 NORTON
+,  "
+"217",,,,"ST","4","1","1973","Non-Residential","Demolition","NA","0","1500","2766052","1072247","84074","217 OAK ST
+,  "
+"6400",,,,,"4","1","1977","Non-Residential","New Construction","NA","0","400","2764798","1035892","58058","6400 OAK
+,  "
+"521",,,,,"7","8","1974","Non-Residential","Demolition","NA","0","390","2773558","1070885","6039","521 OLIVE
+,  "
+"5713",,,,,"7","26","1977","Non-Residential","Demolition","NA","0","185","2772020","1039801","66475","5713 PARK
+,  "
+"4625",,,,,"5","1","1972","Non-Residential","Demolition","NA","0","500","2773352","1046875","64439","4625 PROSPECT
+,  "
+"13000",,,,,"10","2","1978","Non-Residential","New Construction","NA","0","13000","2795567","990659","96755","13000 RAYTOWN
+,  "
+"9704",,,,,"8","22","1978","Non-Residential","New Construction","NA","0","11000","2788351","1012624","93912","9704 RICHMOND
+,  "
+"3300",,,,"RD","2","8","1974","Non-Residential","New Construction","NA","0","30000","2759137","1056350","99286","3300 ROANOKE RD
+,  "
+"4344",,,,,"7","18","1977","Residential","Demolition","Single Family","1","225","2778851","1048381","65835","4344 SPRUCE
+,  "
+"4326",,,,"AV","4","25","1977","Residential","Demolition","Single Family","1","950","2768024","1049123","59814","4326 TROOST AV
+,  "
+"316",,,,"AV","3","1","1973","Residential","Demolition","Multifamily","3","850","2773763","1071814","82371","316 WABASH AV
+,  "
+"600",,,,"PK","3","1","1971","Non-Residential","Demolition","NA","0","3000","2762010","1046342","39421","600 WARD PK
+,  "
+"7825",,,,,"3","27","1979","Residential","Demolition","Single Family","1","500","2761605","1026736","8011","7825 WASHINGTON
+,  "
+"2446",,,,,"9","1","1971","Residential","Demolition","Single Family","1","304","2769814","1061564","49869","2446 WEST PASEO
+,  "
+"4309",,,,"AV","12","1","1970","Residential","Demolition","Single Family","1","300","2770792","1049284","34485","4309 WOODLAND AV
+,  "
+,,,,,"6","16","1976","Non-Residential","Demolition","NA","0","570","2771327","1064683","37759","WOODLAND
+,  "
+"4545",,,,"AV","8","1","1972","Non-Residential","New Construction","NA","0","31657","2791487","1095360","70863","4545 WORLDS OF FUN AV
+,  "
+"8550",,"N",,,"9","30","1975","Non-Residential","New Construction","NA","0","950000","2765416","1122330","24391","8550 N WYANDOTTE
+,  "
+"4525",,,,,"6","1","1972","Non-Residential","Demolition","NA","0","100","2758902","1048229","68815","4525 WYOMING
+,  "
+"12001",,"E","57","ST","4","1","1971","Residential","New Construction","Single Family","1","16000","2805777","1038429","41304","12001 E 57 ST
+,  "
+"2002",,"E","19","ST","1","1","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","1900","2772027","1064500","80192","2002 E 19 ST
+,  "
+"1316",,"E","27","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","800","2769557","1059992","43240","1316 E 27 ST
+,  "
+"4636",,"E","7","ST","5","9","1973","Residential","Additions, Alterations, Repairs","NA","0","2000","2781310","1069435","85450","4636 E 7 ST
+,  "
+"12001",,"E","57","TE","12","1","1970","Residential","New Construction","Single Family","1","13000","2805862","1038134","34575","12001 E 57 TE
+,  "
+"30",,"NW","41","TE","10","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1500","2765225","1093362","51945","30 NW 41 TE
+,  "
+"15212",,"E","48","ST","2","1","1971","Residential","New Construction","Single Family","1","10000","2816829","1043809","37874","15212 E 48 ST
+,  "
+"9024",,"E","31","ST","10","1","1972","Residential","New Construction","Single Family","1","17888","2796609","1056107","74418","9024 E 31 ST
+,  "
+"5211",,"NE","46","TE","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","400","2783536","1096509","21976","5211 NE 46 TE
+,  "
+"5817",,"NE","45","ST","4","1","1972","Residential","New Construction","Single Family","1","12000","2785586","1095440","63111","5817 NE 45 ST
+,  "
+"3606",,"E","24","ST","5","1","1970","Residential","Demolition","Single Family","1","200","2777325","1061841","23497","3606 E 24 ST
+,  "
+"7601",,"E","52","ST","5","1","1971","Residential","New Construction","Single Family","1","10400","2789601","1042416","42596","7601 E 52 ST
+,  "
+"10501",,"E","42","ST","4","1","1971","Residential","New Construction","Multifamily","10","67970","2801197","1048543","41881","10501 E 42 ST
+,  "
+"15215",,"E","48","TE","5","1","1970","Residential","New Construction","Single Family","1","10000","2816826","1043399","24600","15215 E 48 TE
+,  "
+"12009",,"E","56","ST","11","1","1971","Residential","New Construction","Single Family","1","15500","2805950","1039001","54200","12009 E 56 ST
+,  "
+"606",,"NE","43","ST","5","1","1973","Residential","Additions, Alterations, Repairs","NA","0","9000","2767796","1094356","84986","606 NE 43 ST
+,  "
+"6325",,"E","18","TE","5","1","1972","Residential","New Construction","Single Family","1","14400","2786274","1063718","64402","6325 E 18 TE
+,  "
+"4000",,"E","31","ST","10","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","2700","2778281","1056962","32333","4000 E 31 ST
+,  "
+"5212",,"NE","44","TE","12","1","1970","Residential","New Construction","Single Family","1","13104","2783675","1095281","34330","5212 NE 44 TE
+,  "
+"414",,"E","12","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","48000","2766495","1068344","46911","414 E 12 ST
+,  "
+"517",,"NE","42","TE","11","1","1970","Residential","Additions, Alterations, Repairs","NA","0","319","2767592","1093929","33209","517 NE 42 TE
+,  "
+"205",,"E","9","ST","10","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","100","2765919","1069288","51912","205 E 9 ST
+,  "
+"2700",,"E","51","ST","8","1","1972","Residential","Demolition","Single Family","1","519","2773490","1043989","71569","2700 E 51 ST
+,  "
+"2916",,"NE","37","TE","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2000","2775806","1090725","47606","2916 NE 37 TE
+,  "
+"5605",,"E","36","TE","12","1","1970","Residential","Demolition","Single Family","1","285","2783537","1053062","34434","5605 E 36 TE
+,  "
+"3816",,"E","58","TE","4","1","1973","Residential","Demolition","Single Family","1","400","2777131","1038907","84845","3816 E 58 TE
+,  "
+"1209",,"E","59","ST","11","1","1970","Residential","Additions, Alterations, Repairs","NA","0","500","2759337","1039245","32754","1209 E 59 ST
+,  "
+"1623",,"E","22","TE","12","1","1971","Residential","Demolition","Single Family","1","425","2770959","1062535","56026","1623 E 22 TE
+,  "
+"417",,"W","59","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","450","2762043","1039122","46974","417 W 59 ST
+,  "
+"3016",,"E","8","ST","4","1","1970","Residential","Demolition","Single Family","1","739","2775707","1069334","22881","3016 E 8 ST
+,  "
+"5400",,"NE","59","ST","3","1","1970","Residential","New Construction","Single Family","1","13000","2784150","1104911","21125","5400 NE 59 ST
+,  "
+"3209",,"NW","56","ST","4","1","1972","Residential","New Construction","Single Family","1","29500","2755071","1102981","63311","3209 NW 56 ST
+,  "
+"8434",,"E","56","TE","6","1","1971","Residential","New Construction","Single Family","1","13300","2792380","1039516","44346","8434 E 56 TE
+,  "
+"1322",,"E","44","ST","8","1","1971","Residential","Demolition","Single Family","1","474","2769234","1048890","49182","1322 E 44 ST
+,  "
+"8414",,"E","55","TE","10","1","1970","Residential","New Construction","Single Family","1","13000","2792119","1040184","31174","8414 E 55 TE
+,  "
+"2110",,"E","47","TE","10","1","1972","Residential","Demolition","Multifamily","2","476","2771616","1046334","74080","2110 E 47 TE
+,  "
+"8404",,"E","56","ST","10","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","400","2791955","1039840","52774","8404 E 56 ST
+,  "
+"5112",,"NE","49","ST","6","1","1970","Residential","New Construction","Single Family","1","13000","2783187","1098194","24969","5112 NE 49 ST
+,  "
+"8425",,"E","55","ST","5","1","1971","Residential","New Construction","Single Family","1","14500","2792256","1040358","42547","8425 E 55 ST
+,  "
+"8722",,"E","58","ST","5","1","1972","Residential","New Construction","Single Family","1","14000","2793409","1038295","65012","8722 E 58 ST
+,  "
+"6032",,"E","12","TE","2","1","1970","Non-Residential","New Construction","NA","0","1200","2785675","1066892","19334","6032 E 12 TE
+,  "
+"3720",,"NE","46","ST","10","1","1970","Residential","Additions, Alterations, Repairs","NA","0","350","2779037","1096710","31009","3720 NE 46 ST
+,  "
+"927",,"W","34","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","2500","2760990","1055627","66098","927 W 34 ST
+,  "
+"615",,"W","11","ST","10","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","5000","2762792","1068447","52652","615 W 11 ST
+,  "
+"15319",,"E","48","TE","8","1","1970","Residential","New Construction","Single Family","1","10000","2817196","1043380","28159","15319 E 48 TE
+,  "
+"10315",,"E","39","ST","1","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2000","2800656","1050465","17626","10315 E 39 ST
+,  "
+"3510",,"E","25","ST","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","482","2777063","1061074","41465","3510 E 25 ST
+,  "
+"4409",,"E","27","ST","6","1","1972","Residential","Additions, Alterations, Repairs","NA","0","690","2779918","1059422","67798","4409 E 27 ST
+,  "
+"6215",,"E","11","ST","11","1","1971","Residential","Additions, Alterations, Repairs","NA","0","700","2786119","1067775","54764","6215 E 11 ST
+,  "
+"6320",,"E","18","TE","9","1","1970","Residential","New Construction","Single Family","1","13000","2786350","1063813","30421","6320 E 18 TE
+,  "
+"5616",,"E","31","ST","2","1","1970","Residential","Demolition","Single Family","1","219","2783567","1056731","18688","5616 E 31 ST
+,  "
+"21",,"W","10","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","500","2764862","1068851","46460","21 W 10 ST
+,  "
+"3706",,"NE","52","TE","6","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1150","2778730","1100554","68227","3706 NE 52 TE
+,  "
+"1708",,"E","27","ST","3","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2770889","1059916","21553","1708 E 27 ST
+,  "
+"15115",,"E","51","ST","12","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2900","2816342","1041720","77057","15115 E 51 ST
+,  "
+"625",,"NE","41","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","440","2767957","1092797","47530","625 NE 41 ST
+,  "
+"7006",,"E","13","ST","3","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","1850","2786236","1001688","60828","7006 E 13 ST
+,  "
+"8020",,"NE","51","ST","4","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","400","2792764","1099537","40895","8020 NE 51 ST
+,  "
+"14",,"E","34","ST","12","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2000","2764359","1055588","77308","14 E 34 ST
+,  "
+"915",,"W","29","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","500","2767993","1058629","42464","915 W 29 ST
+,  "
+"5415",,"E","55","ST","2","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1920","2782682","1040833","37753","5415 E 55 ST
+,  "
+"300",,"W","12","ST","6","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1200","2763948","1068234","26002","300 W 12 ST
+,  "
+"5411",,"E","10","ST","9","1","1970","Residential","Demolition","Single Family","1","200","2783470","1068035","30289","5411 E 10 ST
+,  "
+"5912",,"E","28","ST","10","1","1971","Residential","Demolition","Single Family","1","225","2784772","1058585","52017","5912 E 28 ST
+,  "
+"616",,"E","1","ST","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","500","2766374","1072727","26424","616 E 1 ST
+,  "
+"5618",,"E","37","ST","12","1","1970","Residential","Demolition","Single Family","1","200","2783840","1052804","34525","5618 E 37 ST
+,  "
+"12605",,"E","59","ST","5","1","1972","Residential","Additions, Alterations, Repairs","NA","0","700","2807818","1036851","65192","12605 E 59 ST
+,  "
+"3320",,"E","23","ST","10","1","1970","Residential","Additions, Alterations, Repairs","NA","0","100","2776313","1062413","31701","3320 E 23 ST
+,  "
+"5809",,"E","16","ST","3","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1300","2784661","1065161","20695","5809 E 16 ST
+,  "
+"4109",,"E","19","ST","10","1","1972","Residential","Demolition","Single Family","1","278","2779128","1063932","73794","4109 E 19 ST
+,  "
+"3818",,"NE","50","TE","5","15","1973","Residential","Additions, Alterations, Repairs","NA","0","1225","2779189","1099356","85719","3818 NE 50 TE
+,  "
+"5933",,"E","40","TE","2","1","1970","Residential","New Construction","Multifamily","6","31704","2784269","1050312","19951","5933 E 40 TE
+,  "
+"12509",,"E","54","TE","11","1","1971","Residential","Additions, Alterations, Repairs","NA","0","300","2808469","1039677","54183","12509 E 54 TE
+,  "
+"7929",,"NE","54","ST","8","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1750","2792625","1101555","71136","7929 NE 54 ST
+,  "
+"2626",,"E","8","ST","5","1","1970","Residential","Additions, Alterations, Repairs","NA","0","700","2774575","1069401","24328","2626 E 8 ST
+,  "
+"2414",,"E","46","ST","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","600","2772852","1047342","30190","2414 E 46 ST
+,  "
+"12112",,"E","58","ST","3","1","1972","Residential","New Construction","Single Family","1","15500","2806262","1037965","61615","12112 E 58 ST
+,  "
+"807",,"NE","46","ST","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","380","2768780","1096081","40807","807 NE 46 ST
+,  "
+"1905",,"E","35","ST","1","1","1970","Residential","Demolition","Single Family","1","894","2771321","1054518","18525","1905 E 35 ST
+,  "
+"5500",,"NE","48","ST","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","975","2784352","1097533","25554","5500 NE 48 ST
+,  "
+"6417",,"E","12","TE","7","1","1971","Residential","Demolition","Single Family","1","299","2786781","1066754","47618","6417 E 12 TE
+,  "
+"123",,"E","12","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","3200","2765493","1067991","64681","123 E 12 ST
+,  "
+"6700",,"E","58","ST","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","574","2786546","1039048","40955","6700 E 58 ST
+,  "
+"444",,"W","51","ST","7","1","1971","Residential","Demolition","Single Family","1","2800","2761946","1044528","46328","444 W 51 ST
+,  "
+"4501",,"E","38","ST","12","1","1970","Residential","Demolition","Single Family","1","200","2779808","1052165","34950","4501 E 38 ST
+,  "
+"8420",,"E","56","ST","12","1","1970","Residential","New Construction","Single Family","1","12000","2792157","1039789","33933","8420 E 56 ST
+,  "
+"8401",,"E","49","ST","8","1","1971","Residential","New Construction","Single Family","1","15500","2792393","1044244","49290","8401 E 49 ST
+,  "
+"2300",,"E","12","ST","2","1","1971","Non-Residential","Demolition","NA","0","2497","2773146","1067753","37151","2300 E 12 ST
+,  "
+"1924",,"E","30","ST","11","1","1972","Non-Residential","Demolition","NA","0","1257","2771594","1057958","76607","1924 E 30 ST
+,  "
+"8420",,"E","9","ST","2","1","1971","Residential","Demolition","Single Family","1","468","2793133","1068183","37703","8420 E 9 ST
+,  "
+"701",,"W","38","ST","7","1","1971","Residential","Demolition","Single Family","1","800","2761933","1052773","46685","701 W 38 ST
+,  "
+"20",,"E","14","ST","11","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","7200","2765125","1067123","54507","20 E 14 ST
+,  "
+"3101",,"E","36","ST","6","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1800","2775197","1053689","66996","3101 E 36 ST
+,  "
+"2320",,"E","59","ST","1","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2000","2772205","1038805","57737","2320 E 59 ST
+,  "
+"7113",,"E","17","ST","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","400","2788872","1064353","25758","7113 E 17 ST
+,  "
+"1631",,"E","22","TE","5","10","1973","Residential","Additions, Alterations, Repairs","NA","0","400","2770976","1062625","85470","1631 E 22 TE
+,  "
+"4001",,"NE","53","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","2500","2779517","1100740","66181","4001 NE 53 ST
+,  "
+"2308",,"E","31","ST","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2772760","1057198","26556","2308 E 31 ST
+,  "
+"12200",,"E","57","TE","2","1","1970","Residential","New Construction","Single Family","1","13000","2806373","1038273","19025","12200 E 57 TE
+,  "
+"3810",,"E","56","TE","8","1","1970","Residential","Demolition","Single Family","1","200","2777040","1040560","28135","3810 E 56 TE
+,  "
+"9301",,"E","47","ST","9","1","1971","Non-Residential","New Construction","NA","0","225500","2796899","1044518","50809","9301 E 47 ST
+,  "
+"10800",,"E","43","ST","3","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","400","2802324","1047858","20259","10800 E 43 ST
+,  "
+"6006",,"E","8","ST","3","1","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","375","2785626","1069023","82025","6006 E 8 ST
+,  "
+"2902",,"NE","56","ST","7","1","1970","Non-Residential","New Construction","NA","0","500","2776035","1102672","26387","2902 NE 56 ST
+,  "
+"1408",,"E","19",,"1","1","1972","Residential","Demolition","Single Family","1","2400","2770075","1064504","58508","1408 E 19
+,  "
+"5873",,"E","21","ST","4","1","1970","Residential","New Construction","Multifamily","4","36992","2784652","1062798","22397","5873 E 21 ST
+,  "
+"2720",,"E","40","ST","2","1","1972","Residential","Additions, Alterations, Repairs","NA","0","3000","2774071","1051218","60388","2720 E 40 ST
+,  "
+"7628",,"E","52","ST","6","1","1971","Residential","New Construction","Single Family","1","11500","2789921","1042638","45234","7628 E 52 ST
+,  "
+"2519",,"E","10","ST","7","1","1971","Residential","New Construction","Single Family","1","11000","2774046","1068597","47035","2519 E 10 ST
+,  "
+"127",,"W","10","ST","2","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","32000","2764552","1068859","59333","127 W 10 ST
+,  "
+"4300",,"NW","57","TE","5","1","1972","Residential","New Construction","Multifamily","4","32600","2751668","1104211","65498","4300 NW 57 TE
+,  "
+"1917",,"E","33","ST","6","1","1971","Residential","Demolition","Multifamily","2","621","2771422","1055834","44806","1917 E 33 ST
+,  "
+"12109",,"E","45","TE","8","1","1970","Residential","New Construction","Single Family","1","20500","2806798","1045731","29135","12109 E 45 TE
+,  "
+"4337",,"E","56","ST","4","1","1973","Residential","Demolition","Multifamily","2","830","2778810","1040348","84482","4337 E 56 ST
+,  "
+"3401",,"NE","43","TE","6","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1000","2777409","1094317","45283","3401 NE 43 TE
+,  "
+"8604",,"E","50","TE","1","1","1970","Residential","New Construction","Single Family","1","15000","2793643","1043585","18462","8604 E 50 TE
+,  "
+"210",,"W","47","ST","5","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1800","2763319","1047125","23516","210 W 47 ST
+,  "
+"1614",,"E","31","ST","1","1","1973","Residential","Demolition","Multifamily","2","950","2770498","1057420","80105","1614 E 31 ST
+,  "
+"4000",,"E","43","ST","11","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","4000","2777971","1049066","75951","4000 E 43 ST
+,  "
+"5324",,"NE","43","ST","10","1","1972","Residential","Additions, Alterations, Repairs","NA","0","3100","2783810","1094224","74161","5324 NE 43 ST
+,  "
+"2421",,"E","11","ST","9","1","1970","Residential","Demolition","Multifamily","2","1040","2773567","1068290","29669","2421 E 11 ST
+,  "
+"5308",,"NE","46","ST","10","1","1972","Residential","New Construction","Single Family","1","12900","2783754","1096265","73875","5308 NE 46 ST
+,  "
+"2715",,"E","54","ST","6","1","1971","Residential","Demolition","Single Family","1","450","2773701","1047837","45470","2715 E 54 ST
+,  "
+"6504",,"E","58","ST","7","1","1970","Residential","Additions, Alterations, Repairs","NA","0","259","2785893","1038839","26304","6504 E 58 ST
+,  "
+"1638",,"E","22","ST","4","1","1970","Residential","New Construction","Multifamily","8","52000","2771008","1063333","23058","1638 E 22 ST
+,  "
+"2914",,"E","33","ST","2","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1000","2774814","1055792","59781","2914 E 33 ST
+,  "
+"5912",,"NE","45","TE","10","1","1971","Residential","New Construction","Single Family","1","12000","2785823","1095830","52385","5912 NE 45 TE
+,  "
+"12112",,"E","55","ST","4","1","1972","Residential","New Construction","Single Family","1","20000","2806218","1039775","63310","12112 E 55 ST
+,  "
+"409",,"E","3","ST","4","1","1971","Non-Residential","Demolition","NA","0","400","2766125","1071905","41715","409 E 3 ST
+,  "
+"15316",,"E","48","TE","11","1","1970","Residential","New Construction","Single Family","1","10000","2817187","1043486","32930","15316 E 48 TE
+,  "
+"3018",,"E","26","ST","10","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2000","2775458","1060392","52138","3018 E 26 ST
+,  "
+"2505",,"NE","38","ST","11","1","1972","Residential","Additions, Alterations, Repairs","NA","0","3000","2774601","1091058","76409","2505 NE 38 ST
+,  "
+"4840",,"E","12","ST","4","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","15000","2781798","1067433","63658","4840 E 12 ST
+,  "
+"308",,"W","8","ST","8","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","700","2764111","1069843","70570","308 W 8 ST
+,  "
+"12106",,"E","56","ST","7","1","1970","Residential","New Construction","Single Family","1","13000","2806228","1039151","27715","12106 E 56 ST
+,  "
+"12206",,"E","58","ST","7","1","1972","Residential","New Construction","Single Family","1","16800","2806405","1037978","69280","12206 E 58 ST
+,  "
+"21",,"W","10","ST","6","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","27550","2764862","1068851","45758","21 W 10 ST
+,  "
+"1326",,"E","47","ST","5","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","16600","2769074","1046914","43172","1326 E 47 ST
+,  "
+"1215",,"W","56","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","9200","2759059","1041317","65108","1215 W 56 ST
+,  "
+"1909",,"E","36","ST","10","1","1972","Residential","Demolition","Single Family","1","477","2771249","1053859","75156","1909 E 36 ST
+,  "
+"1506",,"E","12","ST","5","1","1970","Residential","Demolition","Single Family","1","100","2770694","1067861","23675","1506 E 12 ST
+,  "
+"2216",,"NE","39","TE","3","1","1971","Residential","Additions, Alterations, Repairs","NA","0","429","2773802","1092122","38863","2216 NE 39 TE
+,  "
+"3612",,"E","26","ST","3","1","1972","Residential","Additions, Alterations, Repairs","NA","0","300","2777276","1060321","60931","3612 E 26 ST
+,  "
+"3100",,"E","12","ST","8","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","200","2775709","1067657","28611","3100 E 12 ST
+,  "
+"3815",,"E","19","ST","2","1","1972","Residential","Demolition","Single Family","1","405","2777953","1063985","60363","3815 E 19 ST
+,  "
+"2508",,"E","13","ST","2","1","1970","Residential","Demolition","Single Family","1","753","2773819","1067238","19919","2508 E 13 ST
+,  "
+"2818",,"E","55","ST","3","1","1972","Residential","New Construction","Single Family","1","18500","2773943","1041342","61661","2818 E 55 ST
+,  "
+"2801",,"NE","50","ST","11","1","1972","Residential","New Construction","Single Family","1","18200","2775504","1098732","76199","2801 NE 50 ST
+,  "
+"5805",,"NE","45","TE","6","1","1972","Residential","New Construction","Single Family","1","12000","2785410","1095712","66878","5805 NE 45 TE
+,  "
+"2600",,"E","18","ST","5","4","1973","Residential","Demolition","Single Family","1","900","2774014","1064782","85160","2600 E 18 ST
+,  "
+"1810",,"E","48","TE","5","15","1973","Residential","Additions, Alterations, Repairs","NA","0","2500","2770737","1045749","85763","1810 E 48 TE
+,  "
+"127",,"W","10","ST","2","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","6000","2764552","1068859","38283","127 W 10 ST
+,  "
+"5809",,"E","19","TE","2","1","1970","Residential","New Construction","Multifamily","10","70960","2784549","1063440","19031","5809 E 19 TE
+,  "
+"1610",,"E","41","ST","2","1","1973","Residential","Demolition","Multifamily","2","900","2770261","1050736","81708","1610 E 41 ST
+,  "
+"2417",,"E","10","ST","1","1","1970","Residential","Demolition","Single Family","1","987","2773753","1068613","18591","2417 E 10 ST
+,  "
+"903",,"E","18","ST","8","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","400","2768074","1064903","48374","903 E 18 ST
+,  "
+"523",,"NE","43","TE","5","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","600","2767504","1094511","23705","523 NE 43 TE
+,  "
+"30",,"W","31","TE","2","1","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","2143","2764344","1057147","80866","30 W 31 TE
+,  "
+"506",,"E","26","ST","4","1","1970","Residential","Demolition","Single Family","1","1185","2766474","1060570","22292","506 E 26 ST
+,  "
+"1617",,"E","37","ST","8","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1000","2770562","1053241","29189","1617 E 37 ST
+,  "
+"4027",,"E","45","ST","12","1","1971","Residential","New Construction","Single Family","1","14000","2778191","1047639","55915","4027 E 45 ST
+,  "
+"5809",,"NE","45","ST","4","1","1972","Residential","New Construction","Single Family","1","12000","2785466","1095431","63113","5809 NE 45 ST
+,  "
+"17",,"E","5","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2765493","1071084","65550","17 E 5 ST
+,  "
+"8714",,"E","57","TE","10","1","1972","Residential","New Construction","Single Family","1","15000","2793350","1038580","74044","8714 E 57 TE
+,  "
+"7708",,"E","48","TE","12","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2000","2790202","1045007","34709","7708 E 48 TE
+,  "
+"935",,"W","33","ST","8","1","1971","Residential","Additions, Alterations, Repairs","NA","0","950","2761009","1056322","49089","935 W 33 ST
+,  "
+"7507",,"E","50","ST","10","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1200","2789486","1043647","53038","7507 E 50 ST
+,  "
+"16",,"W","43","ST","9","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","2500","2763939","1049697","29747","16 W 43 ST
+,  "
+"15308",,"E","48","ST","7","1","1970","Residential","New Construction","Single Family","1","12000","2817082","1043791","27665","15308 E 48 ST
+,  "
+"11712",,"E","47","ST","3","1","1971","Residential","Additions, Alterations, Repairs","NA","0","10000","2805245","1045108","39216","11712 E 47 ST
+,  "
+"1601",,"E","12","ST","8","1","1971","Non-Residential","Demolition","NA","0","525","2770866","1067752","48946","1601 E 12 ST
+,  "
+"1600",,"E","12","ST","9","1","1970","Non-Residential","Demolition","NA","0","600","2770871","1067852","30588","1600 E 12 ST
+,  "
+"2648",,"E","7","ST","8","1","1971","Residential","Demolition","Single Family","1","253","2774800","1069758","48678","2648 E 7 ST
+,  "
+"2321",,"E","48","ST","4","1","1973","Residential","Demolition","Single Family","1","341","2772367","1045790","84604","2321 E 48 ST
+,  "
+"1903",,"E","36","ST","11","1","1970","Residential","Demolition","Single Family","1","897","2771220","1053861","32628","1903 E 36 ST
+,  "
+"15204",,"E","49","ST","11","1","1970","Residential","New Construction","Single Family","1","10000","2816676","1043218","32923","15204 E 49 ST
+,  "
+"5100",,"E","41","ST","12","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1150","2781640","1050376","34440","5100 E 41 ST
+,  "
+"6033",,"E","14","ST","11","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2900","2785619","1066133","76450","6033 E 14 ST
+,  "
+"11901",,"E","55","TE","8","1","1972","Residential","New Construction","Single Family","1","20000","2805393","1039339","70497","11901 E 55 TE
+,  "
+"904",,"E","16","ST","5","1","1971","Residential","Demolition","Single Family","1","500","2761890","1066515","42675","904 E 16 ST
+,  "
+"918",,"E","9","ST","4","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","40000","2768229","1069300","41718","918 E 9 ST
+,  "
+"1119",,"E","49","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2350","2768188","1045370","47264","1119 E 49 ST
+,  "
+"2900",,"E","52","ST","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1000","2774121","1043303","22893","2900 E 52 ST
+,  "
+"2309",,"E","13","ST","2","1","1971","Residential","Demolition","Multifamily","4","660","2773147","1067169","37149","2309 E 13 ST
+,  "
+"1236",,"W","57","ST","8","1","1972","Residential","Additions, Alterations, Repairs","NA","0","13000","2758506","1040777","71675","1236 W 57 ST
+,  "
+"4304",,"E","36","ST","9","1","1971","Residential","New Construction","Single Family","1","20000","2779248","1053644","50414","4304 E 36 ST
+,  "
+"11907",,"E","55","ST","3","1","1973","Residential","New Construction","Single Family","1","16500","2805466","1039660","82082","11907 E 55 ST
+,  "
+"1903",,"E","24","ST","12","1","1970","Residential","Demolition","Single Family","1","350","2771627","1061971","34505","1903 E 24 ST
+,  "
+"3201",,"E","59","ST","10","1","1970","Residential","Additions, Alterations, Repairs","NA","0","329","2774876","1038537","31825","3201 E 59 ST
+,  "
+"1653",,"E","21","ST","4","1","1970","Residential","New Construction","Multifamily","4","49000","2771008","1063333","23056","1653 E 21 ST
+,  "
+"831",,"W","39","TE","2","1","1973","Residential","Additions, Alterations, Repairs","NA","0","120","2761178","1052030","81394","831 W 39 TE
+,  "
+"11900",,"E","56","TE","10","1","1970","Residential","Additions, Alterations, Repairs","NA","0","5000","2805364","1038858","31218","11900 E 56 TE
+,  "
+"4208",,"E","52","ST","6","1","1972","Non-Residential","New Construction","NA","0","2000","2778519","1043132","67838","4208 E 52 ST
+,  "
+"700",,"W","12","ST","8","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1100","2762508","1068231","28666","700 W 12 ST
+,  "
+"4526",,"E","39","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1500","2779791","1051635","46272","4526 E 39 ST
+,  "
+"5021",,"E","24","ST","8","1","1971","Non-Residential","Demolition","NA","0","3000","2781795","1061444","48003","5021 E 24 ST
+,  "
+"1617",,"E","42","ST","7","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1143","2770332","1049973","69923","1617 E 42 ST
+,  "
+"12013",,"E","57","ST","4","1","1971","Residential","New Construction","Single Family","1","15000","2806006","1038421","41165","12013 E 57 ST
+,  "
+"1600",,"W","39","ST","3","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","2000","2759234","1052560","61720","1600 W 39 ST
+,  "
+"5832",,"E","20","ST","2","1","1970","Residential","New Construction","Multifamily","4","31680","2784671","1063281","19028","5832 E 20 ST
+,  "
+"2414",,"NE","53","ST","11","1","1971","Residential","Additions, Alterations, Repairs","NA","0","7000","2774369","1100997","54014","2414 NE 53 ST
+,  "
+"8301",,"E","55","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","480","2791753","1040405","43680","8301 E 55 ST
+,  "
+"15304",,"E","49","ST","11","1","1970","Residential","New Construction","Single Family","1","10000","2816970","1043196","32924","15304 E 49 ST
+,  "
+"10600",,"E","42","ST","4","1","1971","Residential","New Construction","Multifamily","20","96632","2801541","1048585","41873","10600 E 42 ST
+,  "
+"1802",,"E","22","ST","12","1","1970","Residential","Demolition","Single Family","1","400","2771392","1062956","34752","1802 E 22 ST
+,  "
+"4816",,"E","27","ST","11","1","1971","Residential","Demolition","Multifamily","2","450","2780951","1059485","54195","4816 E 27 ST
+,  "
+"4717",,"NE","47","TE","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","550","2781874","1097119","45880","4717 NE 47 TE
+,  "
+"617",,"E","29","ST","6","1","1971","Residential","Demolition","Single Family","1","450","2766750","1058696","45794","617 E 29 ST
+,  "
+"1318",,"E","33","ST","8","1","1970","Residential","Demolition","Multifamily","2","200","2769250","1056032","28437","1318 E 33 ST
+,  "
+"4226",,"E","54","TE","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1000","2778665","1041450","42934","4226 E 54 TE
+,  "
+"106",,"W","11","ST","6","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","300000","2764726","1068485","43980","106 W 11 ST
+,  "
+"12001",,"E","55","TE","3","1","1972","Residential","New Construction","Single Family","1","20000","2805810","1039321","62169","12001 E 55 TE
+,  "
+"310",,"W","14","ST","3","1","1973","Residential","Demolition","Single Family","1","400","2763887","1067063","83330","310 W 14 ST
+,  "
+"2640",,"NE","42","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","22740","2774908","1093527","46820","2640 NE 42 ST
+,  "
+"2400",,"E","9","ST","1","1","1971","Residential","Demolition","Multifamily","2","744","2773528","1069058","35793","2400 E 9 ST
+,  "
+"12012",,"E","56","TE","3","1","1971","Residential","New Construction","Single Family","1","15000","2806005","1038826","39085","12012 E 56 TE
+,  "
+"5909",,"NE","45","ST","4","1","1972","Residential","New Construction","Single Family","1","12000","2785768","1095428","63108","5909 NE 45 ST
+,  "
+"123",,"E","39","ST","4","1","1970","Non-Residential","Demolition","NA","0","672","2764635","1052205","21837","123 E 39 ST
+,  "
+"1708",,"E","28","ST","8","1","1972","Residential","Demolition","Single Family","1","452","2770905","1059391","71566","1708 E 28 ST
+,  "
+"11924",,"E","44","ST","4","1","1970","Residential","New Construction","Single Family","1","12950","2805786","1047016","22367","11924 E 44 ST
+,  "
+"3122",,"E","19","TE","3","1","1973","Residential","Demolition","Multifamily","2","936","2776014","1064070","83279","3122 E 19 TE
+,  "
+"2505",,"E","24","TE","4","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1000","2773651","1061422","63030","2505 E 24 TE
+,  "
+"301",,"W","9","ST","3","1","1971","Non-Residential","Demolition","NA","0","3500","2764051","1069386","38829","301 W 9 ST
+,  "
+"5602",,"E","34","ST","8","1","1971","Residential","Demolition","Single Family","1","299","2783420","1054875","49412","5602 E 34 ST
+,  "
+"1900",,"E","12","ST","9","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","7000","2772104","1067974","30042","1900 E 12 ST
+,  "
+"1903",,"E","38","ST","11","1","1970","Residential","Demolition","Single Family","1","897","2771165","1052567","32626","1903 E 38 ST
+,  "
+"5305",,"E","49","ST","1","1","1971","Residential","Additions, Alterations, Repairs","NA","0","400","2782228","1044604","35607","5305 E 49 ST
+,  "
+"3015",,"E","27","ST","3","1","1971","Residential","Additions, Alterations, Repairs","NA","0","494","2775334","1059610","39699","3015 E 27 ST
+,  "
+"1020",,"E","10","ST","4","1","1971","Non-Residential","New Construction","NA","0","56000","2768853","1068877","40434","1020 E 10 ST
+,  "
+"8004",,"E","51","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1000","2791051","1043181","46663","8004 E 51 ST
+,  "
+"12300",,"E","57","TE","3","1","1972","Residential","New Construction","Single Family","1","14500","2806591","1038272","61017","12300 E 57 TE
+,  "
+"5213",,"NE","59","TE","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","150","2783601","1105117","27406","5213 NE 59 TE
+,  "
+"1912",,"E","31","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2000","2771455","1057257","46456","1912 E 31 ST
+,  "
+"12201",,"E","55","TE","11","1","1972","Residential","New Construction","Single Family","1","17808","2806376","1039370","75513","12201 E 55 TE
+,  "
+"4401",,"E","53","ST","6","1","1972","Residential","New Construction","Single Family","1","25500","2779065","1042283","66928","4401 E 53 ST
+,  "
+"19",,"W","39","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","8000","2763971","1052178","65960","19 W 39 ST
+,  "
+"743",,"W","35","ST","11","1","1972","Residential","Demolition","Single Family","1","1500","2761950","1055202","75884","743 W 35 ST
+,  "
+"3615",,"E","49","TE","8","1","1971","Residential","Additions, Alterations, Repairs","NA","0","100","2776380","1044533","47959","3615 E 49 TE
+,  "
+"4131",,"E","6","ST","3","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1200","2779443","1069771","21589","4131 E 6 ST
+,  "
+"4208",,"NW","57","TE","5","1","1972","Residential","New Construction","Multifamily","4","32600","2751922","1104122","65494","4208 NW 57 TE
+,  "
+"1817",,"E","43","ST","10","1","1972","Residential","Demolition","Single Family","1","460","2770794","1049300","75157","1817 E 43 ST
+,  "
+"3900",,"E","46","TE","8","1","1971","Residential","Additions, Alterations, Repairs","NA","0","950","2777436","1046762","48669","3900 E 46 TE
+,  "
+"5107",,"E","23","ST","5","1","1970","Residential","Additions, Alterations, Repairs","NA","0","700","2782186","1061969","24514","5107 E 23 ST
+,  "
+"626",,"NE","43","TE","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1000","2768017","1094644","40636","626 NE 43 TE
+,  "
+"900",,"E","21","ST","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2000","2768021","1063778","30689","900 E 21 ST
+,  "
+"1834",,"NE","55","ST","6","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1593","2772820","1102080","66360","1834 NE 55 ST
+,  "
+"2310",,"E","25","ST","9","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1800","2773027","1061147","51212","2310 E 25 ST
+,  "
+"2401",,"E","12","ST","12","1","1970","Residential","Demolition","Single Family","1","1324","2773532","1067639","33830","2401 E 12 ST
+,  "
+"1115",,"E","5","ST","3","1","1973","Residential","Demolition","Single Family","1","400","2767857","1038843","83328","1115 E 5 ST
+,  "
+"1108",,"E","30","ST","6","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","750","2768788","1058145","25042","1108 E 30 ST
+,  "
+"919",,"W","26","ST","7","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1200","2761429","1060908","27729","919 W 26 ST
+,  "
+"30",,"E","32","ST","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2575","2765036","1056902","22705","30 E 32 ST
+,  "
+"221",,"W","10","ST","4","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2764141","1068874","63770","221 W 10 ST
+,  "
+"118",,"W","47","ST","6","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","8000","2763409","1047127","44401","118 W 47 ST
+,  "
+"12100",,"E","55","ST","2","1","1973","Residential","New Construction","Single Family","1","18500","2806066","1039779","81155","12100 E 55 ST
+,  "
+"615",,"E","54","ST","10","1","1970","Non-Residential","New Construction","NA","0","956","2766248","1042229","31073","615 E 54 ST
+,  "
+"2305",,"E","48","ST","6","1","1971","Residential","Demolition","Multifamily","2","400","2772222","1045820","44389","2305 E 48 ST
+,  "
+"1845",,"E","48","ST","5","1","1970","Non-Residential","New Construction","NA","0","1000","2771140","1045909","23770","1845 E 48 ST
+,  "
+"2509",,"NE","53","ST","7","1","1970","Residential","Additions, Alterations, Repairs","NA","0","995","2774685","1100880","27058","2509 NE 53 ST
+,  "
+"2716",,"NE","42","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","14690","2775093","1093527","46814","2716 NE 42 ST
+,  "
+"10005",,"E","47","ST","2","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","8773","2799670","1045251","19186","10005 E 47 ST
+,  "
+"1812",,"E","43","ST","11","1","1970","Residential","Additions, Alterations, Repairs","NA","0","400","2770790","1049401","32658","1812 E 43 ST
+,  "
+"2212",,"E","11","ST","8","1","1971","Residential","Demolition","Multifamily","4","800","2772871","1068210","48325","2212 E 11 ST
+,  "
+"8501",,"E","56","ST","12","1","1970","Residential","New Construction","Single Family","1","12000","2792483","1039664","34495","8501 E 56 ST
+,  "
+"15308",,"E","48","TE","2","1","1971","Residential","New Construction","Single Family","1","11000","2817052","1043493","37866","15308 E 48 TE
+,  "
+"403",,"E","45","ST","3","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","57770","2765721","1048412","21481","403 E 45 ST
+,  "
+"3008",,"E","11","ST","4","1","1970","Residential","Demolition","Single Family","1","289","2775394","1068317","22874","3008 E 11 ST
+,  "
+"12206",,"E","57","ST","1","1","1971","Residential","New Construction","Single Family","1","16000","2806424","1038565","35661","12206 E 57 ST
+,  "
+"6015",,"E","16","TE","5","1","1972","Residential","Additions, Alterations, Repairs","NA","0","4000","2785378","1064810","66276","6015 E 16 TE
+,  "
+"959",,"W","42","ST","11","1","1972","Residential","Demolition","Single Family","1","900","2760275","1050445","76794","959 W 42 ST
+,  "
+"8317",,"E","56","ST","11","1","1971","Non-Residential","New Construction","NA","0","16000","2791636","1039829","54097","8317 E 56 ST
+,  "
+"5300",,"NE","45","TE","10","1","1970","Residential","New Construction","Single Family","1","10844","2783651","1095943","31675","5300 NE 45 TE
+,  "
+"2700",,"E","55","ST","11","1","1972","Residential","Demolition","Single Family","1","319","2773311","1041361","76214","2700 E 55 ST
+,  "
+"2904",,"E","12","ST","3","1","1970","Residential","Demolition","Single Family","1","740","2775177","1067667","20857","2904 E 12 ST
+,  "
+"1617",,"W","50","ST","6","1","1971","Residential","Additions, Alterations, Repairs","NA","0","600","2758468","1045239","44081","1617 W 50 ST
+,  "
+"8508",,"E","56","TE","5","1","1971","Residential","New Construction","Single Family","1","18000","2792522","1039475","43246","8508 E 56 TE
+,  "
+"3429",,"E","6","ST","8","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","2000","2777217","1069863","71448","3429 E 6 ST
+,  "
+"3011",,"E","53","ST","6","1","1970","Residential","Demolition","Single Family","1","428","2774616","1042516","26120","3011 E 53 ST
+,  "
+"3430",,"E","45","TE","5","15","1973","Residential","Additions, Alterations, Repairs","NA","0","100","2776043","1047475","85708","3430 E 45 TE
+,  "
+"5220",,"E","39","TE","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","224","2782324","1051297","30767","5220 E 39 TE
+,  "
+"2519",,"E","48","TE","4","1","1973","Residential","Demolition","Single Family","1","500","2772742","1045486","83716","2519 E 48 TE
+,  "
+"4015",,"E","39","ST","5","1","1970","Residential","Additions, Alterations, Repairs","NA","0","995","2778299","1051592","24462","4015 E 39 ST
+,  "
+"800",,"W","47","ST","4","1","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","2900","2761127","1047244","83587","800 W 47 ST
+,  "
+"4007",,"E","45","ST","12","1","1971","Residential","New Construction","Single Family","1","14000","2778021","1047638","55052","4007 E 45 ST
+,  "
+"436",,"W","5","ST","2","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","7300","2763322","1070995","36750","436 W 5 ST
+,  "
+"1110",,"W","39","ST","10","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","825","2760358","1052509","32452","1110 W 39 ST
+,  "
+"6646",,"NE","52","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2000","2788776","1100123","42685","6646 NE 52 ST
+,  "
+"3108",,"E","19","ST","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","100","2775906","1064075","40994","3108 E 19 ST
+,  "
+"127",,"W","10","ST","2","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","3000","2764552","1068859","19550","127 W 10 ST
+,  "
+"1608",,"E","12","ST","6","1","1970","Non-Residential","Demolition","NA","0","800","2770896","1067850","25330","1608 E 12 ST
+,  "
+"2016",,"E","47","TE","12","1","1972","Residential","Demolition","Single Family","1","730","2771322","1046296","77225","2016 E 47 TE
+,  "
+"2642",,"E","7","ST","8","1","1971","Residential","Demolition","Multifamily","2","491","2774384","1069757","48894","2642 E 7 ST
+,  "
+"8316",,"E","32","ST","10","1","1971","Residential","Additions, Alterations, Repairs","NA","0","800","2792305","1055731","52380","8316 E 32 ST
+,  "
+"500",,"NE","43","ST","2","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","250","2767238","1094361","19340","500 NE 43 ST
+,  "
+"5817",,"E","21","ST","4","1","1970","Residential","New Construction","Multifamily","4","31680","2784461","1062746","22391","5817 E 21 ST
+,  "
+"2612",,"E","40","ST","2","1","1973","Residential","Demolition","Single Family","1","275","2773707","1051228","80839","2612 E 40 ST
+,  "
+"23",,"E","5","ST","3","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","850","2765493","1071084","61945","23 E 5 ST
+,  "
+"11109",,"E","48","TE","8","1","1971","Residential","New Construction","Single Family","1","19000","2803062","1043898","47867","11109 E 48 TE
+,  "
+"11800",,"E","59","ST","10","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1000","2805016","1037153","51566","11800 E 59 ST
+,  "
+"1001",,"E","17","ST","3","1","1970","Non-Residential","Demolition","NA","0","199","2765791","1000512","20358","1001 E 17 ST
+,  "
+"11115",,"E","50","ST","5","2","1973","Residential","Additions, Alterations, Repairs","NA","0","600","2803185","1042943","85076","11115 E 50 ST
+,  "
+"225",,"W","43","ST","9","1","1971","Residential","Additions, Alterations, Repairs","NA","0","750","2763186","1048872","50543","225 W 43 ST
+,  "
+"7721",,"E","55","ST","6","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","3000","2790025","1040494","67185","7721 E 55 ST
+,  "
+"11919",,"E","55","TE","8","1","1972","Residential","New Construction","Single Family","1","20000","2805603","1039333","70494","11919 E 55 TE
+,  "
+"714",,"E","10","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","4000","2767490","1068889","64390","714 E 10 ST
+,  "
+"15300",,"E","49","ST","11","1","1970","Residential","New Construction","Single Family","1","10000","2816911","1043199","32925","15300 E 49 ST
+,  "
+"15201",,"E","48","ST","7","1","1970","Residential","New Construction","Single Family","1","10000","2816630","1043704","27282","15201 E 48 ST
+,  "
+"6001",,"E","40","TE","2","1","1970","Residential","New Construction","Multifamily","6","31704","2784460","1050296","19953","6001 E 40 TE
+,  "
+"2900",,"E","21","ST","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","700","2774942","1063234","29615","2900 E 21 ST
+,  "
+"3303",,"NW","59","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","2070","2755018","1104893","66235","3303 NW 59 ST
+,  "
+"804",,"E","24","ST","1","1","1973","Residential","Demolition","Single Family","1","620","2767526","1062243","80478","804 E 24 ST
+,  "
+"11818",,"E","58","ST","5","1","1970","Residential","New Construction","Single Family","1","8000","2805137","1037971","23930","11818 E 58 ST
+,  "
+"1331",,"E","12","ST","2","1","1971","Non-Residential","Demolition","NA","0","280","2769914","1067796","37233","1331 E 12 ST
+,  "
+"2408",,"E","13","ST","12","1","1972","Residential","Demolition","Single Family","1","525","2773482","1067253","77752","2408 E 13 ST
+,  "
+"3216",,"E","52","ST","10","1","1971","Residential","Additions, Alterations, Repairs","NA","0","700","2775318","1043243","51747","3216 E 52 ST
+,  "
+"5045",,"E","8","ST","6","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","300","2782573","1068931","66801","5045 E 8 ST
+,  "
+"3300",,"E","53","ST","4","1","1970","Residential","Demolition","Single Family","1","424","2775397","1042579","22980","3300 E 53 ST
+,  "
+"2212",,"E","42","ST","7","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1700","2772316","1049994","68891","2212 E 42 ST
+,  "
+"7022",,"NE","51","TE","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","5000","2789531","1099787","41977","7022 NE 51 TE
+,  "
+"5200",,"E","39","TE","4","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2700","2782037","1051308","62805","5200 E 39 TE
+,  "
+"12301",,"E","57","TE","3","1","1972","Residential","New Construction","Single Family","1","14500","2806580","1038158","61018","12301 E 57 TE
+,  "
+"1701",,"E","17","TE","7","1","1970","Residential","Additions, Alterations, Repairs","NA","0","3000","2771137","1065112","27688","1701 E 17 TE
+,  "
+"30",,"NW","41","TE","11","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1500","2765225","1093362","54280","30 NW 41 TE
+,  "
+"2914",,"E","18","ST","6","1","1971","Residential","Demolition","Single Family","1","350","2774982","1064745","45702","2914 E 18 ST
+,  "
+"1708",,"E","25","ST","8","1","1973","Residential","Demolition","Single Family","1","497","2771035","1061231","90086","1708 E 25 ST
+,  "
+"5919",,"NE","45","ST","2","1","1972","Residential","New Construction","Single Family","1","12000","2785943","1095447","60319","5919 NE 45 ST
+,  "
+"11918",,"E","58","ST","4","1","1973","Residential","New Construction","Single Family","1","12000","2805598","1037947","84887","11918 E 58 ST
+,  "
+"6000",,"E","27","ST","11","1","1971","Residential","Additions, Alterations, Repairs","NA","0","3500","2784967","1059335","53236","6000 E 27 ST
+,  "
+"3009",,"E","20","TE","5","1","1971","Residential","Demolition","Single Family","1","525","2775435","1063409","42832","3009 E 20 TE
+,  "
+"3306",,"E","22","ST","10","1","1971","Residential","Additions, Alterations, Repairs","NA","0","3000","2776162","1062802","52486","3306 E 22 ST
+,  "
+"2801",,"E","24","ST","8","1","1972","Residential","Additions, Alterations, Repairs","NA","0","100","2774597","1061856","70833","2801 E 24 ST
+,  "
+"422",,"W","8","ST","4","1","1971","Non-Residential","Demolition","NA","0","850","2761214","1021146","41990","422 W 8 ST
+,  "
+"131",,"W","11","ST","4","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2764677","1068354","63769","131 W 11 ST
+,  "
+"2704",,"E","51","ST","4","1","1971","Residential","Demolition","Single Family","1","500","2773504","1043989","41872","2704 E 51 ST
+,  "
+"501",,"NE","41","ST","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1242","2767371","1092802","25248","501 NE 41 ST
+,  "
+"1101",,"NE","40","PL","7","1","1970","Residential","New Construction","Single Family","1","37000","2769804","1092765","27413","1101 NE 40 PL
+,  "
+"1257",,"W","57","ST","8","1","1970","Residential","Additions, Alterations, Repairs","NA","0","15000","2758384","1040661","28455","1257 W 57 ST
+,  "
+"3910",,"E","46","TE","12","1","1972","Residential","Additions, Alterations, Repairs","NA","0","3500","2777732","1046756","76894","3910 E 46 TE
+,  "
+"2506",,"E","44","ST","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1000","2773128","1048631","26169","2506 E 44 ST
+,  "
+"7608",,"E","51","ST","7","1","1972","Residential","New Construction","Single Family","1","10000","2789805","1043253","69929","7608 E 51 ST
+,  "
+"3216",,"E","28","ST","8","1","1970","Residential","Additions, Alterations, Repairs","NA","0","3000","2775866","1058890","28156","3216 E 28 ST
+,  "
+"306",,"E","12","ST","12","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","2000","2766228","1068124","55664","306 E 12 ST
+,  "
+"1700",,"E","38","ST","3","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2000","2770611","1052464","20874","1700 E 38 ST
+,  "
+"8407",,"E","55","ST","1","1","1971","Residential","New Construction","Single Family","1","15750","2792051","1040372","35704","8407 E 55 ST
+,  "
+"4016",,"E","56","TE","6","1","1970","Residential","New Construction","Multifamily","18","150244","2777211","1040205","25772","4016 E 56 TE
+,  "
+"2413",,"E","10","ST","4","1","1971","Residential","Demolition","Multifamily","4","987","2773714","1068617","41632","2413 E 10 ST
+,  "
+"700",,"NE","44","TE","12","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1230","2768287","1095415","55919","700 NE 44 TE
+,  "
+"32",,"E","32","TE","8","1","1971","Residential","Demolition","Multifamily","6","1000","2765050","1056384","48903","32 E 32 TE
+,  "
+"1603",,"E","35",,"4","1","1972","Residential","Additions, Alterations, Repairs","NA","0","100","2770270","1054543","63309","1603 E 35
+,  "
+"1715",,"E","29","ST","5","1","1971","Residential","Demolition","Single Family","1","512","2770855","1058503","43596","1715 E 29 ST
+,  "
+"2635",,"E","60","ST","6","1","1971","Residential","Demolition","Single Family","1","1192","2772881","1038053","44800","2635 E 60 ST
+,  "
+"4117",,"E","14","TE","3","1","1970","Non-Residential","Demolition","NA","0","250","2779069","1066189","20594","4117 E 14 TE
+,  "
+"15",,"W","12","ST","6","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","2600","2761207","993659","43894","15 W 12 ST
+,  "
+"3101",,"E","9","ST","8","1","1971","Residential","Demolition","Multifamily","2","960","2775702","1068872","48161","3101 E 9 ST
+,  "
+"5913",,"NE","45","TE","6","1","1972","Residential","New Construction","Single Family","1","12000","2785829","1095720","66885","5913 NE 45 TE
+,  "
+"3703",,"NE","53","ST","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2500","2778721","1100745","29915","3703 NE 53 ST
+,  "
+"5110",,"E","24","ST","7","1","1970","Residential","Demolition","Single Family","1","200","2782106","1061500","27757","5110 E 24 ST
+,  "
+"3233",,"E","27","ST","4","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2100","2776005","1059583","63025","3233 E 27 ST
+,  "
+"6740",,"E","16","ST","5","1","1972","Non-Residential","New Construction","NA","0","2000","2787538","1065169","65658","6740 E 16 ST
+,  "
+"7917",,"NE","50","ST","3","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2600","2792545","1098739","61799","7917 NE 50 ST
+,  "
+"1212",,"E","19","ST","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","2100","2769402","1064504","27811","1212 E 19 ST
+,  "
+"4516",,"E","25","ST","8","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2000","2780223","1060841","48419","4516 E 25 ST
+,  "
+"232",,"W","52","ST","6","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","5960","2762755","1043527","67931","232 W 52 ST
+,  "
+"5201",,"NE","42","TE","3","1","1972","Residential","New Construction","Single Family","1","18000","2783324","1093714","61012","5201 NE 42 TE
+,  "
+"12017",,"E","57","ST","4","1","1971","Residential","New Construction","Single Family","1","16000","2806072","1038427","40079","12017 E 57 ST
+,  "
+"1810",,"E","34","ST","8","1","1970","Residential","Additions, Alterations, Repairs","NA","0","368","2771155","1055291","28008","1810 E 34 ST
+,  "
+"1714",,"W","45","ST","10","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","14900","2758484","1048632","53196","1714 W 45 ST
+,  "
+"2401",,"E","10","ST","7","1","1971","Residential","New Construction","Single Family","1","11000","2773554","1068620","46806","2401 E 10 ST
+,  "
+"912",,"E","5","ST","1","1","1970","Residential","Demolition","Multifamily","6","500","2768071","1071910","17917","912 E 5 ST
+,  "
+"2008",,"E","36","ST","11","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1000","2771791","1053944","54082","2008 E 36 ST
+,  "
+"816",,"W","39","ST","3","1","1970","Residential","Demolition","Single Family","1","200","2761300","1052128","21669","816 W 39 ST
+,  "
+"509",,"NW","55","TE","9","1","1971","Residential","New Construction","Multifamily","23","189688","2763942","1102524","51078","509 NW 55 TE
+,  "
+"436",,"NE","41","TE","12","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1500","2767395","1093282","34146","436 NE 41 TE
+,  "
+"2521",,"E","48","TE","4","1","1973","Residential","Demolition","Single Family","1","500","2772750","1045486","83817","2521 E 48 TE
+,  "
+"2426",,"E","12","ST","7","1","1970","Residential","Demolition","Single Family","1","862","2773558","1067735","26291","2426 E 12 ST
+,  "
+"1700",,"E","26","ST","2","1","1971","Residential","Demolition","Multifamily","4","2099","2770895","1060577","37247","1700 E 26 ST
+,  "
+"19",,"W","52","ST","3","1","1972","Residential","Additions, Alterations, Repairs","NA","0","0","2763601","1043524","61022","19 W 52 ST
+,  "
+"3301",,"E","45","ST","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","600","2775645","1047747","29751","3301 E 45 ST
+,  "
+"2616",,"E","7","ST","5","15","1973","Residential","Demolition","Single Family","1","700","2774420","1069770","85703","2616 E 7 ST
+,  "
+"12000",,"E","47","ST","5","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","4449","2806084","1045018","42801","12000 E 47 ST
+,  "
+"1550",,"W","29","ST","9","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","179900","2759605","1059127","29614","1550 W 29 ST
+,  "
+"2651",,"E","8","ST","8","1","1972","Residential","Additions, Alterations, Repairs","NA","0","200","2774894","1069268","71059","2651 E 8 ST
+,  "
+"1725",,"E","18","ST","3","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2771342","1064773","39335","1725 E 18 ST
+,  "
+"1012",,"NE","42","ST","7","1","1972","Residential","New Construction","Single Family","1","18000","2769348","1093755","69244","1012 NE 42 ST
+,  "
+"5317",,"NE","46","ST","2","1","1971","Residential","New Construction","Single Family","1","12000","2783864","1096152","36181","5317 NE 46 ST
+,  "
+"3001",,"E","31","ST","4","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","100","2775051","1056978","41381","3001 E 31 ST
+,  "
+"210",,"W","10","ST","3","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","59000","2764171","1069010","40075","210 W 10 ST
+,  "
+"3011",,"E","23","ST","3","1","1970","Residential","New Construction","Single Family","1","11000","2775418","1062340","20290","3011 E 23 ST
+,  "
+"2511",,"E","49","ST","1","1","1973","Residential","Demolition","Single Family","1","265","2772877","1045168","77954","2511 E 49 ST
+,  "
+"3601",,"E","43","ST","12","1","1970","Residential","New Construction","Single Family","1","1605","2776715","1048985","34294","3601 E 43 ST
+,  "
+"4311",,"E","26","ST","8","1","1972","Residential","Additions, Alterations, Repairs","NA","0","400","2779516","1060121","71129","4311 E 26 ST
+,  "
+"2400",,"E","12","ST","3","1","1971","Non-Residential","Demolition","NA","0","5900","2773474","1067738","39160","2400 E 12 ST
+,  "
+"2208",,"E","35","ST","7","1","1971","Residential","Demolition","Multifamily","4","389","2772417","1054580","47410","2208 E 35 ST
+,  "
+"4616",,"E","11","ST","7","1","1970","Residential","Demolition","Single Family","1","259","2780739","1067971","27751","4616 E 11 ST
+,  "
+"12",,"W","53","TE","8","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","600","2763623","1042676","48132","12 W 53 TE
+,  "
+"2314",,"E","9","ST","7","1","1971","Residential","Demolition","Multifamily","2","875","2773242","1069070","46324","2314 E 9 ST
+,  "
+"5305",,"NE","46","ST","12","1","1970","Residential","New Construction","Single Family","1","12500","2783702","1096151","34791","5305 NE 46 ST
+,  "
+"3104",,"E","10","ST","6","1","1971","Residential","Demolition","Single Family","1","300","2775709","1068630","44419","3104 E 10 ST
+,  "
+"8663",,"E","57","ST","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","372","2793524","1038939","41366","8663 E 57 ST
+,  "
+"7713",,"NE","55","ST","3","1","1970","Residential","Additions, Alterations, Repairs","NA","0","400","2791593","1102452","20072","7713 NE 55 ST
+,  "
+"4814",,"NE","47","TE","11","1","1970","Residential","New Construction","Single Family","1","12520","2782248","1097241","33191","4814 NE 47 TE
+,  "
+"304",,"W","10","ST","4","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","2000","2763965","1069022","21722","304 W 10 ST
+,  "
+"3",,"W","49","ST","8","1","1972","Non-Residential","New Construction","NA","0","4700","2763943","1045649","71387","3 W 49 ST
+,  "
+"4211",,"E","12","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","700","2779666","1067341","64873","4211 E 12 ST
+,  "
+"47",,"W","58","TE","5","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","600","2763095","1039430","43768","47 W 58 TE
+,  "
+"11310",,"E","50","TE","8","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1500","2804496","1042851","49201","11310 E 50 TE
+,  "
+"5804",,"NE","45","ST","4","1","1972","Residential","New Construction","Single Family","1","12000","2785411","1095560","63117","5804 NE 45 ST
+,  "
+"2648",,"E","7","ST","1","1","1972","Residential","New Construction","Single Family","1","11000","2774800","1069758","58979","2648 E 7 ST
+,  "
+"2621",,"E","11","ST","11","1","1970","Residential","Demolition","Single Family","1","539","2774215","1068260","32631","2621 E 11 ST
+,  "
+"5119",,"NE","42","ST","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","3000","2783162","1093154","40973","5119 NE 42 ST
+,  "
+"3624",,"NE","54","TE","5","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2980","2778657","1101624","66151","3624 NE 54 TE
+,  "
+"1401",,"E","8","ST","11","1","1972","Non-Residential","New Construction","NA","0","23200","2770263","1069454","75989","1401 E 8 ST
+,  "
+"5050",,"E","52","ST","2","1","1973","Non-Residential","New Construction","NA","0","16000","2781270","1043019","80616","5050 E 52 ST
+,  "
+"3603",,"E","49","TE","9","1","1970","Residential","Demolition","Single Family","1","158","2776310","1044536","29668","3603 E 49 TE
+,  "
+"508",,"W","34","ST","8","1","1971","Residential","Demolition","Multifamily","6","750","2762685","1056006","48148","508 W 34 ST
+,  "
+"127",,"W","10","ST","3","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2764552","1068859","20477","127 W 10 ST
+,  "
+"4516",,"E","39","ST","4","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","1182","2779909","1051645","63553","4516 E 39 ST
+,  "
+"7201",,"NE","51","ST","6","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","150","2789890","1099000","45652","7201 NE 51 ST
+,  "
+"2641",,"E","6","ST","1","1","1970","Residential","Demolition","Single Family","1","658","2774383","1069988","18470","2641 E 6 ST
+,  "
+"12008",,"E","55","ST","9","1","1972","Residential","New Construction","Single Family","1","13729","2805965","1039434","72871","12008 E 55 ST
+,  "
+"8016",,"NE","57","ST","6","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","125","2792977","1103838","25061","8016 NE 57 ST
+,  "
+"5109",,"NE","57","TE","5","1","1970","Residential","Additions, Alterations, Repairs","NA","0","400","2783557","1103775","24464","5109 NE 57 TE
+,  "
+"2519",,"E","10","ST","2","1","1971","Residential","Demolition","Multifamily","2","491","2774046","1068597","37150","2519 E 10 ST
+,  "
+"2728",,"NE","45","ST","10","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","200","2775647","1095852","52619","2728 NE 45 ST
+,  "
+"2000",,"E","58","ST","9","1","1971","Residential","New Construction","Single Family","1","18000","2771028","1039489","50894","2000 E 58 ST
+,  "
+"2409",,"NE","43","ST","6","1","1972","Residential","Additions, Alterations, Repairs","NA","0","10000","2774185","1094235","67592","2409 NE 43 ST
+,  "
+"1315",,"W","12","ST","4","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","10000","2760055","1068225","40854","1315 W 12 ST
+,  "
+"9205",,"E","27","TE","10","1","1970","Non-Residential","New Construction","NA","0","1500","2796643","1058297","31253","9205 E 27 TE
+,  "
+"1514",,"NE","54","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","2500","2771189","1101897","66183","1514 NE 54 ST
+,  "
+"2200",,"E","13","ST","11","1","1970","Residential","Demolition","Multifamily","6","3030","2772799","1067280","32582","2200 E 13 ST
+,  "
+"4641",,"E","9","ST","5","1","1971","Residential","Demolition","Single Family","1","500","2781193","1068650","42926","4641 E 9 ST
+,  "
+"4536",,"NE","44","TE","6","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","350","2781290","1095259","25343","4536 NE 44 TE
+,  "
+"406",,"W","40","TE","5","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2762749","1051463","43867","406 W 40 TE
+,  "
+"5203",,"E","22","ST","12","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1250","2782511","1062626","34056","5203 E 22 ST
+,  "
+"15209",,"E","48","ST","2","1","1971","Residential","New Construction","Single Family","1","11000","2816771","1043700","37871","15209 E 48 ST
+,  "
+"8520",,"E","59","ST","10","1","1970","Non-Residential","Demolition","NA","0","100","2792368","1037838","31255","8520 E 59 ST
+,  "
+"15204",,"E","48","TE","2","1","1971","Residential","New Construction","Single Family","1","11000","2816687","1043519","37867","15204 E 48 TE
+,  "
+"803",,"W","55","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1500","2761072","1041818","43251","803 W 55 ST
+,  "
+"1324",,"E","24","ST","10","1","1972","Residential","Demolition","Multifamily","2","693","2760348","1062625","75251","1324 E 24 ST
+,  "
+"2902",,"NE","56","ST","10","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","400","2776035","1102672","52840","2902 NE 56 ST
+,  "
+"8617",,"E","50","TE","9","1","1970","Residential","New Construction","Single Family","1","17000","2793776","1043486","29551","8617 E 50 TE
+,  "
+"310",,"E","10","ST","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","2900","2766160","1068943","26890","310 E 10 ST
+,  "
+"515",,"NW","43","TE","12","1","1971","Residential","New Construction","Single Family","1","25000","2763267","1094684","55829","515 NW 43 TE
+,  "
+"11924",,"E","56","ST","4","1","1972","Residential","New Construction","Single Family","1","16000","2805672","1039135","63124","11924 E 56 ST
+,  "
+"600",,"E","18","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","500","2766966","1065062","65374","600 E 18 ST
+,  "
+"3711",,"NE","42","TE","12","1","1970","Residential","New Construction","Multifamily","2","20000","2778301","1093781","34784","3711 NE 42 TE
+,  "
+"3124",,"E","12","ST","4","1","1973","Residential","Demolition","Single Family","1","680","2775998","1067649","83468","3124 E 12 ST
+,  "
+"3308",,"E","53","ST","1","1","1970","Residential","Demolition","Single Family","1","371","2775673","1042584","18494","3308 E 53 ST
+,  "
+"1201",,"W","31","ST","8","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","50000","2760070","1057544","48483","1201 W 31 ST
+,  "
+"1741",,"W","34","TE","4","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","165","2758462","1055423","22567","1741 W 34 TE
+,  "
+"2102",,"E","47","TE","10","1","1972","Residential","Demolition","Single Family","1","392","2771576","1046337","74081","2102 E 47 TE
+,  "
+"3010",,"E","11","ST","4","1","1970","Residential","Demolition","Single Family","1","289","2775400","1068317","22873","3010 E 11 ST
+,  "
+"1415",,"E","12","ST","3","1","1970","Residential","Demolition","Single Family","1","200","2770229","1067784","20294","1415 E 12 ST
+,  "
+"8700",,"E","58","ST","11","1","1971","Residential","New Construction","Single Family","1","15000","2793170","1038301","53593","8700 E 58 ST
+,  "
+"2518",,"NE","43","ST","6","1","1971","Residential","Demolition","Single Family","1","500","2774634","1094346","45557","2518 NE 43 ST
+,  "
+"1009",,"W","57","TE","12","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1600","2760265","1040123","34371","1009 W 57 TE
+,  "
+"6500",,"E","18","ST","4","1","1971","Non-Residential","New Construction","NA","0","600","2786724","1063877","41646","6500 E 18 ST
+,  "
+"10401",,"E","42","ST","4","1","1971","Residential","New Construction","Multifamily","20","94522","2800928","1048605","41884","10401 E 42 ST
+,  "
+"2505",,"E","10","ST","7","1","1971","Residential","New Construction","Single Family","1","11000","2773900","1068608","47034","2505 E 10 ST
+,  "
+"2011",,"E","19","ST","2","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","25000","2772048","1064399","19602","2011 E 19 ST
+,  "
+"127",,"W","10","ST","1","1","1970","Non-Residential","Demolition","NA","0","5000","2764552","1068859","18171","127 W 10 ST
+,  "
+"4901",,"NE","48","ST","5","1","1971","Residential","New Construction","Single Family","1","12000","2782332","1097431","42067","4901 NE 48 ST
+,  "
+"1120",,"E","13","ST","12","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","4378","2769077","1067493","55036","1120 E 13 ST
+,  "
+"1900",,"E","36","ST","6","1","1972","Residential","Additions, Alterations, Repairs","NA","0","100","2771230","1054072","66637","1900 E 36 ST
+,  "
+"4914",,"E","24",,"8","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1300","2781385","1061631","71061","4914 E 24
+,  "
+"4820",,"E","51","TE","11","1","1970","Residential","New Construction","Single Family","1","13000","2780668","1043353","32657","4820 E 51 TE
+,  "
+"2612",,"E","52","ST","10","1","1971","Residential","Demolition","Single Family","1","300","2773155","1043346","52376","2612 E 52 ST
+,  "
+"3923",,"E","56","TE","6","1","1970","Residential","New Construction","Multifamily","4","41133","2777211","1040205","25766","3923 E 56 TE
+,  "
+"3715",,"E","8","ST","6","1","1970","Non-Residential","New Construction","NA","0","1800","2777950","1069133","25560","3715 E 8 ST
+,  "
+"6029",,"E","10","ST","9","1","1970","Residential","Demolition","Single Family","1","200","2785853","1068113","29604","6029 E 10 ST
+,  "
+"3317",,"E","51","ST","8","1","1970","Non-Residential","New Construction","NA","0","700","2784030","1068127","28954","3317 E 51 ST
+,  "
+"3602",,"E","55","ST","2","1","1973","Residential","Demolition","Single Family","1","300","2776295","1041238","81856","3602 E 55 ST
+,  "
+"312",,"W","8","ST","4","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","800","2763947","1069855","64304","312 W 8 ST
+,  "
+"3110",,"E","13","ST","4","1","1972","Residential","Additions, Alterations, Repairs","NA","0","3175","2775891","1067149","63516","3110 E 13 ST
+,  "
+"2101",,"E","36","ST","7","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1100","2771979","1053828","70033","2101 E 36 ST
+,  "
+"3234",,"E","28","ST","3","1","1973","Residential","Additions, Alterations, Repairs","NA","0","600","2776074","1058882","82662","3234 E 28 ST
+,  "
+"425",,"NW","58","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","900","2763815","1104407","45884","425 NW 58 ST
+,  "
+"1306",,"E","43","ST","8","1","1972","Residential","Demolition","Single Family","1","200","2768916","1049492","71277","1306 E 43 ST
+,  "
+"3612",,"E","31","ST","12","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1150","2777014","1057013","34185","3612 E 31 ST
+,  "
+"400",,"E","11",,"1","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","3900","2766453","1068517","57651","400 E 11
+,  "
+"3827",,"E","17","ST","9","1","1971","Residential","Demolition","Single Family","1","300","2778030","1064787","51190","3827 E 17 ST
+,  "
+"8613",,"E","58","ST","12","1","1970","Residential","New Construction","Single Family","1","14452","2792875","1038221","34031","8613 E 58 ST
+,  "
+"3700",,"NE","48","ST","5","1","1972","Residential","Additions, Alterations, Repairs","NA","0","770","2778596","1097794","65276","3700 NE 48 ST
+,  "
+"11900",,"E","55","TE","8","1","1972","Residential","New Construction","Single Family","1","20000","2805384","1039452","70498","11900 E 55 TE
+,  "
+"2017",,"NE","54","TE","10","1","1971","Residential","Additions, Alterations, Repairs","NA","0","5500","2773332","1101657","52399","2017 NE 54 TE
+,  "
+"3205",,"E","24","ST","1","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1240","2775809","1061795","35267","3205 E 24 ST
+,  "
+"2309",,"E","8","ST","2","1","1970","Residential","Demolition","Single Family","1","457","2773235","1069376","19931","2309 E 8 ST
+,  "
+"1016",,"NE","46","TE","10","1","1970","Residential","Demolition","Single Family","1","350","2769684","1096528","32266","1016 NE 46 TE
+,  "
+"221",,"E","12","ST","6","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","1500","2760968","996310","67351","221 E 12 ST
+,  "
+"5316",,"NE","59","ST","2","1","1970","Residential","New Construction","Single Family","1","13000","2784094","1104909","18883","5316 NE 59 ST
+,  "
+"1301",,"W","29","ST","1","1","1971","Non-Residential","New Construction","NA","0","145000","2759942","1058865","35099","1301 W 29 ST
+,  "
+"3009",,"NE","37","ST","12","1","1971","Residential","New Construction","Multifamily","16","275000","2775967","1090412","56241","3009 NE 37 ST
+,  "
+"1315",,"E","40","ST","3","1","1972","Residential","Additions, Alterations, Repairs","NA","0","655","2769076","1051357","62066","1315 E 40 ST
+,  "
+"8405",,"E","56","ST","2","1","1972","Residential","New Construction","Single Family","1","20000","2791933","1039721","59683","8405 E 56 ST
+,  "
+"3026",,"E","32","ST","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","82","2775353","1056765","25959","3026 E 32 ST
+,  "
+"1812",,"E","24","TE","3","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2400","2771525","1061695","60983","1812 E 24 TE
+,  "
+"414",,"NE","55","ST","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1200","2767338","1102482","22081","414 NE 55 ST
+,  "
+"3322",,"E","27","ST","5","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2776355","1059688","42586","3322 E 27 ST
+,  "
+"6242",,"E","12","TE","4","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","300","2786368","1066875","62823","6242 E 12 TE
+,  "
+"1505",,"E","18","ST","10","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","7925","2770500","1064829","74321","1505 E 18 ST
+,  "
+"2500",,"E","30","ST","2","1","1970","Residential","Demolition","Multifamily","4","650","2773471","1057819","19484","2500 E 30 ST
+,  "
+"1201",,"E","23","ST","6","1","1971","Residential","Demolition","Single Family","1","350","2760776","1062947","45474","1201 E 23 ST
+,  "
+"1415",,"E","9","ST","9","1","1971","Residential","Additions, Alterations, Repairs","NA","0","150","2768563","1019205","49835","1415 E 9 ST
+,  "
+"5702",,"NE","51","ST","9","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1600","2785006","1099494","50788","5702 NE 51 ST
+,  "
+"10",,"E","56","ST","11","1","1971","Residential","Additions, Alterations, Repairs","NA","0","490","2763912","1041140","53389","10 E 56 ST
+,  "
+"1320",,"E","37","ST","8","1","1972","Residential","Additions, Alterations, Repairs","NA","0","4000","2769283","1053396","71888","1320 E 37 ST
+,  "
+"1707",,"E","12","ST","11","1","1970","Non-Residential","Demolition","NA","0","400","2771209","1067724","33123","1707 E 12 ST
+,  "
+"3228",,"E","20","ST","11","1","1970","Residential","Additions, Alterations, Repairs","NA","0","990","2775979","1063758","33441","3228 E 20 ST
+,  "
+"8719",,"E","53","TE","8","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","3000","2793755","1041289","47870","8719 E 53 TE
+,  "
+"5115",,"NE","42","TE","3","1","1972","Residential","New Construction","Single Family","1","18000","2783201","1093727","61011","5115 NE 42 TE
+,  "
+"127",,"W","10","ST","4","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","6200","2764552","1068859","63691","127 W 10 ST
+,  "
+"12200",,"E","58","ST","5","1","1972","Residential","New Construction","Single Family","1","15500","2806342","1037969","65865","12200 E 58 ST
+,  "
+"2118",,"E","38","TE","4","1","1970","Residential","Demolition","Single Family","1","319","2772075","1052312","21926","2118 E 38 TE
+,  "
+"3025",,"E","7","ST","5","1","1970","Residential","Additions, Alterations, Repairs","NA","0","500","2776001","1069584","23938","3025 E 7 ST
+,  "
+"819",,"E","19","ST","1","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","2975","2767648","1064304","17733","819 E 19 ST
+,  "
+"2001",,"NE","52","TE","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","4700","2773066","1100591","29835","2001 NE 52 TE
+,  "
+"3609",,"E","26","ST","4","1","1970","Residential","Demolition","Single Family","1","400","2777226","1060198","22045","3609 E 26 ST
+,  "
+"3605",,"E","20","ST","3","1","1973","Residential","Demolition","Single Family","1","400","2777248","1063503","83131","3605 E 20 ST
+,  "
+"8610",,"E","57","TE","7","1","1971","Residential","New Construction","Single Family","1","20000","2792816","1038617","46711","8610 E 57 TE
+,  "
+"401",,"E","22","ST","6","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2766202","1063238","26110","401 E 22 ST
+,  "
+"2802",,"E","10","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1400","2774872","1068678","43328","2802 E 10 ST
+,  "
+"506",,"NW","43","TE","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1500","2763491","1094976","46969","506 NW 43 TE
+,  "
+"14",,"E","11","ST","1","1","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","18500","2762367","1003807","79016","14 E 11 ST
+,  "
+"2947",,"E","29","ST","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2200","2775431","1057999","22022","2947 E 29 ST
+,  "
+"620",,"E","26","ST","1","1","1970","Residential","Demolition","Multifamily","4","1630","2762599","1061192","17706","620 E 26 ST
+,  "
+"13201",,"E","52","ST","4","1","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","700","2809985","1041543","84244","13201 E 52 ST
+,  "
+"5409",,"NE","50","ST","10","1","1971","Residential","Additions, Alterations, Repairs","NA","0","355","2784231","1098740","51476","5409 NE 50 ST
+,  "
+"2804",,"E","33","ST","9","1","1971","Residential","Demolition","Single Family","1","585","2774424","1055810","50634","2804 E 33 ST
+,  "
+"5836",,"E","12","ST","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","350","2785228","1067249","25926","5836 E 12 ST
+,  "
+"4120",,"E","35","ST","2","1","1971","Residential","Additions, Alterations, Repairs","NA","0","3500","2778767","1054326","38212","4120 E 35 ST
+,  "
+"1213",,"W","8","ST","4","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","2000","2760636","1069890","64067","1213 W 8 ST
+,  "
+"800",,"W","47","ST","3","1","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","1750","2761127","1047244","83274","800 W 47 ST
+,  "
+"3102",,"E","23","ST","10","1","1970","Residential","Demolition","Single Family","1","200","2775620","1062437","32207","3102 E 23 ST
+,  "
+"2008",,"E","43","ST","4","1","1973","Residential","Demolition","Single Family","1","370","2771420","1049368","84602","2008 E 43 ST
+,  "
+"1705",,"E","12","ST","12","1","1970","Non-Residential","Demolition","NA","0","850","2771203","1067724","33804","1705 E 12 ST
+,  "
+"651",,"NE","45","TE","9","1","1971","Residential","Additions, Alterations, Repairs","NA","0","285","2768225","1095786","50863","651 NE 45 TE
+,  "
+"8509",,"E","56","TE","5","1","1971","Residential","New Construction","Single Family","1","16000","2792533","1039365","43684","8509 E 56 TE
+,  "
+"2629",,"E","8","ST","5","11","1973","Residential","Additions, Alterations, Repairs","NA","0","500","2774540","1069280","85544","2629 E 8 ST
+,  "
+"2624",,"NE","42","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","180","2774869","1093527","46817","2624 NE 42 ST
+,  "
+"1225",,"W","8","ST","8","1","1970","Residential","Demolition","Single Family","1","300","2760551","1069895","28951","1225 W 8 ST
+,  "
+"3908",,"E","19","ST","7","1","1971","Residential","Demolition","Single Family","1","400","2778424","1064062","46951","3908 E 19 ST
+,  "
+"11917",,"E","55","ST","10","1","1972","Residential","New Construction","Single Family","1","1600","2805613","1039661","74475","11917 E 55 ST
+,  "
+"1804",,"E","31","ST","1","1","1973","Non-Residential","Demolition","NA","0","670","2771103","1057273","80236","1804 E 31 ST
+,  "
+"2712",,"E","58","ST","9","1","1971","Residential","Demolition","Single Family","1","400","2773257","1039434","51392","2712 E 58 ST
+,  "
+"2304",,"E","12","ST","1","1","1971","Non-Residential","Demolition","NA","0","862","2773159","1067752","35120","2304 E 12 ST
+,  "
+"615",,"NE","42","ST","3","1","1970","Residential","Additions, Alterations, Repairs","NA","0","8000","2767842","1093621","20049","615 NE 42 ST
+,  "
+"518",,"E","31","ST","9","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","800","2766592","1057490","30634","518 E 31 ST
+,  "
+"5013",,"NE","58","ST","1","1","1971","Residential","Additions, Alterations, Repairs","NA","0","800","2783034","1104062","35198","5013 NE 58 ST
+,  "
+"4654",,"E","43","TE","3","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1860","2781005","1048274","20482","4654 E 43 TE
+,  "
+"6011",,"E","8","ST","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","2400","2785681","1068908","26883","6011 E 8 ST
+,  "
+"12201",,"E","56","ST","3","1","1972","Residential","New Construction","Single Family","1","22000","2806366","1039040","62170","12201 E 56 ST
+,  "
+"21",,"W","10","ST","1","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2764862","1068851","17701","21 W 10 ST
+,  "
+"10000",,"E","43","ST","3","1","1972","Residential","New Construction","Single Family","1","23000","2799714","1048004","61095","10000 E 43 ST
+,  "
+"3411",,"E","54","ST","3","1","1973","Residential","Additions, Alterations, Repairs","NA","0","1500","2775839","1041694","82447","3411 E 54 ST
+,  "
+"2814",,"E","12","ST","12","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1500","2774833","1067701","34073","2814 E 12 ST
+,  "
+"9923",,"E","38","ST","8","1","1971","Residential","Additions, Alterations, Repairs","NA","0","300","2799444","1051284","48261","9923 E 38 ST
+,  "
+"1041",,"E","1","ST","5","1","1970","Residential","Demolition","Single Family","1","400","2768343","1073092","23531","1041 E 1 ST
+,  "
+"9600",,"E","47","ST","3","1","1971","Non-Residential","Demolition","NA","0","300","2798514","1046036","39457","9600 E 47 ST
+,  "
+"712",,"W","34","ST","10","1","1972","Residential","Demolition","Single Family","1","1060","2762079","1056037","75383","712 W 34 ST
+,  "
+"2333",,"E","48","TE","5","1","1970","Residential","Demolition","Single Family","1","500","2772425","1045498","24159","2333 E 48 TE
+,  "
+"27",,"NW","39","ST","5","1","1972","Residential","Additions, Alterations, Repairs","NA","0","10000","2765207","1091638","65959","27 NW 39 ST
+,  "
+"127",,"W","10","ST","9","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","4000","2764552","1068859","30631","127 W 10 ST
+,  "
+"3816",,"E","25","ST","1","1","1973","Residential","Additions, Alterations, Repairs","NA","0","400","2778015","1060937","77969","3816 E 25 ST
+,  "
+"3820",,"E","57","ST","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2225","2777235","1039868","25759","3820 E 57 ST
+,  "
+"11711",,"E","45","TE","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","466","2805057","1045801","25997","11711 E 45 TE
+,  "
+"2413",,"E","13","ST","11","1","1970","Residential","Demolition","Multifamily","2","517","2773600","1067122","32630","2413 E 13 ST
+,  "
+"1414",,"E","14","ST","3","1","1973","Residential","Additions, Alterations, Repairs","NA","0","1900","2770265","1066904","81941","1414 E 14 ST
+,  "
+"2610",,"E","11","ST","6","1","1972","Non-Residential","New Construction","NA","0","23400","2774353","1068366","68353","2610 E 11 ST
+,  "
+"1217",,"E","8","ST","4","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","1500","2769380","1069492","64130","1217 E 8 ST
+,  "
+"12012",,"E","57","TE","4","1","1970","Residential","New Construction","Single Family","1","9000","2806038","1038241","22001","12012 E 57 TE
+,  "
+"2327",,"E","48","TE","11","1","1971","Residential","Demolition","Single Family","1","759","2772380","1045500","53207","2327 E 48 TE
+,  "
+"2421",,"E","10","ST","7","1","1971","Residential","New Construction","Single Family","1","11000","2773803","1068609","46808","2421 E 10 ST
+,  "
+"3514",,"E","55","ST","4","1","1972","Residential","New Construction","Single Family","1","11000","2776116","1041242","63792","3514 E 55 ST
+,  "
+"5113",,"NE","46","ST","5","1","1970","Residential","New Construction","Single Family","1","12000","2783111","1096149","23322","5113 NE 46 ST
+,  "
+"2608",,"E","52","ST","12","1","1972","Residential","Demolition","Single Family","1","306","2773149","1043346","77429","2608 E 52 ST
+,  "
+"2420",,"E","11","ST","1","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2000","2773571","1068390","35397","2420 E 11 ST
+,  "
+"2315",,"E","48","ST","3","1","1971","Residential","Demolition","Single Family","1","300","2772313","1045801","39703","2315 E 48 ST
+,  "
+"3407",,"E","33","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","400","2776294","1055625","47305","3407 E 33 ST
+,  "
+"10701",,"E","47","ST","7","1","1972","Residential","New Construction","Single Family","1","30000","2801838","1045144","68516","10701 E 47 ST
+,  "
+"12101",,"E","55","ST","6","1","1972","Residential","New Construction","Single Family","1","26000","2806106","1039672","66537","12101 E 55 ST
+,  "
+"6",,"E","11","ST","2","1","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","1500","2762493","1005368","81581","6 E 11 ST
+,  "
+"4216",,"NE","38","ST","9","1","1971","Residential","Additions, Alterations, Repairs","NA","0","100","2780032","1090962","51020","4216 NE 38 ST
+,  "
+"4435",,"E","10","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1000","2780569","1068336","43743","4435 E 10 ST
+,  "
+"5820",,"E","12","ST","10","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1250","2784949","1067259","51616","5820 E 12 ST
+,  "
+"100",,"W","3","ST","1","1","1973","Non-Residential","New Construction","NA","0","173000","2764684","1071639","80469","100 W 3 ST
+,  "
+"5605",,"E","27","TE","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","150","2783688","1059018","41564","5605 E 27 TE
+,  "
+"21",,"W","10","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","3500","2764862","1068851","45878","21 W 10 ST
+,  "
+"2816",,"E","7","ST","1","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2360","2775130","1069741","18443","2816 E 7 ST
+,  "
+"1508",,"E","12","ST","5","1","1970","Residential","Demolition","Multifamily","2","200","2770698","1067860","23678","1508 E 12 ST
+,  "
+"6201",,"E","8","ST","11","1","1970","Non-Residential","New Construction","NA","0","500","2786065","1068898","33366","6201 E 8 ST
+,  "
+"2509",,"E","13","ST","1","1","1970","Residential","Demolition","Single Family","1","595","2773814","1067138","18467","2509 E 13 ST
+,  "
+"5431",,"E","28","TE","10","1","1970","Residential","Additions, Alterations, Repairs","NA","0","189","2783360","1058233","32369","5431 E 28 TE
+,  "
+"3018",,"E","12","ST","7","1","1970","Non-Residential","Demolition","NA","0","475","2775403","1067657","26455","3018 E 12 ST
+,  "
+"12011",,"E","57","TE","2","1","1971","Residential","New Construction","Single Family","1","13000","2806015","1038129","36184","12011 E 57 TE
+,  "
+"5812",,"E","19","TE","2","1","1970","Residential","New Construction","Multifamily","10","79200","2784576","1063548","19035","5812 E 19 TE
+,  "
+"127",,"W","10","ST","6","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","3000","2764552","1068859","45117","127 W 10 ST
+,  "
+"1616",,"E","14","ST","4","1","1971","Residential","Demolition","Multifamily","6","1000","2770864","1066868","41063","1616 E 14 ST
+,  "
+"922",,"W","48","ST","8","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","300","2760754","1046555","48725","922 W 48 ST
+,  "
+"532",,"NE","43","TE","8","1","1971","Residential","Additions, Alterations, Repairs","NA","0","3000","2767663","1094646","48008","532 NE 43 TE
+,  "
+"3912",,"E","19","ST","4","1","1971","Residential","Demolition","Single Family","1","200","2778513","1064068","40537","3912 E 19 ST
+,  "
+"6422",,"E","15","TE","4","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1480","2786789","1065523","63640","6422 E 15 TE
+,  "
+"1616",,"E","24","ST","10","1","1971","Residential","Demolition","Single Family","1","620","2770801","1062099","53117","1616 E 24 ST
+,  "
+"1218",,"E","28","ST","10","1","1970","Residential","Additions, Alterations, Repairs","NA","0","100","2768987","1059412","31846","1218 E 28 ST
+,  "
+"2612",,"E","8","ST","3","1","1970","Residential","Demolition","Multifamily","2","724","2774377","1069404","20854","2612 E 8 ST
+,  "
+"1807",,"E","41","ST","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","200","2770857","1050607","21941","1807 E 41 ST
+,  "
+"2416",,"E","10","ST","8","1","1971","Residential","New Construction","Single Family","1","11000","2773762","1068725","48271","2416 E 10 ST
+,  "
+"2605",,"E","38","ST","3","1","1970","Residential","Additions, Alterations, Repairs","NA","0","150","2773637","1052446","21312","2605 E 38 ST
+,  "
+"12004",,"E","57","ST","4","1","1971","Residential","New Construction","Single Family","1","13000","2805872","1038535","41308","12004 E 57 ST
+,  "
+"2726",,"E","36","ST","11","1","1970","Residential","Additions, Alterations, Repairs","NA","0","543","2774265","1053667","33206","2726 E 36 ST
+,  "
+"1629",,"E","22","TE","5","10","1973","Residential","Additions, Alterations, Repairs","NA","0","400","2771031","1062532","85471","1629 E 22 TE
+,  "
+"3812",,"E","56","TE","8","1","1970","Residential","Demolition","Single Family","1","200","2777015","1040193","28136","3812 E 56 TE
+,  "
+"4010",,"E","24","ST","5","1","1970","Residential","Additions, Alterations, Repairs","NA","0","4000","2778659","1061638","24470","4010 E 24 ST
+,  "
+"10505",,"E","42","ST","4","1","1971","Residential","New Construction","Multifamily","10","67970","2801207","1048540","41880","10505 E 42 ST
+,  "
+"1510",,"E","12","ST","5","1","1970","Non-Residential","Demolition","NA","0","100","2767249","992710","23679","1510 E 12 ST
+,  "
+"500",,"NW","55","TE","9","1","1971","Residential","New Construction","Multifamily","23","18968","2763996","1102610","51081","500 NW 55 TE
+,  "
+"5216",,"NE","44","TE","5","1","1971","Residential","New Construction","Single Family","1","13104","2783731","1095285","42700","5216 NE 44 TE
+,  "
+"4527",,"E","53","ST","12","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1000","2779310","1042310","55172","4527 E 53 ST
+,  "
+"11106",,"E","48","TE","10","1","1971","Residential","New Construction","Single Family","1","20000","2803232","1044006","51479","11106 E 48 TE
+,  "
+"12005",,"E","56","ST","5","1","1971","Residential","New Construction","Single Family","1","13500","2805880","1039008","43105","12005 E 56 ST
+,  "
+"8313",,"E","49","TE","6","1","1971","Residential","New Construction","Single Family","1","18000","2792226","1043950","44889","8313 E 49 TE
+,  "
+"2639",,"E","10","ST","8","1","1970","Residential","Demolition","Multifamily","2","500","2774284","1068589","29315","2639 E 10 ST
+,  "
+"414",,"E","12","ST","8","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","15663","2766495","1068344","48863","414 E 12 ST
+,  "
+"5201",,"E","41","ST","8","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","325","2781967","1050285","29314","5201 E 41 ST
+,  "
+"6408",,"E","14","ST","7","1","1970","Residential","Additions, Alterations, Repairs","NA","0","300","2786648","1066211","26968","6408 E 14 ST
+,  "
+"4301",,"NW","57","TE","4","1","1971","Residential","New Construction","Multifamily","2","22392","2751667","1104111","40213","4301 NW 57 TE
+,  "
+"6618",,"E","58","TE","8","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2000","2786550","1038456","70372","6618 E 58 TE
+,  "
+"1309",,"E","59","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","258","2768404","1038821","46764","1309 E 59 ST
+,  "
+"3018",,"E","8","ST","5","8","1973","Residential","Additions, Alterations, Repairs","NA","0","2370","2775903","1069339","85313","3018 E 8 ST
+,  "
+"8505",,"E","56","ST","2","1","1971","Residential","New Construction","Single Family","1","15000","2792561","1039660","38157","8505 E 56 ST
+,  "
+"1915",,"E","33","ST","8","1","1970","Residential","Demolition","Single Family","1","800","2771415","1055834","28817","1915 E 33 ST
+,  "
+"1147",,"E","49","ST","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1925","2768533","1045439","41360","1147 E 49 ST
+,  "
+"5113",,"NE","49","ST","9","1","1972","Residential","New Construction","Single Family","1","14420","2783186","1098078","72963","5113 NE 49 ST
+,  "
+"1629",,"E","21","ST","4","1","1970","Residential","New Construction","Multifamily","8","52000","2770773","1063341","23061","1629 E 21 ST
+,  "
+"3005",,"E","52","ST","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1200","2774558","1043169","22573","3005 E 52 ST
+,  "
+"4023",,"E","56","ST","4","1","1972","Residential","New Construction","Single Family","1","13400","2777945","1040379","63297","4023 E 56 ST
+,  "
+"11908",,"E","55","ST","9","1","1972","Residential","New Construction","Single Family","1","19000","2805490","1039775","72220","11908 E 55 ST
+,  "
+"2704",,"NE","47","TE","1","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2640","2775393","1097416","57134","2704 NE 47 TE
+,  "
+"31",,"E","32","ST","5","1","1971","Non-Residential","Demolition","NA","0","100","2765086","1056787","42847","31 E 32 ST
+,  "
+"1606",,"NE","48","TE","6","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","800","2771304","1097971","25117","1606 NE 48 TE
+,  "
+"1910",,"E","24","ST","9","1","1971","Residential","Demolition","Single Family","1","540","2771656","1062070","50627","1910 E 24 ST
+,  "
+"414",,"W","32","ST","8","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","217600","2763090","1056991","71609","414 W 32 ST
+,  "
+"4210",,"E","36","ST","8","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2778987","1053654","28468","4210 E 36 ST
+,  "
+"642",,"W","39","TE","2","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1500","2761680","1052115","19127","642 W 39 TE
+,  "
+"101",,"W","11","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","534000","2764725","1068355","47477","101 W 11 ST
+,  "
+"11706",,"E","58","ST","10","1","1970","Residential","New Construction","Single Family","1","14000","2804791","1037994","32211","11706 E 58 ST
+,  "
+"1812",,"E","43","ST","2","1","1973","Residential","Demolition","Single Family","1","521","2770790","1049401","81863","1812 E 43 ST
+,  "
+"4001",,"NE","52","TE","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1700","2779706","1100433","22245","4001 NE 52 TE
+,  "
+"15305",,"E","48","TE","5","1","1970","Residential","New Construction","Single Family","1","10000","2817001","1043386","24605","15305 E 48 TE
+,  "
+"4500",,"E","27","ST","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","150","2779962","1059528","27321","4500 E 27 ST
+,  "
+"3200",,"E","29","ST","12","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2000","2775625","1058102","34531","3200 E 29 ST
+,  "
+"131",,"E","39","ST","3","1","1970","Non-Residential","New Construction","NA","0","48900","2764849","1052177","19986","131 E 39 ST
+,  "
+"2409",,"E","27","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","600","2773298","1059713","42463","2409 E 27 ST
+,  "
+"1750",,"E","22","ST","4","1","1970","Residential","New Construction","Multifamily","8","52000","2771165","1062976","23053","1750 E 22 ST
+,  "
+"2005",,"E","34","ST","7","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1500","2771768","1055170","69229","2005 E 34 ST
+,  "
+"2009",,"E","24","TE","6","1","1971","Residential","Demolition","Multifamily","8","799","2771927","1061538","44791","2009 E 24 TE
+,  "
+"10601",,"E","42","ST","4","1","1971","Residential","New Construction","Multifamily","10","67970","2801537","1048485","41878","10601 E 42 ST
+,  "
+"6601",,"E","58","ST","8","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","700","2786165","1038990","49536","6601 E 58 ST
+,  "
+"3900",,"E","31","ST","7","1","1971","Non-Residential","New Construction","NA","0","21000","2778033","1056997","46469","3900 E 31 ST
+,  "
+"3322",,"E","23","ST","10","1","1970","Residential","Demolition","Single Family","1","300","2776344","1062412","32339","3322 E 23 ST
+,  "
+"4925",,"E","31",,"10","18","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","700","2781146","1056739","93640","4925 E 31
+,  "
+"2654",,"E","29","ST","12","1","1970","Residential","Demolition","Single Family","1","800","2773946","1058197","33908","2654 E 29 ST
+,  "
+"3517",,"E","45","TE","3","1","1972","Residential","Additions, Alterations, Repairs","NA","0","600","2776492","1047351","61148","3517 E 45 TE
+,  "
+"2656",,"NE","42","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","26690","2774947","1093527","46818","2656 NE 42 ST
+,  "
+"12030",,"E","46","TE","9","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1200","2806836","1045266","50790","12030 E 46 TE
+,  "
+"12012",,"E","58","ST","7","1","1972","Residential","New Construction","Single Family","1","15900","2806047","1037927","69278","12012 E 58 ST
+,  "
+"1301",,"W","39","ST","1","1","1970","Non-Residential","New Construction","NA","0","8900","2759824","1052422","18047","1301 W 39 ST
+,  "
+"2312",,"E","11","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","150","2773419","1068196","47610","2312 E 11 ST
+,  "
+"127",,"W","10","ST","3","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2764552","1068859","21546","127 W 10 ST
+,  "
+"6200",,"E","35","ST","2","1","1971","Non-Residential","New Construction","NA","0","12730","2785680","1054864","36175","6200 E 35 ST
+,  "
+"510",,"E","26","ST","1","1","1970","Residential","Demolition","Multifamily","2","1215","2766487","1060569","17702","510 E 26 ST
+,  "
+"21",,"E","12","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","19000","2765166","1068004","64611","21 E 12 ST
+,  "
+"5309",,"NE","46","ST","12","1","1970","Residential","New Construction","Single Family","1","12500","2783758","1096140","34790","5309 NE 46 ST
+,  "
+"1709",,"E","37","ST","12","1","1970","Residential","Additions, Alterations, Repairs","NA","0","200","2770735","1053221","33888","1709 E 37 ST
+,  "
+"1515",,"E","12",,"2","1","1972","Non-Residential","Demolition","NA","0","1600","2770702","1067679","59979","1515 E 12
+,  "
+"3609",,"NE","48","ST","6","1","1972","Residential","Additions, Alterations, Repairs","NA","0","660","2778481","1097628","67139","3609 NE 48 ST
+,  "
+"8439",,"E","56","TE","5","1","1971","Residential","New Construction","Single Family","1","23000","2792405","1039382","43770","8439 E 56 TE
+,  "
+"4110",,"E","6","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","275","2779167","1069906","43160","4110 E 6 ST
+,  "
+"9621",,"E","38","TE","5","1","1971","Residential","New Construction","Single Family","1","26400","2798525","1050920","42267","9621 E 38 TE
+,  "
+"907",,"E","18","ST","8","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","700","2768116","1064910","71502","907 E 18 ST
+,  "
+"12013",,"E","56","TE","2","1","1972","Residential","New Construction","Single Family","1","18000","2806009","1038710","59641","12013 E 56 TE
+,  "
+"3820",,"E","9","ST","12","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2800","2778400","1068891","55443","3820 E 9 ST
+,  "
+"5900",,"NE","45","ST","4","1","1972","Residential","New Construction","Single Family","1","12000","2785650","1095555","63121","5900 NE 45 ST
+,  "
+"8809",,"E","49","ST","8","1","1970","Non-Residential","New Construction","NA","0","3000","2794508","1044250","28729","8809 E 49 ST
+,  "
+"1806",,"E","24","TE","11","12","1973","Residential","Demolition","Multifamily","4","540","2771310","1061692","94673","1806 E 24 TE
+,  "
+"1001",,"W","16","ST","1","1","1970","Residential","Demolition","Multifamily","2","100","2761609","1066428","17752","1001 W 16 ST
+,  "
+"15215",,"E","48","ST","2","1","1971","Residential","New Construction","Single Family","1","10000","2816835","1043697","37865","15215 E 48 ST
+,  "
+"1615",,"E","12","ST","6","1","1970","Non-Residential","Demolition","NA","0","600","2768162","992566","25384","1615 E 12 ST
+,  "
+"4914",,"E","45","ST","9","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","200","2781071","1047623","29661","4914 E 45 ST
+,  "
+"324",,"E","11","ST","2","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","6000","2766377","1068546","19258","324 E 11 ST
+,  "
+"4810",,"E","7","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","700","2781544","1069425","47417","4810 E 7 ST
+,  "
+"2801",,"E","12","ST","7","1","1971","Residential","Demolition","Multifamily","2","450","2774737","1067584","46255","2801 E 12 ST
+,  "
+"2409",,"E","10","ST","7","1","1971","Residential","New Construction","Single Family","1","11000","2773654","1068614","46804","2409 E 10 ST
+,  "
+"2115",,"E","12","ST","10","1","1972","Non-Residential","Demolition","NA","0","300","2772529","1067687","75355","2115 E 12 ST
+,  "
+"3609",,"E","20","ST","1","1","1970","Residential","Additions, Alterations, Repairs","NA","0","500","2777260","1063503","18565","3609 E 20 ST
+,  "
+"6401",,"E","18","TE","3","1","1970","Residential","New Construction","Single Family","1","14000","2786329","1063673","21374","6401 E 18 TE
+,  "
+"2816",,"E","12","ST","2","1","1970","Residential","Demolition","Single Family","1","776","2774949","1067676","19176","2816 E 12 ST
+,  "
+"2702",,"E","51","ST","2","1","1971","Residential","Demolition","Single Family","1","539","2773497","1043989","37272","2702 E 51 ST
+,  "
+"127",,"W","10","ST","12","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","75000","2764552","1068859","56759","127 W 10 ST
+,  "
+"1314",,"E","24","ST","8","1","1970","Residential","Additions, Alterations, Repairs","NA","0","520","2760378","1062624","28930","1314 E 24 ST
+,  "
+"1012",,"E","5","ST","9","1","1971","Residential","Demolition","Single Family","1","400","2768345","1071997","50466","1012 E 5 ST
+,  "
+"333",,"W","47","ST","3","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","10000","2762761","1046924","20632","333 W 47 ST
+,  "
+"2617",,"E","57","ST","9","1","1971","Residential","Demolition","Single Family","1","400","2773013","1039957","50896","2617 E 57 ST
+,  "
+"706",,"NE","42","TE","9","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","400","2768389","1094043","30719","706 NE 42 TE
+,  "
+"115",,"E","9","ST","11","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","6500","2763068","1015315","54740","115 E 9 ST
+,  "
+"8422",,"E","55","TE","6","1","1970","Residential","New Construction","Single Family","1","15000","2792185","1040180","26144","8422 E 55 TE
+,  "
+"5030",,"E","9","ST","11","1","1971","Residential","Additions, Alterations, Repairs","NA","0","698","2782444","1068707","54096","5030 E 9 ST
+,  "
+"5107",,"E","24","ST","1","1","1973","Residential","Additions, Alterations, Repairs","NA","0","400","2782074","1061404","79774","5107 E 24 ST
+,  "
+"8435",,"E","56","TE","6","1","1971","Residential","New Construction","Single Family","1","15780","2792330","1039411","45229","8435 E 56 TE
+,  "
+"5857",,"E","21","ST","4","1","1970","Residential","New Construction","Multifamily","4","36992","2784601","1062770","22398","5857 E 21 ST
+,  "
+"2804",,"E","6","ST","8","1","1971","Residential","Demolition","Single Family","1","410","2775091","1070068","48679","2804 E 6 ST
+,  "
+"2008",,"NE","39","ST","10","1","1970","Non-Residential","New Construction","NA","0","2840","2772760","1091632","31001","2008 NE 39 ST
+,  "
+"12113",,"E","55","ST","7","1","1972","Residential","New Construction","Single Family","1","15000","2806246","1039666","69614","12113 E 55 ST
+,  "
+"8730",,"E","52","ST","2","1","1973","Residential","Additions, Alterations, Repairs","NA","0","1790","2793982","1042368","81212","8730 E 52 ST
+,  "
+"4401",,"NE","46","ST","12","1","1972","Residential","New Construction","Single Family","1","15120","2780782","1096171","77587","4401 NE 46 ST
+,  "
+"2646",,"E","8","ST","4","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1800","2774386","1069387","63040","2646 E 8 ST
+,  "
+"11",,"NW","43","ST","2","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1800","2765463","1094292","59422","11 NW 43 ST
+,  "
+"5623",,"E","27","ST","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","420","2783886","1059273","29890","5623 E 27 ST
+,  "
+"220",,"W","12","ST","9","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","3000","2760998","996256","72156","220 W 12 ST
+,  "
+"2714",,"E","54","ST","1","1","1973","Non-Residential","Demolition","NA","0","10","2773706","1047937","77961","2714 E 54 ST
+,  "
+"3106",,"E","10","ST","8","1","1971","Residential","New Construction","Single Family","1","11000","2775795","1068634","49418","3106 E 10 ST
+,  "
+"3800",,"E","25","ST","3","1","1973","Residential","Demolition","Single Family","1","450","2777783","1060933","82844","3800 E 25 ST
+,  "
+"6027",,"E","16","TE","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2000","2785551","1064805","41903","6027 E 16 TE
+,  "
+"417",,"E","13","ST","1","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","200","2766656","1067472","35675","417 E 13 ST
+,  "
+"5620",,"E","31","ST","2","1","1970","Residential","Demolition","Single Family","1","219","2783579","1056731","19686","5620 E 31 ST
+,  "
+"111",,"W","10","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2764764","1068859","47338","111 W 10 ST
+,  "
+"9801",,"E","51","ST","8","1","1971","Residential","Additions, Alterations, Repairs","NA","0","3000","2798704","1042627","49128","9801 E 51 ST
+,  "
+"10005",,"E","47","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","2000","2799670","1045251","65729","10005 E 47 ST
+,  "
+"2413",,"E","10","ST","7","1","1971","Residential","New Construction","Single Family","1","11000","2773714","1068617","46803","2413 E 10 ST
+,  "
+"312",,"E","12","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","2000","2766326","1068069","46091","312 E 12 ST
+,  "
+"927",,"W","42","ST","5","1","1972","Residential","Additions, Alterations, Repairs","NA","0","3000","2760698","1050610","64432","927 W 42 ST
+,  "
+"3432",,"E","7","ST","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","697","2777270","1069632","24886","3432 E 7 ST
+,  "
+"2502",,"NE","53","ST","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","348","2774533","1100996","41932","2502 NE 53 ST
+,  "
+"109",,"W","18","ST","4","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","3000","2764485","1065074","22504","109 W 18 ST
+,  "
+"2712",,"E","55","ST","10","1","1972","Residential","Demolition","Single Family","1","542","2773350","1041360","75146","2712 E 55 ST
+,  "
+"4212",,"E","26","ST","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","900","2779103","1060220","26340","4212 E 26 ST
+,  "
+"4500",,"E","25","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","400","2779982","1060844","47571","4500 E 25 ST
+,  "
+"824",,"NE","46","ST","12","1","1972","Residential","Additions, Alterations, Repairs","NA","0","250","2769020","1096219","77541","824 NE 46 ST
+,  "
+"12740",,"E","59","ST","8","1","1971","Residential","New Construction","Single Family","1","18700","2808352","1036979","49395","12740 E 59 ST
+,  "
+"2902",,"E","12","ST","9","1","1970","Residential","Demolition","Multifamily","2","627","2775174","1067667","30673","2902 E 12 ST
+,  "
+"2801",,"E","8","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","400","2775025","1069258","43417","2801 E 8 ST
+,  "
+"6014",,"E","11","ST","4","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","400","2785649","1067893","23137","6014 E 11 ST
+,  "
+"5614",,"E","37","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","550","2783777","1052805","42185","5614 E 37 ST
+,  "
+"7932",,"NE","54","ST","6","1","1972","Residential","Additions, Alterations, Repairs","NA","0","2000","2792823","1101719","68138","7932 NE 54 ST
+,  "
+"8119",,"NE","52","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","325","2793695","1100308","47154","8119 NE 52 ST
+,  "
+"5945",,"E","40","TE","2","1","1970","Residential","New Construction","Multifamily","6","31704","2784299","1050306","19952","5945 E 40 TE
+,  "
+"4105",,"E","19","ST","9","1","1971","Residential","Demolition","Single Family","1","683","2779048","1063945","51336","4105 E 19 ST
+,  "
+"612",,"W","48","ST","4","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","2000","2761946","1046541","40080","612 W 48 ST
+,  "
+"11208",,"E","44","ST","6","1","1970","Residential","Additions, Alterations, Repairs","NA","0","488","2803991","1046936","25558","11208 E 44 ST
+,  "
+"8320",,"E","56","ST","2","1","1970","Residential","New Construction","Single Family","1","20000","2791750","1039904","18892","8320 E 56 ST
+,  "
+"3915",,"NE","50","TE","2","1","1970","Residential","Additions, Alterations, Repairs","NA","0","700","2779219","1099247","19598","3915 NE 50 TE
+,  "
+"919",,"W","47","ST","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","3000","2760779","1047111","65383","919 W 47 ST
+,  "
+"7605",,"E","17","ST","11","1","1971","Non-Residential","New Construction","NA","0","32863","2790416","1064269","54870","7605 E 17 ST
+,  "
+"12004",,"E","57","TE","6","1","1970","Residential","New Construction","Single Family","1","10000","2805891","1038244","25003","12004 E 57 TE
+,  "
+"20",,"E","14","ST","8","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","4000","2765125","1067123","49547","20 E 14 ST
+,  "
+"2507",,"E","24","TE","3","1","1970","Residential","Demolition","Single Family","1","200","2773684","1061422","20350","2507 E 24 TE
+,  "
+"912",,"E","27","ST","11","1","1972","Residential","Demolition","Multifamily","6","600","2767859","1060057","76309","912 E 27 ST
+,  "
+"8100",,"NE","57","ST","12","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1400","2793043","1103836","77323","8100 NE 57 ST
+,  "
+"3408",,"E","36","ST","9","1","1971","Residential","Additions, Alterations, Repairs","NA","0","512","2776335","1053768","49925","3408 E 36 ST
+,  "
+"100",,"W","12","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","550","2764775","1068122","46019","100 W 12 ST
+,  "
+"9121",,"E","51","ST","7","1","1972","Residential","New Construction","Single Family","1","20000","2796497","1042359","70081","9121 E 51 ST
+,  "
+"6816",,"NE","49","TE","4","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1800","2788779","1098502","62612","6816 NE 49 TE
+,  "
+"613",,"W","57","ST","5","1","1971","Residential","Additions, Alterations, Repairs","NA","0","5000","2761516","1040127","43294","613 W 57 ST
+,  "
+"2200",,"E","13","ST","11","1","1970","Residential","Demolition","Multifamily","2","3030","2772799","1067280","33345","2200 E 13 ST
+,  "
+"629",,"W","38","ST","5","9","1973","Non-Residential","Demolition","NA","0","1500","2761976","1052767","85456","629 W 38 ST
+,  "
+"2339",,"E","48","ST","5","1","1972","Residential","Demolition","Single Family","1","500","2772530","1045757","64770","2339 E 48 ST
+,  "
+"1612",,"W","33","ST","10","1","1970","Residential","Demolition","Single Family","1","100","2759110","1056340","31763","1612 W 33 ST
+,  "
+"4919",,"E","31","ST","11","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","750","2781076","1056740","53721","4919 E 31 ST
+,  "
+"11710",,"E","59","ST","6","1","1972","Non-Residential","New Construction","NA","0","2000","2804864","1037162","66358","11710 E 59 ST
+,  "
+"12207",,"E","57","TE","2","1","1970","Residential","New Construction","Single Family","1","15000","2806434","1038164","19026","12207 E 57 TE
+,  "
+"1505",,"E","22","TE","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","400","2770454","1062642","46195","1505 E 22 TE
+,  "
+"5100",,"NE","59","TE","5","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2450","2783115","1105144","23295","5100 NE 59 TE
+,  "
+"5848",,"E","19","TE","2","1","1972","Residential","New Construction","Multifamily","6","42576","2785068","1063446","59199","5848 E 19 TE
+,  "
+"1901",,"E","38","ST","7","1","1972","Residential","Demolition","Single Family","1","400","2771161","1052567","68625","1901 E 38 ST
+,  "
+"12201",,"E","57","TE","2","1","1970","Residential","New Construction","Single Family","1","14000","2806368","1038162","19024","12201 E 57 TE
+,  "
+"12021",,"E","43","ST","4","1","1970","Non-Residential","New Construction","NA","0","9000","2806221","1047560","22176","12021 E 43 ST
+,  "
+"11800",,"E","59","TE","6","1","1973","Residential","New Construction","Multifamily","4","55670","2805041","1036793","87314","11800 E 59 TE
+,  "
+"2715",,"E","59","ST","10","1","1971","Residential","Demolition","Single Family","1","745","2773220","1038626","52427","2715 E 59 ST
+,  "
+"906",,"E","16","ST","4","1","1973","Residential","Demolition","Single Family","1","500","2761884","1066515","84057","906 E 16 ST
+,  "
+"2711",,"E","35","TE","3","1","1973","Residential","Demolition","Single Family","1","800","2774066","1053895","83113","2711 E 35 TE
+,  "
+"1124",,"NE","40","PL","12","1","1972","Residential","New Construction","Single Family","1","22680","2770040","1092896","77404","1124 NE 40 PL
+,  "
+"2118",,"E","47","TE","11","1","1972","Residential","Demolition","Single Family","1","400","2771657","1046332","75886","2118 E 47 TE
+,  "
+"1906",,"E","43","ST","3","1","1970","Residential","Additions, Alterations, Repairs","NA","0","1000","2771063","1049383","20025","1906 E 43 ST
+,  "
+"4216",,"NW","57","TE","5","1","1972","Residential","New Construction","Multifamily","4","32600","2751904","1104137","65495","4216 NW 57 TE
+,  "
+"3700",,"NW","56","ST","3","1","1972","Residential","New Construction","Single Family","1","14000","2753517","1103117","61768","3700 NW 56 ST
+,  "
+"4617",,"E","40","ST","3","1","1972","Residential","Additions, Alterations, Repairs","NA","0","800","2780257","1050852","60929","4617 E 40 ST
+,  "
+"1510",,"E","21","ST","8","1","1970","Residential","Demolition","Multifamily","2","400","2770485","1063483","28675","1510 E 21 ST
+,  "
+"6703",,"E","12","ST","4","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","750","2787580","1067039","41260","6703 E 12 ST
+,  "
+"2508",,"E","49","ST","1","1","1970","Residential","Demolition","Single Family","1","612","2772840","1045381","17977","2508 E 49 ST
+,  "
+"3306",,"E","53","ST","5","1","1970","Residential","Demolition","Single Family","1","293","2775416","1042578","23585","3306 E 53 ST
+,  "
+"3004",,"E","25","ST","6","1","1972","Residential","Additions, Alterations, Repairs","NA","0","940","2775261","1061042","67936","3004 E 25 ST
+,  "
+"3104",,"E","11","ST","5","1","1971","Residential","Demolition","Multifamily","2","921","2775756","1068299","43685","3104 E 11 ST
+,  "
+"5321",,"NE","46","ST","2","1","1971","Residential","New Construction","Single Family","1","12000","2783914","1096141","36179","5321 NE 46 ST
+,  "
+"1220",,"E","30","ST","11","1","1970","Residential","New Construction","Multifamily","15","160000","2769168","1058042","33730","1220 E 30 ST
+,  "
+"3000",,"E","31","ST","12","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","400","2775025","1057098","34117","3000 E 31 ST
+,  "
+"212",,"W","10","ST","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","400","2761388","1005334","26643","212 W 10 ST
+,  "
+"3000",,"E","10","ST","1","1","1970","Residential","Demolition","Single Family","1","1059","2775393","1068644","18500","3000 E 10 ST
+,  "
+"216",,"E","34","TE","2","1","1973","Residential","Demolition","Single Family","1","1345","2765057","1055373","80851","216 E 34 TE
+,  "
+"4116",,"E","43","ST","12","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2778347","1049050","55825","4116 E 43 ST
+,  "
+"2732",,"NE","42","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","25540","2775132","1093527","46822","2732 NE 42 ST
+,  "
+"2915",,"E","58","ST","5","10","1973","Residential","Additions, Alterations, Repairs","NA","0","2800","2774027","1039239","85534","2915 E 58 ST
+,  "
+"2602",,"NE","42","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","360","2774871","1093391","46816","2602 NE 42 ST
+,  "
+"2615",,"E","54","ST","3","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1920","2773090","1041930","20787","2615 E 54 ST
+,  "
+"7020",,"E","13","ST","4","1","1971","Non-Residential","New Construction","NA","0","4000","2788793","1066679","40253","7020 E 13 ST
+,  "
+"1347",,"E","47","ST","3","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1475","2769163","1046828","20629","1347 E 47 ST
+,  "
+"1662",,"E","22","ST","4","1","1970","Residential","New Construction","Multifamily","8","52000","2771008","1063333","23057","1662 E 22 ST
+,  "
+"23",,"W","58","TE","5","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","182","2763349","1039418","65393","23 W 58 TE
+,  "
+"5805",,"E","17","ST","5","7","1973","Non-Residential","New Construction","NA","0","57000","2784555","1064497","85290","5805 E 17 ST
+,  "
+"5812",,"E","20","ST","2","1","1970","Residential","New Construction","Multifamily","10","79200","2784485","1063233","19029","5812 E 20 ST
+,  "
+"1904",,"E","34","ST","5","4","1973","Residential","Demolition","Multifamily","3","1375","2771295","1055345","85143","1904 E 34 ST
+,  "
+"5217",,"E","39","ST","3","1","1970","Residential","Additions, Alterations, Repairs","NA","0","3000","2782211","1051520","20702","5217 E 39 ST
+,  "
+"5905",,"NE","45","TE","6","1","1972","Residential","New Construction","Single Family","1","12000","2785720","1095718","66882","5905 NE 45 TE
+,  "
+"7409",,"E","55","ST","5","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","700","2789156","1040546","23530","7409 E 55 ST
+,  "
+"3208",,"E","26","ST","2","1","1971","Residential","Demolition","Single Family","1","675","2775829","1060366","36338","3208 E 26 ST
+,  "
+"8649",,"E","57","ST","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","5000","2793306","1038929","29987","8649 E 57 ST
+,  "
+"1910",,"E","36","ST","11","1","1972","Residential","Demolition","Single Family","1","567","2771273","1054069","76621","1910 E 36 ST
+,  "
+"3",,"E","56","TE","8","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2763816","1040692","28453","3 E 56 TE
+,  "
+"15308",,"E","49","ST","11","1","1970","Residential","New Construction","Single Family","1","10000","2817029","1043190","32921","15308 E 49 ST
+,  "
+"12112",,"E","56","ST","7","1","1970","Residential","New Construction","Single Family","1","12000","2806297","1039158","27716","12112 E 56 ST
+,  "
+"2610",,"NE","39","TE","1","1","1973","Residential","New Construction","Single Family","1","14000","2775149","1092059","79049","2610 NE 39 TE
+,  "
+"8201",,"NE","51","ST","7","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","300","2794162","1099814","27175","8201 NE 51 ST
+,  "
+"6923",,"NE","49","ST","3","1","1972","Residential","Additions, Alterations, Repairs","NA","0","3980","2788971","1098027","61358","6923 NE 49 ST
+,  "
+"1310",,"W","39","ST","6","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","15000","2759741","1052549","25640","1310 W 39 ST
+,  "
+"2621",,"E","11","ST","6","1","1972","Residential","New Construction","Multifamily","4","70000","2774215","1068260","68350","2621 E 11 ST
+,  "
+"3106",,"E","19","ST","3","1","1970","Residential","Demolition","Single Family","1","200","2775809","1064384","20071","3106 E 19 ST
+,  "
+"1515",,"E","29","ST","7","1","1971","Residential","Demolition","Multifamily","4","1384","2770201","1058532","47500","1515 E 29 ST
+,  "
+"5808",,"NE","45","TE","8","1","1971","Residential","New Construction","Single Family","1","12000","2785433","1095833","49741","5808 NE 45 TE
+,  "
+"4201",,"NE","50","ST","7","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","3000","2780107","1099152","46802","4201 NE 50 ST
+,  "
+"3400",,"E","31","ST","10","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2776333","1057042","30963","3400 E 31 ST
+,  "
+"815",,"W","54","ST","4","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","2600","2760910","1042515","22601","815 W 54 ST
+,  "
+"1628",,"W","50","ST","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","3000","2758253","1045356","22414","1628 W 50 ST
+,  "
+"3007",,"E","9","ST","2","1","1971","Residential","Demolition","Multifamily","4","568","2775430","1068883","37146","3007 E 9 ST
+,  "
+"2614",,"E","18","ST","12","1","1972","Non-Residential","Demolition","NA","0","275","2774059","1064780","77326","2614 E 18 ST
+,  "
+"1809",,"E","42","ST","4","1","1970","Residential","Demolition","Single Family","1","400","2770803","1049960","21914","1809 E 42 ST
+,  "
+"3719",,"NE","42","TE","6","1","1971","Residential","New Construction","Multifamily","2","20000","2778461","1093789","45524","3719 NE 42 TE
+,  "
+"5405",,"E","35","ST","11","1","1970","Residential","Demolition","Single Family","1","275","2782863","1054046","33567","5405 E 35 ST
+,  "
+"1607",,"E","33","ST","8","1","1970","Residential","Demolition","Multifamily","3","500","2770452","1055871","27967","1607 E 33 ST
+,  "
+"1916",,"E","35","ST","1","1","1971","Residential","Demolition","Single Family","1","500","2771367","1054616","35367","1916 E 35 ST
+,  "
+"2814",,"E","55","ST","1","1","1970","Residential","New Construction","Single Family","1","12000","2773906","1041356","18107","2814 E 55 ST
+,  "
+"2312",,"E","39","ST","4","1","1970","Residential","Demolition","Multifamily","2","400","2772571","1051940","21869","2312 E 39 ST
+,  "
+"458",,"W","51","ST","6","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","4000","2761675","1044547","67194","458 W 51 ST
+,  "
+"5825",,"E","21","ST","4","1","1970","Residential","New Construction","Multifamily","4","31180","2784484","1062747","22394","5825 E 21 ST
+,  "
+"2400",,"E","30","ST","6","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","2000","2773130","1057849","45362","2400 E 30 ST
+,  "
+"1717",,"E","12","ST","10","1","1970","Non-Residential","Demolition","NA","0","600","2771239","1067722","31514","1717 E 12 ST
+,  "
+"5812",,"NE","45","ST","4","1","1972","Residential","New Construction","Single Family","1","12000","2785530","1095557","63119","5812 NE 45 ST
+,  "
+"15",,"E","5","ST","3","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","900","2765493","1071084","61884","15 E 5 ST
+,  "
+"5216",,"NE","46","TE","8","1","1971","Residential","Additions, Alterations, Repairs","NA","0","400","2783567","1096270","49516","5216 NE 46 TE
+,  "
+"223",,"NW","43","ST","2","1","1971","Residential","New Construction","Single Family","1","35000","2764493","1094054","37641","223 NW 43 ST
+,  "
+"406",,"W","34","ST","6","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","5000","2762860","1056008","44707","406 W 34 ST
+,  "
+"2011",,"E","10","ST","9","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","7000","2772448","1068389","30044","2011 E 10 ST
+,  "
+"15312",,"E","48","ST","11","1","1970","Residential","New Construction","Single Family","1","10000","2817153","1043795","32936","15312 E 48 ST
+,  "
+"5904",,"NE","45","TE","10","1","1971","Residential","New Construction","Single Family","1","12000","2785698","1095831","52383","5904 NE 45 TE
+,  "
+"2406",,"E","31","ST","7","1","1970","Residential","Demolition","Single Family","1","200","2773080","1057184","27515","2406 E 31 ST
+,  "
+"1606",,"E","12","ST","8","1","1971","Non-Residential","Demolition","NA","0","450","2770890","1067851","48676","1606 E 12 ST
+,  "
+"7525",,"E","52","ST","5","1","1972","Residential","Additions, Alterations, Repairs","NA","0","1000","2789548","1042382","65266","7525 E 52 ST
+,  "
+"2644",,"E","7","ST","9","1","1970","Residential","Demolition","Single Family","1","491","2774746","1069757","30578","2644 E 7 ST
+,  "
+"1905",,"E","36","ST","1","1","1973","Residential","Demolition","Single Family","1","476","2771230","1053860","79859","1905 E 36 ST
+,  "
+"15216",,"E","48","TE","2","1","1971","Residential","New Construction","Single Family","1","11000","2816871","1043509","37875","15216 E 48 TE
+,  "
+"306",,"E","12","ST","3","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","12000","2766228","1068124","39239","306 E 12 ST
+,  "
+"8400",,"E","9","ST","1","1","1973","Residential","Demolition","Single Family","1","1000","2793140","1068193","80195","8400 E 9 ST
+,  "
+"801",,"E","18","ST","6","1","1971","Non-Residential","Demolition","NA","0","600","2767656","1064930","44532","801 E 18 ST
+,  "
+"408",,"E","9","ST","1","1","1973","Non-Residential","Demolition","NA","0","1800","2764418","1018883","80199","408 E 9 ST
+,  "
+"1009",,"E","26","ST","7","1","1971","Residential","Demolition","Multifamily","4","2495","2768264","1060563","47782","1009 E 26 ST
+,  "
+"2213",,"E","18","ST","6","1","1973","Non-Residential","Demolition","NA","0","279","2772738","1064740","86771","2213 E 18 ST
+,  "
+"15200",,"E","49","ST","11","1","1970","Residential","New Construction","Single Family","1","10000","2816612","1043220","32928","15200 E 49 ST
+,  "
+"8901",,"E","23","ST","4","1","1971","Residential","Additions, Alterations, Repairs","NA","0","3700","2795801","1061081","41380","8901 E 23 ST
+,  "
+"2422",,"E","12","ST","4","1","1970","Non-Residential","Demolition","NA","0","950","2773545","1067735","22038","2422 E 12 ST
+,  "
+"3814",,"E","35","ST","12","1","1971","Residential","Additions, Alterations, Repairs","NA","0","632","2777791","1054348","55200","3814 E 35 ST
+,  "
+"11812",,"E","58","ST","5","1","1970","Residential","New Construction","Single Family","1","8000","2805074","1037980","23929","11812 E 58 ST
+,  "
+"2308",,"E","13","ST","5","1","1972","Residential","New Construction","Single Family","1","11000","2773230","1067272","64487","2308 E 13 ST
+,  "
+"601",,"E","31","ST","6","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","452","2766702","1057373","44118","601 E 31 ST
+,  "
+"208",,"E","26","ST","3","1","1973","Residential","Demolition","Multifamily","3","2500","2765481","1060640","83177","208 E 26 ST
+,  "
+"3401",,"E","43","ST","8","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","1500","2776005","1049048","71146","3401 E 43 ST
+,  "
+"5027",,"E","8","ST","3","1","1971","Residential","Additions, Alterations, Repairs","NA","0","1000","2782413","1068938","39233","5027 E 8 ST
+,  "
+"5437",,"E","11","ST","2","1","1970","Residential","Additions, Alterations, Repairs","NA","0","2000","2783764","1067636","19191","5437 E 11 ST
+,  "
+"5301",,"NE","46","ST","11","1","1970","Residential","New Construction","Single Family","1","10900","2783668","1096151","33587","5301 NE 46 ST
+,  "
+"416",,"W","12","ST","2","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","15200","2763541","1068235","59138","416 W 12 ST
+,  "
+"127",,"W","10","ST","2","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","1000","2764552","1068859","19200","127 W 10 ST
+,  "
+"5801",,"NE","45","ST","4","1","1972","Residential","New Construction","Single Family","1","12000","2785331","1095433","63115","5801 NE 45 ST
+,  "
+"5116",,"NE","48","ST","6","1","1972","Non-Residential","Additions, Alterations, Repairs","NA","0","300","2783192","1097533","67611","5116 NE 48 ST
+,  "
+"600",,"W","26","ST","3","1","1971","Non-Residential","Demolition","NA","0","700","2762659","1060975","39465","600 W 26 ST
+,  "
+"2009",,"E","42","ST","4","1","1970","Residential","Additions, Alterations, Repairs","NA","0","100","2771570","1049925","22953","2009 E 42 ST
+,  "
+"3508",,"E","36","ST","7","1","1972","Residential","Additions, Alterations, Repairs","NA","0","400","2776669","1053774","69336","3508 E 36 ST
+,  "
+"4954",,"E","31","ST","4","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","4000","2781421","1056834","21681","4954 E 31 ST
+,  "
+"2019",,"NE","34","PL","7","1","1970","Non-Residential","New Construction","NA","0","4100","2772764","1088949","27567","2019 NE 34 PL
+,  "
+"7700",,"NE","55","ST","11","1","1971","Residential","Additions, Alterations, Repairs","NA","0","2900","2791199","1102400","54875","7700 NE 55 ST
+,  "
+"2000",,"E","13","ST","4","1","1970","Residential","Demolition","Single Family","1","197","2772149","1067309","23035","2000 E 13 ST
+,  "
+"2748",,"NE","42","ST","7","1","1971","Residential","Additions, Alterations, Repairs","NA","0","320","2775171","1093526","46819","2748 NE 42 ST
+,  "
+"407",,"W","8","ST","1","1","1973","Non-Residential","Additions, Alterations, Repairs","NA","0","1100","2763509","1069768","79988","407 W 8 ST
+,  "
+"222",,"E","55","ST","9","1","1970","Residential","Additions, Alterations, Repairs","NA","0","691","2764924","1041423","29882","222 E 55 ST
+,  "
+"3020",,"E","54","ST","2","1","1970","Residential","Additions, Alterations, Repairs","NA","0","4000","2774668","1041961","19731","3020 E 54 ST
+,  "
+"3009",,"E","10","ST","4","1","1970","Residential","Demolition","Single Family","1","625","2775412","1068543","22877","3009 E 10 ST
+,  "
+"15200",,"E","48","ST","7","1","1970","Residential","New Construction","Single Family","1","12000","2816642","1043809","27664","15200 E 48 ST
+,  "
+"5300",,"E","59","ST","3","1","1971","Non-Residential","Additions, Alterations, Repairs","NA","0","14000","2781734","1038344","39815","5300 E 59 ST
+,  "
+"106",,"W","11","ST","12","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","50000","2764726","1068485","34725","106 W 11 ST
+,  "
+"5103",,"E","40","ST","10","1","1970","Residential","Additions, Alterations, Repairs","NA","0","398","2781803","1050894","31816","5103 E 40 ST
+,  "
+"2629",,"E","28","ST","2","1","1973","Residential","Demolition","Multifamily","2","1120","2773890","1058880","81615","2629 E 28 ST
+,  "
+"1401",,"E","8","ST","10","1","1972","Non-Residential","New Construction","NA","0","1500","2770263","1069454","74660","1401 E 8 ST
+,  "
+"4504",,"E","16","ST","2","1","1970","Non-Residential","Additions, Alterations, Repairs","NA","0","995","2780309","1065424","19502","4504 E 16 ST
+,  "
+"4310",,"E","22","ST","8","1","1970","Residential","Demolition","Single Family","1","300","2779623","1062843","29248","4310 E 22 ST
+,  "
+"3001",,"NE","37","ST","12","1","1971","Residential","New Construction","Multifamily","16","275000","2775846","1090337","56241","3001 NE 37 ST
+,  "
+"2415",,"E","49","ST","7","1","1971","Residential","Demolition","Single Family","1","375","2772677","1045175","45972","2415 E 49 ST
+,  "

@@ -1,0 +1,428 @@
+"board_code","school_board","school_code","school_name","mail_address_line_1","mail_address_line_2","mail_postal_code","civic_address_line_1","civic_address_line_2","civic_postal_code","telephone","fax","email","grade_level","early_immersion","middle_immersion","late_immersion","intensive_french","integrated_french","location"
+"52","STRAIT REGIONAL               ","931","RICHMOND EDUCATION CENTRE/ ACADEMY                          ","PO BOX 599                    ","LOUISDALE NS                  ","B0E 1V0","3238 WHITESIDE RD             ","LOUISDALE NS          ","B0E 1V0","9023454949  ","9023454948  ","LOIS.LANDRY@SRSB.CA                               ","ELEMENTARY/JUNIOR/SENIOR      ","Early Immersion",,,,,"3238 WHITESIDE RD
+LOUISDALE NS, NS B0E 1V0
+(45.606406, -61.095836)"
+"54","HALIFAX REGIONAL              ","939","MADELINE SYMONDS MIDDLE SCHOOL                              ","                              ","                              ","       ","290 WHITE HILLS RUN           ","HAMMONDS PLAINS NS    ","B4B 1W6","9028322300  ","9028322302  ","MSMS@HRSB.CA                                   ","ELEMENTARY/JUNIOR             ","Early Immersion",,"Late Immersion",,,"290 WHITE HILLS RUN
+HAMMONDS PLAINS NS, NS B4B 1W6
+(44.748521, -63.804156)"
+"54","HALIFAX REGIONAL              ","303","SACKVILLE HEIGHTS JUNIOR HIGH SCHOOL                        ","                              ","                              ","       ","956 SACKVILLE DR              ","LOWER SACKVILLE NS    ","B4E 1S4","9028693800  ","9028693801  ","SHJH@HRSB.CA                                   ","ELEMENTARY/JUNIOR             ",,,"Late Immersion",,,"956 SACKVILLE DR
+LOWER SACKVILLE NS, NS B4E 1S4
+(44.780204, -63.699285)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","1158","KINGS COUNTY ACADEMY                                        ","                              ","                              ","       ","35 GARY PEARL DR              ","KENTVILLE NS          ","B4N 0H4","9026903850  ","9026903864  ","KCA@AVRSB.CA                                      ","ELEMENTARY/JUNIOR             ","Early Immersion",,,,,"35 GARY PEARL DR
+KENTVILLE NS, NS B4N 0H4
+(45.077246, -64.519657)"
+"58","SOUTH SHORE REGIONAL          ","1156","BLUENOSE ACADEMY                                            ","PO BOX 1210                   ","LUNENBURG NS                  ","B0J 2C0","18 TANNERY RD                 ","LUNENBURG NS          ","B0J 2C0","9026342200  ","9026342210  ","BA@SSRSB.CA                                       ","ELEMENTARY/JUNIOR             ","Early Immersion",,,"Intensive French","Integrated French","18 TANNERY RD
+LUNENBURG NS, NS B0J 2C0
+(44.375618, -64.319379)"
+"52","STRAIT REGIONAL               ","655","STRAIT AREA EDUCATION/ RECREATION CENTRE                    ",,"                              ","       ","304 PITT ST UNIT 1            ","PORT HAWKESBURY NS    ","B9A 2T9","9026251929  ","9026251868  ","ROB.ALLEN@SRSB.CA","JUNIOR/SENIOR                 ","Early Immersion",,,,,"304 PITT ST UNIT 1
+PORT HAWKESBURY NS, NS B9A 2T9
+(45.617771, -61.354965)"
+"59","TRI-COUNTY REGIONAL           ","498","PORT MAITLAND CONSOLIDATED SCHOOL                           ","PO BOX 70                     ","PORT MAITLAND NS              ","B5A 5T3","3072 HWY 1                    ","PORT MAITLAND NS      ","B0W 2V0","9026494400  ","9026494404  ","PMCES@TCRSB.CA                                    ","ELEMENTARY                    ",,,,"Intensive French",,"3072 HWY 1
+PORT MAITLAND NS, NS B0W 2V0
+(44.38161, -66.067283)"
+"54","HALIFAX REGIONAL              ","293","HERRING COVE JUNIOR HIGH SCHOOL                             ","                              ","                              ","       ","7 LANCASTER DR                ","HERRING COVE NS       ","B3V 1H9","9024794214  ","9024793379  ","HCJH@HRSB.CA                                   ","JUNIOR HIGH                   ",,,"Late Immersion",,,"7 LANCASTER DR
+HERRING COVE NS, NS B3V 1H9
+(44.568091, -63.562698)"
+"54","HALIFAX REGIONAL              ","577","ST. CATHERINE'S ELEMENTARY SCHOOL                           ","                              ","                              ","       ","3299 CONNOLLY ST              ","HALIFAX NS            ","B3L 3P7","9024935143  ","9024935163  ","STCATH@HRSB.CA                                 ","ELEMENTARY                    ","Early Immersion",,,,,"3299 CONNOLLY ST
+HALIFAX NS, NS B3L 3P7
+(44.655794, -63.614515)"
+"58","SOUTH SHORE REGIONAL          ","216","CHESTER AREA MIDDLE SCHOOL                                  ","PO BOX 440                    ","CHESTER NS                    ","B0J 1J0","204 DUKE ST                   ","CHESTER NS            ","B0J 1J0","9022752720  ","9022752730  ","CAMS@SSRSB.CA                                     ","ELEMENTARY/JUNIOR             ",,,,"Intensive French","Integrated French","204 DUKE ST
+CHESTER NS, NS B0J 1J0
+(44.545711, -64.237448)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","40","UNIACKE DISTRICT SCHOOL                                     ","                              ","                              ","       ","551 HWY 1                     ","MOUNT UNIACKE NS      ","B0N 1Z0","9028665100  ","9028665105  ","WHELANSM@CCRSB.CA                     ","ELEMENTARY/JUNIOR             ",,,,"Intensive French",,"551 HWY 1
+MOUNT UNIACKE NS, NS B0N 1Z0
+(44.887241, -63.823825)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","107","CABOT EDUCATION CENTRE                                      ",,"                              ","       ","32039 CABOT TRAIL             ","NEIL'S HARBOUR NS     ","B0C 1N0","9023362266  ","9023362525  ","SIMMSDJ@GNSPES.CA                                 ","ELEMENTARY/JUNIOR/SENIOR      ",,,,,,"32039 CABOT TRAIL
+NEIL'S HARBOUR NS, NS B0C 1N0
+(46.824105, -60.360426)"
+"54","HALIFAX REGIONAL              ","322","BELL PARK ACADEMIC CENTRE                                   ","                              ","                              ","       ","4 THOMAS ST                   ","LAKE ECHO NS          ","B3E 1M6","9028292388  ","9028292402  ","BPAC@HRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"4 THOMAS ST
+LAKE ECHO NS, NS B3E 1M6
+(44.732169, -63.403739)"
+"54","HALIFAX REGIONAL              ","284","TANTALLON SENIOR ELEMENTARY SCHOOL                          ","                              ","                              ","       ","3 FRENCH VILLAGE STN RD       ","UPPER TANTALLON NS    ","B3Z 1E4","9028261200  ","9028261206  ","TANTALLON@HRSB.CA                                 ","ELEMENTARY                    ","Early Immersion",,,,,"3 FRENCH VILLAGE STN RD
+UPPER TANTALLON NS, NS B3Z 1E4
+(44.690896, -63.875845)"
+"54","HALIFAX REGIONAL              ","968","LOCKVIEW HIGH SCHOOL                                        ","                              ","                              ","       ","148 LOCKVIEW RD               ","FALL RIVER NS         ","B2T 1J1","9028606000  ","9028606005  ","LHS@HRSB.CA                                    ","JUNIOR/SENIOR                 ","Early Immersion",,"Late Immersion",,,"148 LOCKVIEW RD
+FALL RIVER NS, NS B2T 1J1
+(44.822552, -63.616245)"
+"54","HALIFAX REGIONAL              ","614","ELIZABETH SUTHERLAND SCHOOL                                 ","                              ","                              ","       ","66 ROCKINGSTONE RD            ","HALIFAX NS            ","B3R 2C9","9024794427  ","9024794430  ","ESS@HRSB.CA                                    ","ELEMENTARY/JUNIOR             ","Early Immersion",,,,,"66 ROCKINGSTONE RD
+HALIFAX NS, NS B3R 2C9
+(44.603923, -63.618601)"
+"59","TRI-COUNTY REGIONAL           ","704","YARMOUTH CENTRAL SCHOOL                                     ","                              ","                              ","       ","53 PARADE ST                  ","YARMOUTH NS           ","B5A 3B1","9027492860  ","9027492866  ","YCES@TCRSB.CA                                     ","ELEMENTARY                    ","Early Immersion",,,,,"53 PARADE ST
+YARMOUTH NS, NS B5A 3B1
+(43.837071, -66.113642)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","7","BIBLE HILL JUNIOR HIGH SCHOOL                               ",,"                              ","       ","741 COLLEGE RD                ","TRURO NS              ","B2N 5Y9","9028965500  ","9028965504  ","HAZELTOND@CCRSB.CA                                ","JUNIOR HIGH                   ",,,"Late Immersion",,"Integrated French","741 COLLEGE RD
+TRURO NS, NS B2N 5Y9
+(45.377949, -63.233258)"
+"52","STRAIT REGIONAL               ","974","CAPE BRETON HIGHLANDS EDUCATION CENTRE/ACADEMY              ","PO BOX 3                      ","TERRE NOIRE NS                ","B0E 2B0","11070 CABOT TRAIL             ","MARGAREE HARBOUR NS   ","B0E 1C0","9022357500  ","9022357504  ","PETER.GOOSENS@SRSB.CA                             ","ELEMENTARY/JUNIOR/SENIOR      ","Early Immersion",,,,,"11070 CABOT TRAIL
+MARGAREE HARBOUR NS, NS B0E 1C0
+(46.461887, -61.08991)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","432","EAST PICTOU MIDDLE SCHOOL                                   ","                              ","                              ","       ","163 SCHOOL RD RR1             ","THORBURN NS           ","B0K 1W0","9029223800  ","9029223808  ","DOYLENM@CCRSB.CA                                  ","JUNIOR HIGH                   ",,"Middle Immersion",,,,"163 SCHOOL RD RR1
+THORBURN NS, NS B0K 1W0
+(45.592034, -62.505678)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","101","BRAS D'OR ELEMENTARY SCHOOL                                 ","536 OAK PARK RD               ","                              ","       ","10 ALDER PT RD                ","BRAS D'OR NS          ","B1Y 2K1","9027364000  ","9027361091  ","KUBLEKS@GNSPES.CA                                 ","ELEMENTARY                    ",,,,,,"10 ALDER PT RD
+BRAS D'OR NS, NS B1Y 2K1
+(46.251634, -60.289052)"
+"54","HALIFAX REGIONAL              ","299","SUNNYSIDE ELEMENTARY SCHOOL  (MAIN BLDG) /FORT SACKVILLE (OTHER SITE)                              ","                              ","                              ","       ","210 EAGLEWOOD DR (2-6)/ 21 PERTH STREET (P-1)           ","BEDFORD NS            ","B4A 3E3","9028328983  ","9028328422  ","SUNNYSIDE@HRSB.CA                              ","ELEMENTARY                    ","Early Immersion",,,,,"210 EAGLEWOOD DR (2-6)/ 21 PERTH STREET (P-1)
+BEDFORD NS, NS B4A 3E3"
+"55","ANNAPOLIS VALLEY REGIONAL     ","994","WEST HANTS MIDDLE SCHOOL                                    ",,"                              ","       ","8009 HWY 14                   ","NEWPORT NS            ","B0N 2A0","9027574100  ","9027574111  ","WHMS@AVRSB.CA                                     ","ELEMENTARY/JUNIOR/SENIOR      ",,,"Late Immersion",,"Integrated French","8009 HWY 14
+NEWPORT NS, NS B0N 2A0
+(45.013706, -64.008873)"
+"59","TRI-COUNTY REGIONAL           ","167","BARRINGTON MUNICIPAL HIGH SCHOOL                            ","PO BOX 40                     ","BARRINGTON                    ","       ","536 OAK PARK RD               ","BARRINGTON NS         ","B0W 1E0","9026374310  ","9026374320  ","BMHS@TCRSB.CA                                     ","JUNIOR/SENIOR                 ",,,"Late Immersion",,,"536 OAK PARK RD
+BARRINGTON NS, NS B0W 1E0
+(43.578679, -65.615808)"
+"54","HALIFAX REGIONAL              ","1183","CHARLES P. ALLEN HIGH SCHOOL                                ","                              ","                              ","       ","200 INNOVATION DR             ","BEDFORD NS            ","B4B 0G4","9028328964  ","9028328981  ","CPAH@HRSB.CA                                   ","SENIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"200 INNOVATION DR
+BEDFORD NS, NS B4B 0G4
+(44.722058, -63.699033)"
+"54","HALIFAX REGIONAL              ","745","MILLWOOD HIGH SCHOOL                                        ","                              ","                              ","       ","141 MILLWOOD DR               ","MIDDLE SACKVILLE NS   ","B4E 0A1","9028647535  ","9028647567  ","MWHS@HRSB.CA                                   ","JUNIOR/SENIOR                 ",,,"Late Immersion",,,"141 MILLWOOD DR
+MIDDLE SACKVILLE NS, NS B4E 0A1
+(44.791095, -63.708923)"
+"59","TRI-COUNTY REGIONAL           ","928","MEADOWFIELDS COMMUNITY SCHOOL                               ","                              ","                              ","       ","106 PROSPECT ST               ","YARMOUTH NS           ","B5A 4J2","9027492880  ","9027492888  ","MCS@TCRSB.CA                                      ","ELEMENTARY                    ","Early Immersion",,,,,"106 PROSPECT ST
+YARMOUTH NS, NS B5A 4J2
+(43.857109, -66.103042)"
+"54","HALIFAX REGIONAL              ","749","ASTRAL DRIVE JUNIOR HIGH SCHOOL                             ","                              ","                              ","       ","238 ASTRAL DR                 ","DARTMOUTH NS          ","B2V 1B8","9024628700  ","9024626047  ","ADJH@HRSB.CA                                   ","JUNIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"238 ASTRAL DR
+DARTMOUTH NS, NS B2V 1B8
+(44.653121, -63.478874)"
+"54","HALIFAX REGIONAL              ","596","CHEBUCTO HEIGHTS ELEMENTARY SCHOOL                          ","                              ","                              ","       ","230 COWIE HILL RD             ","HALIFAX NS            ","B3P 2M3","9024794298  ","9024794408  ","CHES@HRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"230 COWIE HILL RD
+HALIFAX NS, NS B3P 2M3
+(44.629917, -63.623639)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","639","A.G. BAILLIE MEMORIAL SCHOOL                                ",,"                              ","       ","477 VICTORIA AVE EXT          ","NEW GLASGOW NS        ","B2H 1X1","9027558240  ","9027558255  ","BOUDREAUND@CCRSB.CA                               ","ELEMENTARY                    ","Early Immersion","Middle Immersion",,,,"477 VICTORIA AVE EXT
+NEW GLASGOW NS, NS B2H 1X1
+(45.595085, -62.657203)"
+"59","TRI-COUNTY REGIONAL           ","1178","YARMOUTH CONSOLIDATED MEMORIAL HIGH SCHOOL                  ","                              ","                              ","       ","146 FOREST ST                 ","YARMOUTH NS           ","B5A 0B3","9027492810  ","9027492811  ","YCMHS@TCRSB.CA                                    ","JUNIOR/SENIOR                 ","Early Immersion",,"Late Immersion",,,"146 FOREST ST
+YARMOUTH NS, NS B5A 0B3
+(43.832303, -66.102774)"
+"54","HALIFAX REGIONAL              ","1109","CITADEL HIGH SCHOOL                                         ","                              ","                              ","       ","1855 TROLLOPE ST              ","HALIFAX NS            ","B3H 0A4","9024914444  ","9024911700  ","CHS@HRSB.CA                                    ","SENIOR HIGH                   ","Early Immersion",,,,,"1855 TROLLOPE ST
+HALIFAX NS, NS B3H 0A4
+(44.64761, -63.585665)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","1146","TRURO ELEMENTARY SCHOOL                                     ","                              ","                              ","       ","125 CURTIS DR                 ","TRURO NS              ","B2N 0C5","9028965755  ","9028965786  ","LYNDSJN@CCRSB.CA                                  ","ELEMENTARY                    ","Early Immersion",,,,,"125 CURTIS DR
+TRURO NS, NS B2N 0C5
+(45.347039, -63.28404)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","73","NEW MINAS ELEMENTARY SCHOOL                                 ","                              ","                              ","       ","34 JONES RD                   ","NEW MINAS NS          ","B4N 3N1","9026814900  ","9026814904  ","NMES@AVRSB.CA                                     ","ELEMENTARY                    ","Early Immersion",,,,,"34 JONES RD
+NEW MINAS NS, NS B4N 3N1
+(45.068648, -64.449968)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","658","SPRINGHILL JUNIOR-SENIOR HIGH SCHOOL                        ","PO BOX 1060                   ","SPRINGHILL NS                 ","B0M 1X0","84 CHURCH ST                  ","SPRINGHILL NS         ","B0M 1X0","9025974250  ","9025974251  ","CONRONB@CCRSB.CA                                  ","JUNIOR/SENIOR                 ",,,,,"Integrated French","84 CHURCH ST
+SPRINGHILL NS, NS B0M 1X0
+(45.64527, -64.057157)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","667","WHITNEY PIER MEMORIAL MIDDLE SCHOOL                         ","                              ","                              ","       ","199 JAMIESON ST               ","WHITNEY PIER NS       ","B1N 2P7","9025626130  ","9025626720  ","DMACDONALD1@GNSPES.CA                             ","ELEMENTARY/JUNIOR             ",,,"Late Immersion","Intensive French",,"199 JAMIESON ST
+WHITNEY PIER NS, NS B1N 2P7
+(46.160115, -60.181582)"
+"59","TRI-COUNTY REGIONAL           ","199","PLYMOUTH SCHOOL                                             ","RR 1                          ","PLYMOUTH NS                   ","B0W 1B0","849 HWY 334                   ","ARCADIA NS            ","B0W 1B0","9026632000  ","9026632005  ","PS@TCRSB.CA                                       ","ELEMENTARY                    ","Early Immersion",,,,,"849 HWY 334
+ARCADIA NS, NS B0W 1B0
+(43.812867, -66.017882)"
+"54","HALIFAX REGIONAL              ","619","J. L. ILSLEY HIGH SCHOOL                                    ","                              ","                              ","       ","38 SYLVIA AVE                 ","HALIFAX NS            ","B3R 1J9","9024794612  ","9024794635  ","JLI@HRSB.CA                                    ","SENIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"38 SYLVIA AVE
+HALIFAX NS, NS B3R 1J9
+(44.605788, -63.608559)"
+"54","HALIFAX REGIONAL              ","85","TALLAHASSEE COMMUNITY SCHOOL                                ",,"                              ","       ","168 REDOUBT WAY               ","EASTERN PASSAGE NS    ","B3G 1M5","9024658650  ","9024658010  ","TCS@HRSB.CA                                    ","ELEMENTARY                    ","Early Immersion",,,,,"168 REDOUBT WAY
+EASTERN PASSAGE NS, NS B3G 1M5
+(44.608116, -63.478916)"
+"54","HALIFAX REGIONAL              ","317","ASH LEE JEFFERSON ELEMENTARY SCHOOL                         ","                              ","                              ","       ","10 LOCKVIEW RD                ","FALL RIVER NS         ","B2T 1J1","9028604163  ","9028604191  ","ALJS@HRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"10 LOCKVIEW RD
+FALL RIVER NS, NS B2T 1J1
+(44.8176, -63.615876)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","202","MALCOLM MUNROE MEMORIAL MIDDLE SCHOOL                       ",,"                              ","       ","125 KENWOOD DR                ","SYDNEY NS             ","B1S 1T8","9025644587  ","9025641666  ","SMCAMPBELL@GNSPES.CA                              ","ELEMENTARY/JUNIOR             ",,,"Late Immersion","Intensive French",,"125 KENWOOD DR
+SYDNEY NS, NS B1S 1T8
+(46.107504, -60.210418)"
+"52","STRAIT REGIONAL               ","152","ST. ANDREW JUNIOR SCHOOL                                    ","                              ","                              ","       ","2 APPLESEED DR                ","ANTIGONISH NS         ","B2G 3B6","9028633046  ","9028632273  ","GLENN.AUSTEN@SRSB.CA                              ","ELEMENTARY/JUNIOR             ","Early Immersion",,,"Intensive French",,"2 APPLESEED DR
+ANTIGONISH NS, NS B2G 3B6
+(45.617377, -62.009365)"
+"54","HALIFAX REGIONAL              ","1187","ROCKY LAKE JUNIOR HIGH SCHOOL                               ","                              ","                              ","       ","670 ROCKY LAKE DR             ","BEDFORD NS            ","B4A 2T6","9028328952  ","9028328962  ","RLJH@HRSB.CA                                   ","JUNIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"670 ROCKY LAKE DR
+BEDFORD NS, NS B4A 2T6
+(44.74461, -63.637051)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","988","NORTH NOVA EDUCATION CENTRE                                 ","                              ","                              ","       ","343 PARK ST                   ","NEW GLASGOW NS        ","B2H 6B2","9027558180  ","9027558185  ","FINDLAYAL@CCRSB.CA                                ","JUNIOR/SENIOR                 ",,"Middle Immersion",,,,"343 PARK ST
+NEW GLASGOW NS, NS B2H 6B2
+(45.567511, -62.633439)"
+"54","HALIFAX REGIONAL              ","318","GRAHAM CREIGHTON JUNIOR HIGH SCHOOL                         ","                              ","                              ","       ","72 CHERRY BROOK RD            ","CHERRY BROOK NS       ","B2Z 1A8","9024645164  ","9024645173  ","GCJH@HRSB.CA                                   ","JUNIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"72 CHERRY BROOK RD
+CHERRY BROOK NS, NS B2Z 1A8
+(44.705358, -63.473031)"
+"52","STRAIT REGIONAL               ","707","DR. JOHN HUGH GILLIS REGIONAL HIGH SCHOOL                   ","                              ","                              ","       ","105 BRAEMORE AVE              ","ANTIGONISH NS         ","B2G 1L3","9028631620  ","9028638284  ","WANDA.FOUGERE@SRSB.CA                             ","JUNIOR/SENIOR                 ","Early Immersion",,,,,"105 BRAEMORE AVE
+ANTIGONISH NS, NS B2G 1L3
+(45.624067, -62.004327)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","995","BROOKLAND ELEMENTARY SCHOOL                                 ","                              ","                              ","       ","153 COTTAGE RD                ","SYDNEY NS             ","B1P 2E5","9025620768  ","9025634560  ","JLIVELY@GNSPES.CA                                 ","ELEMENTARY                    ",,,,,,"153 COTTAGE RD
+SYDNEY NS, NS B1P 2E5
+(46.129966, -60.181853)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","1104","CUMBERLAND NORTH ACADEMY                                    ","                              ","                              ","       ","879 HWY 204 RR 3              ","BROOKDALE NS          ","B4H 3Y1","9026612464  ","9026612438  ","WELLSK@CCRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"879 HWY 204 RR 3
+BROOKDALE NS, NS B4H 3Y1
+(45.801407, -64.157401)"
+"54","HALIFAX REGIONAL              ","297","SACKVILLE HIGH SCHOOL                                       ","                              ","                              ","       ","1 KINGFISHER WAY              ","LOWER SACKVILLE NS    ","B4C 2Y9","9028646700  ","9028646710  ","SHS@HRSB.CA                                    ","JUNIOR/SENIOR                 ","Early Immersion",,"Late Immersion",,,"1 KINGFISHER WAY
+LOWER SACKVILLE NS, NS B4C 2Y9
+(44.774066, -63.674537)"
+"54","HALIFAX REGIONAL              ","740","HAROLD T. BARRETT JUNIOR HIGH SCHOOL                        ","                              ","                              ","       ","862 BEAVER BANK RD            ","BEAVER BANK NS        ","B4G 1A9","9028647500  ","9028647502  ","HTBAR@HRSB.CA                                  ","JUNIOR HIGH                   ",,,"Late Immersion",,,"862 BEAVER BANK RD
+BEAVER BANK NS, NS B4G 1A9
+(44.82029, -63.682486)"
+"54","HALIFAX REGIONAL              ","357","COLE HARBOUR DISTRICT HIGH SCHOOL                           ","                              ","                              ","       ","2 CHAMEAU CRES                ","COLE HARBOUR NS       ","B2W 4X4","9024645220  ","9024645241  ","CHDHS@HRSB.CA                                  ","SENIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"2 CHAMEAU CRES
+COLE HARBOUR NS, NS B2W 4X4
+(44.681349, -63.490544)"
+"54","HALIFAX REGIONAL              ","290","BEECHVILLE LAKESIDE TIMBERLEA SENIOR ELEMENTARY SCHOOL      ","                              ","                              ","       ","24 JAMES ST                   ","TIMBERLEA NS          ","B3T 1G9","9028763230  ","9028767909  ","BLT@HRSB.CA                                       ","ELEMENTARY                    ","Early Immersion",,,,,"24 JAMES ST
+TIMBERLEA NS, NS B3T 1G9
+(44.658829, -63.742841)"
+"54","HALIFAX REGIONAL              ","320","SIR ROBERT BORDEN JUNIOR HIGH SCHOOL                        ","                              ","                              ","       ","16 EVERGREEN DR               ","DARTMOUTH NS          ","B2W 4A7","9024645140  ","9024645150  ","SRBJH@HRSB.CA                                  ","JUNIOR HIGH                   ",,,"Late Immersion",,,"16 EVERGREEN DR
+DARTMOUTH NS, NS B2W 4A7
+(44.674987, -63.496488)"
+"52","STRAIT REGIONAL               ","484","EAST RICHMOND EDUCATION CENTRE                              ","PO BOX 219                    ","ST. PETER'S NS                ","B0E 3B0","9359 PEPPERELL ST             ","ST. PETER'S NS        ","B0E 3B0","9025352066  ","9025353166  ","TANYA.CARTER@SRSB.CA                              ","ELEMENTARY/JUNIOR             ","Early Immersion",,,,,"9359 PEPPERELL ST
+ST. PETER'S NS, NS B0E 3B0
+(45.658212, -60.876333)"
+"54","HALIFAX REGIONAL              ","314","GEORGES P. VANIER JUNIOR HIGH SCHOOL                        ","                              ","                              ","       ","1410 FALL RIVER RD            ","FALL RIVER NS         ","B2T 1J1","9028604182  ","9028604188  ","VANIER@HRSB.CA                                 ","JUNIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"1410 FALL RIVER RD
+FALL RIVER NS, NS B2T 1J1
+(44.815751, -63.616313)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","640","BRETON EDUCATION CENTRE                                     ","                              ","                              ","       ","667 EIGHTH ST                 ","NEW WATERFORD NS      ","B1H 3T4","9028626432  ","9028627330  ","DAUCOIN@GNSPES.CA                                 ","ELEMENTARY/JUNIOR/SENIOR      ",,,,"Intensive French","Integrated French","667 EIGHTH ST
+NEW WATERFORD NS, NS B1H 3T4
+(46.24192, -60.089423)"
+"54","HALIFAX REGIONAL              ","288","FIVE BRIDGES JUNIOR HIGH SCHOOL                             ","                              ","                              ","       ","66 HUBLEY RD                  ","HUBLEY NS             ","B3Z 1B9","9028762026  ","9028767177  ","FBJH@HRSB.CA                                   ","JUNIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"66 HUBLEY RD
+HUBLEY NS, NS B3Z 1B9
+(44.676429, -63.814624)"
+"54","HALIFAX REGIONAL              ","294","WILLIAM KING ELEMENTARY SCHOOL                              ","                              ","                              ","       ","91 ST. PAUL'S AVE             ","HERRING COVE NS       ","B3V 1H6","9024794200  ","9024794208  ","WKES@HRSB.CA                                   ","ELEMENTARY                    ",,,"Intensive French",,,"91 ST. PAUL'S AVE
+HERRING COVE NS, NS B3V 1H6
+(44.569498, -63.562542)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","8","GLACE BAY HIGH SCHOOL                                       ","                              ","                              ","       ","201 RESERVE ST                ","GLACE BAY NS          ","B1A 4W3","9028494247  ","9028492700  ","TMMACPHE@GNSPES.CA                                ","JUNIOR/SENIOR                 ",,,,,"Integrated French","201 RESERVE ST
+GLACE BAY NS, NS B1A 4W3
+(46.191149, -59.979407)"
+"52","STRAIT REGIONAL               ","934","ANTIGONISH EDUCATION CENTRE                                 ","                              ","                              ","       ","30 APPLESEED DR               ","ANTIGONISH NS         ","B2G 3B6","9028678800  ","9028678804  ","APRIL.WEAVER@SRSB.CA                              ","ELEMENTARY                    ","Early Immersion",,,,,"30 APPLESEED DR
+ANTIGONISH NS, NS B2G 3B6
+(45.614857, -62.010624)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","966","PINE RIDGE MIDDLE SCHOOL                                    ",,,"       ","625 PINE RIDGE AVE            ","KINGSTON NS           ","B0P 1R0","9027657570  ","9027657572  ","PRMS@AVRSB.CA                                     ","ELEMENTARY/JUNIOR             ","Early Immersion",,,"Intensive French","Integrated French","625 PINE RIDGE AVE
+KINGSTON NS, NS B0P 1R0
+(44.992621, -64.944225)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","31","ELMSDALE DISTRICT ELEMENTARY SCHOOL                         ","                              ","                              ","       ","75 MACMILLAN DR               ","ELMSDALE NS           ","B2S 1A5","9028835350  ","9028835353  ","ALLEYM@CCRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"75 MACMILLAN DR
+ELMSDALE NS, NS B2S 1A5
+(44.960086, -63.523525)"
+"54","HALIFAX REGIONAL              ","353","LESLIE THOMAS JUNIOR HIGH SCHOOL                            ","                              ","                              ","       ","100 METROPOLITAN AVE          ","LOWER SACKVILLE NS    ","B4C 2Z8","9028646785  ","9028646797  ","LTJH@HRSB.CA                                   ","ELEMENTARY/JUNIOR             ","Early Immersion",,"Late Immersion",,,"100 METROPOLITAN AVE
+LOWER SACKVILLE NS, NS B4C 2Z8
+(44.780952, -63.673193)"
+"54","HALIFAX REGIONAL              ","1186","TANTALLON JUNIOR ELEMENTARY SCHOOL                          ",,"                              ","       ","1 FRENCH VILLAGE STN RD       ","UPPER TANTALLON NS    ","B3Z 1E4","9028261204  ","9028261369  ","TANTALLONJR@HRSB.CA                               ","ELEMENTARY                    ","Early Immersion",,,,,"1 FRENCH VILLAGE STN RD
+UPPER TANTALLON NS, NS B3Z 1E4
+(44.690524, -63.874799)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","20","CENTRAL COLCHESTER JUNIOR HIGH SCHOOL ",,,,"61 ONSLOW RD","CENTRAL ONSLOW NS","B6L 5K4","902 896 5570","902 896 5575","MACPHERSONC@CCRSB.CA","JUNIOR HIGH                   ",,,,,"Inregrated French","61 ONSLOW RD
+CENTRAL ONSLOW NS, NS B6L 5K4
+(45.379049, -63.323538)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","44","COBEQUID EDUCATIONAL CENTRE                                 ","                              ","                              ","       ","34 LORNE ST                   ","TRURO NS              ","B2N 3K3","9028965700  ","9028965707  ","KAULBACHW@CCRSB.CA                                ","SENIOR HIGH                   ","Early Immersion",,"Late Immersion",,"Integrated French","34 LORNE ST
+TRURO NS, NS B2N 3K3
+(45.368799, -63.279431)"
+"58","SOUTH SHORE REGIONAL          ","1185","SOUTH QUEENS MIDDLE SCHOOL                                  ","PO BOX 1288                   ","LIVERPOOL NS                  ","B0T 1K0","157 OLD BRIDGE ST             ","LIVERPOOL NS          ","B0T 1K0","9023547640  ","9023547650  ","SQMS@SSRSB.CA                                     ","ELEMENTARY/JUNIOR             ",,,"Late Immersion  ",,,"157 OLD BRIDGE ST
+LIVERPOOL NS, NS B0T 1K0
+(44.03597, -64.713823)"
+"54","HALIFAX REGIONAL              ","356","GAETZ BROOK JUNIOR HIGH SCHOOL                              ","                              ","                              ","       ","6856 HWY 7                    ","HEAD OF CHEZZETCOOK NS","B0J 1N0","9028274666  ","9028275430  ","GBJHS@HRSB.CA                                  ","JUNIOR HIGH                   ",,,"Late Immersion",,,"6856 HWY 7
+HEAD OF CHEZZETCOOK NS, NS B0J 1N0
+(44.777307, -63.206527)"
+"54","HALIFAX REGIONAL              ","534","SHANNON PARK ELEMENTARY SCHOOL                              ","                              ","                              ","       ","75 IROQUOIS DR                ","DARTMOUTH NS          ","B3A 4M5","9024642084  ","9024642866  ","SPES@HRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"75 IROQUOIS DR
+DARTMOUTH NS, NS B3A 4M5
+(44.684408, -63.603365)"
+"54","HALIFAX REGIONAL              ","595","BURTON ETTINGER ELEMENTARY SCHOOL                           ","                              ","                              ","       ","52 ALEX ST                    ","HALIFAX NS            ","B3N 2W4","9024578922  ","9024578928  ","BEES@HRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"52 ALEX ST
+HALIFAX NS, NS B3N 2W4
+(44.652472, -63.636393)"
+"54","HALIFAX REGIONAL              ","592","HALIFAX WEST HIGH SCHOOL                                    ","                              ","                              ","       ","283 THOMAS RADDALL DR         ","HALIFAX NS            ","B3S 1R1","9024578900  ","9024578980  ","HWHS@HRSB.CA                                   ","SENIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"283 THOMAS RADDALL DR
+HALIFAX NS, NS B3S 1R1
+(44.655661, -63.663958)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","750","E. B. CHANDLER JUNIOR HIGH SCHOOL                           ","PO BOX 790                    ","AMHERST NS                    ","B4H 4B9","28 DICKEY ST                  ","AMHERST NS            ","B4H 4B9","9026612450  ","9026612455  ","BEEDS@CCRSB.CA                                    ","JUNIOR HIGH                   ","Early Immersion",,,,"Integrated French","28 DICKEY ST
+AMHERST NS, NS B4H 4B9
+(45.83282, -64.197212)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","708","BRIDGETOWN REGIONAL HIGH SCHOOL                             ","PO BOX 40                     ","BRIDGETOWN NS                 ","B0S 1C0","456 GRANVILLE ST              ","BRIDGETOWN NS         ","B0S 1C0","9026655400  ","9026655404  ","BRHS@AVRSB.CA                                     ","ELEMENTARY/JUNIOR/SENIOR      ",,,,,"Integrated French","456 GRANVILLE ST
+BRIDGETOWN NS, NS B0S 1C0
+(44.842374, -65.279355)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","1154","OCEANVIEW EDUCATION CENTRE                                  ",,"                              ","       ","60 WALLACES RD                ","GLACE BAY NS          ","B1A 4N5","9028424488  ","9028495541  ","PMCNEIL@GNSPES.CA                                 ","ELEMENTARY/JUNIOR             ",,,,"Intensive French","Integrated French","60 WALLACES RD
+GLACE BAY NS, NS B1A 4N5
+(46.203724, -59.975193)"
+"54","HALIFAX REGIONAL              ","580","ST. JOSEPH'S-ALEXANDER MCKAY ELEMENTARY SCHOOL              ","                              ","                              ","       ","5389 RUSSELL ST               ","HALIFAX NS            ","B3K 1W8","9024935180  ","9024935186  ","SJAM@HRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"5389 RUSSELL ST
+HALIFAX NS, NS B3K 1W8
+(44.662243, -63.596085)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","407","WEST PICTOU CONSOLIDATED SCHOOL                             ","                              ","                              ","       ","1999 HWY 376                  ","PICTOU NS             ","B0K 1H0","9024857960  ","9024857966  ","TURNERCA@CCRSB.CA                                 ","ELEMENTARY/JUNIOR             ",,"Middle Immersion",,,,"1999 HWY 376
+PICTOU NS, NS B0K 1H0
+(45.657141, -62.795304)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","96","BADDECK ACADEMY                                             ","PO BOX 310                    ","BADDECK NS                    ","B0E 1B0","320 SHORE RD                  ","BADDECK NS            ","B0E 1B0","9022952359  ","9022951263  ","BARBMAC@GNSPES.CA                                 ","ELEMENTARY/JUNIOR/SENIOR      ",,,,,,"320 SHORE RD
+BADDECK NS, NS B0E 1B0
+(46.095721, -60.758813)"
+"54","HALIFAX REGIONAL              ","321","ROSS ROAD SCHOOL                                            ","                              ","                              ","       ","336 ROSS RD                   ","WESTPHAL NS           ","B2Z 1H2","9024628340  ","9024628398  ","RRS@HRSB.CA                                    ","ELEMENTARY/JUNIOR             ",,,"Late Immersion",,,"336 ROSS RD
+WESTPHAL NS, NS B2Z 1H2
+(44.688987, -63.454101)"
+"54","HALIFAX REGIONAL              ","519","BROOKHOUSE ELEMENTARY SCHOOL                                ","                              ","                              ","       ","15 CHRISTOPHER AVE            ","DARTMOUTH NS          ","B2W 3G2","9024358318  ","9024358323  ","BES@HRSB.CA                                    ","ELEMENTARY                    ",,,,"Intensive French",,"15 CHRISTOPHER AVE
+DARTMOUTH NS, NS B2W 3G2
+(44.67988, -63.521852)"
+"54","HALIFAX REGIONAL              ","228","A. J. SMELTZER JUNIOR HIGH SCHOOL                           ","                              ","                              ","       ","46 PRINCE ST                  ","LOWER SACKVILLE NS    ","B4C 1L1","9028646846  ","9028646852  ","AJS@HRSB.CA                                    ","ELEMENTARY/JUNIOR             ",,,"Late Immersion",,,"46 PRINCE ST
+LOWER SACKVILLE NS, NS B4C 1L1
+(44.76538, -63.670946)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","1105","SPRING STREET ACADEMY                                       ","                              ","                              ","       ","59 SPRING ST                  ","AMHERST NS            ","B4H 1S4","9026612499  ","9026612431  ","JANESH@CCRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"59 SPRING ST
+AMHERST NS, NS B4H 1S4
+(45.831796, -64.202526)"
+"54","HALIFAX REGIONAL              ","351","EASTERN PASSAGE EDUCATION CENTRE                            ","                              ","                              ","       ","93 SAMUEL DANIAL DR           ","EASTERN PASSAGE NS    ","B3G 1P7","9024628401  ","9024628403  ","EPEC@HRSB.CA                                   ","JUNIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"93 SAMUEL DANIAL DR
+EASTERN PASSAGE NS, NS B3G 1P7
+(44.614513, -63.461002)"
+"59","SOUTH SHORE REGIONAL          ","80","FOREST HEIGHTS COMMUNITY SCHOOL","PO BOX 295                    ","CHESTER GRANT NS         ","B0J 1K0","847 HWY 12","CHESTER BASIN NS","B0J 1K0","902 275 2700","902 275 2710","FHCS@SSRSB.CA",,,,,,"Integrated French","847 HWY 12
+CHESTER BASIN NS, NS B0J 1K0
+(44.600149, -64.320125)"
+"54","HALIFAX REGIONAL              ","609","ROCKINGHAM ELEMENTARY                             ","                              ","                              ","       ","31 TREMONT DRIVE","HALIFAX NS            ","B3M 1X8","902 457 8986","902 457 8993 ","ROCKINGHAM@HRSB.CA                                 ","ELEMENTARY/JUNIOR             ","Early Immersion",,,,,"31 TREMONT DRIVE
+HALIFAX NS, NS B3M 1X8
+(44.676667, -63.653171)"
+"59","TRI-COUNTY REGIONAL           ","716","SHELBURNE REGIONAL HIGH SCHOOL                              ","PO BOX 10                     ","SHELBURNE NS                  ","B0T 1W0","415 WOODLAWN DR               ","SHELBURNE NS          ","B0T 1W0","9028754900  ","9028754909  ","SRHS@TCRSB.CA                                     ","JUNIOR/SENIOR                 ",,,"Late Immersion",,,"415 WOODLAWN DR
+SHELBURNE NS, NS B0T 1W0
+(43.770192, -65.301156)"
+"54","HALIFAX REGIONAL              ","572","OXFORD SCHOOL                                               ","                              ","                              ","       ","6364 NORTH ST                 ","HALIFAX NS            ","B3L 1P6","9024216763  ","9024213043  ","OXFORD@HRSB.CA                                 ","ELEMENTARY/JUNIOR             ","Early Immersion",,,,,"6364 NORTH ST
+HALIFAX NS, NS B3L 1P6
+(44.649978, -63.601495)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","989","NORTHUMBERLAND REGIONAL HIGH SCHOOL                         ","                              ","                              ","       ","104 ALMA RD                   ","ALMA NS               ","B0K 2A0","9023962750  ","9023962755  ","OTOOLEM@CCRSB.CA                                  ","JUNIOR/SENIOR                 ",,"Middle Immersion",,,"Integrated French","104 ALMA RD
+ALMA NS, NS B0K 2A0
+(45.582437, -62.76111)"
+"54","HALIFAX REGIONAL              ","291","BEECHVILLE LAKESIDE TIMBERLEA JUNIOR ELEMENTARY SCHOOL      ","                              ","                              ","       ","22 JAMES ST                   ","TIMBERLEA NS          ","B3T 1G9","9028763236  ","9028763238  ","BLTJR@HRSB.CA                                     ","ELEMENTARY                    ","Early Immersion",,,,,"22 JAMES ST
+TIMBERLEA NS, NS B3T 1G9
+(44.6591, -63.742101)"
+"52","STRAIT REGIONAL               ","936","TAMARAC EDUCATION CENTRE                                    ",,"                              ","       ","57 TAMARAC DR                 ","PORT HAWKESBURY NS    ","B9A 3G2","9026256650  ","9026256654  ","SUZANNE.DELANEY@SRSB.CA ","ELEMENTARY/JUNIOR             ","Early Immersion",,,,,"57 TAMARAC DR
+PORT HAWKESBURY NS, NS B9A 3G2
+(45.622416, -61.339503)"
+"54","HALIFAX REGIONAL              ","587","LEMARCHANT-ST. THOMAS ELEMENTARY SCHOOL                     ","                              ","                              ","       ","1589 WALNUT ST                ","HALIFAX NS            ","B3H 3S1","9024216769  ","9024213036  ","LMSTS@HRSB.CA                                  ","ELEMENTARY                    ","Early Immersion",,,,,"1589 WALNUT ST
+HALIFAX NS, NS B3H 3S1
+(44.63984, -63.592926)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","1151","OXFORD REGIONAL EDUCATION CENTRE                            ","                              ","                              ","       ","249 LOWER MAIN ST             ","OXFORD NS             ","B0M 1P0","9024474513  ","9024474517  ","STARRATTD@CCRSB.CA                                ","ELEMENTARY/JUNIOR/SENIOR      ",,,,"Intensive French",,"249 LOWER MAIN ST
+OXFORD NS, NS B0M 1P0
+(45.738797, -63.8633)"
+"54","HALIFAX REGIONAL              ","518","DARTMOUTH HIGH SCHOOL                                       ","                              ","                              ","       ","95 VICTORIA RD                ","DARTMOUTH NS          ","B3A 1V2","9024642457  ","9024642384  ","DHS@HRSB.CA                                    ","JUNIOR/SENIOR                 ","Early Immersion"," ",,,,"95 VICTORIA RD
+DARTMOUTH NS, NS B3A 1V2
+(44.672134, -63.572323)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","70","HORTON HIGH SCHOOL                                          ",,"                              ","       ","75 GREENWICH RD S             ","WOLFVILLE NS          ","B4P 2R2","9025426060  ","9025426066  ","HHS@AVRSB.CA                                      ","JUNIOR/SENIOR                 ","Early Immersion",,,,,"75 GREENWICH RD S
+WOLFVILLE NS, NS B4P 2R2
+(45.071491, -64.401148)"
+"54","HALIFAX REGIONAL              ","602","GROSVENOR-WENTWORTH PARK ELEMENTARY SCHOOL                  ","                              ","                              ","       ","4 DOWNING ST                  ","HALIFAX NS            ","B3M 2G4","9024578422  ","9024578430  ","GWP@HRSB.CA                                    ","ELEMENTARY                    ","Early Immersion",,,,,"4 DOWNING ST
+HALIFAX NS, NS B3M 2G4
+(44.685366, -63.668908)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","62","KINGSTON & DISTRICT SCHOOL                                  ","PO BOX 295                    ","KINGSTON NS                   ","B0P 1R0","630 PINE RIDGE AVE            ","KINGSTON NS           ","B0P 1R0","9027657530  ","9027657535  ","KINGSTON@AVRSB.CA                                 ","ELEMENTARY                    ","Early Immersion",,,,,"630 PINE RIDGE AVE
+KINGSTON NS, NS B0P 1R0
+(44.993366, -64.942854)"
+"54","HALIFAX REGIONAL              ","1141","OYSTER POND ACADEMY                                         ","                              ","                              ","       ","10583 HWY 7                   ","OYSTER POND NS        ","B0J 1W0","9028894300  ","9028894310  ","OPA@HRSB.CA                                    ","ELEMENTARY/JUNIOR             ",,,"Late Immersion",,,"10583 HWY 7
+OYSTER POND NS, NS B0J 1W0
+(44.779421, -62.998429)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","93","BOULARDERIE ELEMENTARY SCHOOL                               ","                              ","                              ","       ","12065 KEMPT RD                ","BOULARDERIE NS        ","B1X 1J9","9026742716  ","9026740117  ","ANGELACURRIE@GNSPES.CA                            ","ELEMENTARY                    ",,,,,,"12065 KEMPT RD
+BOULARDERIE NS, NS B1X 1J9"
+"54","HALIFAX REGIONAL              ","578","FAIRVIEW JUNIOR HIGH SCHOOL                                 ","                              ","                              ","       ","155 ROSEDALE AVE              ","HALIFAX NS            ","B3N 2K2","9024578960  ","9024578963  ","FVJH@HRSB.CA                                   ","JUNIOR HIGH                   ","Early Immersion",,,,,"155 ROSEDALE AVE
+HALIFAX NS, NS B3N 2K2
+(44.6487, -63.647552)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","408","DR. W. A. MACLEOD CONSOLIDATED SCHOOL                       ","RR 1                          ","STELLARTON NS                 ","B0K 1S0","6193 TRAFALGAR RD             ","STELLARTON NS         ","B0K 1S0","9027558450  ","9027558455  ","STACEYRL@CCRSB.CA                                 ","ELEMENTARY/JUNIOR             ",,,,,"Integrated French","6193 TRAFALGAR RD
+STELLARTON NS, NS B0K 1S0"
+"51","CAPE BRETON-VICTORIA REGIONAL ","98","DR. T. L. SULLIVAN MIDDLE SCHOOL                            ",,,"       ","256 PARK RD                   ","FLORENCE NS           ","B1Y 1N2","9027366273  ","9027368844  ","YORKEC1@GNSPES.CA                                 ","ELEMENTARY/JUNIOR             ",,,"Late Immersion","Intensive French",,"256 PARK RD
+FLORENCE NS, NS B1Y 1N2
+(46.248812, -60.271441)"
+"54","HALIFAX REGIONAL              ","1103","KINGSWOOD ELEMENTARY SCHOOL                                 ","                              ","                              ","       ","34 VREGE CRT                  ","HAMMONDS PLAINS NS    ","B4B 1K2","9028325522  ","9028325524  ","KWE@HRSB.CA                                    ","ELEMENTARY                    ","Early Immersion",,,,,"34 VREGE CRT
+HAMMONDS PLAINS NS, NS B4B 1K2
+(44.720643, -63.741283)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","75","BERWICK DISTRICT SCHOOL","PO BOX 40","BERWICK NS","B0P 1E0 ","220 VETERANS DR","BERWICK NS","B0P 1E0","902 538 4720","902 538 4727","BADS@AVRSB.CA",,,,"Late Immersion",,,"220 VETERANS DR
+BERWICK NS, NS B0P 1E0
+(45.044441, -64.742588)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","1189","NEW GLASGOW ACADEMY                                         ","                              ","                              ","       ","93 ALBERT ST                  ","NEW GLASGOW NS        ","B2H 5W8","9027558400  ","9027558438  ","MCNEILAP@CCRSB.CA                                 ","ELEMENTARY/JUNIOR             ",,"Middle Immersion",,,,"93 ALBERT ST
+NEW GLASGOW NS, NS B2H 5W8
+(45.587126, -62.637875)"
+"54","HALIFAX REGIONAL              ","938","RIDGECLIFF MIDDLE SCHOOL                                    ","                              ","                              ","       ","35 BEECH TREE RUN             ","BEECHVILLE NS         ","B3T 2E5","9028764381  ","9028764385  ","RMS@HRSB.CA                                    ","ELEMENTARY/JUNIOR             ","Early Immersion",,"Late Immersion",,,"35 BEECH TREE RUN
+BEECHVILLE NS, NS B3T 2E5
+(44.635144, -63.682181)"
+"54","HALIFAX REGIONAL              ","538","ELLENVALE JUNIOR HIGH SCHOOL                                ","                              ","                              ","       ","88 BELLE VISTA DR             ","DARTMOUTH NS          ","B2W 2X7","9024358420  ","9024358469  ","EJHS@HRSB.CA                                   ","JUNIOR HIGH                   ",,,"Late Immersion",,,"88 BELLE VISTA DR
+DARTMOUTH NS, NS B2W 2X7
+(44.678309, -63.519934)"
+"58","SOUTH SHORE REGIONAL          ","710","LIVERPOOL REGIONAL HIGH SCHOOL                              ","PO BOX 1266                   ","LIVERPOOL NS                  ","B0T 1K0","104 COLLEGE ST                ","LIVERPOOL NS          ","B0T 1K0","9023547600  ","9023547610  ","LRHS@SSRSB.CA                                     ","JUNIOR/SENIOR                 ",,,"Late Immersion",,,"104 COLLEGE ST
+LIVERPOOL NS, NS B0T 1K0"
+"54","HALIFAX REGIONAL              ","540","SOUTHDALE-NORTH WOODSIDE SCHOOL (DARTMOUTH SOUTH ACADEMY)                            ","                              ","                              ","       ","36 HASTINGS DR                ","DARTMOUTH NS          ","B2Y 2C5","9024642081  ","9024610199  ","SNWS@HRSB.CA                                   ","ELEMENTARY/JUNIOR             ","Early Immersion",,,,,"36 HASTINGS DR
+DARTMOUTH NS, NS B2Y 2C5
+(44.666425, -63.547822)"
+"54","HALIFAX REGIONAL              ","286","BROOKSIDE JUNIOR HIGH SCHOOL                                ","                              ","                              ","       ","2239 PROSPECT RD              ","HATCHET LAKE NS       ","B3T 1R8","9028522062  ","9028525530  ","BJHS@HRSB.CA                                   ","ELEMENTARY/JUNIOR             ",,,"Late Immersion",,,"2239 PROSPECT RD
+HATCHET LAKE NS, NS B3T 1R8
+(44.561685, -63.730536)"
+"59","TRI-COUNTY REGIONAL           ","709","DIGBY REGIONAL HIGH SCHOOL                                  ","PO BOX 1660                   ","DIGBY NS                      ","B0V 1A0","107 KING ST                   ","DIGBY NS              ","B0V 1A0","9022457500  ","9022457518  ","DRHS@TCRSB.CA                                     ","JUNIOR/SENIOR                 ","Early Immersion",,,,,"107 KING ST
+DIGBY NS, NS B0V 1A0
+(44.620461, -65.759304)"
+"54","HALIFAX REGIONAL              ","328","DUNCAN MACMILLAN HIGH SCHOOL                                ","                              ","                              ","       ","481 CHURCH POINT RD           ","SHEET HARBOUR NS      ","B0J 3B0","9028852777  ","9028852790  ","DMHS@HRSB.CA                                   ","JUNIOR/SENIOR                 ",,,,"Intensive French","Intergrated French","481 CHURCH POINT RD
+SHEET HARBOUR NS, NS B0J 3B0
+(44.91953, -62.518816)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","916","REDCLIFF MIDDLE SCHOOL                                      ","84 CHURCH ST                  ","                              ","       ","33 SUNSET LANE                ","VALLEY NS             ","B6L 4K1","9028965520  ","9028965514  ","KENNEDYAJ@CCRSB.CA                                ","ELEMENTARY/JUNIOR             ",,,"Late Immersion",,"Integrated French","33 SUNSET LANE
+VALLEY NS, NS B6L 4K1
+(45.382025, -63.218564)"
+"54","HALIFAX REGIONAL              ","743","CAVALIER DRIVE SCHOOL                                       ","                              ","                              ","       ","116 CAVALIER DR               ","LOWER SACKVILLE NS    ","B4C 3L9","9028647524  ","9028647554  ","CDS@HRSB.CA                                    ","ELEMENTARY                    ","Early Immersion",,,,,"116 CAVALIER DR
+LOWER SACKVILLE NS, NS B4C 3L9
+(44.778578, -63.662231)"
+"58","SOUTH SHORE REGIONAL          ","508","BRIDGEWATER JUNIOR HIGH SCHOOL                       ","                              ","                              ","       ","100 YORK ST                   ","BRIDGEWATER NS        ","B4V 1R3","9025418260  ","9025418270  ","BJHS@SSRSB.CA                                    ","JUNIOR              ",,"Middle Immersion",,,,"100 YORK ST
+BRIDGEWATER NS, NS B4V 1R3
+(44.376533, -64.522791)"
+"52","STRAIT REGIONAL               ","471","FELIX MARCHAND EDUCATION CENTRE                             ","PO BOX 767                    ","LOUISDALE NS                  ","B0E 1V0","380 MAIN ST                   ","LOUISDALE NS          ","B0E 1V0","9023452560  ","9023452868  ","TANYA.SAMPSON@SRSB.CA                             ","ELEMENTARY                    ","Early Immersion",,,,,"380 MAIN ST
+LOUISDALE NS, NS B0E 1V0
+(46.022375, -61.53561)"
+"54","HALIFAX REGIONAL              ","568","GORSEBROOK JUNIOR HIGH SCHOOL                               ","                              ","                              ","       ","5966 SOUTH ST                 ","HALIFAX NS            ","B3H 1S6","9024216758  ","9024212709  ","GJH@HRSB.CA                                    ","JUNIOR HIGH                   ","Early Immersion",,,,,"5966 SOUTH ST
+HALIFAX NS, NS B3H 1S6
+(44.636625, -63.584342)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","967","NORTHEAST KINGS EDUCATION CENTRE                            ","                              ","                              ","       ","1816 BAINS RD                 ","CANNING NS            ","B0P 1H0","9025822040  ","9025822044  ","NKEC@AVRSB.CA                                     ","ELEMENTARY/JUNIOR/SENIOR      ","Early Immersion",,,,,"1816 BAINS RD
+CANNING NS, NS B0P 1H0
+(45.162418, -64.441836)"
+"54","HALIFAX REGIONAL              ","607","JOHN W. MACLEOD-FLEMING TOWER ELEMENTARY SCHOOL  (2 SITES)         ","                              ","                              ","       ","159 PURCELL'S COVE RD/ 25 RANDOLPH ST         ","HALIFAX NS            ","B3P 1B7","9024794437  ","9024794442  ","JWM@HRSB.CA                                    ","ELEMENTARY                    ","Early Immersion",,,,,"159 PURCELL'S COVE RD/ 25 RANDOLPH ST
+HALIFAX NS, NS B3P 1B7"
+"58","SOUTH SHORE REGIONAL          ","917","HEBBVILLE ACADEMY                                           ","                              ","                              ","       ","16147 HWY 3                   ","HEBBVILLE NS          ","B4V 6Y1","9025418280  ","9025418290  ","HA@SSRSB.CA                                       ","ELEMENTARY/JUNIOR             ",,,"Late Immersion","Intensive French",,"16147 HWY 3
+HEBBVILLE NS, NS B4V 6Y1
+(44.321029, -64.561443)"
+"59","TRI-COUNTY REGIONAL           ","977","ST. MARY'S BAY ACADEMY                                      ","RR 1                          ","ST BERNARD NS                 ","B0W 3T0","4079 HWY 1                    ","WEYMOUTH NS           ","B0W 3T0","9028372340  ","9028372345  ","SMBA@TCRSB.CA                                     ","JUNIOR/SENIOR                 ",,,,,"Intergrated French","4079 HWY 1
+WEYMOUTH NS, NS B0W 3T0
+(44.405536, -66.017179)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","71","WEST KINGS DISTRICT HIGH SCHOOL                             ","                              ","                              ","       ","1941 HWY 1                    ","AUBURN NS             ","B0P 1A0","9028474440  ","9028474444  ","WKDHS@AVRSB.CA                                    ","JUNIOR/SENIOR                 ","Early Immersion",,"Late Immersion",,,"1941 HWY 1
+AUBURN NS, NS B0P 1A0
+(45.017765, -64.877766)"
+"54","HALIFAX REGIONAL              ","739","ASTRAL DRIVE ELEMENTARY SCHOOL                              ","                              ","                              ","       ","236 ASTRAL DR                 ","DARTMOUTH NS          ","B2V 1B8","9024628500  ","9024628600  ","ADE@HRSB.CA                                    ","ELEMENTARY                    ","Early Immersion",,,,,"236 ASTRAL DR
+DARTMOUTH NS, NS B2V 1B8
+(44.654202, -63.48013)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","45","TRURO JUNIOR HIGH SCHOOL                                    ","                              ","                              ","       ","445 YOUNG ST                  ","TRURO NS              ","B2N 7H9","9028965550  ","9028965559  ","MACLEANAM@CCRSB.CA                                ","ELEMENTARY/JUNIOR             ","Early Immersion",,,,"Integrated French","445 YOUNG ST
+TRURO NS, NS B2N 7H9
+(45.347252, -63.273508)"
+"54","HALIFAX REGIONAL              ","277","SIR JOHN A. MACDONALD HIGH SCHOOL                           ","                              ","                              ","       ","31 SCHOLARS RD                ","UPPER TANTALLON NS    ","B3Z 0C3","9028263222  ","9028263220  ","SJA@HRSB.CA                                    ","SENIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"31 SCHOLARS RD
+UPPER TANTALLON NS, NS B3Z 0C3
+(44.696881, -63.865259)"
+"54","HALIFAX REGIONAL              ","1149","MUSQUODOBOIT RURAL HIGH SCHOOL                              ","                              ","                              ","       ","11980 HWY 224                 ","MIDDLE MUSQUODOBOIT NS","B0N 1X0","9023842320  ","9023842321  ","MRHS@HRSB.CA                                   ","JUNIOR/SENIOR                 ",,,,,"Integrated French","11980 HWY 224
+MIDDLE MUSQUODOBOIT NS, NS B0N 1X0
+(45.051842, -63.133102)"
+"54","HALIFAX REGIONAL              ","97","AUBURN DRIVE HIGH SCHOOL                                    ","                              ","                              ","       ","300 AUBURN DR                 ","DARTMOUTH NS          ","B2W 6E9","9024626900  ","9024626950  ","ADHS@HRSB.CA                                   ","SENIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"300 AUBURN DR
+DARTMOUTH NS, NS B2W 6E9
+(44.688337, -63.483561)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","712","MIDDLETON REGIONAL HIGH SCHOOL                              ","                              ","                              ","       ","18 GATES AVE                  ","MIDDLETON NS          ","B0S 1P0","9028255350  ","9028255355  ","MRHS@AVRSB.CA                                     ","ELEMENTARY/JUNIOR/SENIOR      ",,,,,"Integrated French","18 GATES AVE
+MIDDLETON NS, NS B0S 1P0
+(44.942004, -65.071906)"
+"54","HALIFAX REGIONAL              ","941","SEASIDE ELEMENTARY SCHOOL                                   ","                              ","                              ","       ","1881 CALDWELL RD              ","EASTERN PASSAGE NS    ","B3G 1J3","9024657600  ","9024658662  ","SEASIDE@HRSB.CA                                ","ELEMENTARY                    ","Early Immersion",,,,,"1881 CALDWELL RD
+EASTERN PASSAGE NS, NS B3G 1J3
+(44.608198, -63.470701)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","753","EVANGELINE MIDDLE SCHOOL                                    ","                              ","                              ","       ","9387 COMMERCIAL ST            ","NEW MINAS NS          ","B4N 3G3","9026814910  ","9026814909  ","EMS@AVRSB.CA                                      ","ELEMENTARY/JUNIOR             ","Early Immersion",,,,,"9387 COMMERCIAL ST
+NEW MINAS NS, NS B4N 3G3
+(45.071826, -64.436645)"
+"59","TRI-COUNTY REGIONAL           ","410","MAPLE GROVE EDUCATION CENTRE                                ","                              ","                              ","       ","52 GROVE MEMORIAL DR          ","HEBRON NS             ","B0W 1X0","9027495160  ","9027495170  ","MGEC@TCRSB.CA                                     ","JUNIOR HIGH                   ","Early Immersion",,"Late Immersion",,,"52 GROVE MEMORIAL DR
+HEBRON NS, NS B0W 1X0
+(43.892313, -66.089921)"
+"54","HALIFAX REGIONAL              ","516","CALEDONIA JUNIOR HIGH SCHOOL                                ","                              ","                              ","       ","38 CALEDONIA RD               ","DARTMOUTH NS          ","B2X 1K8","9024358413  ","9024358425  ","CJHS@HRSB.CA                                   ","JUNIOR HIGH                   ",,,"Late Immersion",,,"38 CALEDONIA RD
+DARTMOUTH NS, NS B2X 1K8
+(44.686931, -63.530489)"
+"54","HALIFAX REGIONAL              ","306","HAMMONDS PLAINS CONSOLIDATED SCHOOL                         ","                              ","                              ","       ","2180 HAMMONDS PLAINS RD       ","HAMMONDS PLAINS NS    ","B4B 1M5","9028328412  ","9028328420  ","HPCS@HRSB.CA                                   ","ELEMENTARY                    ","Early Immersion",,,,,"2180 HAMMONDS PLAINS RD
+HAMMONDS PLAINS NS, NS B4B 1M5
+(44.734642, -63.790379)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","993","AVON VIEW HIGH SCHOOL                                       ","PO BOX 700                    ","WINDSOR NS                    ","B0N 2T0","225 PAYZANT DR                ","WINDSOR NS            ","B0N 2T0","9027926740  ","9027926762  ","AVHS@AVRSB.CA                                     ","JUNIOR/SENIOR                 ",,,,"Late Immersion","Integrated French","225 PAYZANT DR
+WINDSOR NS, NS B0N 2T0
+(44.980126, -64.118877)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","705","AMHERST REGIONAL HIGH SCHOOL                                ","                              ","                              ","       ","190 WILLOW ST                 ","AMHERST NS            ","B4H 3W5","9026612540  ","9026612535  ","STUBBERTA@CCRSB.CA                                ","JUNIOR/SENIOR                 ","Early Immersion",,,,"Integrated French","190 WILLOW ST
+AMHERST NS, NS B4H 3W5
+(45.831315, -64.19018)"
+"51","CAPE BRETON-VICTORIA REGIONAL ","688","SYDNEY ACADEMY                                              ","                              ","                              ","       ","49 TERRACE ST                 ","SYDNEY NS             ","B1P 2L4","9025625464  ","9025644472  ","KDEVEAUX@GNSPES.CA                                ","JUNIOR/SENIOR                 ",,,,,"Integrated French","49 TERRACE ST
+SYDNEY NS, NS B1P 2L4
+(46.137717, -60.180588)"
+"54","HALIFAX REGIONAL              ","334","EASTERN SHORE DISTRICT HIGH SCHOOL                          ","                              ","                              ","       ","35 WEST PETPESWICK RD         ","MUSQUODOBOIT HBR NS   ","B0J 2L0","9028894025  ","9028894037  ","ESDH@HRSB.CA                                   ","SENIOR HIGH                   ",,,"Late Immersion",,,"35 WEST PETPESWICK RD
+MUSQUODOBOIT HBR NS, NS B0J 2L0
+(44.782023, -63.154989)"
+"59","TRI-COUNTY REGIONAL           ","541","DIGBY ELEMENTARY SCHOOL                                     ","PO BOX 1538                   ","DIGBY NS                      ","B0V 1A0","20 SHREVE ST                  ","DIGBY NS              ","B0V 1A0","9022457550  ","9022457555  ","DES@TCRSB.CA                                      ","ELEMENTARY                    ","Early Immersion",,,,,"20 SHREVE ST
+DIGBY NS, NS B0V 1A0
+(44.619101, -65.767438)"
+"55","ANNAPOLIS VALLEY REGIONAL     ","133","ANNAPOLIS WEST EDUCATION CENTRE                             ","PO BOX 399                    ","ANNAPOLIS ROYAL NS            ","B0S 1A0","100 CHAMPLAIN DR              ","ANNAPOLIS ROYAL NS    ","B0S 1A0","9025323150  ","9025323160  ","AWEC@AVRSB.CA                                     ","ELEMENTARY/JUNIOR/SENIOR      ",,,,,"Integrated French","100 CHAMPLAIN DR
+ANNAPOLIS ROYAL NS, NS B0S 1A0
+(44.740238, -65.503381)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","42","HANTS EAST RURAL HIGH SCHOOL                                ",,"                              ","       ","2331 HWY 2                    ","MILFORD NS            ","B0N 1Y0","9027584620  ","9027584626  ","SMITHMT@CCRSB.CA                                  ","JUNIOR/SENIOR                 ","Early Immersion",,"Late Immersion",,"Integrated French","2331 HWY 2
+MILFORD NS, NS B0N 1Y0
+(45.056802, -63.429709)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","992","SOUTH COLCHESTER ACADEMY ",,,,"207 HWY 289","BROOKFIELD NS","B0N 1C0","902 673 5000","902 673 5005","JACKSONN@CCRSB.CA","JUNIOR HIGH                   ",,,,,"Inregrated French","207 HWY 289
+BROOKFIELD NS, NS B0N 1C0
+(45.256502, -63.267591)"
+"58","SOUTH SHORE REGIONAL          ","509","BRIDGEWATER ELEMENTARY SCHOOL                               ","                              ","                              ","       ","130 YORK ST                   ","BRIDGEWATER NS        ","B4V 1R3","9025418240  ","9025418250  ","BES@SSRSB.CA                                      ","ELEMENTARY                    ",,"Middle Immersion",,,,"130 YORK ST
+BRIDGEWATER NS, NS B4V 1R3
+(44.376974, -64.52372)"
+"53","CHIGNECTO-CENTRAL REGIONAL    ","923","RIVERSIDE EDUCATION CENTRE                                  ","                              ","                              ","       ","6 RIVERSIDE DR                ","MILFORD NS            ","B0N 1Y0","9027584660  ","9027584666  ","GATTOSC@CCRSB.CA                             ","ELEMENTARY/JUNIOR             ","Early Immersion",,"Late Immersion",,"Integrated French","6 RIVERSIDE DR
+MILFORD NS, NS B0N 1Y0
+(45.045397, -63.43969)"
+"59","TRI-COUNTY REGIONAL           ","256","WEYMOUTH CONSOLIDATED SCHOOL                                ","PO BOX 400                    ","WEYMOUTH NS                   ","B0W 3T0","4695 HWY 1                    ","WEYMOUTH NS           ","B0W 3T0","9028372310  ","9028372320  ","WCS@TCRSB.CA                                      ","ELEMENTARY                    ","Early Immersion",,,,,"4695 HWY 1
+WEYMOUTH NS, NS B0W 3T0
+(44.415185, -65.99603)"
+"58","SOUTH SHORE REGIONAL          ","409","PARK VIEW EDUCATIONAL CENTRE",,"BRIDGEWATER NS","B4V 1C4","1485 KING ST","BRIDGEWATER NS        ","B4V 1C4","902 541 8200","902 541 8210","PVEC@SSRSB.CA","SENIOR",,"Middle Immersion","Late Immersion",,"Integrated French","1485 KING ST
+BRIDGEWATER NS, NS B4V 1C4
+(44.39819, -64.544166)"
+"59","TRI-COUNTY REGIONAL           ","981","DRUMLIN HEIGHTS CONSOLIDATED SCHOOL                         ","RR 1                          ","ARGYLE NS                     ","B0W 1W0","5428 HWY 3                    ","GLENWOOD NS           ","B0W 1W0","9026436000  ","9026436006  ","DHCS@TCRSB.CA                                     ","ELEMENTARY/JUNIOR/SENIOR      ","Early Immersion",,,,,"5428 HWY 3
+GLENWOOD NS, NS B0W 1W0
+(43.794934, -65.855333)"

@@ -1,0 +1,190 @@
+"county","county_seat","address","city","zip5","contact_type","phone","longitude","latitude","county_website","location"
+"Rensselaer","City of Troy","1600 7Th Avenue","Troy","12180","County Executive's Office","(518)270-2900","-73.6858040623","42.7289906092","http://www.rensco.com/","1600 7Th Avenue
+Troy,  12180
+(42.7289906092, -73.6858040623)"
+"Albany","City of Albany","112 State Street","Albany","12207","County Executive's Office","(518)447-7040","-73.7539594378","42.6501637986","http://www.albanycounty.com/","112 State Street
+Albany,  12207
+(42.6501637986, -73.7539594378)"
+"Cayuga","City of Auburn","160 Genesee St.","Auburn","13021","County Administrator's Office","(315)253-1525","-76.5695460095","42.9297172717","http://www.co.cayuga.ny.us/","160 Genesee St.
+Auburn,  13021
+(42.9297172717, -76.5695460095)"
+"Columbia","City of Hudson","401 State St.","Hudson","12534","County Clerk's Office","(518)828-3339","-73.7870073254","42.2520998263","http://www.columbiacountyny.com/","401 State St.
+Hudson,  12534
+(42.2520998263, -73.7870073254)"
+"Ulster","City of Kingston","244 Fair Street","Kingston","12402","County Executive's Office","(845)340-3800","-74.0173858749","41.9326926468","http://co.ulster.ny.us/","244 Fair Street
+Kingston,  12402
+(41.9326926468, -74.0173858749)"
+"Lewis","Village of Lowville","7660 State St.","Lowville","13367","County Manager's Office","(315)376-5355","-75.4934752633","43.7888932099","http://lewiscountyny.org/content","7660 State St.
+Lowville,  13367
+(43.7888932099, -75.4934752633)"
+"Orleans","Village of Albion","3 S. Main St., Suite 2","Albion","14411","Chief Administrative Officer's Office","(585)589-7053","-78.1928184138","43.2458608673","http://orleansny.com/","3 S. Main St., Suite 2
+Albion,  14411
+(43.2458608673, -78.1928184138)"
+"Livingston","Village of Geneseo","6 Court St.","Geneseo","14454","County Administrator's Office","(585)243-7040","-77.8156898771","42.8008513295","http://www.co.livingston.state.ny.us/","6 Court St.
+Geneseo,  14454
+(42.8008513295, -77.8156898771)"
+"Suffolk","Town of Riverhead","300 Center Dr.","Riverhead","11901","County Executive's Office","(631)852-1700","-72.6730152171233","40.9143744547659","http://www.suffolkcountyny.gov/","300 Center Dr.
+Riverhead,  11901
+(40.9143744547659, -72.6730152171233)"
+"Erie","City of Buffalo","95 Franklin St.","Buffalo","14202","County Executive's Office","(716)858-7450","-78.8767135148805","42.8839031265216","http://www2.erie.gov/","95 Franklin St.
+Buffalo,  14202
+(42.8839031265216, -78.8767135148805)"
+"Hamilton","Hamlet of Lake Pleasant","102 County View Drive","Lake Pleasant","12108","County Clerk's Office","(518)548-7111","-74.4121401131787","43.4704720464161","http://www.hamiltoncounty.com/","102 County View Drive
+Lake Pleasant,  12108
+(43.4704720464161, -74.4121401131787)"
+"Schenectady","City of Schenectady","620 State St.","Schenectady","12305","County Manager's Office","(518)388-4280","-73.9394897708","42.8101528732","http://www.schenectadycounty.com/","620 State St.
+Schenectady,  12305
+(42.8101528732, -73.9394897708)"
+"Warren","Town of Queensbury","1340 State Route 9","Lake George","12845","County Administrator's Office","(518)761-6539","-73.6994622642118","43.3587355362594","http://warrencountyny.gov/","1340 State Route 9
+Lake George,  12845
+(43.3587355362594, -73.6994622642118)"
+"Nassau","Village of Mineola","1550 Franklin Ave.","Mineola","11501","County Executive's Office","(516)571-3000","-73.6396807827","40.7379915813","http://www.nassaucountyny.gov/","1550 Franklin Ave.
+Mineola,  11501
+(40.7379915813, -73.6396807827)"
+"Wyoming","Village of Warsaw","143 N. Main St.","Warsaw","14569","County Clerk's Office","(585)786-8810","-78.1330608975056","42.7430736411032","http://www.wyomingco.net/","143 N. Main St.
+Warsaw,  14569
+(42.7430736411032, -78.1330608975056)"
+"Allegany","Village of Belmont","7 Court St.","Belmont","14813","County Administrator's Office","(585)268-9217","-78.0332072212","42.2248679417","http://www.alleganyco.com/","7 Court St.
+Belmont,  14813
+(42.2248679417, -78.0332072212)"
+"Chautauqua","Village of Mayville","3 North Erie Street","Mayville","14757","County Executive's Office","(716)753-7111","-79.5049079999","42.2546709999","http://www.co.chautauqua.ny.us/pages/default.aspx","3 North Erie Street
+Mayville,  14757
+(42.2546709999, -79.5049079999)"
+"Westchester","City of White Plains","148 Martine Ave.","White Plains","10601","County Executive's Office","(914)995-2000","-73.7676683134","41.0305398157","http://www3.westchestergov.com/","148 Martine Ave.
+White Plains,  10601
+(41.0305398157, -73.7676683134)"
+"Montgomery","Village of Fonda","64 Broadway","Fonda","12068","County Clerk's Office","(518)853-8111","-74.3797579548288","42.9574464463997","http://www.co.montgomery.ny.us/","64 Broadway
+Fonda,  12068
+(42.9574464463997, -74.3797579548288)"
+"Oswego","City of Oswego","46 E. Bridge St.","Oswego","13126","County Administrator's Office","(315)349-8235","-76.5057347916","43.4574611999","http://www.co.oswego.ny.us/","46 E. Bridge St.
+Oswego,  13126
+(43.4574611999, -76.5057347916)"
+"Herkimer","Village of Herkimer","109 Mary St., Suite 1310","Herkimer","13350","County Administrator's Office","(315)867-1112","-74.9882183618","43.0289601345","http://herkimercounty.org/content","109 Mary St., Suite 1310
+Herkimer,  13350
+(43.0289601345, -74.9882183618)"
+"Oneida","City of Utica","800 Park Ave.","Utica","13501","County Executive's Office","(315)798-5700","-75.2300994881","43.0992658144","http://www.ocgov.net/","800 Park Ave.
+Utica,  13501
+(43.0992658144, -75.2300994881)"
+"Clinton","City of Plattsburgh","137 Margaret St.","Plattsburgh","12901","County Administrator's Office","(518)565-4600","-73.4539736654","44.6992641965","http://www.clintoncountygov.com/","137 Margaret St.
+Plattsburgh,  12901
+(44.6992641965, -73.4539736654)"
+"Sullivan","Village of Monticello","100 North Street","Monticello","12701","County Manager's Office","(845)794-3000","-74.691905010473","41.6583202808553","http://www.co.sullivan.ny.us/","100 North Street
+Monticello,  12701
+(41.6583202808553, -74.691905010473)"
+"Dutchess","City of Poughkeepsie","22 Market St., 6Th Floor","Poughkeepsie","12601","County Executive's Office","(845)486-2100","-73.9295487633","41.7035628872","http://dutchessny.gov/","22 Market St., 6Th Floor
+Poughkeepsie,  12601
+(41.7035628872, -73.9295487633)"
+"Queens","Borough of Queens","120-55 Queens Boulevard","New York","11424","Borough President's Office","(718)286-3000","-73.8281286529064","40.7137097534539","http://www.queensbp.org/","120-55 Queens Boulevard
+New York,  11424
+(40.7137097534539, -73.8281286529064)"
+"Bronx","Borough of the Bronx","851 Grand Concourse","New York","10451","Borough President's Office","(718)590-3500","-73.9237616166996","40.8262886480416","http://bronxboropres.nyc.gov/","851 Grand Concourse
+New York,  10451
+(40.8262886480416, -73.9237616166996)"
+"Niagara","City of Lockport","175 Hawley St.","Lockport","14094","County Manager's Office","(716)439-7213","-78.7000029695","43.1695038446","http://www.niagaracounty.com/","175 Hawley St.
+Lockport,  14094
+(43.1695038446, -78.7000029695)"
+"Onondaga","City of Syracuse","421 Montgomery St.","Syracuse","13202","County Executive's Office","(315)435-2222","-76.1483682529","43.0466365907","http://www.ongov.net/","421 Montgomery St.
+Syracuse,  13202
+(43.0466365907, -76.1483682529)"
+"Saratoga","Village of Ballston Spa","40 McMaster St.","Ballston Spa","12020","County Administrator's Office","(518)884-4742","-73.8505621549598","42.9990565038546","http://www.saratogacountyny.gov/","40 McMaster St.
+Ballston Spa,  12020
+(42.9990565038546, -73.8505621549598)"
+"Fulton","City of Johnstown","223 W. Main St.","Johnstown","12095","County Clerk's Office","(518)736-5555","-74.375017369","43.0065560272","http://www.fultoncountyny.gov/","223 W. Main St.
+Johnstown,  12095
+(43.0065560272, -74.375017369)"
+"Jefferson","City of Watertown","195 Arsenal St.","Watertown","13601","County Administrator's Office","(315)785-3075","-75.9136370674","43.9753851641","http://www.co.jefferson.ny.us/","195 Arsenal St.
+Watertown,  13601
+(43.9753851641, -75.9136370674)"
+"Rockland","Hamlet of New City","11 New Hempstead Rd.","New City","10956","County Executive's Office","(845)638-5100","-73.9913250877943","41.1479873799689","https://rocklandgov.com/","11 New Hempstead Rd.
+New City,  10956
+(41.1479873799689, -73.9913250877943)"
+"Wayne","Village of Lyons","26 Church St.","Lyons","14489","County Administrator's Office","(315)946-5480","-76.9928715388104","43.0637726417679","http://www.co.wayne.ny.us/","26 Church St.
+Lyons,  14489
+(43.0637726417679, -76.9928715388104)"
+"Monroe","City of Rochester","39 W. Main St.","Rochester","14614","County Executive's Office","(585)753-1000","-77.6136371683","43.1552483524","http://www.monroecounty.gov/","39 W. Main St.
+Rochester,  14614
+(43.1552483524, -77.6136371683)"
+"Delaware","Village of Delhi","111 Main St.","Delhi","13753","County Clerk's Office","(607)746-2123","-74.9160773625","42.2775434125","http://www.co.delaware.ny.us/index.htm","111 Main St.
+Delhi,  13753
+(42.2775434125, -74.9160773625)"
+"Tioga","Village of Owego","56 Main St.","Owego","13827","County Clerk's Office","(607)687-8660","-76.2666764635871","42.1010160454932","http://www.tiogacountyny.com/","56 Main St.
+Owego,  13827
+(42.1010160454932, -76.2666764635871)"
+"Seneca","Village of Waterloo","1 DiPronio Dr.","Waterloo","13165","County Manager's Office","(315)539-1705","-76.8434281012033","42.9084701691667","http://www.co.seneca.ny.us/","1 DiPronio Dr.
+Waterloo,  13165
+(42.9084701691667, -76.8434281012033)"
+"Chemung","City of Elmira","203 Lake St.","Elmira","14902","County Executive's Office","(607)737-2912","-76.8020805169769","42.0899894611913","http://www.chemungcounty.com/","203 Lake St.
+Elmira,  14902
+(42.0899894611913, -76.8020805169769)"
+"Otsego","Village of Cooperstown","197 Main St.","Cooperstown","13326","County Clerk's Office","(607)547-4200","-74.9296704906","42.7007261133","http://www.otsegocounty.com/","197 Main St.
+Cooperstown,  13326
+(42.7007261133, -74.9296704906)"
+"Broome","City of Binghamton","60 Hawley Street","Binghamton","13902","County Executive's Office","(607)778-2109","-75.9107060717799","42.0966824827941","http://www.gobroomecounty.com/","60 Hawley Street
+Binghamton,  13902
+(42.0966824827941, -75.9107060717799)"
+"Ontario","City of Canandaigua","20 Ontario St.","Canandaigua","14424","County Administrator's Office","(585)396-4400","-77.2803325364","42.8886132146","http://www.co.ontario.ny.us","20 Ontario St.
+Canandaigua,  14424
+(42.8886132146, -77.2803325364)"
+"Schuyler","Village of Watkins Glen","105 Ninth St.","Watkins Glen","14891","County Administrator's Office","(607)535-8106","-76.8709834613393","42.3771905656277","http://www.schuylercounty.us/","105 Ninth St.
+Watkins Glen,  14891
+(42.3771905656277, -76.8709834613393)"
+"Genesee","City of Batavia","7 Main St.","Batavia","14020","County Manager's Office","(585)344-2550","-78.1868067244","42.9977584846","http://www.co.genesee.ny.us/","7 Main St.
+Batavia,  14020
+(42.9977584846, -78.1868067244)"
+"St Lawrence","Village of Canton","48 Court St.","Canton","13617","County Administrator's Office","(315)379-2276","-75.1692307374","44.5989194552","http://www.co.st-lawrence.ny.us/","48 Court St.
+Canton,  13617
+(44.5989194552, -75.1692307374)"
+"Franklin","Village of Malone","355 W. Main St.","Malone","12953","County Manager's Office","(518)481-1693","-74.2953087495","44.8489976324","http://franklincony.org/content","355 W. Main St.
+Malone,  12953
+(44.8489976324, -74.2953087495)"
+"New York (City)","Borough of Manhattan","260 Broadway","New York","10007","Mayor's Office","(212)639-9675","-74.0060016879638","40.7127570194579","http://www.nyc.gov/html/index.html","260 Broadway
+New York,  10007
+(40.7127570194579, -74.0060016879638)"
+"Cortland","City of Cortland","60 Central Ave.","Cortland","13045","County Administrator's Office","(607)753-5048","-76.1766216289","42.600633547","http://www.cortland-co.org/","60 Central Ave.
+Cortland,  13045
+(42.600633547, -76.1766216289)"
+"Richmond","Borough of Staten Island","10 Richmond Terrace","New York","10301","Borough President's Office","(718)816-2000","-74.0759966380836","40.6424132525085","http://statenislandusa.com/","10 Richmond Terrace
+New York,  10301
+(40.6424132525085, -74.0759966380836)"
+"Putnam","Town of Carmel","40 Gleneida Ave.","Carmel","10512","County Executive's Office","(845)808-1000","-73.6785764405758","41.4261542614328","http://www.putnamcountyny.com/","40 Gleneida Ave.
+Carmel,  10512
+(41.4261542614328, -73.6785764405758)"
+"Madison","Village of Wampsville","138 N. Court St","Wampsville","13163","County Clerk's Office","(315)366-2261","-75.7066665401","43.0803839089","http://www.madisoncounty.ny.gov/","138 N. Court St
+Wampsville,  13163
+(43.0803839089, -75.7066665401)"
+"Tompkins","City of Ithaca","320 N. Tioga St.","Ithaca","14850","County Administrator's Office","(607)274-5434","-76.4972068143134","42.4422942513738","http://www.tompkins-co.org/","320 N. Tioga St.
+Ithaca,  14850
+(42.4422942513738, -76.4972068143134)"
+"Kings","Borough of Brooklyn","209 Joralemon St","New York","11201","Borough President's Office","(718)802-3700","-73.9903536793963","40.6927471387307","http://www.brooklyn-usa.org/","209 Joralemon St
+New York,  11201
+(40.6927471387307, -73.9903536793963)"
+"Chenango","City of Norwich","5 Court St.","Norwich","13815","County Clerk's Office","(607)337-1450","-75.526183406","42.5319299709","http://www.co.chenango.ny.us/","5 Court St.
+Norwich,  13815
+(42.5319299709, -75.526183406)"
+"Washington","Town of Fort Edward","383 Broadway","Fort Edward","12828","County Administrator's Office","(518)746-2590","-73.588135781998","43.2873604906689","http://www.co.washington.ny.us/Default.htm","383 Broadway
+Fort Edward,  12828
+(43.2873604906689, -73.588135781998)"
+"Orange","Village of Goshen","255 Main Street","Goshen","10924","County Executive's Office","(845)291-3000","-74.3184448147","41.4062075242","http://www.co.orange.ny.us/","255 Main Street
+Goshen,  10924
+(41.4062075242, -74.3184448147)"
+"New York","Borough of Manhattan","1 Centre St","New York","10007","Borough President's Office","(212)669-8300","-74.0035412187351","40.7129038722017","http://www.mbpo.org/","1 Centre St
+New York,  10007
+(40.7129038722017, -74.0035412187351)"
+"Steuben","Village of Bath","3 E. Pulteney Square","Bath","14810","County Administrator's Office","(607)664-2245","-77.3173633735248","42.3332513328021","http://www.steubencony.org/","3 E. Pulteney Square
+Bath,  14810
+(42.3332513328021, -77.3173633735248)"
+"Greene","Village of Catskill","411 Main St.","Catskill","12414","County Administrator's Office","(518)719-3270","-73.8660214094","42.2199994002","http://www.greenegov.com/","411 Main St.
+Catskill,  12414
+(42.2199994002, -73.8660214094)"
+"Cattaraugus","Village of Little Valley","303 Court St.","Little Valley","14755","County Administrator's Office","(716)938-2577","-78.8005248568","42.2521093584","http://www.cattco.org/","303 Court St.
+Little Valley,  14755
+(42.2521093584, -78.8005248568)"
+"Schoharie","Village of Schoharie","284 Main St.","Schoharie","12157","County Clerk's Office","(518)295-8316","-74.311634526606","42.6637492884846","http://www.schohariecounty-ny.gov/CountyWebSite/index.jsp","284 Main St.
+Schoharie,  12157
+(42.6637492884846, -74.311634526606)"
+"Essex","Hamlet of Elizabethtown","7551 Court St., P.O. Box 217","Elizabethtown","12932","County Manager's Office","(518)873-3333","-73.5943437348","44.2149016584","http://www.co.essex.ny.us/","7551 Court St., P.O. Box 217
+Elizabethtown,  12932
+(44.2149016584, -73.5943437348)"
+"Yates","Village of Penn Yan","417 Liberty St.","Penn Yan","14527","County Administrator's Office","(315)536-5118","-77.0580206781537","42.6641607168306","http://www.yatescounty.org/","417 Liberty St.
+Penn Yan,  14527
+(42.6641607168306, -77.0580206781537)"

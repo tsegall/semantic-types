@@ -1,0 +1,4 @@
+"facility_id","common_name","address","city","zip_code","block_lot","owned_leased","dept_id","department_name","gross_sq_ft","longitude","latitude","supervisor_district","city_tenants"
+"3302.0","1 Ave of the Palms Building","1 Ave of the Palms","San Francisco","94130",,"Own","114","Treasure Island Development Authority","4052","-122.37087146299996","37.81721268000007","6","Human Services Agency: Police Department"
+"3167.0","Building 33 - Treasure Island","401 13TH ST","San Francisco","94130","1939006","Own","114","Treasure Island Development Authority","10604","-122.37370851699995","37.82802022100003","6","Fire Department"
+"3301.0","TI Athletic Field - 8TH/AVE M","Ave M & 8TH TI ST","San Francisco","94130",,"Own","114","Treasure Island Development Authority",,"-122.36704764699999","37.825536724000074","6",

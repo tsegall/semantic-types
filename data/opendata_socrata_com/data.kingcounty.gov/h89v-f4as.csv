@@ -1,0 +1,1144 @@
+"district_id","status","group_type","district_number","sub_district_number","countywide","name_1","name_2","abbr","state_code","contact","care_of","mail_city","mail_state","mail_country","mail_zip","phone_1","phone_2","fax","email","newspaper","letter","next_election","statute","partisan","rotates_by","exceptions","rotation_inventory","address_validation","comment_id","district_trans_id","ltd","timestamp","foreign_id","web_site","gen_field","location_1"
+"28","A","CI","10","0","N","CITY OF COVINGTON",,"CV",,"SHARON SCOTT","CITY CLERK"," SUITE 100","COVINGTON","WA",,"98042","2536381110",,"2536381122",,"0",,,,"N",,"N",,,"0","3529","03:40.3",,"0","www.ci.covington.wa.us","16720 SE 271ST ST
+,  "
+"160","A","SEW","160","0","N","HIGHLANDS SEWER DISTRICT",,"HS",,"STEVEN BISHOP","BENSON & MCLAUGHLIN"," SUITE 1400","SEATTLE","WA",,"98121","2064410000000",,"2064411551",,"0",,,,"N",,"N",,,"0","3583","03:35.9",,"0",,"2201 SIXTH AVE
+,  "
+"36","A","CI","18","0","N","RURAL KING COUNTY",,"KI",,,"CLERK OF THE COUNCIL",,,,"0","2062961020",,,,,,,,"N",,"N",,,"0","0","1/1/1900 0:00","7797737","0",,,"402 COURT HOUSE
+,  "
+"25","A","CI","7","0","N","CITY OF BURIEN",,"BU",,"MONICA LUSK","CITY CLERK"," SUITE 300","BURIEN","WA",,"98166","2062485517",,"2062485539",,"0",,,,"N",,"N",,,"0","3604","08:02.2",,"0","www.burienwa.gov","400 SW 152ND ST
+,  "
+"111","A","LIB","1","0","N","RURAL KING COUNTY LIBRARY SYSTEM",,"KI",,,"DIRECTOR","ISSAQUAH","WA",,"98127","4254629600",,,,,,,,"N",,"N",,,"0","0","1/1/1900 0:00","00000000077976C8","0",,,"960 NEWORT WAY NW
+,  "
+"14","A","CG","1","0","N","CONGRESSIONAL DISTRICT NO. 1",,"1",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","432","03:50.4","000000000F14FEA2","0",,,
+"16","A","CG","7","0","N","CONGRESSIONAL DISTRICT NO. 7",,"7",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","434","04:04.5","000000000F14FEA9","0",,,
+"17","A","CG","8","0","N","CONGRESSIONAL DISTRICT NO. 8",,"8",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","435","04:10.6","000000000F14FEAA","0",,,
+"18","A","CG","9","0","N","CONGRESSIONAL DISTRICT NO. 9",,"9",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","436","04:16.0","000000000F14FEAD","0",,,
+"1","A","CC","1","0","N","COUNTY COUNCIL DISTRICT NO. 1",,"1",,,,,,,,"2062961020","0","0",,"0",,,,"N",,"N",,,"0","439","04:47.3","000000000F14FEBC","0",,,"402 KING COUNTY COURTHOUSE
+,  "
+"2","A","CC","2","0","N","COUNTY COUNCIL DISTRICT NO. 2",,"2",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","440","06:20.8","000000000F14FEDF","0",,,"402 KING COUNTY COURTHOUSE
+,  "
+"3","A","CC","3","0","N","COUNTY COUNCIL DISTRICT NO. 3",,"3",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","441","06:26.8","000000000F14FEE0","0",,,"402 KING COUNTY COURTHOUSE
+,  "
+"4","A","CC","4","0","N","COUNTY COUNCIL DISTRICT NO. 4",,"4",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","442","06:33.2","000000000F14FEE3","0",,,"402 KING COUNTY COURTHOUSE
+,  "
+"5","A","CC","5","0","N","COUNTY COUNCIL DISTRICT NO. 5",,"5",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","443","06:39.1","000000000F14FEE6","0",,,"402 KING COUNTY COURTHOUSE
+,  "
+"6","A","CC","6","0","N","COUNTY COUNCIL DISTRICT NO. 6",,"6",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","444","06:44.7","000000000F14FEEF","0",,,"402 KING COUNTY COURTHOUSE
+,  "
+"7","A","CC","7","0","N","COUNTY COUNCIL DISTRICT NO. 7",,"7",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","445","06:52.6","000000000F14FEF1","0",,,"402 KING COUNTY COURTHOUSE
+,  "
+"8","A","CC","8","0","N","COUNTY COUNCIL DISTRICT NO. 8",,"8",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","446","06:57.9","000000000F14FEF3","0",,,"402 KING COUNTY COURTHOUSE
+,  "
+"9","A","CC","9","0","N","COUNTY COUNCIL DISTRICT NO. 9",,"9",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","447","07:03.0","000000000F14FEF6","0",,,"402 KING COUNTY COURTHOUSE
+,  "
+"6335","A","RTA","566","0","N","REGIONAL TRANSPORTATION AUTHORITY",,"RT1",,,,,,,,"0","0","0",,"0",,"1/1/1900 0:00",,"N",,"N",,,"0","480","9/6/2007 16:30","00000000113F85AB",,,,
+"6343","A","FIR","87","0","N","VALLEY REGIONAL FIRE AUTHORITY",,"VRFA",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","491","10:47.4","0000000011E7EC20",,,,
+"94","A","LG","1","0","N","LEGISLATIVE DISTRICT NO. 1",,"1",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","518","11:19.3","00000000160D0B5D","0",,,
+"96","A","LG","11","0","N","LEGISLATIVE DISTRICT NO. 11",,"11",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","519","11:40.6","00000000160D0B5E","0",,,
+"97","A","LG","30","0","N","LEGISLATIVE DISTRICT NO. 30",,"30",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","520","11:56.5","00000000160D0B63","0",,,
+"98","A","LG","31","0","N","LEGISLATIVE DISTRICT NO. 31",,"31",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","521","12:10.0","00000000160D0B69","0",,,
+"99","A","LG","32","0","N","LEGISLATIVE DISTRICT NO. 32",,"32",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","522","12:21.8","00000000160D0B6B","0",,,
+"100","A","LG","33","0","N","LEGISLATIVE DISTRICT NO. 33",,"33",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","523","12:38.9","00000000160D0B6C","0",,,
+"101","A","LG","34","0","N","LEGISLATIVE DISTRICT NO. 34",,"34",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","524","12:59.3","00000000160D0B74","0",,,
+"102","A","LG","36","0","N","LEGISLATIVE DISTRICT NO. 36",,"36",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","525","13:12.0","00000000160D0B76","0",,,
+"103","A","LG","37","0","N","LEGISLATIVE DISTRICT NO. 37",,"37",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","526","13:43.1","00000000160D0B7D","0",,,
+"104","A","LG","39","0","N","LEGISLATIVE DISTRICT NO. 39",,"39",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","527","13:51.3","00000000160D0B7F","0",,,
+"105","A","LG","41","0","N","LEGISLATIVE DISTRICT NO. 41",,"41",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","528","14:01.6","00000000160D0B84","0",,,
+"106","A","LG","43","0","N","LEGISLATIVE DISTRICT NO. 43",,"43",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","529","14:11.5","00000000160D0B86","0",,,
+"107","A","LG","45","0","N","LEGISLATIVE DISTRICT NO. 45",,"45",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","530","14:21.1","00000000160D0B87","0",,,
+"108","A","LG","46","0","N","LEGISLATIVE DISTRICT NO. 46",,"46",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","531","14:31.2","00000000160D0B88","0",,,
+"109","A","LG","47","0","N","LEGISLATIVE DISTRICT NO. 47",,"47",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","532","14:40.6","00000000160D0B8A","0",,,
+"110","A","LG","48","0","N","LEGISLATIVE DISTRICT NO. 48",,"48",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","533","14:51.5","00000000160D0B8C","0",,,
+"95","A","LG","5","0","N","LEGISLATIVE DISTRICT NO. 5",,"5",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","534","16:38.3","00000000160D0BAF","0",,,
+"73","A","FIR","31","0","N","KING COUNTY FIRE PROTECTION DISTRICT 31",,"31",,,,"AUBURN","WA",,"98071","2538332105","0","0",,"0",,,,"N",,"N",,,"0","579","18:16.7","00000000160D1040","0",,,"PO BOX 708
+,  "
+"80","A","FIR","41","0","N","KING COUNTY FIRE PROTECTION DISTRICT 41",,"41",,,,"KIRKLAND","WA",,"98083","4258222228","0","0",,"0",,,,"N",,"N",,,"0","584","18:11.7","00000000160D11D0","0",,,"PO BOX 817
+,  "
+"119","A","PRK","1","0","N","ENUMCLAW PARK & RECREATION SERVICE AREA",,"EPR",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","617","44:36.3","0000000016122C15","0",,,
+"121","A","PRK","3","0","N","ISSAQUAH PARK & RECREATION SERVICE AREA",,"IPR",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","620","54:12.4","0000000016122C19","0",,,
+"122","A","PRK","4","0","N","NORTHSHORE PARK & RECREATION SERVICEAREA",,"NSPR",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","621","55:38.2","0000000016122C1A","0",,,
+"123","A","PRK","5","0","N","SHORELINE PARK AND RECREATION DISTRICT",,"SPR",,"HOME # 546-3272","ATTN:  ROBERT RANSOM","SEATTLE","WA",,"98133","2065276111","0","0",,"0",,,,"N",,"N",,,"0","622","56:28.8","0000000016122C1B","0",,,"16745 BURKE AVENUE NORTH
+,  "
+"112","A","CEM","1","0","N","KING COUNTY CEMETERY DISTRICT NO. 1",,"C1",,,,"VASHON","WA",,"98070","2064637550","0","0",,"0",,,,"N",,"N",,,"0","644","19:05.6","0000000016122C31","0",,,"PO BOX 1526
+,  "
+"47","A","CI","29","0","N","CITY OF PACIFIC",,"PC",,"SANDY PAUL","CITY CLERK","PACIFIC","WA",,"98047","2539291100","0","0","spaul@ci.pacific.wa.us","0",,,,"N",,"N",,,"0","684","33:06.9","000000001675E47E","0","www.cityofpacific.com",,"100 3RD AVE SE
+,  "
+"53","A","CI","35","0","N","TOWN OF SKYKOMISH",,"SK",,"CHRISTINA YATES","TOWN CLERK","SKYKOMISH","WA",,"98288","2536772388","0","0","townofsky@verizon.net","0",,,,"N",,"N",,,"0","689","45:59.8","000000001675E9FF","0","www.town.skykomish.wa.us",,"PO BOX 308
+,  "
+"113","A","MS2","113","0","N","MUCKLESHOOT INDIAN RESERVATION",,"MIR",,,,,,,,,,,,"0",,,,"N",,"N",,,"0","775","22:48.1","0000000016AA5CF0","0",,,
+"93","A","KC","99","0","Y","METROPOLITAN KING COUNTY",,"MKC",,,,,,,,,,,,"0",,,,"N",,"N",,,"0","779","54:35.8","0000000016B549E7","0",,,
+"92","A","JU","92","0","N","WEST ELECTORAL DISTRICT",,"W",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","781","58:07.9","0000000016B549F4","0",,,
+"2822","A","JU","2822","0","N","SOUTHWEST ELECTORAL DISTRICT",,"SW",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","782","58:19.2","0000000016B549F6",,,,
+"2823","A","JU","2823","0","N","SOUTHEAST ELECTORAL DISTRICT",,"SE",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","783","58:28.4","0000000016B549F7",,,,
+"2826","A","JU","2826","0","N","SHORELINE ELECTORAL DISTRICT",,"SH",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","784","58:36.2","0000000016B549F8",,,,
+"2825","A","JU","2825","0","N","NORTHEAST ELECTORAL DISTRICT",,"NE",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","785","58:43.4","0000000016B549FA",,,,
+"159","A","SEW","159","0","N","CEDAR RIVER WATER AND SEWER DISTRICT",,"CRWS",,,,"MAPLE VALLEY","WA",,"98038","4252281350","0","0",,"0",,,,"N",,"N",,,"0","793","00:33.9","0000000016B54A0D","0",,,"PO BOX 1040
+,  "
+"2805","A","DD","1000","0","N","DIRECTOR DISTRICT NO. 1","SCHOOL DISTRICT 1","1",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","809","55:27.7","000000001709E39E",,,,
+"2806","A","DD","2000","0","N","DIRECTOR DISTRICT NO. 2","SCHOOL DISTRICT 1","2",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","810","55:35.5","000000001709E39F",,,,
+"2807","A","DD","3000","0","N","DIRECTOR DISTRICT NO. 3","SCHOOL DISTRICT 1","3",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","811","55:41.3","000000001709E3A5",,,,
+"2808","A","DD","4000","0","N","DIRECTOR DISTRICT NO. 4","SCHOOL DISTRICT 1","4",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","812","55:48.3","000000001709E3AB",,,,
+"2809","A","DD","5000","0","N","DIRECTOR DISTRICT NO. 5","SCHOOL DISTRICT 1","5",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","813","55:54.3","000000001709E3AC",,,,
+"2810","A","DD","6000","0","N","DIRECTOR DISTRICT NO. 6","SCHOOL DISTRICT 1","6",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","814","56:00.5","000000001709E3AD",,,,
+"2811","A","DD","7000","0","N","DIRECTOR DISTRICT NO. 7","SCHOOL DISTRICT 1","7",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","815","56:06.6","000000001709E3AE",,,,
+"30","A","CI","12","0","N","CITY OF DUVALL",,"DU",,"JODEE SCHWINN","CITY CLERK","DUVALL","WA",,"98019","4257881185","0","4257888097","jodee.schwinn@duvallwa.gov","0",,,,"N",,"N",,,"0","838","00:50.0","0000000018800C21","0","www.duvallwa.gov",,"PO BOX 1300
+,  "
+"34","A","CI","16","0","N","TOWN OF HUNTS POINT",,"HP",,"JACK MCKENZIE","TOWN ADMINISTRATOR","HUNTS POINT","WA",,"98004","4254551834","0","4254544586","jackm@huntspoint-wa.gov","0",,,,"N",,"N",,,"0","840","03:27.5","0000000018800C35","0","www.huntspoint-wa.gov",,"3000 HUNTS POINT RD
+,  "
+"39","A","CI","21","0","N","CITY OF KENT",,"KN",,"BRENDA JACOBER","CITY CLERK","KENT","WA",,"98032","2538565725","0","2538566725","bjacober@ci.kent.wa.us","0",,,,"N",,"N",,,"0","842","04:35.8","0000000018800C42","0","www.ci.kent.wa.us",,"220 4TH AVE S
+,  "
+"181","A","WTR","54","0","N","KING COUNTY WATER DISTRICT NO. 54",,"54",,,,"DES MOINES","WA",,"981986392","2068787210","0","2068241909","KCWD54@hotmail.com","0",,,,"N",,"N",,,"0","885","26:26.7","0000000018802B02","0",,,"922 S 219TH ST
+,  "
+"173","A","WTR","5","0","N","LAKE FOREST PARK WATER DISTRICT",,"LFPW",,,,"LAKE FOREST PARK","WA",,"98155","2063653211","0","2063653357","office@lfpwd.org","0",,,,"N",,"N",,,"0","890","37:56.6","0000000018802B6B","0","www.lfpwd.com",,"4029 NE 178TH ST
+,  "
+"163","A","SEW","163","0","N","STEVENS PASS SEWER DISTRICT",,"SPS",,,,"LEAVENWORTH","WA",,"98826","3609732804","0","3609732024","stevenspasssewer@stevenspass.com","0",,,,"N",,"N",,,"0","899","56:46.7","0000000018802C27","0",,,"PO BOX 98
+,  "
+"168","A","SEW","168","0","N","VALLEY VIEW SEWER DISTRICT",,"VV",,,,"SEATTLE","WA",,"98168","2062423236","0","2062421527","kathleen34@msn.com","0",,,,"N",,"N",,,"0","900","58:47.3","0000000018802C35","0","www.valvue.com",,"PO BOX 69550
+,  "
+"89","A","HSP","4","0","N","PUBLIC HOSPITAL DISTRICT NO. 4",,"4",,,,"SNOQUALMIE","WA",,"98065","4258312300","0","4258311994","valerieh@snoqualmiehospital.org","0",,,,"N",,"N",,,"0","903","01:49.2","0000000018802C4C","0","www.snoqualmiehospital.org",,"9575 ETHAN WADE WAY SE
+,  "
+"132","A","SCH","1","0","N","SEATTLE SCHOOL DISTRICT NO. 1",,"1",,,"OFFICE OF SUPERINTENDENT","SEATTLE","WA",,"981241165","2062520041","0","2062520101","jodingfield@seattleschools.org","0",,,,"N",,"N",,,"0","906","57:09.9","18803373","0","www.seattleschools.org",,"PO BOX 34165
+,  "
+"164","A","SEW","164","0","N","SAMMAMISH PLATEAU WATER & SEWER DISTRICT",,"SPWS",,,,"SAMMAMISH","WA",,"98075","4253920000000","0","4253915389","asea.sandine@sammplat.wa.org","0",,,,"N",,"N",,,"0","909","49:17.1","00000000188034F5","0","www.sammplet.wa.org",,"1510 228TH AVE SE
+,  "
+"33","A","CI","15","0","N","CITY OF LAKE FOREST PARK",,"FP",,"SUSAN STINE","CITY CLERK","LAKE FOREST PARK","WA",,"981555556","2063685440","0","2063646521","sstine@ci.lake-forest-park.wa.us","0",,,,"N",,"N",,,"0","910","19:15.9","00000000188344F3","0","www.cityoflfp.com",,"17425 BALLINGER WAY NE
+,  "
+"49","A","CI","31","0","N","CITY OF RENTON",,"RN",,"BONNIE I WALTON","CITY CLERK","RENTON","WA",,"98057","4254306502","0","4254306516","bwalton@rentonwa.gov","0",,,,"N",,"N",,,"0","911","19:49.0","00000000188344F6","0","www.rentonwa.gov",,"1055 S GRADY WY
+,  "
+"52","A","CI","34","0","N","CITY OF SHORELINE",,"SH",,"SCOTT PASSEY","CITY CLERK","SHORELINE","WA",,"98133","2068012230","0","2065461524","spassey@shorelinewa.gov","0",,,,"N",,"N",,,"0","913","25:20.9","18834538","0","www.shorelinewa.gov",,"17500 MIDVALE AVE N
+,  "
+"86","A","FIR","51","0","N","SNOQUALMIE PASS FIRE PROTECTION DIST 51",,"51",,,,"SNOQUALMIE PASS","WA",,"98068","4254346333","0","4254346355",,"0",,,,"N",,"N",,,"0","920","41:20.9","18834642","0","www.snoqalmiepassfire.org",,"PO BOX 99
+,  "
+"161","A","SEW","161","0","N","MIDWAY SEWER DISTRICT",,"MW",,,,"KENT","WA",,"980890209","2068244960","0","2068782692","ken@midwaysewer.org","0",,,,"N",,"N",,,"0","921","42:46.4","18834660","0","www.midwaysewer.org",,"PO BOX 3487
+,  "
+"126","A","PS","1","0","Y","PORT OF SEATTLE",,"PS",,"DONNA WYNN","COMMISSION RECORDS COORDINATOR","SEATTLE","WA",,"981111209","2067873210","0","2067873205","wynn.d@portseattle.org","0",,,,"N",,"N",,,"0","930","30:43.2","1.88E+09","0","www.portseattle.org",,"PO BOX 1209
+,  "
+"48","A","CI","30","0","N","CITY OF REDMOND",,"RE",,"MICHELLE MCGEHEE","CITY CLERK","REDMOND","WA",,"980739710","4255562190","0","4255562198","mmcgehee@redmond.gov","0",,,,"N",,"N",,,"0","935","39:44.8","000000001886233E","0","www.redmond.gov",,"P.O. BOX 97010
+,  "
+"167","A","SEW","167","0","N","VASHON SEWER DISTRICT",,"VI",,,,"VASHON","WA",,"98070","2064639219","0","2064636818",,"0",,,,"N",,"N",,,"0","937","03:07.7","00000000188791D6","0",,,"PO BOX 677
+,  "
+"133","A","SCH","210","0","N","FEDERAL WAY SCHOOL DISTRICT NO. 210",,"210",,,"OFFICE OF SUPERINTENDENT","FEDERAL WAY","WA",,"98003","2539452000","0","2539452001","cpopich@fwps.org","0",,,,"N",,"N",,,"0","941","21:37.0","0000000018879AD0","0","www.fwps.org",,"31405 18TH AVE S
+,  "
+"138","A","SCH","403","0","N","RENTON SCHOOL DISTRICT NO. 403",,"403",,,"OFFICE OF SUPERINTENDENT","RENTON","WA",,"98057","4252042345","0","4252042456","randy.matheson@rentonschools.us","0",,,,"N",,"N",,,"0","943","23:04.1","0000000018879AD2","0","www.rentonschools.us",,"300 SW 7TH ST
+,  "
+"148","A","SCH","414","0","N","LAKE WASHINGTON SCHOOL DISTRICT NO. 414",,"414",,,"OFFICE OF SUPERINTENDENT","REDMOND","WA",,"98073","4257023223","0","4257023325","lmorton@lwsd.org","0",,,,"N",,"N",,,"0","944","23:34.4","0000000018879AD3","0","www.lwsd.org",,"PO BOX 97039
+,  "
+"165","A","SEW","165","0","N","SNOQUALMIE PASS UTILITY DISTRICT",,"SS",,,,"SNOQUALMIE PASS","WA",,"98068","4254346633","0","4254346615","tlenihan@snopass.org","0",,,,"N",,"N",,,"0","947","12:29.3","0000000018879F37","0","www.snopass.org",,"PO BOX 131
+,  "
+"55","A","CI","37","0","N","CITY OF SEATAC",,"ST",,,,"SEATAC","WA",,"981884236","2069734800","0","2069734809","info@ci.seatac.wa.us","0",,,,"N",,"N",,,"0","949","46:05.3","000000001888BCA0","0","www.ci.seatac.wa.us",,"4800 S 188TH ST
+,  "
+"51","A","CI","33","0","N","CITY OF SEATTLE",,"SE",,"CAROL SHENK","CITY CLERK","SEATTLE","WA",,"981244728","2066848344","0","2063869025","shenkc@seattle.gov","0",,,,"N",,"N",,,"0","950","54:15.3","000000001888CE4F","0","www.seattle.gov",,"PO BOX 94728
+,  "
+"46","A","CI","28","0","N","CITY OF NEWCASTLE",,"NW",,"BOB BAKER","CITY CLERK","NEWCASTLE","WA",,"980593030","4256494444","0","4256494363","bobb@ci.newcastle.wa.us","0",,,,"N",,"N",,,"0","955","29:09.3","00000000188E7159","0","www.ci.newcastle.wa.us",,"13020 NEWCASTLE WAY
+,  "
+"186","A","WTR","123","0","N","KING COUNTY WATER DISTRICT NO. 123",,"123",,,,"PRESTON","WA",,"98050","4252227817","0","0","kcwd123@centurytel.net","0",,,,"N",,"N",,,"0","957","02:42.8","000000001897BF82","0",,,"PO BOX 963
+,  "
+"116","A","AIR","116","0","N","KING COUNTY AIRPORT DISTRICT",,"AIR",,,,"VASHON","WA",,"98070","2065674346","0",,"vashonairport@live.com","0",,,,"N",,"N",,,"0","959","06:39.1","0000000018A78F37","0",,,"PO BOX 1639
+,  "
+"11432","A","PRK","9","0","N","DES MOINES POOL METROPOLITAN PARK DIST",,"DMPP",,,,,,,,"0","0","0",,"0",,,,"N",,"N",,,"0","978","35:24.2","0000000018D7EF95",,,,
+"21","A","CI","3","0","N","TOWN OF BEAUX ARTS VILLAGE",,"BA",,"SUE ANN SPENS","CLERK-TREASURER","BEAUX ARTS VILLAGE","WA",,"98004","4254548580",,"4256881786","townhall@beauxarts-wa.gov","0",,,,"N",,"N",,,"0","3524","01:15.6","000000001A415F32","0","www.beauxarts-wa.gov",,"10550 SE 27TH ST
+,  "
+"23","A","CI","5","0","N","CITY OF BLACK DIAMOND",,"BL",,"BRENDA L. MARTINEZ","CITY CLERK","BLACK DIAMOND","WA",,"98010","3608862560",,"3608862592","bmartinez@ci.blackdiamond.wa.us","0",,,,"N",,"N",,,"0","3525","01:44.6","000000001A415F38","0","www.ci.blackdiamond.wa.us",,"PO BOX 599
+,  "
+"24","A","CI","6","0","N","CITY OF BOTHELL",,"BT",,"JOANNE TRUDEL ","CITY CLERK","BOTHELL","WA",,"98011","4254863256",,"4254871204","cityclerk@ci.bothell.wa.us","0",,,,"N",,"N",,,"0","3526","02:11.3","000000001A415F41","0","www.ci.bothell.wa.us",,"18305 101ST AVE NE
+,  "
+"26","A","CI","8","0","N","CITY OF CARNATION",,"CA",,"MARY OTNESS ","CITY CLERK","CARNATION","WA",,"980141238","4253334192",,"4253334336","clerk@ci.carnation.wa.us","0",,,,"N",,"N",,,"0","3527","02:41.7","000000001A415F45","0","www.ci.carnation.wa.us",,"PO BOX 1238
+,  "
+"27","A","CI","9","0","N","CITY OF CLYDE HILL",,"CL",,"MITCH WASSERMAN","CITY ADMINISTRATOR","CLYDE HILL","WA",,"98004","4254537800",,"4254621936","mitch@clydehill.org","0",,,,"N",,"N",,,"0","3528","03:05.6","000000001A415F4A","0","www.clydehill.org",,"9605 NE 24TH ST
+,  "
+"29","A","CI","11","0","N","CITY OF DES MOINES",,"DE",,"TONY PIASECKI","CITY MANAGER","DES MOINES","WA",,"98198","2068706550",,"2068706540","tpiasecki@desmoineswa.gov","0",,,,"N",,"N",,,"0","3530","04:46.3","000000001A415F62","0","www.desmoineswa.gov",,"21630 11TH AVE S
+,  "
+"31","A","CI","13","0","N","CITY OF ENUMCLAW",,"EN",,"MIKE THOMAS","CITY ADMINISTRATOR","ENUMCLAW","WA",,"98022","3606155607",,"3606155632","mthomas@ci.enumclaw.wa.us","0",,,,"N",,"N",,,"0","3531","07:51.1","000000001A415F95","0","www.cityofenumclaw.net",,"1339 GRIFFIN AVE
+,  "
+"32","A","CI","14","0","N","CITY OF FEDERAL WAY",,"FE",,"CAROL MCNEILLY","CITY CLERK","FEDERAL WAY","WA",,"980036325","2538352540",,"2538352509","carol.mcneilly@cityoffederalway.com","0",,,,"N",,"N",,,"0","3532","08:28.0","000000001A415F97","0","www.cityoffederalway.com",,"33325 8TH AVE S
+,  "
+"35","A","CI","17","0","N","CITY OF ISSAQUAH",,"IS",,"TINA EGGERS","CITY CLERK","ISSAQUAH","WA",,"98027","4258373000",,,"tinae@ci.issaquah.wa.us","0",,,,"N",,"N",,,"0","3533","09:44.8","000000001A415F9D","0","www.ci.issaquah.wa.us",,"PO BOX 1307
+,  "
+"37","A","CI","19","0","N","CITY OF KIRKLAND",,"KL",,"KATHI ANDERSON","CITY CLERK","KIRKLAND","WA",,"98033","4255873197",,"4255873198","kanderson@ci.kirkland.wa.us","0",,,,"N",,"N",,,"0","3534","10:16.1","000000001A415FA2","0","www.ci.kirkland.wa.us",,"123 5TH AVE
+,  "
+"40","A","CI","22","0","N","CITY OF MEDINA",,"ME",,"RACHEL BAKER","CITY CLERK","MEDINA","WA",,"98039","4252336411",,"4254518197","rbaker@medina-wa.gov","0",,,,"N",,"N",,,"0","3535","11:15.3","000000001A415FA3","0","www.medina-wa.gov",,"PO BOX 144
+,  "
+"43","A","CI","25","0","N","CITY OF MAPLE VALLEY",,"MV",,"SHAUNNA LEE-RICE","CITY CLERK","MAPLE VALLEY","WA",,"98038","4254138800",,"4254134282","shaunna.leerice@maplevalleywa.gov","0",,,,"N",,"N",,,"0","3537","20:13.1","000000001A415FE7","0","www.maplevalleywa.gov",,"PO BOX 320
+,  "
+"45","A","CI","27","0","N","CITY OF NORMANDY PARK",,"NO",,"DEBBIE BURKE","CITY CLERK","NORMANDY PARK","WA",,"98166","2062488248",,"2064398674","debbieb@ci.normandy-park.wa.us","0",,,,"N",,"N",,,"0","3538","20:55.3","000000001A415FE8","0","www.normandyparkwa.gov",,"801 SW 174TH ST
+,  "
+"57","A","CI","39","0","N","CITY OF WOODINVILLE",,"WO",,"JENNIFER KUHN","CITY CLERK","WOODINVILLE","WA",,"98072","4258772262",,"4254892705","jenniferk@ci.woodinville.wa.us","0",,,,"N",,"N",,,"0","3539","21:30.5","000000001A415FE9","0","www.ci.woodinville.wa.us",,"17301 133RD AVE NE
+,  "
+"134","A","SCH","216","0","N","ENUMCLAW SCHOOL DISTRICT NO. 216",,"216",,"DIANA AABY","OFFICE OF SUPERINTENDENT","ENUMCLAW","WA",,"98022","3608027102",,"3608027140","diana_aaby@enumclaw.wednet.edu","0",,,,"N",,"N",,,"0","3541","36:05.4","000000001A41601F","0","www.enumclaw.wednet.edu",,"2929 MCDOUGALL AVENUE
+,  "
+"135","A","SCH","400","0","N","MERCER ISLAND SCHOOL DISTRICT NO. 400",,"400",,"JAN LAFOUNTAINE","OFFICE OF SUPERINTENDENT","MERCER ISLAND","WA",,"98040","2062363300",,"2062363333","jan_lafountaine@misd.wednet.edu","0",,,,"N",,"N",,,"0","3542","36:43.9","000000001A416020","0","www.misd.k12.wa.us",,"4160 86TH AVE SE
+,  "
+"136","A","SCH","401","0","N","HIGHLINE SCHOOL DISTRICT NO. 401",,"401",,"JAN MAY","OFFICE OF SUPERINTENDENT","BURIEN","WA",,"98166","2064332217",,"2064332351","mayjl@hsd401.org","0",,,,"N",,"N",,,"0","3543","37:10.6","000000001A416022","0","www.hsd401.org",,"15675 AMBAUM BLVD SW
+,  "
+"137","A","SCH","402","0","N","VASHON ISLAND SCHOOL DISTRICT NO. 402",,"402",,"DONNA DONNELLY","OFFICE OF SUPERINTENDENT","VASHON ISLAND","WA",,"98070","20646321217",,"2064636262","ddonnelly@vashonsd.org","0",,,,"N",,"N",,,"0","3544","38:04.4","000000001A416026","0","www.vashonsd.org",,"PO BOX 547
+,  "
+"139","A","SCH","404","0","N","SKYKOMISH SCHOOL DISTRICT NO. 404",,"404",,"JEFF LONG","OFFICE OF SUPERINTENDENT","SKYKOMISH","WA",,"98288","3606770000000",,"3606772418","jlong@skykomish.wednet.edu","0",,,,"N",,"N",,,"0","3545","38:58.9","000000001A41602B","0","www.skykomishschools.com",,"PO BOX 325
+,  "
+"141","A","SCH","406","0","N","TUKWILA SCHOOL DISTRICT NO. 406",,"406",,"CHRISTINE BATH","OFFICE OF SUPERINTENDENT","TUKWILA","WA",,"98168","2069018006",,"2069018016","bathc@tukwila.wednet.edu","0",,,,"N",,"N",,,"0","3546","39:31.3","000000001A416033","0","www.tukwila.wednet.edu",,"4640 S 144TH ST
+,  "
+"142","A","SCH","407","0","N","RIVERVIEW SCHOOL DISTRICT NO. 407",,"407",,"CHERYL LAYMAN","OFFICE OF SUPERINTENDENT","CARNATION","WA",,"98014","4258444504",,"4258444502","laymanc@riverview.wednet.edu","0",,,,"N",,"N",,,"0","3547","40:04.8","000000001A416036","0","www.riverview.wednet.edu",,"32240 NE 50TH ST
+,  "
+"144","A","SCH","409","0","N","TAHOMA SCHOOL DISTRICT NO. 409",,"409",,"LINDA REED","OFFICE OF SUPERINTENDENT","MAPLE VALLEY","WA",,"98038","4254133403",,"4254133455","lreed@tahomasd.us","0",,,,"N",,"N",,,"0","3548","41:35.0","000000001A41603B","0","www.tahomasd.us",,"25720 MAPLE VALLEY-BLACK DIAMOND RD SE
+,  "
+"145","A","SCH","410","0","N","SNOQUALMIE VALLEY SCHOOL DISTRICT # 410",,"410",,"JOEL AUNE","OFFICE OF SUPERINTENDENT","SNOQUALMIE","WA",,"98065","4258318007",,"4258318040","aunej@svsd410.org","0",,,,"N",,"N",,,"0","3549","42:06.8","000000001A41603C","0","www.svsd410.org",,"PO BOX 400
+,  "
+"147","A","SCH","412","0","N","SHORELINE SCHOOL DISTRICT NO. 412",,"412",,"KATHIE SCHINDLER","OFFICE OF SUPERINTENDENT","SHORELINE","WA",,"98155","2063934203",,"2063934204","kathie.schindler@shorelineschools.org","0",,,,"N",,"N",,,"0","3550","42:55.0","000000001A416040","0","www.shorelineschools.org",,"18560 1ST AVE NE
+,  "
+"149","A","SCH","415","0","N","KENT SCHOOL DISTRICT NO. 415",,"415",,"CATHY EVERETT","OFFICE OF SUPERINTENDENT","KENT","WA",,"98030","2533737701",,"2533737231","cathy.everett@kent.k12.wa.us","0",,,,"N",,"N",,,"0","3551","43:21.9","000000001A416041","0","www.kent.k12.wa.us",,"12033 SE 256TH ST
+,  "
+"150","A","SCH","417","0","N","NORTHSHORE SCHOOL DISTRICT NO. 417",,"417",,"JAN OTT","OFFICE OF SUPERINTENDENT","BOTHELL","WA",,"98021","4254087701",,"4254087702","jott@nsd.org","0",,,,"N",,"N",,,"0","3552","43:45.1","000000001A416043","0","www.nsd.org",,"3330 MONTE VILLA PKWY
+,  "
+"151","A","SCH","888","0","N","FIFE SCHOOL DISTRICT NO. 417",,"888",,"HEIDI JOYNER","OFFICE OF SUPERINTENDENT","TACOMA","WA",,"98424","2535171000",,"2535171052","hjoyner@fife.k12.wa.us","0",,,,"N",,"N",,,"0","3553","44:23.5","000000001A416048","0","www.fifeschools.com",,"5802 20TH ST E
+,  "
+"59","A","FIR","2","0","N","KING COUNTY FIRE PROTECTION DISTRICT 2",,"2",,"DIANE BROOKS",,"BURIEN","WA",,"98166","2062420000000",,"2064336042","dbrooks@burienfire.org","0",,,,"N",,"N",,,"0","3554","45:23.0","000000001A416051","0","www.burienfire.org",,"15100 8TH AVE SW
+,  "
+"61","A","FIR","10","0","N","KING COUNTY FIRE PROTECTION DISTRICT 10",,"10",,"DEBBIE GOBER-BENEZE",,"ISSAQUAH","WA",,"98027","4253923433",,"4253918764","dgoberbeneze@esf-r.org","0",,,,"N",,"N",,,"0","3556","50:22.2","000000001A416063","0","www.eastsidefire-rescue.org",,"175 NEWPORT WAY NW
+,  "
+"63","A","FIR","13","0","N","VASHON ISLAND FIRE AND RESCUE",,"13",,"SUSAN WOLF",,"VASHON ISLAND","WA",,"98070","2064630000000",,"2064632954","swolf@vifr.org","0",,,,"N",,"N",,,"0","3557","50:52.7","000000001A416065","0","www.vifr.org",,"PO BOX 1150
+,  "
+"65","A","FIR","16","0","N","KING COUNTY FIRE PROTECTION DISTRICT 16",,"16",,"ANDREA MCDANIEL",,"KENMORE","WA",,"98028","4254862784",,"4254836598","amcdaniel@northshorefire.com","0",,,,"N",,"N",,,"0","3558","51:20.3","000000001A416068","0","www.northshorefire.com",,"18030 73RD AVENUE NE
+,  "
+"71","A","FIR","27","0","N","KING COUNTY FIRE PROTECTION DISTRICT 27",,"27",,"MELINDA EVANS",,"FALL CITY","WA",,"98024","4252225841",,"4252224566","mevans@king27fire.com","0",,,,"N",,"N",,,"0","3560","52:29.9","000000001A41606F","0","www.king27fire.com",,"PO BOX 609
+,  "
+"72","A","FIR","28","0","N","KING COUNTY FIRE PROTECTION DISTRICT 28",,"28",,"PAMELA WIK",,"ENUMCLAW","WA",,"98022","3608255544",,"3608259442","pwik@ci.enumclaw.wa.us","0",,,,"N",,"N",,,"0","3561","52:51.7","000000001A416070","0",,,"1330 WELLS ST
+,  "
+"78","A","FIR","39","0","N","SOUTH KING FIRE AND RESCUE",,"39",,"LAURI PERRY",,"FEDERAL WAY","WA",,"98003","2539467253",,"2535297205","lauri.perry@southkingfire.org","0",,,,"N",,"N",,,"0","3562","53:17.4","000000001A41607B","0","www.southkingfire.org",,"31617 1ST AVE S
+,  "
+"81","A","FIR","43","0","N","KING COUNTY FIRE PROTECTION DISTRICT 43",,"43",,"FAYE BARKER",,"MAPLE VALLEY","WA",,"98038","4254320200",,"4254132040","fayeb@maplevalleyfire.org","0",,,,"N",,"N",,,"0","3563","53:51.2","000000001A416084","0","www.maplevalleyfire.org",,"23775 SE 264TH ST
+,  "
+"82","A","FIR","44","0","N","KING COUNTY FIRE PROTECTION DISTRICT 44",,"44",,"PAMELA RATCLIFFE",,"AUBURN","WA",,"980929217","2537350284",,"2537350287","pratcliffe@kcfd44.org","0",,,,"N",,"N",,,"0","3564","54:24.0","000000001A41608F","0","www.kcfd44.org",,"32316 148TH AVE SE
+,  "
+"83","A","FIR","45","0","N","KING COUNTY FIRE PROTECTION DISTRICT 45",,"45",,"ROSA FUQUAY",,"DUVALL","WA",,"98019","4257881625",,"4257880199","rfuquay@duvallfire45.com","0",,,,"N",,"N",,,"0","3565","54:47.2","000000001A416090","0","www.duvallfire45.com",,"PO BOX 338
+,  "
+"84","A","FIR","47","0","N","KING COUNTY FIRE PROTECTION DISTRICT 47",,"47",,"ANITA KOCH",,"RAVENSDALE","WA",,"98051","3608861915",,,"fire47@gmail.com","0",,,,"N",,"N",,,"0","3566","55:12.8","000000001A416091","0",,,"PO BOX 206
+,  "
+"85","A","FIR","50","0","N","KING COUNTY FIRE PROTECTION DISTRICT 50",,"50",,"SANDRA CLIFTON",,"SKYKOMISH","WA",,"98288","3606772686",,"3606772574","clifton.sandy@gmail.com","0",,,,"N",,"N",,,"0","3567","55:36.6","000000001A416096","0",,,"PO BOX 311
+,  "
+"62","A","FIR","11","0","N","NORTH HIGHLINE FIRE DISTRICT",,"11",,"CHARLOTTE RYAN",,"SEATTLE","WA",,"98146","2062430330",,"2062448418","office@northhighlinefd.org","0",,,,"N",,"N",,,"0","3568","55:58.5","000000001A41609A","0","www.northhighlinefd.org",,"1243 SW 112TH ST
+,  "
+"169","A","WTR","1","0","N","COAL CREEK UTILITY DISTRICT",,"CCU",,"PAM NELSON",,"NEWCASTLE","WA",,"98059","4252359200",,"4252287429","pnelson@ccud.org","0",,,,"N",,"N",,,"0","3571","57:41.2","000000001A4160AA","0","www.ccud.org",,"6801 132ND PL SE
+,  "
+"170","A","WTR","2","0","N","COVINGTON WATER DISTRICT",,"COV",,"GWENN MAXFIELD",,"COVINGTON","WA",,"98042","2536310565",,"2536315823","gwenn.maxfield@covingtonwater.com","0",,,,"N",,"N",,,"0","3572","58:15.5","000000001A4160B2","0","www.covingtonwater.com",,"18631 SE 300TH PL
+,  "
+"172","A","WTR","4","0","N","HIGHLINE WATER DISTRICT",,"HLWD",,"DEBRA PRIOR",,"KENT","WA",,"98089","2065928906",,"2068240806","dprior@highlinewater.org","0",,,,"N",,"N",,,"0","3573","58:42.7","000000001A4160B5","0","www.highlinewater.org",,"PO BOX 3867
+,  "
+"177","A","WTR","19","0","N","KING COUNTY WATER DISTRICT NO. 19",,"19",,"MELODY SNYDER",,"VASHON ISLAND","WA",,"98070","2064639007",,"2064631262","mjsnyder@water19.com","0",,,,"N",,"N",,,"0","3574","59:19.3","000000001A4160B8","0","www.water19.com",,"PO BOX T
+,  "
+"178","A","WTR","20","0","N","KING COUNTY WATER DISTRICT NO. 20",,"20",,"LISA GEE",,"BURIEN","WA",,"98168","2062433990",,"2062447514","lisag@kcwd20.com","0",,,,"N",,"N",,,"0","3575","59:54.6","000000001A4160BA","0","www.kcwd20.com",,"12606 1ST AVENUE SOUTH
+,  "
+"180","A","WTR","49","0","N","KING COUNTY WATER DISTRICT NO. 49",,"49",,"MIKE HARRIS",,"SEATTLE","WA",,"98166","2062428535",,"2062445211","mharris@wd49.com","0",,,,"N",,"N",,,"0","3576","00:13.1","000000001A4160BC","0",,,"415 SW 153RD ST
+,  "
+"182","A","WTR","90","0","N","KING COUNTY WATER DISTRICT NO. 90",,"90",,"DARCEY PETERSON",,"RENTON","WA",,"98059","4252559600",,"4252774128","darceyp@kcwd90.com","0",,,,"N",,"N",,,"0","3577","00:43.6","000000001A4160BE","0","www.kcwd90.com",,"15606 SE 128TH ST
+,  "
+"183","A","WTR","111","0","N","KING COUNTY WATER DISTRICT NO. 111",,"111",,"JOAN OLSEN",,"KENT","WA",,"98042","2536313770",,"2536318072","joan@wd111.com","0",,,,"N",,"N",,,"0","3578","01:08.8","000000001A4160BF","0","www.wd111.com",,"27224 144TH AVE SE
+,  "
+"184","A","WTR","117","0","N","KING COUNTY WATER DISTRICT NO. 117",,"117",,"ABBY ISMOND",,"BELLEVUE","WA",,"98006","4253735237",,"4253735239","aquaterra14841@aol.com","0",,,,"N",,"N",,,"0","3579","01:32.7","000000001A4160C0","0",,,"14841 SE 54TH ST
+,  "
+"185","A","WTR","119","0","N","KING COUNTY WATER DISTRICT NO. 119",,"119",,"ROXANNE HELLER",,"DUVALL","WA",,"98019","4257882885",,"4257886787","kcwd119@gmail.com","0",,,,"N",,"N",,,"0","3580","02:05.3","000000001A4160C2","0",,,"PO BOX 520
+,  "
+"187","A","WTR","125","0","N","KING COUNTY WATER DISTRICT NO. 125",,"125",,"SHANE YOUNG",,"SEATTLE","WA",,"981680147","2062429547",,"2062481744","office@waterdistrict125.com","0",,,,"N",,"N",,,"0","3581","02:33.3","000000001A4160C4","0","www.waterdistrict125.com",,"PO BOX 68147
+,  "
+"175","A","WTR","7","0","N","WOODINVILLE WATER DISTRICT",,"WDNW",,"JOE HORVATH",,"WOODINVILLE","WA",,"98072","4254874120",,"4254830327","jhorvath@woodinvillewater.com","0",,,,"N",,"N",,,"0","3582","02:57.1","000000001A4160C9","0","www.woodinvillewater.com",,"PO BOX 1390
+,  "
+"127","A","S/W","127","0","N","LAKEHAVEN UTILITY DISTRICT",,"LHU",,"LISA ALEXANDER",,"FEDERAL WAY","WA",,"980634249","2539465420",,"2538399310","lalexander@lakehaven.org","0",,,,"N",,"N",,,"0","3584","04:17.6","000000001A4160CE","0","www.lakehaven.org",,"PO BOX 4249
+,  "
+"128","A","S/W","128","0","N","NORTHEAST SAMMAMISH SEWER & WATER DIST",,"NSSW",,"JUDI DALZIEL",,"SAMMAMISH","WA",,"98074","4258681144",,"4258684005","judi@nesswd.org","0",,,,"N",,"N",,,"0","3585","04:43.3","000000001A4160D1","0","www.nesswd.org",,"3600 SAHALEE WY NE
+,  "
+"129","A","S/W","129","0","N","NORTHSHORE UTILITY DISTRICT",,"NSU",,"ALY COCKBAIN",,"KENMORE","WA",,"98028","4253984416",,"4253984407","alliec@nud.net","0",,,,"N",,"N",,,"0","3586","05:14.9","000000001A4160D6","0","www.nud.net",,"PO BOX 82489
+,  "
+"162","A","SEW","162","0","N","RONALD WASTEWATER DISTRICT",,"RON",,"MICHAEL U. DERRICK",,"SHORELINE","WA",,"98133","2065462494",,"2065468110","mderrick@ronaldwastewater.org","0",,,,"N",,"N",,,"0","3587","05:51.9","000000001A4160D8","0","www.ronaldwastewater.org",,"PO BOX 33490
+,  "
+"131","A","S/W","131","0","N","SKYWAY WATER AND SEWER DISTRICT",,"SKWS",,"CHERYL SCHEUERMAN",,"SEATTLE","WA",,"98178","2067727343",,"2067725860","cheryls@skywayws.org","0",,,,"N",,"N",,,"0","3588","06:57.7","000000001A4160DF","0","www.skywayws.org",,"6723 S 124TH ST
+,  "
+"130","A","S/W","130","0","N","SOOS CREEK WATER AND SEWER DISTRICT",,"SCWS",,"LINDA SWANSON",,"RENTON","WA",,"98058","2536310000000",,"2536305289","lswanson@sooscreek.com","0",,,,"N",,"N",,,"0","3589","07:21.7","000000001A4160E1","0","www.sooscreek.com",,"PO BOX 58039
+,  "
+"166","A","SEW","166","0","N","SOUTHWEST SUBURBAN SEWER DISTRICT",,"SWS",,"SANDY GOULET",,"BURIEN","WA",,"98166","2062449575",,,"sandy@SWSSD.com","0",,,,"N",,"N",,,"0","3590","07:49.0","000000001A4160E5","0","www.swssd.com",,"431 SW AMBAUM BLVD
+,  "
+"117","A","MUN","117","0","N","EAST BELLEVUE COMMUNITY MUNICIPAL CORP",,"EBMC",,"MICHELLE MURPHY","DEPUTY CITY CLERK","BELLEVUE","WA",,"98004","4254526466",,,"mmurphy@bellevuewa.gov","0",,,,"N",,"N",,,"0","3591","08:31.1","000000001A4160E8","0","www.bellevuewa.gov/EBCC_Homepage.htm",,"450 110TH AVE NE
+,  "
+"118","A","MUN","118","0","N","HOUGHTON COMMUNITY MUNICIPAL CORP",,"HCMC",,"KATHI ANDERSON","CITY CLERK","KIRKLAND","WA",,"98033","4255873197",,"4255873198","kanderson@ci.kirkland.wa.us","0",,,,"N",,"N",,,"0","3592","08:58.5","000000001A4160EA","0","www.ci.kirkland.wa.us",,"123 5TH AVE
+,  "
+"87","A","HSP","1","0","N","PUBLIC HOSPITAL DISTRICT NO. 1",,"1",,"SANDRA SWARD",,"RENTON","WA",,"98055","4256565312",,"4256564042","sandra_sward@valleymed.org","0",,,,"N",,"N",,,"0","3593","09:30.1","000000001A4160EB","0","www.valleymed.org",,"400 S 43RD ST
+,  "
+"88","A","HSP","2","0","N","PUBLIC HOSPITAL DISTRICT NO. 2",,"2",,"LAURENE BURTON",,"KIRKLAND","WA",,"98034","4258992667",,"4258992624","lhburton@evergreenhealthcare.org","0",,,,"N",,"N",,,"0","3594","10:05.8","000000001A4160ED","0","www.evergreenhospital.org",,"12040 NE 128TH ST
+,  "
+"8875","A","PRK","8","0","N","FALL CITY METROPOLITAN PARK DISTRICT",,"FCPD",,"TERRI CAMPBELL",,"FALL CITY","WA",,"98025","4257651241",,"4252223607","terri.campbell@fallcityparks.org","0",,,,"N",,"N",,,"0","3595","10:55.6","000000001A4160F2",,"www.fallcityparks.org",,"PO BOX 1180
+,  "
+"124","A","PRK","6","0","N","SI VIEW METROPOLITAN PARK DISTRICT",,"SVMP",,"TRAVIS STOMBAUGH",,"NORTH BEND","WA",,"98045","4258311900",,"4258311442","tstombaugh@siviewpark.org","0",,,,"N",,"N",,,"241045","3596","11:23.5","000000001A4160F5","0","www.siviewpark.org",,"PO BOX 346
+,  "
+"125","A","PRK","7","0","N","VASHON-MAURY ISLAND PARK & REC DISTRICT",,"VMPR",,"CYNTHIA PRINGLE-CAPIFONI",,"VASHON","WA",,"98070","2064639602",,"2064639614","cpringle@vashonparkdistrict.org","0",,,,"N",,"N",,,"0","3597","11:51.3","000000001A4160F7","0","www.vashonparkdistrict.org",,"PO BOX 1608
+,  "
+"174","A","WTR","6","0","N","SHORELINE WATER DISTRICT",,"SHWD",,"MARY ODAY",,"SHORELINE","WA",,"98155","2063628100",,"2063610629","maryo@shorelinewater.org","0",,,,"N",,"N",,,"0","3598","22:21.6","000000001A416121","0","www.shorelinewater.org",,"PO BOX 55367
+,  "
+"143","A","SCH","408","0","N","AUBURN SCHOOL DISTRICT NO. 408",,"408",,"RUTH JOHNS","OFFICE OF SUPERINTENDENT","AUBURN","WA",,"98002","2539314917",,"2539318006","rjohns@auburn.wednet.edu","0",,,,"N",,"N",,,"0","3599","58:09.9","000000001A42D633","0","www.auburn.wednet.edu",,"915 4TH ST NE
+,  "
+"140","A","SCH","405","0","N","BELLEVUE SCHOOL DISTRICT NO. 405",,"405",,"AMALIA CUDEIRO","OFFICE OF SUPERINTENDENT","BELLEVUE","WA",,"98005","4254564172",,"4254564176","cudeiroa@bsd405.org","0",,,,"N",,"N",,,"0","3600","11:33.7","000000001A45C932","0","www.bsd405.org",,"12111 1ST ST
+,  "
+"19","A","CI","1","0","N","CITY OF ALGONA",,"AL",,"DIANA QUINN","CITY ADMINISTRATOR","ALGONA","WA",,"98001","2538332897",,"2539393366","dianaq@algonawa.gov","0",,,,"N",,"N",,,"0","3601","59:26.1","000000001A52D54D","0","www.algonawa.gov",,"402 WARDE ST
+,  "
+"20","A","CI","2","0","N","CITY OF AUBURN",,"AU",,"DANI DASKAM","CITY CLERK","AUBURN","WA",,"98001","2539313037",,"2538043116","ddaskam@auburnwa.gov","0",,,,"N",,"N",,,"0","3602","00:19.5","000000001A52D557","0","www.auburnwa.gov",,"25 W MAIN ST
+,  "
+"22","A","CI","4","0","N","CITY OF BELLEVUE",,"BE",,"MYRNA BASICH","CITY CLERK","BELLEVUE","WA",,"980099012","4254522733",,,"mbasich@bellevuewa.gov","0",,,,"N",,"N",,,"0","3603","02:12.7","000000001A52D55B","0","www.bellevuewa.gov",,"PO BOX 90012
+,  "
+"41","A","CI","23","0","N","CITY OF MERCER ISLAND",,"MI",,"ALI SPIETZ","CITY CLERK","MERCER ISLAND","WA",,"98040","2062757793",,"2062757663","ali.spietz@mercergov.org","0",,,,"N",,"N",,,"0","3605","13:34.7","000000001A52D562","0","www.mercergov.org",,"9611 SE 36TH ST
+,  "
+"42","A","CI","24","0","N","CITY OF MILTON",,"ML",,"AMY STEVENSON-NESS","DEPUTY CITY CLERK","MILTON","WA",,"98354","2535172705",,"2539223466","astevenson@cityofmilton.net","0",,,,"N",,"N",,,"0","3606","15:58.4","000000001A52D567","0","www.cityofmilton.net",,"1000 LAUREL ST
+,  "
+"44","A","CI","26","0","N","CITY OF NORTH BEND",,"NB",,"SUSIE OPPEDAL","DEPUTY CITY CLERK","NORTH BEND","WA",,"98045","4258887828",,"4258316200","soppedal@northbendwa.gov","0",,,,"N",,"N",,,"0","3607","17:15.0","000000001A52D568","0","www.northbendwa.gov",,"PO BOX 896
+,  "
+"50","A","CI","32","0","N","CITY OF SAMMAMISH",,"SA",,"MELONIE ANDERSON","CITY CLERK","SAMMAMISH","WA",,"98075","4252950511",,"4252950600","manderson@ci.sammamish.wa.us","0",,,,"N",,"N",,,"0","3608","21:00.3","000000001A52D569","0","www.ci.sammamish.wa.us",,"801 228TH AVE SE
+,  "
+"54","A","CI","36","0","N","CITY OF SNOQUALMIE",,"SN",,"JODI WARREN","CITY CLERK","SNOQUALMIE","WA",,"98065","42588800000000",,"4258316041","jwarren@ci.snoqulmie.wa.us","0",,,,"N",,"N",,,"0","3609","21:29.1","000000001A52D56A","0","www.ci.snoqualmie.wa.us",,"PO BOX 987
+,  "
+"8881","A","CI","38","0","N","CITY OF TUKWILA",,"TU",,"CHRISTY OFLAHERTY","CITY CLERK","TUKWILA","WA",,"98188","2064331805",,"2064331833","christy@ci.tukwila.wa.us","0",,,,"N",,"N",,,"0","3610","21:58.1","000000001A52D56B",,"www.ci.tukwila.wa.us",,"6200 SOUTHCENTER BLVD
+,  "
+"58","A","CI","40","0","N","TOWN OF YARROW POINT",,"YR",,"SARA MCMILLON","CITY CLERK-TREASURER","YARROW POINT","WA",,"98004","4254546994",,"4254547899","clerk-treasurer@ci.yarrow-point.wa.us","0",,,,"N",,"N",,,"0","3611","22:45.5","000000001A52D56C","0","www.ci.yarrow-point.wa.us/",,"4030 95TH AVE NE
+,  "
+"146","A","SCH","411","0","N","ISSAQUAH SCHOOL DISTRICT NO. 411",,"411",,"LORRAINE MORTON","OFFICE OF SUPERINTENDENT","ISSAQUAH","WA",,"98027","4258377002",,,"mortonl@issaquah.wednet.edu","0",,,,"N",,"N",,,"0","3612","26:04.1","000000001A52D56D","0","www.issaquah.wednet.edu",,"565 NW HOLLY ST
+,  "
+"60","A","FIR","4","0","N","SHORELINE FIRE DEPARTMENT",,"4",,"MARK BUNJE","FIRE CHIEF","SHORELINE","WA",,"98133","2065336500",,"2065465719","mbunje@shorelinefire.com","0",,,,"N",,"N",,,"0","3613","28:27.1","000000001A52D56E","0","www.shorelinefire.com",,"17525 AURORA AVE N
+,  "
+"64","A","FIR","14","0","N","KING COUNTY FIRE PROTECTION DISTRICT 14",,"14",,"NANCY REILLY",,"BELLEVUE","WA",,"980064541","4257477797",,"4257476775","nancy@ncraccounting.com","0",,,,"N",,"N",,,"0","3614","29:27.1","000000001A52D56F","0",,,"4216 FACTORIA BLVD SE
+,  "
+"67","A","FIR","20","0","N","KING COUNTY FIRE PROTECTION DISTRICT 20",,"20",,"SHARON GREER",,"SEATTLE","WA",,"98178","2067721430",,"2067726095","sgreer@kcfd20.org","0",,,,"N",,"N",,,"0","3615","30:09.3","000000001A52D570","0","www.kcfd20.org",,"12424 76TH AVE S
+,  "
+"69","A","FIR","25","0","N","KING COUNTY FIRE PROTECTION DISTRICT 25",,"25",,"JULIE BRAY",,"RENTON","WA",,"98057","4254307100",,"4254307199","jbray@rentonwa.gov","0",,,,"N",,"N",,,"0","3616","34:59.9","000000001A52D571","0",,,"1900 LIND AVE SW
+,  "
+"74","A","FIR","34","0","N","KING COUNTY FIRE PROTECTION DISTRICT 34",,"34",,"BRIDGET WEAVER",,"REDMOND","WA",,"98052","4255562226",,"4255662227","b.weaver@kcfd34.org","0",,,,"N",,"N",,,"0","3617","35:52.2","000000001A52D572","0","www.kcfd34.org",,"8450 161ST AVE NE
+,  "
+"76","A","FIR","37","0","N","KING COUNTY FIRE PROTECTION DISTRICT 37",,"37",,"DEANNA GRATZER",,"KENT","WA",,"98032","2538564300",,,"dgratzer@ci.kent.wa.us","0",,,,"N",,"N",,,"0","3618","36:27.7","000000001A52D573","0",,,"24611 116TH AVE SE
+,  "
+"79","A","FIR","40","0","N","KING COUNTY FIRE PROTECTION DISTRICT 40",,"40",,"DEANNA GRATZER",,"RENTON","WA",,"98055","4252550931",,,"dlynnd@comcast.net","0",,,,"N",,"N",,,"0","3619","37:08.5","000000001A52D574","0",,,"18002 108TH AVE SE
+,  "
+"171","A","WTR","3","0","N","FALL CITY WATER DISTRICT",,"FCW",,"TERRI DIVERS",,"FALL CITY","WA",,"98024","4252227882",,"4252229490","fcw@isomedia.com","0",,,,"N",,"N",,,"0","3620","39:45.4","000000001A52D575","0",,,"PO BOX 1059
+,  "
+"176","A","WTR","8","0","N","KING COUNTY WATER DISTRICT NO. 1",,"1",,"BOB TRIMBLE",,"YARROW POINT","WA",,"980041301","4254500791",,"4254500793","trimble@msn.com","0",,,,"N",,"N",,,"0","3621","40:31.0","000000001A52D576","0",,,"4640 95TH AVE NE
+,  "
+"179","A","WTR","45","0","N","KING COUNTY WATER DISTRICT NO. 45",,"45",,"JERRY L. HARRIS",,"SEATTLE","WA",,"98146","2067623540",,"2067680581","waterdistrict45@comcast.net","0",,,,"N",,"N",,,"0","3622","41:52.5","000000001A52D577","0",,,"10059 8TH AVE SW
+,  "
+"38","A","CI","20","0","N","CITY OF KENMORE",,"KM",,"LYNN SUSKIN","CITY CLERK","KENMORE","WA",,"98028","4253988900",,"4254813236","lsuskin@kenmorewa.gov","0",,,,"N",,"N",,,"0","3623","03:42.2","000000001A5B1CA9","0","www.cityofkenmore.com",,"18120 68TH AVE NE
+,  "
+"68","A","FIR","24","0","N","KING COUNTY FIRE PROTECTION DISTRICT 24",,"24",,"CHRISTOPHER A. BAUER",,"KENT","WA",,"98032","2062614351",,,"chrisabauer@hotmail.com","0",,,,"N",,"N",,,"0","3624","04:19.4","000000001A5B1CE0","0",,,"4301 S 200TH ST
+,  "
+"77","A","FIR","38","0","N","KING COUNTY FIRE PROTECTION DISTRICT 38",,"38",,"TRINA PARSONS",,"NORTH BEND","WA",,"98045","4258317262",,"4258887144","kcfiredistrict38@comcast.net","0",,,,"N",,"N",,,"0","3625","04:54.0","000000001A5B1CE5","0","www.eastsidefire-rescue.org",,"PO BOX 44
+,  "
+"120","A","PRK","2","0","N","FINN HILL PARK AND RECREATION DISTRICT",,"FHPD",,"KRISTEN LLOYD",,"KIRKLAND","WA",,"98083","4254449699",,,"klloyd57@comcast.net","0",,,,"N",,"N",,,"0","3626","05:31.0","000000001A5B1D1B","0","www.finnhillparks.net",,"PO BOX 2792
+,  "
+"75","A","FIR","36","0","N","WOODINVILLE FIRE & RESCUE",,"36",,"MARGENE MICHAEL",,"WOODINVILLE","WA",,"98072","4254837907",,,"mmichael@wf-r.org","0",,,,"N",,"N",,,"0","3629","53:25.0","000000001AA72C6D","0","www.wf-r.org",,"PO BOX 2200
+,  "
+"11435","A","PRK","10","0","N","TUKWILA POOL METROPOLITAN PARK DISTRICT",,"TPMP",,,,,,,,,,,,"0",,,,"N",,"N",,,"0","3633","11:17.4","000000001B5FD8E0",,,,
+"8873","A","MS2","8873","0","N","PROPOSED WEST HILL ANNEXATION TO RENTON",,"PWHA",,,,,,,,,,,,"0",,"1/1/1900 0:00",,"N",,"N",,,"0","3636","35:11.5","000000001DA8B329",,,,
+"13651","A","PCO","3268",,"N","PRECINCT PLAINS PCO","PCO 3268","PCO 3268",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB8A",,,,
+"13411","A","PCO","2933",,"N","PRECINCT KIR 45-2933 PCO","PCO 2933","PCO 2933",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA99",,,,
+"11893","A","PCO","741",,"N","PRECINCT MAY VALLEY PCO","PCO 0741","PCO 0741",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4A4",,,,
+"12140","A","PCO","1116",,"N","PRECINCT BUR 34-1116 PCO","PCO 1116","PCO 1116",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A59D",,,,
+"13447","A","PCO","2984",,"N","PRECINCT HUCKLEBERRY PCO","PCO 2984","PCO 2984",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AABD",,,,
+"12570","A","PCO","1677",,"N","PRECINCT SEA 36-1677 PCO","PCO 1677","PCO 1677",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A74D",,,,
+"12913","A","PCO","2162",,"N","PRECINCT SEA 36-2162 PCO","PCO 2162","PCO 2162",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8A5",,,,
+"12284","A","PCO","1329",,"N","PRECINCT SEA 36-1329 PCO","PCO 1329","PCO 1329",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A62E",,,,
+"12834","A","PCO","2027",,"N","PRECINCT SEA 43-2027 PCO","PCO 2027","PCO 2027",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A856",,,,
+"12749","A","PCO","1911",,"N","PRECINCT SEA 37-1911 PCO","PCO 1911","PCO 1911",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A801",,,,
+"13700","A","PCO","3326",,"N","PRECINCT BROOKSHIRE PCO","PCO 3326","PCO 3326",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABBB",,,,
+"12057","A","PCO","989",,"N","PRECINCT RNT 41-0989 PCO","PCO 0989","PCO 0989",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A549",,,,
+"13127","A","PCO","2501",,"N","PRECINCT SEA 34-2501 PCO","PCO 2501","PCO 2501",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A97C",,,,
+"12585","A","PCO","1696",,"N","PRECINCT SEA 36-1696 PCO","PCO 1696","PCO 1696",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A75C",,,,
+"12966","A","PCO","2272",,"N","PRECINCT SEA 46-2272 PCO","PCO 2272","PCO 2272",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8DA",,,,
+"13342","A","PCO","2791",,"N","PRECINCT SAM 45-2791 PCO","PCO 2791","PCO 2791",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA54",,,,
+"12659","A","PCO","1780",,"N","PRECINCT SEA 43-1780 PCO","PCO 1780","PCO 1780",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7A6",,,,
+"11877","A","PCO","702",,"N","PRECINCT MCDIVITT PCO","PCO 0702","PCO 0702",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A494",,,,
+"12272","A","PCO","1314",,"N","PRECINCT SEA 46-1314 PCO","PCO 1314","PCO 1314",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A622",,,,
+"12717","A","PCO","1872",,"N","PRECINCT SEA 37-1872 PCO","PCO 1872","PCO 1872",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7E0",,,,
+"11613","A","PCO","270",,"N","PRECINCT KEN 33-0270 PCO","PCO 0270","PCO 0270",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A38B",,,,
+"12617","A","PCO","1734",,"N","PRECINCT SEA 36-1734 PCO","PCO 1734","PCO 1734",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A77C",,,,
+"13071","A","PCO","2409",,"N","PRECINCT ISS 41-2409 PCO","PCO 2409","PCO 2409",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A944",,,,
+"12438","A","PCO","1498",,"N","PRECINCT SEA 34-1498 PCO","PCO 1498","PCO 1498",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6C8",,,,
+"12416","A","PCO","1472",,"N","PRECINCT SEA 34-1472 PCO","PCO 1472","PCO 1472",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6B2",,,,
+"13543","A","PCO","3091",,"N","PRECINCT FED 30-3091 PCO","PCO 3091","PCO 3091",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB1E",,,,
+"13554","A","PCO","3104",,"N","PRECINCT SET 33-3104 PCO","PCO 3104","PCO 3104",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB29",,,,
+"12008","A","PCO","919",,"N","PRECINCT PRESTON PCO","PCO 0919","PCO 0919",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A518",,,,
+"13589","A","PCO","3186",,"N","PRECINCT FALCON PCO","PCO 3186","PCO 3186",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB4C",,,,
+"13584","A","PCO","3174",,"N","PRECINCT KEN 33-3174 PCO","PCO 3174","PCO 3174",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB47",,,,
+"13357","A","PCO","2816",,"N","PRECINCT RNT 11-2816 PCO","PCO 2816","PCO 2816",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA63",,,,
+"13379","A","PCO","2861",,"N","PRECINCT SEA 37-2861 PCO","PCO 2861","PCO 2861",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA79",,,,
+"12702","A","PCO","1855",,"N","PRECINCT SEA 43-1855 PCO","PCO 1855","PCO 1855",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7D1",,,,
+"13279","A","PCO","2708",,"N","PRECINCT KEN 47-2708 PCO","PCO 2708","PCO 2708",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA15",,,,
+"12881","A","PCO","2100",,"N","PRECINCT SEA 46-2100 PCO","PCO 2100","PCO 2100",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A885",,,,
+"13320","A","PCO","2763",,"N","PRECINCT LFP 46-2763 PCO","PCO 2763","PCO 2763",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA3E",,,,
+"13015","A","PCO","2332",,"N","PRECINCT SEA 46-2332 PCO","PCO 2332","PCO 2332",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A90C",,,,
+"13243","A","PCO","2651",,"N","PRECINCT ROSE PCO","PCO 2651","PCO 2651",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9F0",,,,
+"13511","A","PCO","3053",,"N","PRECINCT FED 30-3053 PCO","PCO 3053","PCO 3053",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AAFD",,,,
+"11727","A","PCO","462",,"N","PRECINCT SHL 32-0462 PCO","PCO 0462","PCO 0462",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3FD",,,,
+"12807","A","PCO","1993",,"N","PRECINCT SEA 43-1993 PCO","PCO 1993","PCO 1993",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A83B",,,,
+"12353","A","PCO","1406",,"N","PRECINCT SEA 43-1406 PCO","PCO 1406","PCO 1406",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A673",,,,
+"11595","A","PCO","239",,"N","PRECINCT B-D 05-0239 PCO","PCO 0239","PCO 0239",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A379",,,,
+"12977","A","PCO","2286",,"N","PRECINCT SEA 46-2286 PCO","PCO 2286","PCO 2286",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8E5",,,,
+"13660","A","PCO","3279",,"N","PRECINCT COV 47-3279 PCO","PCO 3279","PCO 3279",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB93",,,,
+"12485","A","PCO","1558",,"N","PRECINCT SEA 37-1558 PCO","PCO 1558","PCO 1558",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6F7",,,,
+"12094","A","PCO","1040",,"N","PRECINCT KIR 45-1040 PCO","PCO 1040","PCO 1040",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A56E",,,,
+"12157","A","PCO","1146",,"N","PRECINCT DES 33-1146 PCO","PCO 1146","PCO 1146",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5AE",,,,
+"11581","A","PCO","220",,"N","PRECINCT BEL 41-0220 PCO","PCO 0220","PCO 0220",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A36B",,,,
+"11876","A","PCO","701",,"N","PRECINCT BUR 33-0701 PCO","PCO 0701","PCO 0701",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A493",,,,
+"12279","A","PCO","1323",,"N","PRECINCT SEA 36-1323 PCO","PCO 1323","PCO 1323",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A629",,,,
+"11497","A","PCO","102",,"N","PRECINCT BEL 41-0102 PCO","PCO 0102","PCO 0102",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A317",,,,
+"13711","A","PCO","3338",,"N","PRECINCT HERON PCO","PCO 3338","PCO 3338",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABC6",,,,
+"13147","A","PCO","2524",,"N","PRECINCT SEA 36-2524 PCO","PCO 2524","PCO 2524",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A990",,,,
+"12141","A","PCO","1117",,"N","PRECINCT STAR LAKE PCO","PCO 1117","PCO 1117",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A59E",,,,
+"13088","A","PCO","2444",,"N","PRECINCT KMR 46-2444 PCO","PCO 2444","PCO 2444",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A955",,,,
+"12563","A","PCO","1667",,"N","PRECINCT SEA 36-1667 PCO","PCO 1667","PCO 1667",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A746",,,,
+"11766","A","PCO","532",,"N","PRECINCT DES 33-0532 PCO","PCO 0532","PCO 0532",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A425",,,,
+"13098","A","PCO","2457",,"N","PRECINCT KIR 01-2457 PCO","PCO 2457","PCO 2457",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A95F",,,,
+"13675","A","PCO","3298",,"N","PRECINCT SAM 45-3298 PCO","PCO 3298","PCO 3298",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABA2",,,,
+"12331","A","PCO","1382",,"N","PRECINCT SEA 36-1382 PCO","PCO 1382","PCO 1382",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A65D",,,,
+"12210","A","PCO","1235",,"N","PRECINCT BEL 41-1235 PCO","PCO 1235","PCO 1235",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A5E3",,,,
+"13230","A","PCO","2636",,"N","PRECINCT RED 48-2636 PCO","PCO 2636","PCO 2636",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9E3",,,,
+"11716","A","PCO","437",,"N","PRECINCT DES 33-0437 PCO","PCO 0437","PCO 0437",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3F2",,,,
+"11482","A","PCO","78",,"N","PRECINCT AUB 31-0078 PCO","PCO 0078","PCO 0078",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A308",,,,
+"12189","A","PCO","1203",,"N","PRECINCT COV 47-1203 PCO","PCO 1203","PCO 1203",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5CE",,,,
+"12427","A","PCO","1484",,"N","PRECINCT SEA 34-1484 PCO","PCO 1484","PCO 1484",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6BD",,,,
+"13579","A","PCO","3159",,"N","PRECINCT SEA 37-3159 PCO","PCO 3159","PCO 3159",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB42",,,,
+"12025","A","PCO","945",,"N","PRECINCT RED 48-0945 PCO","PCO 0945","PCO 0945",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A529",,,,
+"11803","A","PCO","590",,"N","PRECINCT KEN 33-0590 PCO","PCO 0590","PCO 0590",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A44A",,,,
+"11914","A","PCO","770",,"N","PRECINCT M-I 41-0770 PCO","PCO 0770","PCO 0770",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4B9",,,,
+"13066","A","PCO","2401",,"N","PRECINCT ISS 41-2401 PCO","PCO 2401","PCO 2401",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A93F",,,,
+"12543","A","PCO","1635",,"N","PRECINCT SEA 37-1635 PCO","PCO 1635","PCO 1635",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A732",,,,
+"13204","A","PCO","2599",,"N","PRECINCT KEN 47-2599 PCO","PCO 2599","PCO 2599",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9C9",,,,
+"13198","A","PCO","2592",,"N","PRECINCT SEA 36-2592 PCO","PCO 2592","PCO 2592",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9C3",,,,
+"12797","A","PCO","1977",,"N","PRECINCT SEA 46-1977 PCO","PCO 1977","PCO 1977",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A831",,,,
+"13528","A","PCO","3074",,"N","PRECINCT SET 33-3074 PCO","PCO 3074","PCO 3074",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB0F",,,,
+"12802","A","PCO","1984",,"N","PRECINCT SEA 43-1984 PCO","PCO 1984","PCO 1984",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A836",,,,
+"12358","A","PCO","1412",,"N","PRECINCT SEA 34-1412 PCO","PCO 1412","PCO 1412",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A678",,,,
+"12934","A","PCO","2216",,"N","PRECINCT SEA 32-2216 PCO","PCO 2216","PCO 2216",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8BA",,,,
+"11729","A","PCO","469",,"N","PRECINCT GLASGOW PCO","PCO 0469","PCO 0469",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3FF",,,,
+"11600","A","PCO","251",,"N","PRECINCT BUR 33-0251 PCO","PCO 0251","PCO 0251",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A37E",,,,
+"13498","A","PCO","3040",,"N","PRECINCT FED 30-3040 PCO","PCO 3040","PCO 3040",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AAF0",,,,
+"13611","A","PCO","3214",,"N","PRECINCT SAM 41-3214 PCO","PCO 3214","PCO 3214",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB62",,,,
+"13103","A","PCO","2465",,"N","PRECINCT M-I 41-2465 PCO","PCO 2465","PCO 2465",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A964",,,,
+"12448","A","PCO","1510",,"N","PRECINCT SEA 34-1510 PCO","PCO 1510","PCO 1510",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6D2",,,,
+"13325","A","PCO","2768",,"N","PRECINCT KIR 01-2768 PCO","PCO 2768","PCO 2768",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA43",,,,
+"12998","A","PCO","2311",,"N","PRECINCT SEA 46-2311 PCO","PCO 2311","PCO 2311",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8FA",,,,
+"11656","A","PCO","333",,"N","PRECINCT BEL 41-0333 PCO","PCO 0333","PCO 0333",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3B6",,,,
+"12225","A","PCO","1258",,"N","PRECINCT SEA 34-1258 PCO","PCO 1258","PCO 1258",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A5F2",,,,
+"12459","A","PCO","1521",,"N","PRECINCT SEA 34-1521 PCO","PCO 1521","PCO 1521",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6DD",,,,
+"11771","A","PCO","537",,"N","PRECINCT SHL 32-0537 PCO","PCO 0537","PCO 0537",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A42A",,,,
+"12406","A","PCO","1462",,"N","PRECINCT SEA 34-1462 PCO","PCO 1462","PCO 1462",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6A8",,,,
+"13557","A","PCO","3110",,"N","PRECINCT FED 30-3110 PCO","PCO 3110","PCO 3110",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB2C",,,,
+"11830","A","PCO","628",,"N","PRECINCT KIR 48-0628 PCO","PCO 0628","PCO 0628",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A465",,,,
+"12010","A","PCO","921",,"N","PRECINCT SHL 32-0921 PCO","PCO 0921","PCO 0921",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A51A",,,,
+"13172","A","PCO","2556",,"N","PRECINCT BEL 41-2556 PCO","PCO 2556","PCO 2556",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9A9",,,,
+"12253","A","PCO","1294",,"N","PRECINCT SEA 36-1294 PCO","PCO 1294","PCO 1294",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A60F",,,,
+"13458","A","PCO","2996",,"N","PRECINCT FED 30-2996 PCO","PCO 2996","PCO 2996",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAC8",,,,
+"13365","A","PCO","2839",,"N","PRECINCT AUB 47-2839 PCO","PCO 2839","PCO 2839",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA6B",,,,
+"12844","A","PCO","2043",,"N","PRECINCT SEA 43-2043 PCO","PCO 2043","PCO 2043",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A860",,,,
+"12654","A","PCO","1773",,"N","PRECINCT SEA 36-1773 PCO","PCO 1773","PCO 1773",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7A1",,,,
+"13352","A","PCO","2810",,"N","PRECINCT MATTHEW PCO","PCO 2810","PCO 2810",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA5E",,,,
+"11931","A","PCO","789",,"N","PRECINCT M-I 41-0789 PCO","PCO 0789","PCO 0789",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4CA",,,,
+"11978","A","PCO","861",,"N","PRECINCT SHL 32-0861 PCO","PCO 0861","PCO 0861",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A4F9",,,,
+"12538","A","PCO","1630",,"N","PRECINCT SEA 37-1630 PCO","PCO 1630","PCO 1630",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A72D",,,,
+"13130","A","PCO","2504",,"N","PRECINCT SEA 36-2504 PCO","PCO 2504","PCO 2504",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A97F",,,,
+"11465","A","PCO","50",,"N","PRECINCT AUB 31-0050 PCO","PCO 0050","PCO 0050",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2F6",,,,
+"11524","A","PCO","135",,"N","PRECINCT BEL 48-0135 PCO","PCO 0135","PCO 0135",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A332",,,,
+"13479","A","PCO","3021",,"N","PRECINCT FED 30-3021 PCO","PCO 3021","PCO 3021",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AADD",,,,
+"12316","A","PCO","1366",,"N","PRECINCT SEA 43-1366 PCO","PCO 1366","PCO 1366",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A64E",,,,
+"12770","A","PCO","1940",,"N","PRECINCT SEA 37-1940 PCO","PCO 1940","PCO 1940",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A816",,,,
+"13629","A","PCO","3234",,"N","PRECINCT FED 30-3234 PCO","PCO 3234","PCO 3234",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB74",,,,
+"13643","A","PCO","3260",,"N","PRECINCT AUB 47-3260 PCO","PCO 3260","PCO 3260",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB82",,,,
+"13310","A","PCO","2749",,"N","PRECINCT SEA 36-2749 PCO","PCO 2749","PCO 2749",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA34",,,,
+"12691","A","PCO","1841",,"N","PRECINCT SEA 37-1841 PCO","PCO 1841","PCO 1841",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7C6",,,,
+"13056","A","PCO","2383",,"N","PRECINCT ALPINE PCO","PCO 2383","PCO 2383",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A935",,,,
+"12866","A","PCO","2081",,"N","PRECINCT SEA 43-2081 PCO","PCO 2081","PCO 2081",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A876",,,,
+"12242","A","PCO","1279",,"N","PRECINCT SEA 43-1279 PCO","PCO 1279","PCO 1279",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A604",,,,
+"12649","A","PCO","1768",,"N","PRECINCT SEA 36-1768 PCO","PCO 1768","PCO 1768",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A79C",,,,
+"12670","A","PCO","1808",,"N","PRECINCT SEA 36-1808 PCO","PCO 1808","PCO 1808",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7B1",,,,
+"11556","A","PCO","180",,"N","PRECINCT BEL 41-0180 PCO","PCO 0180","PCO 0180",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A352",,,,
+"12817","A","PCO","2006",,"N","PRECINCT SEA 43-2006 PCO","PCO 2006","PCO 2006",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A845",,,,
+"13187","A","PCO","2575",,"N","PRECINCT SAM 45-2575 PCO","PCO 2575","PCO 2575",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9B8",,,,
+"13496","A","PCO","3038",,"N","PRECINCT FED 30-3038 PCO","PCO 3038","PCO 3038",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AAEE",,,,
+"11989","A","PCO","885",,"N","PRECINCT PAC 30-0885 PCO","PCO 0885","PCO 0885",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A505",,,,
+"12321","A","PCO","1371",,"N","PRECINCT SEA 43-1371 PCO","PCO 1371","PCO 1371",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A653",,,,
+"12792","A","PCO","1970",,"N","PRECINCT SEA 46-1970 PCO","PCO 1970","PCO 1970",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A82C",,,,
+"13262","A","PCO","2680",,"N","PRECINCT WOD 45-2680 PCO","PCO 2680","PCO 2680",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA04",,,,
+"12976","A","PCO","2285",,"N","PRECINCT SEA 46-2285 PCO","PCO 2285","PCO 2285",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8E4",,,,
+"12121","A","PCO","1085",,"N","PRECINCT SILVER SPURS PCO","PCO 1085","PCO 1085",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A58A",,,,
+"12453","A","PCO","1515",,"N","PRECINCT SEA 34-1515 PCO","PCO 1515","PCO 1515",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6D7",,,,
+"11697","A","PCO","407",,"N","PRECINCT SHL 32-0407 PCO","PCO 0407","PCO 0407",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3DF",,,,
+"13347","A","PCO","2803",,"N","PRECINCT COLLEEN PCO","PCO 2803","PCO 2803",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA59",,,,
+"13530","A","PCO","3076",,"N","PRECINCT SET 33-3076 PCO","PCO 3076","PCO 3076",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB11",,,,
+"11495","A","PCO","100",,"N","PRECINCT SAM 41-0100 PCO","PCO 0100","PCO 0100",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A315",,,,
+"12839","A","PCO","2035",,"N","PRECINCT SEA 43-2035 PCO","PCO 2035","PCO 2035",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A85B",,,,
+"13362","A","PCO","2836",,"N","PRECINCT KEN 47-2836 PCO","PCO 2836","PCO 2836",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA68",,,,
+"12390","A","PCO","1444",,"N","PRECINCT SEA 34-1444 PCO","PCO 1444","PCO 1444",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A698",,,,
+"11627","A","PCO","292",,"N","PRECINCT CARPENTER PCO","PCO 0292","PCO 0292",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A399",,,,
+"12517","A","PCO","1600",,"N","PRECINCT SEA 11-1600 PCO","PCO 1600","PCO 1600",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A718",,,,
+"12126","A","PCO","1096",,"N","PRECINCT GRIZZLY PCO","PCO 1096","PCO 1096",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A58F",,,,
+"11688","A","PCO","392",,"N","PRECINCT EARLINGTON PCO","PCO 0392","PCO 0392",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3D6",,,,
+"11903","A","PCO","757",,"N","PRECINCT M-I 41-0757 PCO","PCO 0757","PCO 0757",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4AE",,,,
+"11759","A","PCO","520",,"N","PRECINCT HI-VALLEY PCO","PCO 0520","PCO 0520",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A41E",,,,
+"13628","A","PCO","3233",,"N","PRECINCT TUK 11-3233 PCO","PCO 3233","PCO 3233",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB73",,,,
+"13219","A","PCO","2623",,"N","PRECINCT DES 33-2623 PCO","PCO 2623","PCO 2623",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9D8",,,,
+"13041","A","PCO","2360",,"N","PRECINCT SEA 46-2360 PCO","PCO 2360","PCO 2360",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A926",,,,
+"12781","A","PCO","1957",,"N","PRECINCT SEA 46-1957 PCO","PCO 1957","PCO 1957",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A821",,,,
+"11862","A","PCO","677",,"N","PRECINCT KMR 46-0677 PCO","PCO 0677","PCO 0677",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A485",,,,
+"12940","A","PCO","2231",,"N","PRECINCT SEA 46-2231 PCO","PCO 2231","PCO 2231",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8C0",,,,
+"11517","A","PCO","127",,"N","PRECINCT BEL 48-0127 PCO","PCO 0127","PCO 0127",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A32B",,,,
+"11925","A","PCO","782",,"N","PRECINCT M-I 41-0782 PCO","PCO 0782","PCO 0782",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4C4",,,,
+"12553","A","PCO","1648",,"N","PRECINCT SEA 37-1648 PCO","PCO 1648","PCO 1648",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A73C",,,,
+"11449","A","PCO","24",,"N","PRECINCT SHL 32-0024 PCO","PCO 0024","PCO 0024",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2E6",,,,
+"11845","A","PCO","647",,"N","PRECINCT KRAIN PCO","PCO 0647","PCO 0647",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A474",,,,
+"12685","A","PCO","1833",,"N","PRECINCT SEA 37-1833 PCO","PCO 1833","PCO 1833",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7C0",,,,
+"12289","A","PCO","1334",,"N","PRECINCT SEA 43-1334 PCO","PCO 1334","PCO 1334",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A633",,,,
+"12109","A","PCO","1068",,"N","PRECINCT SHADOW LAKE PCO","PCO 1068","PCO 1068",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A57D",,,,
+"12421","A","PCO","1477",,"N","PRECINCT SEA 34-1477 PCO","PCO 1477","PCO 1477",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6B7",,,,
+"12734","A","PCO","1892",,"N","PRECINCT SEA 37-1892 PCO","PCO 1892","PCO 1892",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7F1",,,,
+"12745","A","PCO","1903",,"N","PRECINCT SEA 37-1903 PCO","PCO 1903","PCO 1903",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7FC",,,,
+"13443","A","PCO","2975",,"N","PRECINCT RANCH PCO","PCO 2975","PCO 2975",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAB9",,,,
+"12953","A","PCO","2252",,"N","PRECINCT SEA 46-2252 PCO","PCO 2252","PCO 2252",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8CD",,,,
+"12326","A","PCO","1376",,"N","PRECINCT SEA 43-1376 PCO","PCO 1376","PCO 1376",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A658",,,,
+"13036","A","PCO","2353",,"N","PRECINCT SEA 46-2353 PCO","PCO 2353","PCO 2353",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A921",,,,
+"12674","A","PCO","1816",,"N","PRECINCT SEA 36-1816 PCO","PCO 1816","PCO 1816",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7B5",,,,
+"12919","A","PCO","2168",,"N","PRECINCT SEA 36-2168 PCO","PCO 2168","PCO 2168",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8AB",,,,
+"12856","A","PCO","2059",,"N","PRECINCT SEA 43-2059 PCO","PCO 2059","PCO 2059",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A86C",,,,
+"11633","A","PCO","300",,"N","PRECINCT CEDAR PARK PCO","PCO 0300","PCO 0300",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A39F",,,,
+"11632","A","PCO","298",,"N","PRECINCT BUR 34-0298 PCO","PCO 0298","PCO 0298",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A39E",,,,
+"12903","A","PCO","2142",,"N","PRECINCT SEA 46-2142 PCO","PCO 2142","PCO 2142",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A89B",,,,
+"12385","A","PCO","1439",,"N","PRECINCT SEA 34-1439 PCO","PCO 1439","PCO 1439",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A693",,,,
+"13004","A","PCO","2319",,"N","PRECINCT SEA 46-2319 PCO","PCO 2319","PCO 2319",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A901",,,,
+"12558","A","PCO","1662",,"N","PRECINCT SEA 36-1662 PCO","PCO 1662","PCO 1662",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A741",,,,
+"11781","A","PCO","554",,"N","PRECINCT KIR 45-0554 PCO","PCO 0554","PCO 0554",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A434",,,,
+"13283","A","PCO","2712",,"N","PRECINCT SHL 32-2712 PCO","PCO 2712","PCO 2712",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA19",,,,
+"11798","A","PCO","583",,"N","PRECINCT KEN 33-0583 PCO","PCO 0583","PCO 0583",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A445",,,,
+"12983","A","PCO","2295",,"N","PRECINCT SEA 46-2295 PCO","PCO 2295","PCO 2295",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8EB",,,,
+"13115","A","PCO","2484",,"N","PRECINCT EASTMONT PCO","PCO 2484","PCO 2484",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A970",,,,
+"11748","A","PCO","495",,"N","PRECINCT HAPPY VALLEY PCO","PCO 0495","PCO 0495",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A413",,,,
+"13432","A","PCO","2964",,"N","PRECINCT MARCEL PCO","PCO 2964","PCO 2964",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAAE",,,,
+"12412","A","PCO","1468",,"N","PRECINCT SEA 34-1468 PCO","PCO 1468","PCO 1468",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6AE",,,,
+"13247","A","PCO","2655",,"N","PRECINCT HILL PCO","PCO 2655","PCO 2655",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9F4",,,,
+"12045","A","PCO","973",,"N","PRECINCT RNT 11-0973 PCO","PCO 0973","PCO 0973",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A53D",,,,
+"13564","A","PCO","3136",,"N","PRECINCT KEN 47-3136 PCO","PCO 3136","PCO 3136",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB33",,,,
+"11963","A","PCO","839",,"N","PRECINCT NEUWAUKUM PCO","PCO 0839","PCO 0839",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A4EA",,,,
+"13696","A","PCO","3321",,"N","PRECINCT BOT 01-3321 PCO","PCO 3321","PCO 3321",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABB7",,,,
+"12523","A","PCO","1611",,"N","PRECINCT SEA 37-1611 PCO","PCO 1611","PCO 1611",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A71E",,,,
+"13389","A","PCO","2909",,"N","PRECINCT GROUSEMONT PCO","PCO 2909","PCO 2909",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA83",,,,
+"13682","A","PCO","3305",,"N","PRECINCT FED 30-3305 PCO","PCO 3305","PCO 3305",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABA9",,,,
+"13120","A","PCO","2489",,"N","PRECINCT KIR 45-2489 PCO","PCO 2489","PCO 2489",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A975",,,,
+"11720","A","PCO","452",,"N","PRECINCT FRANKLIN PCO","PCO 0452","PCO 0452",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3F6",,,,
+"12481","A","PCO","1552",,"N","PRECINCT SEA 11-1552 PCO","PCO 1552","PCO 1552",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6F3",,,,
+"12062","A","PCO","994",,"N","PRECINCT RNT 41-0994 PCO","PCO 0994","PCO 0994",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A54E",,,,
+"12575","A","PCO","1685",,"N","PRECINCT SEA 36-1685 PCO","PCO 1685","PCO 1685",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","5/8/2012 9:42","000000001E79A752",,,,
+"13416","A","PCO","2938",,"N","PRECINCT ILLAHEE PCO","PCO 2938","PCO 2938",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA9E",,,,
+"12508","A","PCO","1588",,"N","PRECINCT SEA 37-1588 PCO","PCO 1588","PCO 1588",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A70F",,,,
+"11946","A","PCO","805",,"N","PRECINCT BUR 33-0805 PCO","PCO 0805","PCO 0805",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4D9",,,,
+"13167","A","PCO","2549",,"N","PRECINCT SEA 43-2549 PCO","PCO 2549","PCO 2549",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9A4",,,,
+"13236","A","PCO","2642",,"N","PRECINCT RED 48-2642 PCO","PCO 2642","PCO 2642",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9E9",,,,
+"13707","A","PCO","3333",,"N","PRECINCT COOPER PCO","PCO 3333","PCO 3333",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABC2",,,,
+"13009","A","PCO","2324",,"N","PRECINCT SEA 46-2324 PCO","PCO 2324","PCO 2324",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A906",,,,
+"12590","A","PCO","1701",,"N","PRECINCT SEA 36-1701 PCO","PCO 1701","PCO 1701",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A761",,,,
+"11995","A","PCO","897",,"N","PRECINCT SHL 32-0897 PCO","PCO 0897","PCO 0897",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A50B",,,,
+"12161","A","PCO","1152",,"N","PRECINCT TIGER MTN PCO","PCO 1152","PCO 1152",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5B2",,,,
+"12888","A","PCO","2116",,"N","PRECINCT SEA 36-2116 PCO","PCO 2116","PCO 2116",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A88C",,,,
+"12193","A","PCO","1207",,"N","PRECINCT WEST HILL PCO","PCO 1207","PCO 1207",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5D2",,,,
+"12311","A","PCO","1361",,"N","PRECINCT SEA 43-1361 PCO","PCO 1361","PCO 1361",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A649",,,,
+"13202","A","PCO","2597",,"N","PRECINCT WOD 45-2597 PCO","PCO 2597","PCO 2597",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9C7",,,,
+"11588","A","PCO","229",,"N","PRECINCT KEN 47-0229 PCO","PCO 0229","PCO 0229",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A372",,,,
+"13290","A","PCO","2721",,"N","PRECINCT CADDIS PCO","PCO 2721","PCO 2721",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA20",,,,
+"11786","A","PCO","561",,"N","PRECINCT JOVITA PCO","PCO 0561","PCO 0561",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A439",,,,
+"12602","A","PCO","1717",,"N","PRECINCT SEA 36-1717 PCO","PCO 1717","PCO 1717",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A76D",,,,
+"13394","A","PCO","2914",,"N","PRECINCT KIR 48-2914 PCO","PCO 2914","PCO 2914",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA88",,,,
+"12755","A","PCO","1918",,"N","PRECINCT SEA 37-1918 PCO","PCO 1918","PCO 1918",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A807",,,,
+"12470","A","PCO","1535",,"N","PRECINCT SEA 34-1535 PCO","PCO 1535","PCO 1535",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6E8",,,,
+"12178","A","PCO","1186",,"N","PRECINCT LFP 46-1186 PCO","PCO 1186","PCO 1186",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5C3",,,,
+"13608","A","PCO","3211",,"N","PRECINCT TRILLIUM PCO","PCO 3211","PCO 3211",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB5F",,,,
+"12706","A","PCO","1859",,"N","PRECINCT SEA 43-1859 PCO","PCO 1859","PCO 1859",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7D5",,,,
+"11918","A","PCO","775",,"N","PRECINCT M-I 41-0775 PCO","PCO 0775","PCO 0775",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4BD",,,,
+"12077","A","PCO","1015",,"N","PRECINCT RNT 11-1015 PCO","PCO 1015","PCO 1015",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A55D",,,,
+"12343","A","PCO","1395",,"N","PRECINCT SEA 36-1395 PCO","PCO 1395","PCO 1395",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A669",,,,
+"11652","A","PCO","327",,"N","PRECINCT COALFIELD PCO","PCO 0327","PCO 0327",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3B2",,,,
+"12444","A","PCO","1506",,"N","PRECINCT SEA 34-1506 PCO","PCO 1506","PCO 1506",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6CE",,,,
+"12994","A","PCO","2307",,"N","PRECINCT SEA 46-2307 PCO","PCO 2307","PCO 2307",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8F6",,,,
+"12146","A","PCO","1128",,"N","PRECINCT DES 33-1128 PCO","PCO 1128","PCO 1128",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5A3",,,,
+"13083","A","PCO","2432",,"N","PRECINCT BEL 48-2432 PCO","PCO 2432","PCO 2432",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A950",,,,
+"13464","A","PCO","3004",,"N","PRECINCT FED 30-3004 PCO","PCO 3004","PCO 3004",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AACE",,,,
+"13596","A","PCO","3196",,"N","PRECINCT KIR 48-3196 PCO","PCO 3196","PCO 3196",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB53",,,,
+"12249","A","PCO","1287",,"N","PRECINCT SEA 36-1287 PCO","PCO 1287","PCO 1287",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A60B",,,,
+"13294","A","PCO","2726",,"N","PRECINCT SAM 45-2726 PCO","PCO 2726","PCO 2726",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA24",,,,
+"13680","A","PCO","3303",,"N","PRECINCT LAKE MORTON PCO","PCO 3303","PCO 3303",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABA7",,,,
+"13162","A","PCO","2543",,"N","PRECINCT SEA 43-2543 PCO","PCO 2543","PCO 2543",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A99F",,,,
+"12491","A","PCO","1567",,"N","PRECINCT SEA 37-1567 PCO","PCO 1567","PCO 1567",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6FD",,,,
+"12375","A","PCO","1429",,"N","PRECINCT SEA 34-1429 PCO","PCO 1429","PCO 1429",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A689",,,,
+"13030","A","PCO","2347",,"N","PRECINCT SEA 46-2347 PCO","PCO 2347","PCO 2347",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A91B",,,,
+"13475","A","PCO","3017",,"N","PRECINCT FED 30-3017 PCO","PCO 3017","PCO 3017",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAD9",,,,
+"12639","A","PCO","1758",,"N","PRECINCT SEA 36-1758 PCO","PCO 1758","PCO 1758",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A792",,,,
+"12824","A","PCO","2015",,"N","PRECINCT SEA 43-2015 PCO","PCO 2015","PCO 2015",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A84C",,,,
+"12030","A","PCO","951",,"N","PRECINCT RED 48-0951 PCO","PCO 0951","PCO 0951",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A52E",,,,
+"12689","A","PCO","1839",,"N","PRECINCT SEA 37-1839 PCO","PCO 1839","PCO 1839",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7C4",,,,
+"11957","A","PCO","823",,"N","PRECINCT MORTON PCO","PCO 0823","PCO 0823",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4E4",,,,
+"13268","A","PCO","2691",,"N","PRECINCT M-I 41-2691 PCO","PCO 2691","PCO 2691",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA0A",,,,
+"12089","A","PCO","1032",,"N","PRECINCT BUR 34-1032 PCO","PCO 1032","PCO 1032",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A569",,,,
+"11665","A","PCO","348",,"N","PRECINCT CUMBERLAND PCO","PCO 0348","PCO 0348",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3BF",,,,
+"12221","A","PCO","1254",,"N","PRECINCT SEA 34-1254 PCO","PCO 1254","PCO 1254",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A5EE",,,,
+"12133","A","PCO","1107",,"N","PRECINCT SPIDER LAKE PCO","PCO 1107","PCO 1107",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A596",,,,
+"12294","A","PCO","1342",,"N","PRECINCT SEA 43-1342 PCO","PCO 1342","PCO 1342",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A638",,,,
+"11536","A","PCO","153",,"N","PRECINCT BEL 48-0153 PCO","PCO 0153","PCO 0153",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A33E",,,,
+"12861","A","PCO","2069",,"N","PRECINCT SEA 43-2069 PCO","PCO 2069","PCO 2069",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A871",,,,
+"13258","A","PCO","2676",,"N","PRECINCT BOT 01-2676 PCO","PCO 2676","PCO 2676",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9FF",,,,
+"13183","A","PCO","2568",,"N","PRECINCT KEN 47-2568 PCO","PCO 2568","PCO 2568",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9B4",,,,
+"12898","A","PCO","2129",,"N","PRECINCT SEA 36-2129 PCO","PCO 2129","PCO 2129",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A896",,,,
+"12893","A","PCO","2121",,"N","PRECINCT SEA 36-2121 PCO","PCO 2121","PCO 2121",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A891",,,,
+"13169","A","PCO","2551",,"N","PRECINCT AUB 47-2551 PCO","PCO 2551","PCO 2551",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9A6",,,,
+"12607","A","PCO","1722",,"N","PRECINCT SEA 36-1722 PCO","PCO 1722","PCO 1722",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A772",,,,
+"12849","A","PCO","2049",,"N","PRECINCT SEA 43-2049 PCO","PCO 2049","PCO 2049",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A865",,,,
+"12634","A","PCO","1752",,"N","PRECINCT SEA 36-1752 PCO","PCO 1752","PCO 1752",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A78D",,,,
+"11549","A","PCO","170",,"N","PRECINCT BEL 48-0170 PCO","PCO 0170","PCO 0170",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A34B",,,,
+"13330","A","PCO","2774",,"N","PRECINCT BEL 48-2774 PCO","PCO 2774","PCO 2774",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA48",,,,
+"12972","A","PCO","2280",,"N","PRECINCT SEA 46-2280 PCO","PCO 2280","PCO 2280",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8E0",,,,
+"12723","A","PCO","1881",,"N","PRECINCT SEA 37-1881 PCO","PCO 1881","PCO 1881",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7E6",,,,
+"11568","A","PCO","203",,"N","PRECINCT BEL 41-0203 PCO","PCO 0203","PCO 0203",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A35E",,,,
+"13421","A","PCO","2943",,"N","PRECINCT BEL 41-2943 PCO","PCO 2943","PCO 2943",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAA3",,,,
+"11813","A","PCO","601",,"N","PRECINCT KEN 47-0601 PCO","PCO 0601","PCO 0601",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A454",,,,
+"12614","A","PCO","1730",,"N","PRECINCT SEA 36-1730 PCO","PCO 1730","PCO 1730",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A779",,,,
+"13648","A","PCO","3265",,"N","PRECINCT SEA 34-3265 PCO","PCO 3265","PCO 3265",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB87",,,,
+"13315","A","PCO","2754",,"N","PRECINCT KMR 46-2754 PCO","PCO 2754","PCO 2754",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA39",,,,
+"12777","A","PCO","1952",,"N","PRECINCT SEA 46-1952 PCO","PCO 1952","PCO 1952",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A81D",,,,
+"13215","A","PCO","2618",,"N","PRECINCT KEN 33-2618 PCO","PCO 2618","PCO 2618",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9D4",,,,
+"11684","A","PCO","379",,"N","PRECINCT DORRE DON PCO","PCO 0379","PCO 0379",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3D2",,,,
+"13051","A","PCO","2375",,"N","PRECINCT SEA 46-2375 PCO","PCO 2375","PCO 2375",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A930",,,,
+"13384","A","PCO","2904",,"N","PRECINCT MONEYSMITH PCO","PCO 2904","PCO 2904",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA7E",,,,
+"13152","A","PCO","2531",,"N","PRECINCT SEA 36-2531 PCO","PCO 2531","PCO 2531",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A995",,,,
+"12766","A","PCO","1935",,"N","PRECINCT SEA 37-1935 PCO","PCO 1935","PCO 1935",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A812",,,,
+"12513","A","PCO","1593",,"N","PRECINCT SEA 37-1593 PCO","PCO 1593","PCO 1593",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A714",,,,
+"12951","A","PCO","2249",,"N","PRECINCT SEA 46-2249 PCO","PCO 2249","PCO 2249",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8CB",,,,
+"13653","A","PCO","3270",,"N","PRECINCT WOD 45-3270 PCO","PCO 3270","PCO 3270",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB8C",,,,
+"12476","A","PCO","1541",,"N","PRECINCT SEA 34-1541 PCO","PCO 1541","PCO 1541",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6EE",,,,
+"12871","A","PCO","2090",,"N","PRECINCT SEA 46-2090 PCO","PCO 2090","PCO 2090",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A87B",,,,
+"12730","A","PCO","1888",,"N","PRECINCT SEA 43-1888 PCO","PCO 1888","PCO 1888",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7ED",,,,
+"12502","A","PCO","1582",,"N","PRECINCT SEA 37-1582 PCO","PCO 1582","PCO 1582",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A709",,,,
+"13135","A","PCO","2509",,"N","PRECINCT SEA 36-2509 PCO","PCO 2509","PCO 2509",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A984",,,,
+"11899","A","PCO","753",,"N","PRECINCT KEN 47-0753 PCO","PCO 0753","PCO 0753",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4AA",,,,
+"11505","A","PCO","113",,"N","PRECINCT BEL 41-0113 PCO","PCO 0113","PCO 0113",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A31F",,,,
+"11637","A","PCO","309",,"N","PRECINCT LFP 46-0309 PCO","PCO 0309","PCO 0309",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3A3",,,,
+"12876","A","PCO","2095",,"N","PRECINCT SEA 46-2095 PCO","PCO 2095","PCO 2095",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A880",,,,
+"12303","A","PCO","1352",,"N","PRECINCT SEA 43-1352 PCO","PCO 1352","PCO 1352",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A641",,,,
+"12657","A","PCO","1776",,"N","PRECINCT SEA 43-1776 PCO","PCO 1776","PCO 1776",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7A4",,,,
+"11972","A","PCO","854",,"N","PRECINCT NPK 33-0854 PCO","PCO 0854","PCO 0854",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A4F3",,,,
+"12535","A","PCO","1624",,"N","PRECINCT SEA 11-1624 PCO","PCO 1624","PCO 1624",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A72A",,,,
+"12957","A","PCO","2261",,"N","PRECINCT SEA 46-2261 PCO","PCO 2261","PCO 2261",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8D1",,,,
+"13576","A","PCO","3151",,"N","PRECINCT SNQ 05-3151 PCO","PCO 3151","PCO 3151",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB3F",,,,
+"11818","A","PCO","609",,"N","PRECINCT SHL 32-0609 PCO","PCO 0609","PCO 0609",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A459",,,,
+"13040","A","PCO","2359",,"N","PRECINCT SEA 46-2359 PCO","PCO 2359","PCO 2359",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A925",,,,
+"12678","A","PCO","1821",,"N","PRECINCT SEA 43-1821 PCO","PCO 1821","PCO 1821",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7B9",,,,
+"13233","A","PCO","2639",,"N","PRECINCT RED 48-2639 PCO","PCO 2639","PCO 2639",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9E6",,,,
+"13287","A","PCO","2718",,"N","PRECINCT BOWOOD PCO","PCO 2718","PCO 2718",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA1D",,,,
+"11462","A","PCO","47",,"N","PRECINCT AUB 31-0047 PCO","PCO 0047","PCO 0047",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2F3",,,,
+"13008","A","PCO","2323",,"N","PRECINCT SEA 46-2323 PCO","PCO 2323","PCO 2323",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A905",,,,
+"12908","A","PCO","2148",,"N","PRECINCT SEA 36-2148 PCO","PCO 2148","PCO 2148",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8A0",,,,
+"12546","A","PCO","1638",,"N","PRECINCT SEA 37-1638 PCO","PCO 1638","PCO 1638",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A735",,,,
+"11967","A","PCO","848",,"N","PRECINCT BUR 34-0848 PCO","PCO 0848","PCO 0848",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A4EE",,,,
+"13587","A","PCO","3181",,"N","PRECINCT LAKE YOUNGS PCO","PCO 3181","PCO 3181",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB4A",,,,
+"12033","A","PCO","954",,"N","PRECINCT DES 30-0954 PCO","PCO 0954","PCO 0954",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A531",,,,
+"13517","A","PCO","3060",,"N","PRECINCT SET 33-3060 PCO","PCO 3060","PCO 3060",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB04",,,,
+"11620","A","PCO","279",,"N","PRECINCT COV 47-0279 PCO","PCO 0279","PCO 0279",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A392",,,,
+"11752","A","PCO","502",,"N","PRECINCT RNT 11-0502 PCO","PCO 0502","PCO 0502",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A417",,,,
+"13119","A","PCO","2488",,"N","PRECINCT KIR 01-2488 PCO","PCO 2488","PCO 2488",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A974",,,,
+"13155","A","PCO","2534",,"N","PRECINCT SEA 36-2534 PCO","PCO 2534","PCO 2534",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A998",,,,
+"12578","A","PCO","1688",,"N","PRECINCT SEA 36-1688 PCO","PCO 1688","PCO 1688",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A755",,,,
+"13692","A","PCO","3317",,"N","PRECINCT SEA 36-3317 PCO","PCO 3317","PCO 3317",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABB3",,,,
+"13108","A","PCO","2472",,"N","PRECINCT RNT 33-2472 PCO","PCO 2472","PCO 2472",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A969",,,,
+"12512","A","PCO","1592",,"N","PRECINCT SEA 37-1592 PCO","PCO 1592","PCO 1592",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A713",,,,
+"13465","A","PCO","3005",,"N","PRECINCT FED 30-3005 PCO","PCO 3005","PCO 3005",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AACF",,,,
+"11835","A","PCO","633",,"N","PRECINCT KIR 48-0633 PCO","PCO 0633","PCO 0633",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A46A",,,,
+"12571","A","PCO","1679",,"N","PRECINCT SEA 36-1679 PCO","PCO 1679","PCO 1679",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","5/8/2012 9:42","000000001E79A74E",,,,
+"11867","A","PCO","688",,"N","PRECINCT LITTLE SOOS PCO","PCO 0688","PCO 0688",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A48A",,,,
+"12086","A","PCO","1026",,"N","PRECINCT ROANOKE PCO","PCO 1026","PCO 1026",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A566",,,,
+"12759","A","PCO","1923",,"N","PRECINCT SEA 37-1923 PCO","PCO 1923","PCO 1923",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A80B",,,,
+"13522","A","PCO","3065",,"N","PRECINCT SET 33-3065 PCO","PCO 3065","PCO 3065",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB09",,,,
+"12165","A","PCO","1159",,"N","PRECINCT TROUT LAKE PCO","PCO 1159","PCO 1159",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5B6",,,,
+"11950","A","PCO","812",,"N","PRECINCT MIRRORMONT PCO","PCO 0812","PCO 0812",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4DD",,,,
+"11999","A","PCO","903",,"N","PRECINCT SHL 32-0903 PCO","PCO 0903","PCO 0903",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A50F",,,,
+"12050","A","PCO","981",,"N","PRECINCT RNT 11-0981 PCO","PCO 0981","PCO 0981",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A542",,,,
+"11592","A","PCO","236",,"N","PRECINCT BILOXI PCO","PCO 0236","PCO 0236",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A376",,,,
+"13074","A","PCO","2413",,"N","PRECINCT B-D 05-2413 PCO","PCO 2413","PCO 2413",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A947",,,,
+"12561","A","PCO","1665",,"N","PRECINCT SEA 36-1665 PCO","PCO 1665","PCO 1665",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A744",,,,
+"12527","A","PCO","1615",,"N","PRECINCT SEA 37-1615 PCO","PCO 1615","PCO 1615",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A722",,,,
+"13433","A","PCO","2965",,"N","PRECINCT SAM 45-2965 PCO","PCO 2965","PCO 2965",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAAF",,,,
+"12825","A","PCO","2016",,"N","PRECINCT SEA 43-2016 PCO","PCO 2016","PCO 2016",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A84D",,,,
+"12703","A","PCO","1856",,"N","PRECINCT SEA 43-1856 PCO","PCO 1856","PCO 1856",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7D2",,,,
+"13080","A","PCO","2428",,"N","PRECINCT BEL 41-2428 PCO","PCO 2428","PCO 2428",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A94D",,,,
+"12182","A","PCO","1191",,"N","PRECINCT VINCENT PCO","PCO 1191","PCO 1191",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5C7",,,,
+"11605","A","PCO","256",,"N","PRECINCT BOT 01-0256 PCO","PCO 0256","PCO 0256",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A383",,,,
+"12439","A","PCO","1499",,"N","PRECINCT SEA 34-1499 PCO","PCO 1499","PCO 1499",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6C9",,,,
+"13240","A","PCO","2646",,"N","PRECINCT NPK 33-2646 PCO","PCO 2646","PCO 2646",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9ED",,,,
+"13714","A","PCO","3341",,"N","PRECINCT SEA 36-3341 PCO","PCO 3341","PCO 3341",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABC9",,,,
+"13374","A","PCO","2853",,"N","PRECINCT SEA 43-2853 PCO","PCO 2853","PCO 2853",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA74",,,,
+"11443","A","PCO","13",,"N","PRECINCT ALG 30-0013 PCO","PCO 0013","PCO 0013",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2E0",,,,
+"12710","A","PCO","1863",,"N","PRECINCT SEA 43-1863 PCO","PCO 1863","PCO 1863",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7D9",,,,
+"12307","A","PCO","1357",,"N","PRECINCT SEA 43-1357 PCO","PCO 1357","PCO 1357",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A645",,,,
+"12380","A","PCO","1434",,"N","PRECINCT SEA 34-1434 PCO","PCO 1434","PCO 1434",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A68E",,,,
+"12197","A","PCO","1212",,"N","PRECINCT WESTWOOD PCO","PCO 1212","PCO 1212",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5D6",,,,
+"13604","A","PCO","3205",,"N","PRECINCT DUTHIE HILL PCO","PCO 3205","PCO 3205",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB5B",,,,
+"11790","A","PCO","572",,"N","PRECINCT KMR 46-0572 PCO","PCO 0572","PCO 0572",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A43D",,,,
+"11708","A","PCO","421",,"N","PRECINCT KIR 01-0421 PCO","PCO 0421","PCO 0421",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3EA",,,,
+"12793","A","PCO","1971",,"N","PRECINCT SEA 46-1971 PCO","PCO 1971","PCO 1971",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A82D",,,,
+"13668","A","PCO","3290",,"N","PRECINCT CAR 05-3290 PCO","PCO 3290","PCO 3290",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB9B",,,,
+"13170","A","PCO","2552",,"N","PRECINCT SHL 32-2552 PCO","PCO 2552","PCO 2552",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9A7",,,,
+"12065","A","PCO","997",,"N","PRECINCT RNT 11-0997 PCO","PCO 0997","PCO 0997",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A551",,,,
+"12150","A","PCO","1136",,"N","PRECINCT BUR 34-1136 PCO","PCO 1136","PCO 1136",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5A7",,,,
+"11807","A","PCO","594",,"N","PRECINCT KEN 33-0594 PCO","PCO 0594","PCO 0594",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A44E",,,,
+"13048","A","PCO","2370",,"N","PRECINCT SEA 46-2370 PCO","PCO 2370","PCO 2370",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A92D",,,,
+"11886","A","PCO","723",,"N","PRECINCT MARIAN PCO","PCO 0723","PCO 0723",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A49D",,,,
+"12101","A","PCO","1057",,"N","PRECINCT BUR 34-1057 PCO","PCO 1057","PCO 1057",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A575",,,,
+"13140","A","PCO","2514",,"N","PRECINCT SEA 36-2514 PCO","PCO 2514","PCO 2514",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A989",,,,
+"12627","A","PCO","1744",,"N","PRECINCT SEA 36-1744 PCO","PCO 1744","PCO 1744",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A786",,,,
+"13417","A","PCO","2939",,"N","PRECINCT KEN 47-2939 PCO","PCO 2939","PCO 2939",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA9F",,,,
+"12335","A","PCO","1387",,"N","PRECINCT SEA 36-1387 PCO","PCO 1387","PCO 1387",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A661",,,,
+"12762","A","PCO","1928",,"N","PRECINCT SEA 11-1928 PCO","PCO 1928","PCO 1928",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A80E",,,,
+"12395","A","PCO","1451",,"N","PRECINCT SEA 34-1451 PCO","PCO 1451","PCO 1451",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A69D",,,,
+"12495","A","PCO","1572",,"N","PRECINCT SEA 37-1572 PCO","PCO 1572","PCO 1572",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A702",,,,
+"13297","A","PCO","2730",,"N","PRECINCT KIR 45-2730 PCO","PCO 2730","PCO 2730",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA27",,,,
+"12567","A","PCO","1673",,"N","PRECINCT SEA 36-1673 PCO","PCO 1673","PCO 1673",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A74A",,,,
+"12952","A","PCO","2251",,"N","PRECINCT SEA 46-2251 PCO","PCO 2251","PCO 2251",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8CC",,,,
+"11669","A","PCO","358",,"N","PRECINCT DENVER PCO","PCO 0358","PCO 0358",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3C3",,,,
+"12118","A","PCO","1080",,"N","PRECINCT SHL 32-1080 PCO","PCO 1080","PCO 1080",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A586",,,,
+"13138","A","PCO","2512",,"N","PRECINCT SEA 36-2512 PCO","PCO 2512","PCO 2512",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A987",,,,
+"12727","A","PCO","1885",,"N","PRECINCT SEA 37-1885 PCO","PCO 1885","PCO 1885",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7EA",,,,
+"12857","A","PCO","2061",,"N","PRECINCT SEA 43-2061 PCO","PCO 2061","PCO 2061",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A86D",,,,
+"12217","A","PCO","1249",,"N","PRECINCT SEA 34-1249 PCO","PCO 1249","PCO 1249",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A5EA",,,,
+"13621","A","PCO","3224",,"N","PRECINCT RNT 11-3224 PCO","PCO 3224","PCO 3224",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB6C",,,,
+"11854","A","PCO","659",,"N","PRECINCT LAKELAND PCO","PCO 0659","PCO 0659",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A47D",,,,
+"12595","A","PCO","1710",,"N","PRECINCT SEA 36-1710 PCO","PCO 1710","PCO 1710",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A766",,,,
+"12820","A","PCO","2009",,"N","PRECINCT SEA 43-2009 PCO","PCO 2009","PCO 2009",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A848",,,,
+"12261","A","PCO","1303",,"N","PRECINCT SEA 36-1303 PCO","PCO 1303","PCO 1303",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A617",,,,
+"11532","A","PCO","146",,"N","PRECINCT BEL 48-0146 PCO","PCO 0146","PCO 0146",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A33A",,,,
+"12018","A","PCO","937",,"N","PRECINCT RED 48-0937 PCO","PCO 0937","PCO 0937",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A522",,,,
+"12989","A","PCO","2302",,"N","PRECINCT SEA 46-2302 PCO","PCO 2302","PCO 2302",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8F1",,,,
+"12646","A","PCO","1765",,"N","PRECINCT SEA 36-1765 PCO","PCO 1765","PCO 1765",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A799",,,,
+"12129","A","PCO","1101",,"N","PRECINCT SHL 32-1101 PCO","PCO 1101","PCO 1101",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A592",,,,
+"11664","A","PCO","346",,"N","PRECINCT SHL 32-0346 PCO","PCO 0346","PCO 0346",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3BE",,,,
+"12363","A","PCO","1417",,"N","PRECINCT SEA 34-1417 PCO","PCO 1417","PCO 1417",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A67D",,,,
+"11573","A","PCO","211",,"N","PRECINCT BEL 41-0211 PCO","PCO 0211","PCO 0211",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A363",,,,
+"13179","A","PCO","2564",,"N","PRECINCT SAM 45-2564 PCO","PCO 2564","PCO 2564",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9B0",,,,
+"12816","A","PCO","2004",,"N","PRECINCT SEA 43-2004 PCO","PCO 2004","PCO 2004",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A844",,,,
+"11476","A","PCO","67",,"N","PRECINCT AUB 30-0067 PCO","PCO 0067","PCO 0067",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A302",,,,
+"13406","A","PCO","2926",,"N","PRECINCT HOLIDAY LAKE PCO","PCO 2926","PCO 2926",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA94",,,,
+"13272","A","PCO","2700",,"N","PRECINCT AUB 47-2700 PCO","PCO 2700","PCO 2700",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA0E",,,,
+"12889","A","PCO","2117",,"N","PRECINCT SEA 36-2117 PCO","PCO 2117","PCO 2117",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A88D",,,,
+"11537","A","PCO","154",,"N","PRECINCT BEL 48-0154 PCO","PCO 0154","PCO 0154",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A33F",,,,
+"13021","A","PCO","2338",,"N","PRECINCT SEA 46-2338 PCO","PCO 2338","PCO 2338",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A912",,,,
+"11696","A","PCO","404",,"N","PRECINCT RNT 11-0404 PCO","PCO 0404","PCO 0404",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3DE",,,,
+"13549","A","PCO","3097",,"N","PRECINCT FED 30-3097 PCO","PCO 3097","PCO 3097",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB24",,,,
+"13063","A","PCO","2394",,"N","PRECINCT DES 33-2394 PCO","PCO 2394","PCO 2394",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A93C",,,,
+"12742","A","PCO","1900",,"N","PRECINCT SEA 37-1900 PCO","PCO 1900","PCO 1900",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7F9",,,,
+"11564","A","PCO","194",,"N","PRECINCT BEL 48-0194 PCO","PCO 0194","PCO 0194",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A35A",,,,
+"12610","A","PCO","1725",,"N","PRECINCT SEA 36-1725 PCO","PCO 1725","PCO 1725",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A775",,,,
+"13211","A","PCO","2607",,"N","PRECINCT RNT 11-2607 PCO","PCO 2607","PCO 2607",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9D0",,,,
+"13123","A","PCO","2492",,"N","PRECINCT RED 45-2492 PCO","PCO 2492","PCO 2492",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A978",,,,
+"13026","A","PCO","2343",,"N","PRECINCT SEA 46-2343 PCO","PCO 2343","PCO 2343",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A917",,,,
+"13636","A","PCO","3244",,"N","PRECINCT COV 47-3244 PCO","PCO 3244","PCO 3244",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB7B",,,,
+"12348","A","PCO","1400",,"N","PRECINCT SEA 46-1400 PCO","PCO 1400","PCO 1400",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A66E",,,,
+"11509","A","PCO","119",,"N","PRECINCT BEL 41-0119 PCO","PCO 0119","PCO 0119",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A323",,,,
+"12480","A","PCO","1550",,"N","PRECINCT SEA 11-1550 PCO","PCO 1550","PCO 1550",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6F2",,,,
+"13095","A","PCO","2453",,"N","PRECINCT TUK 11-2453 PCO","PCO 2453","PCO 2453",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A95C",,,,
+"13704","A","PCO","3330",,"N","PRECINCT BEL 41-3330 PCO","PCO 3330","PCO 3330",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABBF",,,,
+"13255","A","PCO","2672",,"N","PRECINCT DES 33-2672 PCO","PCO 2672","PCO 2672",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9FC",,,,
+"13426","A","PCO","2955",,"N","PRECINCT TUK 11-2955 PCO","PCO 2955","PCO 2955",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAA8",,,,
+"13470","A","PCO","3011",,"N","PRECINCT FED 30-3011 PCO","PCO 3011","PCO 3011",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAD4",,,,
+"11464","A","PCO","49",,"N","PRECINCT AUB 31-0049 PCO","PCO 0049","PCO 0049",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2F5",,,,
+"12737","A","PCO","1895",,"N","PRECINCT SEA 37-1895 PCO","PCO 1895","PCO 1895",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7F4",,,,
+"13485","A","PCO","3027",,"N","PRECINCT FED 30-3027 PCO","PCO 3027","PCO 3027",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAE3",,,,
+"12663","A","PCO","1784",,"N","PRECINCT SEA 43-1784 PCO","PCO 1784","PCO 1784",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7AA",,,,
+"11723","A","PCO","455",,"N","PRECINCT RNT 33-0455 PCO","PCO 0455","PCO 0455",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3F9",,,,
+"12172","A","PCO","1171",,"N","PRECINCT KMR 46-1171 PCO","PCO 1171","PCO 1171",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5BD",,,,
+"13194","A","PCO","2585",,"N","PRECINCT KEN 47-2585 PCO","PCO 2585","PCO 2585",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9BF",,,,
+"11740","A","PCO","485",,"N","PRECINCT BUR 34-0485 PCO","PCO 0485","PCO 0485",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A40B",,,,
+"12713","A","PCO","1868",,"N","PRECINCT SEA 43-1868 PCO","PCO 1868","PCO 1868",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7DC",,,,
+"12550","A","PCO","1643",,"N","PRECINCT SEA 37-1643 PCO","PCO 1643","PCO 1643",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A739",,,,
+"12004","A","PCO","913",,"N","PRECINCT BUR 34-0913 PCO","PCO 0913","PCO 0913",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A514",,,,
+"12912","A","PCO","2161",,"N","PRECINCT SEA 36-2161 PCO","PCO 2161","PCO 2161",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8A4",,,,
+"13572","A","PCO","3147",,"N","PRECINCT RED 48-3147 PCO","PCO 3147","PCO 3147",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB3B",,,,
+"12962","A","PCO","2268",,"N","PRECINCT SEA 46-2268 PCO","PCO 2268","PCO 2268",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8D6",,,,
+"13275","A","PCO","2703",,"N","PRECINCT AUB 30-2703 PCO","PCO 2703","PCO 2703",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA11",,,,
+"12037","A","PCO","962",,"N","PRECINCT RNT 11-0962 PCO","PCO 0962","PCO 0962",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A535",,,,
+"13353","A","PCO","2811",,"N","PRECINCT NEW 41-2811 PCO","PCO 2811","PCO 2811",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA5F",,,,
+"13059","A","PCO","2387",,"N","PRECINCT ATKINSON PCO","PCO 2387","PCO 2387",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A938",,,,
+"12698","A","PCO","1850",,"N","PRECINCT SEA 37-1850 PCO","PCO 1850","PCO 1850",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7CD",,,,
+"13338","A","PCO","2786",,"N","PRECINCT KIR 45-2786 PCO","PCO 2786","PCO 2786",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA50",,,,
+"11839","A","PCO","641",,"N","PRECINCT KIR 48-0641 PCO","PCO 0641","PCO 0641",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A46E",,,,
+"12621","A","PCO","1738",,"N","PRECINCT SEA 36-1738 PCO","PCO 1738","PCO 1738",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A780",,,,
+"11691","A","PCO","397",,"N","PRECINCT LFP 46-0397 PCO","PCO 0397","PCO 0397",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3D9",,,,
+"13159","A","PCO","2539",,"N","PRECINCT SEA 32-2539 PCO","PCO 2539","PCO 2539",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A99C",,,,
+"12288","A","PCO","1333",,"N","PRECINCT SEA 43-1333 PCO","PCO 1333","PCO 1333",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A632",,,,
+"12357","A","PCO","1411",,"N","PRECINCT SEA 34-1411 PCO","PCO 1411","PCO 1411",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A677",,,,
+"12880","A","PCO","2099",,"N","PRECINCT SEA 46-2099 PCO","PCO 2099","PCO 2099",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A884",,,,
+"11569","A","PCO","205",,"N","PRECINCT BEL 41-0205 PCO","PCO 0205","PCO 0205",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A35F",,,,
+"13717","A","PCO","3352",,"N","PRECINCT KEN 47-3352 PCO","PCO 3352","PCO 3352",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABCC",,,,
+"11624","A","PCO","283",,"N","PRECINCT CAMPBELL HILL PCO","PCO 0283","PCO 0283",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A396",,,,
+"13507","A","PCO","3049",,"N","PRECINCT FED 30-3049 PCO","PCO 3049","PCO 3049",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AAF9",,,,
+"12666","A","PCO","1801",,"N","PRECINCT SEA 36-1801 PCO","PCO 1801","PCO 1801",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7AD",,,,
+"13699","A","PCO","3324",,"N","PRECINCT AUB 47-3324 PCO","PCO 3324","PCO 3324",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABBA",,,,
+"13484","A","PCO","3026",,"N","PRECINCT FED 30-3026 PCO","PCO 3026","PCO 3026",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAE2",,,,
+"11871","A","PCO","694",,"N","PRECINCT BEL 48-0694 PCO","PCO 0694","PCO 0694",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A48E",,,,
+"12582","A","PCO","1692",,"N","PRECINCT SEA 36-1692 PCO","PCO 1692","PCO 1692",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A759",,,,
+"11458","A","PCO","41",,"N","PRECINCT AUB 47-0041 PCO","PCO 0041","PCO 0041",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2EF",,,,
+"11894","A","PCO","742",,"N","PRECINCT MEADOWBROOK PCO","PCO 0742","PCO 0742",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4A5",,,,
+"11501","A","PCO","109",,"N","PRECINCT BEL 41-0109 PCO","PCO 0109","PCO 0109",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A31B",,,,
+"12930","A","PCO","2209",,"N","PRECINCT SEA 32-2209 PCO","PCO 2209","PCO 2209",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8B6",,,,
+"11733","A","PCO","473",,"N","PRECINCT KMR 46-0473 PCO","PCO 0473","PCO 0473",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A404",,,,
+"12384","A","PCO","1438",,"N","PRECINCT SEA 34-1438 PCO","PCO 1438","PCO 1438",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A692",,,,
+"12082","A","PCO","1021",,"N","PRECINCT SHL 32-1021 PCO","PCO 1021","PCO 1021",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A562",,,,
+"13106","A","PCO","2469",,"N","PRECINCT SAM 41-2469 PCO","PCO 2469","PCO 2469",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A967",,,,
+"13112","A","PCO","2477",,"N","PRECINCT KEN 47-2477 PCO","PCO 2477","PCO 2477",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A96D",,,,
+"13370","A","PCO","2845",,"N","PRECINCT RNT 11-2845 PCO","PCO 2845","PCO 2845",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA70",,,,
+"11486","A","PCO","83",,"N","PRECINCT AUB 31-0083 PCO","PCO 0083","PCO 0083",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A30C",,,,
+"13076","A","PCO","2417",,"N","PRECINCT TOTEM PCO","PCO 2417","PCO 2417",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A949",,,,
+"13226","A","PCO","2632",,"N","PRECINCT RED 48-2632 PCO","PCO 2632","PCO 2632",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9DF",,,,
+"11762","A","PCO","527",,"N","PRECINCT SHL 32-0527 PCO","PCO 0527","PCO 0527",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A421",,,,
+"12399","A","PCO","1455",,"N","PRECINCT SEA 34-1455 PCO","PCO 1455","PCO 1455",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6A1",,,,
+"12185","A","PCO","1195",,"N","PRECINCT WABASH PCO","PCO 1195","PCO 1195",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5CA",,,,
+"13539","A","PCO","3087",,"N","PRECINCT FED 30-3087 PCO","PCO 3087","PCO 3087",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB1A",,,,
+"12631","A","PCO","1749",,"N","PRECINCT SEA 36-1749 PCO","PCO 1749","PCO 1749",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A78A",,,,
+"12268","A","PCO","1310",,"N","PRECINCT SEA 46-1310 PCO","PCO 1310","PCO 1310",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A61E",,,,
+"11596","A","PCO","240",,"N","PRECINCT B-D 05-0240 PCO","PCO 0240","PCO 0240",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A37A",,,,
+"11822","A","PCO","616",,"N","PRECINCT KIR 45-0616 PCO","PCO 0616","PCO 0616",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A45D",,,,
+"13502","A","PCO","3044",,"N","PRECINCT FED 30-3044 PCO","PCO 3044","PCO 3044",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AAF4",,,,
+"12925","A","PCO","2202",,"N","PRECINCT SEA 32-2202 PCO","PCO 2202","PCO 2202",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8B1",,,,
+"13282","A","PCO","2711",,"N","PRECINCT COV 47-2711 PCO","PCO 2711","PCO 2711",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA18",,,,
+"13208","A","PCO","2603",,"N","PRECINCT NAILA PCO","PCO 2603","PCO 2603",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9CD",,,,
+"12054","A","PCO","985",,"N","PRECINCT RNT 11-0985 PCO","PCO 0985","PCO 0985",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A546",,,,
+"12829","A","PCO","2021",,"N","PRECINCT SEA 43-2021 PCO","PCO 2021","PCO 2021",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A851",,,,
+"11601","A","PCO","252",,"N","PRECINCT BOT 01-0252 PCO","PCO 0252","PCO 0252",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A37F",,,,
+"13583","A","PCO","3172",,"N","PRECINCT KEN 33-3172 PCO","PCO 3172","PCO 3172",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB46",,,,
+"12214","A","PCO","1246",,"N","PRECINCT SEA 34-1246 PCO","PCO 1246","PCO 1246",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A5E7",,,,
+"12431","A","PCO","1488",,"N","PRECINCT SEA 34-1488 PCO","PCO 1488","PCO 1488",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6C1",,,,
+"12531","A","PCO","1619",,"N","PRECINCT SEA 37-1619 PCO","PCO 1619","PCO 1619",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A726",,,,
+"13321","A","PCO","2764",,"N","PRECINCT KMR 46-2764 PCO","PCO 2764","PCO 2764",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA3F",,,,
+"12299","A","PCO","1348",,"N","PRECINCT SEA 43-1348 PCO","PCO 1348","PCO 1348",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A63D",,,,
+"12069","A","PCO","1002",,"N","PRECINCT RNT 11-1002 PCO","PCO 1002","PCO 1002",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A555",,,,
+"13265","A","PCO","2686",,"N","PRECINCT SEA 37-2686 PCO","PCO 2686","PCO 2686",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA07",,,,
+"12153","A","PCO","1140",,"N","PRECINCT SHL 32-1140 PCO","PCO 1140","PCO 1140",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5AA",,,,
+"11728","A","PCO","465",,"N","PRECINCT BUR 34-0465 PCO","PCO 0465","PCO 0465",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3FE",,,,
+"11850","A","PCO","653",,"N","PRECINCT LFP 46-0653 PCO","PCO 0653","PCO 0653",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A479",,,,
+"12229","A","PCO","1264",,"N","PRECINCT SEA 43-1264 PCO","PCO 1264","PCO 1264",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A5F6",,,,
+"12014","A","PCO","927",,"N","PRECINCT RAGING RIVER PCO","PCO 0927","PCO 0927",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A51E",,,,
+"13091","A","PCO","2447",,"N","PRECINCT BEL 41-2447 PCO","PCO 2447","PCO 2447",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A958",,,,
+"13306","A","PCO","2742",,"N","PRECINCT SEAN PCO","PCO 2742","PCO 2742",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA30",,,,
+"12417","A","PCO","1473",,"N","PRECINCT SEA 34-1473 PCO","PCO 1473","PCO 1473",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6B3",,,,
+"11645","A","PCO","320",,"N","PRECINCT CLOVER PCO","PCO 0320","PCO 0320",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3AB",,,,
+"11935","A","PCO","793",,"N","PRECINCT M-I 41-0793 PCO","PCO 0793","PCO 0793",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4CE",,,,
+"13615","A","PCO","3218",,"N","PRECINCT DUV 45-3218 PCO","PCO 3218","PCO 3218",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB66",,,,
+"13685","A","PCO","3308",,"N","PRECINCT WAXWING PCO","PCO 3308","PCO 3308",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABAC",,,,
+"13176","A","PCO","2561",,"N","PRECINCT KIR 01-2561 PCO","PCO 2561","PCO 2561",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9AD",,,,
+"12625","A","PCO","1742",,"N","PRECINCT SEA 36-1742 PCO","PCO 1742","PCO 1742",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A784",,,,
+"11528","A","PCO","142",,"N","PRECINCT BEL 48-0142 PCO","PCO 0142","PCO 0142",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A336",,,,
+"13529","A","PCO","3075",,"N","PRECINCT SET 33-3075 PCO","PCO 3075","PCO 3075",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB10",,,,
+"12463","A","PCO","1526",,"N","PRECINCT SEA 34-1526 PCO","PCO 1526","PCO 1526",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6E1",,,,
+"11882","A","PCO","710",,"N","PRECINCT BUR 34-0710 PCO","PCO 0710","PCO 0710",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A499",,,,
+"13144","A","PCO","2520",,"N","PRECINCT SEA 36-2520 PCO","PCO 2520","PCO 2520",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A98D",,,,
+"12125","A","PCO","1095",,"N","PRECINCT KMR 46-1095 PCO","PCO 1095","PCO 1095",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A58E",,,,
+"11940","A","PCO","798",,"N","PRECINCT KEN 47-0798 PCO","PCO 0798","PCO 0798",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4D3",,,,
+"13438","A","PCO","2970",,"N","PRECINCT BEL 41-2970 PCO","PCO 2970","PCO 2970",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAB4",,,,
+"11982","A","PCO","869",,"N","PRECINCT NOVELTY PCO","PCO 0869","PCO 0869",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A4FD",,,,
+"11469","A","PCO","55",,"N","PRECINCT AUB 47-0055 PCO","PCO 0055","PCO 0055",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2FA",,,,
+"12695","A","PCO","1846",,"N","PRECINCT SEA 43-1846 PCO","PCO 1846","PCO 1846",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7CA",,,,
+"11541","A","PCO","162",,"N","PRECINCT BEL 48-0162 PCO","PCO 0162","PCO 0162",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A343",,,,
+"12204","A","PCO","1227",,"N","PRECINCT DES 30-1227 PCO","PCO 1227","PCO 1227",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5DD",,,,
+"12114","A","PCO","1075",,"N","PRECINCT LFP 46-1075 PCO","PCO 1075","PCO 1075",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A582",,,,
+"13134","A","PCO","2508",,"N","PRECINCT SEA 36-2508 PCO","PCO 2508","PCO 2508",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A983",,,,
+"13044","A","PCO","2364",,"N","PRECINCT SEA 46-2364 PCO","PCO 2364","PCO 2364",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A929",,,,
+"12320","A","PCO","1370",,"N","PRECINCT SEA 43-1370 PCO","PCO 1370","PCO 1370",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A652",,,,
+"11701","A","PCO","411",,"N","PRECINCT ENM 31-0411 PCO","PCO 0411","PCO 0411",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3E3",,,,
+"12367","A","PCO","1421",,"N","PRECINCT SEA 34-1421 PCO","PCO 1421","PCO 1421",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A681",,,,
+"12870","A","PCO","2089",,"N","PRECINCT SEA 43-2089 PCO","PCO 2089","PCO 2089",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A87A",,,,
+"13672","A","PCO","3294",,"N","PRECINCT BITTERROOT PCO","PCO 3294","PCO 3294",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB9F",,,,
+"12022","A","PCO","941",,"N","PRECINCT RED 48-0941 PCO","PCO 0941","PCO 0941",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A526",,,,
+"13619","A","PCO","3222",,"N","PRECINCT RNT 11-3222 PCO","PCO 3222","PCO 3222",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB6A",,,,
+"12642","A","PCO","1761",,"N","PRECINCT SEA 36-1761 PCO","PCO 1761","PCO 1761",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A795",,,,
+"11644","A","PCO","319",,"N","PRECINCT SHL 32-0319 PCO","PCO 0319","PCO 0319",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3AA",,,,
+"12774","A","PCO","1945",,"N","PRECINCT SEA 11-1945 PCO","PCO 1945","PCO 1945",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A81A",,,,
+"13385","A","PCO","2905",,"N","PRECINCT MUCKLESHOOT PCO","PCO 2905","PCO 2905",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA7F",,,,
+"12599","A","PCO","1714",,"N","PRECINCT SEA 36-1714 PCO","PCO 1714","PCO 1714",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A76A",,,,
+"11908","A","PCO","763",,"N","PRECINCT M-I 41-0763 PCO","PCO 0763","PCO 0763",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4B3",,,,
+"13250","A","PCO","2658",,"N","PRECINCT LAKE JOY PCO","PCO 2658","PCO 2658",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9F7",,,,
+"12246","A","PCO","1284",,"N","PRECINCT SEA 46-1284 PCO","PCO 1284","PCO 1284",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A608",,,,
+"13490","A","PCO","3032",,"N","PRECINCT FED 30-3032 PCO","PCO 3032","PCO 3032",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AAE8",,,,
+"11659","A","PCO","338",,"N","PRECINCT COTTAGE LAKE PCO","PCO 0338","PCO 0338",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3B9",,,,
+"12593","A","PCO","1704",,"N","PRECINCT SEA 36-1704 PCO","PCO 1704","PCO 1704",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A764",,,,
+"12236","A","PCO","1272",,"N","PRECINCT SEA 43-1272 PCO","PCO 1272","PCO 1272",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A5FD",,,,
+"13534","A","PCO","3080",,"N","PRECINCT FED 30-3080 PCO","PCO 3080","PCO 3080",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB15",,,,
+"12681","A","PCO","1825",,"N","PRECINCT SEA 37-1825 PCO","PCO 1825","PCO 1825",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7BC",,,,
+"13351","A","PCO","2809",,"N","PRECINCT M-I 41-2809 PCO","PCO 2809","PCO 2809",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA5D",,,,
+"11491","A","PCO","93",,"N","PRECINCT BAKER PCO","PCO 0093","PCO 0093",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A311",,,,
+"12653","A","PCO","1772",,"N","PRECINCT SEA 36-1772 PCO","PCO 1772","PCO 1772",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7A0",,,,
+"13191","A","PCO","2582",,"N","PRECINCT RNT 11-2582 PCO","PCO 2582","PCO 2582",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9BC",,,,
+"11676","A","PCO","367",,"N","PRECINCT DES 33-0367 PCO","PCO 0367","PCO 0367",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3CA",,,,
+"12449","A","PCO","1511",,"N","PRECINCT SEA 34-1511 PCO","PCO 1511","PCO 1511",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6D3",,,,
+"12848","A","PCO","2048",,"N","PRECINCT SEA 43-2048 PCO","PCO 2048","PCO 2048",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A864",,,,
+"12352","A","PCO","1404",,"N","PRECINCT SEA 46-1404 PCO","PCO 1404","PCO 1404",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A672",,,,
+"12945","A","PCO","2239",,"N","PRECINCT SEA 43-2239 PCO","PCO 2239","PCO 2239",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8C5",,,,
+"12490","A","PCO","1566",,"N","PRECINCT SEA 37-1566 PCO","PCO 1566","PCO 1566",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6FC",,,,
+"11513","A","PCO","123",,"N","PRECINCT BEL 41-0123 PCO","PCO 0123","PCO 0123",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A327",,,,
+"12097","A","PCO","1052",,"N","PRECINCT BEL 41-1052 PCO","PCO 1052","PCO 1052",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A571",,,,
+"13640","A","PCO","3248",,"N","PRECINCT ENM 31-3248 PCO","PCO 3248","PCO 3248",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB7F",,,,
+"13402","A","PCO","2922",,"N","PRECINCT KIR 48-2922 PCO","PCO 2922","PCO 2922",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA90",,,,
+"12769","A","PCO","1938",,"N","PRECINCT SEA 37-1938 PCO","PCO 1938","PCO 1938",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A815",,,,
+"11755","A","PCO","514",,"N","PRECINCT SHL 32-0514 PCO","PCO 0514","PCO 0514",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A41A",,,,
+"11775","A","PCO","544",,"N","PRECINCT ISS 05-0544 PCO","PCO 0544","PCO 0544",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A42E",,,,
+"11560","A","PCO","190",,"N","PRECINCT BEL 48-0190 PCO","PCO 0190","PCO 0190",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A356",,,,
+"13453","A","PCO","2991",,"N","PRECINCT FED 30-2991 PCO","PCO 2991","PCO 2991",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAC3",,,,
+"12944","A","PCO","2238",,"N","PRECINCT SEA 43-2238 PCO","PCO 2238","PCO 2238",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8C4",,,,
+"11453","A","PCO","31",,"N","PRECINCT RNT 11-0031 PCO","PCO 0031","PCO 0031",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2EA",,,,
+"13223","A","PCO","2628",,"N","PRECINCT RED 48-2628 PCO","PCO 2628","PCO 2628",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9DC",,,,
+"12812","A","PCO","1999",,"N","PRECINCT SEA 43-1999 PCO","PCO 1999","PCO 1999",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A840",,,,
+"13111","A","PCO","2475",,"N","PRECINCT RNT 11-2475 PCO","PCO 2475","PCO 2475",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A96C",,,,
+"11555","A","PCO","179",,"N","PRECINCT BEL 41-0179 PCO","PCO 0179","PCO 0179",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A351",,,,
+"12899","A","PCO","2130",,"N","PRECINCT SEA 36-2130 PCO","PCO 2130","PCO 2130",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A897",,,,
+"12322","A","PCO","1372",,"N","PRECINCT SEA 43-1372 PCO","PCO 1372","PCO 1372",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A654",,,,
+"12852","A","PCO","2055",,"N","PRECINCT SEA 43-2055 PCO","PCO 2055","PCO 2055",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A868",,,,
+"13259","A","PCO","2677",,"N","PRECINCT CARLYLE PCO","PCO 2677","PCO 2677",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA01",,,,
+"11540","A","PCO","160",,"N","PRECINCT BEL 48-0160 PCO","PCO 0160","PCO 0160",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A342",,,,
+"12454","A","PCO","1516",,"N","PRECINCT SEA 34-1516 PCO","PCO 1516","PCO 1516",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6D8",,,,
+"11481","A","PCO","74",,"N","PRECINCT AUB 47-0074 PCO","PCO 0074","PCO 0074",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A307",,,,
+"11700","A","PCO","410",,"N","PRECINCT ENM 31-0410 PCO","PCO 0410","PCO 0410",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3E2",,,,
+"12168","A","PCO","1166",,"N","PRECINCT TUK 11-1166 PCO","PCO 1166","PCO 1166",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5B9",,,,
+"11496","A","PCO","101",,"N","PRECINCT BEL 41-0101 PCO","PCO 0101","PCO 0101",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A316",,,,
+"11628","A","PCO","293",,"N","PRECINCT CARRIAGE LANE PCO","PCO 0293","PCO 0293",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A39A",,,,
+"11760","A","PCO","522",,"N","PRECINCT HOBART PCO","PCO 0522","PCO 0522",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A41F",,,,
+"12190","A","PCO","1204",,"N","PRECINCT RNT 33-1204 PCO","PCO 1204","PCO 1204",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5CF",,,,
+"11687","A","PCO","389",,"N","PRECINCT DUV 45-0389 PCO","PCO 0389","PCO 0389",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3D5",,,,
+"13452","A","PCO","2990",,"N","PRECINCT FED 30-2990 PCO","PCO 2990","PCO 2990",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAC2",,,,
+"11926","A","PCO","784",,"N","PRECINCT M-I 41-0784 PCO","PCO 0784","PCO 0784",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4C5",,,,
+"11518","A","PCO","128",,"N","PRECINCT BEL 41-0128 PCO","PCO 0128","PCO 0128",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A32C",,,,
+"11777","A","PCO","546",,"N","PRECINCT ISS 05-0546 PCO","PCO 0546","PCO 0546",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A430",,,,
+"12939","A","PCO","2228",,"N","PRECINCT SEA 46-2228 PCO","PCO 2228","PCO 2228",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8BF",,,,
+"12686","A","PCO","1834",,"N","PRECINCT SEA 37-1834 PCO","PCO 1834","PCO 1834",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7C1",,,,
+"11909","A","PCO","765",,"N","PRECINCT M-I 41-0765 PCO","PCO 0765","PCO 0765",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4B4",,,,
+"11794","A","PCO","577",,"N","PRECINCT KEN 33-0577 PCO","PCO 0577","PCO 0577",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A441",,,,
+"12041","A","PCO","967",,"N","PRECINCT RNT 37-0967 PCO","PCO 0967","PCO 0967",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A539",,,,
+"12173","A","PCO","1172",,"N","PRECINCT TWO RIVERS PCO","PCO 1172","PCO 1172",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5BE",,,,
+"12554","A","PCO","1650",,"N","PRECINCT SEA 37-1650 PCO","PCO 1650","PCO 1650",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A73D",,,,
+"11448","A","PCO","22",,"N","PRECINCT ANGEL CITY PCO","PCO 0022","PCO 0022",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2E5",,,,
+"12447","A","PCO","1509",,"N","PRECINCT SEA 34-1509 PCO","PCO 1509","PCO 1509",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6D1",,,,
+"13612","A","PCO","3215",,"N","PRECINCT SAM 41-3215 PCO","PCO 3215","PCO 3215",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB63",,,,
+"13412","A","PCO","2934",,"N","PRECINCT KIR 45-2934 PCO","PCO 2934","PCO 2934",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA9A",,,,
+"12401","A","PCO","1457",,"N","PRECINCT SEA 34-1457 PCO","PCO 1457","PCO 1457",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6A3",,,,
+"12009","A","PCO","920",,"N","PRECINCT SHL 32-0920 PCO","PCO 0920","PCO 0920",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A519",,,,
+"13366","A","PCO","2840",,"N","PRECINCT HANSEN PCO","PCO 2840","PCO 2840",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA6C",,,,
+"12058","A","PCO","990",,"N","PRECINCT RNT 11-0990 PCO","PCO 0990","PCO 0990",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A54A",,,,
+"12586","A","PCO","1697",,"N","PRECINCT SEA 36-1697 PCO","PCO 1697","PCO 1697",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A75D",,,,
+"11629","A","PCO","295",,"N","PRECINCT BUR 34-0295 PCO","PCO 0295","PCO 0295",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A39B",,,,
+"13295","A","PCO","2728",,"N","PRECINCT KELLY PCO","PCO 2728","PCO 2728",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA25",,,,
+"12718","A","PCO","1874",,"N","PRECINCT SEA 43-1874 PCO","PCO 1874","PCO 1874",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7E1",,,,
+"13163","A","PCO","2544",,"N","PRECINCT SEA 43-2544 PCO","PCO 2544","PCO 2544",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9A0",,,,
+"12956","A","PCO","2260",,"N","PRECINCT SEA 46-2260 PCO","PCO 2260","PCO 2260",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8D0",,,,
+"13341","A","PCO","2790",,"N","PRECINCT RED 48-2790 PCO","PCO 2790","PCO 2790",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA53",,,,
+"13031","A","PCO","2348",,"N","PRECINCT SEA 46-2348 PCO","PCO 2348","PCO 2348",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A91C",,,,
+"11468","A","PCO","54",,"N","PRECINCT AUB 31-0054 PCO","PCO 0054","PCO 0054",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2F9",,,,
+"11614","A","PCO","271",,"N","PRECINCT BROKEN HILL PCO","PCO 0271","PCO 0271",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A38C",,,,
+"12559","A","PCO","1663",,"N","PRECINCT SEA 36-1663 PCO","PCO 1663","PCO 1663",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A742",,,,
+"11782","A","PCO","556",,"N","PRECINCT JEFFERSON PCO","PCO 0556","PCO 0556",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A435",,,,
+"13480","A","PCO","3022",,"N","PRECINCT FED 30-3022 PCO","PCO 3022","PCO 3022",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AADE",,,,
+"13544","A","PCO","3092",,"N","PRECINCT FED 30-3092 PCO","PCO 3092","PCO 3092",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB1F",,,,
+"13555","A","PCO","3107",,"N","PRECINCT SET 33-3107 PCO","PCO 3107","PCO 3107",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB2A",,,,
+"13331","A","PCO","2775",,"N","PRECINCT BEL 48-2775 PCO","PCO 2775","PCO 2775",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA49",,,,
+"12315","A","PCO","1365",,"N","PRECINCT SEA 43-1365 PCO","PCO 1365","PCO 1365",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A64D",,,,
+"12984","A","PCO","2296",,"N","PRECINCT SEA 46-2296 PCO","PCO 2296","PCO 2296",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8EC",,,,
+"13016","A","PCO","2333",,"N","PRECINCT SEA 46-2333 PCO","PCO 2333","PCO 2333",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A90D",,,,
+"11962","A","PCO","835",,"N","PRECINCT KEN 47-0835 PCO","PCO 0835","PCO 0835",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A4E9",,,,
+"13116","A","PCO","2485",,"N","PRECINCT KEN 47-2485 PCO","PCO 2485","PCO 2485",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A971",,,,
+"13630","A","PCO","3235",,"N","PRECINCT FED 30-3235 PCO","PCO 3235","PCO 3235",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB75",,,,
+"13309","A","PCO","2748",,"N","PRECINCT M-V 05-2748 PCO","PCO 2748","PCO 2748",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA33",,,,
+"13248","A","PCO","2656",,"N","PRECINCT HOLLYMORE PCO","PCO 2656","PCO 2656",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9F5",,,,
+"12884","A","PCO","2109",,"N","PRECINCT SEA 43-2109 PCO","PCO 2109","PCO 2109",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A888",,,,
+"12295","A","PCO","1343",,"N","PRECINCT SEA 43-1343 PCO","PCO 1343","PCO 1343",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A639",,,,
+"12978","A","PCO","2289",,"N","PRECINCT SEA 46-2289 PCO","PCO 2289","PCO 2289",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8E6",,,,
+"12046","A","PCO","975",,"N","PRECINCT RNT 11-0975 PCO","PCO 0975","PCO 0975",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A53E",,,,
+"12305","A","PCO","1354",,"N","PRECINCT SEA 43-1354 PCO","PCO 1354","PCO 1354",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A643",,,,
+"12411","A","PCO","1467",,"N","PRECINCT SEA 34-1467 PCO","PCO 1467","PCO 1467",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6AD",,,,
+"12522","A","PCO","1610",,"N","PRECINCT SEA 37-1610 PCO","PCO 1610","PCO 1610",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A71D",,,,
+"13689","A","PCO","3314",,"N","PRECINCT RED 48-3314 PCO","PCO 3314","PCO 3314",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABB0",,,,
+"11582","A","PCO","221",,"N","PRECINCT BEL 48-0221 PCO","PCO 0221","PCO 0221",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A36C",,,,
+"13512","A","PCO","3054",,"N","PRECINCT FED 30-3054 PCO","PCO 3054","PCO 3054",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AAFE",,,,
+"13657","A","PCO","3275",,"N","PRECINCT KEN 47-3275 PCO","PCO 3275","PCO 3275",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB90",,,,
+"12635","A","PCO","1754",,"N","PRECINCT SEA 36-1754 PCO","PCO 1754","PCO 1754",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A78E",,,,
+"13148","A","PCO","2526",,"N","PRECINCT SEA 36-2526 PCO","PCO 2526","PCO 2526",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A991",,,,
+"12971","A","PCO","2278",,"N","PRECINCT SEA 46-2278 PCO","PCO 2278","PCO 2278",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8DF",,,,
+"12158","A","PCO","1147",,"N","PRECINCT KMR 46-1147 PCO","PCO 1147","PCO 1147",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5AF",,,,
+"12205","A","PCO","1228",,"N","PRECINCT SHL 32-1228 PCO","PCO 1228","PCO 1228",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5DE",,,,
+"12471","A","PCO","1536",,"N","PRECINCT SEA 34-1536 PCO","PCO 1536","PCO 1536",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6E9",,,,
+"12142","A","PCO","1121",,"N","PRECINCT STEVENS PCO","PCO 1121","PCO 1121",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A59F",,,,
+"11994","A","PCO","895",,"N","PRECINCT SHL 32-0895 PCO","PCO 0895","PCO 0895",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A50A",,,,
+"12339","A","PCO","1391",,"N","PRECINCT SEA 36-1391 PCO","PCO 1391","PCO 1391",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A665",,,,
+"13676","A","PCO","3299",,"N","PRECINCT AUB 31-3299 PCO","PCO 3299","PCO 3299",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABA3",,,,
+"12073","A","PCO","1008",,"N","PRECINCT RNT 11-1008 PCO","PCO 1008","PCO 1008",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A559",,,,
+"12591","A","PCO","1702",,"N","PRECINCT SEA 36-1702 PCO","PCO 1702","PCO 1702",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A762",,,,
+"13497","A","PCO","3039",,"N","PRECINCT FED 30-3039 PCO","PCO 3039","PCO 3039",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AAEF",,,,
+"12269","A","PCO","1311",,"N","PRECINCT SEA 46-1311 PCO","PCO 1311","PCO 1311",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A61F",,,,
+"12026","A","PCO","947",,"N","PRECINCT RED 48-0947 PCO","PCO 0947","PCO 0947",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A52A",,,,
+"12290","A","PCO","1335",,"N","PRECINCT SEA 43-1335 PCO","PCO 1335","PCO 1335",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A634",,,,
+"12200","A","PCO","1218",,"N","PRECINCT M-V 05-1218 PCO","PCO 1218","PCO 1218",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5D9",,,,
+"12767","A","PCO","1936",,"N","PRECINCT SEA 37-1936 PCO","PCO 1936","PCO 1936",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A813",,,,
+"12603","A","PCO","1718",,"N","PRECINCT SEA 36-1718 PCO","PCO 1718","PCO 1718",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A76E",,,,
+"12828","A","PCO","2020",,"N","PRECINCT SEA 43-2020 PCO","PCO 2020","PCO 2020",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A850",,,,
+"13525","A","PCO","3069",,"N","PRECINCT SET 33-3069 PCO","PCO 3069","PCO 3069",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB0C",,,,
+"12503","A","PCO","1583",,"N","PRECINCT SEA 37-1583 PCO","PCO 1583","PCO 1583",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A70A",,,,
+"11550","A","PCO","171",,"N","PRECINCT BEL 48-0171 PCO","PCO 0171","PCO 0171",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A34C",,,,
+"11508","A","PCO","117",,"N","PRECINCT BEL 41-0117 PCO","PCO 0117","PCO 0117",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A322",,,,
+"12371","A","PCO","1425",,"N","PRECINCT SEA 34-1425 PCO","PCO 1425","PCO 1425",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A685",,,,
+"12110","A","PCO","1069",,"N","PRECINCT SHAMROCK PCO","PCO 1069","PCO 1069",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A57E",,,,
+"11597","A","PCO","241",,"N","PRECINCT SHL 32-0241 PCO","PCO 0241","PCO 0241",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A37B",,,,
+"12818","A","PCO","2007",,"N","PRECINCT SEA 43-2007 PCO","PCO 2007","PCO 2007",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A846",,,,
+"12422","A","PCO","1478",,"N","PRECINCT SEA 34-1478 PCO","PCO 1478","PCO 1478",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6B8",,,,
+"12924","A","PCO","2201",,"N","PRECINCT SEA 32-2201 PCO","PCO 2201","PCO 2201",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8B0",,,,
+"13381","A","PCO","2863",,"N","PRECINCT KIR 48-2863 PCO","PCO 2863","PCO 2863",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA7B",,,,
+"12465","A","PCO","1529",,"N","PRECINCT SEA 34-1529 PCO","PCO 1529","PCO 1529",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6E3",,,,
+"11846","A","PCO","648",,"N","PRECINCT SHL 32-0648 PCO","PCO 0648","PCO 0648",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A475",,,,
+"13395","A","PCO","2915",,"N","PRECINCT KIR 48-2915 PCO","PCO 2915","PCO 2915",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA89",,,,
+"12750","A","PCO","1913",,"N","PRECINCT SEA 37-1913 PCO","PCO 1913","PCO 1913",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A802",,,,
+"12999","A","PCO","2313",,"N","PRECINCT SEA 46-2313 PCO","PCO 2313","PCO 2313",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8FB",,,,
+"12068","A","PCO","1000",,"N","PRECINCT RNT 37-1000 PCO","PCO 1000","PCO 1000",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A554",,,,
+"11809","A","PCO","596",,"N","PRECINCT KEN 33-0596 PCO","PCO 0596","PCO 0596",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A450",,,,
+"12914","A","PCO","2163",,"N","PRECINCT SEA 36-2163 PCO","PCO 2163","PCO 2163",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8A6",,,,
+"11640","A","PCO","313",,"N","PRECINCT COV 47-0313 PCO","PCO 0313","PCO 0313",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3A6",,,,
+"12735","A","PCO","1893",,"N","PRECINCT SEA 37-1893 PCO","PCO 1893","PCO 1893",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7F2",,,,
+"11545","A","PCO","166",,"N","PRECINCT BEL 48-0166 PCO","PCO 0166","PCO 0166",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A347",,,,
+"11672","A","PCO","362",,"N","PRECINCT DES 33-0362 PCO","PCO 0362","PCO 0362",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3C6",,,,
+"11439","A","PCO","9",,"N","PRECINCT BUR 33-0009 PCO","PCO 0009","PCO 0009",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.1","000000001E79A2DC",,,,
+"11655","A","PCO","331",,"N","PRECINCT CONNAUGHT PCO","PCO 0331","PCO 0331",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A3B5",,,,
+"11941","A","PCO","799",,"N","PRECINCT MERLIN PCO","PCO 0799","PCO 0799",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4D4",,,,
+"11878","A","PCO","703",,"N","PRECINCT MCDONALD PCO","PCO 0703","PCO 0703",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A495",,,,
+"11677","A","PCO","368",,"N","PRECINCT SHL 32-0368 PCO","PCO 0368","PCO 0368",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3CB",,,,
+"13072","A","PCO","2410",,"N","PRECINCT RED 45-2410 PCO","PCO 2410","PCO 2410",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A945",,,,
+"11523","A","PCO","134",,"N","PRECINCT BEL 48-0134 PCO","PCO 0134","PCO 0134",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A331",,,,
+"12036","A","PCO","958",,"N","PRECINCT RENHILL PCO","PCO 0958","PCO 0958",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A534",,,,
+"12867","A","PCO","2083",,"N","PRECINCT SEA 43-2083 PCO","PCO 2083","PCO 2083",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A877",,,,
+"13398","A","PCO","2918",,"N","PRECINCT KIR 01-2918 PCO","PCO 2918","PCO 2918",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA8C",,,,
+"12618","A","PCO","1735",,"N","PRECINCT SEA 36-1735 PCO","PCO 1735","PCO 1735",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A77D",,,,
+"13280","A","PCO","2709",,"N","PRECINCT KEN 47-2709 PCO","PCO 2709","PCO 2709",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA16",,,,
+"12063","A","PCO","995",,"N","PRECINCT RNT 41-0995 PCO","PCO 0995","PCO 0995",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A54F",,,,
+"13380","A","PCO","2862",,"N","PRECINCT SEA 43-2862 PCO","PCO 2862","PCO 2862",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA7A",,,,
+"13662","A","PCO","3281",,"N","PRECINCT RED 45-3281 PCO","PCO 3281","PCO 3281",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB95",,,,
+"11977","A","PCO","859",,"N","PRECINCT N-B 05-0859 PCO","PCO 0859","PCO 0859",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A4F8",,,,
+"13644","A","PCO","3261",,"N","PRECINCT NEW 41-3261 PCO","PCO 3261","PCO 3261",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79AB83",,,,
+"12486","A","PCO","1559",,"N","PRECINCT SEA 37-1559 PCO","PCO 1559","PCO 1559",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6F8",,,,
+"13263","A","PCO","2683",,"N","PRECINCT N-B 05-2683 PCO","PCO 2683","PCO 2683",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA05",,,,
+"13131","A","PCO","2505",,"N","PRECINCT SEA 36-2505 PCO","PCO 2505","PCO 2505",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A980",,,,
+"12808","A","PCO","1994",,"N","PRECINCT SEA 43-1994 PCO","PCO 1994","PCO 1994",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A83C",,,,
+"12671","A","PCO","1812",,"N","PRECINCT SEA 36-1812 PCO","PCO 1812","PCO 1812",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7B2",,,,
+"12164","A","PCO","1158",,"N","PRECINCT SHL 32-1158 PCO","PCO 1158","PCO 1158",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5B5",,,,
+"11715","A","PCO","432",,"N","PRECINCT FALL CITY PCO","PCO 0432","PCO 0432",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3F1",,,,
+"13693","A","PCO","3318",,"N","PRECINCT SEA 36-3318 PCO","PCO 3318","PCO 3318",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABB4",,,,
+"13712","A","PCO","3339",,"N","PRECINCT CROSS PCO","PCO 3339","PCO 3339",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABC7",,,,
+"13186","A","PCO","2573",,"N","PRECINCT AUB 47-2573 PCO","PCO 2573","PCO 2573",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9B7",,,,
+"11477","A","PCO","69",,"N","PRECINCT AUB 31-0069 PCO","PCO 0069","PCO 0069",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A303",,,,
+"12095","A","PCO","1047",,"N","PRECINCT BUR 34-1047 PCO","PCO 1047","PCO 1047",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A56F",,,,
+"11814","A","PCO","603",,"N","PRECINCT KEN 33-0603 PCO","PCO 0603","PCO 0603",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A455",,,,
+"11732","A","PCO","472",,"N","PRECINCT BEL 41-0472 PCO","PCO 0472","PCO 0472",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A403",,,,
+"12280","A","PCO","1324",,"N","PRECINCT SEA 36-1324 PCO","PCO 1324","PCO 1324",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A62A",,,,
+"11500","A","PCO","108",,"N","PRECINCT BEL 41-0108 PCO","PCO 0108","PCO 0108",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A31A",,,,
+"13085","A","PCO","2439",,"N","PRECINCT LFP 46-2439 PCO","PCO 2439","PCO 2439",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A952",,,,
+"12850","A","PCO","2050",,"N","PRECINCT SEA 43-2050 PCO","PCO 2050","PCO 2050",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A866",,,,
+"11444","A","PCO","14",,"N","PRECINCT ALG 30-0014 PCO","PCO 0014","PCO 0014",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2E1",,,,
+"11609","A","PCO","260",,"N","PRECINCT BOT 01-0260 PCO","PCO 0260","PCO 0260",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A387",,,,
+"12613","A","PCO","1729",,"N","PRECINCT SEA 36-1729 PCO","PCO 1729","PCO 1729",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A778",,,,
+"13168","A","PCO","2550",,"N","PRECINCT SEA 43-2550 PCO","PCO 2550","PCO 2550",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9A5",,,,
+"11873","A","PCO","696",,"N","PRECINCT KMR 46-0696 PCO","PCO 0696","PCO 0696",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A490",,,,
+"13681","A","PCO","3304",,"N","PRECINCT BERRYDALE PCO","PCO 3304","PCO 3304",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.8","000000001E79ABA8",,,,
+"13216","A","PCO","2619",,"N","PRECINCT SEA 46-2619 PCO","PCO 2619","PCO 2619",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9D5",,,,
+"12127","A","PCO","1097",,"N","PRECINCT SNQ 05-1097 PCO","PCO 1097","PCO 1097",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A590",,,,
+"12100","A","PCO","1056",,"N","PRECINCT LFP 46-1056 PCO","PCO 1056","PCO 1056",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A574",,,,
+"12803","A","PCO","1986",,"N","PRECINCT SEA 43-1986 PCO","PCO 1986","PCO 1986",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A837",,,,
+"13580","A","PCO","3162",,"N","PRECINCT RNT 11-3162 PCO","PCO 3162","PCO 3162",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB43",,,,
+"11683","A","PCO","378",,"N","PRECINCT SHL 32-0378 PCO","PCO 0378","PCO 0378",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3D1",,,,
+"11577","A","PCO","216",,"N","PRECINCT BEL 48-0216 PCO","PCO 0216","PCO 0216",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A367",,,,
+"12426","A","PCO","1482",,"N","PRECINCT SEA 34-1482 PCO","PCO 1482","PCO 1482",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6BC",,,,
+"13199","A","PCO","2593",,"N","PRECINCT SEA 36-2593 PCO","PCO 2593","PCO 2593",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9C4",,,,
+"13136","A","PCO","2510",,"N","PRECINCT SEA 36-2510 PCO","PCO 2510","PCO 2510",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A985",,,,
+"12544","A","PCO","1636",,"N","PRECINCT SEA 37-1636 PCO","PCO 1636","PCO 1636",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A733",,,,
+"11913","A","PCO","769",,"N","PRECINCT M-I 41-0769 PCO","PCO 0769","PCO 0769",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4B8",,,,
+"12935","A","PCO","2217",,"N","PRECINCT SEA 32-2217 PCO","PCO 2217","PCO 2217",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A8BB",,,,
+"12705","A","PCO","1858",,"N","PRECINCT SEA 43-1858 PCO","PCO 1858","PCO 1858",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7D4",,,,
+"13316","A","PCO","2759",,"N","PRECINCT KIR 01-2759 PCO","PCO 2759","PCO 2759",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA3A",,,,
+"13067","A","PCO","2403",,"N","PRECINCT KEN 47-2403 PCO","PCO 2403","PCO 2403",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A940",,,,
+"12872","A","PCO","2091",,"N","PRECINCT SEA 46-2091 PCO","PCO 2091","PCO 2091",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A87C",,,,
+"11831","A","PCO","629",,"N","PRECINCT KIR 48-0629 PCO","PCO 0629","PCO 0629",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A466",,,,
+"13448","A","PCO","2985",,"N","PRECINCT KEN 47-2985 PCO","PCO 2985","PCO 2985",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AABE",,,,
+"11770","A","PCO","536",,"N","PRECINCT SAM 45-0536 PCO","PCO 0536","PCO 0536",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A429",,,,
+"12078","A","PCO","1017",,"N","PRECINCT RNT 41-1017 PCO","PCO 1017","PCO 1017",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A55E",,,,
+"12137","A","PCO","1113",,"N","PRECINCT SQUAK MOUNTAIN PCO","PCO 1113","PCO 1113",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A59A",,,,
+"13427","A","PCO","2956",,"N","PRECINCT TUK 11-2956 PCO","PCO 2956","PCO 2956",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAA9",,,,
+"12407","A","PCO","1463",,"N","PRECINCT SEA 34-1463 PCO","PCO 1463","PCO 1463",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6A9",,,,
+"11709","A","PCO","422",,"N","PRECINCT KIR 01-0422 PCO","PCO 0422","PCO 0422",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3EB",,,,
+"13084","A","PCO","2434",,"N","PRECINCT BEL 48-2434 PCO","PCO 2434","PCO 2434",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A951",,,,
+"13035","A","PCO","2352",,"N","PRECINCT SEA 46-2352 PCO","PCO 2352","PCO 2352",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A920",,,,
+"13429","A","PCO","2961",,"N","PRECINCT SAM 45-2961 PCO","PCO 2961","PCO 2961",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAAB",,,,
+"11741","A","PCO","486",,"N","PRECINCT SHL 32-0486 PCO","PCO 0486","PCO 0486",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A40C",,,,
+"12458","A","PCO","1520",,"N","PRECINCT SEA 34-1520 PCO","PCO 1520","PCO 1520",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6DC",,,,
+"12904","A","PCO","2143",,"N","PRECINCT SEA 46-2143 PCO","PCO 2143","PCO 2143",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A89C",,,,
+"12327","A","PCO","1377",,"N","PRECINCT SEA 43-1377 PCO","PCO 1377","PCO 1377",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A659",,,,
+"12275","A","PCO","1319",,"N","PRECINCT SEA 36-1319 PCO","PCO 1319","PCO 1319",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A625",,,,
+"13575","A","PCO","3150",,"N","PRECINCT TWIN PEAKS PCO","PCO 3150","PCO 3150",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB3E",,,,
+"13461","A","PCO","3001",,"N","PRECINCT FED 30-3001 PCO","PCO 3001","PCO 3001",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AACB",,,,
+"12005","A","PCO","914",,"N","PRECINCT SHL 32-0914 PCO","PCO 0914","PCO 0914",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A515",,,,
+"13593","A","PCO","3192",,"N","PRECINCT WOD 45-3192 PCO","PCO 3192","PCO 3192",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB50",,,,
+"11930","A","PCO","788",,"N","PRECINCT M-I 41-0788 PCO","PCO 0788","PCO 0788",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4C9",,,,
+"12443","A","PCO","1504",,"N","PRECINCT SEA 34-1504 PCO","PCO 1504","PCO 1504",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6CD",,,,
+"13459","A","PCO","2999",,"N","PRECINCT FED 30-2999 PCO","PCO 2999","PCO 2999",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AAC9",,,,
+"12655","A","PCO","1774",,"N","PRECINCT SEA 36-1774 PCO","PCO 1774","PCO 1774",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A7A2",,,,
+"13592","A","PCO","3190",,"N","PRECINCT KEN 47-3190 PCO","PCO 3190","PCO 3190",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB4F",,,,
+"13561","A","PCO","3131",,"N","PRECINCT DES 33-3131 PCO","PCO 3131","PCO 3131",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB30",,,,
+"11799","A","PCO","585",,"N","PRECINCT KEN 33-0585 PCO","PCO 0585","PCO 0585",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A446",,,,
+"12376","A","PCO","1430",,"N","PRECINCT SEA 34-1430 PCO","PCO 1430","PCO 1430",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A68A",,,,
+"12529","A","PCO","1617",,"N","PRECINCT SEA 37-1617 PCO","PCO 1617","PCO 1617",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A724",,,,
+"12882","A","PCO","2104",,"N","PRECINCT SEA 43-2104 PCO","PCO 2104","PCO 2104",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A886",,,,
+"12640","A","PCO","1759",,"N","PRECINCT SEA 36-1759 PCO","PCO 1759","PCO 1759",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A793",,,,
+"13476","A","PCO","3018",,"N","PRECINCT FED 30-3018 PCO","PCO 3018","PCO 3018",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AADA",,,,
+"13360","A","PCO","2832",,"N","PRECINCT BRINN PCO","PCO 2832","PCO 2832",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA66",,,,
+"12539","A","PCO","1631",,"N","PRECINCT SEA 37-1631 PCO","PCO 1631","PCO 1631",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A72E",,,,
+"11958","A","PCO","824",,"N","PRECINCT BUR 34-0824 PCO","PCO 0824","PCO 0824",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4E5",,,,
+"11704","A","PCO","416",,"N","PRECINCT ENM 31-0416 PCO","PCO 0416","PCO 0416",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A3E6",,,,
+"12988","A","PCO","2300",,"N","PRECINCT SEA 46-2300 PCO","PCO 2300","PCO 2300",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A8F0",,,,
+"13158","A","PCO","2537",,"N","PRECINCT SEA 32-2537 PCO","PCO 2537","PCO 2537",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A99B",,,,
+"12090","A","PCO","1034",,"N","PRECINCT KEN 47-1034 PCO","PCO 1034","PCO 1034",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A56A",,,,
+"11572","A","PCO","210",,"N","PRECINCT BEL 41-0210 PCO","PCO 0210","PCO 0210",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A362",,,,
+"12821","A","PCO","2011",,"N","PRECINCT SEA 43-2011 PCO","PCO 2011","PCO 2011",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A849",,,,
+"12222","A","PCO","1255",,"N","PRECINCT SEA 34-1255 PCO","PCO 1255","PCO 1255",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A5EF",,,,
+"12260","A","PCO","1301",,"N","PRECINCT SEA 36-1301 PCO","PCO 1301","PCO 1301",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A616",,,,
+"11533","A","PCO","147",,"N","PRECINCT BEL 48-0147 PCO","PCO 0147","PCO 0147",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A33B",,,,
+"11472","A","PCO","62",,"N","PRECINCT AUB 31-0062 PCO","PCO 0062","PCO 0062",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.2","000000001E79A2FD",,,,
+"12354","A","PCO","1408",,"N","PRECINCT SEA 34-1408 PCO","PCO 1408","PCO 1408",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A674",,,,
+"12650","A","PCO","1769",,"N","PRECINCT SEA 36-1769 PCO","PCO 1769","PCO 1769",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A79D",,,,
+"12608","A","PCO","1723",,"N","PRECINCT SEA 36-1723 PCO","PCO 1723","PCO 1723",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A773",,,,
+"13493","A","PCO","3035",,"N","PRECINCT FED 30-3035 PCO","PCO 3035","PCO 3035",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AAEB",,,,
+"12598","A","PCO","1713",,"N","PRECINCT SEA 36-1713 PCO","PCO 1713","PCO 1713",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A769",,,,
+"13184","A","PCO","2569",,"N","PRECINCT KEN 33-2569 PCO","PCO 2569","PCO 2569",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9B5",,,,
+"11767","A","PCO","533",,"N","PRECINCT HPT 48-0533 PCO","PCO 0533","PCO 0533",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.4","000000001E79A426",,,,
+"12840","A","PCO","2037",,"N","PRECINCT SEA 43-2037 PCO","PCO 2037","PCO 2037",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.2","000000001E79A85C",,,,
+"11990","A","PCO","886",,"N","PRECINCT PAC 30-0886 PCO","PCO 0886","PCO 0886",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.6","000000001E79A506",,,,
+"13548","A","PCO","3096",,"N","PRECINCT FED 30-3096 PCO","PCO 3096","PCO 3096",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB23",,,,
+"11826","A","PCO","622",,"N","PRECINCT KIR 45-0622 PCO","PCO 0622","PCO 0622",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A461",,,,
+"11945","A","PCO","804",,"N","PRECINCT RNT 11-0804 PCO","PCO 0804","PCO 0804",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4D8",,,,
+"12337","A","PCO","1389",,"N","PRECINCT SEA 36-1389 PCO","PCO 1389","PCO 1389",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A663",,,,
+"12482","A","PCO","1553",,"N","PRECINCT SEA 37-1553 PCO","PCO 1553","PCO 1553",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A6F4",,,,
+"12789","A","PCO","1967",,"N","PRECINCT SEA 46-1967 PCO","PCO 1967","PCO 1967",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A829",,,,
+"13231","A","PCO","2637",,"N","PRECINCT DES 33-2637 PCO","PCO 2637","PCO 2637",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79A9E4",,,,
+"12122","A","PCO","1088",,"N","PRECINCT SI VIEW PCO","PCO 1088","PCO 1088",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A58B",,,,
+"13405","A","PCO","2925",,"N","PRECINCT KIR 48-2925 PCO","PCO 2925","PCO 2925",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA93",,,,
+"12391","A","PCO","1446",,"N","PRECINCT SEA 34-1446 PCO","PCO 1446","PCO 1446",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A699",,,,
+"13363","A","PCO","2837",,"N","PRECINCT FARLEY PCO","PCO 2837","PCO 2837",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.6","000000001E79AA69",,,,
+"13010","A","PCO","2325",,"N","PRECINCT SEA 46-2325 PCO","PCO 2325","PCO 2325",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A907",,,,
+"13348","A","PCO","2804",,"N","PRECINCT DANIEL PCO","PCO 2804","PCO 2804",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.5","000000001E79AA5A",,,,
+"12518","A","PCO","1602",,"N","PRECINCT SEA 11-1602 PCO","PCO 1602","PCO 1602",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A719",,,,
+"13099","A","PCO","2459",,"N","PRECINCT FAIRHAVEN PCO","PCO 2459","PCO 2459",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A960",,,,
+"13020","A","PCO","2337",,"N","PRECINCT SEA 46-2337 PCO","PCO 2337","PCO 2337",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A911",,,,
+"12507","A","PCO","1587",,"N","PRECINCT SEA 37-1587 PCO","PCO 1587","PCO 1587",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A70E",,,,
+"11565","A","PCO","196",,"N","PRECINCT BEL 48-0196 PCO","PCO 0196","PCO 0196",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.3","000000001E79A35B",,,,
+"13625","A","PCO","3228",,"N","PRECINCT NEW 41-3228 PCO","PCO 3228","PCO 3228",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB70",,,,
+"11898","A","PCO","752",,"N","PRECINCT MED 48-0752 PCO","PCO 0752","PCO 0752",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A4A9",,,,
+"12196","A","PCO","1210",,"N","PRECINCT SHL 32-1210 PCO","PCO 1210","PCO 1210",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.7","000000001E79A5D5",,,,
+"12782","A","PCO","1959",,"N","PRECINCT SEA 46-1959 PCO","PCO 1959","PCO 1959",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.1","000000001E79A822",,,,
+"13042","A","PCO","2361",,"N","PRECINCT SEA 46-2361 PCO","PCO 2361","PCO 2361",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A927",,,,
+"12265","A","PCO","1307",,"N","PRECINCT SEA 36-1307 PCO","PCO 1307","PCO 1307",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.8","000000001E79A61B",,,,
+"13201","A","PCO","2595",,"N","PRECINCT KIR 01-2595 PCO","PCO 2595","PCO 2595",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.4","000000001E79A9C6",,,,
+"13052","A","PCO","2377",,"N","PRECINCT SEA 46-2377 PCO","PCO 2377","PCO 2377",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.3","000000001E79A931",,,,
+"11863","A","PCO","682",,"N","PRECINCT DES 33-0682 PCO","PCO 0682","PCO 0682",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.5","000000001E79A486",,,,
+"12576","A","PCO","1686",,"N","PRECINCT SEA 36-1686 PCO","PCO 1686","PCO 1686",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","5/8/2012 9:42","000000001E79A753",,,,
+"13607","A","PCO","3210",,"N","PRECINCT SALISH PCO","PCO 3210","PCO 3210",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.7","000000001E79AB5E",,,,
+"12623","A","PCO","1740",,"N","PRECINCT SEA 36-1740 PCO","PCO 1740","PCO 1740",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:25.0","000000001E79A782",,,,
+"12369","A","PCO","1423",,"N","PRECINCT SEA 34-1423 PCO","PCO 1423","PCO 1423",,,,,,,,,,,,,,,,"N",,"N",,,,"3640","42:24.9","000000001E79A683",,,,

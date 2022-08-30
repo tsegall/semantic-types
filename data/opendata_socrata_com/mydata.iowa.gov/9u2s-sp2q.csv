@@ -1,0 +1,1001 @@
+"year","quarter","area_type","area_name","industry","description","locations","month_1","month_2","month_3","average_emp","wages","average_wage"
+"2011","1","Statewide","Statewide","11","Agriculture, Forestry, Fishing & Hunt","1921","14343","14504","14895","14581","120482380","8263"
+"2011","1","Statewide","Statewide","21","Mining, Quarrying, & Oil & Gas Extrac","186","1638","1811","1818","1756","16795603","9567"
+"2011","1","Statewide","Statewide","22","Utilities","449","8330","8288","8328","8315","159354343","19164"
+"2011","1","Statewide","Statewide","23","Construction","8994","52324","51154","53629","52369","550609340","10514"
+"2011","1","Statewide","Statewide","31","Manufacturing","3985","201803","202120","203641","202521","2454028544","12117"
+"2011","1","Statewide","Statewide","42","Wholesale Trade","7304","64967","64852","65500","65106","888940025","13654"
+"2011","1","Statewide","Statewide","44","Retail Trade","12265","170763","169084","170075","169974","956379348","5627"
+"2011","1","Statewide","Statewide","48","Transportation & Warehousing","4505","60919","60997","61444","61120","571312804","9347"
+"2011","1","Statewide","Statewide","51","Information","1674","28723","28825","28818","28789","329818950","11457"
+"2011","1","Statewide","Statewide","52","Finance & Insurance","6252","88634","88396","88307","88446","1570874943","17761"
+"2011","1","Statewide","Statewide","53","Real Estate, Rental, Leasing","2799","12813","12692","12694","12733","132651594","10418"
+"2011","1","Statewide","Statewide","54","Professional, Scientific, Technical","7739","43539","44154","44003","43899","546243786","12443"
+"2011","1","Statewide","Statewide","55","Management of Companies & Enterprises","737","14517","14534","14558","14536","272462413","18744"
+"2011","1","Statewide","Statewide","56","Administrative, Support, Waste Mgmt","4447","65191","64744","64723","64886","411556115","6343"
+"2011","1","Statewide","Statewide","61","Educational Services","2537","144756","148423","149218","147466","1358127563","9210"
+"2011","1","Statewide","Statewide","62","Health Care & Social Assistance","8375","204097","204183","204982","204421","1835479515","8979"
+"2011","1","Statewide","Statewide","71","Arts, Entertainment & Recreation","1468","16887","17078","17774","17246","83557077","4845"
+"2011","1","Statewide","Statewide","72","Accommodations & Food Services","6700","107017","107142","109170","107776","334881868","3107"
+"2011","1","Statewide","Statewide","81","Other Services (except Public Admin)","8109","42196","42045","42377","42206","264475857","6266"
+"2011","1","Statewide","Statewide","92","Public Administration","2855","65933","65589","65762","65761","687845509","10460"
+"2011","1","Statewide","Statewide","111","Crop Production","679","2927","3026","3364","3106","24159635","7779"
+"2011","1","Statewide","Statewide","112","Animal Production","879","8961","9043","9100","9035","66640342","7376"
+"2011","1","Statewide","Statewide","113","Forestry and Logging","11","23","23","22","23","175914","7761"
+"2011","1","Statewide","Statewide","114","Fishing, Hunting & Trapping","3","4","4","4","4","84684","21171"
+"2011","1","Statewide","Statewide","115","Support Activities","349","2428","2408","2405","2414","29421805","12190"
+"2011","1","Statewide","Statewide","211","Oil & Gas Extraction","0",,,,,,
+"2011","1","Statewide","Statewide","212","Mining (except Oil and Gas)","179","1619","1791","1798","1736","16482451","9494"
+"2011","1","Statewide","Statewide","213","Support Activities for Mining","7","19","20","20","20","313152","15923"
+"2011","1","Statewide","Statewide","221","Power Generation and Supply","312","6651","6624","6650","6642","136360273","20531"
+"2011","1","Statewide","Statewide","221","Natural Gas Distribution","40","604","604","608","605","10357379","17110"
+"2011","1","Statewide","Statewide","221","Water, Sewage and Other Systems","97","1075","1060","1070","1068","12636691","11828"
+"2011","1","Statewide","Statewide","236","Construction of Buildings","2514","12460","12146","12370","12325","129665442","10520"
+"2011","1","Statewide","Statewide","237","Heavy & Civil Engineering Const","912","6882","6828","7526","7079","90193674","12742"
+"2011","1","Statewide","Statewide","238","Specialty Trade Contractors","5568","32982","32180","33733","32965","330750224","10033"
+"2011","1","Statewide","Statewide","311","Food Manufacturing","546","50178","49981","50003","50054","529025453","10569"
+"2011","1","Statewide","Statewide","312","Beverage & Tobacco Product Mfg","50","1417","1400","1410","1409","12971809","9206"
+"2011","1","Statewide","Statewide","313","Textile Mills","10","116","119","118","118","1021157","8678"
+"2011","1","Statewide","Statewide","314","Textile Product Mills","65","716","720","737","724","4071128","5621"
+"2011","1","Statewide","Statewide","315","Apparel Manufacturing","22","1137","1100","1084","1107","8346391","7540"
+"2011","1","Statewide","Statewide","316","Leather & Allied Prodct Mfg","13","246","241","234","240","1784549","7425"
+"2011","1","Statewide","Statewide","321","Wood Product Manufacturing","173","8198","7959","7977","8045","75449842","9379"
+"2011","1","Statewide","Statewide","322","Paper Manufacturing","51","3751","3758","3777","3762","48515556","12896"
+"2011","1","Statewide","Statewide","323","Printing & Related Support Activ","344","6962","6936","6952","6950","62877046","9047"
+"2011","1","Statewide","Statewide","324","Petroleum & Coal Products Mfg","20","321","334","337","331","4108925","12426"
+"2011","1","Statewide","Statewide","325","Chemical Manufacturing","221","9429","9396","9440","9422","139153105","14769"
+"2011","1","Statewide","Statewide","326","Plastics & Rubber Products Mfg","167","9590","9637","9690","9639","113135733","11737"
+"2011","1","Statewide","Statewide","327","Nonmetallic Mineral Product Mfg","363","4008","4088","4398","4165","41924241","10067"
+"2011","1","Statewide","Statewide","331","Primary Metal Manufacturing","75","7745","7810","7872","7809","102084638","13073"
+"2011","1","Statewide","Statewide","332","Fabricated Metal Product Mfg","588","17524","17561","17711","17599","186461813","10595"
+"2011","1","Statewide","Statewide","333","Machinery Manufacturing","470","35989","36550","37102","36547","544228782","14891"
+"2011","1","Statewide","Statewide","334","Computer & Electronic Product Mfg","93","12978","13118","13217","13104","222791934","17001"
+"2011","1","Statewide","Statewide","335","Electrical Equipment, Appliances","59","6385","6230","6208","6274","72798347","11603"
+"2011","1","Statewide","Statewide","336","Transportation Equipment Mfg","176","14834","14976","15132","14981","175088283","11688"
+"2011","1","Statewide","Statewide","337","Furniture & Related Product Mfg","221","6297","6277","6307","6294","68390681","10867"
+"2011","1","Statewide","Statewide","339","Miscellaneous Mfg","258","3982","3929","3935","3949","39799131","10079"
+"2011","1","Statewide","Statewide","423","Merchant Wholesalers, Durable Gds","2735","29357","29312","29473","29381","362558481","12340"
+"2011","1","Statewide","Statewide","424","Merchant Wholesalers, NonDurable","2322","28982","28926","29385","29098","402155366","13821"
+"2011","1","Statewide","Statewide","425","Wholesale Electronics Mkt, Agents","2247","6628","6614","6642","6628","124226178","18743"
+"2011","1","Statewide","Statewide","441","Motor Vehicle & Parts Dealers","1669","20208","20327","20579","20371","185170562","9090"
+"2011","1","Statewide","Statewide","442","Furniture & Home Furnishing Store","561","4107","4034","4065","4069","27350861","6722"
+"2011","1","Statewide","Statewide","443","Electronics & Appliance Stores","815","6801","6667","6653","6707","50408450","7516"
+"2011","1","Statewide","Statewide","444","Building Materials, Garden Supply","1214","14003","14018","14279","14100","103031070","7307"
+"2011","1","Statewide","Statewide","445","Food & Beverage Stores","1043","35800","35635","35645","35693","152223192","4265"
+"2011","1","Statewide","Statewide","446","Health & Personal Care Stores","1005","9219","9198","9189","9202","66781452","7257"
+"2011","1","Statewide","Statewide","447","Gasoline Stations","1768","17802","17795","17965","17854","67425922","3777"
+"2011","1","Statewide","Statewide","448","Clothing & Accessory Stores","1189","9734","9465","9661","9620","35546984","3695"
+"2011","1","Statewide","Statewide","451","Sporting Goods,Hobby,Music Stores","590","6450","6206","6202","6286","26910042","4281"
+"2011","1","Statewide","Statewide","452","General Merchandise Stores","660","35602","34860","35012","35158","181019087","5149"
+"2011","1","Statewide","Statewide","453","Miscellaneous Store Retailers","1334","7312","7299","7237","7283","31675859","4349"
+"2011","1","Statewide","Statewide","454","Nonstore retailers","417","3725","3580","3588","3631","28835867","7942"
+"2011","1","Statewide","Statewide","481","Air Transportation","36","362","367","368","366","3658676","10005"
+"2011","1","Statewide","Statewide","482","Rail Transportation","0",,,,,,
+"2011","1","Statewide","Statewide","483","Water Transportation","8","154","158","169","160","1827147","11396"
+"2011","1","Statewide","Statewide","484","Truck Transportation","2513","29105","29150","29372","29209","268022224","9176"
+"2011","1","Statewide","Statewide","485","Transit & Ground Passenger Transp","189","4642","4685","4740","4689","22965087","4898"
+"2011","1","Statewide","Statewide","486","Pipeline Transportation","45","333","331","336","333","7148284","21445"
+"2011","1","Statewide","Statewide","487","Scenic & Sightseeing Transport","6",,,,,,
+"2011","1","Statewide","Statewide","488","Support Activities for Transporta","348","2894","2894","2951","2913","29329073","10068"
+"2011","1","Statewide","Statewide","491","Postal Service","885",,,,,,
+"2011","1","Statewide","Statewide","492","Couriers & Messengers","219","4628","4640","4649","4639","40441873","8718"
+"2011","1","Statewide","Statewide","493","Warehousing & Storage","256","10725","10811","10890","10809","97575929","9028"
+"2011","1","Statewide","Statewide","511","Publishing Industries","469","9526","9586","9563","9558","102020037","10673"
+"2011","1","Statewide","Statewide","512","Motion Picture & Sound Recording","183","1757","1675","1718","1717","5481906","3193"
+"2011","1","Statewide","Statewide","515","Broadcasting (except Internet)","152","2797","2848","2840","2828","26235666","9276"
+"2011","1","Statewide","Statewide","517","Telecommunications","596","8509","8302","8233","8348","111376405","13342"
+"2011","1","Statewide","Statewide","518","Data Processing, Hosting, Related","146","5577","5845","5885","5769","78951300","13685"
+"2011","1","Statewide","Statewide","519","Other Information Services","128","557","569","579","568","5753636","10124"
+"2011","1","Statewide","Statewide","521","Monetary Authorities/Central Bank","2",,,,,,
+"2011","1","Statewide","Statewide","522","Credit Intermediation","2424","43593","43477","43316","43462","635890276","14631"
+"2011","1","Statewide","Statewide","523","Securities, Commodities etc","887","4367","4350","4361","4359","107888257","24749"
+"2011","1","Statewide","Statewide","524","Insurance Carriers & Related Act","2895","40344","40256","40299","40300","819486574","20335"
+"2011","1","Statewide","Statewide","525","Funds, Trusts, Other Financial","44","292","275","292","286","6405903","22372"
+"2011","1","Statewide","Statewide","531","Real Estate","2268","8565","8475","8468","8503","90517411","10646"
+"2011","1","Statewide","Statewide","532","Rental and leasing services","510","4134","4105","4114","4118","40253845","9776"
+"2011","1","Statewide","Statewide","533","Lessors of intangible assets","21","114","112","112","113","1880338","16689"
+"2011","1","Statewide","Statewide","541","Legal Services","1604","7247","7254","7243","7248","83617282","11537"
+"2011","1","Statewide","Statewide","541","Accounting, Tax Prep, Bkkp","1125","7442","7914","7807","7721","75036786","9719"
+"2011","1","Statewide","Statewide","541","Architectural, Engineering","820","5915","5874","5868","5886","86613888","14716"
+"2011","1","Statewide","Statewide","541","Specialized Design Services","162","635","618","622","625","6670856","10673"
+"2011","1","Statewide","Statewide","541","Computer Systems Design","1431","7719","7791","7686","7732","135490367","17523"
+"2011","1","Statewide","Statewide","541","Mgmt and Technical Consulting","1094","3794","3840","3886","3840","51651127","13451"
+"2011","1","Statewide","Statewide","541","Scientific Research/Development","176","1855","1863","1861","1860","34318259","18454"
+"2011","1","Statewide","Statewide","541","Advertising & Related Activity","386","3705","3791","3771","3756","39006501","10386"
+"2011","1","Statewide","Statewide","541","Other Professional, Scien, Tech","941","5227","5209","5259","5232","33838720","6468"
+"2011","1","Statewide","Statewide","551","Management of Companies & Enterpr","737","14517","14534","14558","14536","272462413","18744"
+"2011","1","Statewide","Statewide","561","Administrative & Support Services","4008","61820","61367","61322","61503","383319190","6233"
+"2011","1","Statewide","Statewide","562","Waste Mgmt & Remediation Services","439","3371","3377","3401","3383","28236925","8347"
+"2011","1","Statewide","Statewide","611","Elementary & Secondary Schools","1583","93416","94323","94621","94120","744899888","7914"
+"2011","1","Statewide","Statewide","611","Junior Colleges","84","9797","11622","12117","11179","85874478","7682"
+"2011","1","Statewide","Statewide","611","Colleges, Universities","219","32149","32821","32807","32592","436189896","13383"
+"2011","1","Statewide","Statewide","611","Business Schools & Computer Trn","100","908","909","836","884","11250845","12722"
+"2011","1","Statewide","Statewide","611","Technical & Trade Schools","76","671","656","647","658","4957931","7535"
+"2011","1","Statewide","Statewide","611","Other Schools & Instruction","310","2014","2180","2129","2108","5099003","2419"
+"2011","1","Statewide","Statewide","611","Educational Support Services","165","5801","5912","6061","5925","69855522","11791"
+"2011","1","Statewide","Statewide","621","Ambulatory & Healthcare Services","4932","51095","51012","51285","51131","630759416","12336"
+"2011","1","Statewide","Statewide","622","Hospitals","197","65810","66223","66239","66091","743196912","11245"
+"2011","1","Statewide","Statewide","623","Nursing & Residential Care Facili","1238","56689","56439","56836","56655","318720409","5626"
+"2011","1","Statewide","Statewide","624","Social Assistance","2008","30503","30509","30622","30545","142802778","4675"
+"2011","1","Statewide","Statewide","711","Performing Arts, Spectator Sports","343","2304","2515","2789","2536","11794228","4651"
+"2011","1","Statewide","Statewide","712","Museums, Historical Sites, Etc","121","907","923","953","928","5980719","6447"
+"2011","1","Statewide","Statewide","713","Amusement, Gambling, Recreation","1004","13676","13640","14032","13783","65782130","4773"
+"2011","1","Statewide","Statewide","721","Accommodations","778","16583","16413","16694","16563","75753545","4574"
+"2011","1","Statewide","Statewide","722","Food Services & Drinking Places","5922","90434","90729","92476","91213","259128323","2841"
+"2011","1","Statewide","Statewide","811","Repair & Maintenance","2830","14914","14862","14943","14906","122609180","8225"
+"2011","1","Statewide","Statewide","812","Personal & Laundry Services","1850","11221","11196","11274","11230","58386747","5199"
+"2011","1","Statewide","Statewide","813","Membership Associations/Orgs","1557","12529","12447","12598","12525","75222194","6006"
+"2011","1","Statewide","Statewide","814","Private Households","1872","3532","3540","3562","3545","8257736","2330"
+"2011","1","Statewide","Statewide","921","Executive, Legislative, Govt Sup","1123","42372","42151","42396","42306","391223921","9247"
+"2011","1","Statewide","Statewide","922","Justice, Public Order, Safety","339","8080","8046","7982","8036","103580908","12890"
+"2011","1","Statewide","Statewide","923","Administration of Human Resources","232","5071","5044","5036","5050","61989964","12274"
+"2011","1","Statewide","Statewide","924","Administration of Environmental","553","2067","2056","2060","2061","25389988","12319"
+"2011","1","Statewide","Statewide","925","Administration of Housing Program","33","201","208","212","207","2255423","10896"
+"2011","1","Statewide","Statewide","926","Administration of Economic Progra","542","6560","6487","6485","6511","82539690","12678"
+"2011","1","Statewide","Statewide","927","Space Research & Technology","0",,,,,,
+"2011","1","Statewide","Statewide","928","National Security/Intl Affairs","33","1582","1597","1591","1590","20865615","13123"
+"2011","1","County","Adair","11","Agriculture, Forestry, Fishing & Hunt","11","170","169","184","174","1144301","6564"
+"2011","1","County","Adair","21","Mining, Quarrying, & Oil & Gas Extrac","2",,,,,,
+"2011","1","County","Adair","22","Utilities","2",,,,,,
+"2011","1","County","Adair","23","Construction","25","120","107","137","121","1044883","8612"
+"2011","1","County","Adair","31","Manufacturing","6",,,,,,
+"2011","1","County","Adair","42","Wholesale Trade","21","185","173","192","183","2182161","11903"
+"2011","1","County","Adair","44","Retail Trade","33","280","281","287","283","1147845","4061"
+"2011","1","County","Adair","48","Transportation & Warehousing","15","120","127","123","123","1014032","8222"
+"2011","1","County","Adair","51","Information","4","11","11","12","11","36370","3209"
+"2011","1","County","Adair","52","Finance & Insurance","13","73","72","73","73","788061","10845"
+"2011","1","County","Adair","53","Real Estate, Rental, Leasing","5","11","10","10","10","39575","3830"
+"2011","1","County","Adair","54","Professional, Scientific, Technical","19","50","50","48","49","336207","6815"
+"2011","1","County","Adair","55","Management of Companies & Enterprises","1",,,,,,
+"2011","1","County","Adair","56","Administrative, Support, Waste Mgmt","8","13","10","11","11","44287","3908"
+"2011","1","County","Adair","61","Educational Services","5","208","215","210","211","1490339","7063"
+"2011","1","County","Adair","62","Health Care & Social Assistance","22","441","443","446","443","2674571","6033"
+"2011","1","County","Adair","71","Arts, Entertainment & Recreation","7","35","34","34","34","94881","2764"
+"2011","1","County","Adair","72","Accommodations & Food Services","18","249","245","278","257","542213","2107"
+"2011","1","County","Adair","81","Other Services (except Public Admin)","23","102","96","87","95","697972","7347"
+"2011","1","County","Adair","92","Public Administration","18","147","145","145","146","847987","5821"
+"2011","1","County","Adair","111","Crop Production","7","47","42","47","45","340052","7501"
+"2011","1","County","Adair","112","Animal Production","3",,,,,,
+"2011","1","County","Adair","113","Forestry and Logging","0",,,,,,
+"2011","1","County","Adair","114","Fishing, Hunting & Trapping","0",,,,,,
+"2011","1","County","Adair","115","Support Activities","1",,,,,,
+"2011","1","County","Adair","211","Oil & Gas Extraction","0",,,,,,
+"2011","1","County","Adair","212","Mining (except Oil and Gas)","2",,,,,,
+"2011","1","County","Adair","213","Support Activities for Mining","0",,,,,,
+"2011","1","County","Adair","221","Power Generation and Supply","2",,,,,,
+"2011","1","County","Adair","221","Natural Gas Distribution","0",,,,,,
+"2011","1","County","Adair","221","Water, Sewage and Other Systems","0",,,,,,
+"2011","1","County","Adair","236","Construction of Buildings","6","24","21","24","23","236223","10271"
+"2011","1","County","Adair","237","Heavy & Civil Engineering Const","8","68","60","80","69","653484","9425"
+"2011","1","County","Adair","238","Specialty Trade Contractors","11","28","26","33","29","155176","5351"
+"2011","1","County","Adair","311","Food Manufacturing","0",,,,,,
+"2011","1","County","Adair","312","Beverage & Tobacco Product Mfg","0",,,,,,
+"2011","1","County","Adair","313","Textile Mills","0",,,,,,
+"2011","1","County","Adair","314","Textile Product Mills","0",,,,,,
+"2011","1","County","Adair","315","Apparel Manufacturing","0",,,,,,
+"2011","1","County","Adair","316","Leather & Allied Prodct Mfg","0",,,,,,
+"2011","1","County","Adair","321","Wood Product Manufacturing","0",,,,,,
+"2011","1","County","Adair","322","Paper Manufacturing","0",,,,,,
+"2011","1","County","Adair","323","Printing & Related Support Activ","1",,,,,,
+"2011","1","County","Adair","324","Petroleum & Coal Products Mfg","0",,,,,,
+"2011","1","County","Adair","325","Chemical Manufacturing","2",,,,,,
+"2011","1","County","Adair","326","Plastics & Rubber Products Mfg","1",,,,,,
+"2011","1","County","Adair","327","Nonmetallic Mineral Product Mfg","1",,,,,,
+"2011","1","County","Adair","331","Primary Metal Manufacturing","0",,,,,,
+"2011","1","County","Adair","332","Fabricated Metal Product Mfg","0",,,,,,
+"2011","1","County","Adair","333","Machinery Manufacturing","0",,,,,,
+"2011","1","County","Adair","334","Computer & Electronic Product Mfg","0",,,,,,
+"2011","1","County","Adair","335","Electrical Equipment, Appliances","0",,,,,,
+"2011","1","County","Adair","336","Transportation Equipment Mfg","0",,,,,,
+"2011","1","County","Adair","337","Furniture & Related Product Mfg","0",,,,,,
+"2011","1","County","Adair","339","Miscellaneous Mfg","1",,,,,,
+"2011","1","County","Adair","423","Merchant Wholesalers, Durable Gds","9","80","79","77","79","849638","10800"
+"2011","1","County","Adair","424","Merchant Wholesalers, NonDurable","7","94","83","104","94","1172847","12521"
+"2011","1","County","Adair","425","Wholesale Electronics Mkt, Agents","5","11","11","11","11","159676","14516"
+"2011","1","County","Adair","441","Motor Vehicle & Parts Dealers","4","13","13","13","13","94334","7256"
+"2011","1","County","Adair","442","Furniture & Home Furnishing Store","0",,,,,,
+"2011","1","County","Adair","443","Electronics & Appliance Stores","0",,,,,,
+"2011","1","County","Adair","444","Building Materials, Garden Supply","5","31","33","35","33","130110","3943"
+"2011","1","County","Adair","445","Food & Beverage Stores","4","84","81","84","83","306046","3687"
+"2011","1","County","Adair","446","Health & Personal Care Stores","3","17","17","17","17","98229","5778"
+"2011","1","County","Adair","447","Gasoline Stations","11","102","104","105","104","377101","3638"
+"2011","1","County","Adair","448","Clothing & Accessory Stores","1",,,,,,
+"2011","1","County","Adair","451","Sporting Goods,Hobby,Music Stores","0",,,,,,
+"2011","1","County","Adair","452","General Merchandise Stores","2",,,,,,
+"2011","1","County","Adair","453","Miscellaneous Store Retailers","1",,,,,,
+"2011","1","County","Adair","454","Nonstore retailers","2",,,,,,
+"2011","1","County","Adair","481","Air Transportation","0",,,,,,
+"2011","1","County","Adair","482","Rail Transportation","0",,,,,,
+"2011","1","County","Adair","483","Water Transportation","0",,,,,,
+"2011","1","County","Adair","484","Truck Transportation","10","100","107","103","103","819402","7930"
+"2011","1","County","Adair","485","Transit & Ground Passenger Transp","0",,,,,,
+"2011","1","County","Adair","486","Pipeline Transportation","0",,,,,,
+"2011","1","County","Adair","487","Scenic & Sightseeing Transport","0",,,,,,
+"2011","1","County","Adair","488","Support Activities for Transporta","0",,,,,,
+"2011","1","County","Adair","491","Postal Service","5",,,,,,
+"2011","1","County","Adair","492","Couriers & Messengers","0",,,,,,
+"2011","1","County","Adair","493","Warehousing & Storage","0",,,,,,
+"2011","1","County","Adair","511","Publishing Industries","1",,,,,,
+"2011","1","County","Adair","512","Motion Picture & Sound Recording","0",,,,,,
+"2011","1","County","Adair","515","Broadcasting (except Internet)","0",,,,,,
+"2011","1","County","Adair","517","Telecommunications","1",,,,,,
+"2011","1","County","Adair","518","Data Processing, Hosting, Related","1",,,,,,
+"2011","1","County","Adair","519","Other Information Services","1",,,,,,
+"2011","1","County","Adair","521","Monetary Authorities/Central Bank","0",,,,,,
+"2011","1","County","Adair","522","Credit Intermediation","7","58","57","58","58","660407","11452"
+"2011","1","County","Adair","523","Securities, Commodities etc","0",,,,,,
+"2011","1","County","Adair","524","Insurance Carriers & Related Act","6","15","15","15","15","127654","8510"
+"2011","1","County","Adair","525","Funds, Trusts, Other Financial","0",,,,,,
+"2011","1","County","Adair","531","Real Estate","4","10","9","9","9","36056","3863"
+"2011","1","County","Adair","532","Rental and leasing services","1",,,,,,
+"2011","1","County","Adair","533","Lessors of intangible assets","0",,,,,,
+"2011","1","County","Adair","541","Legal Services","8","30","30","30","30","193303","6443"
+"2011","1","County","Adair","541","Accounting, Tax Prep, Bkkp","2",,,,,,
+"2011","1","County","Adair","541","Architectural, Engineering","0",,,,,,
+"2011","1","County","Adair","541","Specialized Design Services","0",,,,,,
+"2011","1","County","Adair","541","Computer Systems Design","3",,,,,,
+"2011","1","County","Adair","541","Mgmt and Technical Consulting","1",,,,,,
+"2011","1","County","Adair","541","Scientific Research/Development","1",,,,,,
+"2011","1","County","Adair","541","Advertising & Related Activity","0",,,,,,
+"2011","1","County","Adair","541","Other Professional, Scien, Tech","4","10","10","9","10","62710","6487"
+"2011","1","County","Adair","551","Management of Companies & Enterpr","1",,,,,,
+"2011","1","County","Adair","561","Administrative & Support Services","5","6","5","5","5","19118","3585"
+"2011","1","County","Adair","562","Waste Mgmt & Remediation Services","3","7","5","6","6","25169","4195"
+"2011","1","County","Adair","611","Elementary & Secondary Schools","3",,,,,,
+"2011","1","County","Adair","611","Junior Colleges","0",,,,,,
+"2011","1","County","Adair","611","Colleges, Universities","1",,,,,,
+"2011","1","County","Adair","611","Business Schools & Computer Trn","0",,,,,,
+"2011","1","County","Adair","611","Technical & Trade Schools","0",,,,,,
+"2011","1","County","Adair","611","Other Schools & Instruction","1",,,,,,
+"2011","1","County","Adair","611","Educational Support Services","0",,,,,,
+"2011","1","County","Adair","621","Ambulatory & Healthcare Services","9","40","40","40","40","374185","9355"
+"2011","1","County","Adair","622","Hospitals","1",,,,,,
+"2011","1","County","Adair","623","Nursing & Residential Care Facili","4","219","221","218","219","1199269","5468"
+"2011","1","County","Adair","624","Social Assistance","8","102","102","107","104","379537","3661"
+"2011","1","County","Adair","711","Performing Arts, Spectator Sports","0",,,,,,
+"2011","1","County","Adair","712","Museums, Historical Sites, Etc","2",,,,,,
+"2011","1","County","Adair","713","Amusement, Gambling, Recreation","5","29","27","27","28","67550","2442"
+"2011","1","County","Adair","721","Accommodations","5","54","52","53","53","108379","2045"
+"2011","1","County","Adair","722","Food Services & Drinking Places","13","195","193","225","204","433834","2123"
+"2011","1","County","Adair","811","Repair & Maintenance","12","82","78","69","76","596514","7815"
+"2011","1","County","Adair","812","Personal & Laundry Services","3","9","7","7","8","73763","9621"
+"2011","1","County","Adair","813","Membership Associations/Orgs","4","5","5","5","5","19523","3905"
+"2011","1","County","Adair","814","Private Households","4","6","6","6","6","8172","1362"
+"2011","1","County","Adair","921","Executive, Legislative, Govt Sup","7","110","111","114","112","609412","5457"
+"2011","1","County","Adair","922","Justice, Public Order, Safety","1",,,,,,
+"2011","1","County","Adair","923","Administration of Human Resources","2",,,,,,
+"2011","1","County","Adair","924","Administration of Environmental","5","8","7","7","7","70548","9620"
+"2011","1","County","Adair","925","Administration of Housing Program","0",,,,,,
+"2011","1","County","Adair","926","Administration of Economic Progra","3","16","16","13","15","117713","7848"
+"2011","1","County","Adair","927","Space Research & Technology","0",,,,,,
+"2011","1","County","Adair","928","National Security/Intl Affairs","0",,,,,,
+"2011","1","County","Adams","11","Agriculture, Forestry, Fishing & Hunt","4","24","24","24","24","200795","8366"
+"2011","1","County","Adams","21","Mining, Quarrying, & Oil & Gas Extrac","2",,,,,,
+"2011","1","County","Adams","22","Utilities","2",,,,,,
+"2011","1","County","Adams","23","Construction","9","28","17","23","23","185183","8170"
+"2011","1","County","Adams","31","Manufacturing","5","129","133","133","132","1283108","9745"
+"2011","1","County","Adams","42","Wholesale Trade","13","81","81","88","83","836760","10041"
+"2011","1","County","Adams","44","Retail Trade","16","87","86","85","86","403583","4693"
+"2011","1","County","Adams","48","Transportation & Warehousing","10","33","34","34","34","239644","7118"
+"2011","1","County","Adams","51","Information","3","9","9","9","9","80279","8920"
+"2011","1","County","Adams","52","Finance & Insurance","9","41","40","41","41","318797","7839"
+"2011","1","County","Adams","53","Real Estate, Rental, Leasing","2",,,,,,
+"2011","1","County","Adams","54","Professional, Scientific, Technical","9","22","23","23","23","167319","7382"
+"2011","1","County","Adams","55","Management of Companies & Enterprises","1",,,,,,
+"2011","1","County","Adams","56","Administrative, Support, Waste Mgmt","4","7","7","7","7","51408","7344"
+"2011","1","County","Adams","61","Educational Services","4",,,,,,
+"2011","1","County","Adams","62","Health Care & Social Assistance","20","332","337","333","334","2444609","7319"
+"2011","1","County","Adams","71","Arts, Entertainment & Recreation","3","12","13","13","13","20038","1582"
+"2011","1","County","Adams","72","Accommodations & Food Services","7","26","25","25","25","58245","2299"
+"2011","1","County","Adams","81","Other Services (except Public Admin)","10","32","31","31","31","140064","4470"
+"2011","1","County","Adams","92","Public Administration","13","85","84","87","85","655826","7685"
+"2011","1","County","Adams","111","Crop Production","0",,,,,,
+"2011","1","County","Adams","112","Animal Production","4","24","24","24","24","200795","8366"
+"2011","1","County","Adams","113","Forestry and Logging","0",,,,,,
+"2011","1","County","Adams","114","Fishing, Hunting & Trapping","0",,,,,,
+"2011","1","County","Adams","115","Support Activities","0",,,,,,
+"2011","1","County","Adams","211","Oil & Gas Extraction","0",,,,,,
+"2011","1","County","Adams","212","Mining (except Oil and Gas)","2",,,,,,
+"2011","1","County","Adams","213","Support Activities for Mining","0",,,,,,
+"2011","1","County","Adams","221","Power Generation and Supply","1",,,,,,
+"2011","1","County","Adams","221","Natural Gas Distribution","1",,,,,,
+"2011","1","County","Adams","221","Water, Sewage and Other Systems","0",,,,,,
+"2011","1","County","Adams","236","Construction of Buildings","1",,,,,,
+"2011","1","County","Adams","237","Heavy & Civil Engineering Const","3","9","5","9","8","75622","9864"
+"2011","1","County","Adams","238","Specialty Trade Contractors","5",,,,,,
+"2011","1","County","Adams","311","Food Manufacturing","1",,,,,,
+"2011","1","County","Adams","312","Beverage & Tobacco Product Mfg","0",,,,,,
+"2011","1","County","Adams","313","Textile Mills","0",,,,,,
+"2011","1","County","Adams","314","Textile Product Mills","0",,,,,,
+"2011","1","County","Adams","315","Apparel Manufacturing","0",,,,,,
+"2011","1","County","Adams","316","Leather & Allied Prodct Mfg","0",,,,,,
+"2011","1","County","Adams","321","Wood Product Manufacturing","0",,,,,,
+"2011","1","County","Adams","322","Paper Manufacturing","0",,,,,,
+"2011","1","County","Adams","323","Printing & Related Support Activ","0",,,,,,
+"2011","1","County","Adams","324","Petroleum & Coal Products Mfg","0",,,,,,
+"2011","1","County","Adams","325","Chemical Manufacturing","1",,,,,,
+"2011","1","County","Adams","326","Plastics & Rubber Products Mfg","0",,,,,,
+"2011","1","County","Adams","327","Nonmetallic Mineral Product Mfg","0",,,,,,
+"2011","1","County","Adams","331","Primary Metal Manufacturing","0",,,,,,
+"2011","1","County","Adams","332","Fabricated Metal Product Mfg","0",,,,,,
+"2011","1","County","Adams","333","Machinery Manufacturing","2",,,,,,
+"2011","1","County","Adams","334","Computer & Electronic Product Mfg","0",,,,,,
+"2011","1","County","Adams","335","Electrical Equipment, Appliances","1",,,,,,
+"2011","1","County","Adams","336","Transportation Equipment Mfg","0",,,,,,
+"2011","1","County","Adams","337","Furniture & Related Product Mfg","0",,,,,,
+"2011","1","County","Adams","339","Miscellaneous Mfg","0",,,,,,
+"2011","1","County","Adams","423","Merchant Wholesalers, Durable Gds","5","16","16","16","16","157354","9835"
+"2011","1","County","Adams","424","Merchant Wholesalers, NonDurable","6","51","51","57","53","392795","7411"
+"2011","1","County","Adams","425","Wholesale Electronics Mkt, Agents","2",,,,,,
+"2011","1","County","Adams","441","Motor Vehicle & Parts Dealers","2",,,,,,
+"2011","1","County","Adams","442","Furniture & Home Furnishing Store","3","7","7","7","7","32853","4693"
+"2011","1","County","Adams","443","Electronics & Appliance Stores","1",,,,,,
+"2011","1","County","Adams","444","Building Materials, Garden Supply","2",,,,,,
+"2011","1","County","Adams","445","Food & Beverage Stores","3",,,,,,
+"2011","1","County","Adams","446","Health & Personal Care Stores","1",,,,,,
+"2011","1","County","Adams","447","Gasoline Stations","1",,,,,,
+"2011","1","County","Adams","448","Clothing & Accessory Stores","0",,,,,,
+"2011","1","County","Adams","451","Sporting Goods,Hobby,Music Stores","0",,,,,,
+"2011","1","County","Adams","452","General Merchandise Stores","1",,,,,,
+"2011","1","County","Adams","453","Miscellaneous Store Retailers","1",,,,,,
+"2011","1","County","Adams","454","Nonstore retailers","1",,,,,,
+"2011","1","County","Adams","481","Air Transportation","0",,,,,,
+"2011","1","County","Adams","482","Rail Transportation","0",,,,,,
+"2011","1","County","Adams","483","Water Transportation","0",,,,,,
+"2011","1","County","Adams","484","Truck Transportation","6","19","19","19","19","105122","5533"
+"2011","1","County","Adams","485","Transit & Ground Passenger Transp","0",,,,,,
+"2011","1","County","Adams","486","Pipeline Transportation","0",,,,,,
+"2011","1","County","Adams","487","Scenic & Sightseeing Transport","0",,,,,,
+"2011","1","County","Adams","488","Support Activities for Transporta","0",,,,,,
+"2011","1","County","Adams","491","Postal Service","4",,,,,,
+"2011","1","County","Adams","492","Couriers & Messengers","0",,,,,,
+"2011","1","County","Adams","493","Warehousing & Storage","0",,,,,,
+"2011","1","County","Adams","511","Publishing Industries","1",,,,,,
+"2011","1","County","Adams","512","Motion Picture & Sound Recording","0",,,,,,
+"2011","1","County","Adams","515","Broadcasting (except Internet)","0",,,,,,
+"2011","1","County","Adams","517","Telecommunications","2",,,,,,
+"2011","1","County","Adams","518","Data Processing, Hosting, Related","0",,,,,,
+"2011","1","County","Adams","519","Other Information Services","0",,,,,,
+"2011","1","County","Adams","521","Monetary Authorities/Central Bank","0",,,,,,
+"2011","1","County","Adams","522","Credit Intermediation","4","27","26","27","27","200387","7515"
+"2011","1","County","Adams","523","Securities, Commodities etc","0",,,,,,
+"2011","1","County","Adams","524","Insurance Carriers & Related Act","5","14","14","14","14","118410","8458"
+"2011","1","County","Adams","525","Funds, Trusts, Other Financial","0",,,,,,
+"2011","1","County","Adams","531","Real Estate","1",,,,,,
+"2011","1","County","Adams","532","Rental and leasing services","1",,,,,,
+"2011","1","County","Adams","533","Lessors of intangible assets","0",,,,,,
+"2011","1","County","Adams","541","Legal Services","2",,,,,,
+"2011","1","County","Adams","541","Accounting, Tax Prep, Bkkp","2",,,,,,
+"2011","1","County","Adams","541","Architectural, Engineering","0",,,,,,
+"2011","1","County","Adams","541","Specialized Design Services","1",,,,,,
+"2011","1","County","Adams","541","Computer Systems Design","0",,,,,,
+"2011","1","County","Adams","541","Mgmt and Technical Consulting","1",,,,,,
+"2011","1","County","Adams","541","Scientific Research/Development","0",,,,,,
+"2011","1","County","Adams","541","Advertising & Related Activity","0",,,,,,
+"2011","1","County","Adams","541","Other Professional, Scien, Tech","3",,,,,,
+"2011","1","County","Adams","551","Management of Companies & Enterpr","1",,,,,,
+"2011","1","County","Adams","561","Administrative & Support Services","3","5","5","5","5","42300","8460"
+"2011","1","County","Adams","562","Waste Mgmt & Remediation Services","1",,,,,,
+"2011","1","County","Adams","611","Elementary & Secondary Schools","3",,,,,,
+"2011","1","County","Adams","611","Junior Colleges","0",,,,,,
+"2011","1","County","Adams","611","Colleges, Universities","1",,,,,,
+"2011","1","County","Adams","611","Business Schools & Computer Trn","0",,,,,,
+"2011","1","County","Adams","611","Technical & Trade Schools","0",,,,,,
+"2011","1","County","Adams","611","Other Schools & Instruction","0",,,,,,
+"2011","1","County","Adams","611","Educational Support Services","0",,,,,,
+"2011","1","County","Adams","621","Ambulatory & Healthcare Services","13","85","85","86","85","783170","9178"
+"2011","1","County","Adams","622","Hospitals","1",,,,,,
+"2011","1","County","Adams","623","Nursing & Residential Care Facili","4","127","130","125","127","620271","4871"
+"2011","1","County","Adams","624","Social Assistance","2",,,,,,
+"2011","1","County","Adams","711","Performing Arts, Spectator Sports","1",,,,,,
+"2011","1","County","Adams","712","Museums, Historical Sites, Etc","0",,,,,,
+"2011","1","County","Adams","713","Amusement, Gambling, Recreation","2",,,,,,
+"2011","1","County","Adams","721","Accommodations","0",,,,,,
+"2011","1","County","Adams","722","Food Services & Drinking Places","7","26","25","25","25","58245","2299"
+"2011","1","County","Adams","811","Repair & Maintenance","5","14","14","13","14","78997","5780"
+"2011","1","County","Adams","812","Personal & Laundry Services","2",,,,,,
+"2011","1","County","Adams","813","Membership Associations/Orgs","2",,,,,,
+"2011","1","County","Adams","814","Private Households","1",,,,,,
+"2011","1","County","Adams","921","Executive, Legislative, Govt Sup","4","67","67","67","67","514207","7675"
+"2011","1","County","Adams","922","Justice, Public Order, Safety","1",,,,,,
+"2011","1","County","Adams","923","Administration of Human Resources","1",,,,,,
+"2011","1","County","Adams","924","Administration of Environmental","5","6","6","6","6","68652","11442"
+"2011","1","County","Adams","925","Administration of Housing Program","1",,,,,,
+"2011","1","County","Adams","926","Administration of Economic Progra","1",,,,,,
+"2011","1","County","Adams","927","Space Research & Technology","0",,,,,,
+"2011","1","County","Adams","928","National Security/Intl Affairs","0",,,,,,
+"2011","1","County","Allamakee","11","Agriculture, Forestry, Fishing & Hunt","22","159","160","160","160","912710","5716"
+"2011","1","County","Allamakee","21","Mining, Quarrying, & Oil & Gas Extrac","3",,,,,,
+"2011","1","County","Allamakee","22","Utilities","5","103","103","103","103","1801856","17494"
+"2011","1","County","Allamakee","23","Construction","55","135","132","130","132","1114021","8418"
+"2011","1","County","Allamakee","31","Manufacturing","28","1060","1063","1071","1065","8278256","7775"
+"2011","1","County","Allamakee","42","Wholesale Trade","34","339","333","343","338","2495384","7376"
+"2011","1","County","Allamakee","44","Retail Trade","65","589","579","580","583","2793633","4795"
+"2011","1","County","Allamakee","48","Transportation & Warehousing","19","144","137","145","142","917826","6464"
+"2011","1","County","Allamakee","51","Information","7","30","30","29","30","115638","3898"
+"2011","1","County","Allamakee","52","Finance & Insurance","22","159","157","158","158","1428254","9040"
+"2011","1","County","Allamakee","53","Real Estate, Rental, Leasing","9","16","16","16","16","56117","3507"
+"2011","1","County","Allamakee","54","Professional, Scientific, Technical","21","68","69","66","68","439488","6495"
+"2011","1","County","Allamakee","55","Management of Companies & Enterprises","2",,,,,,
+"2011","1","County","Allamakee","56","Administrative, Support, Waste Mgmt","13","38","38","34","37","202335","5518"
+"2011","1","County","Allamakee","61","Educational Services","16","477","489","484","483","3318176","6865"
+"2011","1","County","Allamakee","62","Health Care & Social Assistance","41","829","827","828","828","5608224","6773"
+"2011","1","County","Allamakee","71","Arts, Entertainment & Recreation","5","11","10","11","11","32745","3070"
+"2011","1","County","Allamakee","72","Accommodations & Food Services","29","241","231","237","236","429534","1817"
+"2011","1","County","Allamakee","81","Other Services (except Public Admin)","36","135","136","140","137","1112063","8117"
+"2011","1","County","Allamakee","92","Public Administration","22","330","333","328","330","2645777","8009"
+"2011","1","County","Allamakee","111","Crop Production","2",,,,,,
+"2011","1","County","Allamakee","112","Animal Production","17","146","148","148","147","836203","5676"
+"2011","1","County","Allamakee","113","Forestry and Logging","0",,,,,,
+"2011","1","County","Allamakee","114","Fishing, Hunting & Trapping","0",,,,,,
+"2011","1","County","Allamakee","115","Support Activities","3","4","4","4","4","12865","3216"
+"2011","1","County","Allamakee","211","Oil & Gas Extraction","0",,,,,,
+"2011","1","County","Allamakee","212","Mining (except Oil and Gas)","3",,,,,,
+"2011","1","County","Allamakee","213","Support Activities for Mining","0",,,,,,
+"2011","1","County","Allamakee","221","Power Generation and Supply","5","103","103","103","103","1801856","17494"
+"2011","1","County","Allamakee","221","Natural Gas Distribution","0",,,,,,
+"2011","1","County","Allamakee","221","Water, Sewage and Other Systems","0",,,,,,
+"2011","1","County","Allamakee","236","Construction of Buildings","8","14","11","11","12","87053","7254"
+"2011","1","County","Allamakee","237","Heavy & Civil Engineering Const","7","33","32","31","32","350319","10947"
+"2011","1","County","Allamakee","238","Specialty Trade Contractors","40","88","89","88","88","676649","7660"
+"2011","1","County","Allamakee","311","Food Manufacturing","6",,,,,,
+"2011","1","County","Allamakee","312","Beverage & Tobacco Product Mfg","0",,,,,,
+"2011","1","County","Allamakee","313","Textile Mills","1",,,,,,
+"2011","1","County","Allamakee","314","Textile Product Mills","2",,,,,,
+"2011","1","County","Allamakee","315","Apparel Manufacturing","0",,,,,,
+"2011","1","County","Allamakee","316","Leather & Allied Prodct Mfg","0",,,,,,
+"2011","1","County","Allamakee","321","Wood Product Manufacturing","2",,,,,,
+"2011","1","County","Allamakee","322","Paper Manufacturing","0",,,,,,
+"2011","1","County","Allamakee","323","Printing & Related Support Activ","0",,,,,,
+"2011","1","County","Allamakee","324","Petroleum & Coal Products Mfg","0",,,,,,
+"2011","1","County","Allamakee","325","Chemical Manufacturing","0",,,,,,
+"2011","1","County","Allamakee","326","Plastics & Rubber Products Mfg","3","218","216","217","217","2700948","12447"
+"2011","1","County","Allamakee","327","Nonmetallic Mineral Product Mfg","2",,,,,,
+"2011","1","County","Allamakee","331","Primary Metal Manufacturing","1",,,,,,
+"2011","1","County","Allamakee","332","Fabricated Metal Product Mfg","5","35","30","33","33","187635","5744"
+"2011","1","County","Allamakee","333","Machinery Manufacturing","1",,,,,,
+"2011","1","County","Allamakee","334","Computer & Electronic Product Mfg","1",,,,,,
+"2011","1","County","Allamakee","335","Electrical Equipment, Appliances","0",,,,,,
+"2011","1","County","Allamakee","336","Transportation Equipment Mfg","1",,,,,,
+"2011","1","County","Allamakee","337","Furniture & Related Product Mfg","2",,,,,,
+"2011","1","County","Allamakee","339","Miscellaneous Mfg","1",,,,,,
+"2011","1","County","Allamakee","423","Merchant Wholesalers, Durable Gds","9","59","61","61","60","517392","8576"
+"2011","1","County","Allamakee","424","Merchant Wholesalers, NonDurable","15","267","259","270","265","1755066","6615"
+"2011","1","County","Allamakee","425","Wholesale Electronics Mkt, Agents","10","13","13","12","13","222926","17599"
+"2011","1","County","Allamakee","441","Motor Vehicle & Parts Dealers","12","96","95","97","96","711164","7408"
+"2011","1","County","Allamakee","442","Furniture & Home Furnishing Store","3",,,,,,
+"2011","1","County","Allamakee","443","Electronics & Appliance Stores","4","13","13","13","13","83139","6395"
+"2011","1","County","Allamakee","444","Building Materials, Garden Supply","12","56","53","56","55","284265","5168"
+"2011","1","County","Allamakee","445","Food & Beverage Stores","8","169","164","163","165","582070","3521"
+"2011","1","County","Allamakee","446","Health & Personal Care Stores","1",,,,,,
+"2011","1","County","Allamakee","447","Gasoline Stations","9","96","95","95","95","311062","3263"
+"2011","1","County","Allamakee","448","Clothing & Accessory Stores","2",,,,,,
+"2011","1","County","Allamakee","451","Sporting Goods,Hobby,Music Stores","1",,,,,,
+"2011","1","County","Allamakee","452","General Merchandise Stores","3","41","43","43","42","167701","3961"
+"2011","1","County","Allamakee","453","Miscellaneous Store Retailers","6","11","12","12","12","47531","4074"
+"2011","1","County","Allamakee","454","Nonstore retailers","4","31","29","28","29","210506","7176"
+"2011","1","County","Allamakee","481","Air Transportation","0",,,,,,
+"2011","1","County","Allamakee","482","Rail Transportation","0",,,,,,
+"2011","1","County","Allamakee","483","Water Transportation","2",,,,,,
+"2011","1","County","Allamakee","484","Truck Transportation","8","51","46","51","49","408840","8287"
+"2011","1","County","Allamakee","485","Transit & Ground Passenger Transp","2",,,,,,
+"2011","1","County","Allamakee","486","Pipeline Transportation","0",,,,,,
+"2011","1","County","Allamakee","487","Scenic & Sightseeing Transport","0",,,,,,
+"2011","1","County","Allamakee","488","Support Activities for Transporta","1",,,,,,
+"2011","1","County","Allamakee","491","Postal Service","6",,,,,,
+"2011","1","County","Allamakee","492","Couriers & Messengers","0",,,,,,
+"2011","1","County","Allamakee","493","Warehousing & Storage","0",,,,,,
+"2011","1","County","Allamakee","511","Publishing Industries","3",,,,,,
+"2011","1","County","Allamakee","512","Motion Picture & Sound Recording","1",,,,,,
+"2011","1","County","Allamakee","515","Broadcasting (except Internet)","1",,,,,,
+"2011","1","County","Allamakee","517","Telecommunications","2",,,,,,
+"2011","1","County","Allamakee","518","Data Processing, Hosting, Related","0",,,,,,
+"2011","1","County","Allamakee","519","Other Information Services","0",,,,,,
+"2011","1","County","Allamakee","521","Monetary Authorities/Central Bank","0",,,,,,
+"2011","1","County","Allamakee","522","Credit Intermediation","8","123","122","123","123","1096175","8936"
+"2011","1","County","Allamakee","523","Securities, Commodities etc","1",,,,,,
+"2011","1","County","Allamakee","524","Insurance Carriers & Related Act","13","33","33","32","33","292809","8964"
+"2011","1","County","Allamakee","525","Funds, Trusts, Other Financial","0",,,,,,
+"2011","1","County","Allamakee","531","Real Estate","7","13","13","13","13","34917","2686"
+"2011","1","County","Allamakee","532","Rental and leasing services","2",,,,,,
+"2011","1","County","Allamakee","533","Lessors of intangible assets","0",,,,,,
+"2011","1","County","Allamakee","541","Legal Services","7","17","21","22","20","127603","6380"
+"2011","1","County","Allamakee","541","Accounting, Tax Prep, Bkkp","4","24","23","18","22","144895","6687"
+"2011","1","County","Allamakee","541","Architectural, Engineering","1",,,,,,
+"2011","1","County","Allamakee","541","Specialized Design Services","0",,,,,,
+"2011","1","County","Allamakee","541","Computer Systems Design","1",,,,,,
+"2011","1","County","Allamakee","541","Mgmt and Technical Consulting","1",,,,,,
+"2011","1","County","Allamakee","541","Scientific Research/Development","0",,,,,,
+"2011","1","County","Allamakee","541","Advertising & Related Activity","2",,,,,,
+"2011","1","County","Allamakee","541","Other Professional, Scien, Tech","5","19","17","17","18","74155","4197"
+"2011","1","County","Allamakee","551","Management of Companies & Enterpr","2",,,,,,
+"2011","1","County","Allamakee","561","Administrative & Support Services","9","31","32","27","30","178270","5942"
+"2011","1","County","Allamakee","562","Waste Mgmt & Remediation Services","4","7","6","7","7","24065","3610"
+"2011","1","County","Allamakee","611","Elementary & Secondary Schools","13","475","487","482","481","3298335","6852"
+"2011","1","County","Allamakee","611","Junior Colleges","0",,,,,,
+"2011","1","County","Allamakee","611","Colleges, Universities","2",,,,,,
+"2011","1","County","Allamakee","611","Business Schools & Computer Trn","1",,,,,,
+"2011","1","County","Allamakee","611","Technical & Trade Schools","0",,,,,,
+"2011","1","County","Allamakee","611","Other Schools & Instruction","0",,,,,,
+"2011","1","County","Allamakee","611","Educational Support Services","0",,,,,,
+"2011","1","County","Allamakee","621","Ambulatory & Healthcare Services","18","158","153","155","155","1698029","10932"
+"2011","1","County","Allamakee","622","Hospitals","1",,,,,,
+"2011","1","County","Allamakee","623","Nursing & Residential Care Facili","17","458","463","461","461","2378902","5164"
+"2011","1","County","Allamakee","624","Social Assistance","5","49","47","47","48","194326","4077"
+"2011","1","County","Allamakee","711","Performing Arts, Spectator Sports","1",,,,,,
+"2011","1","County","Allamakee","712","Museums, Historical Sites, Etc","1",,,,,,
+"2011","1","County","Allamakee","713","Amusement, Gambling, Recreation","3","8","7","8","8","27603","3600"
+"2011","1","County","Allamakee","721","Accommodations","3",,,,,,
+"2011","1","County","Allamakee","722","Food Services & Drinking Places","26","227","218","221","222","396613","1787"
+"2011","1","County","Allamakee","811","Repair & Maintenance","22","93","91","95","93","854241","9185"
+"2011","1","County","Allamakee","812","Personal & Laundry Services","4","4","4","4","4","32303","8076"
+"2011","1","County","Allamakee","813","Membership Associations/Orgs","10","38","41","41","40","225519","5638"
+"2011","1","County","Allamakee","814","Private Households","0",,,,,,
+"2011","1","County","Allamakee","921","Executive, Legislative, Govt Sup","7","207","205","207","206","1228562","5954"
+"2011","1","County","Allamakee","922","Justice, Public Order, Safety","2",,,,,,
+"2011","1","County","Allamakee","923","Administration of Human Resources","2",,,,,,
+"2011","1","County","Allamakee","924","Administration of Environmental","6","47","45","45","46","485628","10634"
+"2011","1","County","Allamakee","925","Administration of Housing Program","0",,,,,,
+"2011","1","County","Allamakee","926","Administration of Economic Progra","5","27","31","24","27","277352","10147"
+"2011","1","County","Allamakee","927","Space Research & Technology","0",,,,,,
+"2011","1","County","Allamakee","928","National Security/Intl Affairs","0",,,,,,
+"2011","1","County","Appanoose","11","Agriculture, Forestry, Fishing & Hunt","1",,,,,,
+"2011","1","County","Appanoose","21","Mining, Quarrying, & Oil & Gas Extrac","2",,,,,,
+"2011","1","County","Appanoose","22","Utilities","8","160","162","165","162","2334581","14381"
+"2011","1","County","Appanoose","23","Construction","25","70","66","73","70","545721","7833"
+"2011","1","County","Appanoose","31","Manufacturing","16","751","754","767","757","7169862","9467"
+"2011","1","County","Appanoose","42","Wholesale Trade","18","107","102","105","105","954173","9116"
+"2011","1","County","Appanoose","44","Retail Trade","62","613","617","627","619","3117035","5036"
+"2011","1","County","Appanoose","48","Transportation & Warehousing","37","343","338","340","340","2583356","7591"
+"2011","1","County","Appanoose","51","Information","11","56","53","55","55","273616","5005"
+"2011","1","County","Appanoose","52","Finance & Insurance","22","111","112","109","111","889668","8039"
+"2011","1","County","Appanoose","53","Real Estate, Rental, Leasing","14","60","62","59","60","244683","4056"
+"2011","1","County","Appanoose","54","Professional, Scientific, Technical","25","82","80","79","80","660100","8217"
+"2011","1","County","Appanoose","55","Management of Companies & Enterprises","3","11","9","9","10","95938","9925"
+"2011","1","County","Appanoose","56","Administrative, Support, Waste Mgmt","7","21","20","14","18","140566","7667"
+"2011","1","County","Appanoose","61","Educational Services","16","483","486","477","482","4043387","8389"
+"2011","1","County","Appanoose","62","Health Care & Social Assistance","41","669","657","665","664","4878239","7350"
+"2011","1","County","Appanoose","71","Arts, Entertainment & Recreation","5","34","35","40","36","64495","1775"
+"2011","1","County","Appanoose","72","Accommodations & Food Services","30","396","400","414","403","1098449","2723"
+"2011","1","County","Appanoose","81","Other Services (except Public Admin)","30","66","68","75","70","359645","5162"
+"2011","1","County","Appanoose","92","Public Administration","25","170","171","174","172","1419943","8272"
+"2011","1","County","Appanoose","111","Crop Production","1",,,,,,
+"2011","1","County","Appanoose","112","Animal Production","0",,,,,,
+"2011","1","County","Appanoose","113","Forestry and Logging","0",,,,,,
+"2011","1","County","Appanoose","114","Fishing, Hunting & Trapping","0",,,,,,
+"2011","1","County","Appanoose","115","Support Activities","0",,,,,,
+"2011","1","County","Appanoose","211","Oil & Gas Extraction","0",,,,,,
+"2011","1","County","Appanoose","212","Mining (except Oil and Gas)","2",,,,,,
+"2011","1","County","Appanoose","213","Support Activities for Mining","0",,,,,,
+"2011","1","County","Appanoose","221","Power Generation and Supply","5","107","110","112","110","1670309","15231"
+"2011","1","County","Appanoose","221","Natural Gas Distribution","1",,,,,,
+"2011","1","County","Appanoose","221","Water, Sewage and Other Systems","2",,,,,,
+"2011","1","County","Appanoose","236","Construction of Buildings","6","7","12","12","10","59986","5805"
+"2011","1","County","Appanoose","237","Heavy & Civil Engineering Const","6","41","31","37","36","326733","8993"
+"2011","1","County","Appanoose","238","Specialty Trade Contractors","13","22","23","24","23","159002","6913"
+"2011","1","County","Appanoose","311","Food Manufacturing","2",,,,,,
+"2011","1","County","Appanoose","312","Beverage & Tobacco Product Mfg","0",,,,,,
+"2011","1","County","Appanoose","313","Textile Mills","0",,,,,,
+"2011","1","County","Appanoose","314","Textile Product Mills","0",,,,,,
+"2011","1","County","Appanoose","315","Apparel Manufacturing","0",,,,,,
+"2011","1","County","Appanoose","316","Leather & Allied Prodct Mfg","0",,,,,,
+"2011","1","County","Appanoose","321","Wood Product Manufacturing","0",,,,,,
+"2011","1","County","Appanoose","322","Paper Manufacturing","0",,,,,,
+"2011","1","County","Appanoose","323","Printing & Related Support Activ","0",,,,,,
+"2011","1","County","Appanoose","324","Petroleum & Coal Products Mfg","0",,,,,,
+"2011","1","County","Appanoose","325","Chemical Manufacturing","0",,,,,,
+"2011","1","County","Appanoose","326","Plastics & Rubber Products Mfg","2",,,,,,
+"2011","1","County","Appanoose","327","Nonmetallic Mineral Product Mfg","3","14","11","13","13","60132","4747"
+"2011","1","County","Appanoose","331","Primary Metal Manufacturing","2",,,,,,
+"2011","1","County","Appanoose","332","Fabricated Metal Product Mfg","3","182","182","182","182","1571750","8636"
+"2011","1","County","Appanoose","333","Machinery Manufacturing","1",,,,,,
+"2011","1","County","Appanoose","334","Computer & Electronic Product Mfg","0",,,,,,
+"2011","1","County","Appanoose","335","Electrical Equipment, Appliances","0",,,,,,
+"2011","1","County","Appanoose","336","Transportation Equipment Mfg","1",,,,,,
+"2011","1","County","Appanoose","337","Furniture & Related Product Mfg","1",,,,,,
+"2011","1","County","Appanoose","339","Miscellaneous Mfg","1",,,,,,
+"2011","1","County","Appanoose","423","Merchant Wholesalers, Durable Gds","6","50","45","46","47","545075","11597"
+"2011","1","County","Appanoose","424","Merchant Wholesalers, NonDurable","10","54","54","56","55","387408","7087"
+"2011","1","County","Appanoose","425","Wholesale Electronics Mkt, Agents","2",,,,,,
+"2011","1","County","Appanoose","441","Motor Vehicle & Parts Dealers","11","66","68","74","69","495314","7144"
+"2011","1","County","Appanoose","442","Furniture & Home Furnishing Store","1",,,,,,
+"2011","1","County","Appanoose","443","Electronics & Appliance Stores","4","17","16","17","17","75226","4514"
+"2011","1","County","Appanoose","444","Building Materials, Garden Supply","5","38","38","38","38","252654","6649"
+"2011","1","County","Appanoose","445","Food & Beverage Stores","7","207","203","210","207","899293","4351"
+"2011","1","County","Appanoose","446","Health & Personal Care Stores","2",,,,,,
+"2011","1","County","Appanoose","447","Gasoline Stations","11","84","91","91","89","376105","4242"
+"2011","1","County","Appanoose","448","Clothing & Accessory Stores","6","20","20","17","19","42847","2255"
+"2011","1","County","Appanoose","451","Sporting Goods,Hobby,Music Stores","1",,,,,,
+"2011","1","County","Appanoose","452","General Merchandise Stores","5","137","137","135","136","794874","5830"
+"2011","1","County","Appanoose","453","Miscellaneous Store Retailers","6","18","17","18","18","38831","2198"
+"2011","1","County","Appanoose","454","Nonstore retailers","3","9","9","10","9","48528","5199"
+"2011","1","County","Appanoose","481","Air Transportation","0",,,,,,
+"2011","1","County","Appanoose","482","Rail Transportation","0",,,,,,
+"2011","1","County","Appanoose","483","Water Transportation","0",,,,,,
+"2011","1","County","Appanoose","484","Truck Transportation","27","112","105","105","107","907245","8453"
+"2011","1","County","Appanoose","485","Transit & Ground Passenger Transp","0",,,,,,
+"2011","1","County","Appanoose","486","Pipeline Transportation","0",,,,,,
+"2011","1","County","Appanoose","487","Scenic & Sightseeing Transport","0",,,,,,
+"2011","1","County","Appanoose","488","Support Activities for Transporta","0",,,,,,
+"2011","1","County","Appanoose","491","Postal Service","8",,,,,,
+"2011","1","County","Appanoose","492","Couriers & Messengers","0",,,,,,
+"2011","1","County","Appanoose","493","Warehousing & Storage","2",,,,,,
+"2011","1","County","Appanoose","511","Publishing Industries","1",,,,,,
+"2011","1","County","Appanoose","512","Motion Picture & Sound Recording","1",,,,,,
+"2011","1","County","Appanoose","515","Broadcasting (except Internet)","3","7","7","7","7","24708","3530"
+"2011","1","County","Appanoose","517","Telecommunications","4","10","9","10","10","135952","14064"
+"2011","1","County","Appanoose","518","Data Processing, Hosting, Related","0",,,,,,
+"2011","1","County","Appanoose","519","Other Information Services","2",,,,,,
+"2011","1","County","Appanoose","521","Monetary Authorities/Central Bank","0",,,,,,
+"2011","1","County","Appanoose","522","Credit Intermediation","9","82","83","82","82","668620","8121"
+"2011","1","County","Appanoose","523","Securities, Commodities etc","2",,,,,,
+"2011","1","County","Appanoose","524","Insurance Carriers & Related Act","11","26","26","23","25","160650","6426"
+"2011","1","County","Appanoose","525","Funds, Trusts, Other Financial","0",,,,,,
+"2011","1","County","Appanoose","531","Real Estate","12","52","54","52","53","222119","4217"
+"2011","1","County","Appanoose","532","Rental and leasing services","2",,,,,,
+"2011","1","County","Appanoose","533","Lessors of intangible assets","0",,,,,,
+"2011","1","County","Appanoose","541","Legal Services","8","14","14","14","14","79255","5661"
+"2011","1","County","Appanoose","541","Accounting, Tax Prep, Bkkp","5","19","22","20","20","111908","5504"
+"2011","1","County","Appanoose","541","Architectural, Engineering","5","33","31","30","31","334351","10671"
+"2011","1","County","Appanoose","541","Specialized Design Services","0",,,,,,
+"2011","1","County","Appanoose","541","Computer Systems Design","1",,,,,,
+"2011","1","County","Appanoose","541","Mgmt and Technical Consulting","2",,,,,,
+"2011","1","County","Appanoose","541","Scientific Research/Development","0",,,,,,
+"2011","1","County","Appanoose","541","Advertising & Related Activity","0",,,,,,
+"2011","1","County","Appanoose","541","Other Professional, Scien, Tech","4","10","7","9","9","43646","5036"
+"2011","1","County","Appanoose","551","Management of Companies & Enterpr","3","11","9","9","10","95938","9925"
+"2011","1","County","Appanoose","561","Administrative & Support Services","5","7","7","5","6","63641","10049"
+"2011","1","County","Appanoose","562","Waste Mgmt & Remediation Services","2",,,,,,
+"2011","1","County","Appanoose","611","Elementary & Secondary Schools","11","434","435","426","432","3447861","7987"
+"2011","1","County","Appanoose","611","Junior Colleges","1",,,,,,
+"2011","1","County","Appanoose","611","Colleges, Universities","2",,,,,,
+"2011","1","County","Appanoose","611","Business Schools & Computer Trn","0",,,,,,
+"2011","1","County","Appanoose","611","Technical & Trade Schools","0",,,,,,
+"2011","1","County","Appanoose","611","Other Schools & Instruction","1",,,,,,
+"2011","1","County","Appanoose","611","Educational Support Services","1",,,,,,
+"2011","1","County","Appanoose","621","Ambulatory & Healthcare Services","22","148","149","148","148","1375340","9272"
+"2011","1","County","Appanoose","622","Hospitals","3",,,,,,
+"2011","1","County","Appanoose","623","Nursing & Residential Care Facili","6","204","202","207","204","993360","4861"
+"2011","1","County","Appanoose","624","Social Assistance","10","77","75","76","76","316682","4167"
+"2011","1","County","Appanoose","711","Performing Arts, Spectator Sports","0",,,,,,
+"2011","1","County","Appanoose","712","Museums, Historical Sites, Etc","0",,,,,,
+"2011","1","County","Appanoose","713","Amusement, Gambling, Recreation","5","34","35","40","36","64495","1775"
+"2011","1","County","Appanoose","721","Accommodations","8",,,,,,
+"2011","1","County","Appanoose","722","Food Services & Drinking Places","22","240","244","250","245","550848","2251"
+"2011","1","County","Appanoose","811","Repair & Maintenance","11","31","32","33","32","185330","5792"
+"2011","1","County","Appanoose","812","Personal & Laundry Services","7","11","12","18","14","51771","3788"
+"2011","1","County","Appanoose","813","Membership Associations/Orgs","6","18","18","18","18","103831","5768"
+"2011","1","County","Appanoose","814","Private Households","6","6","6","6","6","18713","3119"
+"2011","1","County","Appanoose","921","Executive, Legislative, Govt Sup","10","107","107","109","108","821607","7631"
+"2011","1","County","Appanoose","922","Justice, Public Order, Safety","2",,,,,,
+"2011","1","County","Appanoose","923","Administration of Human Resources","2",,,,,,
+"2011","1","County","Appanoose","924","Administration of Environmental","7","32","32","32","32","342524","10704"
+"2011","1","County","Appanoose","925","Administration of Housing Program","1",,,,,,
+"2011","1","County","Appanoose","926","Administration of Economic Progra","3","14","15","16","15","93651","6243"
+"2011","1","County","Appanoose","927","Space Research & Technology","0",,,,,,
+"2011","1","County","Appanoose","928","National Security/Intl Affairs","0",,,,,,
+"2011","1","County","Audubon","11","Agriculture, Forestry, Fishing & Hunt","13","245","251","246","247","1692543","6843"
+"2011","1","County","Audubon","21","Mining, Quarrying, & Oil & Gas Extrac","0",,,,,,
+"2011","1","County","Audubon","22","Utilities","2",,,,,,
+"2011","1","County","Audubon","23","Construction","29","62","59","73","65","372961","5767"
+"2011","1","County","Audubon","31","Manufacturing","8","193","198","203","198","1603978","8101"
+"2011","1","County","Audubon","42","Wholesale Trade","18","98","100","109","102","903989","8834"
+"2011","1","County","Audubon","44","Retail Trade","19","199","195","203","199","753919","3789"
+"2011","1","County","Audubon","48","Transportation & Warehousing","22","69","71","73","71","516214","7271"
+"2011","1","County","Audubon","51","Information","4","14","13","13","13","69117","5184"
+"2011","1","County","Audubon","52","Finance & Insurance","10","49","48","48","48","622486","12879"
+"2011","1","County","Audubon","53","Real Estate, Rental, Leasing","2",,,,,,
+"2011","1","County","Audubon","54","Professional, Scientific, Technical","11","21","21","21","21","182779","8704"
+"2011","1","County","Audubon","55","Management of Companies & Enterprises","1",,,,,,
+"2011","1","County","Audubon","56","Administrative, Support, Waste Mgmt","8","22","19","24","22","77140","3560"
+"2011","1","County","Audubon","61","Educational Services","5","164","168","171","168","1209676","7215"
+"2011","1","County","Audubon","62","Health Care & Social Assistance","14","298","299","299","299","1939356","6493"
+"2011","1","County","Audubon","71","Arts, Entertainment & Recreation","3","4","3","4","4","13898","3790"
+"2011","1","County","Audubon","72","Accommodations & Food Services","10","59","56","59","58","120082","2070"
+"2011","1","County","Audubon","81","Other Services (except Public Admin)","23","66","67","68","67","393947","5880"
+"2011","1","County","Audubon","92","Public Administration","16","127","139","140","135","904536","6684"
+"2011","1","County","Audubon","111","Crop Production","7","27","29","28","28","254676","9096"
+"2011","1","County","Audubon","112","Animal Production","5",,,,,,
+"2011","1","County","Audubon","113","Forestry and Logging","0",,,,,,
+"2011","1","County","Audubon","114","Fishing, Hunting & Trapping","0",,,,,,
+"2011","1","County","Audubon","115","Support Activities","1",,,,,,
+"2011","1","County","Audubon","211","Oil & Gas Extraction","0",,,,,,
+"2011","1","County","Audubon","212","Mining (except Oil and Gas)","0",,,,,,
+"2011","1","County","Audubon","213","Support Activities for Mining","0",,,,,,
+"2011","1","County","Audubon","221","Power Generation and Supply","2",,,,,,
+"2011","1","County","Audubon","221","Natural Gas Distribution","0",,,,,,
+"2011","1","County","Audubon","221","Water, Sewage and Other Systems","0",,,,,,
+"2011","1","County","Audubon","236","Construction of Buildings","7","24","25","26","25","144391","5776"
+"2011","1","County","Audubon","237","Heavy & Civil Engineering Const","1",,,,,,
+"2011","1","County","Audubon","238","Specialty Trade Contractors","21","38","34","47","40","228570","5762"
+"2011","1","County","Audubon","311","Food Manufacturing","0",,,,,,
+"2011","1","County","Audubon","312","Beverage & Tobacco Product Mfg","0",,,,,,
+"2011","1","County","Audubon","313","Textile Mills","0",,,,,,
+"2011","1","County","Audubon","314","Textile Product Mills","0",,,,,,
+"2011","1","County","Audubon","315","Apparel Manufacturing","0",,,,,,
+"2011","1","County","Audubon","316","Leather & Allied Prodct Mfg","0",,,,,,
+"2011","1","County","Audubon","321","Wood Product Manufacturing","0",,,,,,
+"2011","1","County","Audubon","322","Paper Manufacturing","0",,,,,,
+"2011","1","County","Audubon","323","Printing & Related Support Activ","2",,,,,,
+"2011","1","County","Audubon","324","Petroleum & Coal Products Mfg","0",,,,,,
+"2011","1","County","Audubon","325","Chemical Manufacturing","0",,,,,,
+"2011","1","County","Audubon","326","Plastics & Rubber Products Mfg","0",,,,,,
+"2011","1","County","Audubon","327","Nonmetallic Mineral Product Mfg","2",,,,,,
+"2011","1","County","Audubon","331","Primary Metal Manufacturing","0",,,,,,
+"2011","1","County","Audubon","332","Fabricated Metal Product Mfg","2",,,,,,
+"2011","1","County","Audubon","333","Machinery Manufacturing","2",,,,,,
+"2011","1","County","Audubon","334","Computer & Electronic Product Mfg","0",,,,,,
+"2011","1","County","Audubon","335","Electrical Equipment, Appliances","0",,,,,,
+"2011","1","County","Audubon","336","Transportation Equipment Mfg","0",,,,,,
+"2011","1","County","Audubon","337","Furniture & Related Product Mfg","0",,,,,,
+"2011","1","County","Audubon","339","Miscellaneous Mfg","0",,,,,,
+"2011","1","County","Audubon","423","Merchant Wholesalers, Durable Gds","5","39","39","40","39","437815","11131"
+"2011","1","County","Audubon","424","Merchant Wholesalers, NonDurable","8","48","50","58","52","381344","7334"
+"2011","1","County","Audubon","425","Wholesale Electronics Mkt, Agents","5","11","11","11","11","84830","7712"
+"2011","1","County","Audubon","441","Motor Vehicle & Parts Dealers","3","22","22","23","22","214219","9592"
+"2011","1","County","Audubon","442","Furniture & Home Furnishing Store","1",,,,,,
+"2011","1","County","Audubon","443","Electronics & Appliance Stores","1",,,,,,
+"2011","1","County","Audubon","444","Building Materials, Garden Supply","3","14","14","14","14","64560","4611"
+"2011","1","County","Audubon","445","Food & Beverage Stores","1",,,,,,
+"2011","1","County","Audubon","446","Health & Personal Care Stores","1",,,,,,
+"2011","1","County","Audubon","447","Gasoline Stations","5","37","38","41","39","127880","3307"
+"2011","1","County","Audubon","448","Clothing & Accessory Stores","0",,,,,,
+"2011","1","County","Audubon","451","Sporting Goods,Hobby,Music Stores","0",,,,,,
+"2011","1","County","Audubon","452","General Merchandise Stores","2",,,,,,
+"2011","1","County","Audubon","453","Miscellaneous Store Retailers","2",,,,,,
+"2011","1","County","Audubon","454","Nonstore retailers","0",,,,,,
+"2011","1","County","Audubon","481","Air Transportation","0",,,,,,
+"2011","1","County","Audubon","482","Rail Transportation","0",,,,,,
+"2011","1","County","Audubon","483","Water Transportation","0",,,,,,
+"2011","1","County","Audubon","484","Truck Transportation","16","37","40","40","39","279674","7171"
+"2011","1","County","Audubon","485","Transit & Ground Passenger Transp","1",,,,,,
+"2011","1","County","Audubon","486","Pipeline Transportation","0",,,,,,
+"2011","1","County","Audubon","487","Scenic & Sightseeing Transport","0",,,,,,
+"2011","1","County","Audubon","488","Support Activities for Transporta","0",,,,,,
+"2011","1","County","Audubon","491","Postal Service","5",,,,,,
+"2011","1","County","Audubon","492","Couriers & Messengers","0",,,,,,
+"2011","1","County","Audubon","493","Warehousing & Storage","0",,,,,,
+"2011","1","County","Audubon","511","Publishing Industries","1",,,,,,
+"2011","1","County","Audubon","512","Motion Picture & Sound Recording","0",,,,,,
+"2011","1","County","Audubon","515","Broadcasting (except Internet)","0",,,,,,
+"2011","1","County","Audubon","517","Telecommunications","2",,,,,,
+"2011","1","County","Audubon","518","Data Processing, Hosting, Related","0",,,,,,
+"2011","1","County","Audubon","519","Other Information Services","1",,,,,,
+"2011","1","County","Audubon","521","Monetary Authorities/Central Bank","0",,,,,,
+"2011","1","County","Audubon","522","Credit Intermediation","4","38","37","37","37","487284","13052"
+"2011","1","County","Audubon","523","Securities, Commodities etc","1",,,,,,
+"2011","1","County","Audubon","524","Insurance Carriers & Related Act","5","10","10","10","10","129112","12911"
+"2011","1","County","Audubon","525","Funds, Trusts, Other Financial","0",,,,,,
+"2011","1","County","Audubon","531","Real Estate","2",,,,,,
+"2011","1","County","Audubon","532","Rental and leasing services","0",,,,,,
+"2011","1","County","Audubon","533","Lessors of intangible assets","0",,,,,,
+"2011","1","County","Audubon","541","Legal Services","5","9","9","9","9","50722","5636"
+"2011","1","County","Audubon","541","Accounting, Tax Prep, Bkkp","0",,,,,,
+"2011","1","County","Audubon","541","Architectural, Engineering","1",,,,,,
+"2011","1","County","Audubon","541","Specialized Design Services","0",,,,,,
+"2011","1","County","Audubon","541","Computer Systems Design","0",,,,,,
+"2011","1","County","Audubon","541","Mgmt and Technical Consulting","0",,,,,,
+"2011","1","County","Audubon","541","Scientific Research/Development","1",,,,,,
+"2011","1","County","Audubon","541","Advertising & Related Activity","1",,,,,,
+"2011","1","County","Audubon","541","Other Professional, Scien, Tech","3","9","9","9","9","106526","11836"
+"2011","1","County","Audubon","551","Management of Companies & Enterpr","1",,,,,,
+"2011","1","County","Audubon","561","Administrative & Support Services","6","16","12","16","15","53577","3653"
+"2011","1","County","Audubon","562","Waste Mgmt & Remediation Services","2",,,,,,
+"2011","1","County","Audubon","611","Elementary & Secondary Schools","4",,,,,,
+"2011","1","County","Audubon","611","Junior Colleges","0",,,,,,
+"2011","1","County","Audubon","611","Colleges, Universities","1",,,,,,
+"2011","1","County","Audubon","611","Business Schools & Computer Trn","0",,,,,,
+"2011","1","County","Audubon","611","Technical & Trade Schools","0",,,,,,
+"2011","1","County","Audubon","611","Other Schools & Instruction","0",,,,,,
+"2011","1","County","Audubon","611","Educational Support Services","0",,,,,,
+"2011","1","County","Audubon","621","Ambulatory & Healthcare Services","7","30","27","29","29","212528","7414"
+"2011","1","County","Audubon","622","Hospitals","1",,,,,,
+"2011","1","County","Audubon","623","Nursing & Residential Care Facili","2",,,,,,
+"2011","1","County","Audubon","624","Social Assistance","4","13","13","14","13","27467","2060"
+"2011","1","County","Audubon","711","Performing Arts, Spectator Sports","1",,,,,,
+"2011","1","County","Audubon","712","Museums, Historical Sites, Etc","0",,,,,,
+"2011","1","County","Audubon","713","Amusement, Gambling, Recreation","2",,,,,,
+"2011","1","County","Audubon","721","Accommodations","1",,,,,,
+"2011","1","County","Audubon","722","Food Services & Drinking Places","9","57","54","57","56","115382","2060"
+"2011","1","County","Audubon","811","Repair & Maintenance","11","41","44","41","42","293610","6991"
+"2011","1","County","Audubon","812","Personal & Laundry Services","6","15","14","18","16","61408","3920"
+"2011","1","County","Audubon","813","Membership Associations/Orgs","3","5","5","5","5","28840","5768"
+"2011","1","County","Audubon","814","Private Households","3","5","4","4","4","10089","2328"
+"2011","1","County","Audubon","921","Executive, Legislative, Govt Sup","6","98","106","106","103","642517","6218"
+"2011","1","County","Audubon","922","Justice, Public Order, Safety","1",,,,,,
+"2011","1","County","Audubon","923","Administration of Human Resources","1",,,,,,
+"2011","1","County","Audubon","924","Administration of Environmental","5","10","11","11","11","79439","7447"
+"2011","1","County","Audubon","925","Administration of Housing Program","0",,,,,,
+"2011","1","County","Audubon","926","Administration of Economic Progra","3","10","13","14","12","93566","7586"
+"2011","1","County","Audubon","927","Space Research & Technology","0",,,,,,
+"2011","1","County","Audubon","928","National Security/Intl Affairs","0",,,,,,
+"2011","1","County","Benton","11","Agriculture, Forestry, Fishing & Hunt","20","131","129","134","131","717476","5463"
+"2011","1","County","Benton","21","Mining, Quarrying, & Oil & Gas Extrac","1",,,,,,
+"2011","1","County","Benton","22","Utilities","3",,,,,,
+"2011","1","County","Benton","23","Construction","75","299","278","286","288","2738371","9519"
+"2011","1","County","Benton","31","Manufacturing","36","620","631","631","627","5130706","8179"
+"2011","1","County","Benton","42","Wholesale Trade","48","283","280","274","279","2921388","10471"
+"2011","1","County","Benton","44","Retail Trade","84","748","739","737","741","4280276","5774"
+"2011","1","County","Benton","48","Transportation & Warehousing","51","327","351","362","347","2566549","7404"
+"2011","1","County","Benton","51","Information","12","86","83","86","85","664562","7818"
+"2011","1","County","Benton","52","Finance & Insurance","47","203","200","206","203","2209430","10884"
+"2011","1","County","Benton","53","Real Estate, Rental, Leasing","12","25","23","24","24","87509","3646"
+"2011","1","County","Benton","54","Professional, Scientific, Technical","36","104","107","108","106","907060","8530"
+"2011","1","County","Benton","55","Management of Companies & Enterprises","2",,,,,,
+"2011","1","County","Benton","56","Administrative, Support, Waste Mgmt","19","93","92","90","92","317507","3464"
+"2011","1","County","Benton","61","Educational Services","23","767","767","787","774","6955377","8990"
+"2011","1","County","Benton","62","Health Care & Social Assistance","48","805","814","803","807","5519061","6836"
+"2011","1","County","Benton","71","Arts, Entertainment & Recreation","12","39","46","44","43","94368","2195"
+"2011","1","County","Benton","72","Accommodations & Food Services","28","223","227","253","234","491468","2097"
+"2011","1","County","Benton","81","Other Services (except Public Admin)","44","144","140","141","142","715303","5049"
+"2011","1","County","Benton","92","Public Administration","24","341","339","343","341","2592217","7602"
+"2011","1","County","Benton","111","Crop Production","10","37","38","40","38","195733","5106"
+"2011","1","County","Benton","112","Animal Production","6","75","73","75","74","370224","4981"
+"2011","1","County","Benton","113","Forestry and Logging","0",,,,,,
+"2011","1","County","Benton","114","Fishing, Hunting & Trapping","0",,,,,,
+"2011","1","County","Benton","115","Support Activities","4",,,,,,
+"2011","1","County","Benton","211","Oil & Gas Extraction","0",,,,,,
+"2011","1","County","Benton","212","Mining (except Oil and Gas)","1",,,,,,
+"2011","1","County","Benton","213","Support Activities for Mining","0",,,,,,
+"2011","1","County","Benton","221","Power Generation and Supply","3",,,,,,
+"2011","1","County","Benton","221","Natural Gas Distribution","0",,,,,,
+"2011","1","County","Benton","221","Water, Sewage and Other Systems","0",,,,,,
+"2011","1","County","Benton","236","Construction of Buildings","19","95","88","83","89","1207489","13618"
+"2011","1","County","Benton","237","Heavy & Civil Engineering Const","12","40","32","32","35","284837","8216"
+"2011","1","County","Benton","238","Specialty Trade Contractors","44","164","158","171","164","1246045","7582"
+"2011","1","County","Benton","311","Food Manufacturing","7",,,,,,
+"2011","1","County","Benton","312","Beverage & Tobacco Product Mfg","0",,,,,,
+"2011","1","County","Benton","313","Textile Mills","0",,,,,,
+"2011","1","County","Benton","314","Textile Product Mills","0",,,,,,
+"2011","1","County","Benton","315","Apparel Manufacturing","0",,,,,,
+"2011","1","County","Benton","316","Leather & Allied Prodct Mfg","0",,,,,,
+"2011","1","County","Benton","321","Wood Product Manufacturing","5","89","93","93","92","651424","7106"
+"2011","1","County","Benton","322","Paper Manufacturing","0",,,,,,
+"2011","1","County","Benton","323","Printing & Related Support Activ","3",,,,,,
+"2011","1","County","Benton","324","Petroleum & Coal Products Mfg","0",,,,,,
+"2011","1","County","Benton","325","Chemical Manufacturing","2",,,,,,
+"2011","1","County","Benton","326","Plastics & Rubber Products Mfg","0",,,,,,
+"2011","1","County","Benton","327","Nonmetallic Mineral Product Mfg","9","64","65","64","64","474624","7378"
+"2011","1","County","Benton","331","Primary Metal Manufacturing","0",,,,,,
+"2011","1","County","Benton","332","Fabricated Metal Product Mfg","4","49","50","52","50","354412","7041"
+"2011","1","County","Benton","333","Machinery Manufacturing","5","36","37","38","37","494489","13365"
+"2011","1","County","Benton","334","Computer & Electronic Product Mfg","0",,,,,,
+"2011","1","County","Benton","335","Electrical Equipment, Appliances","0",,,,,,
+"2011","1","County","Benton","336","Transportation Equipment Mfg","0",,,,,,
+"2011","1","County","Benton","337","Furniture & Related Product Mfg","1",,,,,,
+"2011","1","County","Benton","339","Miscellaneous Mfg","0",,,,,,
+"2011","1","County","Benton","423","Merchant Wholesalers, Durable Gds","14","113","113","104","110","1302588","11842"
+"2011","1","County","Benton","424","Merchant Wholesalers, NonDurable","22","132","129","131","131","1076187","8236"
+"2011","1","County","Benton","425","Wholesale Electronics Mkt, Agents","12","38","38","39","38","542613","14155"
+"2011","1","County","Benton","441","Motor Vehicle & Parts Dealers","17","92","93","96","94","659583","7042"
+"2011","1","County","Benton","442","Furniture & Home Furnishing Store","4","23","23","22","23","125078","5518"
+"2011","1","County","Benton","443","Electronics & Appliance Stores","5","15","15","14","15","164408","11210"
+"2011","1","County","Benton","444","Building Materials, Garden Supply","11","95","93","96","95","863320","9120"
+"2011","1","County","Benton","445","Food & Beverage Stores","6","145","144","135","141","578624","4094"
+"2011","1","County","Benton","446","Health & Personal Care Stores","4","52","52","54","53","356973","6778"
+"2011","1","County","Benton","447","Gasoline Stations","20","157","152","154","154","525462","3405"
+"2011","1","County","Benton","448","Clothing & Accessory Stores","3","29","33","32","31","92257","2944"
+"2011","1","County","Benton","451","Sporting Goods,Hobby,Music Stores","1",,,,,,
+"2011","1","County","Benton","452","General Merchandise Stores","5","62","58","60","60","262510","4375"
+"2011","1","County","Benton","453","Miscellaneous Store Retailers","5","23","23","21","22","103063","4615"
+"2011","1","County","Benton","454","Nonstore retailers","3","51","49","49","50","538455","10841"
+"2011","1","County","Benton","481","Air Transportation","0",,,,,,
+"2011","1","County","Benton","482","Rail Transportation","0",,,,,,
+"2011","1","County","Benton","483","Water Transportation","0",,,,,,
+"2011","1","County","Benton","484","Truck Transportation","30","118","123","131","124","1075473","8673"
+"2011","1","County","Benton","485","Transit & Ground Passenger Transp","1",,,,,,
+"2011","1","County","Benton","486","Pipeline Transportation","0",,,,,,
+"2011","1","County","Benton","487","Scenic & Sightseeing Transport","0",,,,,,
+"2011","1","County","Benton","488","Support Activities for Transporta","6","75","78","81","78","739487","9481"
+"2011","1","County","Benton","491","Postal Service","13",,,,,,
+"2011","1","County","Benton","492","Couriers & Messengers","1",,,,,,
+"2011","1","County","Benton","493","Warehousing & Storage","0",,,,,,
+"2011","1","County","Benton","511","Publishing Industries","3",,,,,,
+"2011","1","County","Benton","512","Motion Picture & Sound Recording","2",,,,,,
+"2011","1","County","Benton","515","Broadcasting (except Internet)","0",,,,,,
+"2011","1","County","Benton","517","Telecommunications","6","43","45","45","44","486455","10973"
+"2011","1","County","Benton","518","Data Processing, Hosting, Related","0",,,,,,
+"2011","1","County","Benton","519","Other Information Services","1",,,,,,
+"2011","1","County","Benton","521","Monetary Authorities/Central Bank","0",,,,,,
+"2011","1","County","Benton","522","Credit Intermediation","19","139","136","139","138","1430413","10365"
+"2011","1","County","Benton","523","Securities, Commodities etc","4","7","7","7","7","176961","25280"
+"2011","1","County","Benton","524","Insurance Carriers & Related Act","24","57","57","60","58","602056","10380"
+"2011","1","County","Benton","525","Funds, Trusts, Other Financial","0",,,,,,
+"2011","1","County","Benton","531","Real Estate","11","18","17","17","17","79530","4588"
+"2011","1","County","Benton","532","Rental and leasing services","1",,,,,,
+"2011","1","County","Benton","533","Lessors of intangible assets","0",,,,,,
+"2011","1","County","Benton","541","Legal Services","8","29","30","29","29","272039","9274"
+"2011","1","County","Benton","541","Accounting, Tax Prep, Bkkp","4","12","13","13","13","94637","7471"
+"2011","1","County","Benton","541","Architectural, Engineering","4",,,,,,
+"2011","1","County","Benton","541","Specialized Design Services","1",,,,,,
+"2011","1","County","Benton","541","Computer Systems Design","5","4","4","5","4","65299","15069"
+"2011","1","County","Benton","541","Mgmt and Technical Consulting","3","1","1","3","2","10829","6497"
+"2011","1","County","Benton","541","Scientific Research/Development","1",,,,,,
+"2011","1","County","Benton","541","Advertising & Related Activity","2",,,,,,
+"2011","1","County","Benton","541","Other Professional, Scien, Tech","8","18","19","18","18","87868","4793"
+"2011","1","County","Benton","551","Management of Companies & Enterpr","2",,,,,,
+"2011","1","County","Benton","561","Administrative & Support Services","16","76","77","74","76","275068","3635"
+"2011","1","County","Benton","562","Waste Mgmt & Remediation Services","3",,,,,,
+"2011","1","County","Benton","611","Elementary & Secondary Schools","18","752","749","753","751","6858364","9128"
+"2011","1","County","Benton","611","Junior Colleges","2",,,,,,
+"2011","1","County","Benton","611","Colleges, Universities","1",,,,,,
+"2011","1","County","Benton","611","Business Schools & Computer Trn","0",,,,,,
+"2011","1","County","Benton","611","Technical & Trade Schools","0",,,,,,
+"2011","1","County","Benton","611","Other Schools & Instruction","1",,,,,,
+"2011","1","County","Benton","611","Educational Support Services","1",,,,,,
+"2011","1","County","Benton","621","Ambulatory & Healthcare Services","26","208","209","208","208","1762180","8458"
+"2011","1","County","Benton","622","Hospitals","1",,,,,,
+"2011","1","County","Benton","623","Nursing & Residential Care Facili","9","307","309","303","306","1545555","5045"
+"2011","1","County","Benton","624","Social Assistance","12","99","95","96","97","399868","4137"
+"2011","1","County","Benton","711","Performing Arts, Spectator Sports","2",,,,,,
+"2011","1","County","Benton","712","Museums, Historical Sites, Etc","0",,,,,,
+"2011","1","County","Benton","713","Amusement, Gambling, Recreation","10","36","43","41","40","89893","2247"
+"2011","1","County","Benton","721","Accommodations","2",,,,,,
+"2011","1","County","Benton","722","Food Services & Drinking Places","26","204","207","231","214","445288","2081"
+"2011","1","County","Benton","811","Repair & Maintenance","24","76","73","75","75","400392","5362"
+"2011","1","County","Benton","812","Personal & Laundry Services","10","28","29","27","28","157894","5639"
+"2011","1","County","Benton","813","Membership Associations/Orgs","5","33","31","32","32","147888","4622"
+"2011","1","County","Benton","814","Private Households","5","7","7","7","7","9129","1304"
+"2011","1","County","Benton","921","Executive, Legislative, Govt Sup","13","290","286","293","290","2053716","7090"
+"2011","1","County","Benton","922","Justice, Public Order, Safety","2",,,,,,
+"2011","1","County","Benton","923","Administration of Human Resources","2",,,,,,
+"2011","1","County","Benton","924","Administration of Environmental","4","7","7","7","7","72962","10423"
+"2011","1","County","Benton","925","Administration of Housing Program","0",,,,,,
+"2011","1","County","Benton","926","Administration of Economic Progra","3","13","15","12","13","120320","9024"
+"2011","1","County","Benton","927","Space Research & Technology","0",,,,,,
+"2011","1","County","Benton","928","National Security/Intl Affairs","0",,,,,,
+"2011","1","County","Black Hawk","11","Agriculture, Forestry, Fishing & Hunt","28","143","141","142","142","1416050","9972"
+"2011","1","County","Black Hawk","21","Mining, Quarrying, & Oil & Gas Extrac","8",,,,,,
+"2011","1","County","Black Hawk","22","Utilities","8","264","270","269","268","4060320","15169"
+"2011","1","County","Black Hawk","23","Construction","305","2271","2183","2234","2229","22391417","10044"
+"2011","1","County","Black Hawk","31","Manufacturing","175","14151","14264","14451","14289","215451471","15078"
+"2011","1","County","Black Hawk","42","Wholesale Trade","211","2525","2520","2523","2523","32069675","12713"
+"2011","1","County","Black Hawk","44","Retail Trade","536","8682","8616","8604","8634","49173952","5695"
+"2011","1","County","Black Hawk","48","Transportation & Warehousing","134","3106","3199","3223","3176","29375683","9249"
+"2011","1","County","Black Hawk","51","Information","48","796","801","800","799","7052772","8827"
+"2011","1","County","Black Hawk","52","Finance & Insurance","261","3081","3080","3095","3085","41586375","13479"
+"2011","1","County","Black Hawk","53","Real Estate, Rental, Leasing","135","674","687","686","682","5532896","8109"
+"2011","1","County","Black Hawk","54","Professional, Scientific, Technical","274","2060","2123","2091","2091","22404734","10713"
+"2011","1","County","Black Hawk","55","Management of Companies & Enterprises","32","738","737","741","739","11290931","15286"
+"2011","1","County","Black Hawk","56","Administrative, Support, Waste Mgmt","192","3252","3181","3053","3162","20455946","6469"
+"2011","1","County","Black Hawk","61","Educational Services","73","7226","7646","7686","7519","71263259","9477"
+"2011","1","County","Black Hawk","62","Health Care & Social Assistance","400","10143","10185","10179","10169","98120680","9649"
+"2011","1","County","Black Hawk","71","Arts, Entertainment & Recreation","50","401","386","423","403","1500567","3720"
+"2011","1","County","Black Hawk","72","Accommodations & Food Services","293","6540","6451","6606","6532","20110188","3079"
+"2011","1","County","Black Hawk","81","Other Services (except Public Admin)","343","2670","2657","2693","2673","17224021","6443"
+"2011","1","County","Black Hawk","92","Public Administration","55","2609","2590","2594","2598","26358360","10147"
+"2011","1","County","Black Hawk","111","Crop Production","13","69","67","67","68","487463","7204"
+"2011","1","County","Black Hawk","112","Animal Production","7","52","51","53","52","347351","6680"
+"2011","1","County","Black Hawk","113","Forestry and Logging","0",,,,,,
+"2011","1","County","Black Hawk","114","Fishing, Hunting & Trapping","0",,,,,,
+"2011","1","County","Black Hawk","115","Support Activities-Ag/Forestry","8","22","23","22","22","581236","26025"
+"2011","1","County","Black Hawk","211","Oil & Gas Extraction","0",,,,,,
+"2011","1","County","Black Hawk","212","Mining (except Oil and Gas)","8",,,,,,
+"2011","1","County","Black Hawk","213","Support Activities for Mining","0",,,,,,
+"2011","1","County","Black Hawk","221","Power Generation and Supply","4",,,,,,
+"2011","1","County","Black Hawk","221","Natural Gas Distribution","1",,,,,,
+"2011","1","County","Black Hawk","221","Water, Sewage and Other Systems","3",,,,,,
+"2011","1","County","Black Hawk","236","Construction of Buildings","84","513","474","482","490","4973098","10156"
+"2011","1","County","Black Hawk","237","Heavy & Civil Engineering Const","24","148","162","169","160","2529619","15843"
+"2011","1","County","Black Hawk","238","Specialty Trade Contractors","197","1610","1547","1583","1580","14888700","9423"
+"2011","1","County","Black Hawk","311","Food Manufacturing","17","3173","3153","3151","3159","29421651","9314"
+"2011","1","County","Black Hawk","312","Beverage & Tobacco Product Mfg","1",,,,,,
+"2011","1","County","Black Hawk","313","Textile Mills","1",,,,,,
+"2011","1","County","Black Hawk","314","Textile Product Mills","4","42","42","43","42","281499","6650"
+"2011","1","County","Black Hawk","315","Apparel Manufacturing","1",,,,,,
+"2011","1","County","Black Hawk","316","Leather & Allied Prodct Mfg","2",,,,,,
+"2011","1","County","Black Hawk","321","Wood Product Manufacturing","5","65","66","67","66","346327","5247"
+"2011","1","County","Black Hawk","322","Paper Manufacturing","2",,,,,,
+"2011","1","County","Black Hawk","323","Printing & Related Support Activ","19","440","453","450","448","4139445","9247"
+"2011","1","County","Black Hawk","324","Petroleum & Coal Products Mfg","2",,,,,,
+"2011","1","County","Black Hawk","325","Chemical Manufacturing","4",,,,,,
+"2011","1","County","Black Hawk","326","Plastics & Rubber Products Mfg","2",,,,,,
+"2011","1","County","Black Hawk","327","Nonmetallic Mineral Product Mfg","10","72","76","83","77","598509","7773"
+"2011","1","County","Black Hawk","331","Primary Metal Manufacturing","5","245","256","278","260","2622916","10101"
+"2011","1","County","Black Hawk","332","Fabricated Metal Product Mfg","41","1127","1178","1244","1183","12473836","10544"
+"2011","1","County","Black Hawk","333","Machinery Manufacturing","29","6838","6909","6999","6915","146872759","21239"
+"2011","1","County","Black Hawk","334","Computer & Electronic Product Mfg","2",,,,,,
+"2011","1","County","Black Hawk","335","Electrical Equipment, Appliances","0",,,,,,
+"2011","1","County","Black Hawk","336","Transportation Equipment Mfg","8","244","251","253","249","2389018","9582"
+"2011","1","County","Black Hawk","337","Furniture & Related Product Mfg","8","1237","1220","1225","1227","9436639","7689"
+"2011","1","County","Black Hawk","339","Miscellaneous Mfg","12","167","165","159","164","1718443","10500"

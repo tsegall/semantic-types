@@ -1,0 +1,4 @@
+ID,unique_id,security,sitename,esmthldr,eholdtyp,owntype,s_emthd1,s_emthd2,purpose,gapsts,pubaccess,duration,term,mon_est,day_est,year_est,dataagg,dataentry,datapvdr,datasrc,source_uid,rep_acres,gis_acres,pct_diff,conflict,stacked,iucncat,wpda_cd,comments,COUNTYFP,COUNTYNS,County,Location 1,Location 2
+41865,39547,No Restrictions,Beaver Face,Utah Division of Wildlife Resources,State,Private,NA,NA,Environmental System,4 - No known mandate for protection,Unknown,Permanent,0,12,0,2001,NatureServe,########,Utah Division of Wildlife Resources,Utah Division of Wildlife Resources,NA,0,593.6,0,No Known Conflict,No,NA,0,"completely overlaps a PORTION of OBJECTID = 80320 ""State Trust Land"" in CBI PAD-US 1.1",1,1448015,Beaver,"Utah
+(39.359772, -111.584173)","Utah
+(39.359772, -111.584173)"

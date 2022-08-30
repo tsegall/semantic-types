@@ -1,0 +1,1414 @@
+"year","locationabbr","locationdesc","topictype","topicdesc","datasource","data_value_type","data_value","gender","age","geolocation","source_file_uscb","data_pulled","locationid","topictypeid","topicid","measureid","stratificationid1","stratificationid2","submeasureid","displayorder"
+"2019","AL","Alabama","Census","Census - Population","United States Census Bureau","Count","4876250","Total","Total","
+,  
+(32.840571122, -86.631860762)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","01","CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","AL","Alabama","Census","Census - Population","United States Census Bureau","Count","3779874","Total","18+","
+,  
+(32.840571122, -86.631860762)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","01","CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","AL","Alabama","Census","Census - Population","United States Census Bureau","Count","1096376","Total","<18","
+,  
+(32.840571122, -86.631860762)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","01","CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","AL","Alabama","Census","Census - Population","United States Census Bureau","Count","2359355","Male","Total","
+,  
+(32.840571122, -86.631860762)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","01","CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","AL","Alabama","Census","Census - Population","United States Census Bureau","Count","1799897","Male","18+","
+,  
+(32.840571122, -86.631860762)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","01","CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","AL","Alabama","Census","Census - Population","United States Census Bureau","Count","559458","Male","<18","
+,  
+(32.840571122, -86.631860762)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","01","CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","AL","Alabama","Census","Census - Population","United States Census Bureau","Count","2516895","Female","Total","
+,  
+(32.840571122, -86.631860762)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","01","CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","AL","Alabama","Census","Census - Population","United States Census Bureau","Count","1979977","Female","18+","
+,  
+(32.840571122, -86.631860762)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","01","CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","AL","Alabama","Census","Census - Population","United States Census Bureau","Count","536918","Female","<18","
+,  
+(32.840571122, -86.631860762)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","01","CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","AK","Alaska","Census","Census - Population","United States Census Bureau","Count","737068","Total","Total","
+,  
+(64.845079957001, -147.722059036)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","02","CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","AK","Alaska","Census","Census - Population","United States Census Bureau","Count","552674","Total","18+","
+,  
+(64.845079957001, -147.722059036)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","02","CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","AK","Alaska","Census","Census - Population","United States Census Bureau","Count","184394","Total","<18","
+,  
+(64.845079957001, -147.722059036)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","02","CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","AK","Alaska","Census","Census - Population","United States Census Bureau","Count","384915","Male","Total","
+,  
+(64.845079957001, -147.722059036)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","02","CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","AK","Alaska","Census","Census - Population","United States Census Bureau","Count","289956","Male","18+","
+,  
+(64.845079957001, -147.722059036)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","02","CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","AK","Alaska","Census","Census - Population","United States Census Bureau","Count","94959","Male","<18","
+,  
+(64.845079957001, -147.722059036)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","02","CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","AK","Alaska","Census","Census - Population","United States Census Bureau","Count","352153","Female","Total","
+,  
+(64.845079957001, -147.722059036)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","02","CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","AK","Alaska","Census","Census - Population","United States Census Bureau","Count","262718","Female","18+","
+,  
+(64.845079957001, -147.722059036)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","02","CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","AK","Alaska","Census","Census - Population","United States Census Bureau","Count","89435","Female","<18","
+,  
+(64.845079957001, -147.722059036)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","02","CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","AZ","Arizona","Census","Census - Population","United States Census Bureau","Count","7050299","Total","Total","
+,  
+(34.86597028, -111.763811277)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","04","CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","AZ","Arizona","Census","Census - Population","United States Census Bureau","Count","5414955","Total","18+","
+,  
+(34.86597028, -111.763811277)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","04","CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","AZ","Arizona","Census","Census - Population","United States Census Bureau","Count","1635344","Total","<18","
+,  
+(34.86597028, -111.763811277)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","04","CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","AZ","Arizona","Census","Census - Population","United States Census Bureau","Count","3504509","Male","Total","
+,  
+(34.86597028, -111.763811277)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","04","CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","AZ","Arizona","Census","Census - Population","United States Census Bureau","Count","2670328","Male","18+","
+,  
+(34.86597028, -111.763811277)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","04","CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","AZ","Arizona","Census","Census - Population","United States Census Bureau","Count","834181","Male","<18","
+,  
+(34.86597028, -111.763811277)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","04","CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","AZ","Arizona","Census","Census - Population","United States Census Bureau","Count","3545790","Female","Total","
+,  
+(34.86597028, -111.763811277)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","04","CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","AZ","Arizona","Census","Census - Population","United States Census Bureau","Count","2744627","Female","18+","
+,  
+(34.86597028, -111.763811277)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","04","CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","AZ","Arizona","Census","Census - Population","United States Census Bureau","Count","801163","Female","<18","
+,  
+(34.86597028, -111.763811277)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","04","CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","AR","Arkansas","Census","Census - Population","United States Census Bureau","Count","2999370","Total","Total","
+,  
+(34.748650124, -92.274490743)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","05","CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","AR","Arkansas","Census","Census - Population","United States Census Bureau","Count","2295102","Total","18+","
+,  
+(34.748650124, -92.274490743)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","05","CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","AR","Arkansas","Census","Census - Population","United States Census Bureau","Count","704268","Total","<18","
+,  
+(34.748650124, -92.274490743)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","05","CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","AR","Arkansas","Census","Census - Population","United States Census Bureau","Count","1471760","Male","Total","
+,  
+(34.748650124, -92.274490743)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","05","CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","AR","Arkansas","Census","Census - Population","United States Census Bureau","Count","1111641","Male","18+","
+,  
+(34.748650124, -92.274490743)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","05","CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","AR","Arkansas","Census","Census - Population","United States Census Bureau","Count","360119","Male","<18","
+,  
+(34.748650124, -92.274490743)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","05","CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","AR","Arkansas","Census","Census - Population","United States Census Bureau","Count","1527610","Female","Total","
+,  
+(34.748650124, -92.274490743)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","05","CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","AR","Arkansas","Census","Census - Population","United States Census Bureau","Count","1183461","Female","18+","
+,  
+(34.748650124, -92.274490743)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","05","CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","AR","Arkansas","Census","Census - Population","United States Census Bureau","Count","344149","Female","<18","
+,  
+(34.748650124, -92.274490743)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","05","CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","CA","California","Census","Census - Population","United States Census Bureau","Count","39283497","Total","Total","
+,  
+(37.638640123, -120.999999538)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","06","CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","CA","California","Census","Census - Population","United States Census Bureau","Count","30261351","Total","18+","
+,  
+(37.638640123, -120.999999538)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","06","CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","CA","California","Census","Census - Population","United States Census Bureau","Count","9022146","Total","<18","
+,  
+(37.638640123, -120.999999538)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","06","CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","CA","California","Census","Census - Population","United States Census Bureau","Count","19526298","Male","Total","
+,  
+(37.638640123, -120.999999538)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","06","CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","CA","California","Census","Census - Population","United States Census Bureau","Count","14915402","Male","18+","
+,  
+(37.638640123, -120.999999538)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","06","CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","CA","California","Census","Census - Population","United States Census Bureau","Count","4610896","Male","<18","
+,  
+(37.638640123, -120.999999538)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","06","CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","CA","California","Census","Census - Population","United States Census Bureau","Count","19757199","Female","Total","
+,  
+(37.638640123, -120.999999538)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","06","CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","CA","California","Census","Census - Population","United States Census Bureau","Count","15345949","Female","18+","
+,  
+(37.638640123, -120.999999538)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","06","CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","CA","California","Census","Census - Population","United States Census Bureau","Count","4411250","Female","<18","
+,  
+(37.638640123, -120.999999538)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","06","CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","CO","Colorado","Census","Census - Population","United States Census Bureau","Count","5610349","Total","Total","
+,  
+(38.843840757, -106.133610921)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","08","CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","CO","Colorado","Census","Census - Population","United States Census Bureau","Count","4349344","Total","18+","
+,  
+(38.843840757, -106.133610921)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","08","CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","CO","Colorado","Census","Census - Population","United States Census Bureau","Count","1261005","Total","<18","
+,  
+(38.843840757, -106.133610921)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","08","CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","CO","Colorado","Census","Census - Population","United States Census Bureau","Count","2823201","Male","Total","
+,  
+(38.843840757, -106.133610921)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","08","CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","CO","Colorado","Census","Census - Population","United States Census Bureau","Count","2178171","Male","18+","
+,  
+(38.843840757, -106.133610921)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","08","CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","CO","Colorado","Census","Census - Population","United States Census Bureau","Count","645030","Male","<18","
+,  
+(38.843840757, -106.133610921)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","08","CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","CO","Colorado","Census","Census - Population","United States Census Bureau","Count","2787148","Female","Total","
+,  
+(38.843840757, -106.133610921)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","08","CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","CO","Colorado","Census","Census - Population","United States Census Bureau","Count","2171173","Female","18+","
+,  
+(38.843840757, -106.133610921)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","08","CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","CO","Colorado","Census","Census - Population","United States Census Bureau","Count","615975","Female","<18","
+,  
+(38.843840757, -106.133610921)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","08","CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","CT","Connecticut","Census","Census - Population","United States Census Bureau","Count","3575074","Total","Total","
+,  
+(41.56266102, -72.649840952)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000","09","CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","CT","Connecticut","Census","Census - Population","United States Census Bureau","Count","2831241","Total","18+","
+,  
+(41.56266102, -72.649840952)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","CT","Connecticut","Census","Census - Population","United States Census Bureau","Count","743833","Total","<18","
+,  
+(41.56266102, -72.649840952)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","CT","Connecticut","Census","Census - Population","United States Census Bureau","Count","1744245","Male","Total","
+,  
+(41.56266102, -72.649840952)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","CT","Connecticut","Census","Census - Population","United States Census Bureau","Count","1363831","Male","18+","
+,  
+(41.56266102, -72.649840952)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","CT","Connecticut","Census","Census - Population","United States Census Bureau","Count","380414","Male","<18","
+,  
+(41.56266102, -72.649840952)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","CT","Connecticut","Census","Census - Population","United States Census Bureau","Count","1830829","Female","Total","
+,  
+(41.56266102, -72.649840952)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","CT","Connecticut","Census","Census - Population","United States Census Bureau","Count","1467410","Female","18+","
+,  
+(41.56266102, -72.649840952)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","CT","Connecticut","Census","Census - Population","United States Census Bureau","Count","363419","Female","<18","
+,  
+(41.56266102, -72.649840952)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","DE","Delaware","Census","Census - Population","United States Census Bureau","Count","957248","Total","Total","
+,  
+(39.008830667, -75.577741168)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","DE","Delaware","Census","Census - Population","United States Census Bureau","Count","753564","Total","18+","
+,  
+(39.008830667, -75.577741168)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","DE","Delaware","Census","Census - Population","United States Census Bureau","Count","203684","Total","<18","
+,  
+(39.008830667, -75.577741168)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","DE","Delaware","Census","Census - Population","United States Census Bureau","Count","462890","Male","Total","
+,  
+(39.008830667, -75.577741168)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","DE","Delaware","Census","Census - Population","United States Census Bureau","Count","359814","Male","18+","
+,  
+(39.008830667, -75.577741168)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","DE","Delaware","Census","Census - Population","United States Census Bureau","Count","103076","Male","<18","
+,  
+(39.008830667, -75.577741168)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","DE","Delaware","Census","Census - Population","United States Census Bureau","Count","494358","Female","Total","
+,  
+(39.008830667, -75.577741168)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","DE","Delaware","Census","Census - Population","United States Census Bureau","Count","393750","Female","18+","
+,  
+(39.008830667, -75.577741168)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","DE","Delaware","Census","Census - Population","United States Census Bureau","Count","100608","Female","<18","
+,  
+(39.008830667, -75.577741168)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","FL","Florida","Census","Census - Population","United States Census Bureau","Count","20901636","Total","Total","
+,  
+(28.932040377, -81.928960539)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","FL","Florida","Census","Census - Population","United States Census Bureau","Count","16719174","Total","18+","
+,  
+(28.932040377, -81.928960539)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","FL","Florida","Census","Census - Population","United States Census Bureau","Count","4182462","Total","<18","
+,  
+(28.932040377, -81.928960539)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","FL","Florida","Census","Census - Population","United States Census Bureau","Count","10220813","Male","Total","
+,  
+(28.932040377, -81.928960539)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","FL","Florida","Census","Census - Population","United States Census Bureau","Count","8084189","Male","18+","
+,  
+(28.932040377, -81.928960539)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","FL","Florida","Census","Census - Population","United States Census Bureau","Count","2136624","Male","<18","
+,  
+(28.932040377, -81.928960539)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","FL","Florida","Census","Census - Population","United States Census Bureau","Count","10680823","Female","Total","
+,  
+(28.932040377, -81.928960539)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","FL","Florida","Census","Census - Population","United States Census Bureau","Count","8634985","Female","18+","
+,  
+(28.932040377, -81.928960539)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","FL","Florida","Census","Census - Population","United States Census Bureau","Count","2045838","Female","<18","
+,  
+(28.932040377, -81.928960539)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","GA","Georgia","Census","Census - Population","United States Census Bureau","Count","10403847","Total","Total","
+,  
+(32.839681093, -83.627580346)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","GA","Georgia","Census","Census - Population","United States Census Bureau","Count","7898607","Total","18+","
+,  
+(32.839681093, -83.627580346)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","GA","Georgia","Census","Census - Population","United States Census Bureau","Count","2505240","Total","<18","
+,  
+(32.839681093, -83.627580346)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","GA","Georgia","Census","Census - Population","United States Census Bureau","Count","5062096","Male","Total","
+,  
+(32.839681093, -83.627580346)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","GA","Georgia","Census","Census - Population","United States Census Bureau","Count","3785430","Male","18+","
+,  
+(32.839681093, -83.627580346)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","GA","Georgia","Census","Census - Population","United States Census Bureau","Count","1276666","Male","<18","
+,  
+(32.839681093, -83.627580346)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","GA","Georgia","Census","Census - Population","United States Census Bureau","Count","5341751","Female","Total","
+,  
+(32.839681093, -83.627580346)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","GA","Georgia","Census","Census - Population","United States Census Bureau","Count","4113177","Female","18+","
+,  
+(32.839681093, -83.627580346)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","GA","Georgia","Census","Census - Population","United States Census Bureau","Count","1228574","Female","<18","
+,  
+(32.839681093, -83.627580346)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","HI","Hawaii","Census","Census - Population","United States Census Bureau","Count","1422094","Total","Total","
+,  
+(21.304850435, -157.857749403)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","HI","Hawaii","Census","Census - Population","United States Census Bureau","Count","1117456","Total","18+","
+,  
+(21.304850435, -157.857749403)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","HI","Hawaii","Census","Census - Population","United States Census Bureau","Count","304638","Total","<18","
+,  
+(21.304850435, -157.857749403)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","HI","Hawaii","Census","Census - Population","United States Census Bureau","Count","713260","Male","Total","
+,  
+(21.304850435, -157.857749403)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","HI","Hawaii","Census","Census - Population","United States Census Bureau","Count","556695","Male","18+","
+,  
+(21.304850435, -157.857749403)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","HI","Hawaii","Census","Census - Population","United States Census Bureau","Count","156565","Male","<18","
+,  
+(21.304850435, -157.857749403)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","HI","Hawaii","Census","Census - Population","United States Census Bureau","Count","708834","Female","Total","
+,  
+(21.304850435, -157.857749403)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","HI","Hawaii","Census","Census - Population","United States Census Bureau","Count","560761","Female","18+","
+,  
+(21.304850435, -157.857749403)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","HI","Hawaii","Census","Census - Population","United States Census Bureau","Count","148073","Female","<18","
+,  
+(21.304850435, -157.857749403)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","ID","Idaho","Census","Census - Population","United States Census Bureau","Count","1717750","Total","Total","
+,  
+(43.682630005, -114.363730042)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","ID","Idaho","Census","Census - Population","United States Census Bureau","Count","1276603","Total","18+","
+,  
+(43.682630005, -114.363730042)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","ID","Idaho","Census","Census - Population","United States Census Bureau","Count","441147","Total","<18","
+,  
+(43.682630005, -114.363730042)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","ID","Idaho","Census","Census - Population","United States Census Bureau","Count","861025","Male","Total","
+,  
+(43.682630005, -114.363730042)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","ID","Idaho","Census","Census - Population","United States Census Bureau","Count","635333","Male","18+","
+,  
+(43.682630005, -114.363730042)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","ID","Idaho","Census","Census - Population","United States Census Bureau","Count","225692","Male","<18","
+,  
+(43.682630005, -114.363730042)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","ID","Idaho","Census","Census - Population","United States Census Bureau","Count","856725","Female","Total","
+,  
+(43.682630005, -114.363730042)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","ID","Idaho","Census","Census - Population","United States Census Bureau","Count","641270","Female","18+","
+,  
+(43.682630005, -114.363730042)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","ID","Idaho","Census","Census - Population","United States Census Bureau","Count","215455","Female","<18","
+,  
+(43.682630005, -114.363730042)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","IL","Illinois","Census","Census - Population","United States Census Bureau","Count","12770631","Total","Total","
+,  
+(40.485010283, -88.997710178)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","IL","Illinois","Census","Census - Population","United States Census Bureau","Count","9879105","Total","18+","
+,  
+(40.485010283, -88.997710178)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","IL","Illinois","Census","Census - Population","United States Census Bureau","Count","2891526","Total","<18","
+,  
+(40.485010283, -88.997710178)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","IL","Illinois","Census","Census - Population","United States Census Bureau","Count","6272172","Male","Total","
+,  
+(40.485010283, -88.997710178)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","IL","Illinois","Census","Census - Population","United States Census Bureau","Count","4796286","Male","18+","
+,  
+(40.485010283, -88.997710178)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","IL","Illinois","Census","Census - Population","United States Census Bureau","Count","1475886","Male","<18","
+,  
+(40.485010283, -88.997710178)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","IL","Illinois","Census","Census - Population","United States Census Bureau","Count","6498459","Female","Total","
+,  
+(40.485010283, -88.997710178)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","IL","Illinois","Census","Census - Population","United States Census Bureau","Count","5082819","Female","18+","
+,  
+(40.485010283, -88.997710178)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","IL","Illinois","Census","Census - Population","United States Census Bureau","Count","1415640","Female","<18","
+,  
+(40.485010283, -88.997710178)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","IN","Indiana","Census","Census - Population","United States Census Bureau","Count","6665703","Total","Total","
+,  
+(39.766910452, -86.149960194)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","IN","Indiana","Census","Census - Population","United States Census Bureau","Count","5093212","Total","18+","
+,  
+(39.766910452, -86.149960194)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","IN","Indiana","Census","Census - Population","United States Census Bureau","Count","1572491","Total","<18","
+,  
+(39.766910452, -86.149960194)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","IN","Indiana","Census","Census - Population","United States Census Bureau","Count","3284846","Male","Total","
+,  
+(39.766910452, -86.149960194)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","IN","Indiana","Census","Census - Population","United States Census Bureau","Count","2480598","Male","18+","
+,  
+(39.766910452, -86.149960194)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","IN","Indiana","Census","Census - Population","United States Census Bureau","Count","804248","Male","<18","
+,  
+(39.766910452, -86.149960194)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","IN","Indiana","Census","Census - Population","United States Census Bureau","Count","3380857","Female","Total","
+,  
+(39.766910452, -86.149960194)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","IN","Indiana","Census","Census - Population","United States Census Bureau","Count","2612614","Female","18+","
+,  
+(39.766910452, -86.149960194)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","IN","Indiana","Census","Census - Population","United States Census Bureau","Count","768243","Female","<18","
+,  
+(39.766910452, -86.149960194)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","IA","Iowa","Census","Census - Population","United States Census Bureau","Count","3139508","Total","Total","
+,  
+(42.469400913, -93.816490556)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","IA","Iowa","Census","Census - Population","United States Census Bureau","Count","2410771","Total","18+","
+,  
+(42.469400913, -93.816490556)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","IA","Iowa","Census","Census - Population","United States Census Bureau","Count","728737","Total","<18","
+,  
+(42.469400913, -93.816490556)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","IA","Iowa","Census","Census - Population","United States Census Bureau","Count","1558536","Male","Total","
+,  
+(42.469400913, -93.816490556)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","IA","Iowa","Census","Census - Population","United States Census Bureau","Count","1186340","Male","18+","
+,  
+(42.469400913, -93.816490556)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","IA","Iowa","Census","Census - Population","United States Census Bureau","Count","372196","Male","<18","
+,  
+(42.469400913, -93.816490556)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","IA","Iowa","Census","Census - Population","United States Census Bureau","Count","1580972","Female","Total","
+,  
+(42.469400913, -93.816490556)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","IA","Iowa","Census","Census - Population","United States Census Bureau","Count","1224431","Female","18+","
+,  
+(42.469400913, -93.816490556)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","IA","Iowa","Census","Census - Population","United States Census Bureau","Count","356541","Female","<18","
+,  
+(42.469400913, -93.816490556)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","KS","Kansas","Census","Census - Population","United States Census Bureau","Count","2910652","Total","Total","
+,  
+(38.3477403, -98.200781227)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","KS","Kansas","Census","Census - Population","United States Census Bureau","Count","2199582","Total","18+","
+,  
+(38.3477403, -98.200781227)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","KS","Kansas","Census","Census - Population","United States Census Bureau","Count","711070","Total","<18","
+,  
+(38.3477403, -98.200781227)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","KS","Kansas","Census","Census - Population","United States Census Bureau","Count","1450697","Male","Total","
+,  
+(38.3477403, -98.200781227)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","KS","Kansas","Census","Census - Population","United States Census Bureau","Count","1086760","Male","18+","
+,  
+(38.3477403, -98.200781227)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","KS","Kansas","Census","Census - Population","United States Census Bureau","Count","363937","Male","<18","
+,  
+(38.3477403, -98.200781227)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","KS","Kansas","Census","Census - Population","United States Census Bureau","Count","1459955","Female","Total","
+,  
+(38.3477403, -98.200781227)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","KS","Kansas","Census","Census - Population","United States Census Bureau","Count","1112822","Female","18+","
+,  
+(38.3477403, -98.200781227)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","KS","Kansas","Census","Census - Population","United States Census Bureau","Count","347133","Female","<18","
+,  
+(38.3477403, -98.200781227)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","KY","Kentucky","Census","Census - Population","United States Census Bureau","Count","4449052","Total","Total","
+,  
+(37.645970271, -84.774971048)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","KY","Kentucky","Census","Census - Population","United States Census Bureau","Count","3439746","Total","18+","
+,  
+(37.645970271, -84.774971048)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","KY","Kentucky","Census","Census - Population","United States Census Bureau","Count","1009306","Total","<18","
+,  
+(37.645970271, -84.774971048)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","KY","Kentucky","Census","Census - Population","United States Census Bureau","Count","2190922","Male","Total","
+,  
+(37.645970271, -84.774971048)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","KY","Kentucky","Census","Census - Population","United States Census Bureau","Count","1672746","Male","18+","
+,  
+(37.645970271, -84.774971048)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","KY","Kentucky","Census","Census - Population","United States Census Bureau","Count","518176","Male","<18","
+,  
+(37.645970271, -84.774971048)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","KY","Kentucky","Census","Census - Population","United States Census Bureau","Count","2258130","Female","Total","
+,  
+(37.645970271, -84.774971048)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","KY","Kentucky","Census","Census - Population","United States Census Bureau","Count","1767000","Female","18+","
+,  
+(37.645970271, -84.774971048)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","KY","Kentucky","Census","Census - Population","United States Census Bureau","Count","491130","Female","<18","
+,  
+(37.645970271, -84.774971048)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","LA","Louisiana","Census","Census - Population","United States Census Bureau","Count","4664362","Total","Total","
+,  
+(31.312660644, -92.445680071)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","LA","Louisiana","Census","Census - Population","United States Census Bureau","Count","3561012","Total","18+","
+,  
+(31.312660644, -92.445680071)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","LA","Louisiana","Census","Census - Population","United States Census Bureau","Count","1103350","Total","<18","
+,  
+(31.312660644, -92.445680071)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","LA","Louisiana","Census","Census - Population","United States Census Bureau","Count","2278986","Male","Total","
+,  
+(31.312660644, -92.445680071)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","LA","Louisiana","Census","Census - Population","United States Census Bureau","Count","1716575","Male","18+","
+,  
+(31.312660644, -92.445680071)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","LA","Louisiana","Census","Census - Population","United States Census Bureau","Count","562411","Male","<18","
+,  
+(31.312660644, -92.445680071)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","LA","Louisiana","Census","Census - Population","United States Census Bureau","Count","2385376","Female","Total","
+,  
+(31.312660644, -92.445680071)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","LA","Louisiana","Census","Census - Population","United States Census Bureau","Count","1844437","Female","18+","
+,  
+(31.312660644, -92.445680071)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","LA","Louisiana","Census","Census - Population","United States Census Bureau","Count","540939","Female","<18","
+,  
+(31.312660644, -92.445680071)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","ME","Maine","Census","Census - Population","United States Census Bureau","Count","1335492","Total","Total","
+,  
+(45.254228894001, -68.985031336)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","ME","Maine","Census","Census - Population","United States Census Bureau","Count","1082994","Total","18+","
+,  
+(45.254228894001, -68.985031336)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","ME","Maine","Census","Census - Population","United States Census Bureau","Count","252498","Total","<18","
+,  
+(45.254228894001, -68.985031336)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","ME","Maine","Census","Census - Population","United States Census Bureau","Count","653942","Male","Total","
+,  
+(45.254228894001, -68.985031336)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","ME","Maine","Census","Census - Population","United States Census Bureau","Count","524114","Male","18+","
+,  
+(45.254228894001, -68.985031336)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","ME","Maine","Census","Census - Population","United States Census Bureau","Count","129828","Male","<18","
+,  
+(45.254228894001, -68.985031336)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","ME","Maine","Census","Census - Population","United States Census Bureau","Count","681550","Female","Total","
+,  
+(45.254228894001, -68.985031336)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","ME","Maine","Census","Census - Population","United States Census Bureau","Count","558880","Female","18+","
+,  
+(45.254228894001, -68.985031336)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","ME","Maine","Census","Census - Population","United States Census Bureau","Count","122670","Female","<18","
+,  
+(45.254228894001, -68.985031336)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","MD","Maryland","Census","Census - Population","United States Census Bureau","Count","6018848","Total","Total","
+,  
+(39.290580964, -76.609260111)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","MD","Maryland","Census","Census - Population","United States Census Bureau","Count","4677166","Total","18+","
+,  
+(39.290580964, -76.609260111)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","MD","Maryland","Census","Census - Population","United States Census Bureau","Count","1341682","Total","<18","
+,  
+(39.290580964, -76.609260111)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","MD","Maryland","Census","Census - Population","United States Census Bureau","Count","2917613","Male","Total","
+,  
+(39.290580964, -76.609260111)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","MD","Maryland","Census","Census - Population","United States Census Bureau","Count","2232803","Male","18+","
+,  
+(39.290580964, -76.609260111)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","MD","Maryland","Census","Census - Population","United States Census Bureau","Count","684810","Male","<18","
+,  
+(39.290580964, -76.609260111)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","MD","Maryland","Census","Census - Population","United States Census Bureau","Count","3101235","Female","Total","
+,  
+(39.290580964, -76.609260111)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","MD","Maryland","Census","Census - Population","United States Census Bureau","Count","2444363","Female","18+","
+,  
+(39.290580964, -76.609260111)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","MD","Maryland","Census","Census - Population","United States Census Bureau","Count","656872","Female","<18","
+,  
+(39.290580964, -76.609260111)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","MA","Massachusetts","Census","Census - Population","United States Census Bureau","Count","6850553","Total","Total","
+,  
+(42.27687047, -72.082690675)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","MA","Massachusetts","Census","Census - Population","United States Census Bureau","Count","5479293","Total","18+","
+,  
+(42.27687047, -72.082690675)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","MA","Massachusetts","Census","Census - Population","United States Census Bureau","Count","1371260","Total","<18","
+,  
+(42.27687047, -72.082690675)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","MA","Massachusetts","Census","Census - Population","United States Census Bureau","Count","3324207","Male","Total","
+,  
+(42.27687047, -72.082690675)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","MA","Massachusetts","Census","Census - Population","United States Census Bureau","Count","2623840","Male","18+","
+,  
+(42.27687047, -72.082690675)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","MA","Massachusetts","Census","Census - Population","United States Census Bureau","Count","700367","Male","<18","
+,  
+(42.27687047, -72.082690675)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","MA","Massachusetts","Census","Census - Population","United States Census Bureau","Count","3526346","Female","Total","
+,  
+(42.27687047, -72.082690675)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","MA","Massachusetts","Census","Census - Population","United States Census Bureau","Count","2855453","Female","18+","
+,  
+(42.27687047, -72.082690675)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","MA","Massachusetts","Census","Census - Population","United States Census Bureau","Count","670893","Female","<18","
+,  
+(42.27687047, -72.082690675)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","MI","Michigan","Census","Census - Population","United States Census Bureau","Count","9965265","Total","Total","
+,  
+(44.661319543001, -84.71439027)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","MI","Michigan","Census","Census - Population","United States Census Bureau","Count","7787387","Total","18+","
+,  
+(44.661319543001, -84.71439027)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","MI","Michigan","Census","Census - Population","United States Census Bureau","Count","2177878","Total","<18","
+,  
+(44.661319543001, -84.71439027)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","MI","Michigan","Census","Census - Population","United States Census Bureau","Count","4905240","Male","Total","
+,  
+(44.661319543001, -84.71439027)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","MI","Michigan","Census","Census - Population","United States Census Bureau","Count","3790650","Male","18+","
+,  
+(44.661319543001, -84.71439027)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","MI","Michigan","Census","Census - Population","United States Census Bureau","Count","1114590","Male","<18","
+,  
+(44.661319543001, -84.71439027)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","MI","Michigan","Census","Census - Population","United States Census Bureau","Count","5060025","Female","Total","
+,  
+(44.661319543001, -84.71439027)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","MI","Michigan","Census","Census - Population","United States Census Bureau","Count","3996737","Female","18+","
+,  
+(44.661319543001, -84.71439027)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","MI","Michigan","Census","Census - Population","United States Census Bureau","Count","1063288","Female","<18","
+,  
+(44.661319543001, -84.71439027)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","MN","Minnesota","Census","Census - Population","United States Census Bureau","Count","5563378","Total","Total","
+,  
+(46.355648736, -94.794200503)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","MN","Minnesota","Census","Census - Population","United States Census Bureau","Count","4267530","Total","18+","
+,  
+(46.355648736, -94.794200503)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","MN","Minnesota","Census","Census - Population","United States Census Bureau","Count","1295848","Total","<18","
+,  
+(46.355648736, -94.794200503)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","MN","Minnesota","Census","Census - Population","United States Census Bureau","Count","2770873","Male","Total","
+,  
+(46.355648736, -94.794200503)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","MN","Minnesota","Census","Census - Population","United States Census Bureau","Count","2107721","Male","18+","
+,  
+(46.355648736, -94.794200503)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","MN","Minnesota","Census","Census - Population","United States Census Bureau","Count","663152","Male","<18","
+,  
+(46.355648736, -94.794200503)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","MN","Minnesota","Census","Census - Population","United States Census Bureau","Count","2792505","Female","Total","
+,  
+(46.355648736, -94.794200503)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","MN","Minnesota","Census","Census - Population","United States Census Bureau","Count","2159809","Female","18+","
+,  
+(46.355648736, -94.794200503)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","MN","Minnesota","Census","Census - Population","United States Census Bureau","Count","632696","Female","<18","
+,  
+(46.355648736, -94.794200503)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","MS","Mississippi","Census","Census - Population","United States Census Bureau","Count","2984418","Total","Total","
+,  
+(32.745510099, -89.538030825)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","MS","Mississippi","Census","Census - Population","United States Census Bureau","Count","2270925","Total","18+","
+,  
+(32.745510099, -89.538030825)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","MS","Mississippi","Census","Census - Population","United States Census Bureau","Count","713493","Total","<18","
+,  
+(32.745510099, -89.538030825)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","MS","Mississippi","Census","Census - Population","United States Census Bureau","Count","1447873","Male","Total","
+,  
+(32.745510099, -89.538030825)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","MS","Mississippi","Census","Census - Population","United States Census Bureau","Count","1083374","Male","18+","
+,  
+(32.745510099, -89.538030825)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","MS","Mississippi","Census","Census - Population","United States Census Bureau","Count","364499","Male","<18","
+,  
+(32.745510099, -89.538030825)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","MS","Mississippi","Census","Census - Population","United States Census Bureau","Count","1536545","Female","Total","
+,  
+(32.745510099, -89.538030825)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","MS","Mississippi","Census","Census - Population","United States Census Bureau","Count","1187551","Female","18+","
+,  
+(32.745510099, -89.538030825)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","MS","Mississippi","Census","Census - Population","United States Census Bureau","Count","348994","Female","<18","
+,  
+(32.745510099, -89.538030825)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","MO","Missouri","Census","Census - Population","United States Census Bureau","Count","6104910","Total","Total","
+,  
+(38.635790776, -92.566300053)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","MO","Missouri","Census","Census - Population","United States Census Bureau","Count","4723298","Total","18+","
+,  
+(38.635790776, -92.566300053)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","MO","Missouri","Census","Census - Population","United States Census Bureau","Count","1381612","Total","<18","
+,  
+(38.635790776, -92.566300053)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","MO","Missouri","Census","Census - Population","United States Census Bureau","Count","2995725","Male","Total","
+,  
+(38.635790776, -92.566300053)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","MO","Missouri","Census","Census - Population","United States Census Bureau","Count","2288382","Male","18+","
+,  
+(38.635790776, -92.566300053)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","MO","Missouri","Census","Census - Population","United States Census Bureau","Count","707343","Male","<18","
+,  
+(38.635790776, -92.566300053)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","MO","Missouri","Census","Census - Population","United States Census Bureau","Count","3109185","Female","Total","
+,  
+(38.635790776, -92.566300053)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","MO","Missouri","Census","Census - Population","United States Census Bureau","Count","2434916","Female","18+","
+,  
+(38.635790776, -92.566300053)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","MO","Missouri","Census","Census - Population","United States Census Bureau","Count","674269","Female","<18","
+,  
+(38.635790776, -92.566300053)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","MT","Montana","Census","Census - Population","United States Census Bureau","Count","1050649","Total","Total","
+,  
+(47.066528972, -109.424420645)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","MT","Montana","Census","Census - Population","United States Census Bureau","Count","822263","Total","18+","
+,  
+(47.066528972, -109.424420645)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","MT","Montana","Census","Census - Population","United States Census Bureau","Count","228386","Total","<18","
+,  
+(47.066528972, -109.424420645)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","MT","Montana","Census","Census - Population","United States Census Bureau","Count","528573","Male","Total","
+,  
+(47.066528972, -109.424420645)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","MT","Montana","Census","Census - Population","United States Census Bureau","Count","411053","Male","18+","
+,  
+(47.066528972, -109.424420645)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","MT","Montana","Census","Census - Population","United States Census Bureau","Count","117520","Male","<18","
+,  
+(47.066528972, -109.424420645)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","MT","Montana","Census","Census - Population","United States Census Bureau","Count","522076","Female","Total","
+,  
+(47.066528972, -109.424420645)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","MT","Montana","Census","Census - Population","United States Census Bureau","Count","411210","Female","18+","
+,  
+(47.066528972, -109.424420645)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","MT","Montana","Census","Census - Population","United States Census Bureau","Count","110866","Female","<18","
+,  
+(47.066528972, -109.424420645)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","NE","Nebraska","Census","Census - Population","United States Census Bureau","Count","1914571","Total","Total","
+,  
+(41.641040988001, -99.365720623)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","NE","Nebraska","Census","Census - Population","United States Census Bureau","Count","1440464","Total","18+","
+,  
+(41.641040988001, -99.365720623)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","NE","Nebraska","Census","Census - Population","United States Census Bureau","Count","474107","Total","<18","
+,  
+(41.641040988001, -99.365720623)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","NE","Nebraska","Census","Census - Population","United States Census Bureau","Count","954950","Male","Total","
+,  
+(41.641040988001, -99.365720623)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","NE","Nebraska","Census","Census - Population","United States Census Bureau","Count","711612","Male","18+","
+,  
+(41.641040988001, -99.365720623)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","NE","Nebraska","Census","Census - Population","United States Census Bureau","Count","243338","Male","<18","
+,  
+(41.641040988001, -99.365720623)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","NE","Nebraska","Census","Census - Population","United States Census Bureau","Count","959621","Female","Total","
+,  
+(41.641040988001, -99.365720623)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","NE","Nebraska","Census","Census - Population","United States Census Bureau","Count","728852","Female","18+","
+,  
+(41.641040988001, -99.365720623)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","NE","Nebraska","Census","Census - Population","United States Census Bureau","Count","230769","Female","<18","
+,  
+(41.641040988001, -99.365720623)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","NV","Nevada","Census","Census - Population","United States Census Bureau","Count","2972382","Total","Total","
+,  
+(39.49324039, -117.071840564)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","NV","Nevada","Census","Census - Population","United States Census Bureau","Count","2291340","Total","18+","
+,  
+(39.49324039, -117.071840564)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","NV","Nevada","Census","Census - Population","United States Census Bureau","Count","681042","Total","<18","
+,  
+(39.49324039, -117.071840564)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","NV","Nevada","Census","Census - Population","United States Census Bureau","Count","1491294","Male","Total","
+,  
+(39.49324039, -117.071840564)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","NV","Nevada","Census","Census - Population","United States Census Bureau","Count","1143450","Male","18+","
+,  
+(39.49324039, -117.071840564)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","NV","Nevada","Census","Census - Population","United States Census Bureau","Count","347844","Male","<18","
+,  
+(39.49324039, -117.071840564)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","NV","Nevada","Census","Census - Population","United States Census Bureau","Count","1481088","Female","Total","
+,  
+(39.49324039, -117.071840564)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","NV","Nevada","Census","Census - Population","United States Census Bureau","Count","1147890","Female","18+","
+,  
+(39.49324039, -117.071840564)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","NV","Nevada","Census","Census - Population","United States Census Bureau","Count","333198","Female","<18","
+,  
+(39.49324039, -117.071840564)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","NH","New Hampshire","Census","Census - Population","United States Census Bureau","Count","1348124","Total","Total","
+,  
+(43.655950113, -71.50036092)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","NH","New Hampshire","Census","Census - Population","United States Census Bureau","Count","1088160","Total","18+","
+,  
+(43.655950113, -71.50036092)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","NH","New Hampshire","Census","Census - Population","United States Census Bureau","Count","259964","Total","<18","
+,  
+(43.655950113, -71.50036092)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","NH","New Hampshire","Census","Census - Population","United States Census Bureau","Count","667689","Male","Total","
+,  
+(43.655950113, -71.50036092)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","NH","New Hampshire","Census","Census - Population","United States Census Bureau","Count","534677","Male","18+","
+,  
+(43.655950113, -71.50036092)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","NH","New Hampshire","Census","Census - Population","United States Census Bureau","Count","133012","Male","<18","
+,  
+(43.655950113, -71.50036092)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","NH","New Hampshire","Census","Census - Population","United States Census Bureau","Count","680435","Female","Total","
+,  
+(43.655950113, -71.50036092)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","NH","New Hampshire","Census","Census - Population","United States Census Bureau","Count","553483","Female","18+","
+,  
+(43.655950113, -71.50036092)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","NH","New Hampshire","Census","Census - Population","United States Census Bureau","Count","126952","Female","<18","
+,  
+(43.655950113, -71.50036092)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","NJ","New Jersey","Census","Census - Population","United States Census Bureau","Count","8878503","Total","Total","
+,  
+(40.130570048, -74.273691288)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","NJ","New Jersey","Census","Census - Population","United States Census Bureau","Count","6916982","Total","18+","
+,  
+(40.130570048, -74.273691288)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","NJ","New Jersey","Census","Census - Population","United States Census Bureau","Count","1961521","Total","<18","
+,  
+(40.130570048, -74.273691288)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","NJ","New Jersey","Census","Census - Population","United States Census Bureau","Count","4335032","Male","Total","
+,  
+(40.130570048, -74.273691288)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","NJ","New Jersey","Census","Census - Population","United States Census Bureau","Count","3333868","Male","18+","
+,  
+(40.130570048, -74.273691288)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","NJ","New Jersey","Census","Census - Population","United States Census Bureau","Count","1001164","Male","<18","
+,  
+(40.130570048, -74.273691288)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","NJ","New Jersey","Census","Census - Population","United States Census Bureau","Count","4543471","Female","Total","
+,  
+(40.130570048, -74.273691288)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","NJ","New Jersey","Census","Census - Population","United States Census Bureau","Count","3583114","Female","18+","
+,  
+(40.130570048, -74.273691288)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","NJ","New Jersey","Census","Census - Population","United States Census Bureau","Count","960357","Female","<18","
+,  
+(40.130570048, -74.273691288)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","NM","New Mexico","Census","Census - Population","United States Census Bureau","Count","2092454","Total","Total","
+,  
+(34.520880952, -106.240580985)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","NM","New Mexico","Census","Census - Population","United States Census Bureau","Count","1603978","Total","18+","
+,  
+(34.520880952, -106.240580985)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","NM","New Mexico","Census","Census - Population","United States Census Bureau","Count","488476","Total","<18","
+,  
+(34.520880952, -106.240580985)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","NM","New Mexico","Census","Census - Population","United States Census Bureau","Count","1036190","Male","Total","
+,  
+(34.520880952, -106.240580985)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","NM","New Mexico","Census","Census - Population","United States Census Bureau","Count","786661","Male","18+","
+,  
+(34.520880952, -106.240580985)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","NM","New Mexico","Census","Census - Population","United States Census Bureau","Count","249529","Male","<18","
+,  
+(34.520880952, -106.240580985)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","NM","New Mexico","Census","Census - Population","United States Census Bureau","Count","1056264","Female","Total","
+,  
+(34.520880952, -106.240580985)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","NM","New Mexico","Census","Census - Population","United States Census Bureau","Count","817317","Female","18+","
+,  
+(34.520880952, -106.240580985)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","NM","New Mexico","Census","Census - Population","United States Census Bureau","Count","238947","Female","<18","
+,  
+(34.520880952, -106.240580985)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","NY","New York","Census","Census - Population","United States Census Bureau","Count","19572319","Total","Total","
+,  
+(42.827001032, -75.543970427)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","NY","New York","Census","Census - Population","United States Census Bureau","Count","15463820","Total","18+","
+,  
+(42.827001032, -75.543970427)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","NY","New York","Census","Census - Population","United States Census Bureau","Count","4108499","Total","<18","
+,  
+(42.827001032, -75.543970427)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","NY","New York","Census","Census - Population","United States Census Bureau","Count","9501001","Male","Total","
+,  
+(42.827001032, -75.543970427)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","NY","New York","Census","Census - Population","United States Census Bureau","Count","7400091","Male","18+","
+,  
+(42.827001032, -75.543970427)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","NY","New York","Census","Census - Population","United States Census Bureau","Count","2100910","Male","<18","
+,  
+(42.827001032, -75.543970427)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","NY","New York","Census","Census - Population","United States Census Bureau","Count","10071318","Female","Total","
+,  
+(42.827001032, -75.543970427)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","NY","New York","Census","Census - Population","United States Census Bureau","Count","8063729","Female","18+","
+,  
+(42.827001032, -75.543970427)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","NY","New York","Census","Census - Population","United States Census Bureau","Count","2007589","Female","<18","
+,  
+(42.827001032, -75.543970427)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","NC","North Carolina","Census","Census - Population","United States Census Bureau","Count","10264876","Total","Total","
+,  
+(35.466220975, -79.159250463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","NC","North Carolina","Census","Census - Population","United States Census Bureau","Count","7968262","Total","18+","
+,  
+(35.466220975, -79.159250463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","NC","North Carolina","Census","Census - Population","United States Census Bureau","Count","2296614","Total","<18","
+,  
+(35.466220975, -79.159250463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","NC","North Carolina","Census","Census - Population","United States Census Bureau","Count","4996638","Male","Total","
+,  
+(35.466220975, -79.159250463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","NC","North Carolina","Census","Census - Population","United States Census Bureau","Count","3823779","Male","18+","
+,  
+(35.466220975, -79.159250463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","NC","North Carolina","Census","Census - Population","United States Census Bureau","Count","1172859","Male","<18","
+,  
+(35.466220975, -79.159250463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","NC","North Carolina","Census","Census - Population","United States Census Bureau","Count","5268238","Female","Total","
+,  
+(35.466220975, -79.159250463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","NC","North Carolina","Census","Census - Population","United States Census Bureau","Count","4144483","Female","18+","
+,  
+(35.466220975, -79.159250463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","NC","North Carolina","Census","Census - Population","United States Census Bureau","Count","1123755","Female","<18","
+,  
+(35.466220975, -79.159250463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","ND","North Dakota","Census","Census - Population","United States Census Bureau","Count","756717","Total","Total","
+,  
+(47.475319779, -100.118421049)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","ND","North Dakota","Census","Census - Population","United States Census Bureau","Count","580973","Total","18+","
+,  
+(47.475319779, -100.118421049)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","ND","North Dakota","Census","Census - Population","United States Census Bureau","Count","175744","Total","<18","
+,  
+(47.475319779, -100.118421049)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","ND","North Dakota","Census","Census - Population","United States Census Bureau","Count","387555","Male","Total","
+,  
+(47.475319779, -100.118421049)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","ND","North Dakota","Census","Census - Population","United States Census Bureau","Count","297423","Male","18+","
+,  
+(47.475319779, -100.118421049)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","ND","North Dakota","Census","Census - Population","United States Census Bureau","Count","90132","Male","<18","
+,  
+(47.475319779, -100.118421049)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","ND","North Dakota","Census","Census - Population","United States Census Bureau","Count","369162","Female","Total","
+,  
+(47.475319779, -100.118421049)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","ND","North Dakota","Census","Census - Population","United States Census Bureau","Count","283550","Female","18+","
+,  
+(47.475319779, -100.118421049)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","ND","North Dakota","Census","Census - Population","United States Census Bureau","Count","85612","Female","<18","
+,  
+(47.475319779, -100.118421049)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","OH","Ohio","Census","Census - Population","United States Census Bureau","Count","11655397","Total","Total","
+,  
+(40.060210141, -82.404260056)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","OH","Ohio","Census","Census - Population","United States Census Bureau","Count","9050387","Total","18+","
+,  
+(40.060210141, -82.404260056)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","OH","Ohio","Census","Census - Population","United States Census Bureau","Count","2605010","Total","<18","
+,  
+(40.060210141, -82.404260056)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","OH","Ohio","Census","Census - Population","United States Census Bureau","Count","5711765","Male","Total","
+,  
+(40.060210141, -82.404260056)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","OH","Ohio","Census","Census - Population","United States Census Bureau","Count","4379078","Male","18+","
+,  
+(40.060210141, -82.404260056)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","OH","Ohio","Census","Census - Population","United States Census Bureau","Count","1332687","Male","<18","
+,  
+(40.060210141, -82.404260056)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","OH","Ohio","Census","Census - Population","United States Census Bureau","Count","5943632","Female","Total","
+,  
+(40.060210141, -82.404260056)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","OH","Ohio","Census","Census - Population","United States Census Bureau","Count","4671309","Female","18+","
+,  
+(40.060210141, -82.404260056)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","OH","Ohio","Census","Census - Population","United States Census Bureau","Count","1272323","Female","<18","
+,  
+(40.060210141, -82.404260056)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","OK","Oklahoma","Census","Census - Population","United States Census Bureau","Count","3932870","Total","Total","
+,  
+(35.472031356, -97.521070214)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","OK","Oklahoma","Census","Census - Population","United States Census Bureau","Count","2975906","Total","18+","
+,  
+(35.472031356, -97.521070214)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","OK","Oklahoma","Census","Census - Population","United States Census Bureau","Count","956964","Total","<18","
+,  
+(35.472031356, -97.521070214)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","OK","Oklahoma","Census","Census - Population","United States Census Bureau","Count","1949528","Male","Total","
+,  
+(35.472031356, -97.521070214)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","OK","Oklahoma","Census","Census - Population","United States Census Bureau","Count","1459741","Male","18+","
+,  
+(35.472031356, -97.521070214)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","OK","Oklahoma","Census","Census - Population","United States Census Bureau","Count","489787","Male","<18","
+,  
+(35.472031356, -97.521070214)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","OK","Oklahoma","Census","Census - Population","United States Census Bureau","Count","1983342","Female","Total","
+,  
+(35.472031356, -97.521070214)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","OK","Oklahoma","Census","Census - Population","United States Census Bureau","Count","1516165","Female","18+","
+,  
+(35.472031356, -97.521070214)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","OK","Oklahoma","Census","Census - Population","United States Census Bureau","Count","467177","Female","<18","
+,  
+(35.472031356, -97.521070214)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","OR","Oregon","Census","Census - Population","United States Census Bureau","Count","4129803","Total","Total","
+,  
+(44.567449424, -120.155031326)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","OR","Oregon","Census","Census - Population","United States Census Bureau","Count","3261860","Total","18+","
+,  
+(44.567449424, -120.155031326)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","OR","Oregon","Census","Census - Population","United States Census Bureau","Count","867943","Total","<18","
+,  
+(44.567449424, -120.155031326)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","OR","Oregon","Census","Census - Population","United States Census Bureau","Count","2047338","Male","Total","
+,  
+(44.567449424, -120.155031326)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","OR","Oregon","Census","Census - Population","United States Census Bureau","Count","1602312","Male","18+","
+,  
+(44.567449424, -120.155031326)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","OR","Oregon","Census","Census - Population","United States Census Bureau","Count","445026","Male","<18","
+,  
+(44.567449424, -120.155031326)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","OR","Oregon","Census","Census - Population","United States Census Bureau","Count","2082465","Female","Total","
+,  
+(44.567449424, -120.155031326)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","OR","Oregon","Census","Census - Population","United States Census Bureau","Count","1659548","Female","18+","
+,  
+(44.567449424, -120.155031326)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","OR","Oregon","Census","Census - Population","United States Census Bureau","Count","422917","Female","<18","
+,  
+(44.567449424, -120.155031326)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","PA","Pennsylvania","Census","Census - Population","United States Census Bureau","Count","12791530","Total","Total","
+,  
+(40.793730152, -77.860700294)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","PA","Pennsylvania","Census","Census - Population","United States Census Bureau","Count","10129139","Total","18+","
+,  
+(40.793730152, -77.860700294)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","PA","Pennsylvania","Census","Census - Population","United States Census Bureau","Count","2662391","Total","<18","
+,  
+(40.793730152, -77.860700294)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","PA","Pennsylvania","Census","Census - Population","United States Census Bureau","Count","6265113","Male","Total","
+,  
+(40.793730152, -77.860700294)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","PA","Pennsylvania","Census","Census - Population","United States Census Bureau","Count","4902460","Male","18+","
+,  
+(40.793730152, -77.860700294)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","PA","Pennsylvania","Census","Census - Population","United States Census Bureau","Count","1362653","Male","<18","
+,  
+(40.793730152, -77.860700294)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","PA","Pennsylvania","Census","Census - Population","United States Census Bureau","Count","6526417","Female","Total","
+,  
+(40.793730152, -77.860700294)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","PA","Pennsylvania","Census","Census - Population","United States Census Bureau","Count","5226679","Female","18+","
+,  
+(40.793730152, -77.860700294)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","PA","Pennsylvania","Census","Census - Population","United States Census Bureau","Count","1299738","Female","<18","
+,  
+(40.793730152, -77.860700294)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","PR","Puerto Rico","Census","Census - Population","United States Census Bureau","Count","3318447","Total","Total","
+,  
+(18.220833, -66.590149)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","PR","Puerto Rico","Census","Census - Population","United States Census Bureau","Count","2670101","Total","18+","
+,  
+(18.220833, -66.590149)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","PR","Puerto Rico","Census","Census - Population","United States Census Bureau","Count","648346","Total","<18","
+,  
+(18.220833, -66.590149)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","PR","Puerto Rico","Census","Census - Population","United States Census Bureau","Count","1578318","Male","Total","
+,  
+(18.220833, -66.590149)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","PR","Puerto Rico","Census","Census - Population","United States Census Bureau","Count","1247441","Male","18+","
+,  
+(18.220833, -66.590149)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","PR","Puerto Rico","Census","Census - Population","United States Census Bureau","Count","330877","Male","<18","
+,  
+(18.220833, -66.590149)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","PR","Puerto Rico","Census","Census - Population","United States Census Bureau","Count","1740129","Female","Total","
+,  
+(18.220833, -66.590149)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","PR","Puerto Rico","Census","Census - Population","United States Census Bureau","Count","1422660","Female","18+","
+,  
+(18.220833, -66.590149)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","PR","Puerto Rico","Census","Census - Population","United States Census Bureau","Count","317469","Female","<18","
+,  
+(18.220833, -66.590149)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","RI","Rhode Island","Census","Census - Population","United States Census Bureau","Count","1057231","Total","Total","
+,  
+(41.708280193, -71.522470314)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","RI","Rhode Island","Census","Census - Population","United States Census Bureau","Count","849887","Total","18+","
+,  
+(41.708280193, -71.522470314)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","RI","Rhode Island","Census","Census - Population","United States Census Bureau","Count","207344","Total","<18","
+,  
+(41.708280193, -71.522470314)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","RI","Rhode Island","Census","Census - Population","United States Census Bureau","Count","513792","Male","Total","
+,  
+(41.708280193, -71.522470314)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","RI","Rhode Island","Census","Census - Population","United States Census Bureau","Count","407682","Male","18+","
+,  
+(41.708280193, -71.522470314)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","RI","Rhode Island","Census","Census - Population","United States Census Bureau","Count","106110","Male","<18","
+,  
+(41.708280193, -71.522470314)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","RI","Rhode Island","Census","Census - Population","United States Census Bureau","Count","543439","Female","Total","
+,  
+(41.708280193, -71.522470314)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","RI","Rhode Island","Census","Census - Population","United States Census Bureau","Count","442205","Female","18+","
+,  
+(41.708280193, -71.522470314)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","RI","Rhode Island","Census","Census - Population","United States Census Bureau","Count","101234","Female","<18","
+,  
+(41.708280193, -71.522470314)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","SC","South Carolina","Census","Census - Population","United States Census Bureau","Count","5020806","Total","Total","
+,  
+(33.998821303, -81.045371207)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","SC","South Carolina","Census","Census - Population","United States Census Bureau","Count","3918304","Total","18+","
+,  
+(33.998821303, -81.045371207)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","SC","South Carolina","Census","Census - Population","United States Census Bureau","Count","1102502","Total","<18","
+,  
+(33.998821303, -81.045371207)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","SC","South Carolina","Census","Census - Population","United States Census Bureau","Count","2435472","Male","Total","
+,  
+(33.998821303, -81.045371207)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","SC","South Carolina","Census","Census - Population","United States Census Bureau","Count","1873723","Male","18+","
+,  
+(33.998821303, -81.045371207)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","SC","South Carolina","Census","Census - Population","United States Census Bureau","Count","561749","Male","<18","
+,  
+(33.998821303, -81.045371207)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","SC","South Carolina","Census","Census - Population","United States Census Bureau","Count","2585334","Female","Total","
+,  
+(33.998821303, -81.045371207)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","SC","South Carolina","Census","Census - Population","United States Census Bureau","Count","2044581","Female","18+","
+,  
+(33.998821303, -81.045371207)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","SC","South Carolina","Census","Census - Population","United States Census Bureau","Count","540753","Female","<18","
+,  
+(33.998821303, -81.045371207)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","SD","South Dakota","Census","Census - Population","United States Census Bureau","Count","870638","Total","Total","
+,  
+(44.353130053, -100.373530637)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","SD","South Dakota","Census","Census - Population","United States Census Bureau","Count","656530","Total","18+","
+,  
+(44.353130053, -100.373530637)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","SD","South Dakota","Census","Census - Population","United States Census Bureau","Count","214108","Total","<18","
+,  
+(44.353130053, -100.373530637)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","SD","South Dakota","Census","Census - Population","United States Census Bureau","Count","438946","Male","Total","
+,  
+(44.353130053, -100.373530637)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","SD","South Dakota","Census","Census - Population","United States Census Bureau","Count","329225","Male","18+","
+,  
+(44.353130053, -100.373530637)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","SD","South Dakota","Census","Census - Population","United States Census Bureau","Count","109721","Male","<18","
+,  
+(44.353130053, -100.373530637)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","SD","South Dakota","Census","Census - Population","United States Census Bureau","Count","431692","Female","Total","
+,  
+(44.353130053, -100.373530637)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","SD","South Dakota","Census","Census - Population","United States Census Bureau","Count","327305","Female","18+","
+,  
+(44.353130053, -100.373530637)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","SD","South Dakota","Census","Census - Population","United States Census Bureau","Count","104387","Female","<18","
+,  
+(44.353130053, -100.373530637)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","TN","Tennessee","Census","Census - Population","United States Census Bureau","Count","6709356","Total","Total","
+,  
+(35.68094058, -85.774490914)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","TN","Tennessee","Census","Census - Population","United States Census Bureau","Count","5204436","Total","18+","
+,  
+(35.68094058, -85.774490914)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","TN","Tennessee","Census","Census - Population","United States Census Bureau","Count","1504920","Total","<18","
+,  
+(35.68094058, -85.774490914)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","TN","Tennessee","Census","Census - Population","United States Census Bureau","Count","3273278","Male","Total","
+,  
+(35.68094058, -85.774490914)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","TN","Tennessee","Census","Census - Population","United States Census Bureau","Count","2504072","Male","18+","
+,  
+(35.68094058, -85.774490914)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","TN","Tennessee","Census","Census - Population","United States Census Bureau","Count","769206","Male","<18","
+,  
+(35.68094058, -85.774490914)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","TN","Tennessee","Census","Census - Population","United States Census Bureau","Count","3436078","Female","Total","
+,  
+(35.68094058, -85.774490914)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","TN","Tennessee","Census","Census - Population","United States Census Bureau","Count","2700364","Female","18+","
+,  
+(35.68094058, -85.774490914)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","TN","Tennessee","Census","Census - Population","United States Census Bureau","Count","735714","Female","<18","
+,  
+(35.68094058, -85.774490914)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","TX","Texas","Census","Census - Population","United States Census Bureau","Count","28260856","Total","Total","
+,  
+(31.827240407, -99.426770206)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","TX","Texas","Census","Census - Population","United States Census Bureau","Count","20922411","Total","18+","
+,  
+(31.827240407, -99.426770206)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","TX","Texas","Census","Census - Population","United States Census Bureau","Count","7338445","Total","<18","
+,  
+(31.827240407, -99.426770206)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","TX","Texas","Census","Census - Population","United States Census Bureau","Count","14034009","Male","Total","
+,  
+(31.827240407, -99.426770206)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","TX","Texas","Census","Census - Population","United States Census Bureau","Count","10292114","Male","18+","
+,  
+(31.827240407, -99.426770206)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","TX","Texas","Census","Census - Population","United States Census Bureau","Count","3741895","Male","<18","
+,  
+(31.827240407, -99.426770206)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","TX","Texas","Census","Census - Population","United States Census Bureau","Count","14226847","Female","Total","
+,  
+(31.827240407, -99.426770206)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","TX","Texas","Census","Census - Population","United States Census Bureau","Count","10630297","Female","18+","
+,  
+(31.827240407, -99.426770206)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","TX","Texas","Census","Census - Population","United States Census Bureau","Count","3596550","Female","<18","
+,  
+(31.827240407, -99.426770206)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","US","United States (States and DC)","Census","Census - Population","United States Census Bureau","Count","324697795","Total","Total",,"ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","US","United States (States and DC)","Census","Census - Population","United States Census Bureau","Count","251268403","Total","18+",,"ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","US","United States (States and DC)","Census","Census - Population","United States Census Bureau","Count","73429392","Total","<18",,"ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","US","United States (States and DC)","Census","Census - Population","United States Census Bureau","Count","159886919","Male","Total",,"ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","US","United States (States and DC)","Census","Census - Population","United States Census Bureau","Count","122360385","Male","18+",,"ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","US","United States (States and DC)","Census","Census - Population","United States Census Bureau","Count","37526534","Male","<18",,"ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","US","United States (States and DC)","Census","Census - Population","United States Census Bureau","Count","164810876","Female","Total",,"ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","US","United States (States and DC)","Census","Census - Population","United States Census Bureau","Count","128908018","Female","18+",,"ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","US","United States (States and DC)","Census","Census - Population","United States Census Bureau","Count","35902858","Female","<18",,"ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","UT","Utah","Census","Census - Population","United States Census Bureau","Count","3096848","Total","Total","
+,  
+(39.360700171, -111.587130635)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","UT","Utah","Census","Census - Population","United States Census Bureau","Count","2173265","Total","18+","
+,  
+(39.360700171, -111.587130635)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","UT","Utah","Census","Census - Population","United States Census Bureau","Count","923583","Total","<18","
+,  
+(39.360700171, -111.587130635)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","UT","Utah","Census","Census - Population","United States Census Bureau","Count","1558868","Male","Total","
+,  
+(39.360700171, -111.587130635)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","UT","Utah","Census","Census - Population","United States Census Bureau","Count","1084332","Male","18+","
+,  
+(39.360700171, -111.587130635)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","UT","Utah","Census","Census - Population","United States Census Bureau","Count","474536","Male","<18","
+,  
+(39.360700171, -111.587130635)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","UT","Utah","Census","Census - Population","United States Census Bureau","Count","1537980","Female","Total","
+,  
+(39.360700171, -111.587130635)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","UT","Utah","Census","Census - Population","United States Census Bureau","Count","1088933","Female","18+","
+,  
+(39.360700171, -111.587130635)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","UT","Utah","Census","Census - Population","United States Census Bureau","Count","449047","Female","<18","
+,  
+(39.360700171, -111.587130635)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","VT","Vermont","Census","Census - Population","United States Census Bureau","Count","624313","Total","Total","
+,  
+(43.625381239, -72.517640791)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","VT","Vermont","Census","Census - Population","United States Census Bureau","Count","507659","Total","18+","
+,  
+(43.625381239, -72.517640791)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","VT","Vermont","Census","Census - Population","United States Census Bureau","Count","116654","Total","<18","
+,  
+(43.625381239, -72.517640791)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","VT","Vermont","Census","Census - Population","United States Census Bureau","Count","308097","Male","Total","
+,  
+(43.625381239, -72.517640791)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","VT","Vermont","Census","Census - Population","United States Census Bureau","Count","247998","Male","18+","
+,  
+(43.625381239, -72.517640791)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","VT","Vermont","Census","Census - Population","United States Census Bureau","Count","60099","Male","<18","
+,  
+(43.625381239, -72.517640791)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","VT","Vermont","Census","Census - Population","United States Census Bureau","Count","316216","Female","Total","
+,  
+(43.625381239, -72.517640791)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","VT","Vermont","Census","Census - Population","United States Census Bureau","Count","259661","Female","18+","
+,  
+(43.625381239, -72.517640791)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","VT","Vermont","Census","Census - Population","United States Census Bureau","Count","56555","Female","<18","
+,  
+(43.625381239, -72.517640791)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","VA","Virginia","Census","Census - Population","United States Census Bureau","Count","8454463","Total","Total","
+,  
+(37.542680674, -78.457890463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","VA","Virginia","Census","Census - Population","United States Census Bureau","Count","6588764","Total","18+","
+,  
+(37.542680674, -78.457890463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","VA","Virginia","Census","Census - Population","United States Census Bureau","Count","1865699","Total","<18","
+,  
+(37.542680674, -78.457890463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","VA","Virginia","Census","Census - Population","United States Census Bureau","Count","4159173","Male","Total","
+,  
+(37.542680674, -78.457890463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","VA","Virginia","Census","Census - Population","United States Census Bureau","Count","3205975","Male","18+","
+,  
+(37.542680674, -78.457890463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","VA","Virginia","Census","Census - Population","United States Census Bureau","Count","953198","Male","<18","
+,  
+(37.542680674, -78.457890463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","VA","Virginia","Census","Census - Population","United States Census Bureau","Count","4295290","Female","Total","
+,  
+(37.542680674, -78.457890463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","VA","Virginia","Census","Census - Population","United States Census Bureau","Count","3382789","Female","18+","
+,  
+(37.542680674, -78.457890463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","VA","Virginia","Census","Census - Population","United States Census Bureau","Count","912501","Female","<18","
+,  
+(37.542680674, -78.457890463)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","WA","Washington","Census","Census - Population","United States Census Bureau","Count","7404107","Total","Total","
+,  
+(47.522278629, -120.47001079)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","WA","Washington","Census","Census - Population","United States Census Bureau","Count","5760561","Total","18+","
+,  
+(47.522278629, -120.47001079)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","WA","Washington","Census","Census - Population","United States Census Bureau","Count","1643546","Total","<18","
+,  
+(47.522278629, -120.47001079)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","WA","Washington","Census","Census - Population","United States Census Bureau","Count","3703301","Male","Total","
+,  
+(47.522278629, -120.47001079)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","WA","Washington","Census","Census - Population","United States Census Bureau","Count","2862277","Male","18+","
+,  
+(47.522278629, -120.47001079)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","WA","Washington","Census","Census - Population","United States Census Bureau","Count","841024","Male","<18","
+,  
+(47.522278629, -120.47001079)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","WA","Washington","Census","Census - Population","United States Census Bureau","Count","3700806","Female","Total","
+,  
+(47.522278629, -120.47001079)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","WA","Washington","Census","Census - Population","United States Census Bureau","Count","2898284","Female","18+","
+,  
+(47.522278629, -120.47001079)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","WA","Washington","Census","Census - Population","United States Census Bureau","Count","802522","Female","<18","
+,  
+(47.522278629, -120.47001079)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","DC","Washington, DC","Census","Census - Population","United States Census Bureau","Count","692683","Total","Total","
+,  
+(38.890371385, -77.031961127)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","DC","Washington, DC","Census","Census - Population","United States Census Bureau","Count","568753","Total","18+","
+,  
+(38.890371385, -77.031961127)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","DC","Washington, DC","Census","Census - Population","United States Census Bureau","Count","123930","Total","<18","
+,  
+(38.890371385, -77.031961127)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","DC","Washington, DC","Census","Census - Population","United States Census Bureau","Count","328644","Male","Total","
+,  
+(38.890371385, -77.031961127)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","DC","Washington, DC","Census","Census - Population","United States Census Bureau","Count","266022","Male","18+","
+,  
+(38.890371385, -77.031961127)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","DC","Washington, DC","Census","Census - Population","United States Census Bureau","Count","62622","Male","<18","
+,  
+(38.890371385, -77.031961127)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","DC","Washington, DC","Census","Census - Population","United States Census Bureau","Count","364039","Female","Total","
+,  
+(38.890371385, -77.031961127)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","DC","Washington, DC","Census","Census - Population","United States Census Bureau","Count","302731","Female","18+","
+,  
+(38.890371385, -77.031961127)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","DC","Washington, DC","Census","Census - Population","United States Census Bureau","Count","61308","Female","<18","
+,  
+(38.890371385, -77.031961127)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","WV","West Virginia","Census","Census - Population","United States Census Bureau","Count","1817305","Total","Total","
+,  
+(38.665510202, -80.712640135)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","WV","West Virginia","Census","Census - Population","United States Census Bureau","Count","1447867","Total","18+","
+,  
+(38.665510202, -80.712640135)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","WV","West Virginia","Census","Census - Population","United States Census Bureau","Count","369438","Total","<18","
+,  
+(38.665510202, -80.712640135)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","WV","West Virginia","Census","Census - Population","United States Census Bureau","Count","898578","Male","Total","
+,  
+(38.665510202, -80.712640135)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","WV","West Virginia","Census","Census - Population","United States Census Bureau","Count","709642","Male","18+","
+,  
+(38.665510202, -80.712640135)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","WV","West Virginia","Census","Census - Population","United States Census Bureau","Count","188936","Male","<18","
+,  
+(38.665510202, -80.712640135)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","WV","West Virginia","Census","Census - Population","United States Census Bureau","Count","918727","Female","Total","
+,  
+(38.665510202, -80.712640135)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","WV","West Virginia","Census","Census - Population","United States Census Bureau","Count","738225","Female","18+","
+,  
+(38.665510202, -80.712640135)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","WV","West Virginia","Census","Census - Population","United States Census Bureau","Count","180502","Female","<18","
+,  
+(38.665510202, -80.712640135)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","WI","Wisconsin","Census","Census - Population","United States Census Bureau","Count","5790716","Total","Total","
+,  
+(44.393191174, -89.816370742)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","WI","Wisconsin","Census","Census - Population","United States Census Bureau","Count","4509813","Total","18+","
+,  
+(44.393191174, -89.816370742)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","WI","Wisconsin","Census","Census - Population","United States Census Bureau","Count","1280903","Total","<18","
+,  
+(44.393191174, -89.816370742)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","WI","Wisconsin","Census","Census - Population","United States Census Bureau","Count","2879894","Male","Total","
+,  
+(44.393191174, -89.816370742)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","WI","Wisconsin","Census","Census - Population","United States Census Bureau","Count","2224343","Male","18+","
+,  
+(44.393191174, -89.816370742)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","WI","Wisconsin","Census","Census - Population","United States Census Bureau","Count","655551","Male","<18","
+,  
+(44.393191174, -89.816370742)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","WI","Wisconsin","Census","Census - Population","United States Census Bureau","Count","2910822","Female","Total","
+,  
+(44.393191174, -89.816370742)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","WI","Wisconsin","Census","Census - Population","United States Census Bureau","Count","2285470","Female","18+","
+,  
+(44.393191174, -89.816370742)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","WI","Wisconsin","Census","Census - Population","United States Census Bureau","Count","625352","Female","<18","
+,  
+(44.393191174, -89.816370742)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"
+"2019","WY","Wyoming","Census","Census - Population","United States Census Bureau","Count","581024","Total","Total","
+,  
+(43.235541343, -108.109830353)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","8AGE","CEN01","1"
+"2019","WY","Wyoming","Census","Census - Population","United States Census Bureau","Count","444653","Total","18+","
+,  
+(43.235541343, -108.109830353)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","10AGE","CEN02","2"
+"2019","WY","Wyoming","Census","Census - Population","United States Census Bureau","Count","136371","Total","<18","
+,  
+(43.235541343, -108.109830353)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","1GEN","11AGE","CEN03","3"
+"2019","WY","Wyoming","Census","Census - Population","United States Census Bureau","Count","296202","Male","Total","
+,  
+(43.235541343, -108.109830353)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","8AGE","CEN04","4"
+"2019","WY","Wyoming","Census","Census - Population","United States Census Bureau","Count","225899","Male","18+","
+,  
+(43.235541343, -108.109830353)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","10AGE","CEN05","5"
+"2019","WY","Wyoming","Census","Census - Population","United States Census Bureau","Count","70303","Male","<18","
+,  
+(43.235541343, -108.109830353)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","2GEN","11AGE","CEN06","6"
+"2019","WY","Wyoming","Census","Census - Population","United States Census Bureau","Count","284822","Female","Total","
+,  
+(43.235541343, -108.109830353)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","8AGE","CEN07","7"
+"2019","WY","Wyoming","Census","Census - Population","United States Census Bureau","Count","218754","Female","18+","
+,  
+(43.235541343, -108.109830353)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","10AGE","CEN08","8"
+"2019","WY","Wyoming","Census","Census - Population","United States Census Bureau","Count","66068","Female","<18","
+,  
+(43.235541343, -108.109830353)","ACS S0101 AGE AND SEX","2021-03-26T00:00:00.000",,"CEN","100CEN","100POP","3GEN","11AGE","CEN09","9"

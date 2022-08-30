@@ -1,0 +1,11 @@
+image,icon,title,link,sort,background-color,description,data-type
+,https://data.oregon.gov/views/9c8s-3c6m/files/0541422a-ffb4-4301-9ed1-7aa15cdaade9,New! Oregon's Open Data Standard,https://data.oregon.gov/stories/s/xr2x-d2d7,1,#006699,The Launch of Oregon's new Open Data Program,Dataset
+,https://data.oregon.gov/views/9c8s-3c6m/files/ca58ce45-ef22-40b2-8f33-cf84bd44fb9f,Data Catalog,/browse,2,#0a7272,"Browse Datasets, Charts, Maps, and Views",Datasets & Views
+,https://data.oregon.gov/views/9c8s-3c6m/files/9e666ef7-d195-4fc2-aa4c-f50034364c91,Suggest a Dataset,/nominate,3,#54618d,What kind of data would you like to see?,Suggestions
+,https://data.oregon.gov/views/9c8s-3c6m/files/3b7f15c5-f712-4b3c-8e90-ecd29bd46f1c,Interesting Charts,/browse?limitTo=charts,4,#4f6e43,Browse through ready-made visualizations of data,Charts
+,https://data.oregon.gov/views/9c8s-3c6m/files/8a671a48-a6fa-457f-ae2d-c5b6198079bf,Maps,/browse?limitTo=maps&utf8=%E2%9C%93,5,#7B5833,Explore data-driven maps ,Maps
+,https://data.oregon.gov/views/9c8s-3c6m/files/b40407da-6392-4e61-b476-1d1d4a296f8a,Public Meetings Calendar,https://www.oregon.gov/transparency/Pages/index.aspx,6,#006699,"A calendar of agency, board, commission and ESD public meetings.",Calendar
+,https://data.oregon.gov/views/9c8s-3c6m/files/47bae963-fcf5-42c1-b606-c04abbc8f8ed,Bills Signed by governors during Legislative Sessions,https://data.oregon.gov/Administrative/Datasets-of-Bills-Signed-the-Governor-of-the-State/sitn-tqhd/data,7,#0a7272,Click Here,Dataset
+,https://data.oregon.gov/views/9c8s-3c6m/files/09edb7a7-7096-42e5-b0ef-fa8eb038b1c4,Developer Resources,/developers,8,#54618d,Did you know that every dataset on this site has an API?  Get started here!,dataset
+,https://data.oregon.gov/views/9c8s-3c6m/files/d65d6089-f0ef-460d-8602-21d299a6e20a,Oregon Geospatial Data,http://www.oregon.gov/DAS/CIO/GEO/Pages/sdlibrary.aspx,9,#4f6e43,"Find, access and share high quality data at the Oregon Geospatial Data Clearing House.",Geo Data
+,https://data.oregon.gov/views/9c8s-3c6m/files/bbf12d7f-5d8a-492c-aa76-941be4ca92a2,Business Registrations,https://data.oregon.gov/Business/New-Businesses-Registered-Last-Month/esjy-u4fc,10,#7B5833,Browse new businesses registered during the previous month.,Dataset

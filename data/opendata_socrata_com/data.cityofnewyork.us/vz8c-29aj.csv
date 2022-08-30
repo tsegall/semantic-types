@@ -1,0 +1,22 @@
+"borough","zip_code","phone","districts_served","hours","address","latitude","longitude","community_board","council_district","census_tract","bin","bbl","nta","location_1"
+"Bronx","10458","718-935-2178","7, 9, 10","Monday-Friday, 8:00am-3:00pm","1 Fordham Plaza","40.860994","-73.890073","6","15","387",,,"Belmont                                                                    ","(40.860994, -73.890073)"
+"Brooklyn","11230","718-935-2313","17, 18, 22","Monday-Friday, 8:00am-3:00pm","1780 Ocean Avenue
+","40.618915","-73.955115","14","48","538","3180747","3067390077","Midwood                                                                    ","(40.618915, -73.955115)"
+"Brooklyn (Note: General Education Only)","11217","718-935-2371","13, 14, 15, 16","Monday-Friday, 8:00am-3:00pm","29 Fort Greene Place
+(Note: General Education Only)","40.688834","-73.976905","2","35","33","3058752","3020980013","Fort Greene                                                                ","(40.688834, -73.976905)"
+"Brooklyn (Note: Special Education Only)","11201","718-935-4908","13, 14, 15, 16","Monday-Friday, 8:00am-3:00pm","131 Livingston Street
+(Note: Special Education Only)","40.690743","-73.988605","2","33","37","3000420","3001540001","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           ","(40.690743, -73.988605)"
+"Brooklyn","11209","718-935-2331","20, 21","Monday-Friday, 8:00am-3:00pm","415 89th Street
+","40.619931","-74.028086","10","43","160","3154215","3060650043","Bay Ridge                                                                  ","(40.619931, -74.028086)"
+"Brooklyn","11233","718-935-2340","19, 23, 32","Monday-Friday, 8:00am-3:00pm","1665 St Mark's Avenue
+","40.673138","-73.912024","16","41","36501","3039123","3014540054","Ocean Hill                                                                 ","(40.673138, -73.912024)"
+"Bronx","10462","718-935-2278","8, 11, 12","Monday-Friday, 8:00am-3:00pm","1230 Zerega Avenue
+ ","40.833586","-73.845099","9","13","96","2027195","2038420002","Westchester-Unionport                                                      ","(40.833586, -73.845099)"
+"Manhattan","10001","718-935-2383","1, 2, 4","Monday-Friday, 8:00am-3:00pm","333 Seventh Avenue
+","40.747629","-73.99306","5","3","95","1015097","1008040001","Midtown-Midtown South                                                      ","(40.747629, -73.99306)"
+"Staten Island","10301","718-935-2402","31","Monday-Friday, 8:00am-3:00pm","718 Ocean Terrace","40.608405","-74.101919","2","50","177","1015097","1008040001","Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill                   ","(40.608405, -74.101919)"
+"Queens","11354","718-935-2391","25, 26","Monday-Friday, 8:00am-3:00pm","30 48 Linden Place","40.770185","-73.832925","7","20","869","4100749","4043700050","Flushing                                                                   ","(40.770185, -73.832925)"
+"Queens","11435","718-935-2393","27, 28, 29","Monday-Friday, 8:00am-3:00pm","90 27 Sutphin Boulevard","40.70234","-73.808148","12","24","240","4206784","4096770007","Jamaica                                                                    ","(40.70234, -73.808148)"
+"Queens","11101","718-935-2386","24, 30","Monday-Friday, 8:00am-3:00pm","28 11 Queens Plaza","40.75008","-73.938208","1","26","33","4005022","4004170002","Queensbridge-Ravenswood-Long Island City                                   ","(40.75008, -73.938208)"
+"Manhattan","10027","718-935-2385","3, 5, 6","Monday-Friday, 8:00am-3:00pm","388 125th Street
+","40.747629","-73.99306","5","3","95",,,,"(40.747629, -73.99306)"

@@ -1,0 +1,448 @@
+"branch","asset_type","asset_name","address","suburb","postcode","category","nger_entity","latitude","longitude","geocode"
+"Property Services","Administration Facilities","Administration - 602 Little Bourke Street Storage","602 Little Bourke Street","Melbourne","3000","Building","Administration Facilities Aggregated","-37.79816","144.93917","(-37.79816, 144.93917)"
+"Property Services","Administration Facilities","Administration - Council House 1","200 Little Collins Street","Melbourne","3000","Building","Administration Facilities Aggregated","-37.81392","144.96721","(-37.81392, 144.96721)"
+"Property Services","Administration Facilities","Administration - Council House 2","218 Little Collins Street","Melbourne","3000","Building","Administration Facilities Aggregated","-37.81417","144.96671","(-37.81417, 144.96671)"
+"Property Services","Administration Facilities","Administration - Melbourne Town Hall","120 Swanston Street","Melbourne","3000","Building","Administration Facilities Aggregated","-37.81462","144.96648","(-37.81462, 144.96648)"
+"Engineering Services","Administration Facilities","Administration - Corporate Fleet","200 Little Collins Street","Melbourne","3000","Vehicles","Administration Facilities Aggregated","-37.81392","144.96721","(-37.81392, 144.96721)"
+"Park Services including Waterways","Administration Facilities","Administration - Waterways Office","Suite 109, 425 Docklands Drive","Docklands","3008","Building","Administration Facilities Aggregated","-37.8145","144.93924","(-37.8145, 144.93924)"
+"Community Services","Childcare Facilities","Child Care - Hotham Hub","113 Melrose Street","North Melbourne","3051","Building","Child Care Facilities Aggregated","-37.79271","144.94191","(-37.79271, 144.94191)"
+"Community Services","Childcare Facilities","Child Care - Lady Huntingfield","89 Haines Street","North Melbourne","3051","Building","Child Care Facilities Aggregated","-37.79866","144.94489","(-37.79866, 144.94489)"
+"Community Services","Childcare Facilities","Child Care - North Melbourne","28 Howard Street","North Melbourne","3051","Building","Child Care Facilities Aggregated","-37.80454","144.95431","(-37.80454, 144.95431)"
+"Community Services","Childcare Facilities","Child Care - Melbourne City","100 A'Beckett Street","Melbourne","3000","Building","Child Care Facilities Aggregated","-37.80916","144.96024","(-37.80916, 144.96024)"
+"Community Services","Childcare Facilities","Child Care - Central Carlton","477 Drummond Street","Carlton","3053","Building","Child Care Facilities Aggregated","-37.79401","144.96927","(-37.79401, 144.96927)"
+"Property Services","Community Facilities","Toilets - Queensberry Street West","530 Queensberry Street","North Melbourne","3051","Building",,"-37.80309","144.94986","(-37.80309, 144.94986)"
+"Property Services","Community Facilities","Toilets - Queensberry Street Central","286 Queensberry Street","Melbourne","3000","Building",,"-37.80403","144.95908","(-37.80403, 144.95908)"
+"Property Services","Community Facilities","Toilets - Elizabeth Street North","Opp 506 Elizabeth Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.80657","144.95985","(-37.80657, 144.95985)"
+"Property Services","Community Facilities","Toilets - Swanston Street North","Opp 475 Swanston Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.80679","144.96266","(-37.80679, 144.96266)"
+"Property Services","Community Facilities","Toilets - Franklin Street","Opp 88 Franklin Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.80822","144.96017","(-37.80822, 144.96017)"
+"Property Services","Community Facilities","Toilets - Latrobe Street","Opp 120 Latrobe Street","Melbourne","3000","Building",,"-37.80894","144.96565","(-37.80894, 144.96565)"
+"Property Services","Community Facilities","Toilets - Little Lonsdale Street","Opp 242 Exhibition Street","Melbourne","3000","Building",,"-37.80957","144.96942","(-37.80957, 144.96942)"
+"Property Services","Community Facilities","Toilets - Lonsdale Street East","Opp 88 Lonsdale Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.81003","144.96991","(-37.81003, 144.96991)"
+"Property Services","Community Facilities","Toilets - Gordons Reserve","Opp 74 Spring Street","Melbourne","3000","Building",,"-37.81226","144.97387","(-37.81226, 144.97387)"
+"Property Services","Community Facilities","Toilets - Lonsdale Street Central","Opp 419 Lonsdale Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.81293","144.95999","(-37.81293, 144.95999)"
+"Property Services","Community Facilities","Toilets - Bourke Street","Outside 225 Bourke Street","Melbourne","3000","Building",,"-37.81321","144.96697","(-37.81321, 144.96697)"
+"Property Services","Community Facilities","Toilets - Elizabeth Street South","Opp 200 Elizabeth Street (GPO)","Melbourne","3000","Building","Community Facilities Aggregated","-37.81384","144.96309","(-37.81384, 144.96309)"
+"Property Services","Community Facilities","Toilets - Exhibition Street","Opp 77 Exhibition Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.81384","144.97137","(-37.81384, 144.97137)"
+"Property Services","Community Facilities","Toilets - Lonsdale Street West","Opp 581 Lonsdale Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.81437","144.95511","(-37.81437, 144.95511)"
+"Property Services","Community Facilities","Toilets - Collins Street Town Hall","Opp 199 Collins Street","Melbourne","3000","Building",,"-37.81523","144.96695","(-37.81523, 144.96695)"
+"Property Services","Community Facilities","Toilets - Queen Street","113 Queen Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.81597","144.96111","(-37.81597, 144.96111)"
+"Property Services","Community Facilities","Toilets - Queen Street South","Opp 77 Queen Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.81668","144.96147","(-37.81668, 144.96147)"
+"Property Services","Community Facilities","Toilets - Collins Street West","Opp 74 Market Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.81747","144.96025","(-37.81747, 144.96025)"
+"Property Services","Community Facilities","Toilets - Flinders Street","Opp 1 Elizabeth Street","Melbourne","3000","Building",,"-37.81795","144.96484","(-37.81795, 144.96484)"
+"Property Services","Community Facilities","Toilets - Flinders Street Station","265 Flinders Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.81795","144.9661","(-37.81795, 144.9661)"
+"Property Services","Community Facilities","Toilets - Flinders Street Central","Opp 399 Flinders Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.81941","144.96128","(-37.81941, 144.96128)"
+"Property Services","Community Facilities","Toilets - Faraday Street","Opp 208 Faraday Street","Carlton","3053","Building","Community Facilities Aggregated","-37.79871","144.96757","(-37.79871, 144.96757)"
+"Property Services","Community Facilities","Toilets - Southbank Promenade","Southbank Promenade","Melbourne","3000","Building",,,,
+"Property Services","Community Facilities","Toilets - Queensberry Street East","179 Queensberry Street","Carlton","3053","Building",,"-37.80464","144.96285","(-37.80464, 144.96285)"
+"Property Services","Community Facilities","Toilets - Princes Street","Cnr Princes and Canning Streets","Carlton","3053","Building",,,,
+"Property Services","Community Facilities","Toilets - Argyle Place","Opp 8 Argyle Place North","Carlton North","3054","Building","Community Facilities Aggregated","-37.80351","144.96614","(-37.80351, 144.96614)"
+"Property Services","Community Facilities","Toilets - Alexandra Park","Alexandra Avenue","South Yarra","3141","Building","Community Facilities Aggregated","-37.82763","144.98179","(-37.82763, 144.98179)"
+"Property Services","Community Facilities","Toilets - Nicholson Street","Cnr Nicholson and Albert Streets","East Melbourne","3002","Building",,,,
+"Property Services","Community Facilities","Toilets - Bellair Street","Opp 180 Bellair Street","Kensington","3031","Building","Community Facilities Aggregated","-37.79374","144.93038","(-37.79374, 144.93038)"
+"Arts and Culture","Community Facilities","Child Activity Centre - Art Play","Batman Avenue","Melbourne","3000","Building","Community Facilities Aggregated","-37.81827","144.97156","(-37.81827, 144.97156)"
+"Park Services including Waterways","Community Facilities","Toilets - Ryder Oval Royal Park","Park Street","Parkville","3052","Building","Community Facilities Aggregated","-37.77939","144.95576","(-37.77939, 144.95576)"
+"Park Services including Waterways","Community Facilities","Toilets - Ross Straw Field","Off Oak Street","Parkville","3052","Building","Community Facilities Aggregated","-37.78303","144.94185","(-37.78303, 144.94185)"
+"Park Services including Waterways","Community Facilities","Toilets - Ievers Reserve","Opp 121 Flemington Road","Parkville","3052","Building","Community Facilities Aggregated","-37.79679","144.95195","(-37.79679, 144.95195)"
+"Park Services including Waterways","Community Facilities","Toilets - Manningham Street Reserve","Manningham Street","Parkville","3052","Building",,,,
+"Park Services including Waterways","Community Facilities","Toilets - Alexandra Gardens","Alexandra Avenue","Melbourne","3000","Building","Community Facilities Aggregated","-37.82038","144.97334","(-37.82038, 144.97334)"
+"Park Services including Waterways","Community Facilities","Toilets - Batman Park","2 Spencer Street","Melbourne","3000","Building","Community Facilities Aggregated","-37.82172","144.95558","(-37.82172, 144.95558)"
+"Park Services including Waterways","Community Facilities","Toilets - Kings Domain North","Alexandra Avenue (Opp Hendley Landing)","Melbourne","3000","Building","Community Facilities Aggregated","-37.82273","144.97517","(-37.82273, 144.97517)"
+"Park Services including Waterways","Community Facilities","Toilets - Goschs Paddock","112 Olympic Boulevard","Melbourne","3000","Building","Community Facilities Aggregated","-37.82441","144.98562","(-37.82441, 144.98562)"
+"Park Services including Waterways","Community Facilities","Toilets - Kings Domain South","Opp Government House Drive","Melbourne","3000","Building","Community Facilities Aggregated","-37.82692","144.97466","(-37.82692, 144.97466)"
+"Park Services including Waterways","Community Facilities","Toilets - Shrine Gardens","St Kilda Road","Melbourne","3000","Building",,,,
+"Engineering Services","Park Facilities","Depot - Degraves St Recycling Plant - Ross House","247 Flinders Lane","Melbourne","3000","Building",,"-37.817","144.96616","(-37.817, 144.96616)"
+"Park Services including Waterways","Community Facilities","Toilets - Carlton Gardens North","Opp 199 Rathdowne Street","Carlton","3053","Building","Community Facilities Aggregated","-37.80265","144.96985","(-37.80265, 144.96985)"
+"Park Services including Waterways","Community Facilities","Toilets - Lincoln Square","Opp 165 Bouverie Street","Carlton","3053","Building",,"-37.80269","144.96232","(-37.80269, 144.96232)"
+"Park Services including Waterways","Community Facilities","Toilets - Carlton Gardens South","Opp 199 Rathdowne Street","Carlton","3053","Building","Community Facilities Aggregated","-37.80627","144.96921","(-37.80627, 144.96921)"
+"Park Services including Waterways","Community Facilities","Toilets - Princes Park North","Opp 551 Royal Parade","Carlton North","3054","Building","Community Facilities Aggregated","-37.77896","144.96048","(-37.77896, 144.96048)"
+"Park Services including Waterways","Community Facilities","Toilets - Princes Park South","Princes Park Drive","Carlton North","3054","Building","Community Facilities Aggregated","-37.78561","144.96301","(-37.78561, 144.96301)"
+"Park Services including Waterways","Community Facilities","Toilets - Fawkner Park Central","Opp Armadale Street","South Yarra","3141","Building","Community Facilities Aggregated","-37.84015","144.98139","(-37.84015, 144.98139)"
+"Park Services including Waterways","Community Facilities","Toilets - Fawkner Park South","24 Commercial Road - Opp Alfred Hospital","South Yarra","3141","Building","Community Facilities Aggregated","-37.84514","144.98274","(-37.84514, 144.98274)"
+"Park Services including Waterways","Community Facilities","Toilets - Powlett Reserve","Opp 150 Powlett Reserve","East Melbourne","3002","Building","Community Facilities Aggregated","-37.81094","144.98687","(-37.81094, 144.98687)"
+"Park Services including Waterways","Community Facilities","Toilets - Fitzroy Gardens East","Opp 150 Clarendon Street","East Melbourne","3002","Building","Community Facilities Aggregated","-37.81203","144.98305","(-37.81203, 144.98305)"
+"Park Services including Waterways","Community Facilities","Toilets - Fitzroy Gardens West","2 Lansdowne Street","East Melbourne","3002","Building","Community Facilities Aggregated","-37.81528","144.97759","(-37.81528, 144.97759)"
+"Park Services including Waterways","Community Facilities","Toilets - Flagstaff Gardens","311 William Street","West Melbourne","3003","Building","Community Facilities Aggregated","-37.80892","144.95504","(-37.80892, 144.95504)"
+"Park Services including Waterways","Community Facilities","Toilets - Sturt Street Reserve","276 Sturt Street","Southbank","3006","Building",,"-37.83013","144.96501","(-37.83013, 144.96501)"
+"Park Services including Waterways","Community Facilities","Toilets - JJ Holland Park","Opp 50 Altona Street","Kensington","3031","Building","Community Facilities Aggregated","-37.79813","144.92642","(-37.79813, 144.92642)"
+"Community Services","Community Facilities","Health Centre - North Melbourne","505 Abbotsford Street","North Melbourne","3051","Building","Community Facilities Aggregated","-37.79435","144.94671","(-37.79435, 144.94671)"
+"Community Services","Community Facilities","Community Centre - Carlton Senior Citizens - Church Of All Nations","180 Palmerston Street","Carlton","3053","Building","Community Facilities Aggregated","-37.79587","144.96873","(-37.79587, 144.96873)"
+"Community Services","Community Facilities","Community Centre - South Yarra Senior Citizens","65W Toorak Road","South Yarra","3141","Building","Community Facilities Aggregated","-37.83825","144.98009","(-37.83825, 144.98009)"
+"Community Services","Community Facilities","Health Centre - Powlett Reserve","153 Simpson Street","East Melbourne","3002","Building","Community Facilities Aggregated","-37.81153","144.98847","(-37.81153, 144.98847)"
+"Community Services","Community Facilities","Community Centre - Southbank","207 City Road","Southbank","3006","Building","Community Facilities Aggregated","-37.82581","144.96116","(-37.82581, 144.96116)"
+"Community Services","Community Facilities","Health Centre - Kensington","81A Altona Street","Kensington","3031","Building","Community Facilities Aggregated","-37.79707","144.92515","(-37.79707, 144.92515)"
+"Community Strengthening","Community Facilities","Community Centre - Nth Melb Primary Care","115 Melrose Street","North Melbourne","3051","Building","Community Facilities Aggregated","-37.79292","144.94175","(-37.79292, 144.94175)"
+"Community Strengthening","Community Facilities","Community Centre - Jean Mckendry","111 Melrose Street","North Melbourne","3051","Building","Community Facilities Aggregated","-37.79302","144.94172","(-37.79302, 144.94172)"
+"Community Strengthening","Community Facilities","Community Centre - North Melbourne","49 Buncle Street","North Melbourne","3051","Building","Community Facilities Aggregated","-37.79318","144.94002","(-37.79318, 144.94002)"
+"Community Strengthening","Community Facilities","Community Centre - Carlton","216 Rathdowne Street","Carlton","3053","Building",,"-37.79374","144.97147","(-37.79374, 144.97147)"
+"Community Strengthening","Community Facilities","Community Centre - Kathleen Syme","251 Faraday Street","Carlton","3053","Building","Community Facilities Aggregated","-37.79868","144.96547","(-37.79868, 144.96547)"
+"Community Strengthening","Community Facilities","Community Centre - Docklands Hub","68 Harbour Esplanade","Docklands","3008","Building","Community Facilities Aggregated","-37.81991","144.94751","(-37.81991, 144.94751)"
+"Community Strengthening","Community Facilities","Community Centre - Kensington","18 Anthony Street","Kensington","3031","Building","Community Facilities Aggregated","-37.78956","144.92825","(-37.78956, 144.92825)"
+"Community Strengthening","Community Facilities","Community Centre - Carlton Family Resource Centre",,"Melbourne","3053","Building","Community Facilities Aggregated",,,
+"Property Services","Community Facilities","Decoupled Green Power Buildings","None","Melbourne","3000",,,,,
+"Arts and Culture","Cultural Facilities","Arts Centre - Meat Market","54 Courtney Street","North Melbourne","3051","Building","Cultural Facilities Aggregated","-37.80144","144.95402","(-37.80144, 144.95402)"
+"Arts and Culture","Cultural Facilities","Arts Centre - Nth Melb Town Hall","521 Queensberry Street","North Melbourne","3051","Building","Cultural Facilities Aggregated","-37.80333","144.94999","(-37.80333, 144.94999)"
+"Arts and Culture","Cultural Facilities","Arts Centre - Nth Melb Warehouse","33 Little Errol Street","North Melbourne","3051","Building","Cultural Facilities Aggregated","-37.80376","144.95005","(-37.80376, 144.95005)"
+"Arts and Culture","Cultural Facilities","Arts Centre - Signal Box","Flinders Walk","Melbourne","3000","Building","Cultural Facilities Aggregated","-37.81949","144.96333","(-37.81949, 144.96333)"
+"Property Services","Information Facilities","Information - Argyle Place Centre","Opp 2 Argyle Place South","Carlton","3053","Building","Information Facilities Aggregated","-37.80351","144.96617","(-37.80351, 144.96617)"
+"Engineering Services","Information Facilities","Information - Queen Street Pillar","Queen Street","Melbourne","3001","Open Space","Information Facilities Aggregated","-37.81505","144.96091","(-37.81505, 144.96091)"
+"Engineering Services","Information Facilities","Information - Elizabeth Street Pillar","Opp 491 Elizabeth Street","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.80745","144.95992","(-37.80745, 144.95992)"
+"Engineering Services","Information Facilities","Information - Exhibition Street Pillar","Opp 156 Exhibition Street","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.81197","144.97038","(-37.81197, 144.97038)"
+"Engineering Services","Information Facilities","Information - King Street Pillar","Opp 335 King Street","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.81264","144.95383","(-37.81264, 144.95383)"
+"Engineering Services","Information Facilities","Information - La Trobe Street Pillar","Opp 530 La Trabe Street","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.81302","144.95157","(-37.81302, 144.95157)"
+"Engineering Services","Information Facilities","Information Pillar - Creative Spaces Kiosk","60 Swanston Street","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.8159539","144.966864","(-37.8159539, 144.966864)"
+"Engineering Services","Leased Facilities","Lease - Event Supply - Cohen Place","Cohen Place","Melbourne","3000","Open Space","Recreation Facilities Aggregated","-37.8110774","144.9691966","(-37.8110774, 144.9691966)"
+"Engineering Services","Information Facilities","Information - Princes Bridge Pillar","Swanston Street Cnr Princes Bridge","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.81872","144.96783","(-37.81872, 144.96783)"
+"Park Services including Waterways","Information Facilities","Information - Boathouse Drive Pillar","Boathouse Drive","Melbourne","3000","Open Space",,"-37.82196","144.97477","(-37.82196, 144.97477)"
+"Recreation Services","Information Facilities","Information - Sinclairs Cottage Centre","Wellington Parade","East Melbourne","3002","Building","Information Facilities Aggregated","-37.81446","144.98055","(-37.81446, 144.98055)"
+"Tourism Melbourne","Information Facilities","Information - Bourke Street Centre","Bourke Street","Melbourne","3000","Building","Information Facilities Aggregated","-37.81394","144.96443","(-37.81394, 144.96443)"
+"Tourism Melbourne","Information Facilities","Information - Federation Square Centre","2 Swanston Street","Melbourne","3000","Building","Information Facilities Aggregated","-37.81767","144.96782","(-37.81767, 144.96782)"
+"Customer Relations","Information Facilities","Information - Collins Street Pillar","Collins Street","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.81551","144.96685","(-37.81551, 144.96685)"
+"Customer Relations","Information Facilities","Information - Flinders Street Pillar","Opp 207 Flinders Street","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.81768","144.96712","(-37.81768, 144.96712)"
+"Customer Relations","Information Facilities","Information - Swan Street Bridge Pillar","Swan Street Bridge","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.82316","144.97794","(-37.82316, 144.97794)"
+"Property Services","Leased Facilities","Lease - Kiosk Fruit 01 - Bourke Street","Opp 225 Bourke Street","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Fruit 02 - Swanston Street","NW Cnr Swanston and Collins Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Fruit 04 - Collins Street","SW Cnr Collins and Queens Street","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Aged Care Facility - Melrose St","117 Melrose Street","North Melbourne","3051","Building",,"-37.79293","144.94174","(-37.79293, 144.94174)"
+"Property Services","Leased Facilities","Lease - Kiosk Fruit 05 - Collins Street","SE Cnr Collins and King Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - North Melbourne Town Hall - Ground Floor","70 Errol Street","North Melbourne","3051","Building",,"-37.80343","144.94978","(-37.80343, 144.94978)"
+"Property Services","Leased Facilities","Lease - Kiosk Fruit 06 - Elizabeth Street","SE Cnr Elizabeth and Collins Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - 43 Little Errol Street - Residence","43 Little Errol Street","North Melbourne","3051","Building",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Fruit 07 - Bourke Street","Cnr Bourke and Queen Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Fruit 08 - Swanston Street","Swanston Street - Opp Melbourne Central","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 01 - Collins Street","NW Cnr Collins and Elizabeth Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 02 - Elizabeth Street","SE Cnr Elizabeth and Bourke Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 03 - Elizabeth Street","SE Cnr Elizabeth and Latrobe Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 04 - Bourke Street","NE Cnr Bourke and Queen Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 05 - Collins Street","NE Cnr Collins and King Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 06 - Bourke Street","NE Cnr Bourke and Williams Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 07 - Swanston Street","NW Cnr Swanston and Bourke Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 08 - Bourke Street","Opp 206 Bourke Street","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 09 - Latrobe Street","SW Cnr Latrobe and Swanston Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 11 - Swanston Street","Opp 21 Swanston Street","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 12 - Collins Street","SE Cnr Collins and Queen Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 14 - Franklin Street","NE Cnr Franklin and Elizabeth Streets","Melbourne","3000","Open Space",,,,
+"Supply Chain","Supply Chain","Employee commuting","Unknown","Melbourne","3000",,,,,
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 01 - Swanston Street","NE Cnr Swanston and Lonsdale Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - 829 Bourke Street - The Harbour Family and Childrens Centre","829 Bourke Street","Docklands","3008","Building",,"-37.82078","144.94327","(-37.82078, 144.94327)"
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 02 - Swanston Street","NW Cnr Swanston and Collins Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 05 - Swanston Street","SW Cnr Swanston and Collins Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 06 - Swanston Street","SW Cnr Swanston and Collins Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 09 - Bourke Street","Opp 461 Bourke Street","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 10 - Spencer Street","Cnr Spencer and Bourke Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 11 - Collins Street","Opp 260 Collins Street","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 12 - Williams Street","Opp 205 Williams Street","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 13 - Collins Street","Cnr Collins and Exhibition Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Fruit 03 - Elizabeth Street - GPO","Opp 200 Elizabeth Street","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - Pillar Newspaper 08 - Collins Street","SW Cnr Collins and Williams Streets","Melbourne","3000","Open Space",,,,
+"Property Services","Leased Facilities","Lease - 52 Errol Street - Shop","52 Errol Street","North Melbourne","3052","Building",,"-37.80392","144.94982","(-37.80392, 144.94982)"
+"Property Services","Leased Facilities","Mens' Shed - Federation Square","2 Swanston Street","Melbourne","3000","Building",,"-37.81781","144.97109","(-37.81781, 144.97109)"
+"Property Services","Leased Facilities","Lease - Car Park Elgin Street","6 Tyne Street","Carlton","3053","Building","Leased Facilities Aggregated","-37.79766","144.96672","(-37.79766, 144.96672)"
+"Property Services","Leased Facilities","Lease - Lawn Bowls - Princes Park","109 Bowen Crescent","Carlton North","3054","Building",,"-37.77939","144.96154","(-37.77939, 144.96154)"
+"Property Services","Leased Facilities","Lease - Car Park University Square","-","Melbourne","3000",,,,,
+"Property Services","Leased Facilities","Lease - 218 Little Collins Street - Ch2 Shop 3 Calibre Clothing","218 Little collins Street","Melbourne","3001","Building",,,,
+"Property Services","Leased Facilities","Lease - 220 Little Collins Street - Ch2 Shop","220 Little Collins Street","Melbourne","3001","Building",,,,
+"Property Services","Leased Facilities","Lease - 224 Little Collins Street - Ch2 Shop","224 Little Collins Street","Melbourne","3001","Building",,,,
+"Property Services","Leased Facilities","Lease - 230 Little Collins Street - Ch2 Shop","230 Little Collins Street","Melbourne","3001","Building",,,,
+"Property Services","Leased Facilities","Lease - 236 Little Collins Street - Ch2 Shop","236 Little Collins Street","Melbourne","3001","Building",,,,
+"Property Services","Leased Facilities","Tennis Court - Powlett Reserve","72 Grey Street","East Melbourne","3002","Building",,"-37.81129","144.98803","(-37.81129, 144.98803)"
+"Property Services","Leased Facilities","Lease - Car Park - Victoria Street","325 Victoria Street nr Roden Street","West Melbourne","3003","Open Space",,"-37.80549","144.95026","(-37.80549, 144.95026)"
+"Property Services","Leased Facilities","Lease - 207 City Road","207 City Road","Southbank","3006","Building","Leased Facilities Aggregated","-37.82581","144.96116","(-37.82581, 144.96116)"
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 16 - Bourke Street","791 Bourke Street","Docklands","3008","Open Space","Leased Facilities Aggregated","-37.81942","144.94574","(-37.81942, 144.94574)"
+"Property Services","Leased Facilities","Lease - 53 Victoria St - Drill Hall","49 Victoria Street","Melbourne","3000","Building","Leased Facilities Aggregated","-37.80658","144.96087","(-37.80658, 144.96087)"
+"Property Services","Leased Facilities","Lease - Multicultural Hub","506 Elizabeth Street","Melbourne","3000","Building","Leased Facilities Aggregated","-37.80674","144.96022","(-37.80674, 144.96022)"
+"Property Services","Leased Facilities","Lease - Lawn Bowls - Flagstaff Gardens","Flagstaff Gardens","Melbourne","3000","Building",,"-37.80932","144.95396","(-37.80932, 144.95396)"
+"Property Services","Leased Facilities","Lease - Lawn Bowls Newmarket Reserve","Smithsfield Road","Kensington","3031","Building",,"-37.78798","144.92377","(-37.78798, 144.92377)"
+"Property Services","Leased Facilities","Market Building - Building on Queen Victoria Market Car Park","172 Lonsdale Street","Melbourne","3000","Building",,"-37.81057","144.96569","(-37.81057, 144.96569)"
+"Property Services","Leased Facilities","Lease - 405 Racecourse Road - Kensington Community High School","405 Racecourse Road","Kensington","3031","Building",,"-37.78801","144.92589","(-37.78801, 144.92589)"
+"Property Services","Leased Facilities","Lease - 22 Bellair Street - Legal Centre","22 Bellair Street","Kensington","3031","Building","Leased Facilities Aggregated","-37.78891","144.92892","(-37.78891, 144.92892)"
+"Property Services","Leased Facilities","Lease - Kensington Town Hall","30 Bellair Street","Kensington","3031","Building","Leased Facilities Aggregated","-37.78926","144.92901","(-37.78926, 144.92901)"
+"Property Services","Leased Facilities","Lease - 30 Gatehouse Drive","30 Gatehouse Drive","Kensington","3031","Building","Leased Facilities Aggregated","-37.79236","144.91927","(-37.79236, 144.91927)"
+"Property Services","Leased Facilities","Lease - 211 Bourke Street - Retail","211 Bourke Street","Melbourne","3000","Building",,"-37.81318","144.96732","(-37.81318, 144.96732)"
+"Property Services","Leased Facilities","Lease - 225 Bourke St - City Village","225 Bourke Street","Melbourne","3000","Building","Leased Facilities Aggregated","-37.81335","144.96704","(-37.81335, 144.96704)"
+"Property Services","Leased Facilities","Lease - 225 Bourke St - Ground Floor","225 Bourke Street","Melbourne","3000","Building","Leased Facilities Aggregated","-37.81335","144.96704","(-37.81335, 144.96704)"
+"Property Services","Leased Facilities","Lease - Car Park - Russell Place","Russell Place","Melbourne","3000","Open Space",,"-37.81358","144.96739","(-37.81358, 144.96739)"
+"Property Services","Leased Facilities","Lease - 198 Lt Collins St Stellini Bar","198 Little Collins Street","Melbourne","3000","Building","Leased Facilities Aggregated","-37.81407","144.96736","(-37.81407, 144.96736)"
+"Property Services","Leased Facilities","Lease - Melbourne Town Hall - Shop","130 Swanston Street","Melbourne","3000","Building",,"-37.81455","144.96637","(-37.81455, 144.96637)"
+"Property Services","Leased Facilities","Lease - Melbourne Town Hall","100 Swanston Street","Melbourne","3000","Building","Leased Facilities Aggregated","-37.81505","144.96664","(-37.81505, 144.96664)"
+"Property Services","Leased Facilities","Lease - 179 Collins Street - Page One Bookshop","179 Collins Street","Melbourne","3000","Building",,"-37.81536","144.96789","(-37.81536, 144.96789)"
+"Property Services","Leased Facilities","Lease - Car Park City Square","208 Flinders Lane","Melbourne","3000","Building","Leased Facilities Aggregated","-37.81625","144.96739","(-37.81625, 144.96739)"
+"Property Services","Leased Facilities","Lease - Campbell Arcade","Degraves Lane","Melbourne","3000","Building","Leased Facilities Aggregated","-37.81781","144.96606","(-37.81781, 144.96606)"
+"Property Services","Leased Facilities","Lease - Spencer Street Subway","86 Spencer Street","Melbourne","3000","Building","Leased Facilities Aggregated","-37.81907","144.95415","(-37.81907, 144.95415)"
+"Property Services","Leased Facilities","Lease - 202 Little Collins Street - Ch2 Shop","202 Little Collins Street","Melbourne","3000","Building",,,,
+"Property Services","Leased Facilities","Lease - 214 Flinders Lane","214 Flinders Lane","Melbourne","3000","Building",,,,
+"Property Services","Leased Facilities","Lease - 227 Bourke Street","227 Bourke Street","Melbourne","3000","Building",,,,
+"Property Services","Leased Facilities","Lease - 231 Bourke Street","231 Bourke Street","Melbourne","3000","Building",,,,
+"Property Services","Leased Facilities","Lease - Batman Park Heliport Office","Spencer Street","Melbourne","3000","Building",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Newspaper 13 - Collins Street","SW Cnr Collins and Spring Streets","Melbourne","3000","Open Space","Leased Facilities Aggregated",,,
+"Property Services","Leased Facilities","Lease - 59 Victoria Street - Toilet and Storage","59 Victoria Street","Melbourne","3000","Building",,,,
+"Property Services","Leased Facilities","Lease - 59A Victoria Street - Toilet and Bin Wash","59A Victoria Street","Melbourne","3000","Building",,,,
+"Property Services","Leased Facilities","Lease - Car Park - Little Collins Street - Council House","196 Little Collins Street","Melbourne","3000","Building",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Flower 01 - Swanston Street","SE Cnr Swanston and Collins Streets","Melbourne","3000","Open Space",,,,
+"Engineering Services","Leased Facilities","Lease - Kiosk Newspaper - Swanston Street","Opp 313 Swanston Street (bn Ltl Lonsdale and Latrobe Streets)","Melbourne","3000","Open Space",,"-37.81083","144.96429","(-37.81083, 144.96429)"
+"Engineering Services","Information Facilities","Information Pillar - Spencer Street","Spencer Street","Melbourne","3000","Open Space","Information Facilities Aggregated","-37.8173178","144.9532048","(-37.8173178, 144.9532048)"
+"Engineering Services","Leased Facilities","Lease - Event Supply - Russell Street","Russell Street","Melbourne","3000","Open Space","Recreation Facilities Aggregated","-37.8123311","144.9678579","(-37.8123311, 144.9678579)"
+"Engineering Services","Leased Facilities","Lease - Event Supply - Lonsdale Street","Opp 217 Lonsdale Street","Melbourne","3000","Open Space","Recreation Facilities Aggregated","-37.81182","144.96349","(-37.81182, 144.96349)"
+"Engineering Services","Leased Facilities","Lease - Event Supply - Little Bourke Street","Outside 163 Little Bourke Street","Melbourne","3000","Open Space","Recreation Facilities Aggregated","-37.8117621","144.9678538","(-37.8117621, 144.9678538)"
+"Engineering Services","Leased Facilities","Lease - Event Supply - Swanston Street","Outside 137 Swanston Street","Melbourne","3000","Open Space","Recreation Facilities Aggregated","-37.8144758","144.9659762","(-37.8144758, 144.9659762)"
+"Arts and Culture","Leased Facilities","Lease - River Studio","41 Sim Street","West Melbourne","3003","Building","Leased Facilities Aggregated","-37.80159","144.91159","(-37.80159, 144.91159)"
+"Park Services including Waterways","Leased Facilities","Lease - Fitzroy Gardens Pavilion Cafe","Lansdowne Street","East Melbourne","3002","Building",,,,
+"Park Services including Waterways","Leased Facilities","Lease - Marina Rivers - Central Pier","160 Habour Esplanade","Docklands","3008","Open Space","Leased Facilities Aggregated","-37.81706","144.94316","(-37.81706, 144.94316)"
+"Park Services including Waterways","Leased Facilities","Lease - Marina Newquay","Victoria Harbour","Docklands","3008","Building","Leased Facilities Aggregated","-37.81928","144.94103","(-37.81928, 144.94103)"
+"Park Services including Waterways","Leased Facilities","Lease - Marina Ye","70-90 Lorimer Street","Docklands","3008","Open Space","Leased Facilities Aggregated","-37.82374","144.94513","(-37.82374, 144.94513)"
+"Park Services including Waterways","Leased Facilities","Lease - Rivers Marina - Central Pier Docklands","Central Pier 143-175 Harbour Esplanade","Docklands","3008","Open Space","Leased Facilities Aggregated","-37.81629","144.94401","(-37.81629, 144.94401)"
+"Park Services including Waterways","Leased Facilities","Lease - 83 Kensington Road - The Venny","85 Kensington Road","Kensington","3031","Building","Leased Facilities Aggregated","-37.79715","144.92364","(-37.79715, 144.92364)"
+"Park Services including Waterways","Leased Facilities","Lease - Latrobe Cottage - Kings Domain","Birdswood Avenue","Melbourne","3000","Building",,"-37.83154","144.97613","(-37.83154, 144.97613)"
+"Park Services including Waterways","Leased Facilities","Lease - Domain House - Acca Building","Dallas","Melbourne","3000","Building",,"-37.8319","144.97623","(-37.8319, 144.97623)"
+"Park Services including Waterways","Leased Facilities","Lease - 562 Little Bourke Street - Rear Courtyard","562 Little Bourke Street","Melbourne","3000","Building",,,,
+"Community Services","Leased Facilities","Child Care - Fawkner Park","65W Toorak Road","South Yarra","3141","Building",,"-37.83763","144.97976","(-37.83763, 144.97976)"
+"Community Services","Leased Facilities","Child Care - Docklands","20 Seafarers Lane","Docklands","3008","Building",,"-37.82077","144.94325","(-37.82077, 144.94325)"
+"Community Services","Leased Facilities","Child Care - Kensington","81 Altona Street","Kensington","3031","Building",,"-37.79713","144.92543","(-37.79713, 144.92543)"
+"Community Strengthening","Leased Facilities","Lease - 40 Bellair Street - Moonee Valley Learning And Employment Centre","40 Bellair Street","Kensington","3031","Building","Leased Facilities Aggregated","-37.78964","144.92891","(-37.78964, 144.92891)"
+"Recreation Services","Leased Facilities","Lease - City Baths - Cafe","422 Swanston Street","Melbourne","3000","Building",,,,
+"Recreation Services","Leased Facilities","Lease - City Baths - Sports Medicine Clinic","422 Swanston Street","Melbourne","3000","Building",,,,
+"Recreation Services","Leased Facilities","Lease - Royal Park Golf Shop","Poplar Road","Parkville","3052","Building","Leased Facilities Aggregated","-37.78189","144.95631","(-37.78189, 144.95631)"
+"Recreation Services","Leased Facilities","Lease - Royal Park Golf Clubhouse","11 Old Poplar Road","Parkville","3052","Building",,"-37.78193","144.95633","(-37.78193, 144.95633)"
+"Recreation Services","Leased Facilities","Lease - Urban Camp","Brens Drive","Parkville","3052","Building","Leased Facilities Aggregated","-37.78652","144.94498","(-37.78652, 144.94498)"
+"Recreation Services","Leased Facilities","Tennis Court - Fawkner Park","65 Toorak Road","South Yarra","3141","Building",,"-37.83792","144.97937","(-37.83792, 144.97937)"
+"Customer Relations","Leased Facilities","Lease - Kiosk Newspaper 15 - Flinders Street","211 Flinders Street","Melbourne","3000","Open Space",,,,
+"Events Melbourne","Leased Facilities","Lease - Events Supply Moomba Warehouse","17 Hughes Street","Yarraville","3013","Building","Recreation Facilities Aggregated","-37.82262","144.89015","(-37.82262, 144.89015)"
+"Events Melbourne","Leased Facilities","Lease - Events Supply Hardware Lane","Opp 65 Hardware Lane","Melbourne","3000","Open Space","Recreation Facilities Aggregated","-37.81329","144.96108","(-37.81329, 144.96108)"
+"Events Melbourne","Leased Facilities","Lease - Events Supply Alexander Gardens","Alexander Gardens","Melbourne","3000","Open Space","Recreation Facilities Aggregated","-37.82049","144.97219","(-37.82049, 144.97219)"
+"Property Services","Leased Facilities","North and West Melbourne Neighbourhood Centre","58 Errol St","North Melbourne","3051",,,,,
+"Community Strengthening","Library Facilities","Library - North Melbourne","66 Errol Street","North Melbourne","3051","Building","Library Facilities Aggregated","-37.80355","144.94987","(-37.80355, 144.94987)"
+"Community Strengthening","Library Facilities","Library - East Melbourne","126 George Street","East Melbourne","3002","Building","Library Facilities Aggregated","-37.81507","144.98638","(-37.81507, 144.98638)"
+"Community Strengthening","Library Facilities","Library - Docklands","839 Collins Street","Docklands","3008","Building","Library Facilities Aggregated","-37.82002","144.94055","(-37.82002, 144.94055)"
+"Community Strengthening","Library Facilities","Library - City","253 Flinders Lane","Melbourne","3000","Building","Library Facilities Aggregated","-37.81691","144.96584","(-37.81691, 144.96584)"
+"Engineering Services","Lighting Street","Street Lighting - Melbourne Network","Swanston Street","Melbourne","3000","Open Space","Street Lighting Facility Network","-37.81459","144.96658","(-37.81459, 144.96658)"
+"Engineering Services","Lighting Street","Street Lighting - Docklands Network","N/A","Docklands","3008","Open Space","Street Lighting Facility Network","-37.81435","144.94028","(-37.81435, 144.94028)"
+"Engineering Services","Lighting Street","Public Lighting Melbourne Parkville Avenue","Parkville Avenue","Melbourne","3000","Open Space","Street Lighting Facility Network",,,
+"Engineering Services","Lighting Street","Street Lighting - Citipower","Unknown","Melbourne","3000",,,,,
+"Property Services","Park Facilities","Dove Cote - Batman Park","2A Spencer Street","Melbourne","3000","Building","Park Facilities Aggregated","-37.82155","144.95741","(-37.82155, 144.95741)"
+"Property Services","Park Facilities","Pumping Station - Stubbs Street","NE Cnr Stubbs Street and Macaulay Road","Kensington","3031","Building","Park Facilities Aggregated","-37.79493","144.93531","(-37.79493, 144.93531)"
+"Property Services","Park Facilities","Pumping Station - Sutton Street West","Sutton Street","Kensington","3031","Building",,,,
+"Engineering Services","Park Facilities","Pumping Station - Sutton Street","Opp 90 Sutton Street","North Melbourne","3051","Building","Park Facilities Aggregated","-37.79192","144.93688","(-37.79192, 144.93688)"
+"Engineering Services","Park Facilities","Pumping Station - Macaulay Road","185 Langford Street","North Melbourne","3051","Building","Park Facilities Aggregated","-37.79527","144.93652","(-37.79527, 144.93652)"
+"Engineering Services","Park Facilities","Pumping Station - Gracie Street","Opp 2 Gracie Street","North Melbourne","3051","Building","Park Facilities Aggregated","-37.79819","144.93693","(-37.79819, 144.93693)"
+"Engineering Services","Park Facilities","Reserve - Monnee Ponds Creek","Arden Street","North Melbourne","3051","Open Space",,,,
+"Engineering Services","Park Facilities","Reserve - China Town Arch","Little Bourke Street","Melbourne","3000","Open Space",,,,
+"Engineering Services","Park Facilities","Reserve - City Square","Cnr Collins and Swanstons Streets","Melbourne","3000","Open Space",,,,
+"Engineering Services","Park Facilities","Pumping Station - Dudley Street","Dudley Street","West Melbourne","3003","Building","Park Facilities Aggregated","-37.81171","144.94573","(-37.81171, 144.94573)"
+"Engineering Services","Park Facilities","Pumping Station - Grant Street","25 Grant Street","Southbank","3006","Building","Park Facilities Aggregated","-37.82561","144.96905","(-37.82561, 144.96905)"
+"Engineering Services","Park Facilities","Pumping Station - Kensington Road","216 Kensington Road","West Melbourne","3011","Building","Park Facilities Aggregated","-37.80071","144.91611","(-37.80071, 144.91611)"
+"Engineering Services","Park Facilities","Pumping Station - Bent Street","Opp 22 Bent Street","Flemington","3031","Building","Park Facilities Aggregated","-37.79534","144.93534","(-37.79534, 144.93534)"
+"Park Services including Waterways","Park Facilities","Reserve - Clayton","201 Macaulay Road","North Melbourne","3051","Open Space","Park Facilities Aggregated","-37.79633","144.93914","(-37.79633, 144.93914)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Arden Street","Arden Street","North Melbourne","3051","Open Space","Park Facilities Aggregated","-37.79945","144.93609","(-37.79945, 144.93609)"
+"Park Services including Waterways","Park Facilities","Public Lighting - Parks - Errol Street Reserve","196-198 Errol Street","North Melbourne","3051","Open Space","Park Facilities Aggregated","-37.79954","144.9505","(-37.79954, 144.9505)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Curzon Street","Curzon Street","North Melbourne","3051","Open Space",,"-37.80207","144.94829","(-37.80207, 144.94829)"
+"Park Services including Waterways","Park Facilities","Boulevard - Elizabeth Street","Elizabeth Street","North Melbourne","3051","Open Space",,"-37.80889","144.96061","(-37.80889, 144.96061)"
+"Park Services including Waterways","Park Facilities","Boulevard - Flemington Road","Flemington Road","North Melbourne","3051","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Buncle Street","Buncle Street","North Melbourne","3051","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Errol Street","Errol Street","North Melbourne","3051","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Pleasance Gardens","Canning Street","North Melbourne","3051","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Chapman Street","Chapman Street","North Melbourne","3051","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Wood Street","Wood Street","North Melbourne","3051","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Depot - Royal Park North Residence","369 The Avenue","Parkville","3052","Building",,"-37.77825","144.95924","(-37.77825, 144.95924)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Galada Avenue","Galada Avenue","Parkville","3052","Open Space","Park Facilities Aggregated","-37.77976","144.93968","(-37.77976, 144.93968)"
+"Park Services including Waterways","Park Facilities","Reserve - Galada Avenue","12 Galada Avenue","Parkville","3052","Open Space",,"-37.77999","144.94015","(-37.77999, 144.94015)"
+"Park Services including Waterways","Park Facilities","Pumping Station - Manningham Street","Manningham Street","Parkville","3052","Building","Park Facilities Aggregated","-37.78347","144.94053","(-37.78347, 144.94053)"
+"Park Services including Waterways","Park Facilities","Park - Manningham","Manningham Street","Parkville","3052","Open Space","Park Facilities Aggregated","-37.78384","144.94279","(-37.78384, 144.94279)"
+"Park Services including Waterways","Park Facilities","Depot - Royal Park","Gatehouse Street","Parkville","3052","Building",,"-37.78506","144.94197","(-37.78506, 144.94197)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Elliott Avenue","Elliot Avenue","Parkville","3052","Open Space","Park Facilities Aggregated","-37.78566","144.95358","(-37.78566, 144.95358)"
+"Park Services including Waterways","Park Facilities","Park - Royal Park","Flemington Road","Parkville","3052","Open Space","Park Facilities Aggregated","-37.78829","144.95102","(-37.78829, 144.95102)"
+"Supply Chain","Supply Chain","Postage","Unknown","Melbourne","3000",,,,,
+"Park Services including Waterways","Park Facilities","Boulevard - Royal Parade","Royal Parade","Parkville","3052","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Depot - Royal Park South Residence","1 Gatehouse Street","Parkville","3052","Building",,,,
+"Park Services including Waterways","Park Facilities","Depot - Royal Park West Residence","369 The Avenue","Parkville","3052","Building",,,,
+"Park Services including Waterways","Park Facilities","Park - Royal Park South","Flemington Road","Parkville","3052","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Ievers","Flemington Road","Parkville","3052","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - College Cresent","College Cresent","Parkville","3052","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Depot - Flagstaff Gardens","La Trobe Street","Melbourne","3000","Building",,"-37.80981","144.95379","(-37.80981, 144.95379)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Miscellaneous","Multiple Small Sites","Melbourne","3000","Open Space",,"-37.81459","144.96658","(-37.81459, 144.96658)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Swanston Street","Swanston Street","Melbourne","3000","Open Space","Park Facilities Aggregated","-37.81459","144.96658","(-37.81459, 144.96658)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Rathdowne Street","Rathdowne Street","Carlton","3053","Open Space",,"-37.80023","144.97004","(-37.80023, 144.97004)"
+"Park Services including Waterways","Park Facilities","Pumping Station - St Kilda Road","St Kilda Road","Melbourne","3000","Building","Park Facilities Aggregated","-37.81986","144.96846","(-37.81986, 144.96846)"
+"Park Services including Waterways","Park Facilities","Depot - Carlton Gardens","Rathdowne Street","Carlton","3053","Building",,"-37.80101","144.97088","(-37.80101, 144.97088)"
+"Park Services including Waterways","Park Facilities","Garden - Carlton North","1 Carlton Street","Carlton","3053","Open Space",,"-37.80189","144.97199","(-37.80189, 144.97199)"
+"Park Services including Waterways","Park Facilities","Park - Kings Domain","Alexandra Avenue","Melbourne","3000","Open Space","Park Facilities Aggregated","-37.82481","144.97436","(-37.82481, 144.97436)"
+"Park Services including Waterways","Park Facilities","Reserve - Lincoln Square","138 Bouverie Street","Carlton","3053","Open Space","Park Facilities Aggregated","-37.80245","144.96289","(-37.80245, 144.96289)"
+"Park Services including Waterways","Park Facilities","Depot - Kings Domain","Alexandra Avenue","Melbourne","3000","Building",,"-37.82696","144.97467","(-37.82696, 144.97467)"
+"Park Services including Waterways","Park Facilities","Reserve - Argyle Square","153 Lygon Street","Carlton","3053","Open Space","Recreation Facilities Aggregated","-37.80275","144.96585","(-37.80275, 144.96585)"
+"Park Services including Waterways","Park Facilities","Depot - Shrine Reserve","St Kilda Road","Melbourne","3000","Building",,"-37.83221","144.97624","(-37.83221, 144.97624)"
+"Park Services including Waterways","Park Facilities","Garden - Carlton South","Victoria Street","Carlton","3053","Open Space","Park Facilities Aggregated","-37.80625","144.97115","(-37.80625, 144.97115)"
+"Park Services including Waterways","Park Facilities","Depot - Carlton Gardens Residence","Rathdowne Street","Carlton","3053","Building",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Macarthur Square","Cnr Rathdowne and Canning Streets","Carlton","3053","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Depot - Alexandra Gardens Residence","Alexandra Parade","Melbourne","3000","Building",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Murchison Square","Murchison Street","Carlton","3053","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Garden - Queen Victoria","St Kilda Road","Melbourne","3000","Open Space","Park Facilities Aggregated",,,
+"Park Services including Waterways","Park Facilities","Reserve - Neill Street","2 Neill Street","Carlton","3053","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Park - Birrarung Marr","Batman Avenue","Melbourne","3000","Open Space","Park Facilities Aggregated",,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Curtin Street","Curtin Street","Carlton","3053","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Park - Docklands","North Warf Road","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Lygon Street","Lygon Street","Carlton","3053","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Cathedral Place","Cnr Gisbourne and Lansdowne Streets","East Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Queensberry Street","Queensberry Street","Carlton","3053","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Hennessy","Royal Parade","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - University Square","Cnr Pelham Street and Haymarket Lane","Carlton","3053","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Spring Street","Spring Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - William Street","William Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Alexandra Avenue","Alexandra Avenue","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Anderson Street","Anderson Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Bourke Street","Bourke Street","Melbourne","3000","Open Space","Park Facilities Aggregated",,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Buckley Street","Buckley Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Clowes Street","Clowes Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Garton Street","Garton Street","Carlton North","3054","Open Space",,"-37.78352","144.96376","(-37.78352, 144.96376)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Exhibition Street","Exhibition Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Park - Princes Park","Royal Parade","Carlton North","3054","Open Space","Park Facilities Aggregated","-37.78511","144.96159","(-37.78511, 144.96159)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Flinders Lane","Flinders Lane","Melbourne","3000","Open Space","Park Facilities Aggregated",,,
+"Park Services including Waterways","Park Facilities","Depot - Princes Park Residence","Royal Parade","Carlton North","3054","Building",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Lonsdale Street","572 Lonsdale Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Hardy","MacPherson Street","Carlton North","3054","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Market Street","Market Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Cemetery Road","Cemetery road","Carlton North","3054","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Queensbridge Street","Queensbridge Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Russell Street","Russell Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Spencer Street","Spencer Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Victoria Street (Eight Hour Reserve)","Victoria Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - William Street","William Street","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Event Supply - Alexandra Gardens - Pillar 175 Meter 6","Alexandra Parade","Melbourne","3000","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Depot - Fawkner Park","Toorak Road","South Yarra","3141","Building",,"-37.83908","144.97819","(-37.83908, 144.97819)"
+"Park Services including Waterways","Park Facilities","Park - Fawkner","24 Commercial Road","South Yarra","3141","Open Space","Park Facilities Aggregated","-37.84075","144.98172","(-37.84075, 144.98172)"
+"Park Services including Waterways","Park Facilities","Depot -  Fawkner Park Residence","Toorak Road","South Yarra","3141","Building",,,,
+"Park Services including Waterways","Park Facilities","Boulevard - Victoria Parade","Victoria Parade","East Melbourne","3002","Open Space",,"-37.80628","144.95947","(-37.80628, 144.95947)"
+"Park Services including Waterways","Park Facilities","Park - Parliament","489 Albert Street","East Melbourne","3002","Open Space","Park Facilities Aggregated","-37.80981","144.97346","(-37.80981, 144.97346)"
+"Park Services including Waterways","Park Facilities","Garden - Fitzroy","230 Wellington Parade","East Melbourne","3002","Open Space","Park Facilities Aggregated","-37.81291","144.98045","(-37.81291, 144.98045)"
+"Park Services including Waterways","Park Facilities","Depot - Fitzroy Gardens - Conservatory","Wellington Parade","East Melbourne","3002","Building",,"-37.81403","144.97856","(-37.81403, 144.97856)"
+"Park Services including Waterways","Park Facilities","Depot - Fitzroy Gardens","Wellington Parade","East Melbourne","3002","Building",,"-37.81508","144.97911","(-37.81508, 144.97911)"
+"Park Services including Waterways","Park Facilities","Park - Yarra Park","Brunton Avenue","Jolimont","3002","Open Space","Park Facilities Aggregated","-37.81887","144.98579","(-37.81887, 144.98579)"
+"Park Services including Waterways","Park Facilities","Depot - Fitzroy Gardens Residence","Wellington Parade","East Melbourne","3002","Building",,,,
+"Park Services including Waterways","Park Facilities","Depot - Yarra Park Residence","Brunton Avenue","East Melbourne","3002","Building",,,,
+"Park Services including Waterways","Park Facilities","Garden - Treasury","Wellington Parade","East Melbourne","3002","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Burston","Macarthur Street","East Melbourne","3002","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Darling Square","Cnr Darling and Grey Streets","East Melbourne","3002","Open Space","Park Facilities Aggregated",,,
+"Park Services including Waterways","Park Facilities","Reserve - Gillot","Cnr Nicholson and Spring Streets","East Melbourne","3002","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Gordon Memorial","74 Spring Street","East Melbourne","3002","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Jolimont","Wellington Parade","East Melbourne","3002","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Powlett","Albert Street","East Melbourne","3002","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Brunton Avenue","Bunton Avenue","East Melbourne","3002","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Wellington Parade","Wellington Parade","East Melbourne","3002","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Sub Station - Powlett Reserve","Powett Street","East Melbourne","3002","Building",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Footscray Road","Footscray Road","West Melbourne","3003","Open Space","Park Facilities Aggregated","-37.80827","144.92395","(-37.80827, 144.92395)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Dudley Street","Dudley Street","West Melbourne","3003","Open Space","Park Facilities Aggregated","-37.81063","144.94864","(-37.81063, 144.94864)"
+"Park Services including Waterways","Park Facilities","Garden - Flagstaff","Willams Street","West Melbourne","3003","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Adderley Street","211 Adderley Street","West Melbourne","3003","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Eades","Eades Place","West Melbourne","3003","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Hawke And Millar","Cnr Hawke and Millar Streets","West Melbourne","3003","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Dynon Road","Dynon Road","West Melbourne","3003","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Boulevard - St Kilda Road","St Kilda Road","Melbourne","3004","Open Space","Park Facilities Aggregated","-37.82325","144.97007","(-37.82325, 144.97007)"
+"Park Services including Waterways","Park Facilities","Park - Shrine","St Kilda Road","Melbourne","3004","Open Space","Park Facilities Aggregated","-37.83023","144.97302","(-37.83023, 144.97302)"
+"Park Services including Waterways","Park Facilities","Reserve - Yarra Bank","Batman Avenue","Melbourne","3004","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Boulevard - Southbank","Southbank Boulevard","Southbank","3006","Open Space",,"-37.82106","144.96234","(-37.82106, 144.96234)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Kavanagh Street","Kavanagh Street","Southbank","3006","Open Space",,"-37.82492","144.96328","(-37.82492, 144.96328)"
+"Park Services including Waterways","Park Facilities","Reserve - Sturt Street","276 Sturt Street","Southbank","3006","Open Space","Park Facilities Aggregated","-37.82976","144.96487","(-37.82976, 144.96487)"
+"Park Services including Waterways","Park Facilities","Reserve - Queensbridge Square","1 Southbank Promenade","Southbank","3006","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Southbank Promenade","Southbank Promenade","Southbank","3006","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Marmion Place","Marmion Place","Docklands","3008","Open Space",,"-37.81356","144.942638","(-37.81356, 144.942638)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Palmyra Way","Palmyra Way","Docklands","3008","Open Space",,"-37.81381","144.94333","(-37.81381, 144.94333)"
+"Park Services including Waterways","Park Facilities","Street Reserve - St Mangos Lane","St Mangos Lane","Docklands","3008","Open Space",,"-37.81448","144.94154","(-37.81448, 144.94154)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Siddeley Street","Siddeley Street","Docklands","3008","Open Space",,"-37.82228","144.95326","(-37.82228, 144.95326)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Lorimer Street","Lorimer Street","Docklands","3008","Open Space","Park Facilities Aggregated","-37.82359","144.93989","(-37.82359, 144.93989)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Hartley Street","Cnr Hartley and Lorimer Streets","Docklands","3008","Open Space",,"-37.82446","144.94021","(-37.82446, 144.94021)"
+"Park Services including Waterways","Park Facilities","Reserve - Point Park","25 Lorimer Street","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Aurora Lane","Aurora Lane","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Docklands Drive","Docklands Drive","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Doepel Way","Doepel Way","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Enterprise Way","Enterprise Way","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Harbour Esplanade","Harbour Esplanade","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Hydra Way","Hydra Way","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Import Lane","Import Lane","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Investigator Drive","Investigator Drive","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Lothian Street","Lothian Street","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Merchant Street","Merchant Street","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Pearl River Road","Pearl River Road","Docklands","3008","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Newmarket","407 Racecourse Road","Kensington","3031","Open Space",,"-37.78807","144.92312","(-37.78807, 144.92312)"
+"Park Services including Waterways","Park Facilities","Reserve - Kensington Cattle Yard Display","Cnr Serong and Bluestone Streets","Kensington","3031","Open Space",,"-37.78868","144.92471","(-37.78868, 144.92471)"
+"Park Services including Waterways","Park Facilities","Reserve - Liddy Street","1 Export Lane","Kensington","3031","Open Space",,"-37.78999","144.92561","(-37.78999, 144.92561)"
+"Park Services including Waterways","Park Facilities","Reserve - Robertson Street","10 Robertson Street","Kensington","3031","Open Space",,"-37.79316","144.93235","(-37.79316, 144.93235)"
+"Park Services including Waterways","Park Facilities","Reserve - Bayswater Road","41 Bayswater Road","Kensington","3031","Open Space","Park Facilities Aggregated","-37.79373","144.92377","(-37.79373, 144.92377)"
+"Park Services including Waterways","Park Facilities","Street Reserve - Newton Street","Newton Street","Kensington","3031","Open Space","Park Facilities Aggregated","-37.79601","144.92261","(-37.79601, 144.92261)"
+"Park Services including Waterways","Park Facilities","Park - JJ Holland","67 Kensington Road","Kensington","3031","Open Space","Park Facilities Aggregated","-37.79788","144.92412","(-37.79788, 144.92412)"
+"Park Services including Waterways","Park Facilities","Depot - JJ Holland Park","67 Kensington Road","Kensington","3031","Building",,"-37.79889","144.92362","(-37.79889, 144.92362)"
+"Park Services including Waterways","Park Facilities","Reserve - Womens Peace Gardens","Epson Road","Kensington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Bellair Street","Bellair Street","Kensington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Lambeth Street","Lambeth Street","Flemington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Mccracken Street","McCracken Street","Flemington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Melrose Street","Melrose Street","Flemington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Parsons Street","Parsons Street","Flemington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Racecourse Road","Racecource Road","Flemington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Rankins Road","Rankins Road","Flemington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Robertson Street","Robertson Street","Flemington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Street Reserve - Youlden Street","Youlden Street","Flemington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Bellair Street","Bellair Street","Kensington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Reserve - Kensington Hall","2 Bellair Street","Kensington","3031","Open Space",,,,
+"Park Services including Waterways","Park Facilities","Garden Alexandra","Alexandra Parade","Melbourne","3000","Open Space","Park Facilities Aggregated",,,
+"Park Services including Waterways","Park Facilities","Public Lighting - Sports Lighting - Docklands Hub","Unknown","Melbourne","3000",,"Park Facilities Aggregated",,,
+"Engineering Services","Recreation Facilities","Parking Meters - Melbourne Network","Swanston Street","Melbourne","3000","Open Space","Parking Facilities Network","-37.81459","144.96658","(-37.81459, 144.96658)"
+"Park Services including Waterways","Recreation Facilities","Public Barbecue - Bellair Street Reserve","Bellair Street Reserve","Kensington","3031","Open Space","Recreation Facilities Aggregated","-37.79557","144.93079","(-37.79557, 144.93079)"
+"Park Services including Waterways","Recreation Facilities","Public Barbecue - JJ Holland Park","JJ Holland Park - Opp Altona Street","Kensington","3031","Open Space","Recreation Facilities Aggregated","-37.79783","144.92607","(-37.79783, 144.92607)"
+"Park Services including Waterways","Recreation Facilities","Public Barbecue - Royal Park North","Royal Park - Opp Galanda Avenue","Parkville","3052","Open Space","Recreation Facilities Aggregated","-37.78293","144.94362","(-37.78293, 144.94362)"
+"Park Services including Waterways","Recreation Facilities","Public Barbecue - Royal Park East","Royal Park - Opp Brens Drive","Parkville","3052","Open Space","Recreation Facilities Aggregated","-37.78546","144.94617","(-37.78546, 144.94617)"
+"Park Services including Waterways","Recreation Facilities","Public Barbecue - Royal Park South","Royal Park - Opp Elliot Avenue","Parkville","3052","Open Space","Recreation Facilities Aggregated","-37.79001","144.94501","(-37.79001, 144.94501)"
+"Park Services including Waterways","Recreation Facilities","Public Barbecue - Alexandra Park","Alexandra Park","Melbourne","3000","Open Space","Recreation Facilities Aggregated","-37.82431","144.97761","(-37.82431, 144.97761)"
+"Park Services including Waterways","Recreation Facilities","Public Barbecue - Fawkner Park","Fawkner Park","South Yarra","3141","Open Space","Recreation Facilities Aggregated","-37.83918","144.98069","(-37.83918, 144.98069)"
+"Recreation Services","Recreation Facilities","Tourist Centre - Cooks Cottage","Fitzroy Gardens - Lansdowne Street","East Melbourne","3002","Building","Recreation Facilities Aggregated","-37.81451","144.97944","(-37.81451, 144.97944)"
+"Engineering Services","Security Camera Facilities","Security Cameras - Melbourne Network","Swanston Street","Melbourne","3000","Open Space","Security Camera Facilities Network","-37.81459","144.96658","(-37.81459, 144.96658)"
+"Property Services","Sports Facilities","Tennis Court - Princes Hill","121 Princes Park Drive","Carlton North","3054","Building",,"-37.78588","144.96252","(-37.78588, 144.96252)"
+"Park Services including Waterways","Sports Facilities","Sports Facility - Royal Park Baseball Field","Royal Park - Opp Poplar Road","Parkville","3052","Open Space","Sports Facilities Aggregated","-37.78046","144.94945","(-37.78046, 144.94945)"
+"Recreation Services","Sports Facilities","Sports Facility -  North Melbourne Stadium","204 Arden Street","North Melbourne","3051","Building",,"-37.79973","144.94094","(-37.79973, 144.94094)"
+"Recreation Services","Sports Facilities","Recreation Centre - North Melbourne","1 Macaulay Road","North Melbourne","3051","Building","Sports Facilities Aggregated","-37.79978","144.94297","(-37.79978, 144.94297)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Royal Park Western","Royal Park - Off Park Street","Parkville","3052","Building","Sports Facilities Aggregated","-37.77768","144.95451","(-37.77768, 144.95451)"
+"Recreation Services","Sports Facilities","Tennis Court - Royal Park","The Avenue","Parkville","3052","Building","Sports Facilities Aggregated","-37.77887","144.95829","(-37.77887, 144.95829)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Royal Park Mcallister","Royal Park - Off Parks Street","Parkville","3052","Building","Sports Facilities Aggregated","-37.77941","144.95588","(-37.77941, 144.95588)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Royal Park Ryder","Royal Park - Off Parks Street","Parkville","3052","Building","Sports Facilities Aggregated","-37.77941","144.95555","(-37.77941, 144.95555)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Royal Park Athletics","Poplar Road","Parkville","3052","Building",,"-37.78138","144.95588","(-37.78138, 144.95588)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Royal Park Northern","Royal Park - Old Poplar Avenue","Parkville","3052","Building","Sports Facilities Aggregated","-37.78138","144.95588","(-37.78138, 144.95588)"
+"Recreation Services","Sports Facilities","Golf Course - Royal Park","11 Old Poplar Road","Parkville","3052","Open Space","Sports Facilities Aggregated","-37.78192","144.95633","(-37.78192, 144.95633)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Manningham Street Reserve","Manningham Street Reserve","Parkville","3052","Building",,"-37.78299","144.94182","(-37.78299, 144.94182)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Royal Park Brens","Brens Drive","Parkville","3052","Building","Sports Facilities Aggregated","-37.78631","144.95495","(-37.78631, 144.95495)"
+"Recreation Services","Sports Facilities","Recreation Centre - Carlton Baths","216 Rathdowne Street","Carlton","3053","Building",,"-37.79338","144.97171","(-37.79338, 144.97171)"
+"Recreation Services","Sports Facilities","Tennis Court - Carlton Gardens","Nicholson Street","Carlton","3053","Building",,"-37.80233","144.97337","(-37.80233, 144.97337)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Princes Park North","Princes Park - Opp 361 Royal Parade","Carlton North","3054","Building","Sports Facilities Aggregated","-37.78527","144.95989","(-37.78527, 144.95989)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Princes Park South","Princes Park - Opp 241 Royal Parade","Carlton North","3054","Building","Sports Facilities Aggregated","-37.78831","144.95947","(-37.78831, 144.95947)"
+"Recreation Services","Sports Facilities","Recreation Centre - City Baths","420 Swanston Street","Melbourne","3000","Building","Sports Facilities Aggregated","-37.80701","144.96331","(-37.80701, 144.96331)"
+"Recreation Services","Sports Facilities","Skate Park - Alexandra Gardens","Alexandra Avenue","Melbourne","3000","Open Space",,"-37.82096","144.97282","(-37.82096, 144.97282)"
+"Recreation Services","Sports Facilities","Skate Park - Alexandra Gardens Residence","Alexandra Parade","Melbourne","3000","Building",,"-37.82096","144.97282","(-37.82096, 144.97282)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Kings Domain","Alexandra Avenue","Melbourne","3000","Building",,"-37.82699","144.97476","(-37.82699, 144.97476)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Fawkner Park North","Fawkner Park - Off Toorak Road","South Yarra","3141","Building","Sports Facilities Aggregated","-37.83983","144.98181","(-37.83983, 144.98181)"
+"Recreation Services","Sports Facilities","Sports Pavilion - Fawkner Park South","Fawkner Park - opp Commercial Road","South Yarra","3141","Building","Sports Facilities Aggregated","-37.84316","144.98172","(-37.84316, 144.98172)"
+"Recreation Services","Sports Facilities","Tennis Court - Flagstaff Gardens","Williams Street","West Melbourne","3003","Building",,"-37.80999","144.95504","(-37.80999, 144.95504)"
+"Recreation Services","Sports Facilities","Sports Pavllion - Newmarket Reserve","26 Smithfield Road","Kensington","3031","Building","Sports Facilities Aggregated","-37.78849","144.92354","(-37.78849, 144.92354)"
+"Recreation Services","Sports Facilities","Recreation Centre - Kensington","111 Altona Street","Kensington","3031","Building",,"-37.79667","144.92438","(-37.79667, 144.92438)"
+"Recreation Services","Sports Facilities","Sports Pavilion - JJ Holland Park","JJ Holland Park - Opp Childers Street","Kensington","3031","Building","Sports Facilities Aggregated","-37.79873","144.92394","(-37.79873, 144.92394)"
+"Supply Chain","Supply Chain","Air Travel",,,"3000",,,,,
+"Supply Chain","Supply Chain","Couriers","Unknown","Melbourne","3000",,,,,
+"Supply Chain","Supply Chain","Office paper",,,"3000",,,,,
+"Park Services including Waterways","Supply Chain","Parks Contractors","Unknown","Melbourne","3000",,,,,
+"Supply Chain","Supply Chain","Security","Unknown","Melbourne","3000",,,,,
+"Supply Chain","Supply Chain","Coin collection","Unknown","Melbourne","3000",,,,,
+"Supply Chain","Supply Chain","Hire Cars","Unknown","Melbourne","3000",,,,,
+"Supply Chain","Supply Chain","Vehicle towing services","Unknown","Melbourne","3000",,,,,
+"Tourism Melbourne","Supply Chain","Tourist Shuttle Bus","Unknown","Melbourne","3000",,,,,
+"Engineering Services","Supply Chain","Street Cleaning","Unknown","Melbourne","3000",,,,,
+"Supply Chain","Supply Chain","Taxis","Various","Various","3000",,,,,
+"Supply Chain","Supply Chain","Public Transport","None","Melbourne","3000",,,,,
+"Supply Chain","Supply Chain","Civil Design and Traffic Engineering Services","Unknown","Melbourne","3000",,,,,
+"Property Services","Supply Chain","Property Services Waste","Unknown","Melbourne","3000",,,,,
+"Supply Chain","Supply Chain","Promotion and Marketing Services","Unknown","Melbourne","3000",,,,,
+"Park Services including Waterways","Undefined","Event Supply Alexandra Gardens Pillar 109 Meter 6",,,"3000","Open Space",,,,
+"Park Services including Waterways","Undefined","Event Supply Alexandra Gardens Pillar 175 Meter 1",,,"3000","Open Space",,,,
+"Park Services including Waterways","Undefined","Event Supply Alexandra Gardens Pillar 175 Meter 4",,,"3000","Open Space",,,,
+"Park Services including Waterways","Undefined","Event Supply Alexandra Gardens Pillar R/O S/S Meter 5",,,"3000","Open Space",,,,
+"Park Services including Waterways","Undefined","Irrigation Controller Sturt Street","Sturt Street",,"3000",,"Park Facilities Aggregated",,,
+"Park Services including Waterways","Undefined","Street Reserve Kirks Lane","Kirks Lane",,"3000",,"Park Facilities Aggregated",,,
+"Property Services","Undefined","Decoupled Green Power Council Buildings",,"Melbourne","3000",,"Administration Facilities Aggregated",,,
+"Property Services","Undefined","Depot Sub Station Powlett Street Median",,"Melbourne","3000","Building","Park Facilities Aggregated",,,
+"Property Services","Undefined","Building and Property Maintenance",,"Melbourne","3000",,,,,
+"Park Services including Waterways","Undefined","Irrigation Controller - Lansdowne Street","Lansdowne Street","Melbourne","3000",,"Park Facilities Aggregated",,,
+"Events Melbourne","Undefined","Events Supply - Bourke Street","Event pillar o/s 56 Bourke Street","Melbourne","3000",,"Recreation Facilities Aggregated",,,
+"Park Services including Waterways","Community Facilities","Toilets - Treasury Gardens","Lansdown Street","East Melbourne","3002","Building",,,,
+"Property Services","Leased Facilities","Lease - Kiosk Flower 02 - Collins Street","Collins Street (Opp AXA)","Melbourne","3000","Open Space",,,,

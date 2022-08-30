@@ -1,0 +1,5 @@
+"facility_id","common_name","address","city","zip_code","block_lot","owned_leased","dept_id","department_name","gross_sq_ft","longitude","latitude","supervisor_district","city_tenants"
+"1007.0","1315-1319 Evans Ave","1315-1319 Evans Ave","San Francisco","94124","5237037","Lease","9","Non-City",,"-122.38334430699996","37.73981930000008","10","Adult Probation"
+"3261.0","564 6th St - Offices","564 6th St","San Francisco","94103",,"Lease","9","Non-City",,"-122.40171173599998","37.77513883100005","6","Adult Probation"
+"3465.0","945 Bryant St","945 Bryant St","San Francisco","94103",,"Lease","9","Non-City",,"-122.40545726299996","37.77337280200004","6","Adult Probation"
+"874.0","Hall of Justice (HOJ)","850 Bryant St","San Francisco","94103","3759042","Own","63","Gsa - Real Estate Division","615241","-122.40432830099996","37.77498889900005","6","District Attorney: Superior Court: Police Department: Sheriff: Adult Probation: Gsa - Medical Examiner"
