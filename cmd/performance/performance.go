@@ -171,7 +171,7 @@ func main() {
 	totalRecall := float32(totalTruePositives) / float32(totalTruePositives+totalFalseNegatives)
 	totalF1Score := 2 * ((totalPrecision * totalRecall) / (totalPrecision + totalRecall))
 
-	fmt.Printf("TotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d)\n",
+	fmt.Printf("\nTotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d)\n",
 		totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives)
 }
 
