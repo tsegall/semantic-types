@@ -13,10 +13,10 @@ import (
 
 type Statistic struct {
 	SemanticType   string
-	TruePositives  int
-	FalsePositives int
-	TrueNegatives  int
-	FalseNegatives int
+	TruePositives  []string
+	FalsePositives []string
+	TrueNegatives  []string
+	FalseNegatives []string
 	Precision      float32
 	Recall         float32
 	F1Score        float32
@@ -84,23 +84,24 @@ func main() {
 			log.Fatal("FileName key does not match" + recordRef[FileName])
 		}
 		if recordRef[FieldOffset] != recordCurrent[FieldOffset] {
-			log.Fatal("FieldOffset key does not match" + recordRef[FieldOffset])
+			log.Fatalf("FieldOffset key does not match: %s,%s\n", recordCurrent[FileName], recordRef[FieldOffset])
 		}
 
 		// Only look for String, Long, or Double BaseTypes where we have something to say in either the reference set or the detected set
 		if (recordRef[BaseType] == "String" || recordRef[BaseType] == "Long" || recordRef[BaseType] == "Double") && (recordRef[SemanticType] != "" || recordCurrent[SemanticType] != "") {
+			key := recordRef[FileName] + "," + recordRef[FieldOffset]
 			if recordRef[SemanticType] == recordCurrent[SemanticType] {
 				// True Positive
-				update(statistics, recordRef[SemanticType], 1, 0, 0, 0)
+				update(statistics, recordRef[SemanticType], key, "", "", "")
 			} else if recordRef[SemanticType] != "" && recordCurrent[SemanticType] == "" {
 				// False Negative
-				update(statistics, recordRef[SemanticType], 0, 0, 0, 1)
+				update(statistics, recordRef[SemanticType], "", "", "", key)
 			} else if recordRef[SemanticType] == "" && recordCurrent[SemanticType] != "" {
 				// False Positive
-				update(statistics, recordCurrent[SemanticType], 0, 0, 1, 0)
+				update(statistics, recordCurrent[SemanticType], "", "", key, "")
 			} else {
-				update(statistics, recordRef[SemanticType], 0, 0, 0, 1)
-				update(statistics, recordCurrent[SemanticType], 0, 0, 1, 0)
+				update(statistics, recordRef[SemanticType], "", "", "", key)
+				update(statistics, recordCurrent[SemanticType], "", "", key, "")
 			}
 
 		}
@@ -112,9 +113,17 @@ func main() {
 	imperfectSet := make([]string, 0)
 	perfectSet := make([]string, 0)
 
+	totalTruePositives := 0
+	totalFalsePositives := 0
+	totalFalseNegatives := 0
+
 	for key, element := range statistics {
-		precision := float32(element.TruePositives) / float32(element.TruePositives+element.FalsePositives)
-		recall := float32(element.TruePositives) / float32(element.TruePositives+element.FalseNegatives)
+		totalTruePositives += len(element.TruePositives)
+		totalFalsePositives += len(element.FalsePositives)
+		totalFalseNegatives += len(element.FalseNegatives)
+
+		precision := float32(len(element.TruePositives)) / float32(len(element.TruePositives)+len(element.FalsePositives))
+		recall := float32(len(element.TruePositives)) / float32(len(element.TruePositives)+len(element.FalseNegatives))
 		setStatistics(statistics, key, precision, recall)
 
 		if precision < 1.0 || recall < 1.0 {
@@ -131,7 +140,21 @@ func main() {
 		element := statistics[key]
 		if options.Type == "" || options.Type == key {
 			fmt.Printf("SemanticType: %s, Precision: %.4f, Recall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d)\n",
-				key, element.Precision, element.Recall, element.F1Score, element.TruePositives, element.FalsePositives, element.FalseNegatives)
+				key, element.Precision, element.Recall, element.F1Score, len(element.TruePositives), len(element.FalsePositives), len(element.FalseNegatives))
+			if options.Verbose {
+				if len(element.FalsePositives) != 0 {
+					fmt.Printf("False Positives:\n")
+					for _, key := range element.FalsePositives {
+						fmt.Printf("\t%s\n", key)
+					}
+				}
+				if len(element.FalseNegatives) != 0 {
+					fmt.Printf("False Negatives:\n")
+					for _, key := range element.FalseNegatives {
+						fmt.Printf("\t%s\n", key)
+					}
+				}
+			}
 		}
 	}
 
@@ -140,9 +163,16 @@ func main() {
 	sort.Strings(perfectSet)
 	for _, key := range perfectSet {
 		if options.Type == "" || options.Type == key {
-			fmt.Printf("SemanticType: %s, Precision: 1.0, Recall: 1.0, F1 Score: 1.0 (TP: %d)\n", key, statistics[key].TruePositives)
+			fmt.Printf("SemanticType: %s, Precision: 1.0000, Recall: 1.0000, F1 Score: 1.0000 (TP: %d)\n", key, len(statistics[key].TruePositives))
 		}
 	}
+
+	totalPrecision := float32(totalTruePositives) / float32(totalTruePositives+totalFalsePositives)
+	totalRecall := float32(totalTruePositives) / float32(totalTruePositives+totalFalseNegatives)
+	totalF1Score := 2 * ((totalPrecision * totalRecall) / (totalPrecision + totalRecall))
+
+	fmt.Printf("TotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d)\n",
+		totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives)
 }
 
 func setStatistics(statistics map[string]Statistic, semanticType string, precision float32, recall float32) {
@@ -153,15 +183,23 @@ func setStatistics(statistics map[string]Statistic, semanticType string, precisi
 	statistics[semanticType] = val
 }
 
-func update(statistics map[string]Statistic, semanticType string, tp int, tn int, fp int, fn int) {
+func update(statistics map[string]Statistic, semanticType string, tp string, tn string, fp string, fn string) {
 	val, prs := statistics[semanticType]
-	if prs {
-		val.TruePositives += tp
-		val.FalsePositives += fp
-		val.TrueNegatives += tn
-		val.FalseNegatives += fn
-		statistics[semanticType] = val
-	} else {
-		statistics[semanticType] = Statistic{semanticType, tp, fp, tn, fn, 0.0, 0.0, 0.0}
+	if !prs {
+		val = Statistic{semanticType, make([]string, 0), make([]string, 0), make([]string, 0), make([]string, 0), 0.0, 0.0, 0.0}
 	}
+
+	if tp != "" {
+		val.TruePositives = append(val.TruePositives, tp)
+	}
+	if fp != "" {
+		val.FalsePositives = append(val.FalsePositives, fp)
+	}
+	if tn != "" {
+		val.TrueNegatives = append(val.TrueNegatives, tn)
+	}
+	if fn != "" {
+		val.FalseNegatives = append(val.FalseNegatives, fn)
+	}
+	statistics[semanticType] = val
 }
