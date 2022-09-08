@@ -1,0 +1,73 @@
+"type","region","name","street_address","city","state","zip","location_1","main_phone","fax","tdd1","tdd2","parking"
+"Area Office","Region 4","Manchester Area Office","364 West Middle Turnpike","Manchester","CT","06040","364 West Middle Turnpike
+Manchester, CT 06040
+(41.76987116800046, -72.52829727999966)","(860) 533-3600","(860) 533-3750","(860) 533-3896","(800) 315-4415","On-Site"
+"Area Office","Region 4","Hartford Area Office","250 Hamilton Street","Hartford","CT","06106","250 Hamilton Street
+Hartford, CT 06106
+(41.75439636800047, -72.70448531899967)","(860) 418-8000","(860) 418-8327","(860) 418-8366","(800) 315-4082","On-Site (Limited)"
+"Area Office","Region 3","Willimantic Area Office","322 Main Street","Willimantic","CT","06226","322 Main Street
+Willimantic, CT 06226
+(41.7113025540005, -72.20467664599965)","(860) 450-2000","(860) 423-5034","(860) 456-6603",,"On-Site"
+"State Office","Statewide","Central Office","505 Hudson Street","Hartford","CT","06106","505 Hudson Street
+Hartford, CT 06106
+(41.75689750400045, -72.67873592899963)","(860) 550-6300",,,,"Metered On-Street"
+"Area Office","Region 6","New Britain Area Office","1 Grove Street","New Britain","CT","06053","1 Grove Street
+New Britain, CT 06053
+(41.67038823000047, -72.78685593999967)","(860) 832-5200","(860) 832-5318","(860) 832-5370",,"Myrtle Street Parking Lot"
+"Area Office","Region 1","Norwalk Area Office","761 Main Street","Norwalk","CT","06851","761 Main Street
+Norwalk, CT 06851
+(41.159240887000465, -73.41960424399963)","(203) 899-1400","(203) 853-3821","(203) 899-1491",,"On-Site (Behind building)"
+"Area Office","Region 5","Danbury Area Office","131 West Street","Danbury","CT","06810","131 West Street
+Danbury, CT 06810
+(41.39312861100046, -73.46270016999966)","(203) 207-5100","(203) 207-5170","(203) 748-8325",,"On-Site"
+"Area Office","Region 3","Norwich Area Office","2 Courthouse Square","Norwich","CT","06360","2 Courthouse Square
+Norwich, CT 06360
+(41.5242190620005, -72.07592831499966)","(860) 886-2641","(860) 885-1300","(860) 885-2438",,"Metered On-Street"
+"State Office","Statewide","Central Office Training Academy","505 Hudson Street","Hartford","CT","06106","505 Hudson Street
+Hartford, CT 06106
+(41.75689750400045, -72.67873592899963)","(860) 550-6418",,,,"See training announcements for instructions"
+"Juvenile Justice","Statewide","CT Juvenile Training School","1225 Silver Street","Middletown","CT","06457","1225 Silver Street
+Middletown, CT 06457
+(41.5580007640005, -72.62116958999962)","(860) 638-2401","(860) 638-2410",,,"On-Site"
+"State Office","Statewide","Central Office Satellite","55 West Main Street","Meriden","CT","06451","55 West Main Street
+Meriden, CT 06451
+(41.518587194000474, -72.82716258199963)","(203) 427-2828",,,,"Grove Street Municipal Garage-Upper Level Only"
+"Area Office","Region 5","Waterbury Area Office","395 West Main Street","Waterbury","CT","06702","395 West Main Street
+Waterbury, CT 06702
+(41.55795511800045, -73.04752709199965)","(203) 759-7000","(203) 759-7296","(203) 465-7329",,"On-Site"
+"Area Office","Region 6","Meriden Area Office","1 West Main Street","Meriden","CT","06451","1 West Main Street
+Meriden, CT 06451
+(41.53827800300047, -72.80338082199967)","(203) 238-8400","(203) 238-6287","(203) 238-8517",,"Grove Street Municipal Garage-Upper Level Only"
+"State Office","Statewide","Southern Training Academy","1 Long Wharf Drive","New Haven","CT","06511","1 Long Wharf Drive
+New Haven, CT 06511
+(41.28860802100047, -72.92895429299966)","(203) 786-0500",,,,"On-Site"
+"Area Office","Region 1","Bridgeport Area Office","100 Fairfield Avenue","Bridgeport","CT","06604","100 Fairfield Avenue
+Bridgeport, CT 06604
+(41.17933681800048, -73.18911348199964)","(203) 384-5300","(203) 384-5307","(203) 384-5399",,"Metered On-Street"
+"Area Office","Region 5","Torrington Area Office","62 Commercial Boulevard","Torrington","CT","06790","62 Commercial Boulevard
+Torrington, CT 06790
+(41.82336233300049, -73.10567979399963)","(860) 496-5700","(860) 496-5746","(860) 496-5798",,"On-Site"
+"Area Office","Region 2","Milford Area Office","38 Wellington Road","Milford","CT","06461","38 Wellington Road
+Milford, CT 06461
+(41.252736994000486, -73.07580094299965)","(203) 306-5300","(203) 777-4358","(203) 306-5604",,"On-Site"
+"Area Office","Region 3","Middletown Area Office","2081 South Main Street","Middletown","CT","06457","2081 South Main Street
+Middletown, CT 06457
+(41.503443853000476, -72.67274638599963)","(860) 638-2100","(860) 346-2585","(860) 638-2195",,"On-Site"
+"State Office","Statewide","DCF Court Monitor's Office","300 Church Street","Wallingford","CT","06492","300 Church Street
+Wallingford, CT 06492
+(41.49133436700049, -72.81836136499965)","(203) 741-0458",,,,"On-Site"
+"Juvenile Justice","Statewide","CT Juvenile Training School - Pueblo Girls Program","1225 Silver Street","Middletown","CT","06457","1225 Silver Street
+Middletown, CT 06457
+(41.5580007640005, -72.62116958999962)","(860) 638-2408","(860) 638-2410",,,"On-Site"
+"Residential","Statewide","Albert J. Solnit North Campus (Psychiatric Residential Treatment)","36 Gardner Street","East Windsor","CT","06088","36 Gardner Street
+East Windsor, CT 06088
+(41.93156356600048, -72.61511418499964)","(860) 292-4000","(860) 292-4030",,,"On-Site"
+"Area Office","Region 2","New Haven Area Office","1 Long Wharf Drive","New Haven","CT","06511","1 Long Wharf Drive
+New Haven, CT 06511
+(41.28860802100047, -72.92895429299966)","(203) 786-0500","(203) 786-7457","(203) 786-2599",,"On-Site"
+"Residential","Statewide","Albert J. Solnit South Campus (Psychiatric Residential Treatment)","915 River Road","Middletown","CT","06457","915 River Road
+Middletown, CT 06457
+(41.558374494000475, -72.62259473399968)","(860) 704-4000","(860) 704-4123",,,"On-Site"
+"Wilderness","Statewide","Wilderness School","240 North Hollow Road","East Hartland","CT","06027","240 North Hollow Road
+East Hartland, CT 06027
+(42.01293163700046, -72.91494732899963)","(860) 653-8059","(860) 653-8120","(800) 273-2293",,"On-Site"

@@ -49,6 +49,8 @@ func main() {
 	ref, err := os.Open("reference.csv")
 	current, err := os.Open("current.csv")
 
+	totalRecords := 0
+
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -79,6 +81,8 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
+
+		totalRecords++;
 
 		if recordRef[FileName] != recordCurrent[FileName] {
 			log.Fatal("FileName key does not match" + recordRef[FileName])
@@ -171,8 +175,10 @@ func main() {
 	totalRecall := float32(totalTruePositives) / float32(totalTruePositives+totalFalseNegatives)
 	totalF1Score := 2 * ((totalPrecision * totalRecall) / (totalPrecision + totalRecall))
 
-	fmt.Printf("\nTotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d)\n",
-		totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives)
+	if options.Type == "" {
+		fmt.Printf("\nTotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d, Record#: %d (ID%%: %.2f)\n",
+			totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives, totalRecords, float32((totalTruePositives + totalFalseNegatives)*100)/ float32(totalRecords) )
+	}
 }
 
 func setStatistics(statistics map[string]Statistic, semanticType string, precision float32, recall float32) {

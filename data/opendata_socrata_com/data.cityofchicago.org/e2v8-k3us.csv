@@ -1,0 +1,652 @@
+"day","date","park","park_phone","title","cc","rating","underwriter","park_address","location"
+"Sun","2018-08-05T00:00:00.000","Hamilton Park","(312) 747-6174","Black Panther","Y","PG-13",,"513 W. 72nd St.","513 W. 72nd St.
+Chicago, IL 
+(41.763495, -87.637669)"
+"Fri","2018-06-15T00:00:00.000","Vittum Park","(773) 284-6022","Justice League","Y","PG-13",,"5010 W. 50th St.","5010 W. 50th St.
+Chicago, IL 
+(41.802024, -87.748205)"
+"Sun","2018-07-22T00:00:00.000","Bessemer Park","(312) 747-6023","Star Wars: The Last Jedi","Y","PG-13",,"8930 S. Muskegon Ave.","8930 S. Muskegon Ave.
+Chicago, IL 
+(41.732921, -87.555452)"
+"Thu","2018-06-21T00:00:00.000","Osterman Beach","(312) 742-1134","Donkey Skin (Peau d'ane)","Y","NR","The Cultural Services at the Consulate General of France in Chicago","5800 N. Lake Shore Dr.","5800 N. Lake Shore Dr.
+Chicago, IL "
+"Thu","2018-06-21T00:00:00.000","Altgeld Park","(312) 746-5001","Justice League","Y","PG-13",,"515 S. Washtenaw Ave.","515 S. Washtenaw Ave.
+Chicago, IL 
+(41.874341, -87.693699)"
+"Thu","2018-08-16T00:00:00.000","West Pullman Park","(312) 747-7090","The Fate of the Furious","Y","PG-13",,"401 W. 123rd St.","401 W. 123rd St.
+Chicago, IL 
+(41.670629, -87.6324)"
+"Fri","2018-07-20T00:00:00.000","Armour Square Park","(312) 747-6012","Cars 3","Y","G",,"3309 S. Shields Ave.","3309 S. Shields Ave.
+Chicago, IL 
+(41.834212, -87.635226)"
+"Sun","2018-06-17T00:00:00.000","Jonquil Playlot Park","(312) 742-7816","Paddington 2","Y","PG","The Wrightwood Neighbors Association","1001 W. Wrightwood Ave.","1001 W. Wrightwood Ave.
+Chicago, IL 
+(41.929029, -87.653839)"
+"Mon","2018-07-16T00:00:00.000","Osterman Beach","(312) 742-1134","9 to 5","Y","PG",,"5800 N. Lake Shore Dr.","5800 N. Lake Shore Dr.
+Chicago, IL "
+"Sat","2018-08-25T00:00:00.000","Oz Park","(312) 742-7898","The Wizard of Oz","Y","G",,"2021 N. Burling St.","2021 N. Burling St.
+Chicago, IL 
+(41.919044, -87.647303)"
+"Fri","2018-06-29T00:00:00.000","Kelly Park","(312) 747-6197","Jumanji: Welcome to the Jungle","Y","PG-13",,"2725 W. 41st St.","2725 W. 41st St.
+Chicago, IL 
+(41.819371, -87.693257)"
+"Sun","2018-08-12T00:00:00.000","La Villita Park","(312) 747-6608","LVEJO Film Showcase","N","NR",,"2800 S. Sacramento Blvd.","2800 S. Sacramento Blvd.
+Chicago, IL "
+"Fri","2018-07-06T00:00:00.000","Dunham Park","(773) 685-3257","The Sandlot","Y","PG",,"4638 N. Melvina Ave.","4638 N. Melvina Ave.
+Chicago, IL 
+(41.965863, -87.781985)"
+"Tue","2018-08-07T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","The Post","Y","PG-13","The River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892852, -87.640929)"
+"Fri","2018-06-15T00:00:00.000","Bell Park","(312) 746-5008","Wonder","Y","PG",,"3020 N. Oak Park Ave.","3020 N. Oak Park Ave.
+Chicago, IL 
+(41.935253, -87.795593)"
+"Wed","2018-08-01T00:00:00.000","Merrimac Park","(773) 685-3382","Coco","Y","PG",,"6343 W. Irving Park Rd.","6343 W. Irving Park Rd.
+Chicago, IL 
+(41.952941, -87.785768)"
+"Sun","2018-08-26T00:00:00.000","Jonquil Playlot Park","(312) 742-7816","Mary Poppins","Y","G","The Wrightwood Neighbors Association","1001 W. Wrightwood Ave.","1001 W. Wrightwood Ave.
+Chicago, IL 
+(41.929029, -87.653839)"
+"Thu","2018-07-05T00:00:00.000","Wicker Park","(312) 742-7553","Ghost","Y","PG-13","The Wormhole Coffee","1425 N. Damen Avenue","1425 N. Damen Avenue
+Chicago, IL 
+(41.907977, -87.677399)"
+"Tue","2018-06-19T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","Jumanji: Welcome to the Jungle","Y","PG-13","The River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892852, -87.640929)"
+"Fri","2018-08-03T00:00:00.000","Nat King Cole Park","(312) 747-6063","Justice League","Y","PG-13",,"361 E. 85th St.","361 E. 85th St.
+Chicago, IL 
+(41.740144, -87.615445)"
+"Mon","2018-07-30T00:00:00.000","Chippewa Park","(773) 731-0380","Trolls","Y","PG","Debra & Ira Silverstein","6748 N. Sacramento Ave.","6748 N. Sacramento Ave.
+Chicago, IL 
+(42.004271, -87.70461)"
+"Sat","2018-08-25T00:00:00.000","Wolfe Playground Park","(312) 747-7005","Cars 3","Y","G",,"3325 E. 108th St.","3325 E. 108th St.
+Chicago, IL 
+(41.699136, -87.543168)"
+"Wed","2018-07-11T00:00:00.000","Bartelme, Mary Park","(312) 746-5962","The Princess Bride","Y","PG","The Mary Bartelme Park Advisory Council","115 S. Sangamon St.","115 S. Sangamon St.
+Chicago, IL 
+(41.879642, -87.650804)"
+"Sat","2018-08-18T00:00:00.000","Churchill Field Playlot Park","(312) 742-7554","Roman Holiday","Y","NR","The Bucktown Community Organization","1825 N. Damen Ave.","1825 N. Damen Ave.
+Chicago, IL 
+(41.914792, -87.677554)"
+"Fri","2018-08-17T00:00:00.000","Revere Park","(773) 478-1220","Spark: A Space Tail","Y","PG",,"2509 W. Irving Park Rd.","2509 W. Irving Park Rd.
+Chicago, IL 
+(41.95398, -87.691084)"
+"Tue","2018-08-07T00:00:00.000","Cragin Park","(312) 746-5065","Selena","Y","PG",,"2611 N. Lockwood Ave.","2611 N. Lockwood Ave.
+Chicago, IL 
+(41.9282, -87.758743)"
+"Tue","2018-08-21T00:00:00.000","McKinley Park","(312) 747-6527","A Dog's Purpose","Y","PG",,"2210 W. Pershing Rd.","2210 W. Pershing Rd.
+Chicago, IL 
+(41.823114, -87.679668)"
+"Thu","2018-08-23T00:00:00.000","DuSable Museum of African American History","(312) 742-1134","Elevator to the Gallows (Ascenseur pour l'Echafaud)","Y","NR","The Cultural Services at the Consulate General of France in Chicago","740 E. 56th Pl.","740 E. 56th Pl.
+Chicago, IL 
+(41.793186, -87.605804)"
+"Sun","2018-08-12T00:00:00.000","Walsh Playground Park","(312) 742-7769","The Secret Life of Pets","Y","PG","The Wicker Park Bucktown Chamber of Commerce","1722 N. Ashland Ave.","1722 N. Ashland Ave.
+Chicago, IL 
+(41.912858, -87.667823)"
+"Tue","2018-07-10T00:00:00.000","Chicago History Museum","(312) 742-1134","Back to the Future","Y","PG","The Chicago History Museum","1601 N. Clark St.","1601 N. Clark St.
+Chicago, IL 
+(41.911789, -87.631947)"
+"Tue","2018-08-21T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","Coco","Y","PG","The River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892852, -87.640929)"
+"Mon","2018-07-23T00:00:00.000","Harold Washington Playlot Park","(312) 747-6620","The Wiz","Y","G",,"5200 S. Hyde Park Blvd.","5200 S. Hyde Park Blvd.
+Chicago, IL 
+(41.801011, -87.584541)"
+"Wed","2018-08-01T00:00:00.000","Ridge Park","(312) 747-6640","Jumanji: Welcome to the Jungle","Y","PG-13",,"1817 W. 96th Street","1817 W. 96th Street
+Chicago, IL 
+(41.719328, -87.668116)"
+"Fri","2018-06-29T00:00:00.000","Owens Park","(312) 747-6709","Black Panther","Y","PG-13",,"8800 S. Clyde","8800 S. Clyde
+Chicago, IL 
+(41.734405, -87.573238)"
+"Fri","2018-08-17T00:00:00.000","Maggie Daley Park","(312) 742-3918","Coco","Y","PG","The Museum of Science and Industry","337 E. Randolph St.","337 E. Randolph St.
+Chicago, IL 
+(41.884351, -87.620142)"
+"Fri","2018-08-10T00:00:00.000","Galewood Park","(312) 746-5089","Jumanji: Welcome to the Jungle","Y","PG-13",,"5729 W. Bloomingdale Ave.","5729 W. Bloomingdale Ave.
+Chicago, IL 
+(41.912565, -87.769515)"
+"Wed","2018-08-01T00:00:00.000","Harrison Park","(312) 746-5491","Looking for a Boyfriend … for My Wife / Se busca novio … para mi mujer","Y","NR","The International Latino Cultural Center","1824 S. Wood St.","1824 S. Wood St.
+Chicago, IL 
+(41.856825, -87.671063)"
+"Fri","2018-07-06T00:00:00.000","Holstein Park","(312) 742-7554","Love Songs (Les Chansons d'Amour)","Y","NR","The Cultural Services at the Consulate General of France in Chicago","2200 N. Oakley Ave.","2200 N. Oakley Ave.
+Chicago, IL 
+(41.922402, -87.685509)"
+"Mon","2018-08-20T00:00:00.000","South Shore Cultural Center","(773) 256-0149","Wonder Woman","Y","PG-13",,"7059 S. South Shore Drive","7059 S. South Shore Drive
+Chicago, IL 
+(41.766242, -87.562783)"
+"Wed","2018-07-18T00:00:00.000","Brainerd Park","(312) 747-6027","Jumanji: Welcome to the Jungle","Y","PG-13",,"1246 W. 92nd St.","1246 W. 92nd St.
+Chicago, IL 
+(41.726781, -87.65489)"
+"Wed","2018-08-08T00:00:00.000","Sherman Park","(312) 747-6672","Jumanji: Welcome to the Jungle","Y","PG-13",,"1301 W. 52nd St.","1301 W. 52nd St.
+Chicago, IL 
+(41.799637, -87.657436)"
+"Sun","2018-08-05T00:00:00.000","Chippewa Park","(773) 731-0380","The Boss Baby","Y","PG","JCC Chicago","6748 N. Sacramento Ave.","6748 N. Sacramento Ave.
+Chicago, IL 
+(42.004271, -87.70461)"
+"Mon","2018-07-16T00:00:00.000","Skinner Park","(312) 746-5560","Cars 3","Y","G","The Museum of Science and Industry","1331 W. Monroe St.","1331 W. Monroe St.
+Chicago, IL 
+(41.880283, -87.659439)"
+"Mon","2018-06-25T00:00:00.000","Harold Washington Playlot Park","(312) 747-6620","A Raisin in the Sun","Y","NR",,"5200 S. Hyde Park Blvd.","5200 S. Hyde Park Blvd.
+Chicago, IL 
+(41.801011, -87.584541)"
+"Sat","2018-06-30T00:00:00.000","Oz Park","(312) 742-7898","The Perfect Game","Y","PG","The Oz Park Baseball Association","2021 N. Burling St.","2021 N. Burling St.
+Chicago, IL 
+(41.919044, -87.647303)"
+"Fri","2018-08-03T00:00:00.000","LeClaire Courts-Hearst Community Park","(312) 747-6438","Sherlock Gnomes","Y","PG",,"5120 W. 44th St.","5120 W. 44th St.
+Chicago, IL 
+(41.812923, -87.751805)"
+"Thu","2018-07-26T00:00:00.000","Scottsdale Playground Park","(773) 284-1826","Jumanji: Welcome to the Jungle","Y","PG-13",,"4637 W. 83rd St.","4637 W. 83rd St.
+Chicago, IL 
+(41.74203, -87.736251)"
+"Thu","2018-06-21T00:00:00.000","Archer Park","(773) 284-7029","Little Big League","Y","PG",,"4901 S.Kilbourn Ave.","4901 S.Kilbourn Ave.
+Chicago, IL 
+(41.803471, -87.735651)"
+"Sat","2018-07-28T00:00:00.000","Humboldt Park","(312) 742-7549","Despicable Me 3","Y","PG",,"1440 N. Sacramento","1440 N. Sacramento
+Chicago, IL 
+(41.902822, -87.701792)"
+"Fri","2018-06-22T00:00:00.000","La Villita Park","(312) 747-6608","Jumanji: Welcome to the Jungle","Y","PG-13",,"2800 S. Sacramento Blvd.","2800 S. Sacramento Blvd.
+Chicago, IL "
+"Fri","2018-07-13T00:00:00.000","Palmer Park","(312) 747-6577","War for the Planet of the Apes","Y","PG-13",,"201 E. 111th St.","201 E. 111th St.
+Chicago, IL 
+(41.692674, -87.616431)"
+"Thu","2018-07-12T00:00:00.000","Ping Tom Memorial Park","(312) 225-3121","The Boss Baby","Y","PG",,"1700 S. Wentworth Ave.","1700 S. Wentworth Ave.
+Chicago, IL 
+(41.858719, -87.6319)"
+"Wed","2018-07-18T00:00:00.000","Rosenblum Park","(312) 747-6649","Jumanji: Welcome to the Jungle","Y","PG-13",,"8050 S. Chapel","8050 S. Chapel
+Chicago, IL "
+"Fri","2018-08-10T00:00:00.000","Mayfair Park","(773) 685-3361","The Sandlot","Y","PG",,"4550 W. Sunnyside Ave.","4550 W. Sunnyside Ave.
+Chicago, IL 
+(41.962597, -87.7422)"
+"Sat","2018-07-07T00:00:00.000","Indian Boundary Park and Cultural Center","(773) 764-0338","Looney Tunes Cartoon Pack #4","N","NR",,"2500 W. Lunt Ave.","2500 W. Lunt Ave.
+Chicago, IL 
+(42.008606, -87.692536)"
+"Sun","2018-07-15T00:00:00.000","Jonquil Playlot Park","(312) 742-7816","Grease","Y","PG-13","The Wrightwood Neighbors Association","1001 W. Wrightwood Ave.","1001 W. Wrightwood Ave.
+Chicago, IL 
+(41.929029, -87.653839)"
+"Tue","2018-06-26T00:00:00.000","Horner Park","(773) 478-3499","Wonder","Y","PG","JCC Chicago","2741 W. Montrose Ave.","2741 W. Montrose Ave.
+Chicago, IL 
+(41.961286, -87.697294)"
+"Tue","2018-06-12T00:00:00.000","Bartelme, Mary Park","(312) 746-5962","The Martian","Y","PG-13","The Mary Bartelme Park Advisory Council","115 S. Sangamon St.","115 S. Sangamon St.
+Chicago, IL 
+(41.879642, -87.650804)"
+"Sat","2018-06-30T00:00:00.000","Ellis Park","(312) 656-0423","Justice League","Y","PG-13",,"535 E. 35th St.","535 E. 35th St.
+Chicago, IL 
+(41.831144, -87.613689)"
+"Mon","2018-06-18T00:00:00.000","West Lawn Park","(773) 284-2803","Wonder","Y","PG","The St. Nicholas of Tolentine School","4233 W. 65th St.","4233 W. 65th St.
+Chicago, IL 
+(41.774943, -87.728278)"
+"Sat","2018-08-18T00:00:00.000","DuSable Museum of African American History","(312) 742-1134","Black Panther","Y","PG-13","The DuSable Museum of African American History","740 E. 56th Pl.","740 E. 56th Pl.
+Chicago, IL 
+(41.793186, -87.605804)"
+"Wed","2018-06-27T00:00:00.000","White (Willye B.) Park","(773) 262-5051","Hidden Figures","Y","PG","The Forest Preserve District of Cook County","7631 N. Ashland Ave.","7631 N. Ashland Ave.
+Chicago, IL 
+(42.020685, -87.670605)"
+"Wed","2018-08-22T00:00:00.000","Kedvale Park","(312) 742-7543","Coco","Y","PG",,"4134 W. Hirsch St.","4134 W. Hirsch St.
+Chicago, IL 
+(41.906237, -87.730323)"
+"Sat","2018-08-11T00:00:00.000","Jensen Park","(312) 742-7054","Jumanji: Welcome to the Jungle","Y","PG-13",,"4650 N. Lawndale Ave.","4650 N. Lawndale Ave.
+Chicago, IL 
+(41.9657, -87.720608)"
+"Tue","2018-06-26T00:00:00.000","Lincoln Park","(312) 742-5121","Trolls","Y","PG",,"500-5700 N. Lake Shore Drive","500-5700 N. Lake Shore Drive
+Chicago, IL 
+(41.891466, -87.614332)"
+"Fri","2018-09-07T00:00:00.000","Ronan Park","(312) 742-7516","Ferdinand","Y","PG","Alderman Deb Mell","3000 W. Argyle St.","3000 W. Argyle St.
+Chicago, IL 
+(41.972114, -87.704547)"
+"Mon","2018-07-23T00:00:00.000","Calumet Park","(312) 747-6039","Ferdinand","Y","PG",,"9801 S. Ave G","9801 S. Ave G
+Chicago, IL 
+(41.718303, -87.531025)"
+"Sat","2018-07-07T00:00:00.000","Oz Park","(312) 742-7898","Jumanji: Welcome to the Jungle","Y","PG-13","The Lincoln Park Baseball Academy","2021 N. Burling St.","2021 N. Burling St.
+Chicago, IL 
+(41.919044, -87.647303)"
+"Mon","2018-07-16T00:00:00.000","Cotton Tail Park","(312) 747-7640","Space Jam","Y","PG","The Greater South Loop Association","44 W. 15th St.","44 W. 15th St.
+Chicago, IL 
+(41.861908, -87.628949)"
+"Sat","2018-09-01T00:00:00.000","Piotrowski Park","(312) 745-4801","Moana","Y","PG",,"4247 W. 31st St.","4247 W. 31st St.
+Chicago, IL 
+(41.836817, -87.730787)"
+"Wed","2018-08-15T00:00:00.000","Shedd Park","(773) 762-3168","Coco","Y","PG",,"3660 W. 23rd St.","3660 W. 23rd St.
+Chicago, IL 
+(41.849847, -87.716566)"
+"Mon","2018-07-30T00:00:00.000","Portage Park","(773) 685-7235","Finding Dory","Y","PG","The Museum of Science and Industry","4100 N. Long Ave.","4100 N. Long Ave.
+Chicago, IL 
+(41.955113, -87.762131)"
+"Sat","2018-07-28T00:00:00.000","Dawes Park","(312) 747-6108","Jumanji: Welcome to the Jungle","Y","PG-13",,"8052 S. Damen Ave.","8052 S. Damen Ave.
+Chicago, IL 
+(41.747193, -87.673082)"
+"Mon","2018-07-30T00:00:00.000","Oakwood Beach","(312) 742-1134","James and the Giant Peach","Y","PG",,"3900 S. Lake Shore Dr.","3900 S. Lake Shore Dr.
+Chicago, IL "
+"Mon","2018-08-20T00:00:00.000","Rowan Park","(773) 646-3180","Moana","Y","PG","The Forest Preserve District of Cook County","11546 S. Avenue L","11546 S. Avenue L
+Chicago, IL 
+(41.685148, -87.53645)"
+"Tue","2018-06-26T00:00:00.000","Lake Shore Park","(312) 742-7891","Bread and Tulips (Pane e Tulipani)","Y","PG-13","The Italian Cultural Institute","808 N. Lake Shore Dr.","808 N. Lake Shore Dr.
+Chicago, IL 
+(41.897388, -87.617422)"
+"Sun","2018-06-17T00:00:00.000","Churchill Field Playlot Park","(312) 742-7554","Jumanji: Welcome to the Jungle","Y","PG-13","The Bucktown Community Organization","1825 N. Damen Ave.","1825 N. Damen Ave.
+Chicago, IL 
+(41.914792, -87.677554)"
+"Wed","2018-06-27T00:00:00.000","Piotrowski Park","(312) 745-4801","Help Me Make it Through the Night / Ayudame a pasar la noche","Y","NR","The International Latino Cultural Center","4247 W. 31st St.","4247 W. 31st St.
+Chicago, IL 
+(41.836817, -87.730787)"
+"Mon","2018-08-13T00:00:00.000","South Shore Cultural Center","(773) 256-0149","Roman J. Israel, Esq.","Y","PG-13",,"7059 S. South Shore Drive","7059 S. South Shore Drive
+Chicago, IL 
+(41.766242, -87.562783)"
+"Mon","2018-07-23T00:00:00.000","River Park","(312) 742-7516","Sing","Y","PG",,"5100 N. Francisco Ave.","5100 N. Francisco Ave.
+Chicago, IL 
+(41.973861, -87.701292)"
+"Sat","2018-06-16T00:00:00.000","Pulaski Park","(312) 742-7559","Guardians of the Galaxy Vol. 2","Y","PG-13",,"1419 W. Blackhawk St.","1419 W. Blackhawk St.
+Chicago, IL 
+(41.907049, -87.663404)"
+"Mon","2018-08-27T00:00:00.000","South Shore Cultural Center","(773) 256-0149","Jumanji: Welcome to the Jungle","Y","PG-13",,"7059 S. South Shore Drive","7059 S. South Shore Drive
+Chicago, IL 
+(41.766242, -87.562783)"
+"Thu","2018-08-09T00:00:00.000","Skinner Park","(312) 746-5560","Black Panther","Y","PG-13",,"1331 W. Monroe St.","1331 W. Monroe St.
+Chicago, IL 
+(41.880283, -87.659439)"
+"Wed","2018-08-08T00:00:00.000","Loyola Park","(773) 262-8605","Southern Winds / Vientos del Sur","Y","NR","The International Latino Cultural Center","1230 W. Greenleaf Ave.","1230 W. Greenleaf Ave.
+Chicago, IL 
+(42.010439, -87.661605)"
+"Wed","2018-08-08T00:00:00.000","Simons Park","(312) 742-7548","Coco","Y","PG",,"1640 N. Drake Ave.","1640 N. Drake Ave.
+Chicago, IL 
+(41.911382, -87.714974)"
+"Sat","2018-08-04T00:00:00.000","Oz Park","(312) 742-7898","Wonder Woman","Y","PG-13","The Oz Park Advisory Council","2021 N. Burling St.","2021 N. Burling St.
+Chicago, IL 
+(41.919044, -87.647303)"
+"Fri","2018-06-22T00:00:00.000","Hermitage Park","(312) 747-6179","Beauty and the Beast","Y","PG",,"5839 S. Wood St.","5839 S. Wood St.
+Chicago, IL 
+(41.787188, -87.669237)"
+"Tue","2018-08-07T00:00:00.000","West Lawn Park","(773) 284-2803","Despicable Me 3","Y","PG",,"4233 W. 65th St.","4233 W. 65th St.
+Chicago, IL 
+(41.774943, -87.728278)"
+"Mon","2018-08-13T00:00:00.000","Belmont Harbor","(312) 742-1134","Bringing Up Baby","N","NR",,"3200 N. Lake Shore Dr.","3200 N. Lake Shore Dr.
+Chicago, IL 
+(41.940216, -87.63955)"
+"Tue","2018-06-19T00:00:00.000","Gill Park","(312) 742-7802","The Sandlot","Y","PG","JCC Chicago","825 W. Sheridan Rd.","825 W. Sheridan Rd.
+Chicago, IL 
+(41.952738, -87.650669)"
+"Thu","2018-06-14T00:00:00.000","McKiernan Playground Park","(312) 747-2883","Ghostbusters (1984)","Y","PG-13",,"10714 S. Sawyer Ave.","10714 S. Sawyer Ave.
+Chicago, IL 
+(41.698418, -87.702276)"
+"Sun","2018-07-15T00:00:00.000","Piotrowski Park","(312) 745-4801","Footloose","Y","PG",,"4247 W. 31st St.","4247 W. 31st St.
+Chicago, IL 
+(41.836817, -87.730787)"
+"Sat","2018-06-23T00:00:00.000","Osterman Beach","(312) 742-1134","West Side Story","Y","NR",,"5800 N. Lake Shore Dr.","5800 N. Lake Shore Dr.
+Chicago, IL "
+"Thu","2018-08-23T00:00:00.000","Fosco Park","(312) 746-5086","Hidden Figures","Y","PG",,"1312 S. Racine Ave","1312 S. Racine Ave
+Chicago, IL 
+(41.864757, -87.65661)"
+"Wed","2018-06-20T00:00:00.000","Harrison Park","(312) 746-5491","Broche de Oro: Beginnings / Broche de Oro: Comienzos","Y","NR","The International Latino Cultural Center","1824 S. Wood St.","1824 S. Wood St.
+Chicago, IL 
+(41.856825, -87.671063)"
+"Sun","2018-08-26T00:00:00.000","Hoyne Playground Park","(312) 747-6184","Brave","Y","PG","The Museum of Science and Industry","3417 S. Hamiltion Ave.","3417 S. Hamiltion Ave.
+Chicago, IL 
+(41.831627, -87.678962)"
+"Wed","2018-07-18T00:00:00.000","Gage Park","(312) 747-6147","Home Team (Mi Mundial)","Y","NR","The International Latino Cultural Center","2411 W. 55th St.","2411 W. 55th St.
+Chicago, IL 
+(41.7939, -87.684688)"
+"Thu","2018-08-23T00:00:00.000","Wilson (Frank J.) Park","(773) 685-6454","A Dog's Purpose","Y","PG",,"4630 N. Milwaukee Ave.","4630 N. Milwaukee Ave.
+Chicago, IL 
+(41.964711, -87.757983)"
+"Sat","2018-06-16T00:00:00.000","DuSable Museum of African American History","(312) 742-1134","Marshall","Y","PG-13","The DuSable Museum of African American History","740 E. 56th Pl.","740 E. 56th Pl.
+Chicago, IL 
+(41.793186, -87.605804)"
+"Sat","2018-07-21T00:00:00.000","Peterson Park","(312) 742-7584","Jumanji: Welcome to the Jungle","Y","PG-13",,"5801 N. Pulaski Rd.","5801 N. Pulaski Rd.
+Chicago, IL 
+(41.986333, -87.728537)"
+"Wed","2018-06-20T00:00:00.000","Chicago History Museum","(312) 742-1134","The Goonies","Y","PG","The Chicago History Museum","1601 N. Clark St.","1601 N. Clark St.
+Chicago, IL 
+(41.911789, -87.631947)"
+"Mon","2018-07-09T00:00:00.000","Calumet Park","(312) 747-6039","Babe","Y","G",,"9801 S. Ave G","9801 S. Ave G
+Chicago, IL 
+(41.718303, -87.531025)"
+"Tue","2018-07-10T00:00:00.000","Webster Park","(312) 745-1479","An American Tail","Y","G","The Greater South Loop Association","1357 S. Indiana Ave.","1357 S. Indiana Ave.
+Chicago, IL 
+(41.864392, -87.622376)"
+"Thu","2018-06-14T00:00:00.000","Wicker Park","(312) 742-7553","The Color Purple","Y","PG-13","The Wormhole Coffee","1425 N. Damen Avenue","1425 N. Damen Avenue
+Chicago, IL 
+(41.907977, -87.677399)"
+"Wed","2018-06-20T00:00:00.000","Grant Park: Logan Monument","(312) 742-1134","Thor: Ragnarok","Y","PG-13","The Greater South Loop Association","900 S. Michigan Ave.","900 S. Michigan Ave.
+Chicago, IL 
+(41.8706, -87.624217)"
+"Tue","2018-08-14T00:00:00.000","Kells Playground Park","(312) 742-7544","Moana","Y","PG","The Bickerdike Redevelopment Corp.","3201 W. Chicago Ave.","3201 W. Chicago Ave.
+Chicago, IL 
+(41.895563, -87.706576)"
+"Thu","2018-07-19T00:00:00.000","Senka Park","(312) 747-4386","Despicable Me 3","Y","PG",,"5656 S. St. Louis Ave.","5656 S. St. Louis Ave.
+Chicago, IL 
+(41.790475, -87.710771)"
+"Sat","2018-08-18T00:00:00.000","Sauganash Park","(773) 685-6122","Sing","Y","PG","The Edgebrook Sauganash Athletic Association","5861 N. Kostner Ave.","5861 N. Kostner Ave.
+Chicago, IL 
+(41.987404, -87.738313)"
+"Mon","2018-08-27T00:00:00.000","Grant Park: Grove 5","(312) 742-1134","Jurassic Park","Y","PG-13",,"800 S. Columbus Dr.","800 S. Columbus Dr.
+Chicago, IL 
+(41.872058, -87.620555)"
+"Sun","2018-08-19T00:00:00.000","Unity Playlot Park","(773) 478-1410","Wonder","Y","PG","The Unity Park Advisory Council","2636 N. Kimball Ave.","2636 N. Kimball Ave.
+Chicago, IL 
+(41.929239, -87.712198)"
+"Mon","2018-06-11T00:00:00.000","Belmont Harbor","(312) 742-1134","Rear Window","Y","PG",,"3200 N. Lake Shore Dr.","3200 N. Lake Shore Dr.
+Chicago, IL 
+(41.940216, -87.63955)"
+"Fri","2018-08-24T00:00:00.000","Kelly Park","(312) 747-6197","Coco","Y","PG",,"2725 W. 41st St.","2725 W. 41st St.
+Chicago, IL 
+(41.819371, -87.693257)"
+"Thu","2018-08-02T00:00:00.000","Marquette Park","(312) 747-6469","Coco","Y","PG",,"6743 S. Kedzie Ave.","6743 S. Kedzie Ave.
+Chicago, IL 
+(41.77132, -87.702908)"
+"Fri","2018-08-24T00:00:00.000","Wrightwood Park","(312) 742-7816","Star Wars: The Last Jedi","Y","PG-13",,"2534 N. Greenview Ave.","2534 N. Greenview Ave.
+Chicago, IL 
+(41.927985, -87.665809)"
+"Sat","2018-07-21T00:00:00.000","DuSable Museum of African American History","(312) 742-1134","Jumanji: Welcome to the Jungle","Y","PG-13","The DuSable Museum of African American History","740 E. 56th Pl.","740 E. 56th Pl.
+Chicago, IL 
+(41.793186, -87.605804)"
+"Mon","2018-08-13T00:00:00.000","Webster Park","(312) 745-1479","Back to the Future","Y","PG","The Greater South Loop Association","1357 S. Indiana Ave.","1357 S. Indiana Ave.
+Chicago, IL 
+(41.864392, -87.622376)"
+"Wed","2018-07-25T00:00:00.000","Heritage Green","(312) 746-5494","Wonder Woman","Y","PG-13","The West Loop Community Organization","610-30 W. Adams St.","610-30 W. Adams St.
+Chicago, IL 
+(41.879284, -87.642727)"
+"Fri","2018-06-15T00:00:00.000","Brooks Park","(773) 631-4401","Back to the Future","Y","PG","The Edison Park Chamber of Commerce","7100 N. Harlem Ave.","7100 N. Harlem Ave.
+Chicago, IL 
+(42.009873, -87.806655)"
+"Thu","2018-08-02T00:00:00.000","Austin Town Hall Park","(773) 287-7658","Jumanji: Welcome to the Jungle","Y","PG-13",,"5610 W. Lake St.","5610 W. Lake St.
+Chicago, IL 
+(41.887286, -87.765528)"
+"Tue","2018-07-17T00:00:00.000","Beverly Park","(312) 747-6024","Monsters, Inc.","Y","G",,"2460 W. 102nd St.","2460 W. 102nd St.
+Chicago, IL 
+(41.708192, -87.68277)"
+"Thu","2018-07-05T00:00:00.000","Dunbar Park","(312) 747-6287","Wonder Woman","Y","PG-13",,"300 E. 31st St.","300 E. 31st St.
+Chicago, IL 
+(41.838421, -87.618745)"
+"Thu","2018-08-16T00:00:00.000","Clarendon Park Community Center","(312) 742-7512","Black Panther","Y","PG-13",,"4501 N. Clarendon Ave.","4501 N. Clarendon Ave.
+Chicago, IL 
+(41.963681, -87.649962)"
+"Mon","2018-09-10T00:00:00.000","South Shore Cultural Center","(773) 256-0149","Black Panther","Y","PG-13",,"7059 S. South Shore Drive","7059 S. South Shore Drive
+Chicago, IL 
+(41.766242, -87.562783)"
+"Fri","2018-08-03T00:00:00.000","Dvorak Park","(312) 746-5083","Jumanji: Welcome to the Jungle","Y","PG-13",,"1119 W. Cullerton St.","1119 W. Cullerton St.
+Chicago, IL 
+(41.855228, -87.65395)"
+"Fri","2018-07-13T00:00:00.000","Taylor Park","(312) 747-6728","Jumanji: Welcome to the Jungle","Y","PG-13",,"39 W. 47th St.","39 W. 47th St.
+Chicago, IL 
+(41.809187, -87.627869)"
+"Fri","2018-08-24T00:00:00.000","Garfield Park","(312) 746-5092","Hidden Figures","Y","PG",,"100 N. Central Park Ave.","100 N. Central Park Ave.
+Chicago, IL 
+(41.881566, -87.715877)"
+"Sat","2018-07-21T00:00:00.000","Bradley Park","(312) 747-6022","Wonder","Y","PG",,"9729 S.Yates Ave.","9729 S.Yates Ave.
+Chicago, IL "
+"Wed","2018-08-22T00:00:00.000","Union Park","(312) 746-5494","Star Wars: The Last Jedi","Y","PG-13","The West Loop Community Organization","1501 W. Randolph St.","1501 W. Randolph St.
+Chicago, IL 
+(41.884747, -87.66427)"
+"Sat","2018-08-04T00:00:00.000","O'Hallaren Park","(312) 747-6573","Justice League","Y","PG-13",,"8335 S. Honore St.","8335 S. Honore St.
+Chicago, IL 
+(41.742791, -87.669235)"
+"Wed","2018-07-11T00:00:00.000","Kelvyn Park","(312) 742-7547","Broche de Oro: Beginnings / Broche de Oro: Comienzos","Y","NR","The International Latino Cultural Center","4438 W. Wrightwood Ave.","4438 W. Wrightwood Ave.
+Chicago, IL 
+(41.928651, -87.738278)"
+"Sat","2018-06-16T00:00:00.000","Winnemac Park","(312) 742-5101","Wonder Woman","Y","PG-13",,"5100 N. Leavitt St","5100 N. Leavitt St
+Chicago, IL 
+(41.974286, -87.684226)"
+"Sat","2018-07-28T00:00:00.000","Loyola Park","(773) 262-8605","Wonder","Y","PG",,"1230 W. Greenleaf Ave.","1230 W. Greenleaf Ave.
+Chicago, IL 
+(42.010439, -87.661605)"
+"Wed","2018-08-15T00:00:00.000","Hamlin Park","(312) 742-7785","Ferdinand","Y","PG",,"3035 N. Hoyne Ave.","3035 N. Hoyne Ave.
+Chicago, IL 
+(41.93713, -87.680689)"
+"Thu","2018-07-12T00:00:00.000","Normandy Playground Park","(773) 229-1421","Rogue One","Y","PG-13",,"6660 W. 52nd St.","6660 W. 52nd St.
+Chicago, IL 
+(41.797751, -87.788917)"
+"Sun","2018-07-15T00:00:00.000","Emmerson Park","(773) 761-0433","The Emoji Movie","Y","PG",,"1820 W. Granville Ave.","1820 W. Granville Ave.
+Chicago, IL 
+(41.994338, -87.676586)"
+"Thu","2018-08-09T00:00:00.000","Wicker Park","(312) 742-7553","The Associate","Y","PG-13","The Wicker Park Bucktown Chamber Members","1425 N. Damen Avenue","1425 N. Damen Avenue
+Chicago, IL 
+(41.907977, -87.677399)"
+"Wed","2018-06-13T00:00:00.000","Kilbourn Park","(773) 685-3351","Space Jam","Y","PG",,"3501 N. Kilbourn Ave.","3501 N. Kilbourn Ave.
+Chicago, IL 
+(41.944504, -87.739651)"
+"Tue","2018-06-19T00:00:00.000","Senn Playlot Park","(312) 742-7502","Jumanji: Welcome to the Jungle","Y","PG-13",,"5887 N. Ridge Ave.","5887 N. Ridge Ave.
+Chicago, IL 
+(41.988713, -87.668464)"
+"Sat","2018-08-11T00:00:00.000","Museum of Science and Industry","(773) 684-1414","The Incredibles","Y","PG","The Museum of Science and Industry","5700 S. Lake Shore Dr.","5700 S. Lake Shore Dr.
+Chicago, IL 
+(41.792018, -87.580307)"
+"Thu","2018-06-28T00:00:00.000","Euclid Park","(312) 747-6124","Wonder Woman","Y","PG-13",,"9800 S. Parnell Ave.","9800 S. Parnell Ave.
+Chicago, IL 
+(41.716059, -87.637005)"
+"Mon","2018-07-02T00:00:00.000","Oakwood Beach","(312) 742-1134","The Truman Show","Y","PG",,"3900 S. Lake Shore Dr.","3900 S. Lake Shore Dr.
+Chicago, IL "
+"Wed","2018-06-13T00:00:00.000","Kedvale Park","(312) 742-7543","Justice League","Y","PG-13",,"4134 W. Hirsch St.","4134 W. Hirsch St.
+Chicago, IL 
+(41.906237, -87.730323)"
+"Thu","2018-06-28T00:00:00.000","Wentworth Park","(312) 747-6993","The Boss Baby","Y","PG",,"5625 S. Mobile Ave.","5625 S. Mobile Ave.
+Chicago, IL 
+(41.790224, -87.779233)"
+"Sat","2018-07-14T00:00:00.000","Horner Park","(773) 478-3499","Back to the Future","Y","PG","The Horner Park Advisory Council","2741 W. Montrose Ave.","2741 W. Montrose Ave.
+Chicago, IL 
+(41.961286, -87.697294)"
+"Wed","2018-07-25T00:00:00.000","Kilbourn Park","(773) 685-3351","Home Team (Mi Mundial)","Y","NR","The International Latino Cultural Center","3501 N. Kilbourn Ave.","3501 N. Kilbourn Ave.
+Chicago, IL 
+(41.944504, -87.739651)"
+"Tue","2018-07-10T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","Raiders of the Lost Ark","Y","PG","The River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892852, -87.640929)"
+"Tue","2018-07-24T00:00:00.000","A. Montgomery Ward Park","(312) 742-7895","The Greatest Showman","Y","PG","The River North Residents Association","630 N. Kingsbury St.","630 N. Kingsbury St.
+Chicago, IL 
+(41.892852, -87.640929)"
+"Thu","2018-07-26T00:00:00.000","Wallace Playground Park","(312) 747-6763","Wonder","Y","PG",,"607 W. 92nd St.","607 W. 92nd St.
+Chicago, IL 
+(41.726994, -87.639096)"
+"Sun","2018-08-19T00:00:00.000","Chicago Women's Park and Gardens","(312) 328-0821","Star Wars: The Last Jedi","Y","PG-13","The Prairie District Neighborhood Alliance","1801 S. Indiana Ave.","1801 S. Indiana Ave.
+Chicago, IL 
+(41.857935, -87.622279)"
+"Wed","2018-06-27T00:00:00.000","Foster Park","(312) 747-6135","The Boss Baby","Y","PG",,"1440 W. 84th St.","1440 W. 84th St.
+Chicago, IL 
+(41.741362, -87.659652)"
+"Fri","2018-07-13T00:00:00.000","Gladstone Park","(773) 631-7859","Despicable Me 3","Y","PG",,"5421 N. Menard Ave.","5421 N. Menard Ave.
+Chicago, IL 
+(41.979015, -87.773258)"
+"Wed","2018-08-15T00:00:00.000","Taylor-Lauridsen Playground Park","(312) 747-6729","The LEGO Batman Movie","Y","PG",,"704 W. 42nd St.","704 W. 42nd St.
+Chicago, IL 
+(41.817588, -87.643286)"
+"Mon","2018-06-25T00:00:00.000","Carver Park","(312) 747-6047","Black Panther","Y","PG-13","The Forest Preserve District of Cook County","939 E. 132nd St.","939 E. 132nd St.
+Chicago, IL 
+(41.655858, -87.599593)"
+"Fri","2018-06-15T00:00:00.000","Homan Square Park","(312) 746-6650","Wonder Woman","Y","PG-13",,"3559 W. Arthington","3559 W. Arthington
+Chicago, IL 
+(41.869979, -87.714642)"
+"Thu","2018-08-02T00:00:00.000","Margate Park","(312) 742-7522","Wonder Woman","Y","PG-13",,"4921 N. Marine Drive","4921 N. Marine Drive
+Chicago, IL 
+(41.971948, -87.650566)"
+"Mon","2018-06-25T00:00:00.000","Bartelme, Mary Park","(312) 746-5962","Beauty and the Beast Sing-Along","Y","PG","The West Loop Community Organization","115 S. Sangamon St.","115 S. Sangamon St.
+Chicago, IL 
+(41.879642, -87.650804)"
+"Mon","2018-08-06T00:00:00.000","Lake Shore Park","(312) 742-7891","Inside Out","Y","PG","The Museum of Science and Industry","808 N. Lake Shore Dr.","808 N. Lake Shore Dr.
+Chicago, IL 
+(41.897388, -87.617422)"
+"Tue","2018-08-14T00:00:00.000","Chicago History Museum","(312) 742-1134","Clue","Y","PG","The Chicago History Museum","1601 N. Clark St.","1601 N. Clark St.
+Chicago, IL 
+(41.911789, -87.631947)"
+"Thu","2018-08-16T00:00:00.000","Washtenaw Park","(312) 747-4420","Jumanji: Welcome to the Jungle","Y","PG-13",,"2521 S. Washtenaw Ave.","2521 S. Washtenaw Ave.
+Chicago, IL 
+(41.845852, -87.692811)"
+"Fri","2018-07-27T00:00:00.000","Oakdale Park","(312) 747-6569","The Boss Baby","Y","PG",,"965 W. 95th St.","965 W. 95th St.
+Chicago, IL 
+(41.721324, -87.648147)"
+"Thu","2018-07-19T00:00:00.000","Arrigo Park","(312) 747-5369","Coco","Y","PG",,"801 S. Loomis St.","801 S. Loomis St.
+Chicago, IL 
+(41.871723, -87.6617)"
+"Thu","2018-08-16T00:00:00.000","Bartelme, Mary Park","(312) 746-5962","Field of Dreams","Y","PG","The Mary Bartelme Park Advisory Council","115 S. Sangamon St.","115 S. Sangamon St.
+Chicago, IL 
+(41.879642, -87.650804)"
+"Mon","2018-06-18T00:00:00.000","Grant Park: Grove 5","(312) 742-1134","What About Bob?","Y","PG",,"800 S. Columbus Dr.","800 S. Columbus Dr.
+Chicago, IL 
+(41.872058, -87.620555)"
+"Fri","2018-08-10T00:00:00.000","Avalon Park","(312) 747-6015","Black Panther","Y","PG-13",,"1215 E. 83rd St.","1215 E. 83rd St.
+Chicago, IL 
+(41.744101, -87.594178)"
+"Mon","2018-08-20T00:00:00.000","Osterman Beach","(312) 742-1134","Sunset Boulevard","N","NR",,"5800 N. Lake Shore Dr.","5800 N. Lake Shore Dr.
+Chicago, IL "
+"Wed","2018-08-15T00:00:00.000","Hermosa Park","(312) 742-7540","Looking for a Boyfriend … For My Wife / Se busca novio … para mi mujer","Y","NR","The International Latino Cultural Center","2240 N. Kilbourn Ave.","2240 N. Kilbourn Ave.
+Chicago, IL 
+(41.922054, -87.73892)"
+"Tue","2018-08-21T00:00:00.000","Lawler Park","(773) 284-7328","Coco","Y","PG",,"5210 W. 64th St.","5210 W. 64th St.
+Chicago, IL 
+(41.775999, -87.751779)"
+"Tue","2018-07-17T00:00:00.000","Trebes Park","(312) 742-7769","Captain Underpants: The First Epic Movie","Y","PG",,"2250 N. Clifton Ave.","2250 N. Clifton Ave.
+Chicago, IL 
+(41.923191, -87.657158)"
+"Mon","2018-08-06T00:00:00.000","Calumet Park","(312) 747-6039","Under the Same Moon (La Misma Luna)","Y","PG-13",,"9801 S. Ave G","9801 S. Ave G
+Chicago, IL 
+(41.718303, -87.531025)"
+"Fri","2018-08-24T00:00:00.000","Cornell Square Park","(312) 747-6097","The LEGO Batman Movie","Y","PG",,"1809 W. 50th St.","1809 W. 50th St.
+Chicago, IL 
+(41.803113, -87.670689)"
+"Thu","2018-06-21T00:00:00.000","Commercial Club Playground","(312) 742-7558","Justice League","Y","PG-13",,"1845 W. Rice St.","1845 W. Rice St.
+Chicago, IL 
+(41.896879, -87.673798)"
+"Sun","2018-07-29T00:00:00.000","Churchill Field Playlot Park","(312) 742-7554","Wonder Woman","Y","PG-13","The Bucktown Community Organization","1825 N. Damen Ave.","1825 N. Damen Ave.
+Chicago, IL 
+(41.914792, -87.677554)"
+"Tue","2018-07-31T00:00:00.000","Lincoln Park: South Field","(312) 742-7726","Italo Barocco","Y","NR","The Italian Cultural Institute","1700 N. Stockton Dr.","1700 N. Stockton Dr.
+Chicago, IL 
+(41.914949, -87.632618)"
+"Wed","2018-08-22T00:00:00.000","Chicago Women's Park and Gardens","(312) 328-0821","Wonder Woman","Y","PG-13",,"1801 S. Indiana Ave.","1801 S. Indiana Ave.
+Chicago, IL 
+(41.857935, -87.622279)"
+"Fri","2018-08-03T00:00:00.000","Green Briar Park","(773) 761-0582","Coco","Y","PG",,"2650 W. Peterson Ave.","2650 W. Peterson Ave.
+Chicago, IL 
+(41.990486, -87.696173)"
+"Fri","2018-06-29T00:00:00.000","Douglas Park Cultural and Community Center","(773) 762-2842","Jumanji: Welcome to the Jungle","Y","PG-13",,"1401 S. Sacramento Dr.","1401 S. Sacramento Dr.
+Chicago, IL 
+(41.862686, -87.701891)"
+"Fri","2018-07-27T00:00:00.000","Shedd Park","(773) 762-3168","Minions","Y","PG",,"3660 W. 23rd St.","3660 W. 23rd St.
+Chicago, IL 
+(41.849847, -87.716566)"
+"Thu","2018-07-26T00:00:00.000","Kells Playground Park","(312) 742-7544","Wonder Woman","Y","PG-13",,"3201 W. Chicago Ave.","3201 W. Chicago Ave.
+Chicago, IL 
+(41.895563, -87.706576)"
+"Thu","2018-08-02T00:00:00.000","Archer Park","(773) 284-7029","Coco","Y","PG",,"4901 S.Kilbourn Ave.","4901 S.Kilbourn Ave.
+Chicago, IL 
+(41.803471, -87.735651)"
+"Sat","2018-07-07T00:00:00.000","Kennicott Park","(312) 747-7138","War for the Planet of the Apes","Y","PG-13",,"4434 S. Lake Park Ave.","4434 S. Lake Park Ave.
+Chicago, IL 
+(41.814477, -87.597067)"
+"Fri","2018-06-01T00:00:00.000","Berger Park Cultural Center","(773) 761-0376","Home Alone","Y","PG",,"6205 N. Sheridan Rd.","6205 N. Sheridan Rd.
+Chicago, IL 
+(41.994711, -87.655536)"
+"Fri","2018-06-22T00:00:00.000","Tuley Park","(312) 747-6763","Jumanji: Welcome to the Jungle","Y","PG-13",,"501 E. 90th Pl.","501 E. 90th Pl.
+Chicago, IL 
+(41.730111, -87.60948)"
+"Tue","2018-08-14T00:00:00.000","Grant Park: Logan Monument","(312) 742-1134","Red Tails","Y","PG-13",,"900 S. Michigan Ave.","900 S. Michigan Ave.
+Chicago, IL 
+(41.8706, -87.624217)"
+"Tue","2018-07-24T00:00:00.000","La Villita Park","(312) 747-6608","Zootopia","Y","PG","The Forest Preserve District of Cook County","2800 S. Sacramento Blvd.","2800 S. Sacramento Blvd.
+Chicago, IL "
+"Sun","2018-08-05T00:00:00.000","Jonquil Playlot Park","(312) 742-7816","Sing","Y","PG","The Wrightwood Neighbors Association","1001 W. Wrightwood Ave.","1001 W. Wrightwood Ave.
+Chicago, IL 
+(41.929029, -87.653839)"
+"Wed","2018-07-25T00:00:00.000","Foster Park","(312) 747-6135","Yogi Bear","Y","PG","The Forest Preserve District of Cook County","1440 W. 84th St.","1440 W. 84th St.
+Chicago, IL 
+(41.741362, -87.659652)"
+"Thu","2018-06-28T00:00:00.000","Gill Park","(312) 742-7802","Despicable Me 3","Y","PG",,"825 W. Sheridan Rd.","825 W. Sheridan Rd.
+Chicago, IL 
+(41.952738, -87.650669)"
+"Fri","2018-06-22T00:00:00.000","Franklin Park","(312) 747-7676","The Boss Baby","Y","PG",,"4320 W. 15th St.","4320 W. 15th St.
+Chicago, IL 
+(41.860599, -87.733411)"
+"Thu","2018-07-05T00:00:00.000","Fuller Park","(312) 747-6144","Hidden Figures","Y","PG",,"331 W. 45th St","331 W. 45th St
+Chicago, IL 
+(41.812507, -87.634581)"
+"Tue","2018-07-24T00:00:00.000","Mann Park","(773) 646-0210","The Boss Baby","Y","PG",,"3035 E. 130st St.","3035 E. 130st St.
+Chicago, IL 
+(41.659162, -87.55078)"
+"Tue","2018-08-07T00:00:00.000","Augusta Park","(312) 742-7544","Wonder Woman","Y","PG-13",,"4433 W. Augusta Blvd.","4433 W. Augusta Blvd.
+Chicago, IL 
+(41.898876, -87.736891)"
+"Sun","2018-07-22T00:00:00.000","Chicago Women's Park and Gardens","(312) 328-0821","Coco","Y","PG","The Prairie District Neighborhood Alliance","1801 S. Indiana Ave.","1801 S. Indiana Ave.
+Chicago, IL 
+(41.857935, -87.622279)"
+"Sun","2018-07-01T00:00:00.000","Eckhart Park","(312) 746-5490","Grease","Y","PG-13","Friends of Eckhart Park","1330 W. Chicago Ave.","1330 W. Chicago Ave.
+Chicago, IL 
+(41.896208, -87.660751)"
+"Fri","2018-06-29T00:00:00.000","LeClaire Courts-Hearst Community Park","(312) 747-6438","Jumanji: Welcome to the Jungle","Y","PG-13",,"5120 W. 44th St.","5120 W. 44th St.
+Chicago, IL 
+(41.812923, -87.751805)"
+"Fri","2018-08-17T00:00:00.000","Vittum Park","(773) 284-6022","Wonder","Y","PG",,"5010 W. 50th St.","5010 W. 50th St.
+Chicago, IL 
+(41.802024, -87.748205)"
+"Thu","2018-07-12T00:00:00.000","Nichols Park","(312) 747-2703","Mrs. Doubtfire","Y","PG-13",,"1355 E. 53rd St.","1355 E. 53rd St.
+Chicago, IL 
+(41.799536, -87.592536)"
+"Sat","2018-06-23T00:00:00.000","Touhy Park","(773) 262-6737","Dirty Dancing","Y","PG-13",,"7348 N. Paulina St.","7348 N. Paulina St.
+Chicago, IL 
+(42.015271, -87.672444)"
+"Wed","2018-09-12T00:00:00.000","Davis Square Park","(312) 747-6107","Space Jam","Y","PG",,"4430 S. Marshfield Ave.","4430 S. Marshfield Ave.
+Chicago, IL 
+(41.813094, -87.6663)"
+"Tue","2018-07-31T00:00:00.000","Fuller Park","(312) 747-6144","Moana","Y","PG","The Forest Preserve District of Cook County","331 W. 45th St","331 W. 45th St
+Chicago, IL 
+(41.812507, -87.634581)"
+"Sat","2018-08-04T00:00:00.000","Abbott Park","(312) 747-6001","The Boss Baby","Y","PG",,"49 E. 95th St.","49 E. 95th St.
+Chicago, IL 
+(41.721692, -87.622178)"
+"Fri","2018-08-17T00:00:00.000","Clark (John) Park","(773) 287-7794","Spider-Man: Homecoming","Y","PG-13",,"4615 W. Jackson Blvd.","4615 W. Jackson Blvd.
+Chicago, IL 
+(41.876926, -87.740505)"
+"Fri","2018-07-06T00:00:00.000","La Villita Park","(312) 747-6608","Leap","Y","PG",,"2800 S. Sacramento Blvd.","2800 S. Sacramento Blvd.
+Chicago, IL "
+"Fri","2018-06-29T00:00:00.000","Oriole Park","(773) 631-6197","Jumanji: Welcome to the Jungle","Y","PG-13",,"5430 N. Olcott Ave.","5430 N. Olcott Ave.
+Chicago, IL 
+(41.977688, -87.814434)"
+"Tue","2018-07-17T00:00:00.000","Park No. 578","(312) 746-5494","Jumanji: Welcome to the Jungle","Y","PG-13",,"1919 W. Maypole Ave.","1919 W. Maypole Ave.
+Chicago, IL 
+(41.884137, -87.674818)"
+"Tue","2018-06-19T00:00:00.000","Sherwood Park","(773) 256-0926","Justice League","Y","PG-13",,"5701 S. Shields Ave.","5701 S. Shields Ave.
+Chicago, IL 
+(41.790681, -87.634054)"
+"Fri","2018-07-27T00:00:00.000","Gompers Park","(773) 685-3270","Coco","Y","PG",,"4222 W. Foster Ave.","4222 W. Foster Ave.
+Chicago, IL 
+(41.975421, -87.73445)"
+"Sat","2018-08-25T00:00:00.000","Kosciuszko Park","(312) 742-7546","Coco","Y","PG","The Kosciuszko Park Advisory Council","2732 N. Avers Ave.","2732 N. Avers Ave.
+Chicago, IL 
+(41.93101, -87.723287)"
+"Sat","2018-06-30T00:00:00.000","Chicago Women's Park and Gardens","(312) 328-0821","The Notebook","Y","PG-13","The Prairie District Neighborhood Alliance","1801 S. Indiana Ave.","1801 S. Indiana Ave.
+Chicago, IL 
+(41.857935, -87.622279)"
+"Sat","2018-07-14T00:00:00.000","Sherwood Park","(773) 256-0926","Wonder Woman","Y","PG-13",,"5701 S. Shields Ave.","5701 S. Shields Ave.
+Chicago, IL 
+(41.790681, -87.634054)"
+"Thu","2018-08-09T00:00:00.000","Burnside Park","(312) 747-6015","Jumanji: Welcome to the Jungle","Y","PG-13",,"9400 S. Greenwood Ave.","9400 S. Greenwood Ave.
+Chicago, IL 
+(41.723933, -87.597269)"
+"Thu","2018-07-19T00:00:00.000","Wicker Park","(312) 742-7553","Sister Act","Y","PG","The Wicker Park Bucktown Chamber Members","1425 N. Damen Avenue","1425 N. Damen Avenue
+Chicago, IL 
+(41.907977, -87.677399)"
+"Sat","2018-06-23T00:00:00.000","Grand Crossing Park","(312) 747-6158","The Emoji Movie","Y","PG",,"7655 S. Ingleside Ave.","7655 S. Ingleside Ave.
+Chicago, IL 
+(41.755786, -87.60167)"
+"Fri","2018-07-20T00:00:00.000","Amundsen Park","(312) 746-5003","Tyler Perry's Boo","Y","PG-13",,"6200 W. Bloomingdale Ave.","6200 W. Bloomingdale Ave.
+Chicago, IL 
+(41.912851, -87.778622)"
+"Fri","2018-08-17T00:00:00.000","Bessemer Park","(312) 747-6023","Black Panther","Y","PG-13",,"8930 S. Muskegon Ave.","8930 S. Muskegon Ave.
+Chicago, IL 
+(41.732921, -87.555452)"
+"Fri","2018-08-10T00:00:00.000","Veteran's Memorial Park","(312) 747-6812","Coco","Y","PG",,"2820 E. 98th St.","2820 E. 98th St.
+Chicago, IL 
+(41.7173, -87.55583)"
+"Sat","2018-07-14T00:00:00.000","Oz Park","(312) 742-7898","Coco","Y","PG",,"2021 N. Burling St.","2021 N. Burling St.
+Chicago, IL 
+(41.919044, -87.647303)"
+"Fri","2018-07-20T00:00:00.000","Lindblom Park","(312) 747-6443","Lean On Me","Y","PG-13",,"6054 S. Damen Ave.","6054 S. Damen Ave.
+Chicago, IL 
+(41.78333, -87.674019)"
+"Sat","2018-08-11T00:00:00.000","Winnemac Park","(312) 742-5101","Jumanji: Welcome to the Jungle","Y","PG-13","Friends of Winnemac Park","5100 N. Leavitt St","5100 N. Leavitt St
+Chicago, IL 
+(41.974286, -87.684226)"
+"Fri","2018-09-07T00:00:00.000","Winnemac Park","(312) 742-5101","The King and the Mockingbird (L Roi et L'Oiseau)","Y","NR","The Cultural Services at the Consulate General of France in Chicago","5100 N. Leavitt St","5100 N. Leavitt St
+Chicago, IL 
+(41.974286, -87.684226)"
+"Sun","2018-07-29T00:00:00.000","Chicago Women's Park and Gardens","(312) 328-0821","Sense and Sensibility","Y","PG","The Clarke House Museum, The Glessner House Mueum, The Department of Cultural Affairs and Special Events and the Prairie District Neighborhood Alliance","1801 S. Indiana Ave.","1801 S. Indiana Ave.
+Chicago, IL 
+(41.857935, -87.622279)"
+"Sun","2018-07-29T00:00:00.000","Dvorak Park","(312) 746-5083","The Chorus (Les Choristes)","Y","PG-13","The Cultural Services at the Consulate General of France in Chicago","1119 W. Cullerton St.","1119 W. Cullerton St.
+Chicago, IL 
+(41.855228, -87.65395)"

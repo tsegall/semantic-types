@@ -1,0 +1,166 @@
+"objectid","name","ward","phone","fax","ct_hpsa","medicaldir","chargenurs","administra","web_url","gis_id","mar_census","see_patients_who_cant_pay","population_served","walkin_unscheduled","insurance_accepted","open_to_public","limited_access","treatment_for_all","public_insurance","medicaid","medicare","private_employer_insurance","private_insurance","sliding_scale","facility_setting","facility_type","practice_type","yesno","last_modified_date","last_modified_user","last_modified_action","location_1"
+"1","Unity - Central Union Mission Health Center","6","202-508-0500; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceCentralUnion.html","PC_32","5900",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"425 2ND STREET NW
+,  
+(38.89551157, -77.01329922)"
+"2","Bread for the City","6","202-386-7020",,,,,,"http://www.breadforthecity.org/","PC_02","4801",,,"Yes -some",,"No","Only Medicaid, Alliance & Uninsured DC residents","Yes","Yes","Yes","Yes","No","NONE","No fees","Community Health Center - FREE Clinic","Private Non-Profit",,,,,,"1525 7TH STREET NW
+,  
+(38.91033943, -77.02162724)"
+"3","S.O.M.E (So Others Might Eat)","5","202-797-8806",,,,,,"http://www.some.org/","PC_26","4600",,,"Yes",,"No","Homeless and under-served","Yes","Yes","Yes","Yes"," ","N/A","Yes","Community Health Center","Private Non-Profit",,,,,,"60 O STREET NW
+,  
+(38.90824953, -77.01110291)"
+"4","Unity - Walker Jones Health Center","6","202-354-1120; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceWalkerJones.html","PC_50","10600",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"40 PATTERSON STREET NE
+,  
+(38.90665875, -77.00767478)"
+"5","Unity - Blair Shelter Health Center","6","202-276-3381; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceBlair.html","PC_30","10600",,,"Yes",,"Yes"," ","Yes"," ","Yes","Yes"," "," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"635 I STREET NE
+,  
+(38.90106964, -76.99702162)"
+"6","Unity - Harbor Light Health Center","5","202-276-3381",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceHarbor.html","PC_41","11100",,,"Yes",,"Yes"," "," "," ","Yes","Yes"," "," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"2100 NEW YORK AVENUE NE
+,  
+(38.91784892, -76.97417163)"
+"7","Unity - New York Avenue Health Center","5","202-276-3381; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceNewYork.html","PC_45","8803",,,"Yes",,"Yes"," ","Yes"," ","Yes","Yes"," "," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"1355 NEW YORK AVENUE NE
+,  
+(38.91507572, -76.98583171)"
+"8","Community of Hope - Family Health & Birth","5","202-398-5520",,,,,,"http://www.communityofhopedc.org/","PC_10","8904",,,"Yes -call",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","FQHC","Private Non-Profit",,,,,,"801 17TH STREET NE
+,  
+(38.90081713, -76.97822631)"
+"9","Unity - Pathways to Housing Health Center","5","202-276-3381; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServicePathways.html","PC_46","8701",,,"Yes",,"Yes"," ","Yes"," ","Yes","Yes"," "," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"101 Q STREET NE
+,  
+(38.91082187, -77.00617127)"
+"10","Unity - N Street Village Health Center","2","202-276-3381; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceNStreet.html","PC_44","5002",,,"Yes",,"Yes"," ","Yes"," ","Yes","Yes"," "," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"1333 N STREET NW
+,  
+(38.90757354, -77.03142791)"
+"11","MetroHealth","2","202-638-0750",,,,,,"http://www.carlvogelcenter.org","PC_03","10100",,,"varies - 2 am and 2 pm slots per day",,"Yes"," ","Yes","Yes","Yes","Pending","Yes","Private insurance is also accepted","Yes","Community Health Center","Private Non-Profit",,,,,,"1012 14TH STREET NW
+,  
+(38.9032026, -77.03239728)"
+"12","La Clinica del Pueblo","1","202-462-4788",,,,,,"http://www.lcdp.org","PC_15","3700",,,"Other - open access scheduling but not for walk-ins.",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"2831 15TH STREET NW
+,  
+(38.92591693, -77.03522692)"
+"13","Whitman Walker - Max Robinson Medical Center","8","202-797-3567",,,,,,"http://www.whitman-walker.org","PC_52","7401",,,"Other",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center, FQHC Look-alike","Private Non-Profit",,,,,,"2301 MARTIN LUTHER KING JR AVENUE SE
+,  
+(38.86346834, -76.99126331)"
+"14","Unity - Anacostia Health Center","8","202-610-7160; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceAnacostia.html","PC_29","7503",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"1500 GALEN STREET SE
+,  
+(38.86310889, -76.98356624)"
+"15","Unity - Stanton Road Health Center","8","202-469-4699",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceStanton.html","PC_48","7404",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"3240 STANTON ROAD SE
+,  
+(38.84927537, -76.98064729)"
+"16","Unity - Southwest  Health Center","6","202-469-4699",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceSouthwest.html","PC_47","10500",,,"Monday - Friday",,"Yes"," ","Yes","Yes","Yes","Yes","Yes"," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"850 DELAWARE AVENUE SW
+,  
+(38.87954242, -77.01242853)"
+"17","Childrens Health Center - THE ARC","8","202-436-3060",,,,,,"http://www.childrenshealthfund.org","PC_08","7409",,,"Yes",,"No","Children and Adolescents","Yes"," ","Yes"," ","Yes"," ","Yes"," ","Private Non-Profit",,,,,,"1901 MISSISSIPPI AVENUE SE
+,  
+(38.8435649, -76.97532414)"
+"18","Childrens Health Center - Martin Luther King","8","202-476-6575",,,,,,"http://www.childrensnational.org/","PC_06","10400",,,"Yes",,"No","Children and Adolescents","Yes"," ","Yes"," ","Yes"," ","Yes"," ","Private Non-Profit",,,,,,"3029 MARTIN LUTHER KING JR AVENUE SE
+,  
+(38.8441926, -76.99865373)"
+"19","Unity - 801 East Health Center","8","202-715-1957; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/Service801.html","PC_28","10400",,,"Yes",,"Yes"," ","Yes"," ","Yes","Yes"," "," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"2700 MARTIN LUTHER KING JR AVENUE SE
+,  
+(38.85069208, -76.99473085)"
+"20","Unity - Friendship Place Health Center","3","202-276-3381; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceFriendship.html","PC_39","1100",,,"Yes",,"Yes"," ","Yes"," ","Yes","Yes"," "," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"4713 WISCONSIN AVENUE NW
+,  
+(38.95137341, -77.08063888)"
+"21","Unity - East of the River Health Center","7","202-388-7890; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceEastRiver.html","PC_37","7803",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"123 45TH STREET NE
+,  
+(38.89117214, -76.93751186)"
+"22","Planned Parenthood - Ophelia Egypt Health Center","7","202-388-4770",,,,,,"http://www.plannedparenthood.org/ppmw","PC_18","9603",,,"Yes",,"Yes"," ","Yes","Yes","Yes"," ","Yes","Private insurance is also accepted","Yes","Other - Planned Parenthood","Private Non-Profit",,,,,,"3937 MINNESOTA AVENUE NE
+,  
+(38.89457331, -76.94915286)"
+"23","Unity - Upper Cardozo Health Center","1","202-469-4699",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceUpperCardozo.html","PC_49","2802",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"3020 14TH STREET NW
+,  
+(38.92817749, -77.03303255)"
+"24","Marys Center - Ontario Road","1","202-483-8196",,,,,,"http://www.maryscenter.org","PC_17","3800",,,"Other - Modified open access",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"2333 ONTARIO ROAD NW
+,  
+(38.92098016, -77.0398084)"
+"25","Community of Hope - Marie Reed Clinic","1","202-232-9022",,,,,,"http://www.communityofhopedc.org/","PC_11","3800",,,"Yes -call",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","FQHC","Private Non-Profit",,,,,,"2250 CHAMPLAIN STREET NW
+,  
+(38.91934303, -77.04047653)"
+"26","Childrens Health Center - Adams Morgan","1","202-476-5580",,,,,,"http://www.childrensnational.org","PC_04","3800",,,"Yes",,"No","Children and Adolescents","Yes"," ","Yes"," ","Yes"," ","Yes"," ","Private Non-Profit",,,,,,"1630 EUCLID STREET NW
+,  
+(38.92303223, -77.03799292)"
+"27","Unity - Christ House Health Center","1","202-276-3381; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceChrist.html","PC_33","3900",,,"Yes",,"Yes"," ","Yes"," ","Yes","Yes"," "," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"1717 COLUMBIA ROAD NW
+,  
+(38.92485548, -77.0399907)"
+"28","Unity - Columbia Road Health Center","1","202-328-3717; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceColumbia.html","PC_34","3800",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"1660 COLUMBIA ROAD NW
+,  
+(38.92489831, -77.03881271)"
+"29","Whitman Walker - Elizabeth Taylor Medical Center","2","202-745-7000",,,,,,"http://www.whitman-walker.org","PC_51","5001",,,"Other",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center, FQHC Look-Alike","Private Non-Profit",,,,,,"1701 14TH STREET NW
+,  
+(38.91278479, -77.03170209)"
+"30","Unity - Federal City - CCNV Clinic Health Center","2","202-276-3381; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceFederal.html","PC_38","5001",,,"Yes",,"Yes"," ","Yes"," ","Yes","Yes"," "," ","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"1631 14TH STREET NW
+,  
+(38.91239278, -77.03158488)"
+"31","Spanish Catholic Center","1","202-939-2400",,,,,,"http://www.CatholicCharitiesdc.org","PC_27","2701",,,"Yes",,"Yes"," ","Yes","Yes (for Medical)"," "," "," "," ","Yes","Other","Other Non-Profit",,,,,,"1618 MONROE STREET NW
+,  
+(38.93273943, -77.03739662)"
+"32","Childrens National Medical Center - Adolescent Health Center","5","202-476-2123",,,,,,"http://www.childrensnational.org/","PC_09","2302",,,"Yes",,"No","Adolescents","Yes","Yes","Yes"," ","Yes","Private insurance is also accepted","Yes"," ","Private Non-Profit",,,,,,"111 MICHIGAN AVENUE NW
+,  
+(38.92727387, -77.01439601)"
+"33","Planned Parenthood - Schumacher Health Center","2","202-347-8512",,,,,,"http://www.plannedparenthood.org/ppmw","PC_19","10700",,,"Yes",,"Yes"," ","Yes","Yes","Yes"," ","Yes","Private insurance is also accepted","No","Other - Planned Parenthood","Private Non-Profit",,,,,,"1108 16TH STREET NW
+,  
+(38.90408064, -77.03696621)"
+"34","Childrens Health Center - Good Hope Road","8","202-476-6900",,,,,,"http://www.childrensnational.org/","PC_05","7502",,,"Yes",,"No","Children and Adolescents","Yes"," ","Yes"," ","Yes"," ","Yes"," ","Private Non-Profit",,,,,,"2501 GOOD HOPE ROAD SE
+,  
+(38.86068815, -76.96932836)"
+"35","Community of Hope - Conway Health and Resource Center","8","202-540-9857",,,,,,"http://www.communityofhopedc.org
+","PC_54","9807",,,,,"Yes","No","Yes","Yes","Yes","Yes","Yes","Yes, except Kaiser
+","Yes","Community Health Center-FQHC
+","Non-Profit 
+",,,,,,"4 ATLANTIC STREET SW
+,  
+(38.83128109, -77.00869504)"
+"36","Unity - Parkside Health Center","7","202-388-8160
+",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceParkside.html
+","PC_55","9602",,,,,"Yes","No","Yes","Yes","Yes","Yes","Yes","Yes, except Kaiser
+","Yes","Community Health Center-FQHC
+","Non-Profit 
+",,,,,,"765 KENILWORTH TERRACE NE
+,  
+(38.90042818, -76.94746487)"
+"37","Providence Hospitals Perry Family Health Center","6","202-682-3840",,,,,,"http://www.provhosp.org/Facilities/PerryFam.htm","PC_25","4701",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes"," ","Private Non-Profit",,,,,,"128 M STREET NW
+,  
+(38.90538734, -77.01335306)"
+"38","Elaine Ellis Center of Health","7","202-388-3229",,,,,,,"PC_53","9601",,,"Please Call",,"Yes","Please Call","Yes","Yes","Yes",,"Please Call",,,,,,,,,,"1605 KENILWORTH AVENUE NE
+,  
+(38.91131428, -76.93437038)"
+"39","Family and Medical Counseling Services, Inc. (FMCS)","8","202-889-7900",,,,,,"http://www.fmcsinc.org/","PC_12","7503",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes"," ","Private Non-Profit",,,,,,"2041 MARTIN LUTHER KING JR AVENUE SE
+,  
+(38.86593013, -76.98982867)"
+"40","Unity - Minnesota Avenue Health Center","7","202-398-8663; 202-469-4699 (Appointment Scheduling Number)",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceMinnesota.html","PC_43","9603",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC-School Based Health Ctr.","Private Non-Profit",,,,,,"3924 MINNESOTA AVENUE NE
+,  
+(38.89393094, -76.95130845)"
+"41","Georgetown Hospitals Physicians Group","2","202-342-2400",,,,,,"http://www.georgetownuniversityhospital.org","PC_13","201",,,"No",,"Yes"," ","Yes"," ","Yes","Yes","Yes","Private insurance is also accepted","Yes"," ","Private Non-Profit",,,,,,"3800 RESERVOIR ROAD NW
+,  
+(38.912211, -77.07528426)"
+"42","Marys Center - Georgia Ave.","4","202-483-8196",,,,,,"http://www.maryscenter.org","PC_16","2502",,,"Other - Modified open access",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,,,,"3912 GEORGIA AVENUE NW
+,  
+(38.93925724, -77.02511229)"
+"43","Andromeda Transcultural Health","4","202-291-4707",,,,,,"http://www.andromedatransculturalhealth.org/default.aspx","PC_01","2501",,,"No",,"Yes"," ","No"," ","Yes","Yes","Yes"," ","Yes"," ","Community Health Center",,,,,,"1420 DECATUR STREET NW
+,  
+(38.94806214, -77.03396637)"
+"44","Providence Hospitals Family Practice & Pediatric Physicians","5","202-448-4091",,,,,,"http://www.provhosp.org","PC_22","9504",,,"Yes, a few slots are allotted for walk-ins daily",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes"," ","Private Non-Profit",,,,,,"1160 VARNUM STREET NE
+,  
+(38.94444625, -76.99155816)"
+"45","Providence Hospitals Internal Medicine Physicians","5","202-534-4242",,,,,,"http://www.provhosp.org","PC_23","9504",,,"No",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes"," ","Private Non-Profit",,,,,,"1160 VARNUM STREET NE
+,  
+(38.94444625, -76.99155816)"
+"46","Providence Hospitals OB DePaul Physicians","5","202-269-7126",,,,,,"http://www.provhosp.org","PC_24","9504",,,"No",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes"," ","Private Non-Profit",,,,,,"1160 VARNUM STREET NE
+,  
+(38.94444625, -76.99155816)"
+"47","Providence Hospitals Center for Geriatric Medicine","5","202-269-7785",,,,,,"http://www.provhosp.org","PC_20","9504",,,"No",,"Yes"," ","Yes"," ","Yes","Yes","Yes","Private insurance is also accepted","Yes"," ","Private Non-Profit",,,,,,"1160 VARNUM STREET NE
+,  
+(38.94444625, -76.99155816)"
+"48","Providence Hospitals Center for Life (OB/GYN practice)","5","202-269-7074",,,,,,"http://www.provhosp.org","PC_21","9504",,,"No",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes"," ","Private Non-Profit",,,,,,"1150 VARNUM STREET NE
+,  
+(38.94329506, -76.99123162)"
+"49","Howard University Hospital Family Health Center","1","202-865-3250",,,,,,"http://www.huhealthcare.com/healthcare/hospital/departments/community-family","PC_14","3400",,,"Yes",,"Yes"," "," ","Yes","Yes","Yes","Yes","Private insurance is also accepted"," "," "," ",,,,,,"2139 GEORGIA AVENUE NW
+,  
+(38.91884177, -77.0216191)"
+"50","Childrens Health Center - Shaw/Comp Clinic","1","202-476-5500",,,,,,"http://www.childrensnational.org/","PC_07","4400",,,"Yes",,"No","Children and Adolescents","Yes"," ","Yes"," ","Yes"," ","Yes"," ","Private Non-Profit",,,,,,"2220 11TH STREET NW
+,  
+(38.91989311, -77.02733473)"
+"51","Whitman Walker - 1525 Medical Center","2","202-745-7000",,,,,,"http://www.whitman-walker.org","PC_56","5001",,,,,,,,,,,,,,,,,,"2016-02-12T00:00:00.000","Eva.Stern","ADD","1525 14TH STREET NW
+,  
+(38.91048282, -77.03163408)"
+"52","Unity - Brentwood Health Center","5","202-469-4699",,,,,,"http://www.unityhealthcare.org/HealthCenters/ServiceBrentwood.html","PC_31","9102",,,"Yes",,"Yes"," ","Yes","Yes","Yes","Yes","Yes","Private insurance is also accepted","Yes","Community Health Center-FQHC","Private Non-Profit",,,"2016-02-12T00:00:00.000","Eva.Stern","UPDATE","1251 SARATOGA AVENUE NE
+,  
+(38.92168767, -76.98935495)"

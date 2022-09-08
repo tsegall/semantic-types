@@ -1,0 +1,425 @@
+"project_no","title","west_to_east_coordinate","south_to_north_coordinate","number","direction","name","suffix","completion_year_estimate","status","cost_estimate","rent_low_cost","rent_high_cost","rent_midpoint","sale_low_price","sale_high_price","sale_midpoint","rent_sale_price_source_year","activity","housing_units","tenure","developer","also_in_1990_onward_database","location_1"
+"376.00","Guinotte Manor Townhomes","2769580","1072648","1108","E.","4th","St","2000","Completed","47000000",,,,,,,,"New","219","Renter","Kansas City Housing Authority","Yes","1108 E. 4th St
+,  "
+"649.00","Plaza Colonnade","2764023","1045982","4801",,"Main","St","2012","Proposed","70000000",,,,,,,,"New","16",,"Copaken White & Blitt","Yes","4801 Main St
+,  "
+"1763.00","Carriage Lofts Conversion","2766232","1065266","1732",,"Oak","St","2010","Underway","3000000",,,,,,,,"Use Conversion","23",,,"Yes","1732 Oak St
+,  "
+"870.00","SoHo South/EBT","2765382","1066037",,,"Walnut","St","2000","Completed","16500000","525","1800","1163",,,,"2006","Use Conversion","102","Renter","Master Realty Properties","Yes","1601&1529 Walnut St
+,  "
+"1317.00","1518 Walnut Lofts","2765263","1066316","1518",,"Walnut","St","2004","Completed","2000000","675","1075","875",,,,"2006","Use Conversion","11","Renter","Tom Trabon","Too Small","1518 Walnut St
+,  "
+"1263.00","4646 Broadway Lofts","2762535","1047553","4646",,"Broadway",,"2006","Completed","16000000",,,,"575000","1600000","1087500","2005","New","18","Owner","George Birt","Yes","4646 Broadway
+,  "
+"286.01","Mel's Artspace Apartments","2764360","1071766","201",,"Wyandotte","St","1986","Completed","4350000","650","900","775",,,,"2006","Use Conversion","29","Renter",,"Yes - Grouped","201 Wyandotte St
+,  "
+"1155.00","4528 Belleview","2760700","1048071","4528",,"Belleview","St","2004","Completed","3000000",,,,,,,,"Use Conversion","9","Owner","Wilson Group","Yes","4528 Belleview St
+,  "
+"1538.00","Dutch Hill Apartments","2767818","1058765","2843",,"Campbell","St","2010","Underway","2500000","500","800","650",,,,"2006","Renovation","36","Renter","Dutch Hill Apartments LLC","Too Small","2843 Campbell St
+,  "
+"1289.00","Holmes St. Apts.","2767306","1071286","520",,"Holmes","St","2001","Completed","400000",,,,,,,,"New","4","Renter",,"Too Small","520 Holmes St
+,  "
+"286.06","River Market Apartments IV","2764742","1071123","412",,"Delaware","St","1990","Completed","3750000","425","1000","713",,,,"2006","Use Conversion","25","Renter","Master Realty / Recon","Yes - Grouped","412 Delaware St
+,  "
+"1294.00","Lofts at Fleming Place","2765467","1063686","2030",,"Grand","Av","2003","Completed","1050000",,,,"200000","350000","275000","2006","Use Conversion","6","Owner","Ed Roitz","Too Small","2030 Grand Av
+,  "
+"1841.00","Price Development Apartments","2758362","1052678","3895"," ","State Line","Rd","2013","Proposed","10000000","800","1300","1050",,,,"2011","New","70","Renter","Price Development Group","Yes","3895 State Line Rd
+,  "
+"286.12","Riverbend Lofts","2764933","1071952","200",,"Main","St","1998","Completed","4400000",,,,"120000","275000","197500","2006","Use Conversion","85","Owner","George Birt","Yes - Grouped","200 Main St
+,  "
+"594.12","Jewel Lofts","2763562","1069162","920",,"Broadway",,"2001","Completed","2485000",,,,,,,,"Use Conversion","15","Renter","Dale Schulte","Yes - Grouped","920 Broadway
+,  "
+"1343.00","Sulgrave / Regency Condos","2763403","1045872","121","W.","48th","St","2002","Completed","20000000",,,,"150000","1000000","575000","2001","Style Conversion","274","Owner","Mike Rainen","Yes","121 W. 48th St
+,  "
+"1453.00","Power and Light District II","2765371","1066920","1400",,"Walnut","St","2012","Proposed","269500000",,,,,,,,"New","980","Owner","Cordish Co.","Too Uncertain","1400 Walnut St
+,  "
+"1564.00","Columbus Park Developers Housing","2767745","1071948","420",,"Campbell","St","2013","Underway","40000000",,,,,,,,"New","370",,"Columbus Park Developers","Yes","420 Campbell St
+,  "
+"1671.00","Bunker Hill Multifamily","2761167","1048596","4435",,"Madison","Av","2012","Proposed","3504600",,,,,,,,"New","134","Renter",,"Yes","4435 Madison Av
+,  "
+"465.00","Bishop Spencer Place I","2761314","1049591","4301",,"Madison","Av","1995","Completed","14000000",,,,"70000","180000","125000","2002","New","134","Renter","Episcopal Diocese of West Missouri","Yes","4301 Madison Av
+,  "
+"286.31","4th & Wyandotte Townhomes","2764458","1071294","401",,"Wyandotte","St","2012","Underway","5400000",,,,"250000","350000","300000","2009","New","18","Owner","Tom Trabon and El Dorado Architects","Yes - Grouped","401 Wyandotte St
+,  "
+"396.13","Columbia Lofts","2764175","1063981","2006",,"Wyandotte","St","2012","Underway","7000000","500","700","600",,,,"2010","Use Conversion","35","Renter","Dale Schulte","Yes - Grouped","2006 Wyandotte St
+,  "
+"594.08","SoHo V Apartments","2763614","1069883","712",,"Broadway",,"1990","Completed","7650000","600","1100","850",,,,"2006","Use Conversion","51","Renter","Master Realty","Yes - Grouped","712 Broadway
+,  "
+"286.16","Chase Bag Apartments","2764581","1071868","200",,"Delaware","St","2001","Completed","4000000","475","575","525",,,,"2000","Use Conversion","35","Renter","Dale Schulte","Yes - Grouped","200 Delaware St
+,  "
+"1647.00","City Homes Single Family","2766327","1071299","503",,"Oak","St","2008","Completed","11210760",,,,"425000","505000","465000","2008","New","27","Owner","George Birt and Taylor McKee","Yes","503 Oak St
+,  "
+"1283.00","Westport-Mill Townhomes","2762890","1051090","400",,"Westport","Rd","2004","Completed","3850000",,,,,,,,"New","14","Owner","Doug Weltner","Yes","400 Westport Rd
+,  "
+"1300.00","1800 Baltimore Lofts","2764578","1065071","1800",,"Baltimore","Av","2006","Completed","2300000",,,,,,,,"Use Conversion","6","Owner","Brad Nicholson","Too Small","1800 Baltimore Av
+,  "
+"1465.00","Columbus Park Single Family Homes","2768556","1071783","1127","E.","5th","St","2013","Underway","72000000",,,,"150000","450000","300000","2006","New","360","Owner","Columbus Park LC","Yes","1127 E. 5th St
+,  "
+"1707.00","Bridgeworks Lofts - I","2766535","1071274","522",,"Locust","St","2005","Completed","15000000",,,,"152000","399000","275500","2006","New / Use Conversion","47","Owner","George Birt","Yes - Grouped","522 Locust St
+,  "
+"286.26","5 Delaware Lofts","2764848","1071027","423",,"Delaware","St","2005","Completed","2500000",,,,"250000","415000","332500","2006","New","13","Owner","Market View Properties LLC","Yes - Grouped","423 Delaware St
+,  "
+"594.01","SoHo West Condo Association","2764092","1070197","306","W.","7th","St","1984","Completed","3500000","550","2200","1375",,,,"2006","Use Conversion","20","Renter","Master Realty / Recon","Yes - Grouped","306 W. 7th St
+,  "
+"1160.00","Finance Building","2764885","1068760","1009",,"Baltimore","Av","2004","Completed","5500000","495","650","573",,,,"2003","Use Conversion","32","Renter","Dale Schulte","Yes","1009 Baltimore Av
+,  "
+"1431.00","The Broadway Condominiums","2763580","1065082","1801",,"Broadway",,,"Canceled","60000000",,,,"190000","500000","345000","2006","New","133","Owner","Broadway Development LLC","Yes","1801 Broadway
+,  "
+"594.13","Opera House ","2763555","1069156","930",,"Broadway",,"2001","Completed","6000000","850","1575","1213",,,,"2006","Use Conversion","48","Renter","Master Realty","Yes - Grouped","930 Broadway
+,  "
+"981.00","Western Auto Lofts","2765658","1063527","2107",,"Grand","Av","2006","Completed","30000000",,,,"233000","346000","289500","2006","Use Conversion","157","Owner","MCZ Development Corp. and Centrum Properties","Yes","2107 Grand Av
+,  "
+"396.02","Rieger Bldg. ","2764864","1064263","1922",,"Main","St","2003","Completed","1000000",,,,,,,,"Use Conversion","2","Renter","Don Omar","Yes - Grouped","1922 Main St
+,  "
+"1473.00","Firestone Building","2765695","1063971","2001",,"Grand","Av","2012","Proposed","15750000",,,,,,,,"Use Conversion","90","Owner","Nicholas Abnos","Too Uncertain","2001 Grand Av
+,  "
+"1614.00","Hawthorn Plaza Apartments Renovation","2764344","1052427","3835",,"Main","St","2012","Proposed","26000000","769","1600","1185",,,,"2007","Style Conversion","56","Renter","Howard Fischer","Yes","3835 Main St
+,  "
+"1886.00","River Market - Arnold Development","2764413","1071975","140",,"Baltimore","St","2015","Proposed","50000000","750","1600","1175",,,,"2012","New","225","Renter","Arnold Development Group","Too Uncertain","140 Baltimore St
+,  "
+"1278.00","One Park Place Condos (BMA Tower)","2762130","1057976","700",,"Karnes","Bl","2006","Completed","17000000",,,,"400000","5000000","2700000","2006","Use Conversion","106","Owner","SWD Communities","Yes","700 Karnes Bl
+,  "
+"1295.00","Walnut Lofts","2765250","1066264","1522",,"Walnut","St","2003","Completed","2000000","625","1000","813",,,,"2006","Use Conversion","8","Renter","Tom Trabon","Too Small","1522 Walnut St
+,  "
+"1118.03","Battery Lofts","2766428","1058048","3001",,"Gillham","Rd","2004","Completed","3000000",,,,"175000","221000","198000","2006","Use Conversion","16","Owner","Urban Coeur Development","Yes - Grouped","3001 Gillham Rd
+,  "
+"1426.00","Berkley Lofts- I","2769930","1073836","1400",,"Guinotte","Av","2011","Proposed","4800000",,,,"180000","350000","265000","2006","Use Conversion","48","Owner","Sally Peterson and Michael Roys","Yes","1400 Guinotte Av
+,  "
+"594.17","Lofts at Historic Suites","2764335","1070320","609",,"Central","St","1986","Completed","7200000",,,,,,,,"Use Conversion","48","Renter",,"Yes - Grouped","609 Central St
+,  "
+"1309.00","SoLo Lofts","2765555","1066030","1600",,"Grand","Bl","2004","Completed","1800000","695","1095","895",,,,"2006","Use Conversion","12","Renter","Master Realty","Too Small","1600 Grand Bl
+,  "
+"1156.00","Founders at Union Hill I","2766268","1058610","2929",,"McGee","St","2006","Completed","50000000","700","1295","998","210000","1300000","755000","2006","Use Conversion / New","276","Both","Robert Frye","Yes","2929 McGee St
+,  "
+"1310.00","The Metropolitan (Plaza)","2761198","1048846","4417",,"Madison","Av","2006","Completed","20000000",,,,,,,,"New","132","Renter","MacKenzie House LLC","Yes","4417 Madison Av
+,  "
+"1290.00","40 Penn Row","2762257","1051713","4000",,"Pennsylvania","Av","2002","Completed","1800000",,,,"130000","200000","165000","2000","New","11","Owner","Urban Coeur Development","Too Small","4000 Pennsylvania Av
+,  "
+"286.02","Delaware Lofts","2764590","1071807","218",,"Delaware","St","1988","Completed","5850000","650","900","775",,,,"2006","Use Conversion","39","Renter",,"Yes - Grouped","218 Delaware St
+,  "
+"942.00","Chambers Bldg.","2765320","1068015","25","E.","12th","St","2003","Completed","7000000",,,,,,,,"Use Conversion","50","Renter","DLS Historic Partners","Yes","25 E. 12th St
+,  "
+"1881.00","Bemis Bag Building","2759156","1069327","925",,"Wyoming","St","2014","Proposed","20000000","600","800","700",,,,"2012","Use Conversion","100","Renter","Gary Hassenflu","Too Uncertain","925 Wyoming St
+,  "
+"286.07","City Market Lofts","2765301","1071857","30","E","3rd","St","1992","Completed","1200000",,,,,,,,"Use Conversion","8","Renter",,"Yes - Grouped","30 E 3rd St
+,  "
+"594.16","Atriums at SoHo West","2764205","1070391","612",,"Central","St","2005","Completed","7585000",,,,"141000","399000","270000","2006","New / Renovation","41","Owner","Master Realty","Yes - Grouped","612 Central St
+,  "
+"1291.00","Columbus Park East Apts.","2768677","1071348","1030",,"Pacific","St","2002","Completed","840000",,,,,,,,"Renovation","14","Renter",,"Too Small","1030 Pacific St
+,  "
+"1118.04","Cherry Hill Row","2766786","1058611","2901",,"Cherry","St","2007","Completed","3750000",,,,"150000","325000","237500","2006","New","15","Owner","Urban Coeur Development","Yes - Grouped","2901 Cherry St
+,  "
+"1793.00","Highland Place Apartments Conversion","2771150","1064579","1821"," ","Highland","Av","2012","Underway","4000000","370","700","535",,,,"2011","Use Conversion / Style Conversion","22","Renter","City of Kansas City, MO","Yes","1821 Highland Av
+,  "
+"1274.00","Blackstone Apartment Renovation","2767190","1069336","817",,"Cherry","St","2012","Proposed","4000000","405","700","553",,,,"2004","Renovation","20","Renter","William Coe","Yes","817 Cherry St
+,  "
+"396.01","Freight House Lofts","2764383","1063953","2029",,"Wyandotte","St","2001","Completed","7000000",,,,"185000","340000","262500","2007","Use Conversion","33","Renter","Master Realty","Yes - Grouped","2029 Wyandotte St
+,  "
+"413.00","Quality Hill Residential Phase II","2763090","1068716","905",,"Washington","St","1993","Completed","8000000","475","520","498",,,,"2006","New","84","Renter","McCormack Baron and Assocs.","Yes","905 Washington St
+,  "
+"1469.00","Grand Boulevard Lofts","2765692","1068851","1006",,"Grand","Av","2010","Completed","32000000","566","775","671",,,,"2010","Use Conversion","134","Renter","Sherman Associates","Yes","1006 Grand Av
+,  "
+"920.00","501 Ward Pkwy.","2761719","1045844","501",,"Ward","Pkwy","2004","Completed","12000000",,,,,,,,"New","9","Owner","B.B. Anderson","Yes","501 Ward Pkwy
+,  "
+"1710.00","The Summit Condos","2762297","1065396","1715",,"Summit","St","2009","Completed","1225000",,,,"299000","550000","424500",,"Use Conversion","7","Owner","ACT Investments","Too Small","1715 Summit St
+,  "
+"286.27","Cromwell Lofts","2765541","1070900","528",,"Walnut","St","2005","Completed","1650000",,,,,,,,"Use Conversion","11","Renter",,"Yes - Grouped","528 Walnut St
+,  "
+"1316.00","Quality Hill Residential Phase I","2763090","1068716","905",,"Washington","St","1986","Completed","37000000","605","1200","903",,,,"2006","New / Renovation","366","Both","McCormack Baron and Assocs.","Too Early","905 Washington St
+,  "
+"1487.00","Park View Apartments Conversion","2766396","1068949","318","E.","10th","St","2007","Completed","3800000","600","900","750",,,,"2006","Use Conversion","15","Renter","Nicholas Abnos","Yes","318 E. 10th St
+,  "
+"396.08","Liquid Carbonics Co.","2764597","1064102","2000",,"Baltimore","Av","2009","Completed","2000000",,,,"440000","690000","565000","2006","Use Conversion","6","Owner","Melissa Stevens","Yes - Grouped","2000 Baltimore Av
+,  "
+"1159.00","21 TEN","2764870","1068840","21","W.","10th","St","2004","Completed","12000000",,,,"119000","299000","209000","2006","Use Conversion","52","Owner","Stan Decker & Tom Trabon","Yes","21 W. 10th St
+,  "
+"1773.00","Commonwealth Project","2766098","1054875","500","E.","Armour","Bl","2017","Proposed","57000000",,,,,,,,"Renovation","635","Renter","Antheus Capital LLC","Yes","500 E. Armour Bl
+,  "
+"1253.00","Metropolitan Condominiums","2767258","1069751","600","E.","8th","St","2006","Completed","30000000",,,,"69000","200000","134500","2006","Style Conversion","220","Owner","Time Equities","Yes","600 E. 8th St
+,  "
+"1464.00","Ferrous Park Townhouses","2766616","1064788","1800",,"Locust","St","2012","Proposed","1080000",,,,"275000","325000","300000","2006","New","6","Owner","Jeff Rumaner","Too Small","1800 Locust St
+,  "
+"286.10","River Market Apartments VI","2764824","1070839","510",,"Delaware","St","1996","Completed","4350000","425","1000","713",,,,"2006","Use Conversion","29","Renter","Master Realty / Recon","Yes - Grouped","510 Delaware St
+,  "
+"1706.00","Lofts At River Market West","2764075","1070922","320","W","5th","St","2003","Completed","15000000",,,,,,,,"New","45","Owner","George Birt","Yes - Grouped","320 W 5th St
+,  "
+"594.09","SoHo VI Apartments","2763576","1069883","706",,"Broadway",,"1990","Completed","7500000","575","785","680",,,,"2006","Use Conversion","50","Renter","Master Realty","Yes - Grouped","706 Broadway
+,  "
+"1537.00","Longfellow Court","2767913","1058119","910","E.","30th","St","2012","Proposed","3000000",,,,"170000","250000","210000","2006","New","18","Owner","180 Degrees Design Studio LLC","Yes","910 E. 30th St
+,  "
+"1341.00","Baltimore Place (Union Carbide)","2764719","1069249","912",,"Baltimore","Av","2010","Underway","4000000",,,,,,,,"Use Conversion","28","Owner","Rick Powell","Yes","912 Baltimore Av
+,  "
+"1282.00","Penn-40 Lofts","2762267","1051526","4000",,"Pennsylvania","Av","2004","Completed","4900000",,,,,,,,"Use Conversion","28","Owner","Steve Block","Yes","4000 Pennsylvania Av
+,  "
+"1298.00","Soda Lofts","2768145","1071928","918","E.","5th","St","2004","Completed","679000","1300","1450","1375",,,,"2006","Use Conversion","7","Both","Dan Wayne","Too Small","918 E. 5th St
+,  "
+"980.00","Summit at Sixteenth","2762169","1066373","1601",,"Summit","St","2003","Completed","6500000",,,,"150000","459000","304500","2006","New","24","Owner","BBL Real Estate Services Group and Loft Capital Investors LLC","Yes","1601 Summit St
+,  "
+"1726.00","Midland Condo Conversion","2764819","1067706","1221",,"Baltimore","Av","2012","Proposed","7000000",,,,,,,,"Use Conversion","40","Owner","AMC Entertainment and Cordish Co.","Yes","1221 Baltimore Av
+,  "
+"1252.00","1819 Lofts","2764738","1064778","1819",,"Baltimore","Av","2004","Completed","6000000",,,,"160000","460000","310000","2006","Use Conversion / New","26","Owner","Accardo Family","Yes","1819 Baltimore Av
+,  "
+"1554.00","47th and Belleview Condos","2760797","1047106","4701",,"Belleview","St","2012","Proposed","18000000",,,,"600000","1200000","900000","2006","New","24","Owner","Stonerose Development","Yes","4701 Belleview St
+,  "
+"286.15","Richards & Conover Lofts (Jax)","2764435","1070983","200","W","5th","St","2000","Completed","12000000","800","1500","1150",,,,"2006","Use Conversion","83","Renter","George Birt","Yes - Grouped","200 W 5th St
+,  "
+"1305.00","Lofts at 917 (Sosland)","2764540","1069203",,,"Wyandotte","St","2005","Completed","6000000",,,,"495000","650000","572500","2006","Use Conversion","29","Owner","Dale Schulte","Yes","915/17 Wyandotte St
+,  "
+"443.00","Basie Court Apartments","2771190","1064262","1940",,"Woodland","Av","1995","Completed","8000000",,,,,,,,"New","88","Owner","Black Economic Union","Yes","1940 Woodland Av
+,  "
+"1311.00","TWA Building","2764845","1067523","1301",,"Baltimore","Av","2012","Proposed","4800000",,,,,,,,"Use Conversion","32",,"TB Squared","Too Uncertain","1301 Baltimore Av
+,  "
+"941.00","Library Lofts","2764554","1068837","127","W.","10th","St","2003","Completed","42000000","600","2000","1300",,,,"2006","Use Conversion","286","Renter","Master Realty Properties","Yes","127 W. 10th St
+,  "
+"1304.00","East Market Row at Columbus Park","2767276","1071573","501",,"Holmes","St","2004","Completed","1400000",,,,"145000","234000","189500","2006","New","8","Owner","Urban Coeur Development","Too Small","501 Holmes St
+,  "
+"1277.00","Wornall Park","2763014","1048159","4500",,"Wornall","Rd","2006","Completed","4000000",,,,"540000","1106000","823000","2006","New","10","Owner","Victoria Sexton","Yes","4500 Wornall Rd
+,  "
+"286.03","River Market Apartments I","2764646","1070908","113","W","5th","St","1989","Completed","4200000","425","1000","713",,,,"2006","Use Conversion","28","Renter","Master Realty / Recon","Yes - Grouped","113 W 5th St
+,  "
+"1880.00","One Power and Light Residential","2765348","1067641","1220"," ","Walnut","St","2015","Proposed","70000000",,,,,,,,"New / Use Conversion","313","Renter","Cordish Co.","Yes","1220 Walnut St
+,  "
+"1528.00","18th & Vine Townhouses","2770757","1064416","1612","E.","19th","St","2007","Completed","4000000",,,,,,,,"New","19",,,"Yes","1612 E. 19th St
+,  "
+"396.05","Freighthouse Lofts at Stuart Hall","2763939","1063508","2121",,"Central","St","2004","Completed","14000000","800","2500","1650",,,,"2006","Use Conversion","115","Renter","Master Realty","Yes - Grouped","2121 Central St
+,  "
+"396.10","Freighthouse Flats","2764136","1063522","2120",,"Wyandotte","St","2006","Completed","4025000",,,,"180000","600000","390000","2006","Use Conversion","23","Owner","2121 Wyandotte Developers","Yes - Grouped","2120 Wyandotte St
+,  "
+"1427.00","Berkley Lofts- II","2769930","1073836","1400",,"Guinotte","Av","2012","Proposed","7900000",,,,,,,,"New","32","Owner","Sally Peterson and Michael Roys","Yes","1400 Guinotte Av
+,  "
+"575.00","Longfellow Heights Residential","2768231","1060607","2600",,"Harrison","St","2001","Completed","23000000","340","485","413",,,,"2001","New","302","Renter","McCormack Baron and Assocs.","Yes","2600 Harrison St
+,  "
+"1470.00","Mark Twain Tower","2764726","1068485","106","W.","11th","St","2012","Proposed","30000000",,,,,,,,"Use Conversion","150","Owner","Mark Latshaw","Too Uncertain","106 W. 11th St
+,  "
+"598.00","Plaza Pavilion Apartments","2762715","1045189","4949",,"Wornall","Rd","2000","Completed","4590000",,,,"170000","305000","237500","2001","New","51","Owner","Saul and Jim Ellis","Yes","4949 Wornall Rd
+,  "
+"1618.00","The 4700 Condos","2760965","1047046","4700",,"Roanoke","Pkwy","2010","Underway","5500000",,,,"175000","350000","262500","2007","Style Conversion","26","Owner","Wilson Group","Yes","4700 Roanoke Pkwy
+,  "
+"286.19","Conover Place","2764231","1070953","210","W","5th","St","2002","Completed","9000000",,,,"250000","599000","424500","2006","New","32","Owner","BBL","Yes - Grouped","210 W 5th St
+,  "
+"1428.00","Wellington Place","2765824","1069802","720",,"Grand","Av","2013","Proposed","90000000",,,,,,,,"New","110","Owner","Bruce Roberts","Too Uncertain","720 Grand Av
+,  "
+"1567.00","Donicci Lofts","2768210","1071721","510",,"Harrison","St","2006","Completed","2200000",,,,,,,,"New","8","Owner",,"Too Small","510 Harrison St
+,  "
+"1709.00","Market Station Apartments","2764081","1071869","140",,"Wyandotte","St","2009","Completed","46000000","800","1700","1250",,,,"2010","New","323","Renter","Morgan Group","Yes","140 Wyandotte St
+,  "
+"286.28","Old Town Lofts","2765437","1072006","207",,"Walnut","St","2006","Completed","8400000","495","650","573",,,,"2005","Use Conversion","44","Renter","Dale Schulte","Yes - Grouped","207 Walnut St
+,  "
+"572.00","Jazz District Apartments I","2770804","1064788","1851",,"Paseo",,"2001","Completed","19000000","455","826","641",,,,"2007","New / Renovation","73","Renter","Jazz District Redevelopment Corp. and McCormack Baron & Assocs.","Yes","1851 Paseo
+,  "
+"594.15","Adler Lofts","2763781","1069015",,"W","10th","St","2003","Completed","700000",,,,"639000","799000","719000","2002","Use Conversion","4","Owner","Winteer Inc.","Yes - Grouped","314-18 W 10th St
+,  "
+"1292.00","Gillis Sundries","2768767","1071362","540",,"Gillis","St","2002","Completed","150000",,,,,,,,"Use Conversion","1","Renter","Unique City Living","Too Small","540 Gillis St
+,  "
+"1874.00","39th Terrace Redevelopment","2763071","1051732","3954"," ","Central","St","2014","Proposed","22000000","750","1200","975",,,,"2012","New","118","Renter","Dr. Ahmed Awad","Yes","3954 Central St
+,  "
+"384.00","Riverfront Mixed Use Project","2768770","1074177","1001",,"Riverfront","Dr","2013","Proposed","210000000",,,,,,,,"New","1200","Both","Forest City","Yes","1001 Riverfront Dr
+,  "
+"939.00","Bishop Spencer Place II","2761775","1049210","700","W.","44th","St","2005","Completed","22000000",,,,,,,,"New","54","Renter","Episcopal Diocese of West Missouri","Yes","700 W. 44th St
+,  "
+"286.14","Pacific House Apartments","2764829","1071328","401",,"Delaware","St","1999","Completed","2000000",,,,,,,,"Use Conversion","31","Renter","Dale Schulte / Recon","Yes - Grouped","401 Delaware St
+,  "
+"594.10","Coffee Lofts (SoHo IV; Burd & Fletcher)","2763975","1070089","321","W.","7th","St","1999","Completed","7350000",,,,"104000","320000","212000","2006","Use Conversion","49","Owner","Master Realty","Yes - Grouped","321 W. 7th St
+,  "
+"1345.00","Light Box Lofts","2765568","1066351","1512",,"Grand","Bl","2007","Completed","1750000",,,,"250000","1300000","775000","2005","Use Conversion","8","Owner","McFamily Real Estate Holdings","Too Small","1512 Grand Bl
+,  "
+"594.04","Lucas Place","2763961","1069728","323","W.","8th","St","1986","Completed","1350000",,,,,,,,"Use Conversion","9","Renter",,"Yes - Grouped","323 W. 8th St
+,  "
+"1619.00","2100 Wyandotte Condos","2764238","1063786","2100",,"Wyandotte","St","2012","Proposed","16000000",,,,"175000","475000","325000","2007","New","50","Owner","Copaken White & Blitt and Harris Construction","Too Uncertain","2100 Wyandotte St
+,  "
+"1118.05","29 Gillham Row","2766394","1058732","2901",,"Gillham","Rd","2009","Completed","5000000",,,,"245000","579000","412000","2009","New","32","Owner","Urban Coeur Development","Yes - Grouped","2901 Gillham Rd
+,  "
+"1468.00","Lofts at Admiral Properties","2766663","1070088","422",,"Admiral","Bl","2005","Completed","700000",,,,,,,,"Use Conversion","4","Owner","422 Admiral LLC","Too Small","422 Admiral Bl
+,  "
+"1705.00","Landmark Lofts","2763321","1070944","425",,"Washington","St","1998","Completed","2500000","650","900","775",,,,"2006","Use Conversion","45","Renter","Dana Gibson","Yes - Grouped","425 Washington St
+,  "
+"1553.00","Mill Creek Condos and Townhouses","2763319","1048093","4506",,"J.C. Nichols","Pkwy","2010","Completed","20000000",,,,"350000","550000","450000","2006","New","61","Owner","MacKenzie House LLC","Yes","4506 J.C. Nichols Pkwy
+,  "
+"1287.00","17th @ Broadway","2763395","1065564",,"W","17th","St","2001","Completed","1200000",,,,,,,,"Use Conversion","8","Renter",,"Too Small","404-406 W 17th St
+,  "
+"1101.00","Kirkwood","2763297","1045414","5000",,"Wyandotte","St","2008","Completed","85000000",,,,"400000","2500000","1450000","2006","New","115","Owner","DST Realty and SCOL Inc.","Yes","5000 Wyandotte St
+,  "
+"979.00","Columbia Burlap","2759692","1068465","1412","W.","12th","St","2003","Completed","3500000",,,,,,,,"Use Conversion","20","Renter","3rd Millenium","Yes","1412 W. 12th St
+,  "
+"286.08","River Market Apartments V (DElofts)","2764918","1070929","509",,"Delaware","St","1993","Completed","3450000",,,,"98000","299000","198500","2007","Use Conversion","23","Renter","Master Realty / Recon","Yes - Grouped","509 Delaware St
+,  "
+"431.00","Union Hill Place","2765029","1058744","2900",,"Grand","Av","2002","Completed","9000000",,,,,,,,"New","114","Renter","Frye & Co.","Yes","2900 Grand Av
+,  "
+"1254.00","The View","2767230","1070143","600",,"Admiral","Bl","2005","Completed","27000000",,,,"170000","800000","485000","2006","Style Conversion","143","Owner","View LLC","Yes","600 Admiral Bl
+,  "
+"1883.00","Folgers Building","2763801","1069995","701",,"Broadway","Bl","2015","Proposed","30000000","640","1300","970",,,,"2012","Use Conversion","167","Renter","Alexander Co.","Too Uncertain","701 Broadway Bl
+,  "
+"1275.00","WallStreet Tower","2765517","1068377","1101",,"Walnut","St","2006","Completed","40000000",,,,"100000","450000","275000","2006","Use Conversion","144","Owner","Wallstreet Towers LLC","Yes","1101 Walnut St
+,  "
+"1320.00","Gate City Building","2765873","1068315","1111",,"Grand","Av","2012","Proposed","5000000",,,,,,,,"Use Conversion","20","Renter","Alexander Co.","Too Uncertain","1111 Grand Av
+,  "
+"1158.00","Ellison Apartments","2763346","1055170","300","W.","Armour","Bl","2004","Completed","9400000",,,,,,,,"Style Conversion","68","Renter","Bank of America Community Development Corp.","Yes","300 W. Armour Bl
+,  "
+"652.00","Creative Arts District","2763842","1064807","1900",,"Central","St","2012","Underway","7500000",,,,,,,,"Use Conversion","50","Renter","Nate Accardo","Yes","1900 Central St
+,  "
+"1455.00","The Reserve Condos","2765896","1069104","925",,"Grand","Av","2014","Proposed","21000000",,,,"175000","750000","462500","2008","Use Conversion","155","Owner","Jason Townsend","Yes","925 Grand Av
+,  "
+"1788.00","Chatham Hotel Conversion to Senior Apartments","2763398","1053579","3701"," ","Broadway"," ","2011","Completed","9000000","520","625","573",,,,"2011","Use Conversion","40","Renter","Tont Krsnich","Yes","3701 Broadway
+,  "
+"1281.00","Manor Square Condos","2762433","1051308","4050",,"Pennsylvania","Av","2004","Completed","10150000",,,,,,,,"Use Conversion","58","Owner","Manor Square Development","Yes","4050 Pennsylvania Av
+,  "
+"1306.00","Oak St. Lofts","2766411","1065699","1700",,"Oak","St","2005","Completed","1800000",,,,,,,,"Use Conversion","12",,"Master Realty","Too Small","1700 Oak St
+,  "
+"1313.00","Waltower Lofts","2765566","1069410","823",,"Walnut","St","2005","Completed","9000000","495","650","573",,,,"2006","Use Conversion","53","Renter","Dale Schulte","Yes","823 Walnut St
+,  "
+"286.04","River Market Apartments II","2764801","1071483","309",,"Delaware","St","1989","Completed","3900000","425","1000","713",,,,"2006","Use Conversion","26","Renter","Master Realty / Recon","Yes - Grouped","309 Delaware St
+,  "
+"1039.00","Club House Lofts (KC Club)","2764698","1067648","1228",,"Baltimore","Av","2004","Completed","12000000","680","2850","1765",,,,"2006","Use Conversion","74","Renter","Mark Latshaw","Yes","1228 Baltimore Av
+,  "
+"1531.00","Power and Light Condos","2764656","1067379","1310",,"Baltimore","Av","2012","Proposed","17000000",,,,,,,,"New","102","Owner","Gailoyd Enterprises Corp.","Yes","1310 Baltimore Av
+,  "
+"396.11","Windows Lofts (former J.I. Case Building)","2763485","1062945","2117",,"Broadway",,"2010","Completed","32000000",,,,,,,,"Use Conversion","105","Renter","McGowen & Walsh Historic Renovators","Yes - Grouped","2117 Broadway
+,  "
+"1471.00","Club House Lofts West","2764461","1067677","1223",,"Wyandotte","St","2012","Proposed","50000000",,,,,,,,"New","95","Owner","KC Club Developers LLC","Too Uncertain","1223 Wyandotte St
+,  "
+"1884.00","Pickwick Building","2766229","1069127","937",,"McGee","St","2015","Proposed","35000000","700","1000","850",,,,"2012","Use Conversion","220","Renter","Gold Crown Properties","Too Uncertain","937 McGee St
+,  "
+"1286.00","Popcorn Lofts","2764203","1064520","1920",,"Wyandotte","St","1998","Completed","1000000",,,,,,,,"Use Conversion","6","Owner","Jason Johntz","Too Small","1920 Wyandotte St
+,  "
+"1297.00","The Lofts @ 1524","2765248","1066237","1524",,"Walnut","St","2004","Completed","1800000",,,,,,,,"Use Conversion","12",,"Walnut St. Redevelopment","Too Small","1524 Walnut St
+,  "
+"1727.00","City Market Townhouses","2767366","1071617","715","E.","5th","St","2011","Underway","1000000",,,,,,,,"New","5","Owner",,"Too Small","715 E. 5th St
+,  "
+"1346.00","Manhattan Lofts Condo Conversion","2767574","1069801","700","E.","8th","St","2008","Completed","28000000",,,,"85000","179000","132000","2006","Style Conversion","221","Owner","Manhattan KC LLC","Yes","700 E. 8th St
+,  "
+"594.03","Design Exchange","2763619","1069955","708",,"Broadway",,"1986","Completed","7200000",,,,,,,,"Use Conversion","48","Renter","Master Realty / Recon","Yes - Grouped","708 Broadway
+,  "
+"594.19","Fountains Lofts","2763596","1069903","800",,"Broadway",,"2007","Completed","18000000",,,,"200000","415000","307500","2007","Use Conversion","46","Owner","Master Realty Properties","Yes - Grouped","800 Broadway
+,  "
+"286.22","Lighthouse Lofts","2764137","1070922","220","W","5th","St","2012","Proposed","12375000",,,,"250000","650000","450000","2006","New","45","Owner","BBL","Yes - Grouped","220 W 5th St
+,  "
+"1429.00","East Armour Apartment Renovations","2767384","1054788","900","E.","Armour","Bl","2009","Completed","57000000",,,,,,,,"Renovation","303","Renter","Eagle Point Enterprises","Yes","900 E. Armour Bl
+,  "
+"1246.00","Power and Light District","2765371","1066920","1230",,"Walnut","St","2012","Proposed","66000000",,,,,,,,"New","240","Owner","Cordish Co.","Yes","1230 Walnut St
+,  "
+"594.05","SoHo III","2764113","1069845","312","W.","8th","St","1986","Completed","16350000","580","1400","990",,,,"2006","Use Conversion","109","Renter","Master Realty / Recon","Yes - Grouped","312 W. 8th St
+,  "
+"760.00","Centennial Villa Apartments","2771336","1064844","1800",,"Woodland","Av","2001","Completed","4000000",,,,,,,,"New","46","Renter","McCormack Baron and Assocs.","Yes","1800 Woodland Av
+,  "
+"1791.00","Lucas Place Conversion to Housing","2764021","1069682","323","W","8th","St","2012","Proposed","26000000","925","1245","1085",,,,"2011","Use Conversion","130","Renter","LandWhite Developers LLC","Yes","323 W 8th St
+,  "
+"1568.00","Star Lofts","2765570","1065722","1624",,"Grand","Bl","2008","Completed","10000000","445","610","528",,,,"2006","Use Conversion","46","Renter",,"Yes","1624 Grand Bl
+,  "
+"1620.00","Union Hill II Housing","2766329","1058881","2821",,"Mc Gee","Tfwy","2010","Underway","28000000",,,,,,,,"New / Renovation","100","Both","Union Hill Development Group","Yes","2821 Mc Gee Tfwy
+,  "
+"286.18","Townley Lofts","2765258","1072028","200",,"Walnut","St","2001","Completed","13500000","950","1800","1375",,,,"2006","Use Conversion","68","Renter","BBL","Yes - Grouped","200 Walnut St
+,  "
+"1303.00","Courthouse Apartments","2767177","1069350","900",,"Cherry","St","2005","Completed","1800000",,,,,,,,"Use Conversion","12",,,"Too Small","900 Cherry St
+,  "
+"396.04","Hotel Monroe","2764866","1064466","1904",,"Main","St","2006","Completed","4700000",,,,"400000","670000","535000","2006","Use Conversion","8","Owner","Ben Sundermaier / JoAnn Nero","Yes - Grouped","1904 Main St
+,  "
+"1454.00","Graphic Arts Building","2764409","1068979","208","W.","10th","St","2007","Completed","11000000","515","825","670",,,,"2006","Use Conversion","58","Renter","Dale Schulte","Yes","208 W. 10th St
+,  "
+"286.13","Volker Place","2764929","1071773","6","W","3rd","St","1998","Completed","7350000",,,,,,,,"Use Conversion","49","Renter","Dale Schulte / Recon","Yes - Grouped","6 W 3rd St
+,  "
+"940.00","CityPlace @ Westport","2762107","1049956","700","W","43rd","St","2003","Completed","35000000","840","1320","1080",,,,"2002","New","288","Renter","Lincoln Property Co. and DST Realty","Yes","700 W 43rd St
+,  "
+"1565.00","Antheus Armour Renovations","2765581","1054961","350","E.","Armour","Bl","2010","Completed","30000000",,,,,,,,"Renovation","409","Renter","Antheus Capital LLC","Yes","350 E. Armour Bl
+,  "
+"1344.00","Villas on Plaza West","2760510","1047714","4600",,"Roanoke","Pkwy","2006","Completed","10000000",,,,"1200000","1600000","1400000","2005","New","7","Owner","Plaza West Development LLC","Yes","4600 Roanoke Pkwy
+,  "
+"470.00","Jefferson on the Plaza Apartments","2764910","1046311","4800",,"Oak","St","2000","Completed","39235700","795","1780","1288",,,,"2004","New","396","Renter","JPI","Yes","4800 Oak St
+,  "
+"1255.00","Campbell Paint / SoHo South","2765418","1066246","1535",,"Walnut","St","2001","Completed","9000000",,,,"175000","350000","262500","2008","Use Conversion","58","Owner","Master Realty","Yes","1535 Walnut St
+,  "
+"1123.00","The Liberty (Dakota Lofts)","2763263","1062120","360","W.","Pershing","Rd","2007","Completed","8900000",,,,"124000","600000","362000","2007","Use Conversion","44","Owner","Ben Bryan","Yes","360 W. Pershing Rd
+,  "
+"1842.00","46 Penn Apartments","2762274","1047915","516","W","46th","St","2013","Proposed","30000000","1200","2200","1700",,,,"2011","New","177","Renter","Price Development Group","Yes","516 W 46th St
+,  "
+"1276.00","46 Washington Townhomes","2762567","1047862","4537",,"Washington","St","2006","Completed","8000000",,,,"265000","659000","462000","2006","New","18","Owner","MacKenzie House LLC","Yes","4537 Washington St
+,  "
+"435.00","Villa Del Sol Residential","2761228","1064484","1915",,"Holly","St","1998","Completed","11820850",,,,,,,,"New","120","Renter","Kansas City Housing Authority","Yes","1915 Holly St
+,  "
+"381.00","Columbus Park Infill","2768556","1071783",,,"Gillis","St","2002","Completed","250000",,,,,,,,"New","2","Owner","HEDFC","Yes","516A/516B Gillis St
+,  "
+"1467.00","Courthouse Lofts","2765987","1069529","811",,"Grand","Av","2011","Completed","40000000","555","730","643",,,,"2011","Use Conversion","176","Renter","Alexander Co.","Yes","811 Grand Av
+,  "
+"1683.00","Park Reserve Condos Phase I","2764212","1058327","2980",,"Baltimore","Av","2010","Completed","16000000",,,,"120000","190000","155000","2008","Use Conversion","88","Owner","Park Reserve LLC","Yes","2980 Baltimore Av
+,  "
+"594.11","West 7th Street Lofts","2763980","1070190","318","W.","7th","St","1999","Completed","8100000","675","1200","938",,,,"2006","Use Conversion","54","Renter","George Birt","Yes - Grouped","318 W. 7th St
+,  "
+"1288.00","Cherry St. Apts.","2767008","1071225","520",,"Cherry","St","2001","Completed","400000",,,,,,,,"New","4","Renter",,"Too Small","520 Cherry St
+,  "
+"1540.00","1728 Holmes","2767228","1065105","1728",,"Holmes","St","2007","Completed","5800000",,,,,,,,"New","7","Owner","Priority Realty One","Yes","1728 Holmes St
+,  "
+"1319.00","Buick Lofts","2766062","1070137","220",,"Admiral","Bl","2005","Completed","2800000","500","2000","1250",,,,"2006","Use Conversion","22","Renter",,"Too Small","220 Admiral Bl
+,  "
+"286.30","Bridgeworks Lofts - II","2766159","1070933","301","E","Missouri","Av","2007","Completed","20000000",,,,"350000","450000","400000","2006","New","75","Owner","George Birt","Yes - Grouped","301 E Missouri Av
+,  "
+"286.09","Askew Saddlery Apartments","2764722","1071785","213",,"Delaware","St","1996","Completed","9000000",,,,,,,,"Use Conversion","60","Renter","Dale Schulte / Recon","Yes - Grouped","213 Delaware St
+,  "
+"943.00","Hanover Lofts","2764945","1068832","15","W.","10th","St","2003","Completed","7000000","459","620","540",,,,"2006","Use Conversion","50","Renter","DLS Historic Partners","Yes","15 W. 10th St
+,  "
+"1293.00","Lofts @ 39/Wyoming ","2759171","1052710",,,"Wyoming","St","2002","Completed","300000",,,,,,,,"Use Conversion","2",,"Umbrella Group Arts","Too Small","3820-22 Wyoming St
+,  "
+"594.14","908 Broadway Lofts","2763569","1069297","908",,"Broadway",,"2003","Completed","3600000",,,,,,,,"Use Conversion","24","Renter","DST / Dworak","Yes - Grouped","908 Broadway
+,  "
+"1882.00","Argyle Building","2766171","1068094","306","E","12th","St","2014","Proposed","20000000",,,,,,,,"Use Conversion","102","Renter","Hunt Midwest Real Estate Development and Sunflower Group","Too Uncertain","306 E 12th St
+,  "
+"1118.01","30 Gillham Row","2766461","1058427","2939",,"Gillham","Rd","2006","Completed","2400000",,,,"197000","298000","247500","2006","New","11","Owner","Urban Coeur Development","Yes - Grouped","2939 Gillham Rd
+,  "
+"1430.00","East Village","2767258","1068620","950",,"Holmes","St","2015","Underway","123846154",,,,"195000","195000","195000","2006","New","700","Both","East Village LLC","Yes","950 Holmes St
+,  "
+"396.12","Haden Lofts","2763505","1063326","2109",,"Broadway",,"2008","Completed","8100000",,,,"200000","500000","350000","2007","Use Conversion","34","Owner","Andrew Haden","Yes - Grouped","2109 Broadway
+,  "
+"1536.00","41 Penn Condos","2763010","1050602","4129",,"Pennsylvania","Av","2008","Completed","9000000",,,,"210000","440000","325000","2006","New","32","Owner","Classical Developments","Yes","4129 Pennsylvania Av
+,  "
+"1415.00","Gumbel Building Condo Conversion","2765549","1069648","801",,"Walnut","St","2006","Completed","9000000",,,,"170000","350000","260000","2006","Use Conversion","32","Owner","Latshaw Development LLC","Yes","801 Walnut St
+,  "
+"396.03","Piper Lofts (HD Lee) ","2764371","1064041","117","W.","20th","St","2007","Completed","32000000","875","2200","1538",,,,"2010","Use Conversion","118","Renter","McGowen & Walsh and Mike Rainen","Yes - Grouped","117 W. 20th St
+,  "
+"594.06","SoHo West I","2764215","1070189","616",,"Central","St","1986","Completed","8100000",,,,,,,,"Use Conversion","54","Renter","Master Realty / Recon","Yes - Grouped","616 Central St
+,  "
+"1708.00","Cold Storage & Ice Co. Bldg.","2766384","1072226","416","E","3rd","St","2007","Completed","37000000","575","1300","938",,,,"2006","Use Conversion","224","Renter","Gary Hassenflu","Yes - Grouped","416 E 3rd St
+,  "
+"1621.00","46 Summit","2761620","1047729","4600",,"Jefferson","St","2012","Proposed","72600000","4100","6990","5545",,,,"2008","New","264","Both","MacKenzie House LLC","Yes","4600 Jefferson St
+,  "
+"286.25","First and Main Lofts","2764609","1072193","136",,"Main","St","2007","Completed","4000000",,,,"190000","500000","345000","2006","Use Conversion","25","Owner","Jonathan Arnold and Chris Sally","Yes - Grouped","136 Main St
+,  "
+"1885.00","River Market West","2763927","1071267","230","W","4th","St","2015","Proposed","13000000","1100","1500","1300",,,,"2012","New","117","Renter","George Birt","Too Uncertain","230 W 4th St
+,  "
+"1279.00","Jazz District Apartments II","2770638","1064819","1635","E.","18th","St","2007","Completed","16000000","548","900","724",,,,"2007","New","78","Renter","Jazz District Redevelopment Corp. and McCormack Baron Salazar","Yes","1635 E. 18th St
+,  "
+"286.05","River Market Apartments III","2764674","1071496","310",,"Delaware","St","1990","Completed","5100000","425","1000","713",,,,"2006","Use Conversion","34","Renter","Master Realty / Recon","Yes - Grouped","310 Delaware St
+,  "
+"1301.00","2004 Grand Lofts","2765478","1063985","2004",,"Grand","Av","2012","Proposed","875000",,,,,,,,"Use Conversion","5","Owner","Brian Williams","Too Small","2004 Grand Av
+,  "
+"1314.00","Jefferson Heights","2762766","1065530","1700",,"Jefferson","St","2007","Completed","1250000",,,,,,,,"New","11","Owner","Westside Housing Organization, Inc.","Too Small","1700 Jefferson St
+,  "
+"982.00","The Madison Townhouses","2761180","1047978","4541",,"Madison","Av","2004","Completed","7000000",,,,"220000","360000","290000","2003","New","26","Owner","MacKenzie House LLC","Yes","4541 Madison Av
+,  "
+"1750.00","Stockyards Place","2759013","1066324","1521",,"Genessee","St","2011","Proposed","4000000",,,,,,,,"New","13","Owner","Bill Haw","Yes","1521 Genessee St
+,  "
+"1161.00","909 Walnut","2765535","1069210","909",,"Walnut","St","2005","Completed","57000000","777","2155","1466",,,,"2006","Use Conversion","161","Renter","909 Walnut Redevelopment","Yes","909 Walnut St
+,  "
+"1308.00","Professional Building","2765854","1068397","1103",,"Grand","Av","2006","Completed","21000000","550","900","725",,,,"2006","Use Conversion","132","Renter","Alexander Co.","Yes","1103 Grand Av
+,  "
+"594.02","8th Street Place","2763462","1069908","412","W.","8th","St","1986","Completed","8250000",,,,,,,,"Use Conversion","55","Renter","Recon","Yes - Grouped","412 W. 8th St
+,  "
+"286.17","523 Grand Lofts","2765997","1071048","523",,"Grand","Av","2001","Completed","4000000",,,,"149000","375000","262000","2006","Use Conversion","28","Owner","Fort Point, Inc.","Yes - Grouped","523 Grand Av
+,  "
+"1472.00","Washington Lofts","2763110","1064858","1820",,"Washington","St","2005","Completed","1600000",,,,"344000","525000","434500","2006","Use Conversion","4","Owner","Nottingham Apartment Associates","Too Small","1820 Washington St
+,  "
+"1792.00","Antheus Armour Renovations II","2765581","1054961","214","E","Armour","Bl","2013","Underway","62000000","618","1995","1307",,,,"2011","Renovation","800","Renter","Antheus Capital LLC","Yes","214 E Armour Bl
+,  "
+"776.00","Loretto Apartment Conversion","2760354","1052409","1111","W.","39th","St","1997","Completed","9000000",,,,,,,,"Use Conversion","144","Both","Loretto Redevelopment Corp.","Yes","1111 W. 39th St
+,  "
+"594.18","700 Broadway","2763585","1070059","700",,"Broadway",,"2007","Completed","8750000",,,,,,"130000","2007","Use Conversion","47","Owner","Master Realty","Yes - Grouped","700 Broadway
+,  "
+"1585.00","DST 51st and Main Mixed Use","2763605","1044397","5020",,"Main","St","2012","Proposed","16000000",,,,,,,,"New","125","Renter","DST Realty Inc.","Yes","5020 Main St
+,  "
+"1157.00","W Lofts","2764387","1065068","1803",,"Wyandotte","St","2005","Completed","3000000",,,,"150000","400000","275000","2006","Use Conversion","17","Owner","Shaul Jolles and Doug Krtek","Yes","1803 Wyandotte St
+,  "
+"1285.00","Anne's Lofts","2762782","1060986","501","W.","26th","St","1997","Completed","600000",,,,,,,,"Use Conversion","12","Owner","David Sosland","Too Small","501 W. 26th St
+,  "
+"1296.00","1330 Grand","2765605","1067164","1330",,"Grand","Av","2004","Completed","700000",,,,,,,,"Use Conversion","4","Owner","Jennifer Ingram","Too Small","1330 Grand Av
+,  "
+"1118.02","Triangle Townhomes","2766612","1058172","2938",,"Cherry","St","2004","Completed","1400000",,,,"168000","398000","283000","2006","New","6","Owner","Urban Coeur Development","Yes - Grouped","2938 Cherry St
+,  "
+"1256.00","Midtown Marketplace Apts.","2765711","1054835","3500",,"Gillham","Rd","2007","Completed","12000000",,,,,,,,"Renovation","285","Renter","1st General Management","Yes","3500 Gillham Rd
+,  "

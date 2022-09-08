@@ -1,0 +1,38 @@
+CiudadId,Ciudad,City,Pais,Country,Lat,Long,Poblacion,Superficie,Ranking,Puntaje,PrimeraMedicionIndicadores,PrimeraMedicionEncuestas,Imagen,MostrarEnAcercaDeNosotros
+CUM,Cumaná,Cumaná,Venezuela,Venezuela,10.4564,-64.1675,368204,65,,,2015,2015,https://mydata.iadb.org/views/m7ru-9336/files/SzQ_VwoL9aMkSy_uUJUqVqqttrMvChFSfDHO_ew2MJo,
+PRA,Paraná,Parana,Argentina,Argentina,-31.733333,-60.533333,247863,137,,2.01,2015,2013,https://mydata.iadb.org/views/m7ru-9336/files/WvcuzHvhdRVnC6dBAtxAVugrMaGYeqiqw6Evd61o0bQ,
+LHS,Las Heras,Las Heras,Argentina,Argentina,-46.55,-68.95,17821,8.8,,1.51,2014,2013,https://mydata.iadb.org/views/m7ru-9336/files/xWHABah3_UdeqAhdO559_6GXcryXTMckpGB27foGidM,
+SLA,Salta,Salta,Argentina,Argentina,-24.783333,-65.416667,535303,60,,2.18,2015,2013,https://mydata.iadb.org/views/m7ru-9336/files/CeZTRFDAmFlmXOk00Y_tJ-qWFw5kO6LPVGGkV-_XFoo,
+CBB,Cochabamba Metropolitana,Cochabamba Metropolitana,Bolivia,Bolivia,-17.383333,-66.166667,1536145,189.2,,1.65,2013,2012,https://mydata.iadb.org/views/m7ru-9336/files/qPTvSdhFa-yJIOcv2RqQstQRxwShod0zMLEcf9qch6s,
+GIA,Goiania,Goiania,Brasil,Brazil,-16.678611,-49.253889,1300000,717,,2.26,2012,,https://mydata.iadb.org/views/m7ru-9336/files/k0oMdUVxsDsfJg9ri0c2ZlHao78zhSlJ5jxktOiFDgI,true
+JPA,Joao Pessoa,Joao Pessoa,Brasil,Brazil,-7.115,-34.863056,720954,210.6,,2.28,2014,2013,https://mydata.iadb.org/views/m7ru-9336/files/5N9YK2X1nbS2vnRTWHJiTCCqKnDfERQdf6vT7EFlTR4,
+FLN,Florianopolis,Florianopolis,Brasil,Brazil,-27.595378,-48.54805,421203,436.5,,2.21,2015,2014,https://mydata.iadb.org/views/m7ru-9336/files/di8wmMjrerGaDIevEy62Ga6VKbADa31qM-RBUsx30Xk,
+VIT,Vitoria,Vitoria,Brasil,Brazil,-20.319444,-40.337778,313300,93,,2.43,2015,2014,https://mydata.iadb.org/views/m7ru-9336/files/VEa0fjBKCQKyx0JkmKErEYsiYDRfQG0YbypBmJrGczc,
+ZAL,Valdivia,Valdivia,Chile,Chile,-39.819586,-73.24521,140934,1016,,2.54,2015,2013,https://mydata.iadb.org/views/m7ru-9336/files/LVe9lR6IwTF-k8pCmmna3s0f0slT0R6WuhGI2kmpIPU,
+BAQ,Barranquilla,Barranquilla,Colombia,Colombia,10.963889,-74.796389,1206946,166,,2.04,2013,2012,https://mydata.iadb.org/views/m7ru-9336/files/TFyiw4N_O_hQS2RIOB4yt6qIFA7H5PJ4B7y479B_Dhc,
+BGA,Bucaramanga,Bucaramanga,Colombia,Colombia,7.125278,-73.119722,502654,165,,2.21,2013,2012,https://mydata.iadb.org/views/m7ru-9336/files/L8LDXnCNW-UwIHeSF1UuyBOOUSHAlN66Q10aFTQt3F4,
+PEI,Pereira,Pereira,Colombia,Colombia,4.813333,-75.696111,358681,702,,2.14,2013,2012,https://mydata.iadb.org/views/m7ru-9336/files/V4BO4XbuUTger0pq3noyHUsm5Vv-nibyRqVYzBa5Zjg,
+PSO,Pasto,Pasto,Colombia,Colombia,1.213611,-77.281111,312759,1181,,2.09,2015,2013,https://mydata.iadb.org/views/m7ru-9336/files/itSnrYYSoAJ_ixrvR35rcEnPqyetl9TGyurxoFGHTcc,
+MZL,Manizales,Manizales,Colombia,Colombia,5.068889,-75.5175,342620,571.8,,2.36,2013,2012,https://mydata.iadb.org/views/m7ru-9336/files/mpfeqiJzOQiZWiEAnTNYmC28DK1eOuaQgCz06-ok6zg,
+CUE,Cuenca,Cuenca,Ecuador,Ecuador,-2.883333,-78.983333,385000,70,,2.32,2014,2013,https://mydata.iadb.org/views/m7ru-9336/files/nT5z3lU0Qwpxm0DvRTF_Ax6TgZkkPcG80izEeXNAKho,true
+AAZ,Quetzaltenango,Quetzaltenango,Guatemala,Guatemala,14.833333,-91.516667,152223,120,,1.82,2014,2014,https://mydata.iadb.org/views/m7ru-9336/files/Rcbbzl5ukmGYbRTVLbq0Uk-jFsT1N4E12PDv3iLx1zQ,true
+TGU,Tegucigalpa,Tegucigalpa,Honduras,Honduras,14.081667,-87.206944,1126534,201.5,,1.56,2015,,https://mydata.iadb.org/views/m7ru-9336/files/N4U-q9LfvQa6YPMBXMsMNv9rXWEB4xrUFl0yl551Yu8,
+MBJ,Montego Bay,Montego Bay,Jamaica,Jamaica,18.471111,-77.918889,108014,211.1,,1.44,2015,2013,https://mydata.iadb.org/views/m7ru-9336/files/N7EW2q-dIkc0RFs2Aa6A9ZScQQTfgUQkhvCZ9eWmWfU,
+JAL,Xalapa,Xalapa,México,Mexico,19.533333,-96.916667,424755,118.4,,2.18,2014,2014,https://mydata.iadb.org/views/m7ru-9336/files/thl0funGzlR5stbaH8naAgG3G-9ENzNBkbFNykY8_XI,
+CPE,Campeche,Campeche,México,Mexico,19.830125,-90.534909,211671,3410.64,,1.95,2014,2014,https://mydata.iadb.org/views/m7ru-9336/files/oMbZR9ZGKcBPq5sW8866085OqoJRiW2DNpBI3NjNDFo,
+MGA,Managua,Managua,Nicaragua,Nicaragua,12.132778,-86.250278,1254878,267.2,,1.89,2013,2013,https://mydata.iadb.org/views/m7ru-9336/files/qWAYOHk9Sqc1hJGY-CrbM94yO3vfkYT67iVdDb3Ma_4,true
+TRU,Trujillo,Trujillo,Perú,Peru,-8.111667,-79.028056,788236,311.72,,1.95,2012,,https://mydata.iadb.org/views/m7ru-9336/files/iYSnVIvFXby6K30F_pJd3oidVyTSen_5NWqpt8Zxv04,
+STA,Santa Ana,Santa Ana,El Salvador,El Salvador,13.994167,-89.559722,265000,400,,1.72,2012,,https://mydata.iadb.org/views/m7ru-9336/files/vvqvhihNzyQ2IHZpVC4IyAQy7G8LZvdY9Tn9HYUTJtY,
+POS,Puerto España,Puerto España,Trinidad y Tobago,Trinidad and Tobago,10.666667,-61.516667,55000,13.45,,1.83,2012,,https://mydata.iadb.org/views/m7ru-9336/files/hdTAnmn4kpLIKJaU3c07vTX7j4o1CicuAoMRKoR6fi8,
+MVD,Montevideo,Montevideo,Uruguay,Uruguay,-34.833333,-56.167222,1319108,525.54,,2.43,2012,2011,https://mydata.iadb.org/views/m7ru-9336/files/41VPb7bRC91J4i1-6yZRhTE2-3EeG8H9vhYuKYcFGng,true
+VUP,Valledupar,Valledupar,Colombia,Colombia,10.4833,-73.25,443210,4225,,,2015,,https://mydata.iadb.org/views/m7ru-9336/files/6e7CWopTw5uVfrdEl2Vl5HyGFI_6TLnxxaQZ9gi356E,
+MTR,Montería,Monteria,Colombia,Colombia,8.748056,-75.881389,288192,3141,,1.91,2015,2013,https://mydata.iadb.org/views/m7ru-9336/files/TYRTcMHuMr2Uzqota-LbKTYCDn3v6nNLslsojNQttXk,
+ASU,Asunción Metropolitana,Asunción Metropolitana,Paraguay,Paraguay,-25.300556,-57.635833,2232631,686,,1.71,2014,2013,https://mydata.iadb.org/views/m7ru-9336/files/b9oLMFhebO48bG5JacPL_DDTUWsjUrDpJKLg1jpdCIU,true
+STI,Santiago de los Caballeros,Santiago de los Caballeros,República Dominicana,República Dominicana,19.466667,-70.7,667798,10378,,,2015,,https://mydata.iadb.org/views/m7ru-9336/files/CLUcXhv74q_5kI2htwiYpy2667bqXA05Uetv2UQulkc,
+PAC,Ciudad de Panamá,Panama City,Panamá,Panama,8.983333,-79.516667,813097,275,,1.81,2015,2015,https://mydata.iadb.org/views/m7ru-9336/files/Y8SfX1vWpXxHPZPqpQtG3UCZr98FdlZkCYcfRqv2RWg,
+PMW,Palmas,Palmas,Brasil,Brazil,-10.249091,-48.324286,228332,2219,,2.03,2015,,https://mydata.iadb.org/views/m7ru-9336/files/LKHBRnnYJXA8Hhv9HTnkts3tJHn6p8qP8PsAV7VWNfA,
+ALO,Añelo,Añelo,Argentina,Argentina,-38.35,-68.783333,2449,7303,,1.82,2014,2014,https://mydata.iadb.org/views/m7ru-9336/files/SB4xOawWR7gCAI1jxFh8cPQUhqVzIdpiIRjNBbe2NAU,true
+HUA,Huancayo,Huancayo,Perú,Perú,-12.068636,-75.210298,410689,110.65,,,2016,2016,https://mydata.iadb.org/views/m7ru-9336/files/916db991-f462-42b8-b83a-355792e85688,
+SCJ,San José,San Jose,Costa Rica,Costa Rica,9.928069,-84.090725,288054,45,,,2016,2016,https://mydata.iadb.org/views/m7ru-9336/files/517e38e4-8926-4b2d-9098-8c11196c1888,
+MDQ,Mar del Plata,Mar del Plata,Argentina,Argentina,-37.979858,-57.589794,628560,124.4,,2.2,2013,2012,https://mydata.iadb.org/views/m7ru-9336/files/h4be8HVwwrp6z7iPowErsmenR9BrPnVCWK-s_EdT2Y4,
+LAP,La Paz,La Paz,México,Mexico,24.142641,-110.312753,215178,54.3,,1.91,2012,2012,https://mydata.iadb.org/views/m7ru-9336/files/1037d8c4-e4cb-47af-a0e6-3c18787956e9,
