@@ -1,0 +1,566 @@
+"fid","objectid","status","score","side","stan_addr","location","numtrips","shelter","servicepro","time_","busstop","busroute","direction","frequency","location_1"
+"13","14","T","69",,"| | 14TH | ST | | | | INDEPENDENCE | AVE | |","14th Street & Independence Avenue","77","No","PRTCPM","Afternoon"," "," "," ",,"14th Street & Independence Avenue
+,  "
+"17","18","M","85",," |  | M | ST |  |  |  | ISAAC HULL | AVE | SE","M Street across Isaac Hull Avenue","7","No","MTA, PRTC AM/PM","Afternoon","Metrobus stop"," "," ",,"M STREET & ISAAC HULL AVENUE SE
+,  "
+"27","28","T","69",,"| | 3RD | ST | | | | CONSTITUTION | AVE | |","3rd Street & Constitution Avenue","2","No","PRTCPM","Afternoon","US Courthouse"," "," ",,"3rd Street & Constitution Avenue
+,  "
+"30","31","M","71",," |  | E | ST | NE | N |  | NORTH CAPITOL | ST | NE","E Street & N North Capitol Street","2","No","MTA, PRTC PM","Afternoon"," "," "," ",,"E ST NE & N NORTH CAPITOL ST NE
+,  "
+"42","43","T","69",,"| | 18TH | | | | | E | ST | NW |","18th & E St NW","20"," ","MTA, Loudoun County AM","6:04 AM - 8:50 AM","Metro Shelter - SW corner"," "," ",,"18th & E St NW
+,  "
+"43","44","M","69",,"| | 18TH | | | | | G | ST | NW |","18th & G St NW","20"," ","Loudoun County AM","6:05 AM - 8:52 AM","Metro Shelter - SW corner"," "," ",,"18th & G St NW
+,  "
+"44","45","M","69",,"| | 18TH | | | | | K | ST | NW |","18th & K St. NW","20"," ","MTA, Loudoun County AM","6:07 AM - 8:54 AM","Metro Shelter - SW corner"," "," ",,"18th & K St. NW
+,  "
+"50","51","T","69",,"| | 12TH | ST | | | | D | ST | |","12th Street & D Street (500 12th St)","7","No","PRTCPM","Afternoon"," "," "," ",,"12th Street & D Street (500 12th St)
+,  "
+"69","70","M","85",,"| | M | ST | | | | 9TH | ST | SE |","M st & 9th St SE",," ","MTA"," ","Washington Navy Yard","903/915","B/B",,"M st & 9th St SE
+,  "
+"70","71","T","69",,"| | 14TH | ST | | | | INDEPENDENCE | AVE | |","14th Street & Independence Avenue","55","No","PRTCAM","Morning"," "," "," ",,"14th Street & Independence Avenue
+,  "
+"79","80","M","64",,"| | INDEPENDENCE | AVE | | | | LENFANT | PL | SW |","Independence ave & LEnfant Pl SW","20"," ","MTA, Loudoun County AM/PM","6:25 AM - 9:06 AM","SW Corner of LEnfant - no sign"," "," ",,"Independence ave & LEnfant Pl SW
+,  "
+"131","132","M","69",,"| | INDEPENDENCE | AVE | | | | NEW JERSEY | AVE | SW |","Independence Ave & New Jersey Ave SW",," ","MTA"," "," ","922","B",,"Independence Ave & New Jersey Ave SW
+,  "
+"136","137","M","64",,"| | INDEPENDENCE | AVE | | | | LENFANT | PL | SW |","Independence Ave & LEnfant Pl SW",," ","MTA, Loudoun County AM/PM"," ","Dept. of Energy","907/909/922","B/B/B",,"Independence Ave & LEnfant Pl SW
+,  "
+"141","142","T","69",,"| | K | ST | | | | 17TH | AVE | NW |","K St & 17th St./Connecticut Ave NW",," ","MTA, Loudoun County AM","Morning","Farragut M","902/904/905/909","B/B/B/B",,"K St & 17th St./Connecticut Ave NW
+,  "
+"147","148","M","85",,"| | M | ST | | | | 3RD | ST | SE |","M st & 3rd St SE",," ","MTA"," ","Southeast Federal Center","903","B",,"M st & 3rd St SE
+,  "
+"148","149","M","85",,"| | M | ST | | | | 4TH | ST | SW |","M st & 4th St SW",," ","MTA, PRTC AM/PM","Morning","Waterside Mall, Waterfront M","903","B",,"M st & 4th St SW
+,  "
+"149","150","M","85",," |  | M | ST |  |  |  | ISAAC HULL | AVE | SE","M St & Isaac Hall Ave (6th St.), SE",," ","MTA, PRTC AM/PM"," "," ","903","B",,"M ST & ISAAC HULL AVE SE
+,  "
+"151","152","M","71",,"N |  | NORTH CAPITOL | ST |  |  |  | E | ST | NE","N North Capitol & E St",," ","MTA, PRTC PM","Morning"," Union Station M","922","B",,"N NORTH CAPITOL ST & E ST NE
+,  "
+"179","180","T","69",,"| | M | ST | | | | HALF | ST | |","M Street & Half Street","4","Yes","PRTCAM","Morning","Navy Yard Metro"," "," ",,"M Street & Half Street
+,  "
+"182","183","M","69",,"| | M | ST | | | | ISAAC HULL | AVE | |","M Street & Isaac Hull Avenue","4","No","MTA, PRTC AM/PM","Morning"," "," "," ",,"M Street & Isaac Hull Avenue
+,  "
+"161","162","M","100",,"200 |  |  | MALCOLM X | AVE | SE","S South Capitol St & Malcolm X Ave",," ","MTA"," ","Bolling AFB Main Gate","907","B",,"200 MALCOLM X AVE SE
+,  
+(38.845313, -77.003104)"
+"163","164","M","38",,"6900 |  |  | GEORGIA | AVE | NW","Walter Reed Hospital",," ","MTA"," ","16th st St NW","915/929","B/B",,"6900 GEORGIA AVE NW
+,  
+(45.07985, -93.365456)"
+"183","184","M","100",,"200 |  |  | MALCOLM X | AVE | SE","S South Capitol Street & Malcom X Avenue","4","No","PRTCAM","Morning"," Bolling AFB Main Gate"," "," ",,"200 MALCOLM X AVENUE SE
+,  
+(38.845313, -77.003104)"
+"15","16","M","100",,"200 |  |  | MALCOLM X | AVE | SE","Malcolm X Avenue & S South Capitol Street","7","Yes","PRTCPM","Afternoon","Bolling AFB Main Gate"," "," ",,"200 MALCOLM X AVENUE SE
+,  
+(38.845313, -77.003104)"
+"140","141","M","38",,"2200 |  |  | K | ST | NW","K st & 22nd St NW",," ","MTA"," "," ","901","B",,"2200 K ST NW
+,  
+(38.902356, -77.049256)"
+"139","140","M","85",,"| | K | ST | | | | 20TH | ST | NW |","K st & 20th St NW",," ","MTA"," "," ","901","B",,"K st & 20th St NW
+,  
+(38.902655, -77.044898)"
+"102","103","T","85",,"| | 14TH | ST | | | | PENNSYLVANIA | AVE | NW |","14th St & Pennsylvania Ave NW",," ","MTA, PRTC AM/PM, Loudoun County AM"," ","Ronald Reagan Bldg.","922","B",,"14th St & Pennsylvania Ave NW
+,  
+(38.896126, -77.03197)"
+"0","1","M","85",," |  | 4TH | ST | NW |  |  | MADISON | AVE | NW","4th Street & Madison Avenue","13","No","PRTCAM","Morning","National Gallery of Art"," "," ",,"4TH STREET NW & MADISON AVENUE NW
+,  
+(48.806633, -102.245074)"
+"89","90","M","85",,"| | I | ST | | | | CONNECTICUT | AVE | NW |","I st & Connecticut Ave NW","21"," ","Loudoun County PM","3:47 PM - 6:05 PM","NE corner - front of Army/Navy Building"," "," ",,"I st & Connecticut Ave NW
+,  
+(38.901325, -77.038541)"
+"174","175","M","69",,"| | VIRGINIA | AVE | | | | 21ST | ST | |","Virginia Avenue & 21st Street","42","No","PRTC AM/PM, Loudoun County AM","Morning"," "," "," ",,"Virginia Avenue & 21st Street
+,  
+(47.989712, -122.197042)"
+"116","117","M","85",,"| | 19TH | ST | | | | M | ST | NW |","19th st & M St NW",," ","MTA"," "," ","907/929/995","N/S/N",,"19th st & M St NW
+,  
+(38.905637, -77.04345)"
+"5","6","M","69",,"| | VIRGINIA | AVE | | | | 21ST | ST | |","Virginia Avenue & 21st Street","54","No","PRTC AM/PM, Loudoun County AM","Afternoon","State Dept"," "," ",,"Virginia Avenue & 21st Street
+,  
+(47.989712, -122.197042)"
+"121","122","M","85",,"| | 23RD | ST | | | | I | ST | NW |","23rd st & I St NW",," ","MTA","Morning","Foggy Bottom-GWU M","901/909","B/B",,"23rd st & I St NW
+,  
+(38.900681, -77.050123)"
+"10","11","M","69",,"| | H | ST | | | | MADISON | PL | |","H Street & Madison Place","53","No","PRTCPM","Afternoon","Hamilton Square"," "," ",,"H Street & Madison Place
+,  
+(38.900244, -77.035142)"
+"57","58","M","85",,"| | 13TH | ST | | | | E | ST | NW |","13th st & E St NW",," ","MTA","Morning","Metro Center M","915/909","S/S",,"13th st & E St NW
+,  
+(38.896124, -77.029662)"
+"144","145","M","85",,"| | L | ST | | | | 25TH | ST | NW |","L st & 25th St NW",," ","MTA"," ","Columbia Hospital","907","S",,"L st & 25th St NW
+,  
+(38.903676, -77.053316)"
+"155","156","M","69",,"| | OVERLOOK | AVE | | | | LABORATORY | RD | |","Overlook Ave & Laboratory Rd.",," ","MTA"," ","Naval Research Lab","907","B",,"Overlook Ave & Laboratory Rd.
+,  
+(38.822536, -77.017422)"
+"178","179","M","69",,"| | MAINE | AVE | | | | 6TH | ST | |","Maine Avenue & 6th Street","4","No","PRTCAM","Morning"," "," "," ",,"Maine Avenue & 6th Street
+,  
+(30.279704, -89.777185)"
+"190","191","T","69",,"| | C | ST | | | | 14TH | ST | |","C Street & 14th Street","5","No","PRTCAM","Morning","Bureau of Engraving & Printing Annex"," "," ",,"C Street & 14th Street
+,  
+(41.434962, -82.685882)"
+"25","26","T","69",,"| | CONSTITUTION | AVE | | | | 12TH | ST | |","Constitution Avenue & 12th Street","2","No","MTA, PRTC PM","Afternoon","Museum of Natural History"," "," ",,"Constitution Avenue & 12th Street
+,  
+(32.368812, -88.699324)"
+"38","39","T","69",,"| | PENNSYLVANIA | AVE | | | | 7TH | ST | |","Pennsylvania ave & 7th Street","16","No","MTA, PRTC AM/PM","Afternoon","Archives-Navy Memorial"," "," ",,"Pennsylvania ave & 7th Street
+,  
+(28.251547, -81.282441)"
+"26","27","T","69",,"| | CONSTITUTION | AVE | | | | 7TH | ST | |","Constitution Avenue & 7th Street","2","No","MTA, PRTC PM","Afternoon","National Gallery of Art"," "," ",,"Constitution Avenue & 7th Street
+,  
+(31.034592, -84.87385)"
+"53","54","T","69",,"| | 7TH | ST | | | | MARYLAND | AVE | |","7th Street & Maryland Avenue","16","Yes","MTA, PRTC AM/PM","Afternoon","FAA/LEnfant"," "," ",,"7th Street & Maryland Avenue
+,  
+(39.011964, -74.866234)"
+"14","15","M","71",,"S |  | SOUTH CAPITOL | ST |  |  |  | FIRTH STERLING | AVE | SE","S South Capitol Street & Firth Sterling Avenue","11","No","PRTCPM","Afternoon","Anacostia Naval Station Main Gate"," "," ",,"S SOUTH CAPITOL STREET & FIRTH STERLING AVENUE SE
+,  
+(38.860648, -77.003395)"
+"189","190","T","69",,"| | PENNSYLVANIA | AVE | | | | 4TH | ST | |","Pennsylvania Avenue & 4th Street","13","No","PRTCAM","Morning"," "," "," ",,"Pennsylvania Avenue & 4th Street
+,  
+(28.25501, -81.282409)"
+"111","112","M","85",,"| | 18TH | ST | | | | K | ST | NW |","18th st & K St NW",," ","MTA, Loudoun County AM","Morning","Farragut M","901/907/929/995","B/N/N/S",,"18th st & K St NW
+,  
+(38.90266, -77.041693)"
+"126","127","M","85",,"| | 7TH | ST | | | | E | ST | SW |","7th St & E St SW",," ","MTA"," ","Dept. of Trans., HUD","901/902/904/905","B/B/B/B",,"7th St & E St SW
+,  
+(38.883227, -77.021848)"
+"159","160","M","85",,"| | PENNSYLVANIA | AVE | | | | 7TH | ST | NW |","Pennsylvania Ave & 7th St NW",," ","MTA, PRTC AM/PM","Morning","Archives M","901/902/904/905","B/B/B/B",,"Pennsylvania Ave & 7th St NW
+,  
+(38.89339, -77.021923)"
+"194","195","T","69",,"| | PENNSYLVANIA | AVE | | | | 6TH | ST | |","Pennsylvania Avenue & 6th Street","13","No","MTA, PRTC AM","Morning","Federal Trade Commission"," "," ",,"Pennsylvania Avenue & 6th Street
+,  
+(41.366597, -74.702637)"
+"21","22","M","69",,"| | MAINE | AVE | | | | 6TH | ST | |","Maine Avenue & 6th Street","7","No","PRTCPM","Afternoon"," "," "," ",,"Maine Avenue & 6th Street
+,  
+(30.279704, -89.777185)"
+"47","48","T","69",,"| | 14TH | ST | | | | F | ST | |","14th Street & F Street","69","No","PRTC AM/PM, Loudoun County AM/PM","Afternoon"," "," "," ",,"14th Street & F Street
+,  
+(32.713653, -117.151956)"
+"94","95","M","85",,"| | 11TH | ST | | | | E | ST | NW |","11th st & E St NW",," ","MTA, PRTC AM/PM","Morning","Metro Center M","902/904/907","S/S/S",,"11th st & E St NW
+,  
+(38.896138, -77.027031)"
+"154","155","T","85",,"| | NEW HAMPSHIRE | AVE | | | | DUPONT | CIR | NW |","New Hampshire Ave & Dupont Cir NW",," ","MTA","Morning","  M","929","S",,"New Hampshire Ave & Dupont Cir NW
+,  
+(38.909476, -77.044197)"
+"58","59","M","85",,"| | 14TH | ST | | | | CONSTITUTION | AVE | NW |","14th St & Constitution Ave NW",," ","MTA, Loudoun County AM/PM"," "," Dept. of Commerce","907/909/922/929/995","S/S/B/B/B",,"14th St & Constitution Ave NW
+,  
+(38.892082, -77.031971)"
+"168","169","T","69",,"| | I | ST | | | | 15TH | ST | |","I St & 15th Street","42","Yes","PRTCAM","Morning"," "," "," ",,"I St & 15th Street
+,  
+(39.541553, -119.761976)"
+"184","185","T","69",,"| | H | ST | | | | 13TH | ST | |","H Street & 13th Street","13","Yes","MTA, PRTC AM","Morning"," "," "," ",,"H Street & 13th Street
+,  
+(44.788937, -117.845402)"
+"107","108","M","85",,"| | 16TH | ST | | | | M | ST | NW |","16th st & M St NW",," ","MTA"," "," ","915","S",,"16th st & M St NW
+,  
+(38.905651, -77.036477)"
+"122","123","M","85",,"| | 4TH | ST | | | | C | ST | SW |","4th st & C St SW",," ","MTA"," ","HHS","903","B",,"4th st & C St SW
+,  
+(38.886041, -77.017546)"
+"85","86","M","85",,"| | H | ST | | | | 4TH | ST | NW |","H st & 4th St NW","20"," ","Loudoun County AM/PM","6:46 AM - 9:24 AM","Metro Sign - North side 1/2 way between 4th & 5th on H st"," "," ",,"H st & 4th St NW
+,  
+(39.041121, -87.170493)"
+"62","63","M","85",,"| | 4TH | ST | | | | INDEPENDENCE | AVE | SW |","4th St & Independence Ave SW",," ","MTA, PRTC AM/PM"," ","HHS","902/904/907/909/915/929/995","N/N/N/N/N/N/N",,"4th St & Independence Ave SW
+,  
+(38.887574, -77.017546)"
+"133","134","M","85",,"| | INDEPENDENCE | AVE | | | | 1ST | ST | SE |","Independence Ave & 1st St SE",," ","MTA"," ","Library of Congress","902/904/907/909/915/922/929/995","B/B/B/B/B/B/B/B",,"Independence Ave & 1st St SE
+,  
+(36.314648, -99.766494)"
+"90","91","M","100",,"1825 | | | I | ST | NW |","1825 I St NW","21"," ","Loudoun County PM","3:49 PM - 6:07 PM","NW Corner - Faragut West Metro Marker"," "," ",,"1825 I St NW
+,  
+(38.901306, -77.042119)"
+"134","135","M","85",,"| | INDEPENDENCE | AVE | | | | 3RD | ST | SW |","Independence Ave & 3rd St SW",," ","MTA"," ","HHS","922","W",,"Independence Ave & 3rd St SW
+,  
+(39.441494, -79.538854)"
+"117","118","T","85",,"| | 19TH | ST | | | | H | ST | NW |","19th st & H St NW",," ","MTA, PRTC AM, Loudoun County PM"," "," World Bank","902/904/905/907/929/995","N/N/N/S/S/N",,"19th st & H St NW
+,  
+(38.899574, -77.043475)"
+"1","2","M","85",,"| | 4TH | ST | | | | INDEPENDENCE | AVE | SW |","4th Street & Independence Avenue SW","13","No","MTA, PRTC AM/PM","Morning"," "," "," ",,"4th Street & Independence Avenue SW
+,  
+(38.887574, -77.017546)"
+"75","76","M","85",,"| | 14TH | ST | | | | F | ST | NW |","14th ST & F St NW","20"," ","PRTC AM/PM, Loudoun County AM/PM","6:13 AM - 9:01 AM","Metro Sign - NE corner - front of Borders"," "," ",,"14th ST & F St NW
+,  
+(38.897356, -77.031945)"
+"6","7","T","69",,"| | E | ST | | | | 20TH | ST | |","E Street & 20th Street","53","No","MTA, PRTC PM","Afternoon","OPM"," "," ",,"E Street & 20th Street
+,  
+(38.856662, -86.476777)"
+"61","62","M","85",,"| | 21ST | ST | | | | M | ST | NW |","21st st & M St NW",," ","MTA"," "," ","902/904/907","N/N/N",,"21st st & M St NW
+,  
+(38.905646, -77.046614)"
+"118","119","T","85",,"| | 20TH | ST | | | | E | ST | NW |","20th st & E St NW",," ","MTA, PRTC PM"," ","Office of Personnel Mgmt.","902/904/905","S/S/S",,"20th st & E St NW
+,  
+(38.895982, -77.044927)"
+"86","87","M","85",,"| | 7TH | ST | | | | L | ST | NW |","7th st & L St. NW","4"," ","Loudoun County AM/PM","7:40, 8:01, 8:01, 9:07 AM","Metro Sign - SE corner"," "," ",,"7th st & L St. NW
+,  
+(38.904161, -77.021913)"
+"103","104","M","85",,"| | 15TH | ST | | | | L | ST | NW |","15th st & L St NW",," ","MTA"," "," ","915","N",,"15th st & L St NW
+,  
+(38.903744, -77.034574)"
+"29","30","T","69",,"| | E | ST | | | | 1ST | ST | |","E Street & 1st Street","2","No","PRTCPM","Afternoon"," "," "," ",,"E Street & 1st Street
+,  
+(41.606509, -86.724091)"
+"39","40","T","69",,"| | 11TH | ST | | | | E | ST | |","11th st & E Street","16","Yes","MTA, PRTC AM/PM","Afternoon","Citibank"," "," ",,"11th st & E Street
+,  
+(39.152607, -122.154668)"
+"164","165","T","69",,"| | 14TH | ST | | | | PENNSYLVANIA | AVE | |","14th st & Pennsylvania ave","55","No","MTA, PRTC AM/PM, Loudoun County AM","Morning"," "," "," ",,"14th st & Pennsylvania ave
+,  
+(35.317809, -84.532631)"
+"71","72","M","69",,"| | 14TH | ST | | | | NEW YORK | AVE | |","14th Street & New York Avenue","55","No","PRTCAM","Morning"," "," "," ",,"14th Street & New York Avenue
+,  
+(28.245054, -81.28357)"
+"22","23","M","69",,"| | MAINE | AVE | | | | 9TH | ST | |","Maine Avenue & 9th Street","7","Yes","PRTCPM","Afternoon"," "," "," ",,"Maine Avenue & 9th Street
+,  
+(30.279693, -89.773848)"
+"138","139","M","85",," |  | K | ST |  |  |  | 19TH | ST | NW","K st & 19th st St NW",," ","MTA"," "," ","902/904/905/907/909/929/995","B/B/B/S/B/N/S",,"K ST & 19TH ST NW
+,  
+(38.90242, -77.043482)"
+"169","170","T","69",,"| | I | ST | | | | 17TH | ST | |","I St & 17th Street","42","Yes","PRTCAM","Morning","Farragut Square"," "," ",,"I St & 17th Street
+,  
+(61.242089, -149.819327)"
+"34","35","M","85",,"| | D | ST | | | | 7TH | ST | SW |","D Street & 7th Street SW","16","No","PRTCPM","Afternoon","GSA/HUD"," "," ",,"D Street & 7th Street SW
+,  
+(38.884844, -77.021853)"
+"93","94","M","85",,"| | 10TH | ST | | | | CONSTITUTION | AVE | NW |","10th St & Constitution Ave NW",," ","MTA"," ","Dept. of Justice","915/929/995","B/B/B",,"10th St & Constitution Ave NW
+,  
+(38.892072, -77.025959)"
+"66","67","M","85",,"| | K | ST | | | | 21ST | ST | NW |","K st & 21st St NW",," ","MTA"," "," ","909","N",,"K st & 21st St NW
+,  
+(38.902642, -77.046634)"
+"98","99","M","85",,"| | 12TH | ST | | | | CONSTITUTION | AVE | NW |","12th St & Constitution Ave NW",," ","MTA, PRTC PM"," ","IRS","909","N",,"12th St & Constitution Ave NW
+,  
+(38.892086, -77.028073)"
+"158","159","M","85",,"| | PENNSYLVANIA | AVE | | | | 6TH | ST | NW |","Pennsylvania Ave & 6th St NW",," ","MTA, PRTC AM","Morning"," Archives M","922","B",,"Pennsylvania Ave & 6th St NW
+,  
+(38.892827, -77.019908)"
+"9","10","M","69",,"| | H | ST | | | | JACKSON | PL | |","H Street & Jackson Place","53","No","PRTCPM","Afternoon","Hamilton Square"," "," ",,"H Street & Jackson Place
+,  
+(38.90023, -77.037973)"
+"193","194","T","69",,"| | 11TH | ST | | | | F | ST | |","11th Street & F Street","13","Yes","PRTCAM","Morning"," Metro Center"," "," ",,"11th Street & F Street
+,  
+(33.299553, -117.311293)"
+"54","55","M","85",,"| | E | ST | | | | NEW JERSEY | AVE | NW |","E St & New Jersey Ave NW","20"," ","Loudoun County AM/PM","6:39 AM - 9:17 AM","SW corner - no sign"," "," ",,"E St & New Jersey Ave NW
+,  
+(38.89613, -77.011448)"
+"173","174","T","69",,"| | 19TH | ST | | | | E | ST | |","19th st & E Street","42","No","MTA, PRTC AM, Loudoun County PM","Morning","OPM"," "," ",,"19th st & E Street
+,  
+(38.857496, -86.476786)"
+"143","144","M","85",,"| | L | ST | | | | 23RD | ST | NW |","L st & 23rd St NW",," ","MTA"," "," ","907","S",,"L st & 23rd St NW
+,  
+(38.903734, -77.050117)"
+"110","111","M","85",,"| | 18TH | ST | | | | F | ST | NW |","18th st & F St NW",," ","MTA, PRTC PM"," "," Gen. Svcs. Admin.","907","N",,"18th st & F St NW
+,  
+(38.897368, -77.041689)"
+"125","126","M","85",,"| | 7TH | ST | | | | MARYLAND | AVE | SW |","7th St & Maryland Ave SW",," ","MTA, PRTC AM/PM","Morning","LEnfant Plaza M","901/905","B/B",,"7th St & Maryland Ave SW
+,  
+(40.795569, -81.410162)"
+"78","79","M","85",,"| | INDEPENDENCE | AVE | | | | 12TH | ST | SW |","Independence ave & 12th St. SW","20"," ","MTA, PRTC PM, Loudoun County AM/PM","6:24 AM - 9:05 AM","Metro Shelter - SW corner"," "," ",,"Independence ave & 12th St. SW
+,  
+(38.715906, -105.127924)"
+"97","98","M","85",,"| | 12TH | ST | | | | H | ST | NW |","12th st & H St NW",," ","MTA","Morning","Metro Center M","915","N",,"12th st & H St NW
+,  
+(38.899816, -77.028071)"
+"177","178","M","69",,"| | MAINE | AVE | | | | 9TH | ST | |","Maine Avenue & 9th Street","4","No","PRTCAM","Morning"," "," "," ",,"Maine Avenue & 9th Street
+,  
+(30.279693, -89.773848)"
+"130","131","M","85",,"| | INDEPENDENCE | AVE | | | | 6TH | ST | SW |","Independence Ave & 6th St SW",," ","MTA, PRTC AM/PM, Loudoun County AM/PM","Morning","LEnfant Plaza M","907/909/915/922/929/995","S/S/S/E/S/N",,"Independence Ave & 6th St SW
+,  
+(40.054405, -75.129222)"
+"135","136","M","85",,"| | INDEPENDENCE | AVE | | | | 7TH | ST | SW |","Independence Ave & 7th St SW",," ","MTA, PRTC PM, Loudoun County AM"," ","Air and Space Museum","907/909/915/922/929/995","N/N/N/W/N/S",,"Independence Ave & 7th St SW
+,  
+(39.786461, -94.851618)"
+"74","75","M","85",,"| | 14TH | ST | | | | H | ST | NW |","14th ST & H St NW","20"," ","Loudoun County AM","6:12 AM - 9:00 AM","SE corner - no sign"," "," ",,"14th ST & H St NW
+,  
+(38.900191, -77.031934)"
+"129","130","M","85",,"| | INDEPENDENCE | AVE | | | | 3RD | ST | SW |","Independence Ave & 3rd St SW",," ","MTA"," ","Supreme Court","902/904/907/909/915/922/929/995","S/S/S/S/S/E/S/S",,"Independence Ave & 3rd St SW
+,  
+(39.441494, -79.538854)"
+"106","107","M","85",,"| | 16TH | ST | | | | HARVARD | ST | NW |","16th st & Harvard St NW",," ","MTA"," "," ","929","B",,"16th st & Harvard St NW
+,  
+(38.925778, -77.036484)"
+"2","3","T","69",,"| | INDEPENDENCE | AVE | | | | 6TH | ST | |","Independence Avenue & 6th Street","13","Yes","PRTCAM","Morning","National Air & Space Museum"," "," ",,"Independence Avenue & 6th Street
+,  
+(40.054405, -75.129222)"
+"170","171","T","69",,"| | I | ST | | | | 18TH | ST | |","I St & 18th Street","42","Yes","PRTCAM","Morning","Metrobus Stop"," "," ",,"I St & 18th Street
+,  
+(61.243227, -149.817488)"
+"33","34","T","69",,"| | INDEPENDENCE | AVE | | | | 7TH | ST | |","Independence Avenue & 7th Street","2","No","MTA, PRTC PM, Loudoun County AM","Afternoon","Hirshorn Museum"," "," ",,"Independence Avenue & 7th Street
+,  
+(39.786461, -94.851618)"
+"35","36","T","69",,"| | INDEPENDENCE | AVE | | | | 6TH | ST | |","Independence Avenue & 6th Street","16","Yes","PRTCPM","Afternoon"," "," "," ",,"Independence Avenue & 6th Street
+,  
+(40.054405, -75.129222)"
+"150","151","T","85",,"| | MASSACHUSETTS | AVE | | | | COLUMBUS | CIR | NE |","Massachusetts Ave & Columbus Cir NE",," ","MTA"," "," ","903","S",,"Massachusetts Ave & Columbus Cir NE
+,  
+(38.895882, -77.005901)"
+"46","47","T","85",,"| | K | ST | | | | 15TH | ST | NW |","K ST & 15th St NW","20"," ","MTA, Loudoun County AM","6:10 AM - 8:58 AM","Metro Shelter - SE corner"," "," ",,"K ST & 15th St NW
+,  
+(38.902517, -77.034585)"
+"165","166","T","69",,"| | 14TH | ST | | | | PENNSYLVANIA | AVE | |","14th Street & Pennsylvania Avenue","55","Yes","MTA, PRTC AM/PM, Loudoun County AM","Morning"," "," "," ",,"14th Street & Pennsylvania Avenue
+,  
+(35.317809, -84.532631)"
+"65","66","M","85",,"| | K | ST | | | | 13TH | ST | NW |","K st & 13th St NW",," ","MTA"," "," ","902/904/905/909","B/B/B/B",,"K st & 13th St NW
+,  
+(38.902517, -77.029633)"
+"185","186","T","69",,"| | H | ST | | | | 11TH | ST | |","H Street & 11th Street","13","Yes","MTA, PRTC AM","Morning","Washington Gas Building"," "," ",,"H Street & 11th Street
+,  
+(40.393864, -95.836109)"
+"18","19","T","69",,"| | M | ST | | | | 4TH | ST | |","M Street & 4th Street","7","Yes","MTA, PRTC AM/PM","Afternoon"," "," "," ",,"M Street & 4th Street
+,  
+(38.400455, -78.624878)"
+"180","181","T","69",,"| | M | ST | | | | 1ST | ST | |","M Street & 1st Street","4","No","PRTCAM","Morning","Navy Yard Metro"," "," ",,"M Street & 1st Street
+,  
+(38.878663, -86.488891)"
+"23","24","T","69",,"| | 12TH | ST | | | | C | ST | |","12th Street & C Street","7","No","PRTCPM","Afternoon"," "," "," ",,"12th Street & C Street
+,  
+(44.784397, -117.844028)"
+"45","46","T","85",,"| | K | ST | | | | 17TH | ST | NW |","K ST & 17th St NW","20"," ","MTA, Loudoun County AM","6:09 AM - 8:56 AM","Metro Sign - SE corner"," "," ",,"K ST & 17th St NW
+,  
+(38.90265, -77.038511)"
+"60","61","M","85",,"| | 18TH | ST | | | | C | ST | NW |","18th st & C St NW",," ","MTA"," ","Dept. of Interior","907/995","N/S",,"18th st & C St NW
+,  
+(39.831336, -84.92694)"
+"119","120","M","85",,"| | 20TH | ST | | | | PENNSYLVANIA | AVE | NW |","20th St & Pennsylvania Ave NW",," ","MTA"," "," ","902/904/905","S/S/S",,"20th St & Pennsylvania Ave NW
+,  
+(38.900675, -77.044929)"
+"28","29","T","69",,"| | 3RD | ST | | | | E | ST | |","3rd Street & E Street","2","No","PRTCPM","Afternoon","US & DC Court Building"," "," ",,"3rd Street & E Street
+,  
+(41.366906, -89.275195)"
+"72","73","M","69",,"| | 19TH | ST | | | | PENNSYLVANIA | AVE | |","19th Street & Pennsylvania Avenue","42","No","PRTCAM","Morning","World Bank"," "," ",,"19th Street & Pennsylvania Avenue
+,  
+(43.345273, -124.23381)"
+"12","13","T","69",,"| | 14TH | ST | | | | PENNSYLVANIA | AVE | |","14th Street & Pennsylvania AVE","69","No","MTA, PRTC AM/PM, Loudoun County AM","Afternoon","Commerce Dept."," "," ",,"14th Street & Pennsylvania AVE
+,  
+(35.317809, -84.532631)"
+"55","56","M","85",,"| | INDEPENDENCE | AVE | | | | 14TH | ST | SW |","Independence ave & 14th St SW","17"," ","MTA, PRTC AM/PM, Loudoun County PM","3:38 PM - 5:56 PM","Metro Sign - North side Independence Ave - just before Arch way"," "," ",,"Independence ave & 14th St SW
+,  
+(38.887525, -77.031892)"
+"146","147","M","85",,"| | M | ST | | | | 25TH | ST | NW |","M st & 25th St NW",," ","MTA"," ","Columbia Hospital","907","N",,"M st & 25th St NW
+,  
+(38.905261, -77.053307)"
+"186","187","T","69",,"| | 11TH | ST | | | | E | ST | |","11th Street & E Street","13","Yes","MTA, PRTC AM/PM","Morning"," "," "," ",,"11th Street & E Street
+,  
+(39.152607, -122.154668)"
+"87","88","M","85",,"| | 3RD | ST | | | | PENNSYLVANIA | AVE | NW |","3rd st & Pennsylvania Ave NW","21"," ","PRTC PM, Loudoun County PM","3:31 PM - 5:49 PM","Metro Shelter - NE corner"," "," ",,"3rd st & Pennsylvania Ave NW
+,  
+(38.891495, -77.015128)"
+"162","163","M","85",,"| | VIRGINIA | AVE | | | | E | ST | NW |","Virginia Ave & E St NW",," ","MTA"," ","State Department","901/909","B/B",,"Virginia Ave & E St NW
+,  
+(38.89602, -77.048146)"
+"192","193","T","69",,"| | M | ST | | | | 9TH | ST | |","M Street & 9th Street","4","No","PRTCAM","Morning"," "," "," ",,"M Street & 9th Street
+,  
+(35.365539, -119.015329)"
+"176","177","T","69",,"| | 12TH | ST | | | | D | ST | |","12th Street & D Street","4","No","PRTCAM","Morning","American Association of OBGYN"," "," ",,"12th Street & D Street
+,  
+(47.125471, -122.607855)"
+"114","115","M","85",,"| | 18TH | ST | | | | PENNSYLVANIA | AVE | NW |","18th st & Pennsylvania Ave NW",," ","MTA, PRTC PM"," ","World Bank","907/929/995","N/N/S",,"18th st & Pennsylvania Ave NW
+,  
+(38.89958, -77.041691)"
+"82","83","M","85",,"| | 3RD | ST | | | | C | ST | NW |","3rd st & C St NW","20"," ","Loudoun County AM","6:34 AM - 9:15 AM","Front of Fountain - no sign"," "," ",,"3rd st & C St NW
+,  
+(34.233184, -95.62472)"
+"77","78","M","85",,"| | 14TH | ST | | | | CONSTITUTION | AVE | NW |","14th ST & Constitution Ave NW","20"," ","MTA, Loudoun County AM/PM","6:15 AM - 9:03 AM","Stoplight before Constitution - No Sign"," "," ",,"14th ST & Constitution Ave NW
+,  
+(38.892082, -77.031971)"
+"7","8","T","69",,"| | 18TH | ST | | | | F | ST | |","18th Street & F Street","53","No","MTA, PRTC PM","Afternoon"," "," "," ",,"18th Street & F Street
+,  
+(35.581533, -119.333864)"
+"40","41","T","69",,"| | 11TH | ST | | | | G | ST | |","11th st & G Street","16","Yes","PRTCPM","Afternoon","Metro Center"," "," ",,"11th st & G Street
+,  
+(42.602836, -72.565217)"
+"99","100","M","85",,"| | 13TH | ST | | | | H | ST | NW |","13th st & H St NW",," ","MTA, PRTC AM"," "," ","915","S",,"13th st & H St NW
+,  
+(38.899819, -77.029608)"
+"104","105","M","85",,"| | 15TH | ST | | | | P | ST | NW |","15th st & P St NW",," ","MTA"," "," ","915","N",,"15th st & P St NW
+,  
+(38.909626, -77.03459)"
+"142","143","M","85",,"| | L | ST | | | | 19TH | ST | NW |","L st & 19th St NW",," ","MTA"," "," ","907","S",,"L st & 19th St NW
+,  
+(39.843911, -84.927454)"
+"92","93","T","85",,"| | 19TH | ST | | | | E | ST | NW |","19th st & E St NW","21"," ","MTA, PRTC AM, Loudoun County PM","3:51 PM - 6:09 PM","NE corner - no sign"," "," ",,"19th st & E St NW
+,  
+(38.89541, -77.043468)"
+"67","68","M","85",,"| | L | ST | | | | 21ST | ST | NW |","L st & 21st St NW",," ","MTA"," "," ","907","S",,"L st & 21st St NW
+,  
+(38.903739, -77.046634)"
+"157","158","M","85",,"| | PENNSYLVANIA | AVE | | | | 12TH | ST | NW |","Pennsylvania Ave & 12th St NW",," ","MTA","Morning","Federal Triangle M","901/902/904/905/909/922","N/N/N/N/N/B",,"Pennsylvania Ave & 12th St NW
+,  
+(35.481754, -97.547655)"
+"109","110","T","85",,"| | 18TH | ST | | | | E | ST | NW |","18th st & E St NW",," ","MTA, Loudoun County AM"," "," ","907/929/995","N/N/S",,"18th st & E St NW
+,  
+(38.895404, -77.041715)"
+"3","4","T","69",,"| | 7TH | ST | | | | C | ST | |","7th Street & C Street","13","No","MTA, PRTC AM/PM","Morning","Federal Aviation Administration"," "," ",,"7th Street & C Street
+,  
+(35.746972, -117.400065)"
+"81","82","M","85",,"| | INDEPENDENCE | AVE | | | | 6TH | ST | SW |","Independence ave & 6th St SW","20"," ","MTA, PRTC AM/PM, Loudoun County AM/PM","6:30 AM - 9:11 AM","Metro Shelter - SW corner"," "," ",,"Independence ave & 6th St SW
+,  
+(40.054405, -75.129222)"
+"171","172","T","69",,"| | 19TH | ST | | | | H | ST | |","19th st & H Street","42","Yes","MTA, PRTC AM, Loudoun County PM","Morning","IMF"," "," ",,"19th st & H Street
+,  
+(35.376241, -119.021221)"
+"36","37","T","69",,"| | 4TH | ST | | | | MADISON | AVE | NW |","4th Street & Madison Avenue NW","16","No","PRTCPM","Afternoon","National Gallery"," "," ",,"4th Street & Madison Avenue NW
+,  
+(48.806633, -102.245074)"
+"166","167","T","69",,"| | 14TH | ST | | | | F | ST | |","14th Street & F Street","55","No","PRTC AM/PM, Loudoun County AM/PM","Morning"," "," "," ",,"14th Street & F Street
+,  
+(32.713653, -117.151956)"
+"113","114","M","85",,"| | 18TH | ST | | | | MASSACHUSETTS | AVE | NW |","18th st & Massachusetts Ave NW",," ","MTA","Morning"," Dupont Circle M","929","N",,"18th st & Massachusetts Ave NW
+,  
+(38.909048, -77.041701)"
+"124","125","M","85",,"| | 7TH | ST | | | | CONSTITUTION | AVE | NW |","7th St & Constitution Ave NW",," ","MTA, PRTC PM","Morning","Archives M","915/929/995","B/B/B",,"7th St & Constitution Ave NW
+,  
+(38.892078, -77.022004)"
+"49","50","T","69",,"| | M | ST | | | | NEW JERSEY | AVE | |","M Street & New Jersey Ave","7","No","PRTCPM","Afternoon","Navy Yard Metro"," "," ",,"M Street & New Jersey Ave
+,  
+(38.876522, -77.004178)"
+"64","65","M","85",,"| | INDEPENDENCE | AVE | | | | 12TH | ST | SW |","Independence Ave & 12th St SW",," ","MTA, PRTC PM, Loudoun County AM/PM","Morning","Smithsonian M","907/909/922","B/B/B",,"Independence Ave & 12th St SW
+,  
+(38.715906, -105.127924)"
+"19","20","T","69",,"| | M | ST | | | | HALF | ST | |","M Street & Half Street (20 M Street)","7","No","PRTCPM","Afternoon"," "," "," ",,"M Street & Half Street (20 M Street)
+,  
+(38.876405, -77.007455)"
+"152","153","M","71",,"N |  | NORTH CAPITOL | ST |  |  |  | H | ST | NE","N North Capitol & H St",," ","MTA, Loudoun County AM/PM"," ","Union Center Plaza","903/922","B/B",,"N NORTH CAPITOL ST & H ST NE
+,  
+(38.900282, -77.008995)"
+"96","97","M","85",,"| | 12TH | ST | | | | G | ST | NW |","12th st & G St NW",," ","MTA","Morning","Metro Center M","901/902/904/905/907","N/N/B/N/N",,"12th st & G St NW
+,  
+(38.898307, -77.028051)"
+"51","52","T","69",,"| | PENNSYLVANIA | AVE | | | | 3RD | ST | |","Pennsylvania Avenue & 3rd Street","2","No","PRTC PM, Loudoun County PM","Afternoon","National Gallery of Art"," "," ",,"Pennsylvania Avenue & 3rd Street
+,  
+(37.942589, -122.366689)"
+"68","69","M","85",,"| | LOUISIANA | AVE | | | | D | ST | NW |","Louisiana Ave & D St NW",," ","MTA, PRTC PM"," ","Union Station Plaza","903","S",,"Louisiana Ave & D St NW
+,  
+(38.894793, -77.00949)"
+"181","182","T","69",,"| | M | ST | | | | 4TH | ST | |","M Street & 4th Street","4","No","MTA, PRTC AM/PM","Morning"," "," "," ",,"M Street & 4th Street
+,  
+(38.400455, -78.624878)"
+"187","188","T","69",,"| | PENNSYLVANIA | AVE | | | | 10TH | ST | |","Pennsylvania Avenue & 10th Street","13","Yes","MTA, PRTC AM","Morning","Justice Department"," "," ",,"Pennsylvania Avenue & 10th Street
+,  
+(30.280772, -89.772755)"
+"128","129","M","71",,"E |  | EAST CAPITOL | ST |  |  |  | 2ND | ST | NE","E East Capitol & 2nd St",," ","MTA"," ","Supreme Court","922","W",,"E EAST CAPITOL ST & 2ND ST NE
+,  
+(38.889808, -77.003505)"
+"32","33","T","69",,"| | INDEPENDENCE | AVE | | | | 4TH | ST | |","Independence Avenue & 4th Street","2","No","MTA, PRTC AM/PM","Afternoon"," "," "," ",,"Independence Avenue & 4th Street
+,  
+(42.926682, -82.4903)"
+"156","157","M","85",,"| | PENNSYLVANIA | AVE | | | | 10TH | ST | NW |","Pennsylvania Ave & 10th St NW",," ","MTA, PRTC AM"," ","FBI, Dept. of Justice","901/902/904/905","B/B/B/B",,"Pennsylvania Ave & 10th St NW
+,  
+(35.478648, -97.547889)"
+"11","12","M","69",,"| | 14TH | ST | | | | NEW YORK | AVE | |","14th Street & New York Avenue","53","No","PRTCPM","Afternoon","slug line"," "," ",,"14th Street & New York Avenue
+,  
+(28.245054, -81.28357)"
+"73","74","M","85",,"| | K | ST | | | | 14TH | ST | NW |","K ST & 14th St NW","20"," ","MTA, Loudoun County AM","6:11 AM - 8:59 AM","Metro Shelter - SE corner"," "," ",,"K ST & 14th St NW
+,  
+(38.90253, -77.031943)"
+"145","146","M","85",,"| | M | ST | | | | 23RD | ST | NW |","M st & 23rd St NW",," ","MTA"," "," ","907","N",,"M st & 23rd St NW
+,  
+(38.90526, -77.050111)"
+"100","101","M","85",,"| | 14TH | ST | | | | G | ST | NW |","14th st & G St NW",," ","MTA","Morning"," Metro Center M","922","B",,"14th st & G St NW
+,  
+(38.898317, -77.031935)"
+"88","89","T","85",,"| | I | ST | | | | 15TH | ST | NW |","I st & 15th St NW","21"," ","PRTC AM, Loudoun County PM","3:45 PM - 6:03 PM","McPherson Building - N side of I St - front of Starbucks"," "," ",,"I st & 15th St NW
+,  
+(38.901301, -77.034642)"
+"105","106","M","85",,"| | 15TH | ST | | | | MASSACHUSETTS | AVE | NW |","15th St & Massachusetts Ave NW",," ","MTA"," "," ","915","N",,"15th St & Massachusetts Ave NW
+,  
+(38.906607, -77.034567)"
+"41","42","M","85",,"| | VIRGINIA | AVE | | | | 21ST | ST | NW |","Virginia Ave & 21 St NW","20"," ","PRTC AM/PM, Loudoun County AM","5:59 AM - 8:46 AM","Metro Sign - SW corner"," "," ",,"Virginia Ave & 21 St NW
+,  
+(35.491233, -97.544916)"
+"160","161","M","85",,"| | PENNSYLVANIA | AVE | | | | 9TH | ST | NW |","Pennsylvania Ave & 9th St NW",," ","MTA"," ","Dept. of Justice","922","B",,"Pennsylvania Ave & 9th St NW
+,  
+(44.018991, -116.91366)"
+"191","192","T","69",,"| | M | ST | | | | 3RD | ST | |","M Street & 3rd Street","4","Yes","PRTC AM/PM","Morning","Waterside Mall, cross South Capitol"," "," ",,"M Street & 3rd Street
+,  
+(41.218146, -98.452723)"
+"56","57","M","85",,"| | 11TH | ST | | | | H | ST | NW |","11th st & H St NW",," ","MTA, PRTC AM","Morning","Metro Center M","901/902/904/905/907","S/S/S/S/S",,"11th st & H St NW
+,  
+(38.899823, -77.027011)"
+"115","116","T","85",,"| | 19TH | ST | | | | E | ST | NW |","19th st & E St NW",," ","MTA, PRTC AM, Loudoun County PM"," ","Office of Personnel Mgmt.","902/904/905/907/929/995","N/N/N/S/S/N",,"19th st & E St NW
+,  
+(38.89541, -77.043468)"
+"175","176","T","69",,"| | 12TH | ST | | | | C | ST | |","12th Street & C Street","4","No","PRTCAM","Morning"," "," "," ",,"12th Street & C Street
+,  
+(44.784397, -117.844028)"
+"24","25","T","69",,"| | 12TH | ST | | | | INDEPENDENCE | AVE | |","12th Street & Independence Avenue","2","No","MTA, PRTC PM, Loudoun County AM/PM","Afternoon","Agriculture Department"," "," ",,"12th Street & Independence Avenue
+,  
+(38.715906, -105.127924)"
+"8","9","M","69",,"| | 18TH | ST | | | | PENNSYLVANIA | AVE | |","18th Street & Pennsylvania Avenue","53","No","MTA, PRTC PM","Afternoon"," "," "," ",,"18th Street & Pennsylvania Avenue
+,  
+(42.185116, -83.173465)"
+"76","77","T","85",,"| | 14TH | ST | | | | PENNSYLVANIA | AVE | NW |","14th ST & Pennsylvania Ave NW","20"," ","MTA, PRTC AM/PM, Loudoun County AM","6:14 AM - 9:02 AM","Metro Shelter - NE corner"," "," ",,"14th ST & Pennsylvania Ave NW
+,  
+(38.896126, -77.03197)"
+"120","121","M","85",,"| | 21ST | ST | | | | C | ST | NW |","21st st & C St NW",," ","MTA"," ","State Department","902/904","B/B",,"21st st & C St NW
+,  
+(38.893533, -77.046676)"
+"59","60","M","85",,"| | 16TH | ST | | | | K | ST | NW |","16th st & K St NW",," ","MTA"," "," ","901/915","B/S",,"16th st & K St NW
+,  
+(38.902635, -77.03655)"
+"83","84","M","71",,"N |  | NORTH CAPITOL | ST |  |  |  | MASSACHUSETTS | AVE | NW","N North Capitol & Massachusetts Ave NW","20"," ","MTA, Loudoun County AM/PM","6:40 AM - 9:18 AM","SE corner - no sign"," "," ",,"N NORTH CAPITOL ST & MASSACHUSETTS AVE NW
+,  
+(38.897388, -77.009005)"
+"153","154","M","71",,"N |  | NORTH CAPITOL | ST |  |  |  | MASSACHUSETTS | AVE | NE","N North Capitol St & Massachusetts Ave",," ","MTA, Loudoun County AM/PM"," ","(opp. F St.)","903","N",,"N NORTH CAPITOL ST & MASSACHUSETTS AVE NE
+,  
+(38.897388, -77.009005)"
+"37","38","T","69",,"| | PENNSYLVANIA | AVE | | | | CONSTITUTION | AVE | |","Pennsylvania Avenue & Constitution Avenue","16","No","PRTCPM","Afternoon"," "," "," ",,"Pennsylvania Avenue & Constitution Avenue
+,  
+(42.925983, -112.490604)"
+"172","173","M","69",,"| | 19TH | ST | | | | F | ST | |","19th st & F Street","42","No","PRTCAM","Morning"," "," "," ",,"19th st & F Street
+,  
+(35.580423, -119.333877)"
+"31","32","M","69",,"| | LOUISIANA | AVE | | | | 1ST | ST | |","Louisiana Avenue & 1st Street","2","No","PRTCPM","Afternoon"," "," "," ",,"Louisiana Avenue & 1st Street
+,  
+(31.629767, -91.551498)"
+"52","53","M","69",,"| | LOUISIANA | AVE | | | | D | ST | |","Louisiana Avenue & D Street","2","No","MTA, PRTC PM","Afternoon"," "," "," ",,"Louisiana Avenue & D Street
+,  
+(41.474882, -82.156023)"
+"188","189","T","69",,"| | PENNSYLVANIA | AVE | | | | 7TH | ST | |","Pennsylvania Avenue & 7th Street","13","No","MTA, PRTC AM/PM","Morning","National Archives"," "," ",,"Pennsylvania Avenue & 7th Street
+,  
+(28.251547, -81.282441)"
+"20","21","T","69",,"| | M | ST | | | | 3RD | ST | |","M Street & 3rd Street","7","No","PRTC AM/PM","Afternoon","Waterside Mall"," "," ",,"M Street & 3rd Street
+,  
+(41.218146, -98.452723)"
+"108","109","M","85",,"| | 16TH | ST | | | | P | ST | NW |","16th st & P St NW",," ","MTA"," "," ","915","S",,"16th st & P St NW
+,  
+(38.909641, -77.036575)"
+"4","5","T","69",,"| | D | ST | | | | 9TH | ST | |","D Street & 9th Street","13","No","PRTCAM","Morning","Housing and Urban Development"," "," ",,"D Street & 9th Street
+,  
+(34.730783, -77.453605)"
+"127","128","M","85",,"| | CONSTITUTION | AVE | | | | 15TH | ST | NW |","Constitution Ave & 15th St NW",," ","MTA"," ","Dept. of Commerce","907/929/995","N/N/B",,"Constitution Ave & 15th St NW
+,  
+(39.891254, -75.177187)"
+"137","138","T","85",,"| | K | ST | | | | 15TH | ST | NW |","K st & 15th St NW",," ","MTA, Loudoun County AM"," "," ","902/904/905/909","B/B/B/B",,"K st & 15th St NW
+,  
+(38.902517, -77.034585)"
+"80","81","M","85",,"| | INDEPENDENCE | AVE | | | | 7TH | ST | SW |","Independence ave & 7th St SW","20"," ","MTA, PRTC PM, Loudoun County AM","6:29 AM - 9:10 AM","SW corner - no sign"," "," ",,"Independence ave & 7th St SW
+,  
+(39.786461, -94.851618)"
+"95","96","M","85",,"| | 12TH | ST | | | | E | ST | NW |","12th st & E St NW",," ","MTA"," "," ","915","N",,"12th st & E St NW
+,  
+(38.89614, -77.028023)"
+"132","133","M","85",,"| | INDEPENDENCE | AVE | | | | 14TH | ST | SW |","Independence Ave & 14th St SW",," ","MTA, PRTC AM/PM, Loudoun County PM"," ","Dept. of Agriculture","907/909/922","B/S/B",,"Independence Ave & 14th St SW
+,  
+(38.887525, -77.031892)"
+"48","49","T","69",,"| | 12TH | ST | | | | M | ST | |","12th Street & M Street","7","Yes","PRTCPM","Afternoon","Maritime Plaza"," "," ",,"12th Street & M Street
+,  
+(40.144111, -97.167121)"
+"16","17","T","69",,"| | M | ST | | | | 10TH | ST | |","M Street & 10th Street","7","Yes","PRTCPM","Afternoon"," "," "," ",,"M Street & 10th Street
+,  
+(40.394908, -95.842927)"
+"167","168","T","69",,"| | I | ST | | | | 15TH | ST | |","I St & 15th Street","42","No","PRTC AM, Loudoun County PM","Morning"," "," "," ",,"I St & 15th Street
+,  
+(39.541553, -119.761976)"
+"63","64","M","85",,"| | CONSTITUTION | AVE | | | | 3RD | ST | NW |","Constitution Ave & 3rd St NW",," ","MTA"," ","Dept. of Labor","903/922","B/B",,"Constitution Ave & 3rd St NW
+,  
+(35.098979, -106.64765)"
+"91","92","T","85",,"| | 19TH | ST | | | | H | ST | NW |","19th st & H St NW","21"," ","MTA, PRTC AM, Loudoun County PM","3:50 PM - 6:08 PM","SE Corner - no sign"," "," ",,"19th st & H St NW
+,  
+(38.899574, -77.043475)"
+"112","113","M","85",,"| | 18TH | ST | | | | M | ST | NW |","18th st & M St NW",," ","MTA"," "," ","929/995","N/S",,"18th st & M St NW
+,  
+(38.905633, -77.041696)"
+"123","124","M","85",,"| | 4TH | ST | | | | E | ST | SW |","4th st & E St SW",," ","MTA"," ","NASA","903","B",,"4th st & E St SW
+,  
+(44.631848, -121.13064)"
+"84","85","M","71",,"N |  | NORTH CAPITOL | ST |  |  |  | H | ST | NW","N North Capitol & H St NW","20"," ","MTA, Loudoun County AM/PM","6:43 AM - 9:21 AM","Metro Sign - 1/2 block before SE corner"," "," ",,"N NORTH CAPITOL ST & H ST NW
+,  
+(38.900169, -77.008998)"
+"101","102","M","85",,"| | 14TH | ST | | | | K | ST | NW |","14th st & K St NW",," ","MTA, Loudoun County AM","Morning"," McPherson Square M","901/915","B/B",,"14th st & K St NW
+,  
+(38.902642, -77.031944)"

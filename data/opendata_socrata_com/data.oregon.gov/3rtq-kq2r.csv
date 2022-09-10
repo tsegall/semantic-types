@@ -1,0 +1,30 @@
+Hospital Name,Hospital Location,Central Line Days,Observed Infections,Predicted Infections,SIR,SIR 95% CI,SIR Interpretation (2015 US Baseline),2020 HHS Targets,County,HPP Region,Location 1,SIR Icon,Benchmark Icon,2010 House Districts,2010 Senate Districts,Counties
+St. Charles Medical Center - Bend,NICU Level II/III,172,0,0.2,*,*,#s too small to calculate,ZERO Infections,DESCHUTES,Region7,"2500 NORTHEAST NEFF ROAD
+BEND 97701
+(44.067636, -121.2693136)",,https://data.oregon.gov/views/3rtq-kq2r/files/b7ac8de8-879b-440a-b2f3-9dd35c5411ec,54,27,2362
+Salem Hospital,NICU Level II/III,240,0,0.32,*,*,#s too small to calculate,ZERO Infections,MARION,Region2,"890 Oak St SE, Salem, OR 97301
+SALEM 97301
+(44.932538, -123.033944)",,https://data.oregon.gov/views/3rtq-kq2r/files/9b48873c-cd46-4d7f-b196-1fc55df5a253,21,11,2409
+Oregon Health & Science University,NICU Level II/III,3383,1,3.97,    0.252,"0.013, 1.243",Fewer infections,SIR Target (<0.5) Met,MULTNOMAH,Region1,"3181 SOUTHWEST SAM JACKSON PARK ROAD
+PORTLAND 97239
+(45.4989708, -122.6861182)",https://data.oregon.gov/views/3rtq-kq2r/files/39ef637b-0066-45a8-b366-653e7615524f,https://data.oregon.gov/views/3rtq-kq2r/files/2d45a742-6c47-42f2-a887-4b23d0a46fa3,36,18,2410
+Legacy Emanuel Medical Center,NICU Level II/III,2589,3,3.56,    0.844,"0.215, 2.296",Fewer infections,Target Not Met,MULTNOMAH,Region1,"2801 NORTH GANTENBEIN AVENUE
+PORTLAND 97227
+(45.5435674, -122.6702704)",https://data.oregon.gov/views/3rtq-kq2r/files/7d7554bb-ceee-4065-b11b-b3d714e79e0c,,43,22,2410
+Providence St. Vincent Medical Center,NICU Level III,1024,0,1.59,    0.000," , 1.881",Fewer infections,SIR Target (<0.5) Met & ZERO Infections,WASHINGTON,Region1,"9205 SOUTHWEST BARNES ROAD
+PORTLAND 97225
+(45.5106612, -122.7718284)",https://data.oregon.gov/views/3rtq-kq2r/files/bf7dc9aa-bab7-40db-bd20-20f659b6fc6b,https://data.oregon.gov/views/3rtq-kq2r/files/6fb458f3-15d9-48c2-ad8c-801e3c63ff8a,34,17,724
+Asante Rogue Regional Medical Center,NICU Level II/III,305,0,0.45,*,*,#s too small to calculate,ZERO Infections,JACKSON,Region5,"2825 EAST BARNETT ROAD
+MEDFORD 97504
+(42.3174104, -122.8302961)",,https://data.oregon.gov/views/3rtq-kq2r/files/8eebb9b6-558b-4160-ac1b-3c2c54d1c422,6,3,2367
+Kaiser Permanente Sunnyside Medical Center,NICU Level II/III,186,0,0.2,*,*,#s too small to calculate,ZERO Infections,CLACKAMAS,Region1,"10180 SOUTHEAST SUNNYSIDE ROAD
+CLACKAMAS 97015
+(45.4312489, -122.5606)",,https://data.oregon.gov/views/3rtq-kq2r/files/0ddf008b-facc-4fa9-8a93-e35ad8f72f56,48,24,2317
+ 1. All Oregon,NICU Level III,1166,0,1.79,    0.000," , 1.674",Fewer infections,SIR Target (<0.5) Met & ZERO Infections,,,,https://data.oregon.gov/views/3rtq-kq2r/files/71e2cec2-ba57-4d98-b538-2f4e6c43e89b,https://data.oregon.gov/views/3rtq-kq2r/files/944301fe-17a4-4f39-8b38-8faa06915e5a,,,
+Sacred Heart Medical Center - Riverbend,NICU Level II/III,559,0,0.79,*,*,#s too small to calculate,ZERO Infections,LANE,Region3,"3333 RIVERBEND DR
+SPRINGFIELD 97477
+(44.080908, -123.026475)",,https://data.oregon.gov/views/3rtq-kq2r/files/377d565f-c7d4-4a58-9da3-b34818e36948,12,6,2371
+Sacred Heart Medical Center - Riverbend,NICU Level III,142,0,0.2,*,*,#s too small to calculate,ZERO Infections,LANE,Region3,"3333 RIVERBEND DR
+SPRINGFIELD 97477
+(44.080908, -123.026475)",,https://data.oregon.gov/views/3rtq-kq2r/files/624eec6a-602f-4113-ab20-3a777db9e023,12,6,2371
+ 1. All Oregon,NICU Level II/III,7434,4,9.48,    0.422,"0.134, 1.017",Fewer infections,SIR Target (<0.5) Met,,,,https://data.oregon.gov/views/3rtq-kq2r/files/017c5fdd-ec11-43f7-a782-5b5c2904875f,https://data.oregon.gov/views/3rtq-kq2r/files/f0c1967c-e3db-409d-9d4a-8ffdf4a24d9c,,,

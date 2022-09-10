@@ -1,0 +1,9 @@
+Hospital Name,Hospital Location,Central Line Days,Observed Infections,Predicted Infections,SIR,SIR 95% CI,SIR Interpretation (2015 US Baseline),2020 HHS Targets,County,HPP Region,Location 1,SIR Icon,Benchmark Icon
+ 1. All Oregon,All Adult/Ped ICUs & M/S/MS Wards Combined*,5515,7,6.92,1.012,"0.443, 2.002",More infections,Target Not Met,,,,https://data.oregon.gov/views/2ys3-t69d/files/7bb477b7-153a-4501-8b62-42cebddadf23,
+ 1. All Oregon,LTAC Wards,5515,7,6.92,1.012,"0.443, 2.002",More infections,Target Not Met,,,,https://data.oregon.gov/views/2ys3-t69d/files/f4e5ed30-7fd9-477d-8c1d-1ce15179b605,
+Vibra Specialty Hospital of Portland,All Adult/Ped ICUs & M/S/MS Wards Combined*,5515,7,6.92,1.012,"0.443, 2.002",More infections,Target Not Met,MULTNOMAH,Region1,"10300 NORTHEAST HANCOCK STREET
+PORTLAND 97220
+(45.5357391, -122.5564818)",https://data.oregon.gov/views/2ys3-t69d/files/99de7ade-4c8c-4711-8567-95b33b7d37cb,
+Vibra Specialty Hospital of Portland,LTAC Wards,5515,7,6.92,1.012,"0.443, 2.002",More infections,Target Not Met,MULTNOMAH,Region1,"10300 NORTHEAST HANCOCK STREET
+PORTLAND 97220
+(45.5357391, -122.5564818)",https://data.oregon.gov/views/2ys3-t69d/files/b3dc94ad-09cb-43ca-8f1d-a4e9c4bb6b6f,

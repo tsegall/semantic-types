@@ -1,0 +1,140 @@
+Hospital Name,Procedures Performed,Procedure Type,Complex SSIs,Predicted SSIs,SIR,SIR 95% CI,SIR Icon,SIR Interpretation (2006-08 US baseline),2013 HHS Targets,Percentile on 2014 National SIR Distribution,County,HPP Region,Location,Location 1,2010 House Districts,2010 Senate Districts,Counties
+Adventist Medical Center,64,COLO,3,1.54,1.943,"0.494, 5.287",https://data.oregon.gov/views/3pn4-9cmx/files/230bccc8-19e6-4588-aafe-103f20c9a15b,More infections,Target Not Met,86-90%,MULTNOMAH,Region1,"(45.512666, -122.5585885)","10123 SOUTHEAST MARKET STREET
+PORTLAND 97216
+(45.512666, -122.5585885)",46,23,2410
+ All Oregon,3870,COLO,77,117,0.658,"0.523, 0.818",https://data.oregon.gov/views/3pn4-9cmx/files/888c6537-abe2-4cc9-b1d5-2abeeafa5b9b,Statistically fewer infections,SIR Target (<0.75) Met,41-45%,,,,,,,
+Asante Rogue Regional Medical Center,173,COLO,0,4.13,0," , 0.726",https://data.oregon.gov/views/3pn4-9cmx/files/3ab07934-4f99-4200-be34-6b5d939e0561,Statistically fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-15%,JACKSON,Region5,"(42.3174104, -122.8302961)","2825 EAST BARNETT ROAD
+MEDFORD 97504
+(42.3174104, -122.8302961)",6,3,2367
+Asante Three Rivers Medical Center,97,COLO,1,2.52,0.397,"0.020, 1.959",https://data.oregon.gov/views/3pn4-9cmx/files/2a261ac2-cbde-4a97-b403-33589413c8be,Fewer infections,SIR Target (<0.75) Met,26-30%,JOSEPHINE,Region5,"(42.4212882, -123.3428747)","500 RAMSEY AVENUE
+GRANTS PASS 97527
+(42.4212882, -123.3428747)",3,2,2368
+Ashland Community Hospital,13,COLO,0,0.36, *, *,,#s too small to calculate,ZERO Infections,,JACKSON,Region5,"(42.2057909, -122.7247932)","280 MAPLE STREET
+ASHLAND 97520
+(42.2057909, -122.7247932)",5,3,2367
+Bay Area Hospital,56,COLO,0,1.25,0," , 2.398",https://data.oregon.gov/views/3pn4-9cmx/files/90a5a054-71d2-498a-b701-f57df096f86b,Fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-15%,COOS,Region3,"(43.3835349, -124.2329741)","1775 THOMPSON ROAD
+COOS BAY 97420
+(43.3835349, -124.2329741)",9,5,2320
+Columbia Memorial Hospital,5,COLO,0,0.16, *, *,,#s too small to calculate,ZERO Infections,,CLATSOP,Region1,"(46.1877604, -123.8190951)","2111 EXCHANGE STREET
+ASTORIA 97103
+(46.1877604, -123.8190951)",32,16,2318
+Curry General Hospital,0,COLO,0,0, *, *,,#s too small to calculate,ZERO Infections,,CURRY,Region3,"(42.4113416, -124.4184903)","94220 4TH STREET
+GOLD BEACH 97444
+(42.4113416, -124.4184903)",1,1,2321
+Good Samaritan Regional Medical Center,116,COLO,4,2.88,1.389,"0.441, 3.352",https://data.oregon.gov/views/3pn4-9cmx/files/6f0fc7e3-9207-4c81-83e2-b17d229bc5bc,More infections,Target Not Met,76-80%,BENTON,Region2,"(44.6034337, -123.2523328)","3600 NORTHWEST SAMARITAN DRIVE
+CORVALLIS 97330
+(44.6034337, -123.2523328)",16,8,2316
+Grande Ronde Hospital,18,COLO,0,0.4, *, *,,#s too small to calculate,ZERO Infections,,UNION,Region9,"(45.3195774, -118.1084603)","900 SUNSET DRIVE
+LA GRANDE 97850
+(45.3195774, -118.1084603)",58,29,2414
+Kaiser Permanente Sunnyside Medical Center,214,COLO,4,6.24,0.641,"0.204, 1.547",https://data.oregon.gov/views/3pn4-9cmx/files/afc9c145-e547-4d95-8e03-90b2aea22a07,Fewer infections,SIR Target (<0.75) Met,36-40%,CLACKAMAS,Region1,"(45.4312489, -122.5606)","10180 SOUTHEAST SUNNYSIDE ROAD
+CLACKAMAS 97015
+(45.4312489, -122.5606)",48,24,2317
+Kaiser Permanente Westside Medical Center,89,COLO,2,2.47,0.808,"0.136, 2.671",https://data.oregon.gov/views/3pn4-9cmx/files/b50a1999-7ae1-4d7c-9481-f669b9490f4a,Fewer infections,Target Not Met,46-50%,WASHINGTON,Region1,"(45.539113, -122.877205)","2875 NW STUCKI AVE
+HILLSBORO 97124
+(45.539113, -122.877205)",30,15,724
+Legacy Emanuel Medical Center,60,COLO,2,2.59,0.773,"0.130, 2.554",https://data.oregon.gov/views/3pn4-9cmx/files/a4c6cd85-2fb6-481f-925d-18e2160c922d,Fewer infections,Target Not Met,46-50%,MULTNOMAH,Region1,"(45.5435674, -122.6702704)","2801 NORTH GANTENBEIN AVENUE
+PORTLAND 97227
+(45.5435674, -122.6702704)",43,22,2410
+Legacy Good Samaritan Medical Center,157,COLO,6,5.5,1.092,"0.442, 2.271",https://data.oregon.gov/views/3pn4-9cmx/files/56ae61d3-4926-4c5c-84ed-a0020da07442,More infections,Target Not Met,61-65%,MULTNOMAH,Region1,"(45.5302217, -122.6973884)","1015 NORTHWEST 22ND AVENUE
+PORTLAND 97210
+(45.5302217, -122.6973884)",33,17,2410
+Legacy Meridian Park Medical Center,105,COLO,2,2.67,0.75,"0.126, 2.477",https://data.oregon.gov/views/3pn4-9cmx/files/b05f13f1-ab09-4f07-aead-c2beadc87ede,Fewer infections,SIR Target (<0.75) Met,46-50%,CLACKAMAS,Region1,"(45.3786716, -122.740804)","19300 SOUTHWEST 65TH AVENUE
+TUALATIN 97062
+(45.3786716, -122.740804)",37,19,2317
+Legacy Mount Hood Medical Center,81,COLO,4,2.5,1.597,"0.508, 3.853",https://data.oregon.gov/views/3pn4-9cmx/files/cde786da-fd16-4591-b4be-3ef861d6f968,More infections,Target Not Met,81-85%,MULTNOMAH,Region1,"(45.5166262, -122.4070368)","24800 SOUTHEAST STARK STREET
+GRESHAM 97030
+(45.5166262, -122.4070368)",49,25,2410
+McKenzie-Willamette Medical Center,88,COLO,0,2.69,0," , 1.114",https://data.oregon.gov/views/3pn4-9cmx/files/63eb651a-3977-425e-9822-3a527f67f797,Fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-15%,LANE,Region3,"(44.0530441, -123.0039526)","1460 G STREET
+SPRINGFIELD 97477
+(44.0530441, -123.0039526)",12,6,2371
+Mercy Medical Center,82,COLO,1,2.05,0.487,"0.024, 2.401",https://data.oregon.gov/views/3pn4-9cmx/files/43623efd-62bf-469a-8fca-d807de59e61e,Fewer infections,SIR Target (<0.75) Met,31-35%,DOUGLAS,Region3,"(43.2414531, -123.3669708)","2700 NORTHWEST STEWART PARKWAY
+ROSEBURG 97470
+(43.2414531, -123.3669708)",2,1,2363
+Mid-Columbia Medical Center,25,COLO,0,0.8, *, *,,#s too small to calculate,ZERO Infections,,WASCO,Region6,"(45.5873161, -121.1644619)","1700 EAST 19TH STREET
+THE DALLES 97058
+(45.5873161, -121.1644619)",59,30,2451
+Oregon Health & Science University,396,COLO,10,14.75,0.678,"0.344, 1.208",https://data.oregon.gov/views/3pn4-9cmx/files/00b7ec14-f8c4-4114-9793-d60f9e0fc16e,Fewer infections,SIR Target (<0.75) Met,41-45%,MULTNOMAH,Region1,"(45.4989708, -122.6861182)","3181 SOUTHWEST SAM JACKSON PARK ROAD
+PORTLAND 97239
+(45.4989708, -122.6861182)",36,18,2410
+Peace Harbor Hospital,9,COLO,0,0.29, *, *,,#s too small to calculate,ZERO Infections,,LANE,Region3,"(43.9731003, -124.1174552)","400 9TH STREET
+FLORENCE 97439
+(43.9731003, -124.1174552)",9,5,2371
+Pioneer Memorial Hospital - Prineville,8,COLO,0,0.27, *, *,,#s too small to calculate,ZERO Infections,,CROOK,Region7,"(44.3102605, -120.843538)","1201 NORTHEAST ELM STREET
+PRINEVILLE 97754
+(44.3102605, -120.843538)",55,28,719
+Providence Hood River Memorial Hospital,27,COLO,1,0.7, *, *,,#s too small to calculate,,,HOOD RIVER,Region6,"(45.7048557, -121.5243182)","810 12TH STREET
+HOOD RIVER 97031
+(45.7048557, -121.5243182)",52,26,2366
+Providence Medford Medical Center,64,COLO,4,1.77,2.259,"0.718, 5.449",https://data.oregon.gov/views/3pn4-9cmx/files/ffa0c4c2-6258-4042-b2b2-3c424f486a90,More infections,Target Not Met,91-95%,JACKSON,Region5,"(42.3396452, -122.8628254)","1111 CRATER LAKE AVENUE
+MEDFORD 97504
+(42.3396452, -122.8628254)",6,3,2367
+Providence Milwaukie Hospital,45,COLO,0,0.98, *, *,,#s too small to calculate,ZERO Infections,,CLACKAMAS,Region1,"(45.4495992, -122.6276076)","10150 SOUTHEAST 32ND AVENUE
+PORTLAND 97222
+(45.4495992, -122.6276076)",41,21,2317
+Providence Newberg Medical Center,44,COLO,2,1.11,1.803,"0.302, 5.957",https://data.oregon.gov/views/3pn4-9cmx/files/38d450aa-449a-4e17-9b25-697af41cc0a7,More infections,Target Not Met,86-90%,YAMHILL,Region2,"(45.3081804, -122.9358992)","1001 PROVIDENCE DRIVE
+NEWBERG 97132
+(45.3081804, -122.9358992)",25,13,2453
+Providence Portland Medical Center,348,COLO,3,11.65,0.258,"0.066, 0.701",https://data.oregon.gov/views/3pn4-9cmx/files/f8b5010b-2f34-4b46-8a2e-53d684257ce0,Statistically fewer infections,SIR Target (<0.75) Met,21-25%,MULTNOMAH,Region1,"(45.52742, -122.6137641)","4805 NORTHEAST GLISAN STREET
+PORTLAND 97213
+(45.52742, -122.6137641)",46,23,2410
+Providence Seaside Hospital,10,COLO,1,0.26, *, *,,#s too small to calculate,,,CLATSOP,Region1,"(45.9890003, -123.9120832)","725 SOUTH WAHANNA ROAD
+SEASIDE 97138
+(45.9890003, -123.9120832)",32,16,2318
+Providence St. Vincent Medical Center,291,COLO,5,8.48,0.589,"0.216, 1.306",https://data.oregon.gov/views/3pn4-9cmx/files/2d001244-6235-40c6-a69e-6552ae965fe7,Fewer infections,SIR Target (<0.75) Met,36-40%,WASHINGTON,Region1,"(45.5106612, -122.7718284)","9205 SOUTHWEST BARNES ROAD
+PORTLAND 97225
+(45.5106612, -122.7718284)",34,17,724
+Providence Willamette Falls Medical Center,48,COLO,1,1.42,0.706,"0.035, 3.481",https://data.oregon.gov/views/3pn4-9cmx/files/ad1a8994-e836-4479-ad24-a2b81313f5d1,Fewer infections,SIR Target (<0.75) Met,41-45%,CLACKAMAS,Region1,"(45.3559686, -122.5880138)","1500 DIVISION STREET
+OREGON CITY 97045
+(45.3559686, -122.5880138)",40,20,2317
+Sacred Heart Medical Center - Riverbend,333,COLO,4,10.98,0.364,"0.116, 0.879",https://data.oregon.gov/views/3pn4-9cmx/files/256bb904-e280-4fb1-ad77-d6671890c67b,Statistically fewer infections,SIR Target (<0.75) Met,21-25%,LANE,Region3,"(44.080908, -123.026475)","3333 RIVERBEND DR
+SPRINGFIELD 97477
+(44.080908, -123.026475)",12,6,2371
+Salem Hospital,270,COLO,5,9.03,0.554,"0.203, 1.227",https://data.oregon.gov/views/3pn4-9cmx/files/a4260f40-947d-40a2-aa5d-c1d7e1a42b8e,Fewer infections,SIR Target (<0.75) Met,31-35%,MARION,Region2,"(44.932538, -123.033944)","890 Oak St SE, Salem, OR 97301
+SALEM 97301
+(44.932538, -123.033944)",21,11,2409
+Samaritan Albany General Hospital,31,COLO,1,0.94, *, *,,#s too small to calculate,,,LINN,Region2,"(44.631601, -123.1162322)","1046 6TH AVENUE SOUTHWEST
+ALBANY 97321
+(44.631601, -123.1162322)",15,8,2407
+Samaritan Lebanon Community Hospital,16,COLO,0,0.41, *, *,,#s too small to calculate,ZERO Infections,,LINN,Region2,"(44.5510546, -122.9068699)","525 NORTH SANTIAM HIGHWAY
+LEBANON 97355
+(44.5510546, -122.9068699)",17,9,2407
+Samaritan North Lincoln Hospital,2,COLO,0,0.05, *, *,,#s too small to calculate,ZERO Infections,,LINCOLN,Region2,"(44.9855152, -123.9963271)","3043 NORTHEAST 28TH STREET
+LINCOLN CITY 97367
+(44.9855152, -123.9963271)",10,5,2372
+Samaritan Pacific Communitites Hospital,13,COLO,1,0.36, *, *,,#s too small to calculate,,,LINCOLN,Region2,"(44.6291047, -124.0597775)","930 SOUTHWEST ABBEY STREET
+NEWPORT 97365
+(44.6291047, -124.0597775)",10,5,2372
+Santiam Memorial Hospital,18,COLO,1,0.51, *, *,,#s too small to calculate,,,MARION,Region2,"(44.8051122, -122.7847402)","1401 NORTH 10TH AVENUE
+STAYTON 97383
+(44.8051122, -122.7847402)",17,9,2409
+Silverton Hospital,27,COLO,0,0.73, *, *,,#s too small to calculate,ZERO Infections,,MARION,Region2,"(45.0044832, -122.7899933)","342 FAIRVIEW STREET
+SILVERTON 97381
+(45.0044832, -122.7899933)",18,9,2409
+Sky Lakes Medical Center,40,COLO,0,0.99, *, *,,#s too small to calculate,ZERO Infections,,KLAMATH,Region7,"(42.2529597, -121.7846535)","2865 DAGGETT AVENUE
+KLAMATH FALLS 97601
+(42.2529597, -121.7846535)",56,28,2369
+St. Alphonsus Medical Center - Ontario,32,COLO,2,0.83, *, *,,#s too small to calculate,,,MALHEUR,Region9,"(44.025249, -116.976891)","351 SW 9TH STREET
+ONTARIO 97914
+(44.025249, -116.976891)",60,30,2408
+St. Anthony Hospital,21,COLO,0,0.63, *, *,,#s too small to calculate,ZERO Infections,,UMATILLA,Region9,"(45.648587,-118.812262)","2801 st. anthony way
+PENDLETON 97801
+(45.648587, -118.812262)",58,29,2413
+St. Charles Medical Center - Bend,173,COLO,4,5.33,0.751,"0.239, 1.811",https://data.oregon.gov/views/3pn4-9cmx/files/3c7be57e-5956-4e4b-807f-52403966cefa,Fewer infections,SIR Target (<0.75) Met,46-50%,DESCHUTES,Region7,"(44.067636, -121.2693136)","2500 NORTHEAST NEFF ROAD
+BEND 97701
+(44.067636, -121.2693136)",54,27,2362
+St. Charles Medical Center - Madras,5,COLO,0,0.1, *, *,,#s too small to calculate,ZERO Infections,,JEFFERSON,Region7,"(44.637408, -121.120344)","470 NE A STREET
+MADRAS 97741
+(44.637408, -121.120344)",59,30,721
+St. Charles Medical Center - Redmond,58,COLO,1,1.43,0.697,"0.035, 3.439",https://data.oregon.gov/views/3pn4-9cmx/files/c716fbfa-f2db-4d03-be1f-e7dcf6634a24,Fewer infections,SIR Target (<0.75) Met,41-45%,DESCHUTES,Region7,"(44.288663, -121.1696273)","1253 NORTH CANAL BOULEVARD
+REDMOND 97756
+(44.288663, -121.1696273)",53,27,2362
+Tillamook County Hospital,14,COLO,1,0.39, *, *,,#s too small to calculate,,,TILLAMOOK,Region2,"(45.4566359, -123.8544868)","1000 3RD STREET
+TILLAMOOK 97141
+(45.4566359, -123.8544868)",32,16,2412
+Tuality Community Hostpital,43,COLO,0,1, *, *,,#s too small to calculate,ZERO Infections,,WASHINGTON,Region1,"(45.5194749, -122.9781033)","335 SOUTHEAST 8TH AVENUE
+HILLSBORO 97123
+(45.5194749, -122.9781033)",29,15,724
+Willamette Valley Medical Center,41,COLO,1,0.87, *, *,,#s too small to calculate,,,YAMHILL,Region2,"(45.1990006, -123.164851)","2700 SOUTHEAST STRATUS AVENUE
+MCMINNVILLE 97128
+(45.1990006, -123.164851)",24,12,2453

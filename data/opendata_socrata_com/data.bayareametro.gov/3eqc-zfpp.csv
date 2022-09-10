@@ -1,0 +1,328 @@
+"city","county","years","totalunits","totalunits_avg_annual","sfunits","sfunits_avg_annual","mfunits","mfunits_avg_annual","source1","source2"
+"Alameda","Alameda County","1990-1999","841","84.1","821","82.1","20","2.0","CIRB",
+"Alameda County Unincorporated","Alameda County","1990-1999","3720","372.0","2911","291.1","809","80.9","CIRB",
+"Albany","Alameda County","1990-1999","44","4.4","25","2.5","19","1.9","CIRB",
+"Berkeley","Alameda County","1990-1999","587","58.7","128","12.8","459","45.9","CIRB",
+"Dublin","Alameda County","1990-1999","2485","248.5","1158","115.8","1327","132.7","CIRB",
+"Emeryville","Alameda County","1990-1999","788","78.8","11","1.1","777","77.7","CIRB",
+"Fremont","Alameda County","1990-1999","7496","749.6","4175","417.5","3321","332.1","CIRB",
+"Hayward","Alameda County","1990-1999","2844","284.4","1754","175.4","1090","109.0","CIRB",
+"Livermore","Alameda County","1990-1999","4780","478.0","4362","436.2","418","41.8","CIRB",
+"Newark","Alameda County","1990-1999","852","85.2","520","52.0","332","33.2","CIRB",
+"Oakland","Alameda County","1990-1999","5319","531.9","2897","289.7","2422","242.2","CIRB",
+"Piedmont","Alameda County","1990-1999","19","1.9","19","1.9","0","0.0","CIRB",
+"Pleasanton","Alameda County","1990-1999","4217","421.7","3566","356.6","651","65.1","CIRB",
+"San Leandro","Alameda County","1990-1999","1350","135.0","1295","129.5","55","5.5","CIRB",
+"Union City","Alameda County","1990-1999","2815","281.5","2636","263.6","179","17.9","CIRB",
+"Antioch","Contra Costa County","1990-1999","7395","739.5","6956","695.6","439","43.9","CIRB",
+"Brentwood","Contra Costa County","1990-1999","5203","520.3","4831","483.1","372","37.2","CIRB",
+"Clayton","Contra Costa County","1990-1999","0","0.0","0","0.0","0","0.0","CIRB",
+"Concord","Contra Costa County","1990-1999","1095","109.5","864","86.4","231","23.1","CIRB",
+"Contra Costa County Unincorporated","Contra Costa County","1990-1999","11719","1171.9","9715","971.5","2004","200.4","CIRB",
+"Danville","Contra Costa County","1990-1999","3082","308.2","2993","299.3","89","8.9","CIRB",
+"El Cerrito","Contra Costa County","1990-1999","189","18.9","54","5.4","135","13.5","CIRB",
+"Hercules","Contra Costa County","1990-1999","689","68.9","327","32.7","362","36.2","CIRB",
+"Lafayette","Contra Costa County","1990-1999","0","0.0","0","0.0","0","0.0","CIRB",
+"Martinez","Contra Costa County","1990-1999","870","87.0","863","86.3","7","0.7","CIRB",
+"Moraga","Contra Costa County","1990-1999","0","0.0","0","0.0","0","0.0","CIRB",
+"Oakley","Contra Costa County","1990-1999","0","0.0","0","0.0","0","0.0","CIRB",
+"Orinda","Contra Costa County","1990-1999","0","0.0","0","0.0","0","0.0","CIRB",
+"Pinole","Contra Costa County","1990-1999","278","27.8","183","18.3","95","9.5","CIRB",
+"Pittsburg","Contra Costa County","1990-1999","1767","176.7","1595","159.5","172","17.2","CIRB",
+"Pleasant Hill","Contra Costa County","1990-1999","231","23.1","231","23.1","0","0.0","CIRB",
+"Richmond","Contra Costa County","1990-1999","1817","181.7","777","77.7","1040","104.0","CIRB",
+"San Pablo","Contra Costa County","1990-1999","321","32.1","241","24.1","80","8.0","CIRB",
+"San Ramon","Contra Costa County","1990-1999","2998","299.8","2195","219.5","803","80.3","CIRB",
+"Walnut Creek","Contra Costa County","1990-1999","1038","103.8","457","45.7","581","58.1","CIRB",
+"Belvedere","Marin County","1990-1999","21","2.1","21","2.1","0","0.0","CIRB",
+"Corte Madera","Marin County","1990-1999","167","16.7","167","16.7","0","0.0","CIRB",
+"Fairfax","Marin County","1990-1999","33","3.3","33","3.3","0","0.0","CIRB",
+"Larkspur","Marin County","1990-1999","146","14.6","101","10.1","45","4.5","CIRB",
+"Marin County Unincorporated","Marin County","1990-1999","1687","168.7","1310","131.0","377","37.7","CIRB",
+"Mill Valley","Marin County","1990-1999","142","14.2","135","13.5","7","0.7","CIRB",
+"Novato","Marin County","1990-1999","1313","131.3","1048","104.8","265","26.5","CIRB",
+"Ross","Marin County","1990-1999","24","2.4","24","2.4","0","0.0","CIRB",
+"San Anselmo","Marin County","1990-1999","72","7.2","70","7.0","2","0.2","CIRB",
+"San Rafael","Marin County","1990-1999","1564","156.4","602","60.2","962","96.2","CIRB",
+"Sausalito","Marin County","1990-1999","85","8.5","57","5.7","28","2.8","CIRB",
+"Tiburon","Marin County","1990-1999","307","30.7","251","25.1","56","5.6","CIRB",
+"American Canyon","Napa County","1990-1999","254","25.4","254","25.4","0","0.0","CIRB",
+"Calistoga","Napa County","1990-1999","172","17.2","111","11.1","61","6.1","CIRB",
+"Napa","Napa County","1990-1999","2527","252.7","2001","200.1","526","52.6","CIRB",
+"Napa County Unincorporated","Napa County","1990-1999","1235","123.5","1171","117.1","64","6.4","CIRB",
+"St. Helena","Napa County","1990-1999","427","42.7","274","27.4","153","15.3","CIRB",
+"Yountville","Napa County","1990-1999","175","17.5","175","17.5","0","0.0","CIRB",
+"San Francisco","San Francisco County","1990-1999","14503","1450.3","1430","143.0","13073","1307.3","CIRB",
+"Atherton","San Mateo County","1990-1999","111","11.1","111","11.1","0","0.0","CIRB",
+"Belmont","San Mateo County","1990-1999","441","44.1","338","33.8","103","10.3","CIRB",
+"Brisbane","San Mateo County","1990-1999","416","41.6","23","2.3","393","39.3","CIRB",
+"Burlingame","San Mateo County","1990-1999","348","34.8","126","12.6","222","22.2","CIRB",
+"Colma","San Mateo County","1990-1999","20","2.0","0","0.0","20","2.0","CIRB",
+"Daly City","San Mateo County","1990-1999","898","89.8","666","66.6","232","23.2","CIRB",
+"East Palo Alto","San Mateo County","1990-1999","177","17.7","117","11.7","60","6.0","CIRB",
+"Foster City","San Mateo County","1990-1999","376","37.6","127","12.7","249","24.9","CIRB",
+"Half Moon Bay","San Mateo County","1990-1999","380","38.0","308","30.8","72","7.2","CIRB",
+"Hillsborough","San Mateo County","1990-1999","155","15.5","155","15.5","0","0.0","CIRB",
+"Menlo Park","San Mateo County","1990-1999","437","43.7","387","38.7","50","5.0","CIRB",
+"Millbrae","San Mateo County","1990-1999","229","22.9","30","3.0","199","19.9","CIRB",
+"Pacifica","San Mateo County","1990-1999","537","53.7","342","34.2","195","19.5","CIRB",
+"Portola Valley","San Mateo County","1990-1999","79","7.9","79","7.9","0","0.0","CIRB",
+"Redwood City","San Mateo County","1990-1999","2291","229.1","1079","107.9","1212","121.2","CIRB",
+"San Bruno","San Mateo County","1990-1999","43","4.3","39","3.9","4","0.4","CIRB",
+"San Carlos","San Mateo County","1990-1999","271","27.1","174","17.4","97","9.7","CIRB",
+"San Mateo","San Mateo County","1990-1999","1279","127.9","165","16.5","1114","111.4","CIRB",
+"San Mateo County Unincorporated","San Mateo County","1990-1999","1514","151.4","1373","137.3","141","14.1","CIRB",
+"South San Francisco","San Mateo County","1990-1999","970","97.0","769","76.9","201","20.1","CIRB",
+"Woodside","San Mateo County","1990-1999","161","16.1","161","16.1","0","0.0","CIRB",
+"Campbell","Santa Clara County","1990-1999","834","83.4","466","46.6","368","36.8","CIRB",
+"Cupertino","Santa Clara County","1990-1999","2057","205.7","738","73.8","1319","131.9","CIRB",
+"Gilroy","Santa Clara County","1990-1999","2732","273.2","2225","222.5","507","50.7","CIRB",
+"Los Altos","Santa Clara County","1990-1999","437","43.7","301","30.1","136","13.6","CIRB",
+"Los Altos Hills","Santa Clara County","1990-1999","264","26.4","264","26.4","0","0.0","CIRB",
+"Los Gatos","Santa Clara County","1990-1999","715","71.5","417","41.7","298","29.8","CIRB",
+"Milpitas","Santa Clara County","1990-1999","3023","302.3","1907","190.7","1116","111.6","CIRB",
+"Monte Sereno","Santa Clara County","1990-1999","101","10.1","101","10.1","0","0.0","CIRB",
+"Morgan Hill","Santa Clara County","1990-1999","2778","277.8","2315","231.5","463","46.3","CIRB",
+"Mountain View","Santa Clara County","1990-1999","1962","196.2","1251","125.1","711","71.1","CIRB",
+"Palo Alto","Santa Clara County","1990-1999","1900","190.0","677","67.7","1223","122.3","CIRB",
+"San Jose","Santa Clara County","1990-1999","28777","2877.7","12468","1246.8","16309","1630.9","CIRB",
+"Santa Clara","Santa Clara County","1990-1999","2777","277.7","915","91.5","1862","186.2","CIRB",
+"Santa Clara County Unincorporated","Santa Clara County","1990-1999","1429","142.9","1277","127.7","152","15.2","CIRB",
+"Saratoga","Santa Clara County","1990-1999","566","56.6","566","56.6","0","0.0","CIRB",
+"Sunnyvale","Santa Clara County","1990-1999","3294","329.4","944","94.4","2350","235.0","CIRB",
+"Benicia","Solano County","1990-1999","880","88.0","788","78.8","92","9.2","CIRB",
+"Dixon","Solano County","1990-1999","1598","159.8","1572","157.2","26","2.6","CIRB",
+"Fairfield","Solano County","1990-1999","4833","483.3","3326","332.6","1507","150.7","CIRB",
+"Rio Vista","Solano County","1990-1999","572","57.2","541","54.1","31","3.1","CIRB",
+"Solano County Unincorporated","Solano County","1990-1999","503","50.3","487","48.7","16","1.6","CIRB",
+"Suisun City","Solano County","1990-1999","1585","158.5","1557","155.7","28","2.8","CIRB",
+"Vacaville","Solano County","1990-1999","4745","474.5","4037","403.7","708","70.8","CIRB",
+"Vallejo","Solano County","1990-1999","2364","236.4","2051","205.1","313","31.3","CIRB",
+"Cloverdale","Sonoma County","1990-1999","0","0.0","0","0.0","0","0.0","CIRB",
+"Cotati","Sonoma County","1990-1999","0","0.0","0","0.0","0","0.0","CIRB",
+"Healdsburg","Sonoma County","1990-1999","0","0.0","0","0.0","0","0.0","CIRB",
+"Petaluma","Sonoma County","1990-1999","0","0.0","0","0.0","0","0.0","CIRB",
+"Rohnert Park","Sonoma County","1990-1999","1769","176.9","1055","105.5","714","71.4","CIRB",
+"Santa Rosa","Sonoma County","1990-1999","8063","806.3","6311","631.1","1752","175.2","CIRB",
+"Sebastopol","Sonoma County","1990-1999","306","30.6","272","27.2","34","3.4","CIRB",
+"Sonoma","Sonoma County","1990-1999","687","68.7","474","47.4","213","21.3","CIRB",
+"Sonoma County Unincorporated","Sonoma County","1990-1999","5361","536.1","5036","503.6","325","32.5","CIRB",
+"Windsor","Sonoma County","1990-1999","1936","193.6","1688","168.8","248","24.8","CIRB",
+"Alameda","Alameda County","2000-2009","726","72.6","652","65.2","74","7.4","CIRB",
+"Alameda County Unincorporated","Alameda County","2000-2009","1825","182.5","1177","117.7","648","64.8","CIRB",
+"Albany","Alameda County","2000-2009","116","11.6","51","5.1","65","6.5","CIRB",
+"Berkeley","Alameda County","2000-2009","2097","209.7","137","13.7","1960","196.0","CIRB",
+"Dublin","Alameda County","2000-2009","6405","640.5","2457","245.7","3948","394.8","CIRB",
+"Emeryville","Alameda County","2000-2009","1860","186.0","46","4.6","1814","181.4","CIRB",
+"Fremont","Alameda County","2000-2009","3095","309.5","1540","154.0","1555","155.5","CIRB",
+"Hayward","Alameda County","2000-2009","2875","287.5","2506","250.6","369","36.9","CIRB",
+"Livermore","Alameda County","2000-2009","3706","370.6","2682","268.2","1024","102.4","CIRB",
+"Newark","Alameda County","2000-2009","240","24.0","236","23.6","4","0.4","CIRB",
+"Oakland","Alameda County","2000-2009","10078","1007.8","2050","205.0","8028","802.8","CIRB",
+"Piedmont","Alameda County","2000-2009","22","2.2","22","2.2","0","0.0","CIRB",
+"Pleasanton","Alameda County","2000-2009","1905","190.5","1590","159.0","315","31.5","CIRB",
+"San Leandro","Alameda County","2000-2009","862","86.2","782","78.2","80","8.0","CIRB",
+"Union City","Alameda County","2000-2009","2193","219.3","1342","134.2","851","85.1","CIRB",
+"Antioch","Contra Costa County","2000-2009","4591","459.1","4172","417.2","419","41.9","CIRB",
+"Brentwood","Contra Costa County","2000-2009","9341","934.1","8933","893.3","408","40.8","CIRB",
+"Clayton","Contra Costa County","2000-2009","0","0.0","0","0.0","0","0.0","CIRB",
+"Concord","Contra Costa County","2000-2009","1948","194.8","1203","120.3","745","74.5","CIRB",
+"Contra Costa County Unincorporated","Contra Costa County","2000-2009","14564","1456.4","11040","1104.0","3524","352.4","CIRB",
+"Danville","Contra Costa County","2000-2009","517","51.7","337","33.7","180","18.0","CIRB",
+"El Cerrito","Contra Costa County","2000-2009","66","6.6","62","6.2","4","0.4","CIRB",
+"Hercules","Contra Costa County","2000-2009","2060","206.0","1694","169.4","366","36.6","CIRB",
+"Lafayette","Contra Costa County","2000-2009","31","3.1","31","3.1","0","0.0","CIRB",
+"Martinez","Contra Costa County","2000-2009","376","37.6","372","37.2","4","0.4","CIRB",
+"Moraga","Contra Costa County","2000-2009","5","0.5","5","0.5","0","0.0","CIRB",
+"Oakley","Contra Costa County","2000-2009","3290","329.0","2798","279.8","492","49.2","CIRB",
+"Orinda","Contra Costa County","2000-2009","23","2.3","23","2.3","0","0.0","CIRB",
+"Pinole","Contra Costa County","2000-2009","195","19.5","136","13.6","59","5.9","CIRB",
+"Pittsburg","Contra Costa County","2000-2009","3662","366.2","2562","256.2","1100","110.0","CIRB",
+"Pleasant Hill","Contra Costa County","2000-2009","608","60.8","262","26.2","346","34.6","CIRB",
+"Richmond","Contra Costa County","2000-2009","2537","253.7","1342","134.2","1195","119.5","CIRB",
+"San Pablo","Contra Costa County","2000-2009","828","82.8","421","42.1","407","40.7","CIRB",
+"San Ramon","Contra Costa County","2000-2009","569","56.9","496","49.6","73","7.3","CIRB",
+"Walnut Creek","Contra Costa County","2000-2009","1249","124.9","353","35.3","896","89.6","CIRB",
+"Belvedere","Marin County","2000-2009","25","2.5","25","2.5","0","0.0","CIRB",
+"Corte Madera","Marin County","2000-2009","101","10.1","22","2.2","79","7.9","CIRB",
+"Fairfax","Marin County","2000-2009","21","2.1","19","1.9","2","0.2","CIRB",
+"Larkspur","Marin County","2000-2009","94","9.4","78","7.8","16","1.6","CIRB",
+"Marin County Unincorporated","Marin County","2000-2009","861","86.1","729","72.9","132","13.2","CIRB",
+"Mill Valley","Marin County","2000-2009","133","13.3","118","11.8","15","1.5","CIRB",
+"Novato","Marin County","2000-2009","1963","196.3","1536","153.6","427","42.7","CIRB",
+"Ross","Marin County","2000-2009","19","1.9","19","1.9","0","0.0","CIRB",
+"San Anselmo","Marin County","2000-2009","86","8.6","73","7.3","13","1.3","CIRB",
+"San Rafael","Marin County","2000-2009","815","81.5","206","20.6","609","60.9","CIRB",
+"Sausalito","Marin County","2000-2009","84","8.4","52","5.2","32","3.2","CIRB",
+"Tiburon","Marin County","2000-2009","162","16.2","159","15.9","3","0.3","CIRB",
+"American Canyon","Napa County","2000-2009","2602","260.2","2241","224.1","361","36.1","CIRB",
+"Calistoga","Napa County","2000-2009","98","9.8","84","8.4","14","1.4","CIRB",
+"Napa","Napa County","2000-2009","2317","231.7","1248","124.8","1069","106.9","CIRB",
+"Napa County Unincorporated","Napa County","2000-2009","879","87.9","856","85.6","23","2.3","CIRB",
+"St. Helena","Napa County","2000-2009","110","11.0","94","9.4","16","1.6","CIRB",
+"Yountville","Napa County","2000-2009","52","5.2","44","4.4","8","0.8","CIRB",
+"San Francisco","San Francisco County","2000-2009","21778","2177.8","684","68.4","21094","2109.4","CIRB",
+"Atherton","San Mateo County","2000-2009","168","16.8","168","16.8","0","0.0","CIRB",
+"Belmont","San Mateo County","2000-2009","239","23.9","128","12.8","111","11.1","CIRB",
+"Brisbane","San Mateo County","2000-2009","109","10.9","89","8.9","20","2.0","CIRB",
+"Burlingame","San Mateo County","2000-2009","305","30.5","168","16.8","137","13.7","CIRB",
+"Colma","San Mateo County","2000-2009","89","8.9","73","7.3","16","1.6","CIRB",
+"Daly City","San Mateo County","2000-2009","701","70.1","399","39.9","302","30.2","CIRB",
+"East Palo Alto","San Mateo County","2000-2009","738","73.8","416","41.6","322","32.2","CIRB",
+"Foster City","San Mateo County","2000-2009","474","47.4","4","0.4","470","47.0","CIRB",
+"Half Moon Bay","San Mateo County","2000-2009","376","37.6","265","26.5","111","11.1","CIRB",
+"Hillsborough","San Mateo County","2000-2009","171","17.1","171","17.1","0","0.0","CIRB",
+"Menlo Park","San Mateo County","2000-2009","342","34.2","338","33.8","4","0.4","CIRB",
+"Millbrae","San Mateo County","2000-2009","397","39.7","35","3.5","362","36.2","CIRB",
+"Pacifica","San Mateo County","2000-2009","256","25.6","225","22.5","31","3.1","CIRB",
+"Portola Valley","San Mateo County","2000-2009","99","9.9","88","8.8","11","1.1","CIRB",
+"Redwood City","San Mateo County","2000-2009","592","59.2","170","17.0","422","42.2","CIRB",
+"San Bruno","San Mateo County","2000-2009","1107","110.7","229","22.9","878","87.8","CIRB",
+"San Carlos","San Mateo County","2000-2009","344","34.4","112","11.2","232","23.2","CIRB",
+"San Mateo","San Mateo County","2000-2009","1589","158.9","257","25.7","1332","133.2","CIRB",
+"San Mateo County Unincorporated","San Mateo County","2000-2009","2387","238.7","1773","177.3","614","61.4","CIRB",
+"South San Francisco","San Mateo County","2000-2009","1400","140.0","421","42.1","979","97.9","CIRB",
+"Woodside","San Mateo County","2000-2009","138","13.8","138","13.8","0","0.0","CIRB",
+"Campbell","Santa Clara County","2000-2009","534","53.4","443","44.3","91","9.1","CIRB",
+"Cupertino","Santa Clara County","2000-2009","1387","138.7","951","95.1","436","43.6","CIRB",
+"Gilroy","Santa Clara County","2000-2009","2767","276.7","2181","218.1","586","58.6","CIRB",
+"Los Altos","Santa Clara County","2000-2009","649","64.9","504","50.4","145","14.5","CIRB",
+"Los Altos Hills","Santa Clara County","2000-2009","268","26.8","266","26.6","2","0.2","CIRB",
+"Los Gatos","Santa Clara County","2000-2009","724","72.4","405","40.5","319","31.9","CIRB",
+"Milpitas","Santa Clara County","2000-2009","2105","210.5","326","32.6","1779","177.9","CIRB",
+"Monte Sereno","Santa Clara County","2000-2009","106","10.6","106","10.6","0","0.0","CIRB",
+"Morgan Hill","Santa Clara County","2000-2009","1789","178.9","1513","151.3","276","27.6","CIRB",
+"Mountain View","Santa Clara County","2000-2009","1622","162.2","1063","106.3","559","55.9","CIRB",
+"Palo Alto","Santa Clara County","2000-2009","2306","230.6","989","98.9","1317","131.7","CIRB",
+"San Jose","Santa Clara County","2000-2009","28327","2832.7","6668","666.8","21659","2165.9","CIRB",
+"Santa Clara","Santa Clara County","2000-2009","4900","490.0","1668","166.8","3232","323.2","CIRB",
+"Santa Clara County Unincorporated","Santa Clara County","2000-2009","1286","128.6","1024","102.4","262","26.2","CIRB",
+"Saratoga","Santa Clara County","2000-2009","601","60.1","412","41.2","189","18.9","CIRB",
+"Sunnyvale","Santa Clara County","2000-2009","2598","259.8","1715","171.5","883","88.3","CIRB",
+"Benicia","Solano County","2000-2009","777","77.7","619","61.9","158","15.8","CIRB",
+"Dixon","Solano County","2000-2009","960","96.0","555","55.5","405","40.5","CIRB",
+"Fairfield","Solano County","2000-2009","5999","599.9","5083","508.3","916","91.6","CIRB",
+"Rio Vista","Solano County","2000-2009","1928","192.8","1926","192.6","2","0.2","CIRB",
+"Solano County Unincorporated","Solano County","2000-2009","508","50.8","502","50.2","6","0.6","CIRB",
+"Suisun City","Solano County","2000-2009","1173","117.3","986","98.6","187","18.7","CIRB",
+"Vacaville","Solano County","2000-2009","4455","445.5","2947","294.7","1508","150.8","CIRB",
+"Vallejo","Solano County","2000-2009","3214","321.4","2540","254.0","674","67.4","CIRB",
+"Cloverdale","Sonoma County","2000-2009","0","0.0","0","0.0","0","0.0","CIRB",
+"Cotati","Sonoma County","2000-2009","0","0.0","0","0.0","0","0.0","CIRB",
+"Healdsburg","Sonoma County","2000-2009","0","0.0","0","0.0","0","0.0","CIRB",
+"Petaluma","Sonoma County","2000-2009","0","0.0","0","0.0","0","0.0","CIRB",
+"Rohnert Park","Sonoma County","2000-2009","899","89.9","94","9.4","805","80.5","CIRB",
+"Santa Rosa","Sonoma County","2000-2009","8078","807.8","4908","490.8","3170","317.0","CIRB",
+"Sebastopol","Sonoma County","2000-2009","160","16.0","117","11.7","43","4.3","CIRB",
+"Sonoma","Sonoma County","2000-2009","714","71.4","482","48.2","232","23.2","CIRB",
+"Sonoma County Unincorporated","Sonoma County","2000-2009","3740","374.0","3192","319.2","548","54.8","CIRB",
+"Windsor","Sonoma County","2000-2009","1584","158.4","1339","133.9","245","24.5","CIRB",
+"Alameda","Alameda County","2010-2017","380","47.5","116","14.5","264","33.0","CHF","ABAG"
+"Alameda County Unincorporated","Alameda County","2010-2017","490","61.3","157","19.6","333","41.6","CHF","ABAG"
+"Albany","Alameda County","2010-2017","225","28.1","42","5.3","183","22.9","CHF","ABAG"
+"Berkeley","Alameda County","2010-2017","1432","179.0","121","15.1","1311","163.9","CHF","ABAG"
+"Dublin","Alameda County","2010-2017","6615","826.9","3671","458.9","2944","368.0","CHF","ABAG"
+"Emeryville","Alameda County","2010-2017","1475","184.4","5","0.6","1470","183.8","CHF","ABAG"
+"Fremont","Alameda County","2010-2017","4456","557.0","1327","165.9","3129","391.1","CHF","ABAG"
+"Hayward","Alameda County","2010-2017","2021","252.6","1554","194.3","467","58.4","CHF","ABAG"
+"Livermore","Alameda County","2010-2017","1933","241.6","1066","133.3","867","108.4","CHF","ABAG"
+"Newark","Alameda County","2010-2017","466","58.3","317","39.6","149","18.6","CHF","ABAG"
+"Oakland","Alameda County","2010-2017","9006","1125.8","884","110.5","8122","1015.3","CHF","ABAG"
+"Piedmont","Alameda County","2010-2017","26","3.3","26","3.3","0","0.0","CHF","ABAG"
+"Pleasanton","Alameda County","2010-2017","2787","348.4","545","68.1","2242","280.3","CHF","ABAG"
+"San Leandro","Alameda County","2010-2017","115","14.4","25","3.1","90","11.3","CHF","ABAG"
+"Union City","Alameda County","2010-2017","515","64.4","66","8.3","449","56.1","CHF","ABAG"
+"Antioch","Contra Costa County","2010-2017","1269","158.6","1227","153.4","42","5.3","CHF","ABAG"
+"Brentwood","Contra Costa County","2010-2017","2764","345.5","2710","338.8","54","6.8","CHF","ABAG"
+"Clayton","Contra Costa County","2010-2017","26","3.3","26","3.3","0","0.0","CHF","ABAG"
+"Concord","Contra Costa County","2010-2017","177","22.1","124","15.5","53","6.6","CHF","ABAG"
+"Contra Costa County Unincorporated","Contra Costa County","2010-2017","3415","426.9","2101","262.6","1314","164.3","CHF","ABAG"
+"Danville","Contra Costa County","2010-2017","259","32.4","236","29.5","23","2.9","CHF","ABAG"
+"El Cerrito","Contra Costa County","2010-2017","298","37.3","47","5.9","251","31.4","CHF","ABAG"
+"Hercules","Contra Costa County","2010-2017","358","44.8","115","14.4","243","30.4","CHF","ABAG"
+"Lafayette","Contra Costa County","2010-2017","396","49.5","85","10.6","311","38.9","CHF","ABAG"
+"Martinez","Contra Costa County","2010-2017","156","19.5","72","9.0","84","10.5","CHF","ABAG"
+"Moraga","Contra Costa County","2010-2017","42","5.3","42","5.3","0","0.0","CHF","ABAG"
+"Oakley","Contra Costa County","2010-2017","1553","194.1","1360","170.0","193","24.1","CHF","ABAG"
+"Orinda","Contra Costa County","2010-2017","328","41.0","256","32.0","72","9.0","CHF","ABAG"
+"Pinole","Contra Costa County","2010-2017","4","0.5","4","0.5","0","0.0","CHF","ABAG"
+"Pittsburg","Contra Costa County","2010-2017","1826","228.3","1353","169.1","473","59.1","CHF","ABAG"
+"Pleasant Hill","Contra Costa County","2010-2017","75","9.4","43","5.4","32","4.0","CHF","ABAG"
+"Richmond","Contra Costa County","2010-2017","584","73.0","159","19.9","425","53.1","CHF","ABAG"
+"San Pablo","Contra Costa County","2010-2017","92","11.5","53","6.6","39","4.9","CHF","ABAG"
+"San Ramon","Contra Costa County","2010-2017","1482","185.3","937","117.1","545","68.1","CHF","ABAG"
+"Walnut Creek","Contra Costa County","2010-2017","1538","192.3","203","25.4","1335","166.9","CHF","ABAG"
+"Belvedere","Marin County","2010-2017","15","1.9","15","1.9","0","0.0","CHF","ABAG"
+"Corte Madera","Marin County","2010-2017","206","25.8","11","1.4","195","24.4","CHF","ABAG"
+"Fairfax","Marin County","2010-2017","16","2.0","16","2.0","0","0.0","CHF","ABAG"
+"Larkspur","Marin County","2010-2017","125","15.6","79","9.9","46","5.8","CHF","ABAG"
+"Marin County Unincorporated","Marin County","2010-2017","203","25.4","192","24.0","11","1.4","CHF","ABAG"
+"Mill Valley","Marin County","2010-2017","129","16.1","120","15.0","9","1.1","CHF","ABAG"
+"Novato","Marin County","2010-2017","259","32.4","122","15.3","137","17.1","CHF","ABAG"
+"Ross","Marin County","2010-2017","8","1.0","8","1.0","0","0.0","CHF","ABAG"
+"San Anselmo","Marin County","2010-2017","123","15.4","39","4.9","84","10.5","CHF","ABAG"
+"San Rafael","Marin County","2010-2017","176","22.0","133","16.6","43","5.4","CHF","ABAG"
+"Sausalito","Marin County","2010-2017","28","3.5","28","3.5","0","0.0","CHF","ABAG"
+"Tiburon","Marin County","2010-2017","28","3.5","28","3.5","0","0.0","CHF","ABAG"
+"American Canyon","Napa County","2010-2017","310","38.8","92","11.5","218","27.3","CHF","ABAG"
+"Calistoga","Napa County","2010-2017","117","14.6","39","4.9","78","9.8","CHF","ABAG"
+"Napa","Napa County","2010-2017","740","92.5","427","53.4","313","39.1","CHF","ABAG"
+"Napa County Unincorporated","Napa County","2010-2017","234","29.3","234","29.3","0","0.0","CHF","ABAG"
+"St. Helena","Napa County","2010-2017","58","7.3","42","5.3","16","2.0","CHF","ABAG"
+"Yountville","Napa County","2010-2017","28","3.5","20","2.5","8","1.0","CHF","ABAG"
+"San Francisco","San Francisco County","2010-2017","27908","3488.5","558","69.8","27350","3418.8","CHF","ABAG"
+"Atherton","San Mateo County","2010-2017","146","18.3","146","18.3","0","0.0","CHF","ABAG"
+"Belmont","San Mateo County","2010-2017","152","19.0","37","4.6","115","14.4","CHF","ABAG"
+"Brisbane","San Mateo County","2010-2017","101","12.6","92","11.5","9","1.1","CHF","ABAG"
+"Burlingame","San Mateo County","2010-2017","332","41.5","106","13.3","226","28.3","CHF","ABAG"
+"Colma","San Mateo County","2010-2017","6","0.8","6","0.8","0","0.0","CHF","ABAG"
+"Daly City","San Mateo County","2010-2017","597","74.6","286","35.8","311","38.9","CHF","ABAG"
+"East Palo Alto","San Mateo County","2010-2017","92","11.5","51","6.4","41","5.1","CHF","ABAG"
+"Foster City","San Mateo County","2010-2017","1085","135.6","2","0.3","1083","135.4","CHF","ABAG"
+"Half Moon Bay","San Mateo County","2010-2017","164","20.5","74","9.3","90","11.3","CHF","ABAG"
+"Hillsborough","San Mateo County","2010-2017","114","14.3","114","14.3","0","0.0","CHF","ABAG"
+"Menlo Park","San Mateo County","2010-2017","1121","140.1","136","17.0","985","123.1","CHF","ABAG"
+"Millbrae","San Mateo County","2010-2017","127","15.9","17","2.1","110","13.8","CHF","ABAG"
+"Pacifica","San Mateo County","2010-2017","52","6.5","41","5.1","11","1.4","CHF","ABAG"
+"Portola Valley","San Mateo County","2010-2017","84","10.5","84","10.5","0","0.0","CHF","ABAG"
+"Redwood City","San Mateo County","2010-2017","3031","378.9","235","29.4","2796","349.5","CHF","ABAG"
+"San Bruno","San Mateo County","2010-2017","160","20.0","77","9.6","83","10.4","CHF","ABAG"
+"San Carlos","San Mateo County","2010-2017","465","58.1","56","7.0","409","51.1","CHF","ABAG"
+"San Mateo","San Mateo County","2010-2017","1838","229.8","171","21.4","1667","208.4","CHF","ABAG"
+"San Mateo County Unincorporated","San Mateo County","2010-2017","357","44.6","351","43.9","6","0.8","CHF","ABAG"
+"South San Francisco","San Mateo County","2010-2017","657","82.1","71","8.9","586","73.3","CHF","ABAG"
+"Woodside","San Mateo County","2010-2017","55","6.9","55","6.9","0","0.0","CHF","ABAG"
+"Campbell","Santa Clara County","2010-2017","557","69.6","222","27.8","335","41.9","CHF","ABAG"
+"Cupertino","Santa Clara County","2010-2017","652","81.5","225","28.1","427","53.4","CHF","ABAG"
+"Gilroy","Santa Clara County","2010-2017","1889","236.1","1603","200.4","286","35.8","CHF","ABAG"
+"Los Altos","Santa Clara County","2010-2017","816","102.0","385","48.1","431","53.9","CHF","ABAG"
+"Los Altos Hills","Santa Clara County","2010-2017","162","20.3","162","20.3","0","0.0","CHF","ABAG"
+"Los Gatos","Santa Clara County","2010-2017","273","34.1","223","27.9","50","6.3","CHF","ABAG"
+"Milpitas","Santa Clara County","2010-2017","2954","369.3","804","100.5","2150","268.8","CHF","ABAG"
+"Monte Sereno","Santa Clara County","2010-2017","64","8.0","64","8.0","0","0.0","CHF","ABAG"
+"Morgan Hill","Santa Clara County","2010-2017","2369","296.1","1753","219.1","616","77.0","CHF","ABAG"
+"Mountain View","Santa Clara County","2010-2017","4397","549.6","643","80.4","3754","469.3","CHF","ABAG"
+"Palo Alto","Santa Clara County","2010-2017","960","120.0","494","61.8","466","58.3","CHF","ABAG"
+"San Jose","Santa Clara County","2010-2017","22301","2787.6","1592","199.0","20709","2588.6","CHF","ABAG"
+"Santa Clara","Santa Clara County","2010-2017","5112","639.0","363","45.4","4749","593.6","CHF","ABAG"
+"Santa Clara County Unincorporated","Santa Clara County","2010-2017","706","88.3","432","54.0","274","34.3","CHF","ABAG"
+"Saratoga","Santa Clara County","2010-2017","170","21.3","170","21.3","0","0.0","CHF","ABAG"
+"Sunnyvale","Santa Clara County","2010-2017","4517","564.6","1014","126.8","3503","437.9","CHF","ABAG"
+"Benicia","Solano County","2010-2017","43","5.4","43","5.4","0","0.0","CHF","ABAG"
+"Dixon","Solano County","2010-2017","213","26.6","94","11.8","119","14.9","CHF","ABAG"
+"Fairfield","Solano County","2010-2017","2199","274.9","1915","239.4","284","35.5","CHF","ABAG"
+"Rio Vista","Solano County","2010-2017","533","66.6","533","66.6","0","0.0","CHF","ABAG"
+"Solano County Unincorporated","Solano County","2010-2017","157","19.6","157","19.6","0","0.0","CHF","ABAG"
+"Suisun City","Solano County","2010-2017","106","13.3","96","12.0","10","1.3","CHF","ABAG"
+"Vacaville","Solano County","2010-2017","1816","227.0","1555","194.4","261","32.6","CHF","ABAG"
+"Vallejo","Solano County","2010-2017","237","29.6","203","25.4","34","4.3","CHF","ABAG"
+"Cloverdale","Sonoma County","2010-2017","171","21.4","18","2.3","153","19.1","CHF","ABAG"
+"Cotati","Sonoma County","2010-2017","77","9.6","51","6.4","26","3.3","CHF","ABAG"
+"Healdsburg","Sonoma County","2010-2017","224","28.0","156","19.5","68","8.5","CHF","ABAG"
+"Petaluma","Sonoma County","2010-2017","1273","159.1","477","59.6","796","99.5","CHF","ABAG"
+"Rohnert Park","Sonoma County","2010-2017","368","46.0","282","35.3","86","10.8","CHF","ABAG"
+"Santa Rosa","Sonoma County","2010-2017","2193","274.1","1048","131.0","1145","143.1","CHF","ABAG"
+"Sebastopol","Sonoma County","2010-2017","67","8.4","63","7.9","4","0.5","CHF","ABAG"
+"Sonoma","Sonoma County","2010-2017","142","17.8","63","7.9","79","9.9","CHF","ABAG"
+"Sonoma County Unincorporated","Sonoma County","2010-2017","1581","197.6","1093","136.6","488","61.0","CHF","ABAG"
+"Windsor","Sonoma County","2010-2017","134","16.8","43","5.4","91","11.4","CHF","ABAG"

@@ -1,0 +1,617 @@
+"id","usdafmid","name","street","city","zip","lat","long","locationtype","day","times","dates","locationdescription","website","facebook","twitter","youtube","othersocialmedia","start","finish","credit","wic","wiccash","sfmnp","snap","organic","bakedgoods","cheese","crafts","flowers","eggs","seafood","herbs","vegetables","honey","jams","maple","meat","nursery","nuts","plants","poultry","prepared","soap","trees","wine","coffee","beans","fruits","grains","juices","mushrooms","petfood","tofu","wildharvested","datasource","insertts","updatets","lastverifieddate","location"
+"1","1012335","Boulder Farmers Market","Canyon Boulevard and 13th Street","Boulder","80302","40.015245","-105.277638",,,"Times","May 4 - Oct. 5","Canyon Boulevard and 13th Street","http://www.bcfm.org","www.facebook.com/Boulder-Farmers-Market-512016698971120","www.twitter.com/bldrfarmersmkt",,"www.instagram.com/boulderfarmersmarket","1-Apr","18-Nov","Y","Y","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","N","Y","Y","N","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Canyon Boulevard and 13th Street
+Boulder, Colorado 80302
+(40.015245, -105.277638)"
+"2","1006305","Briargate Farmers Market","7610 N Union","Colorado Springs","80920","38.824673","-104.840856","Private business parking lot","Wednesday
+Sunday","9:00 am - 3:00pm","May 31 - Oct. 11","7610 N. Union Blvd.","www.springsfarmersmarkets.com/#!briargate/csgz",,,,,,,"Y","N","N","N","N","N","Y","Y","Y","N","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","N","Y","N","Y","N","N","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2013-05-05T00:00:00.000","7610 N Union
+Colorado Springs, Colorado 80920
+(38.824673, -104.840856)"
+"6","1001298","Edwards CO Farmers' Market","Edwards Corner","Edwards","81632","39.644032","-106.594119","Private business parking lot",,"Times",,"Edwards Corner","http://www.edwardsfarmersmarket.com",,,,,,,"Y","N","N","N","Y","Y","Y","N","N","N","N","Y","N","Y","Y","Y","Y","Y","N","Y","N","N","Y","Y","N","N","Y","N","Y","Y","Y","Y","N","Y","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Edwards Corner
+Edwards, Colorado 81632
+(39.644032, -106.594119)"
+"8","1006699","Glenwood Farmers Market","1412 Grand Avenue","Glenwood Springs","81601","39.538067","-107.324839","Private business parking lot",,"Times",,"1412 Grand Avenue",,"https://www.facebook.com/GlenwoodSpringsFarmersMarket",,,,,,"Y","N","N","N","N","-","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","N","N","Y","Y","Y","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1412 Grand Avenue
+Glenwood Springs, Colorado 81601
+(39.538067, -107.324839)"
+"10","1001888","Farm and Ranch Market (FARM)","28th & North Avenue","Grand Junction",,"39.0774","-108.534",,,"Times",,"28th & North Avenue",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"28th & North Avenue
+Grand Junction, Colorado 
+(39.0774, -108.534)"
+"11","1003819","Greeley Farmers Market at the Depot","902 7th Avenue","Greeley","80631","40.423138","-104.688547",,"Saturday  Wednesday","7:30 AM - 12 PM","May 17 - Oct. 25  
+July 9 - Sept. 24","902 7th Avenue","http://www.greeleygov.com/fm","https://www.facebook.com/greeleyfarmersmarket",,,,"13-May","28-Oct","Y","N","N","N","Y","-","Y","N","Y","N","N","N","N","N","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","Y","Y","N","N","N","N","Y","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"902 7th Avenue
+Greeley, Colorado 80631
+(40.423138, -104.688547)"
+"195",,"Vista Grande  Farmers' Market",,"Colorado Springs",,,,,,"9 a.m. - 3 p.m.","June 9 - Oct. 27","5680 Stetson Hills Blvd.","www.millerfarms.net",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Colorado Springs, Colorado 
+(38.835224, -104.819798)"
+"91","1004823","Brighton Downtown Saturday Market","91 North Main Street","Brighton",,"39.9879","-104.821",,,"Times",,"91 North Main Street",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"91 North Main Street
+Brighton, Colorado 
+(39.9879, -104.821)"
+"112","1003880","Eagle Eye Flea and Farmers' Market","Eagle County Fairgrounds","Eagle",,"39.6546","-106.834",,,"Times",,"Eagle County Fairgrounds",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Eagle County Fairgrounds
+Eagle, Colorado 
+(39.6546, -106.834)"
+"18","1007748","Parker Farmers Market","Downtown Parker","Parker",,"39.5355","-104.784",,"Sunday","8 AM - 1 PM","May 10 - Mid October","Downtown Parker","http://www.laughingdogfarms.net/tricounty.asp",,,,,"9-May","mid october","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Downtown Parker
+Parker, Colorado 
+(39.5355, -104.784)"
+"23","1004069","Denver Urban Homesteading Farmers Market","200 Santa Fe Drive","Denver","80223","39.719549","-104.998287","Other","Saturday
+Tuesday
+Thursday
+Friday",,"Year-round","200 Santa Fe Drive","www.denverurbanhomesteading.com",,,,,"31-Dec","30-Dec","Y","N","N","N","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","N",,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"200 Santa Fe Drive
+Denver, Colorado 80223
+(39.719549, -104.998287)"
+"33","1011055","Cherry Creek Fresh Market","3000 E 1st Ave, Denver, CO 80206","Denver","80206","39.717708","-104.958827",,"Saturday
+Wednesday","8 AM - 1 PM
+9 AM - 1 PM","June 18 - Oct. 25","1st & University (Cherry Creek Shopping Center)","www.coloradofreshmarkets.com","Colorado Fresh Markets","ColoradoFreshMarkets@COfreshmarkets",,,,,"Y","N","N","N","N","Y","Y","N","N","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","N","Y","Y","N","N","Y","N","Y","N","Y","Y","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"3000 E 1st Ave, Denver, CO 80206
+Denver, Colorado 80206
+(39.717708, -104.958827)"
+"38","1012723","Woodland Park Farmers Market  Winter","210 E. Midland Avenue","Woodland Park","80683","38.994733","-105.051551",,"Saturday","9 AM - 1 PM","Second Saturdays, Oct. - May","215 E. Midland Road","www.wpfarmersmarket.com","WPFarmers Market","WPFarmers Market",,,"11-Nov","9-Dec","Y","N","N","N","Y","-","Y","Y","Y","N","Y","N","Y","Y","Y","Y","N","Y","N","N","N","Y","Y","Y","N","N","Y","N","Y","N","N","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"210 E. Midland Avenue
+Woodland Park, Colorado 80683
+(38.994733, -105.051551)"
+"44","1010629","Durango Farmers Market","259 W. 9th Street","Durango","81301","37.273057","-107.882769",,"Saturday
+Saturday","9 a.m. - 12 p.m. (Oct.), 8 a.m. - 12 p.m.","May 10th thru Sept. 27th 
+October 4th thru October 25th","259 W. 9th St.","www.durangofarmersmarket.com/","Durango Farmers Market",,,,"8-May","29-Oct","Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","N","Y","Y","N","N","Y","N","Y","Y","Y","Y","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"259 W. 9th Street
+Durango, Colorado 81301
+(37.273057, -107.882769)"
+"48","1011136","Fort Collins Farmers Market","1001 East Harmony Rd","Fort Collins","80525","40.522309","-105.059691",,"Wednesday
+Sundays","11 AM - 3 PM rain or shine","May - Oct.","1001 East Harmony Rd","www.fortcollinsfm.com","https://www.facebook.com/pages/Fort-Collins-Farmers-Market-sponsored-by-CAMC/434286586584679?ref=ts&fref=ts",,,,"2-May","14-Nov","Y","N","N","N","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","N","Y","N","N","Y","N","N","Y","N","N","Y","Y","Y","N","Y","Y","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1001 East Harmony Rd
+Fort Collins, Colorado 80525
+(40.522309, -105.059691)"
+"87","1011149","Berthoud Local Farmers Market","620 Mountin Ave.","Berthoud","80513","40.305329","-105.082636",,,"9 .m. - 1 p.m.","June 25 - Sept. 24","620 Mountin Ave.","http://berthoudlocal.org","facebook.com/berthoudlocal",,,,"24-Jun","23-Sep","Y","N","N","N","N","-","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","Y","N","Y","Y","Y","N","N","Y","N","Y","N","N","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"620 Mountin Ave.
+Berthoud, Colorado 80513
+(40.305329, -105.082636)"
+"135","1005025","Gulley Greenhouse Farmers' Market","6029 S. Shields","Fort Collins",,"40.5015","-105.097",,,"Times",,"6029 S. Shields","http://www.gulleygreenhouse.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"6029 S. Shields
+Fort Collins, Colorado 
+(40.5015, -105.097)"
+"110","1000417","Doherty High School Farmers Market","4515 Barnes Rd.","Colorado Springs",,"38.8946","-104.744",,,"Times",,"4515 Barnes Rd.",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"4515 Barnes Rd.
+Colorado Springs, Colorado 
+(38.8946, -104.744)"
+"60","1001118","Dillon Farmers Market","121 Buffalo St.  ","Dillon","80435","38.9973","-105.548","Closed-off public street","Friday","9 AM - 2 PM","June 6 - Sept. 19, no Market on Aug. 8","Buffalo St. (By Town Park)","www.facebook.com/dillonfarmersmarket","https://www.facebook.com/pages/Pulaski-County-Farmers-Market/126926763989161",,,,"Jun","Sep","N","N","N","N","N","-","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","N","Y","Y","N","N","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"121 Buffalo St.
+Dillon, Colorado 80435
+(38.9973, -105.548)"
+"88","1003939","Black Forest Farmers Market","11480 Forest Rd.","Black Forest",,"38.9977","-104.701",,,"Times",,"11480 Forest Rd.",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"11480 Forest Rd.
+Black Forest, Colorado 
+(38.9977, -104.701)"
+"79","1006234","4th Street Farmers Market","315 East 4th St.","Larimer",,"40.3954","-105.073",,,,,"315 East 4th St.","http://www.4thstreetfarmersmarket.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"315 East 4th St.
+Larimer, Colorado 
+(40.3954, -105.073)"
+"80","1001367","American National Bank Downtown Farmers Market Festival","5th and Rood Avenue","Grand Junction",,"39.0682","-108.564",,,"Times",,"5th and Rood Avenue",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"5th and Rood Avenue
+Grand Junction, Colorado 
+(39.0682, -108.564)"
+"83","1016880","Bayfield Downtown Farmers Market","Mill Street at Joe Stephenson Park","Bayfield","81122","37.225579","-107.602898",,,"Times",,"Mill Street at Joe Stephenson Park","http://Bayfielddowntownfarmersmarket.org",,,,,"14-Jun","19-Oct","Y","N","N","N","Y","-","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","N","Y","Y","N","N","Y","N","Y","N","Y","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Mill Street at Joe Stephenson Park
+Bayfield, Colorado 81122
+(37.225579, -107.602898)"
+"84","1009473","Be Local Winter Farmer's Market","Opera Galleria 123 N College Ave","Fort Collins","80521","40.5878","-105.078",,,"Times",,"Opera Galleria 123 N College Ave","http://www.belocalnc.org/",,,,,,,"Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Opera Galleria 123 N College Ave
+Fort Collins, Colorado 80521
+(40.5878, -105.078)"
+"150","1006742","Larkridge Farmers' Market","I-25 & Hwy. 7 at Larkridge Retail Center","Thornton",,"39.868","-104.972",,,"Times",,"I-25 & Hwy. 7 at Larkridge Retail Center",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"I-25 & Hwy. 7 at Larkridge Retail Center
+Thornton, Colorado 
+(39.868, -104.972)"
+"94","1006846","CCFA Buena Vista Farmers Market","409 E. Main","Buena Vista","81211","38.842674","-106.129207","Closed-off public street",,"Times",,"409 E. Main",,"https://www.facebook.com/pages/Central-Colorado-Foodshed-Alliance/148961155114184",,"Buena Vista",,"7-Jun","11-Oct","Y","N","N","N","Y","-","Y","N","Y","Y","Y","N","Y","Y","Y","Y","N","N","N","Y","Y","N","Y","Y","N","N","Y","N","Y","Y","Y","N","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"409 E. Main
+Buena Vista, Colorado 81211
+(38.842674, -106.129207)"
+"95","1006845","CCFA Farmers Market Canon City","211 South 3rd Street","Canon City","81212","38.437478","-105.243441","Local government building grounds",,"Times",,"211 South 3rd Street","http://www.canoncityfarmersmarket.com","https://www.facebook.com/pages/Canon-City-Farmers-Market/604185459656195",,,,"31-May","1-Oct","Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","N","N","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"211 South 3rd Street
+Canon City, Colorado 81212
+(38.437478, -105.243441)"
+"96","1006847","CCFA Salida Farmers Market","5th and E street","Salida","81201","38.532657","-105.99412","Other",,"Times",,"5th and E street",,"https://www.facebook.com/pages/Central-Colorado-Foodshed-Alliance/148961155114184",,"http://www.youtube.com/watch?v=0KvOkZH2QQ0",,"6-Jun","10-Oct","Y","N","N","N","Y","-","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","Y","Y","N","Y","Y","N","N","Y","N","Y","Y","Y","N","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"5th and E street
+Salida, Colorado 81201
+(38.532657, -105.99412)"
+"97","1002817","Chapel Hill Mall Farmers' Market","1710 Briargate Blvd.","Colorado Springs",,"38.9454","-104.796",,,"Times",,"1710 Briargate Blvd.",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1710 Briargate Blvd.
+Colorado Springs, Colorado 
+(38.9454, -104.796)"
+"98","1009284","Chimney Rock Farms","500 County Road 175","Bayfield","81122","37.223","-107.342",,,"Times",,"500 County Road 175","http://www.chimneyrockfarms.com/",,,,,,,"Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"500 County Road 175
+Bayfield, Colorado 81122
+(37.223, -107.342)"
+"170","1000315","Ouray Farmers' Market","Ouray Elks Centennial Park","Ouray",,"38.022","-107.672",,,"Times",,"Ouray Elks Centennial Park","http://www.ourayfarmersmarket.org",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Ouray Elks Centennial Park
+Ouray, Colorado 
+(38.022, -107.672)"
+"101","1009656","Colorado Farm and Art Market","215 S. Tejon","Colorado Springs","80903","38.830543","-104.822309",,,"3 p.m. - 7 p.m.","June 15 - Oct. 12","215 S. Tejon","http://www.farmandartmarket.com","https://www.facebook.com/farmandartmarket","https://twitter.com/cofarmartmarket",,,"14-Jun","11-Oct","Y","N","N","N","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","N","Y","N","N","N","Y","Y","Y","N","N","Y","Y","Y","N","Y","N","N","Y","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"215 S. Tejon
+Colorado Springs, Colorado 80903
+(38.830543, -104.822309)"
+"102","1009657","Colorado Farm and Art Market2","7350 Pine Creek Road","Colorado Springs","80919","38.937716","-104.814688",,,"9 a.m. - 1 p.m.","June 11 - Oct. 8","7350 Pine Creek Road","http://www.farmandartmarket.com","https://www.facebook.com/farmandartmarket","https://twitter.com/cofarmartmarket",,,"10-Jun","7-Oct","Y","N","N","N","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"7350 Pine Creek Road
+Colorado Springs, Colorado 80919
+(38.937716, -104.814688)"
+"105","1009282","Cotopaxi Farmers Market","20326 U.S. Hwy 50 Cotopaxi Community Church","Cotopaxi","81223","38.3728","-105.682",,,"Times",,"20326 U.S. Hwy 50 Cotopaxi Community Church","http://www.localharvest.org/cotopaxi-farmers-market-M57956",,,,,,,"Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"20326 U.S. Hwy 50 Cotopaxi Community Church
+Cotopaxi, Colorado 81223
+(38.3728, -105.682)"
+"106","1000756","Craig Farmers' Market","Alice Pleasant Park","Craig",,"40.5152","-107.546",,,"Times",,"Alice Pleasant Park",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Alice Pleasant Park
+Craig, Colorado 
+(40.5152, -107.546)"
+"107","1012156","Creede Farmers, Local Artisan and Antique Market","23 Main Street (Days of '92 lot)","Creede","81130","37.853333","-106.927284",,,"Times",,"23 Main Street (Days of '92 lot)","http://www.creedefarmersmarket.com","Creede Farmers Market",,,,"25-May","1-Sep","Y","N","N","N","Y","-","Y","Y","Y","Y","Y","N","N","Y","Y","Y","N","N","N","Y","N","N","N","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"23 Main Street (Days of '92 lot)
+Creede, Colorado 81130
+(37.853333, -106.927284)"
+"111","1011155","Downtown Mead Farmers' Market","P.O. Box 55","Mead","80542","40.229627","-104.988845",,,"12 p.m. - 4 p.m.","June 5 - Aug. 28","441 Third St.","www.townofmead.org/2162/Downtown-Mead-Farmers-Market","https://www.facebook.com/pages/Downtown-Mead-Farmers-Market/869282329791286",,,,"24-Jun","23-Sep","Y","N","N","N","N","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","N","N","Y","Y","N","Y","Y","N","Y","Y","N","Y","Y","N","Y","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"P.O. Box 55
+Mead, Colorado 80542
+(40.229627, -104.988845)"
+"113","1005920","Eagle Springs Organic Farmer's Market at Eagle Springs Crossing","1733 Railroad Ave","Rifle","81650","39.546808","-107.784791","Other",,"Times",,"1733 Railroad Ave","http://www.eaglespringsorganic.com",,,,,"31-Dec","30-Dec","Y","Y","Y","Y","N","Y","Y","N","Y","N","Y","N","Y","Y","N","N","N","Y","N","N","Y","Y","Y","N","N","Y","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1733 Railroad Ave
+Rifle, Colorado 81650
+(39.546808, -107.784791)"
+"115","1006377","Town of Elizabeth Farmers' Market","165 S Main Street","Elizabeth","80107","39.361195","-104.595551","Local government building grounds",,"8 a.m. - 1 p.m.","Starting June 4","165 S Main Street","http://www.townofelizabeth.org/farmer-s-market.html",,,,,"14-Jun","27-Sep","N","N","N","N","N","N","Y","Y","Y","N","Y","N","Y","Y","Y","N","N","N","N","N","N","N","Y","Y","N","N","N","N","Y","N","N","N","N","N","N","Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"165 S Main Street
+Elizabeth, Colorado 80107
+(39.361195, -104.595551)"
+"117","1000015","Evening Farmer's Market on the Riverwalk","101 S. Union Ave","Pueblo","81003","38.2651","-104.613",,"Thursday","4 PM - 8 PM","June 26 - Sept. 11","101 S. Union Ave","http://www.puebloharp.com",,,,,"25-Jun","10-Sep","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"101 S. Union Ave
+Pueblo, Colorado 81003
+(38.2651, -104.613)"
+"119","1006251","Fairview Elementary Youth Farmers' Market","2715 W. 11th Ave","Denver","80204","39.734147","-105.021583","Educational institution",,"Times",,"2715 W. 11th Ave","http://www.dug.org",,,,,"July","Sep","Y","N","N","N","Y","N","N","N","N","Y","N","N","Y","Y","N","N","N","N","N","N","Y","N","N","N","N","N","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"2715 W. 11th Ave
+Denver, Colorado 80204
+(39.734147, -105.021583)"
+"120","1008941","Farmers & Artisans Community Market","433 South 1st Street","Bennett","80102","39.759025","-104.433355","Local government building grounds",,"Times",,"433 South 1st Street","http://farmersandartisansmarket.com/index.htm","https://www.facebook.com/FarmersAndArtisanMarketInBennett",,,,"30-May","17-Oct","Y","N","N","N","N","-","Y","N","Y","N","Y","N","Y","Y","Y","Y","N","N","N","N","Y","N","Y","Y","N","N","Y","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"433 South 1st Street
+Bennett, Colorado 80102
+(39.759025, -104.433355)"
+"121","1007865","Farmers Market of Pueblo","1000 West 6th Street","Pueblo",,"38.2721","-104.621",,,"Times",,"1000 West 6th Street",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1000 West 6th Street
+Pueblo, Colorado 
+(38.2721, -104.621)"
+"126","1005569","Fresh Picked by Kids Farmers Market","701 Park Ave.","Las Animas",,"38.0658","-103.237",,,"Times",,"701 Park Ave.",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"701 Park Ave.
+Las Animas, Colorado 
+(38.0658, -103.237)"
+"127","1000714","Garden of Eaton Farmers Market","Hwy 85","Eaton","80615","40.5301","-104.712",,,"Times",,"Hwy 85",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Hwy 85
+Eaton, Colorado 80615
+(40.5301, -104.712)"
+"129","1001645","Georgetown Farmers Market","7th St. & Rose St.","Georgetown",,"39.7069","-105.697",,,"Times",,"7th St. & Rose St.",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"7th St. & Rose St.
+Georgetown, Colorado 
+(39.7069, -105.697)"
+"151","1001861","Liberty Heights Farmers' Market","12105 Ambasador Dr.","Colorado Springs",,"39.0044","-104.796",,,"Times",,"12105 Ambasador Dr.","http://www.monumentfarmersmarket.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"12105 Ambasador Dr.
+Colorado Springs, Colorado 
+(39.0044, -104.796)"
+"130","1003531","Glenwood's  Downtown Market","828 Grand AveÂ ","Glenwood Springs","81601","39.54558","-107.324584","Closed-off public street","Tuesday","4 PM - 8 PM","June 10 - Sept. 9","9th and Grand Ave. (Centennial Park)","http://www.glenwoodmarket.com","https://www.facebook.com/glenwoodmarket?ref=hl",,,,,,"Y","Y","N","Y","Y","-","Y","N","Y","Y","Y","Y","N","Y","Y","Y","N","Y","N","N","N","N","Y","Y","N","Y","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"828 Grand AveÂ 
+Glenwood Springs, Colorado 81601
+(39.54558, -107.324584)"
+"131","1006866","Granby Farmers Market","366 E. Agate Ave.","Granby","80446","40.0849","-105.937",,,"Times",,"366 E. Agate Ave.","http://www.granbychamber.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"366 E. Agate Ave.
+Granby, Colorado 80446
+(40.0849, -105.937)"
+"133","1002360","Grand Park Farmers Market","46 Market St.","Grand",,"39.9301","-105.79",,,"Times",,"46 Market St.",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"46 Market St.
+Grand, Colorado 
+(39.9301, -105.79)"
+"134","1003820","Greeley Winter Market","715 10th Street","Greeley","80631","40.422715","-104.689927",,,"Times",,"715 10th Street","http://www.greeleygov.com/fm","https://www.facebook.com/greeleyfarmersmarket",,,,,,"Y","N","N","N","Y","-","Y","Y","N","N","Y","N","Y","Y","Y","Y","N","Y","N","N","N","Y","Y","Y","N","N","Y","N","N","N","N","Y","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"715 10th Street
+Greeley, Colorado 80631
+(40.422715, -104.689927)"
+"136","1001675","Gunnison Farmers Market","East Virginia","Gunnison","81230","38.54562","-106.9264","Closed-off public street",,"9:30 a.m. - 1:30 p.m.","June 18 - Oct. 29","East Virginia","http://www.gunnisonfarmersmarket.com","https://www.facebook.com/pages/Gunnison-Farmers-Market/132413843443126",,,,,,"N","N","N","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","Y","Y","N","Y","N","Y","N","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"East Virginia
+Gunnison, Colorado 81230
+(38.54562, -106.9264)"
+"138","1005337","Highland United Neighbors Farmers' Market","970 S. Pearl","Denver",,"39.6989","-104.98",,,"Times",,"970 S. Pearl","http://www.denverhighland.orgorwww.HobNobEvents.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"970 S. Pearl
+Denver, Colorado 
+(39.6989, -104.98)"
+"139","1004688","Highlands Ranch Farmers' Market","9288 Dorchester St","Highlands Ranch","80129","39.547082","-104.999648",,"Sunday","10 AM - 2 PM or sell out","May 4 - Oct. 26","9288 Dorchester St","http://www.denverfarmersmarket.com",,,,,"3-May","25-Oct","Y","N","N","N","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","N","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"9288 Dorchester St
+Highlands Ranch, Colorado 80129
+(39.547082, -104.999648)"
+"140","1004433","Hotchkiss Farmers' Market","Creamery Arts Center","Hotchkiss",,"38.7989","-107.722",,,"Times",,"Creamery Arts Center","http://www.northforkarts.org/",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Creamery Arts Center
+Hotchkiss, Colorado 
+(38.7989, -107.722)"
+"141","1009238","Indian Hills Farmer's Market","5381 Parmalee Gulch","Indian Hills","80454","39.62","-105.241",,,"Times",,"5381 Parmalee Gulch",,"https://www.facebook.com/IndianHillsFarmersMarket",,,,,,"Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"5381 Parmalee Gulch
+Indian Hills, Colorado 80454
+(39.62, -105.241)"
+"142","1009283","Jax Farmer's Market in Lafayette","400 W. South Boulder Road","Lafayette","80026","39.9869","-105.094",,"Sunday","9 AM - 1 PM","May 11 - Sept. 28","400 W. South Boulder Road","http://www.localharvest.org/jax-farmers-market-in-lafayette-M57880",,,,,"10-May","27-Sep","Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"400 W. South Boulder Road
+Lafayette, Colorado 80026
+(39.9869, -105.094)"
+"146","1004526","Lafayette Farmers' Market","355 W South Boulder Rd","Lafayette","80026","39.987182","-105.09397","Faith-based institution (e.g., church, mosque, synagogue, temple)",,"Times",,"355 W South Boulder Rd","http://www.naturespointmarkets.com",,,,,,,"Y","N","N","N","Y","Y","N","N","Y","Y","Y","N","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","Y","Y","N","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"355 W South Boulder Rd
+Lafayette, Colorado 80026
+(39.987182, -105.09397)"
+"147","1011107","Lakewood Farmers Market","9077 W Alameda Ave","Lakewood","80226","39.711429","-105.099496",,,"Times",,"9077 W Alameda Ave","http://denverfarmersmarket.com",,,,,,,"Y","N","N","N","Y","Y","Y","N","Y","N","Y","N","N","Y","Y","Y","N","N","N","N","N","N","N","Y","N","N","Y","N","Y","Y","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"9077 W Alameda Ave
+Lakewood, Colorado 80226
+(39.711429, -105.099496)"
+"149","1011058","Landmark Greenwood Village Fresh Market",,"Denver",,"39.617518","-104.899871",,,"Times",,,"http://coloradofreshmarkets.com","Colorado Fresh Markets","ColoradoFreshMarkets@COfreshmarkets",,,,,"Y","N","N","N","N","Y","Y","N","N","N","Y","N","N","Y","Y","Y","N","N","N","N","N","N","Y","N","N","N","Y","N","Y","N","Y","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Denver, Colorado 
+(39.617518, -104.899871)"
+"152","1003334","Lion's Park and Midland Spur Rd.",,"Basalt",,"37.4107","-105.676",,,"Times",,,"http://www.basaltsundaymarket.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Basalt, Colorado 
+(37.4107, -105.676)"
+"153","1007747","Lonetree Farmers Market","Yosemite & Maximus","Lone Tree",,"39.5547","-104.885",,,"Times",,"Yosemite & Maximus","http://www.laughingdogfarms.net/tricounty.asp",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Yosemite & Maximus
+Lone Tree, Colorado 
+(39.5547, -104.885)"
+"154","1007734","Lowery Hanger 2 Farmers Market","7581 East Academy Blvd","Denver","80230","39.722","-104.897",,"Tuesday","4 PM - dusk","June - September","West of the Wings Over the Rockies Museum","http://www.hangar2lowry.com/index.cfm?PID=1452&ID=6994,27176,0",,,,,"7-Jun","7-Sep","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"7581 East Academy Blvd
+Denver, Colorado 80230
+(39.722, -104.897)"
+"156","1005570","Made in Bent Market","Bent County Fair Grounds- West Hwy 50","Las Animas","81054","38.064801","-103.236294","Other",,"Times",,"Bent County Fair Grounds- West Hwy 50",,,,,,,,"N","N","N","N","N","-","N","N","N","N","Y","N","N","Y","Y","N","N","Y","N","N","N","N","Y","N","N","N","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Bent County Fair Grounds- West Hwy 50
+Las Animas, Colorado 81054
+(38.064801, -103.236294)"
+"157","1004710","Main Street Farmers' Market","Lincoln Ave. on 6th St.","Steamboat Springs",,"40.4849","-106.832",,,"Times",,"Lincoln Ave. on 6th St.","http://www.mainstreetsteamboatsprings.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Lincoln Ave. on 6th St.
+Steamboat Springs, Colorado 
+(40.4849, -106.832)"
+"158","1004744","Mancos Farmer's Market","178 E. Frontage Rd.","Mancos","81328","37.3479","-108.288",,,"Times",,"178 E. Frontage Rd.","http://www.mancoscolorado.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"178 E. Frontage Rd.
+Mancos, Colorado 81328
+(37.3479, -108.288)"
+"159","1012348","Manitou Community Market",,"Manitou Springs","80829","38.858322","-104.912813",,,"Times",,,"http://www.manitoucommunitymarket.org","Facebook at Manitou Community Market",,,,,,"Y","N","N","N","N","-","Y","N","Y","N","Y","N","Y","Y","N","Y","N","N","N","N","N","N","N","Y","N","N","Y","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Manitou Springs, Colorado 80829
+(38.858322, -104.912813)"
+"160","1007652","Market at Echter’s Garden Center","5150 Garrison St","Arvada",,"39.7897","-105.1",,,"Times",,"5150 Garrison St","http://www.arvadafarmersmarket.com/",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"5150 Garrison St
+Arvada, Colorado 
+(39.7897, -105.1)"
+"163","1012094","Metro Denver Farmers' Market","6905 S Broadway","Littleton","80122","39.591409","-104.989168",,,"Times",,"6905 S Broadway","http://www.denverfarmersmarket.com/","https://www.facebook.com/denverfarmersmarket",,,,,,"Y","N","N","N","Y","Y","Y","N","N","Y","N","Y","Y","Y","Y","Y","N","Y","N","Y","Y","N","Y","Y","N","Y","N","N","Y","Y","Y","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"6905 S Broadway
+Littleton, Colorado 80122
+(39.591409, -104.989168)"
+"164","1002856","Mile High Flea Market","7007 E. 88th Ave.","Henderson","80640","39.8589","-104.904494","Other",,"Times",,"7007 E. 88th Ave.","http://www.milehighfleamarket.com",,,,,,,"Y","N","N","N","N","-","N","N","Y","Y","N","N","N","N","Y","Y","N","N","N","N","Y","N","N","N","N","N","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"7007 E. 88th Ave.
+Henderson, Colorado 80640
+(39.8589, -104.904494)"
+"165","1012779","Monte Ave. Vista Farmers' Market","1st and Jefferson","Monte Vista","81144","37.58014","-106.145805",,,"8 a.m. - 1 p.m.","July 15 - Sept. 30","1st Ave. and Jefferson St.",,"Monts Vista Farmers Market",,,,,,"Y","N","Y","N","Y","Y","Y","N","Y","N","N","N","N","Y","N","Y","N","Y","N","N","N","N","N","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1st and Jefferson
+Monte Vista, Colorado 81144
+(37.58014, -106.145805)"
+"166","1004527","Niwot Farmers Market","7980 Niwot Rd","Niwot","80503","40.1011","-105.169","Private business parking lot",,"Times",,"7980 Niwot Rd","http://www.niwotfarmersmarket.com",,,,,,,"N","N","N","N","N","-","Y","N","Y","Y","N","N","Y","Y","Y","N","N","Y","N","N","Y","N","Y","Y","N","N","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"7980 Niwot Rd
+Niwot, Colorado 80503
+(40.1011, -105.169)"
+"168","1004982","Northfield Farmers' Market","I-70 & Quebec","Denver",,"39.7402","-104.903",,,"Times",,"I-70 & Quebec","http://www.tricountyfarrmersmarket.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"I-70 & Quebec
+Denver, Colorado 
+(39.7402, -104.903)"
+"171","1001862","Palmer Lake Farmers' Market","Hwy. 105 at the Gazebo on the Lake","Monument",,"39.0993","-104.877",,,"Times",,"Hwy. 105 at the Gazebo on the Lake","http://www.monumentfarmersmarket.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Hwy. 105 at the Gazebo on the Lake
+Monument, Colorado 
+(39.0993, -104.877)"
+"173","1006860","Parkerfest","Victoria Drive & Victorian","Parker",,"39.5186","-104.761",,,"Times",,"Victoria Drive & Victorian","http://www.parkerfest.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Victoria Drive & Victorian
+Parker, Colorado 
+(39.5186, -104.761)"
+"174","1003506","Pueblo Farmers' Marketeers","4 St. & Midtown","Pueblo",,"38.2704","-104.62",,,"Times",,"4 St. & Midtown",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"4 St. & Midtown
+Pueblo, Colorado 
+(38.2704, -104.62)"
+"176","1009519","Rifle Centennial Market","Centennial Park 300 West 5th Street","Rifle","81650","39.5349","-107.786",,,"Times",,"Centennial Park 300 West 5th Street","http://www.rifleco.org/","https://www.facebook.com/RifleCentennialConcertSeriesAndMarket",,,,,,"Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Centennial Park 300 West 5th Street
+Rifle, Colorado 81650
+(39.5349, -107.786)"
+"177","1002102","Routt County Farmers Market","Art in the Park","Steamboat Springs",,"40.4845","-106.831",,,"Times",,"Art in the Park",,,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Art in the Park
+Steamboat Springs, Colorado 
+(40.4845, -106.831)"
+"181","1009518","Southlands Farmer's Market","Smoky Hill Road and E470","Aurora","80013","39.6185","-104.77",,"Saturday","8 AM - 1 PM","May 10 - Sept. 27","Smoky Hill Road and E470","http://www.shopsouthlands.com/news/farmers-market-coming-may-12th/2129978513","https://www.facebook.com/shopsouthlands",,,,"9-May","26-Sep","Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Smoky Hill Road and E470
+Aurora, Colorado 80013
+(39.6185, -104.77)"
+"182","1011056","Stapleton Fresh Market",,"Denver",,"39.758043","-104.899743",,,"Times",,,"http://coloradofreshmarkets.com","Colorado Fresh Markets","ColoradoFreshMarkets@COfreshmarkets",,,,,"Y","N","N","N","N","Y","Y","N","N","N","N","N","N","Y","Y","Y","N","Y","N","N","Y","N","Y","Y","N","N","Y","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Denver, Colorado 
+(39.758043, -104.899743)"
+"184","1009502","The Farmers Market at Four Seasons","26650 Road P","Dolores","81323","37.4124","-108.559",,,"Times",,"26650 Road P","http://fourseasons@animas.net",,,,,,,"Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"26650 Road P
+Dolores, Colorado 81323
+(37.4124, -108.559)"
+"185","1003075","The Main Event and Farmers' Market","Historic Arkansas Riverwalk","Pueblo",,"38.268","-104.61",,,"Times",,"Historic Arkansas Riverwalk","http://www.puebloharp.com/#/",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Historic Arkansas Riverwalk
+Pueblo, Colorado 
+(38.268, -104.61)"
+"186","1001863","The Market at Sundance Mountain Lodge","1865 Woodmoor Dr.","Monument",,"39.097","-104.861",,,"Times",,"1865 Woodmoor Dr.","http://www.monumentfarmersmarket.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1865 Woodmoor Dr.
+Monument, Colorado 
+(39.097, -104.861)"
+"187","1006069","The Minturn Market","Historic Downtown Minturn","Minturn","81645","39.58839","-106.4315","Private business parking lot",,"Times",,"Historic Downtown Minturn","http://www.minturnmarket.org",,,,,,,"Y","N","N","N","N","-","Y","N","Y","Y","N","Y","N","Y","Y","Y","Y","N","Y","N","Y","N","Y","Y","Y","Y","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Historic Downtown Minturn
+Minturn, Colorado 81645
+(39.58839, -106.4315)"
+"188","1004981","The Orchards Farmers' Market","I-25 & 144th Ave.","Westminister",,"39.9569","-104.992",,,"Times",,"I-25 & 144th Ave.","http://www.tricountyfarmersmarket.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"I-25 & 144th Ave.
+Westminister, Colorado 
+(39.9569, -104.992)"
+"189","1003640","The Osage Mercado","1001 Osage Street","Denver","80204","39.7328","-105.006",,,"Times",,"1001 Osage Street","http://www.osagemercado.org",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1001 Osage Street
+Denver, Colorado 80204
+(39.7328, -105.006)"
+"190","1010938","The Victory Market on South University","6400 S. University","Centennial","80121","39.601847","-104.958077",,,"Times",,"6400 S. University","http://www.coloradooutdoormarkets.com",,,,,,,"Y","N","N","N","N","-","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","N","N","Y","Y","Y","Y","N","N","Y","N","Y","N","Y","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"6400 S. University
+Centennial, Colorado 80121
+(39.601847, -104.958077)"
+"192","1003618","Tiri's Garden Farmers' Market","1522 California St.","Denver",,"39.7443","-104.992",,,"Times",,"1522 California St.","http://www.concertforkids.org",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1522 California St.
+Denver, Colorado 
+(39.7443, -104.992)"
+"193","1004745","Town Of Mancos Farmers' Market","117 N. Main","Mancos",,"37.3451","-108.289",,,"Times",,"117 N. Main","http://www.mancoscolorado.com",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"117 N. Main
+Mancos, Colorado 
+(37.3451, -108.289)"
+"194","1002457","Vail Farmers Market  Art Show","Meadow Dr.","Vail","81657","39.64195","-106.373534","Closed-off public street","Sunday","10 AM - 3:30 PM","June 15 - Oct. 5","Meadow Dr.","http://www.vailfarmersmarket.com","https://www.facebook.com/pages/Vail-Farmers-Market-and-Art-Show","https://twitter.com/Vailfarmersmkt",,,"14-Jun","4-Oct","Y","N","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","N","Y","Y","Y","Y","N","Y","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Meadow Dr.
+Vail, Colorado 81657
+(39.64195, -106.373534)"
+"196","1005360","VNA Farmers' Market","390 Grant St.","Denver",,"39.7226","-104.983",,,"Times",,"390 Grant St.","http://www.vnacolorado.org",,,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"390 Grant St.
+Denver, Colorado 
+(39.7226, -104.983)"
+"148",,"Lakewood Farmers' Market",,"Lakewood",,,,,,"10 a.m. - 2 p.m. or Sellout","June 18 - Oct. 1","9077 W. Alameda Ave. (Mile Hi Church)","www.denverfarmersmarket.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Lakewood, Colorado 
+(39.710997, -105.088872)"
+"109",,"Denver",,,,,,,,"5:00pm - 7:00pm","June 7 - Aug 30","4890 Argonne Way","www.gvrhoa.com","facebook.com/gvrcab",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2017 CO farmers markets","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2013-05-05T00:00:00.000","
+, Colorado 
+(38.841772, -106.132562)"
+"175",,"Pueblo Riverwalk Farmers' Market",,"Pueblo",,,,,,"4 p.m. - 8 p.m.","June 23 - Sept. 15","125 Riverwalk Place","www.puebloriverwalk.org",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Pueblo, Colorado 
+(38.265425, -104.610415)"
+"123",,"Fountain Farmers' Market",,"Fountain",,,,,,"9 a.m. - 6 p.m.","May - Oct.","Fountain City","www.localvorecolorado.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Fountain, Colorado 
+(38.683108, -104.704554)"
+"172",,"Parker Farm2table Market at the Parker Garage",,"Parker",,,,,,"9 a.m. - 1 p.m.","April - Nov.","1920 Main St.","www.farm2tabletradingpost.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Parker, Colorado 
+(39.518515, -104.762773)"
+"100",,"Colorado Agricultural Marketing Cooperative (CAMC)",,"Fort Collins",,,,,,"11 a.m. - 3 p.m.","May - Mid-Nov.","810 Harmony Rd. (Southwest corner of Harmond Rd. & Lemay)","www.fortcollinsfm.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Fort Collins, Colorado 
+(40.588972, -105.082459)"
+"143",,"Jefferson Park Farm & Flea Market",,"Denver",,,,,,"9 a.m. - 2 p.m.","May 14, Jun 11, July 16, Aug. 13, Sept. 10, Oct. 8","25th Ave. between Federal Blvd. and Eliot St.","www.jpfleamarket.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Denver, Colorado 
+(39.738453, -104.984853)"
+"17",,"Palisade Sunday Farmers' Market",,,,,,,,,"Sundays, June 11 through September 17, 2017
+
+9 a.m. to 1 p.m","Downtown Palisade on Third and Main Streets, Kluge and Main Streets and between 2nd and 4th Streets.","http://www.townofpalisade.org/departments/sunday-market-page",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","
+, Colorado 
+(38.841772, -106.132562)"
+"82",,"Banning Lewis Ranch",,"Colorado Springs",,,,,,"1 p.m. - 6 p.m.","May 26 - Sept. 29","6885 Vista Del Pico Blvd.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Colorado Springs, Colorado 
+(38.835224, -104.819798)"
+"125",,"Fresh Market Pop-Up at the Landmark",,"Denver",,,,,,"4 p.m. - 8 p.m.","July 6 - Aug. 31","7600 Landmark Way","www.coloradofreshmarkets.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Denver, Colorado 
+(39.738453, -104.984853)"
+"93",,"Castle Rock Farm2Table Market at the Briccy's Coffee",,"Castle Rock",,,,,,"8 a.m. - 11:30 a.m.","April - Oct.","140 S. Wilcox","www.farm2tabletradingpost.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Castle Rock, Colorado 
+(39.375367, -104.859911)"
+"162",,"Meridian Farmers' Market",,"Colorado Springs",,,,,,"1 p.m. - 6 p.m.","June 7 - Sept. 27","10301 Angels Rd.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Colorado Springs, Colorado 
+(38.835224, -104.819798)"
+"21",,"Union Station Farmers Market",,"Denver",,,,,,"9 a.m. - 2 p.m.","June 4 - Oct. 22","1701 Wynkoop St.","www.bcfm.org",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Denver, Colorado 
+(39.738453, -104.984853)"
+"179",,"South Fork Farmers' Market",,"South Fork",,,,,,"10 a.m. - 2 p.m.","June 18 - Sept. 4","0204 CR 59","southforkfarmers.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+South Fork, Colorado 
+(37.669109, -106.640755)"
+"41",,"Broadway Farmers Market","23 Lincoln St.","Denver","80203",,,,"Wednesday
+Sunday","5 PM - 9 PM","June 18 - Sept. 3","Lincoln and Ellsworth","www.southbroadway.org/pages.asp?pageid=114100",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"23 Lincoln St.
+Denver, Colorado 80203
+(39.717031, -104.986274)"
+"34",,"Minturn Market","100 Main Street","Minturn","81645","39.589274871","-106.431326176",,"Saturday","9 AM - 2 PM","June 14 - Sept. 6","100 Main Street","www.minturnmarket.org",,,,,"13-Jun","5-Sep",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","100 Main Street
+Minturn, Colorado 81645
+(39.589275, -106.431326)"
+"137",,"Gunnison Farmers' Market - Winter","275 S. Spruce","Gunnison","81230",,,,"Saturday","9:30 AM - 1:30 PM","Oct. 11 - Winter","Fred Field Heritage Center (county fairgrounds)","www.gunnisonfarmersmarket.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"275 S. Spruce
+Gunnison, Colorado 81230
+(38.541084, -106.93095)"
+"104",,"Cordera",,"Colorado Springs",,,,,,"11 a.m - 4 p.m.","June 5 - Sept. 25","11894 Grand Lawn Cr.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Colorado Springs, Colorado 
+(38.835224, -104.819798)"
+"13",,"Longmont Farmers Market",,"Longmont",,,,,,"8 a.m. - 1 p.m.","April 1, 2017 – November 18, 2017 ","9595 Nelson rd.","www.bcfm.org",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","
+Longmont, Colorado 
+(40.165729, -105.101194)"
+"86",,"Bennett Community Market",,"Bennett",,,,,,"9 a.m. - 2 p.m.","May 21 - Sept.","401 S. 1st st.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Bennett, Colorado 
+(39.755817, -104.427412)"
+"90",,"Boulter’s Farmers Market",,"Englewood",,,,,,"2 p.m. - 7 p.m.","May 4 - Oct.","560 E. Castle Pine Pkwy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Englewood, Colorado 
+(39.649436, -104.98891)"
+"200",,"Woodland Park Farmers' Market",,"Woodland Park",,,,,,"7 a.m. - 1 p.m.","June  - Sept.","221 S. Center St. (next to Woodland hardware)","www.wpfarmersmarket.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Woodland Park, Colorado 
+(38.994594, -105.051713)"
+"114",,"El Pueblo",,,,,,,,"Times",,"301 N Union Ave",,"https://m.facebook.com/ElPuebloFarmersMarket/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2013-05-11T00:00:00.000","
+, Colorado 
+(38.841772, -106.132562)"
+"191",,"The Village Farmers' Market at Creede",,"Creede",,,,,,"10 a.m. - 3 p.m.","June 10 - Sept. 2","550 N. Airport Rd.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Creede, Colorado 
+(37.848073, -106.925748)"
+"183",,"The Berkeley Lake Farmers' Market",,"Denver",,,,,,"10 a.m. - 2 p.m.","June 12 - Aug. 28","North West Denver 46th & Tennyson St.","www.coloradooutdoormarkets.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Denver, Colorado 
+(39.738453, -104.984853)"
+"31","1011057","City Park Esplanada Fresh Market","2525 E Colfax Ave","Denver",,,,,"Sunday","9 AM - 1 PM","June 1 - Oct. 26","E. Colfax Ave. & Columbine St. (Sullivan Fountain","www.coloradofreshmarkets.com",,,,,"7_jun","31-Oct","Y","N","N","N","N","Y","Y","N","N","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","N","Y","Y","N","N","Y","N","Y","N","Y","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"2525 E Colfax Ave
+Denver, Colorado 
+(39.740198, -104.956691)"
+"122",,"Farmers Market Slow Food Denver",,"Denver",,,,,,"10 a.m. - 2 p.m.","May 29 - Oct.","3350 Brighton Boulevard",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Denver, Colorado 
+(39.738453, -104.984853)"
+"85",,"Belleview Station Farmers' Market",,"Denver",,,,,,"9 a.m. - 3 p.m.","June 5 - Oct. 30","4901 South Newport Street","http://www.foodiesoutdoormarkets.com/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Denver, Colorado 
+(39.738453, -104.984853)"
+"132",,"Grand Lonetree Farmers' Market",,"Lone Tree",,,,,,"9 a.m. - 1 p.m.","June - Sept.","8585 S. Yosemite St.","www.pagochea.com",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Lone Tree, Colorado 
+(39.550387, -104.894929)"
+"178","1012719","South Fork Farmers, Local Artisan and Antique Market","0168 Four Seasons Drive","South Fork","81154","37.6734709","-106.6160037",,,"Times",,"0168 Four Seasons Drive","http://www.southforkfarmersmarket.com","South Fork Farmers Market",,,,,,"Y","N","N","N","Y","-","Y","Y","Y","Y","Y","N","N","Y","Y","Y","N","N","N","Y","N","N","N","Y","Y","N","N","N","Y","Y","N","N","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"0168 Four Seasons Drive
+South Fork, Colorado 81154
+(37.673471, -106.616004)"
+"36","1005078","Westcliffe Farmers Market","315 Main St","Westcliffe","81252","38.136048513","-105.466340713",,"Wednesday","9 AM - 1 PM","June 11 - Oct. 8","Jess Price Park","www.westcliffefarmersmarket.com","https://www.facebook.com/WestcliffeFarmersMarket",,,,"10-Jun","7-Oct","Y","N","N","N","N","Y","Y","N","Y","N","Y","N","Y","Y","Y","Y","N","N","N","N","Y","N","Y","Y","N","N","N","N","Y","N","N","N","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","315 Main St
+Westcliffe, Colorado 81252
+(38.136049, -105.466341)"
+"167","1011232","NoCo Food Cluster Winter Farmers' Market","123 N College Ave","Fort Collins","80524","40.5878275","-105.0775856",,,"Times",,"123 N College Ave","http://www.nocofoodcluster.com/winter-markets/","facebook.com/focowinterfarmersmarket","@nocofoodcluster",,,,,"Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","N","Y","N","Y","Y","Y","N","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"123 N College Ave
+Fort Collins, Colorado 80524
+(40.587828, -105.077586)"
+"43","1005911","Louisville Farmers Market","824 Front Street","Louisville","80027","39.978420088","-105.130725235","Closed-off public street","Saturday","9 AM - 1 PM","May 31 - Oct. 11","824 Front Street","www.farmersmarketlouis.com",,,,,"30-May","10-Oct","Y","N","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","N","Y","Y","Y","Y","N","Y","Y","N","Y","Y","Y","Y","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","824 Front Street
+Louisville, Colorado 80027
+(39.97842, -105.130725)"
+"28",,"City of Edgewater Farmers Market","2401 Sheridan Blvd","Edgewater","80214","39.751391279","-105.05329683",,"Thursday","5 PM - 8 PM","July 10 - Sept. 11","2401 Sheridan Blvd.","www.edgewaterco.com",,,,,"9-Jul","10-Sep",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","2401 Sheridan Blvd
+Edgewater, Colorado 80214
+(39.751391, -105.053297)"
+"45",,"Belmar Fresh Market","384 S Wadsworth Blvd","Lakewood","80226","39.708732698","-105.081353776",,"Saturday","9 AM - 1 PM","June 7 - Sept. 27","Wadsworth & Alameda (at the Belmar Entry Sign)","www.coloradofreshmarkets.com","https://www.facebook.com/pages/Colorado-Fresh-Markets/110945278932210",,,,"6-Jun","26-Sep","Y","N","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","384 S Wadsworth Blvd
+Lakewood, Colorado 80226
+(39.708733, -105.081354)"
+"49","1003146","First  Main Town Center Mall Farmers Market","3650 New Center Point","Colorado Springs","80922","38.883659672","-104.717035849","Private business parking lot","Thursday","9 AM - 3 PM","June 12 - Oct. 30","3650 New Center Point","www.millerfarms.net","https://www.facebook.com/MillerFarmsCO?ref=ts&v=wall",,,,"11-Jun","29-Oct","Y","N","N","N","Y","-","Y","Y","Y","N","Y","Y","N","Y","Y","Y","N","Y","N","N","N","Y","N","Y","N","Y","N","N","Y","N","N","Y","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","3650 New Center Point
+Colorado Springs, Colorado 80922
+(38.88366, -104.717036)"
+"26",,"The Saturday Market at Tagawa Gardens","7711 S Parker Rd","Centennial","80016","39.578578457","-104.792915943",,"Saturday","9 AM - 3 PM","June 21 - Sept. 27","7711 S. Parker Rd.","www.tagawagardens.com",,,,,"20-Jun","26-Sep",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","7711 S Parker Rd
+Centennial, Colorado 80016
+(39.578578, -104.792916)"
+"161","1017913","Meeker Farmers Market","Main Street","Meeker","81641","40.0363831","-107.9192204",,,"Times",,"Main Street",,"https://m.facebook.com/meekerfarmersmarket/",,,,,,"Y","N","N","N","N","-","Y","N","Y","Y","Y","N","N","Y","Y","N","N","N","N","N","N","N","N","Y","N","N","Y","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Main Street
+Meeker, Colorado 81641
+(40.036383, -107.91922)"
+"73","1008959","Cortez Farmers Market","109 W Main","Cortez","81321","37.348573683","-108.587649575",,"Saturday","7:30 AM - sellout","June 1 - end of October","109 W. Main (County Courthouse west parking lot)","www.cortezfarmmarket.com/","https://www.facebook.com/groups/265957719169/admins/?order=default",,,,"31-May","end of october","Y","N","N","N","Y","-","Y","N","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","N","Y","Y","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","109 W Main
+Cortez, Colorado 81321
+(37.348574, -108.58765)"
+"128","1002373","Gardner Farmer & Craft Market","Pavilion @ Methodist Church","Gardner","81040","37.7833397","-105.1655542","Other",,"Times",,"Pavilion @ Methodist Church",,,,,,,,"Y","N","N","N","Y","-","Y","Y","Y","Y","Y","N","Y","Y","Y","N","N","N","N","N","Y","N","Y","Y","Y","N","N","N","Y","N","Y","Y","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Pavilion @ Methodist Church
+Gardner, Colorado 81040
+(37.78334, -105.165554)"
+"47","1005654","Estes Valley Farmers Market","1209 Manford Ave","Estes Park","80501","40.371119097","-105.502003287",,"Thursday","8 a.m. - 1 p.m.","June 5 - Sept. 25","1209 Manford Ave.","www.estesparkinformation.com/estes-valley-farmers-market/","https://www.facebook.com/EstesValleyFarmersMarket",,,,"4-Jun","24-Sep","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","1209 Manford Ave
+Estes Park, Colorado 80501
+(40.371119, -105.502003)"
+"62","1005126","Idaho Springs Chamber Of Commerce Farmers Market","2350 Colorado Blvd","Idaho Springs","80452","39.74177568","-105.506382274",,"Friday","10 AM - 3 PM","Starts May 30","Courtney-Ryley-Cooper Park","www.idahospringschambercommerce.com/events/73-farmers-market",,,,,"29-May","Sep","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","2350 Colorado Blvd
+Idaho Springs, Colorado 80452
+(39.741776, -105.506382)"
+"25","1002707","Ridgway Farmers Market","201 N Railroad St","Ridgway","81432","38.15244638","-107.754771066",,"Friday","10 AM - 3 PM","May 23 - Oct. 17","Hartwell Park","www.farmersmarketridgway.com",,,,,"22-May","16-Oct","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","201 N Railroad St
+Ridgway, Colorado 81432
+(38.152446, -107.754771)"
+"69",,"Havana St Farmers Market","2802 S Havana Stnbsp","Denver","80231","39.740014014","-104.992297206",,"Monday","10 AM - 2 PM or sell out","June 16 - Sept. 29","Havana Exchange Shopping Center (2712-2892 S. Havana St.) ","www.denverfarmersmarket.com",,,,,"15-Jun","28-Sep",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","2802 S Havana Stnbsp
+Denver, Colorado 80231
+(39.740014, -104.992297)"
+"81","1004692","Aspen Grove Littleton Farmers' Market","7301 S Santa Fe Dr","Littleton","80120","39.583482273","-105.023892678",,"Wednesday","Times","June 11 - Oct. 29","7301 S Santa Fe Dr","http://www.denverfarmersmarket.com","https://www.facebook.com/denverfarmersmarket",,,,"16-Jun","27-Oct","Y","N","N","N","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","N","Y","Y","N","Y","Y","Y","Y","N","N","Y","CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","7301 S Santa Fe Dr
+Littleton, Colorado 80120
+(39.583482, -105.023893)"
+"155","1001672","Lowry Farmers' Market","7581 East Academy Blvd.","Denver","80230","39.7190269","-104.8969534","Private business parking lot",,"Times",,"7581 East Academy Blvd.","http://www.hangar2lowry.com","https://www.facebook.com/LowryFarmersMarket",,,,,,"Y","N","N","N","N","-","Y","N","Y","Y","N","N","Y","Y","Y","Y","N","N","N","N","Y","N","Y","N","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"7581 East Academy Blvd.
+Denver, Colorado 80230
+(39.719027, -104.896953)"
+"54","1009811","Silverthorne Farmers Market","400 Blue River Parkway","Silverthorne","80498","39.632473071","-106.074227415","Private business parking lot","Tuesday","10 AM - 3 PM","June 10 - Sept. 30 (weather permitting)","At the Pavilion","www.millerfarms.net",,,,,"9-Jun","sept. 30 (weather permitting)","Y","N","N","N","Y","-","Y","N","N","N","N","N","Y","Y","N","Y","N","N","N","N","N","N","N","N","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","400 Blue River Parkway
+Silverthorne, Colorado 80498
+(39.632473, -106.074227)"
+"197","1010157","Walsenburg Farmers Market","6th and Main","Walsenburg","81089","37.6236904","-104.7808998","Other",,"Times",,"6th and Main",,,,,,,,"N","N","N","N","Y","-","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","N","N","N","Y","N","Y","Y","N","N","Y","N","Y","N","Y","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"6th and Main
+Walsenburg, Colorado 81089
+(37.62369, -104.7809)"
+"74","1006304","Monument Hill Farmers Market","66 Jefferson St","Monument","80132","39.089419682","-104.871110922","Educational institution","Saturday","8 AM - 2 PM","May 10 - Oct. 18","66 Jefferson St","www.springsfarmersmarkets.com/#!monument/cc1x",,,,,"9-May","17-Oct","Y","N","N","N","N","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","Y","N","Y","N","Y","N","N","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","66 Jefferson St
+Monument, Colorado 80132
+(39.08942, -104.871111)"
+"37",,"Broomfield Farmers Market","4181 West 120th Avenbsp","Broomfield","80020","39.920861897","-105.070579914",,"Tuesday","10 AM - 2 PM or sellout","June 17 - Sept. 30","4181 W. 120th (Shelly's Garden Country)","www.denverfarmersmarket.com",,,,,"16-Jun","29-Sep",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","4181 West 120th Avenbsp
+Broomfield, Colorado 80020
+(39.920862, -105.07058)"
+"145","1005800","Johnstown Milliken Farmer's Market","Charlotte St. and Parish Ave.","Johnstown","80534","40.3301322","-104.8544857","Local government building grounds",,"Times",,"Charlotte St. and Parish Ave.","http://www.johnstownmillikenchamber.com",,,,,,,"N","N","N","N","Y","-","Y","N","Y","Y","N","N","N","Y","Y","Y","N","N","N","N","Y","N","Y","Y","N","N","N","N","N","N","Y","Y","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Charlotte St. and Parish Ave.
+Johnstown, Colorado 80534
+(40.330132, -104.854486)"
+"66","1004255","City of Loveland Farmers Market","700 S Railroad Ave","Loveland","80537","40.386035822","-105.081504727",,"Sunday","9 AM - 1:30 PM","June 29 - September 28","At the far north end ofÂ Fairgrounds Park","http://www.cityofloveland.org/farmersmarket","https://www.facebook.com/cityoflovelandfarmersmarket","https://twitter.com/NoCOFarmersMrkt",,,"28-Jun","27-Sep","Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","Y","Y","Y","Y","N","N","Y","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","700 S Railroad Ave
+Loveland, Colorado 80537
+(40.386036, -105.081505)"
+"59","1009285","Arvada Five Parks Farmers Market","13810 W 85th Dr","Arvada","80005","39.849166069","-105.155381534",,"Thursday","4:30 PM - 7:30 PM","May 29 - Oct. 2","13810 W. 85th Dr.","www.arvadafiveparksfarmersmarket.blogspot.com/","https://www.facebook.com/pages/Arvada-Five-Parks-Farmers-Market/469569033116556",,,,"28-May","1-Oct","Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","13810 W 85th Dr
+Arvada, Colorado 80005
+(39.849166, -105.155382)"
+"72","1003116","Florence Farmers Market","215 W Main St","Florence","81226","38.390343615","-105.1201757","Other","Thursday","8 AM - 1 PM","June 5 - Oct. 2","Pioneer park, corner of pikes peak and 3rd street","www.florencecoloradochamber.com/businesses/florence-farmers-market-0",,,,,"4-Jun","1-Oct","Y","N","N","N","N","Y","Y","N","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","N","Y","Y","Y","N","Y","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","215 W Main St
+Florence, Colorado 81226
+(38.390344, -105.120176)"
+"27","1003335","Basalt Sunday Market","101 Midland Ave","Basalt","81621","39.368825414","-107.034341251",,"Sunday","10 AM - 2 PM","June 15 - Sept. 28","Downtown Basalt adjacent to Lions Park","www.basaltsundaymarket.com",,,,,"14-Jun","27-Sep","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","101 Midland Ave
+Basalt, Colorado 81621
+(39.368825, -107.034341)"
+"58","1008981","Pagosa Farmers Market","191 E Pagosa St","Pagosa Springs","81147","37.269360761","-106.999876186","Private business parking lot","Saturday","9 AM - 1 PM","June 21 - Sept. 13","At East Side Market","www.sospagosa.org","https://www.facebook.com/pages/Pagosa-Farmers-Market/550120111676611",,,,"20-Jun","12-Sep","Y","N","N","N","Y","Y","N","N","N","N","N","N","N","N","N","N","N","N","N","N","N","N","N","N","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","191 E Pagosa St
+Pagosa Springs, Colorado 81147
+(37.269361, -106.999876)"
+"4","1003143","Castle Rock Farmers Market","300 S Elbert St","Castle Rock","80104","39.372348257","-104.863011374","Local government building grounds","Saturday","8 AM - 12 PM","July 12 - Oct. 4","3rd St. & Elbert","www.douglascountyextension.org",,,,,"11-Jul","3-Oct","Y","N","N","N","N","Y","Y","Y","N","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","Y","Y","N","Y","Y","Y","N","Y","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","300 S Elbert St
+Castle Rock, Colorado 80104
+(39.372348, -104.863011)"
+"198","1017924","Wellington Farmers Market","3rd & Harrison","Wellington","80549","40.7048195","-105.0050181",,,"4 p.m. - 8 p.m./dusk","June 2 - Oct. 20","3rd & Harrison","http://www.wellingtoncofarmersmarket.org","https://www.facebook.com/wellingtoncofarmersmarket",,,,,,"Y","N","N","N","Y","Y","Y","N","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","N","Y","Y","N","N","Y","N","Y","N","N","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"3rd & Harrison
+Wellington, Colorado 80549
+(40.70482, -105.005018)"
+"51","1003982","Telluride Farmers Market","175 S Oak St","Telluride","81435","37.93700477","-107.813085468",,"Friday","11 PM - 4 PM","June 6 - Oct. 10","S. Oak St. in Telluride between Elk's park and the Gondola Plaza","www.thetelluridefarmersmarket.com/","https://www.facebook.com/pages/Telluride-Farmers-Market/154932191228871",,,,"5-Jun","9-Oct","Y","Y","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","N","Y","N","Y","Y","Y","Y","Y","Y","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","175 S Oak St
+Telluride, Colorado 81435
+(37.937005, -107.813085)"
+"9","1005099","Golden Farmers Market","1019 10th St","Golden","80401","39.756204719","-105.225717251","Local government building grounds","Saturday","8 a.m - 1 PM","June 7 - Oct. 4","10th St. next to the Golden Library","www.goldenfarmersmarket.org","https://www.facebook.com/goldenfarmersmarket",,,,"6-Jun","3-Oct","Y","N","N","N","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","N","Y","Y","N","Y","N","Y","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","1019 10th St
+Golden, Colorado 80401
+(39.756205, -105.225717)"
+"35","1003292","Carbondale Farmers Market","17 S 4th St","Carbondale","81623","39.400345142","-107.211281819","Closed-off public street","Wednesday","10 AM - 3 PM","June 11 - Mid-October","4th & Main St.","www.sites.google.com/site/carbondalefarmersmarket/",,,,,"10-Jun","mid-october","Y","N","Y","N","N","Y","Y","N","Y","Y","Y","Y","Y","Y","N","Y","N","Y","N","N","N","N","Y","Y","N","Y","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","17 S 4th St
+Carbondale, Colorado 81623
+(39.400345, -107.211282)"
+"29",,"Wahatoya Community Initiatives Farmers Market","310 Main St","La Veta","81055","37.507787022","-105.009073181",,"Saturday","10 AM - 1 PM","May - October","In Library/Museum Plaza","www.wahatoya.org",,,,,"7-May","7-Oct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","310 Main St
+La Veta, Colorado 81055
+(37.507787, -105.009073)"
+"76",,"Steamboat Farmers Market","700 Yampa St","Steamboat Springs","80487","40.484945864","-106.834835944",,"Saturday","9 AM - 2 PM","June 14 - Sept. 13","7th St. and Yampa St.","www.mainstreetsteamboat.com/farmers-market/",,,,,"13-Jun","12-Sep",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","700 Yampa St
+Steamboat Springs, Colorado 80487
+(40.484946, -106.834836)"
+"52","1012217","Trinidad Community Farmers Market","235 Modica Drive","Trinidad","81082","37.168713777","-104.509148866",,"Saturday","8 AM - 12 PM","Late June - mid October","In Cimino Park on Modica Drive (1 block east of Safeway)","www.localharvest.org/trinidad-community-farmers-market-M31395","Trinidad Community Farmers Market",,,,"7-Jun","mid october","Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","N","N","N","Y","N","Y","Y","N","N","Y","Y","Y","N","N","Y","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","235 Modica Drive
+Trinidad, Colorado 81082
+(37.168714, -104.509149)"
+"32","1005150","Market on the Plaza","500 Mountain Village Blvd","Telluride","81435","37.934406657","-107.848601421","Other","Wednesday","11 AM - 4 PM","June 18 - Aug. 13","Heritage Plaza","www.mountain-village.co.us/index.aspx?NID=458",,,,,"17-Jun","12-Aug","Y","N","N","N","N","-","Y","N","Y","N","Y","N","Y","Y","Y","Y","Y","Y","N","N","N","N","Y","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","500 Mountain Village Blvd
+Telluride, Colorado 81435
+(37.934407, -107.848601)"
+"30",,"Gunnison Farmers Market  Summer","124 E Virginia Ave","Gunnison","81230","38.545578253","-106.926150368",,"Saturday","9:30 AM - 1:30 PM","June 22 - Oct. 11","N. Main & Virginia (center of Town)","www.gunnisonfarmersmarket.com",,,,,"21-Jun","10-Oct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","124 E Virginia Ave
+Gunnison, Colorado 81230
+(38.545578, -106.92615)"
+"5",,"Drake Road Farmers Market","802 W Drake Road","Fort Collins","80526","40.552767525","-105.090460048",,"Saturday","10 AM - 1 PM","April 19 - September 27","802 W. Drake Road","www.drakeroadfarmersmarket.com","https://www.facebook.com/DrakeRoadFarmersMarket/",,,,"18-Apr","26-Sep","Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","Y","Y","N","Y","N","Y","Y","Y","N","N","CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","802 W Drake Road
+Fort Collins, Colorado 80526
+(40.552768, -105.09046)"
+"199","1010302","Winter Park Farmers Market","78415 us hwy 40","Winter Park","80482","39.9250052","-105.7864768","Private business parking lot",,"Times",,"78415 us hwy 40",,"https://www.facebook.com/pages/Winter-Park-Farmers-Market/836878542992147",,,,,,"Y","Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"78415 us hwy 40
+Winter Park, Colorado 80482
+(39.925005, -105.786477)"
+"56","1006245","Fruita Farmers Market","325 E Aspen St","Fruita","81521","39.158923319","-108.731013712","Local government building grounds","Saturday","8:30 AM - 12:30 PM","June 28 - Sept. 20","Fruita Civic Center","www.fruitachamber.org/farmersmarket/","https://www.facebook.com/pages/Fruita-Farmers-Market/117113465125654",,,,"27-Jun","19-Sep","Y","Y","N","N","N","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","Y","Y","N","Y","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","325 E Aspen St
+Fruita, Colorado 81521
+(39.158923, -108.731014)"
+"3","1006844","Buena Vista Farmers Market","409 E Main","Buena Vista","81211","38.842944408","-106.128642404",,"Sunday","9 AM - 1 PM","June 8 - Oct. 12","US-24 and W Main St","www.ccfa.coop/farmers-markets",,,,,"7-Jun","11-Oct","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","409 E Main
+Buena Vista, Colorado 81211
+(38.842944, -106.128642)"
+"39",,"Westminster Farmers Market","8800 Sheridan","Westminster","80031","39.854584633","-105.053496352",,"Saturday","10 AM - 2 PM","June - September","NW Corner of Sheridan & 88th","www.arvadafarmersmarket.com",,,,,"7-Jun","7-Sep",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","8800 Sheridan
+Westminster, Colorado 80031
+(39.854585, -105.053496)"
+"20","1002313","South Pearl Street Farmers Market","1500 S Pearl St","Denver","80210","39.689212145","-104.980395237","Closed-off public street","Sunday","9 AM - 1 PM","May 11 - Nov. 2","1500 Blk of S. Pearl St. (between Florida & Iowa)","www.southpearlstreet.com",,,,,"10-May","1-Nov","Y","N","N","N","N","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","N","Y","Y","Y","N","Y","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","1500 S Pearl St
+Denver, Colorado 80210
+(39.689212, -104.980395)"
+"16","1000133","Old Town Famers Market Larimer County","200 W Oak St","Fort Collins","80521","40.585638444","-105.080520483","Local government building grounds","Saturday","8 AM - 12 PM","May 17 - Oct. 25","200 W. Oak Street","www.larimercountyfarmersmarket.org","https://www.facebook.com/larimercountyfarmersmarket","https://twitter.com/larimercountyfm",,,"16-May","24-Oct","Y","N","Y","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","Y","Y","N","Y","N","Y","Y","Y","Y","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","200 W Oak St
+Fort Collins, Colorado 80521
+(40.585638, -105.08052)"
+"61",,"Downtown Farmers Market Festival","400 Main St","Grand Junction","81501","39.067418446","-108.565900262",,"Thursday","5 PM - 8:30 PM","June 19 - Sept. 25","4th & Main St.","www.downtowngj.org/signature-events/downtown-farmers-market/",,,,,"18-Jun","24-Sep",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","400 Main St
+Grand Junction, Colorado 81501
+(39.067418, -108.5659)"
+"78",,"Colorado Farm  Art Market2","1604 S Cascade Ave","Colorado Springs","80905","38.810983117","-104.826616237",,"Wednesday","3 PM - 7 PM","June 11 - Oct. 8","Ivywild School","www.farmandartmarket.com",,,,,"10-Jun","7-Oct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","1604 S Cascade Ave
+Colorado Springs, Colorado 80905
+(38.810983, -104.826616)"
+"92","1007369","Brush Farmers Market","1302 W Edison St.","Brush","80723","40.2549432","-103.6352521","Private business parking lot",,"Times",,"1302 W Edison St.","http://www.brushchamber.org",,,,,"28-Jun","20-Sep","Y","N","N","N","N","-","Y","N","Y","Y","N","N","Y","Y","Y","Y","N","N","N","N","N","N","N","N","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"1302 W Edison St.
+Brush, Colorado 80723
+(40.254943, -103.635252)"
+"50","1009644","Canon City Farmers Market","211 S 3rd St","Canon City","81212","38.440410976","-105.244195224","Local government building grounds","Tuesday","8 AM - 1 PM","June 6 - Sep. 26","211 S. 3rd St. (Veterans Park)","www.canoncityfarmersmarket.com","https://www.facebook.com/pages/Canon-City-Farmers-Market/224357034259851",,,,"2-Jun","13-Oct","Y","N","N","N","Y","Y","Y","Y","Y","N","Y","N","Y","N","Y","Y","N","N","N","N","Y","N","Y","Y","Y","N","Y","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","211 S 3rd St
+Canon City, Colorado 81212
+(38.440411, -105.244195)"
+"7",,"Colorado Farm  Art Market","7350 Pine Creek Rd","Colorado Springs","80919","38.937605974","-104.813235962",,"Saturday","9 AM - 1 PM","June 14 - Oct. 11","At the Margarita at Pine Creek","www.farmandartmarket.com",,,,,"13-Jun","10-Oct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","7350 Pine Creek Rd
+Colorado Springs, Colorado 80919
+(38.937606, -104.813236)"
+"124","1011779","Four Seasons Farmers and Artisans Market","7043 W. 38th Ave.","Wheat Ridge","80033","39.769904","-105.0752471",,,"12 p.m. - 6 p.m.",,"7043 W. 38th Ave.","http://www.fourseasonsfam.com/wordpress/","https://www.facebook.com/fourseasonsfam/",,"https://www.youtube.com/watch?v=43rhFFp8N7Q",,,,"Y","N","N","N","Y","-","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","N","Y","Y","N","Y","Y","Y","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2013-05-05T00:00:00.000","7043 W. 38th Ave.
+Wheat Ridge, Colorado 80033
+(39.769904, -105.075247)"
+"70","1003148","University Village Colorado Farmer Market","5230 W Nevada Ave","Colorado Springs","80918","38.904721158","-104.817225455","Private business parking lot","Saturday","9 AM - 3 PM","June 7 - Nov. 1  (weather permitting)","5230 W. Nevada Ave.","www.millerfarms.net","https://www.facebook.com/MillerFarmsCO?ref=ts&v=wall",,,,"6-Jun","nov. 1  (weather permitting)","Y","N","N","N","Y","-","Y","N","Y","N","N","Y","N","Y","Y","Y","N","Y","N","N","N","Y","Y","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","5230 W Nevada Ave
+Colorado Springs, Colorado 80918
+(38.904721, -104.817225)"
+"53","1003041","Woodland Park Farmers Market  Summer","217 W Henrietta Ave","Woodland Park","80863","38.99528987","-105.054712537",,"Friday","7 AM - 1 PM","June  6 - Sept. 26","116 S. West Street","www.wpfarmersmarket.com","https://www.facebook.com/pages/Woodland-Park-Farmers-Market/138197162922154","https://twitter.com/wpfarmersmarket",,"Pinterest","5-Jun","25-Sep","Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","N","Y","Y","Y","Y","Y","N","Y","Y","Y","N","N","Y","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","217 W Henrietta Ave
+Woodland Park, Colorado 80863
+(38.99529, -105.054713)"
+"14","1011137","Loveland Farmers Market","3133 N Garfield Ave","Loveland","80538","40.425480214","-105.077606835",,"Tuesday","11 AM - 3 PM rain or shine","May - October","3133 N. Garfiled  (in front of Hobby Lobby)","www.fortcollinsfm.com","https://www.facebook.com/pages/Fort-Collins-Farmers-Market-sponsored-by-CAMC/434286586584679?ref=ts&fref=ts",,,,"7-May","7-Oct","Y","N","N","N","Y","-","Y","N","N","Y","N","N","N","Y","Y","Y","N","N","N","N","Y","N","N","Y","N","N","N","N","Y","N","Y","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","3133 N Garfield Ave
+Loveland, Colorado 80538
+(40.42548, -105.077607)"
+"57","1005081","Arvada Farmers Market","5702 Olde Wadsworth Blvd","Arvada","80002","39.800272863","-105.081396124","Local government building grounds","Sunday","9 AM - 1:30 PM","June - September","57th & Olde Wadsworth (Olde Town Square)","www.arvadafarmersmarket.com","https://www.facebook.com/arvadafarmersmarket",,,,"7-Jun","7-Sep","Y","N","N","N","Y","N","Y","Y","N","N","Y","N","Y","Y","Y","Y","N","Y","N","N","N","Y","Y","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","5702 Olde Wadsworth Blvd
+Arvada, Colorado 80002
+(39.800273, -105.081396)"
+"108","1005035","Crested Butte Farmers Market","202 Elk Ave #8","Crested Butte","81224","38.869755","-106.9874825","Closed-off public street",,"Times",,"202 Elk Ave #8","http://www.cbfarmersmarket.org",,,,,"Jun","Oct","Y","N","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"202 Elk Ave #8
+Crested Butte, Colorado 81224
+(38.869755, -106.987482)"
+"67","1006306","Broadmoor Farmers Market","315 Lake Ave","Colorado Springs","80906","38.795003063","-104.832404447","Faith-based institution (e.g., church, mosque, synagogue, temple)","Monday","9 AM - 2 PM","May 26 - Sept. 29","315 Lake Ave","www.springsfarmersmarkets.com/#!broadmoor/cmzf",,,,,"25-May","28-Sep","Y","N","N","N","N","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","N","Y","N","N","N","Y","Y","Y","Y","N","Y","N","Y","N","N","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","315 Lake Ave
+Colorado Springs, Colorado 80906
+(38.795003, -104.832404)"
+"99","1010079","City of Evans Farmers Market",,"Evans",,"40.3763701","-104.6921874",,,"Times",,,"http://www.evanscolorado.gov","https://www.facebook.com/cityofevans",,,,,,"Y","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"
+Evans, Colorado 
+(40.37637, -104.692187)"
+"0","1004070","Alamosa Farmers Market","537 Main St","Alamosa","81101","37.468221406","-105.864451725",,,"8 AM - 1 PM","July 5 - Oct. 11","Parking lots near State Ave. and Main(160W)","www.alamosafarmersmarket.org","https://www.facebook.com/pages/Alamosa-Farmers-Market/104375596315429?fref=ts",,,,"4-Jul","10-Oct","Y","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","N","Y","Y","N","N","N","Y","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","537 Main St
+Alamosa, Colorado 81101
+(37.468221, -105.864452)"
+"40","1004687","Southwest Plaza Farmers Market","8501 West Bowles Ave","Littleton","80123","39.60985789","-105.095750805",,"Saturday","8 AM - 2 PM or sell out","May 3 - Nov. 1","8501 W. Bowles (W. Bowles & S. Wadsworth)","www.denverfarmersmarket.com",,,,,"2-May","31-Oct","Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","Y","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","8501 West Bowles Ave
+Littleton, Colorado 80123
+(39.609858, -105.095751)"
+"77","1008420","Windsor Famers Market","431 Main St","Windsor","80550","40.479893174","-104.903851585","Closed-off public street","Saturday","9 AM - 12:30 PM","June 28 - Sept. 20","On 5th St. south of Main St.","www.windsorgov.com/index.aspx?NID=803",,,,"www.weldmastergardeners.com","27-Jun","19-Sep","Y","N","N","N","N","-","Y","Y","Y","N","N","N","Y","Y","Y","Y","N","Y","N","N","N","N","N","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","431 Main St
+Windsor, Colorado 80550
+(40.479893, -104.903852)"
+"116","1004525","Erie Farmers' Market","515 Briggs St","Erie","80516","40.0491741","-105.0474201","Private business parking lot",,"5 p.m. - 8 p.m.","May 19 - Sept. 22","515 Briggs St","http://www.naturespointmarkets.com",,,,,"May","Oct","Y","N","N","N","Y","Y","Y","N","Y","Y","N","N","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","Y","N","N","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"515 Briggs St
+Erie, Colorado 80516
+(40.049174, -105.04742)"
+"22","1005837","Aspen Saturday Market","601 E Hopkins Ave","Aspen","81611","39.18927287","-106.816935963",,,"8:30 AM - 3 PM","June 14 - Oct. 11","E. Hopkins Ave. & S. Hunter St.","www.aspenpitkin.com/Departments/Clerk/Aspen-Saturday-Market/",,,,,"13-Jun","10-Oct","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","601 E Hopkins Ave
+Aspen, Colorado 81611
+(39.189273, -106.816936)"
+"63","1010115","Frederick Market","401 Locust St","Frederick","80530","40.099278424","-104.936606431","Closed-off public street","Thursday","4 p.m. - 8 p.m. (June - Aug.), 4 p.m. - 7 p.m. (Se","June 5 - Sept. 25","5th Street from Main to Elm St","http://www.frederickco.gov/frederickmarket","https://www.facebook.com/townoffrederick","https://twitter.com/townoffrederick",,,"4-Jun","24-Sep","Y","N","N","N","N","-","Y","N","Y","N","Y","N","N","Y","Y","Y","N","Y","N","N","N","N","N","Y","Y","N","Y","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","401 Locust St
+Frederick, Colorado 80530
+(40.099278, -104.936606)"
+"89","1003353","Boulder County Farmers' Market - Longmont & Boulder","9595 Nelson rd","Longmont","80501","40.1534817","-105.1286563","Federal/State government building grounds",,"Times",,"9595 Nelson rd","http://www.boulderfarmers.org","https://www.facebook.com/BoulderCountyFarmersMarkets","https://twitter.com/BCFMarkets",,,"Apr","Nov","Y","Y","N","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","Y","N","Y","Y","Y","Y","Y","Y","N","N","N","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"9595 Nelson rd
+Longmont, Colorado 80501
+(40.153482, -105.128656)"
+"118","1001957","Evergreen Farmers' Market, The","1240 Bergen Parkway","Evergreen",,"39.69234528","-105.357958977",,"Tuesday","10 a.m. - 2 p.m.","June 6 - Aug. 29","Evergreen Country days schools's parking lot","www.coloradooutdoormarkets.com",,,,,"2-Jun","22-Sep","Y","N","N","N","N","-","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","Y","N","N","Y","Y","Y","Y","N","N","Y","Y","Y","N","Y","N","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2013-05-05T00:00:00.000","1240 Bergen Parkway
+Evergreen, Colorado 
+(39.692345, -105.357959)"
+"42",,"Stapleton Farmers Market","7601 E 29th Ave","Denver","80238","39.75772787","-104.899749974",,"Sunday","8:30 AM - 12:30 PM","June 15 - Oct. 12","E. 29th Ave. & Roslyn St. (Stapleton Founder's Green)","www.coloradofreshmarkets.com",,,,,"14-Jun","11-Oct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","7601 E 29th Ave
+Denver, Colorado 80238
+(39.757728, -104.89975)"
+"68","1000008","Montrose Farmers Market","422 South 1st Street","Montrose","81401","38.4802387","-107.8756668",,"Saturday","8:30 AM - 1 PM","May - October","South 1st & Uncompahgre","http://www.montrosefarmersmarket.com","https://www.facebook.com/MontroseFarmersMarket",,,,"22-May","31-Oct","Y","N","N","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","N","N","Y","Y","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"422 South 1st Street
+Montrose, Colorado 81401
+(38.480239, -107.875667)"
+"75","1002901","Fountain Farmers Market - City Hall","116 S Main Street","Fountain","80817","38.682721037","-104.70064599","Closed-off public street","Tuesday","3 PM - 7 PM","June 3 - Sept. 30","116 S. MAIN STREET","www.fountainevents.org/farmers-market",,,,,"2-Jun","29-Sep","N","N","N","N","Y","Y","Y","Y","Y","N","Y","N","Y","Y","Y","Y","N","Y","N","Y","Y","N","Y","Y","N","N","Y","Y","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","116 S Main Street
+Fountain, Colorado 80817
+(38.682721, -104.700646)"
+"15","1000419","Old Colorado City Farmers Market","2408 West Colorado Avenue","Colorado Springs","80904","38.846455648","-104.861390806",,"Saturday","7:00 AM - 1:00 PM","June 7 - Oct. 25","24th St. & W. Colorado Ave.","www.shopoldcoloradocity.com/events/event/farmers-market",,,,,"6-Jun","24-Oct","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","2408 West Colorado Avenue
+Colorado Springs, Colorado 80904
+(38.846456, -104.861391)"
+"55","1008079","Rancho Farm  Art Market","8165 Indian Village Hts","Fountain","80817","38.534262354","-104.675826156","Private business parking lot","Saturday","8 AM - 2 PM","June - October","8165 Indian Village Hts","www.facebook.com/RanchoFarmArtMarket",,,,,"7-Jun","7-Oct","Y","N","N","N","N","N","Y","Y","Y","N","Y","N","Y","Y","Y","Y","N","N","N","N","Y","N","N","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","8165 Indian Village Hts
+Fountain, Colorado 80817
+(38.534262, -104.675826)"
+"19",,"Salida Farmers Market","400 E St","Salida","81201","38.533047028","-105.993316698",,"Saturday","8 AM - 12:30 PM","June 7 - Oct. 11","Alpine Park","www.ccfa.coop/farmers-markets",,,,,"6-Jun","10-Oct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","400 E St
+Salida, Colorado 81201
+(38.533047, -105.993317)"
+"64","1000418","Memorial Park Farmers Market","1605 E Pikes Peak Ave","Colorado Springs","80909","38.833032286","-104.797570313",,"Thursday","7 AM - 1 PM","June 19 - Oct. 2","Union Blvd. & Pikes Peak Ave. (Memorial Park)","www.localpickins.com/biz/memorial-park-farmers-market-colorado-springs-co",,,,,"18-Jun","1-Oct","N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","1605 E Pikes Peak Ave
+Colorado Springs, Colorado 80909
+(38.833032, -104.79757)"
+"71",,"Wheat Ridge Farmers Market","4252 Wadsworth Blvdnbsp","Wheat Ridge","80033","39.758450289","-105.080499238",,"Thursday","10 AM - 2 PM or sell out","June 12 - Oct. 30","4252 Wadsworth Blvd.","www.denverfarmersmarket.com",,,,,"11-Jun","29-Oct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","4252 Wadsworth Blvdnbsp
+Wheat Ridge, Colorado 80033
+(39.75845, -105.080499)"
+"180","1010101","South Routt Community Market","Downtown Oak Creek","Oak Creek","80467","40.2764181","-106.9602779","Closed-off public street",,"Times",,"Downtown Oak Creek","http://www.townofoakcreek.com","www.facebook.com/OakCreekParks&RecDept/",,,,,,"N","N","N","N","N","-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Downtown Oak Creek
+Oak Creek, Colorado 80467
+(40.276418, -106.960278)"
+"46","1002708","Broomfield Farmers Market at Holy Comforter Episcopal Church","1700 W 10th Ave","Broomfield","80220","39.928802803","-105.089831127",,"Tuesday","4 PM - 7 PM","June 10 - Sept. 23","1700 W. 10th Ave.","www.holycomforter.dioco.org/Serving/farmers-market.html",,,,,"9-Jun","22-Sep","Y","Y","N","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","Y","Y","Y","N","Y","Y","N","Y","Y","Y","Y","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","1700 W 10th Ave
+Broomfield, Colorado 80220
+(39.928803, -105.089831)"
+"12","1002312","The Farmers' market at Highland Square","3200 Lowell","Denver","80211","39.766580354","-105.034594318","Closed-off public street","Sunday","9 a.m. - 1 p.m.",,"32nd and Lowell","www.denverhighland.org/farmers-market/","https://www.facebook.com/FarmersMarketAtHighlandsSquare/",,,,,,"Y","N","N","N","N","Y","Y","Y","N","Y","Y","Y","Y","Y","Y","Y","N","Y","Y","Y","N","Y","Y","Y","N","Y","N","N","N","N","N","N","N","N","N","Magpie Supply","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2013-05-11T00:00:00.000","3200 Lowell
+Denver, Colorado 80211
+(39.76658, -105.034594)"
+"144","1005801","Johnstown Milliken Farmer's Market","Broad Street and Francis St.","Milliken","80543","40.3301322","-104.8544857","Local government building grounds",,"Times",,"Broad Street and Francis St.","http://www.johnstownmillikenchamber.com",,,,,,,"N","N","N","N","Y","-","Y","N","Y","Y","N","N","N","Y","Y","N","N","N","N","N","Y","N","Y","Y","N","N","N","N","N","N","Y","N","N","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Broad Street and Francis St.
+Milliken, Colorado 80543
+(40.330132, -104.854486)"
+"24","1001377","Northglenn Farmers Market","105 W 104th Ave","Northglenn","80234","39.885321974","-104.990076086","Private business parking lot","Sunday","10 AM - 4 PM","June 8 - Oct. 26","Northglenn Mall (104th & I-25)","www.millerfarms.net",,,,,"7-Jun","25-Oct","Y","N","N","N","Y","-","Y","Y","Y","N","Y","N","N","Y","Y","Y","N","Y","N","N","N","Y","N","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","105 W 104th Ave
+Northglenn, Colorado 80234
+(39.885322, -104.990076)"
+"103","1010773","Conifer Farmers Market","25557 Conifer Rd","Conifer","80433","39.5445624","-105.2872435",,,"9 a.m. - 2 p.m.","June - Sept.","25557 Conifer Rd","http://www.conifersummermarket.com","https://www.facebook.com/ConiferFarmersMarket",,,,"10-Jun","9-Sep","Y","N","N","N","N","-","Y","N","Y","N","Y","N","Y","Y","Y","Y","N","N","N","N","N","N","Y","Y","N","N","N","N","Y","N","Y","Y","Y","N","Y","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"25557 Conifer Rd
+Conifer, Colorado 80433
+(39.544562, -105.287243)"
+"169","1011253","Norwood Farm & Craft Market-Summer","Grand Ave and Lucerne St","Norwood","81423","38.1307641","-108.2895601",,,"Times",,"Grand Ave and Lucerne St","http://www.norwoodfarmmarket.org","Norwood Farm and Craft market",,,,,,"Y","N","Y","N","N","-","Y","N","Y","N","Y","N","Y","Y","Y","Y","N","Y","N","N","Y","N","Y","Y","N","N","N","N","Y","N","N","N","N","N","N","USDA","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000",,"Grand Ave and Lucerne St
+Norwood, Colorado 81423
+(38.130764, -108.28956)"
+"65",,"Fort Morgan Farmers Market","400 State St","Fort Morgan","80701","40.251341733","-103.800173032",,"Thursday","4 PM - 7 PM","May 1 - Sept. 25","Corner of Beaver Ave. and State. St. (Library Park)","www.sites.google.com/site/fortmorganfarmersmarket/",,,,,"30-Apr","24-Sep",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CIM 2014","2013-05-16T00:00:00.000","2013-05-16T00:00:00.000","2010-04-07T00:00:00.000","400 State St
+Fort Morgan, Colorado 80701
+(40.251342, -103.800173)"

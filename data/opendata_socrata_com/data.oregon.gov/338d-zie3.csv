@@ -1,0 +1,104 @@
+Hospital Name,Hospital Location,Catheter Days,Observed Infections,Predicted Infections,SIR,SIR 95% CI,SIR Interpretation (2015 US Baseline),2020 HHS Targets,County,HPP Region,Location 1,SIR Icon,Benchmark Icon,2010 House Districts,2010 Senate Districts,Counties
+Silverton Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,1061,1,0.54,*,*,#s too small to calculate,,MARION,Region2,"342 FAIRVIEW STREET
+SILVERTON 97381
+(45.0044832, -122.7899933)",,,18,9,2409
+Providence Medford Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,5155,1,3.51,    0.285,"0.014, 1.406",Fewer infections,SIR Target (<0.75) Met,JACKSON,Region5,"1111 CRATER LAKE AVENUE
+MEDFORD 97504
+(42.3396452, -122.8628254)",https://data.oregon.gov/views/338d-zie3/files/c6edea57-cef8-4c5d-badd-dc16410eb0ff,https://data.oregon.gov/views/338d-zie3/files/d4ca758b-c59a-45e1-9c28-295515f1f00a,6,3,2367
+Adventist Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,4394,1,3.11,    0.322,"0.016, 1.588",Fewer infections,SIR Target (<0.75) Met,MULTNOMAH,Region1,"10123 SOUTHEAST MARKET STREET
+PORTLAND 97216
+(45.512666, -122.5585885)",https://data.oregon.gov/views/338d-zie3/files/aae425e0-5cb4-4ce1-8b57-e8e89b47a401,https://data.oregon.gov/views/338d-zie3/files/44e5e1c8-dd88-421e-b49b-480f3a166f45,46,23,2410
+ 1. All Oregon,All Adult/Ped ICUs & M/S/MS Wards Combined*,171204,187,173.8,    1.076,"0.930, 1.239",More infections,Target Not Met,,,,https://data.oregon.gov/views/338d-zie3/files/89d8e256-2b0e-41a6-a165-f2de1e621f71,,,,
+Legacy Good Samaritan Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,3699,1,3.61,    0.277,"0.014, 1.367",Fewer infections,SIR Target (<0.75) Met,MULTNOMAH,Region1,"1015 NORTHWEST 22ND AVENUE
+PORTLAND 97210
+(45.5302217, -122.6973884)",https://data.oregon.gov/views/338d-zie3/files/bf562b12-a592-4819-a145-4e02b5ae65f0,https://data.oregon.gov/views/338d-zie3/files/551c6b6a-e42b-4705-816f-146fef6085de,33,17,2410
+Kaiser Permanente Westside Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,3721,3,2.77,    1.082,"0.275, 2.946",More infections,Target Not Met,WASHINGTON,Region1,"2875 NW STUCKI AVE
+HILLSBORO 97124
+(45.539113, -122.877205)",https://data.oregon.gov/views/338d-zie3/files/3cce956e-9291-407b-874c-45e4af410bf5,,30,15,724
+Mid-Columbia Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,714,0,0.39,*,*,#s too small to calculate,ZERO Infections,WASCO,Region6,"1700 EAST 19TH STREET
+THE DALLES 97058
+(45.5873161, -121.1644619)",,https://data.oregon.gov/views/338d-zie3/files/00901cdb-b38f-42ec-822d-63a9d23bb1b7,59,30,2451
+St. Charles Medical Center - Redmond,All Adult/Ped ICUs & M/S/MS Wards Combined*,1228,2,0.62,*,*,#s too small to calculate,,DESCHUTES,Region7,"1253 NORTH CANAL BOULEVARD
+REDMOND 97756
+(44.288663, -121.1696273)",,,53,27,2362
+Legacy Meridian Park Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,3604,2,2.53,    0.792,"0.133, 2.616",Fewer infections,Target Not Met,CLACKAMAS,Region1,"19300 SOUTHWEST 65TH AVENUE
+TUALATIN 97062
+(45.3786716, -122.740804)",https://data.oregon.gov/views/338d-zie3/files/3592e639-9c95-4bd8-85af-cbe313e6d83b,,37,19,2317
+St. Alphonsus Medical Center - Ontario,All Adult/Ped ICUs & M/S/MS Wards Combined*,2248,0,1.66,    0.000," , 1.805",Fewer infections,SIR Target (<0.75) Met & ZERO Infections,MALHEUR,Region9,"351 SW 9TH STREET
+ONTARIO 97914
+(44.025249, -116.976891)",https://data.oregon.gov/views/338d-zie3/files/7be3e16b-a613-4dd5-ad0f-7e5402129e35,https://data.oregon.gov/views/338d-zie3/files/4b47a1b6-395b-4704-98ac-b7e60b632aae,60,30,2408
+Ashland Community Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,729,1,0.37,*,*,#s too small to calculate,,JACKSON,Region5,"280 MAPLE STREET
+ASHLAND 97520
+(42.2057909, -122.7247932)",,,5,3,2367
+Sacred Heart Medical Center - Riverbend,All Adult/Ped ICUs & M/S/MS Wards Combined*,14032,10,13.91,    0.719,"0.365, 1.281",Fewer infections,SIR Target (<0.75) Met,LANE,Region3,"3333 RIVERBEND DR
+SPRINGFIELD 97477
+(44.080908, -123.026475)",https://data.oregon.gov/views/338d-zie3/files/044b52d3-2964-4d63-bc14-163defeb13d1,https://data.oregon.gov/views/338d-zie3/files/7f726b39-5f8c-4b78-8683-c10136baf33a,12,6,2371
+Providence Portland Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,10239,19,12.6,    1.508,"0.935, 2.312",More infections,Target Not Met,MULTNOMAH,Region1,"4805 NORTHEAST GLISAN STREET
+PORTLAND 97213
+(45.52742, -122.6137641)",https://data.oregon.gov/views/338d-zie3/files/3f3e7aae-dda9-41dd-94c4-aebf15b718f5,,46,23,2410
+Salem Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,14256,14,12.41,    1.129,"0.642, 1.849",More infections,Target Not Met,MARION,Region2,"890 Oak St SE, Salem, OR 97301
+SALEM 97301
+(44.932538, -123.033944)",https://data.oregon.gov/views/338d-zie3/files/0767f95d-af8f-4f88-a583-497589b025e1,,21,11,2409
+Bay Area Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,3470,2,2.46,    0.814,"0.136, 2.690",Fewer infections,Target Not Met,COOS,Region3,"1775 THOMPSON ROAD
+COOS BAY 97420
+(43.3835349, -124.2329741)",https://data.oregon.gov/views/338d-zie3/files/4ba3d347-89f4-4ca6-b1b5-211daf641244,,9,5,2320
+Asante Three Rivers Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,4130,6,4.24,    1.415,"0.574, 2.944",More infections,Target Not Met,JOSEPHINE,Region5,"500 RAMSEY AVENUE
+GRANTS PASS 97527
+(42.4212882, -123.3428747)",https://data.oregon.gov/views/338d-zie3/files/4e937a1e-ef14-4cdf-b529-6189fc7e71ff,,3,2,2368
+Mercy Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,6430,3,4.57,    0.656,"0.167, 1.785",Fewer infections,SIR Target (<0.75) Met,DOUGLAS,Region3,"2700 NORTHWEST STEWART PARKWAY
+ROSEBURG 97470
+(43.2414531, -123.3669708)",https://data.oregon.gov/views/338d-zie3/files/29062142-6a46-49b2-8454-adae35d248d2,https://data.oregon.gov/views/338d-zie3/files/4eeb6693-e8c2-4761-bd70-920e7af4aa14,2,1,2363
+Legacy Mount Hood Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,2397,5,1.68,    2.980,"1.092, 6.605",Statistically more infections,Target Not Met,MULTNOMAH,Region1,"24800 SOUTHEAST STARK STREET
+GRESHAM 97030
+(45.5166262, -122.4070368)",https://data.oregon.gov/views/338d-zie3/files/0b377adc-75ae-4101-8513-10de4baafbed,,49,25,2410
+Providence St. Vincent Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,8519,10,10.55,    0.948,"0.481, 1.689",Fewer infections,Target Not Met,WASHINGTON,Region1,"9205 SOUTHWEST BARNES ROAD
+PORTLAND 97225
+(45.5106612, -122.7718284)",https://data.oregon.gov/views/338d-zie3/files/bb35d720-cd6c-4652-970c-cb471f7bcd09,,34,17,724
+Samaritan Albany General Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,1956,2,1.16,    1.732,"0.290, 5.721",More infections,Target Not Met,LINN,Region2,"1046 6TH AVENUE SOUTHWEST
+ALBANY 97321
+(44.631601, -123.1162322)",https://data.oregon.gov/views/338d-zie3/files/1ce5c0dd-6d59-4ca5-ae07-17e290b770a5,,15,8,2407
+Good Samaritan Regional Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,4250,5,4.27,    1.170,"0.429, 2.593",More infections,Target Not Met,BENTON,Region2,"3600 NORTHWEST SAMARITAN DRIVE
+CORVALLIS 97330
+(44.6034337, -123.2523328)",https://data.oregon.gov/views/338d-zie3/files/d2079dfa-51b1-48d3-904d-67681c3c0955,,16,8,2316
+Tuality Community Hostpital,All Adult/Ped ICUs & M/S/MS Wards Combined*,1699,1,1.16,    0.865,"0.043, 4.268",Fewer infections,Target Not Met,WASHINGTON,Region1,"335 SOUTHEAST 8TH AVENUE
+HILLSBORO 97123
+(45.5194749, -122.9781033)",https://data.oregon.gov/views/338d-zie3/files/468292e9-855c-4f07-b53c-a1f7f4fc9ba2,,29,15,724
+Sacred Heart University District,All Adult/Ped ICUs & M/S/MS Wards Combined*,868,0,0.63,*,*,#s too small to calculate,ZERO Infections,LANE,Region3,"1255 HILYARD STREET
+EUGENE 97401
+(44.0460057, -123.081783)",,https://data.oregon.gov/views/338d-zie3/files/3c392655-7bf0-455d-a467-7227c927bcbc,11,6,2371
+Sky Lakes Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,1953,2,2.08,    0.963,"0.161, 3.182",Fewer infections,Target Not Met,KLAMATH,Region7,"2865 DAGGETT AVENUE
+KLAMATH FALLS 97601
+(42.2529597, -121.7846535)",https://data.oregon.gov/views/338d-zie3/files/30b940a9-a61b-430f-82bb-49d6de4eea76,,56,28,2369
+Providence Willamette Falls Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,1776,0,1.21,    0.000," , 2.482",Fewer infections,SIR Target (<0.75) Met & ZERO Infections,CLACKAMAS,Region1,"1500 DIVISION STREET
+OREGON CITY 97045
+(45.3559686, -122.5880138)",https://data.oregon.gov/views/338d-zie3/files/61b9214d-fec5-498f-bcdd-e5db94cb7a1d,https://data.oregon.gov/views/338d-zie3/files/ad00b3f7-edbe-45bd-92d1-8f2881445e3e,40,20,2317
+Providence Newberg Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,1457,1,0.74,*,*,#s too small to calculate,,YAMHILL,Region2,"1001 PROVIDENCE DRIVE
+NEWBERG 97132
+(45.3081804, -122.9358992)",,,25,13,2453
+Kaiser Permanente Sunnyside Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,8523,9,8.34,    1.079,"0.526, 1.980",More infections,Target Not Met,CLACKAMAS,Region1,"10180 SOUTHEAST SUNNYSIDE ROAD
+CLACKAMAS 97015
+(45.4312489, -122.5606)",https://data.oregon.gov/views/338d-zie3/files/1b0e8cf6-a112-48ff-8374-8d485fa898ec,,48,24,2317
+McKenzie-Willamette Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,8119,7,5.68,    1.232,"0.539, 2.438",More infections,Target Not Met,LANE,Region3,"1460 G STREET
+SPRINGFIELD 97477
+(44.0530441, -123.0039526)",https://data.oregon.gov/views/338d-zie3/files/5e4f7a42-a33a-4f48-9b3b-3aa7e70bf401,,12,6,2371
+St. Charles Medical Center - Bend,All Adult/Ped ICUs & M/S/MS Wards Combined*,6275,7,5.4,    1.296,"0.567, 2.564",More infections,Target Not Met,DESCHUTES,Region7,"2500 NORTHEAST NEFF ROAD
+BEND 97701
+(44.067636, -121.2693136)",https://data.oregon.gov/views/338d-zie3/files/51a90d32-a1e5-4999-9f42-a1e1444551fd,,54,27,2362
+Oregon Health & Science University,All Adult/Ped ICUs & M/S/MS Wards Combined*,24938,36,40.62,    0.886,"0.630, 1.214",Fewer infections,Target Not Met,MULTNOMAH,Region1,"3181 SOUTHWEST SAM JACKSON PARK ROAD
+PORTLAND 97239
+(45.4989708, -122.6861182)",https://data.oregon.gov/views/338d-zie3/files/96a8e547-4a5e-4fd3-bc58-e04fa0d51b37,,36,18,2410
+Providence Milwaukie Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,1514,0,1.11,    0.000," , 2.707",Fewer infections,SIR Target (<0.75) Met & ZERO Infections,CLACKAMAS,Region1,"10150 SOUTHEAST 32ND AVENUE
+PORTLAND 97222
+(45.4495992, -122.6276076)",https://data.oregon.gov/views/338d-zie3/files/24174bbe-59c0-4ff8-83b2-f1a30cb06584,https://data.oregon.gov/views/338d-zie3/files/7eb90e99-c6c2-429a-9ad8-342073119126,41,21,2317
+Asante Rogue Regional Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,7201,9,7.14,    1.260,"0.614, 2.312",More infections,Target Not Met,JACKSON,Region5,"2825 EAST BARNETT ROAD
+MEDFORD 97504
+(42.3174104, -122.8302961)",https://data.oregon.gov/views/338d-zie3/files/6a621b87-d8c5-4d95-b608-0d67649d8312,,6,3,2367
+Santiam Memorial Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,725,0,0.36,*,*,#s too small to calculate,ZERO Infections,MARION,Region2,"1401 NORTH 10TH AVENUE
+STAYTON 97383
+(44.8051122, -122.7847402)",,https://data.oregon.gov/views/338d-zie3/files/a098ad0d-4646-434e-9a1f-61cadd281472,17,9,2409
+Legacy Emanuel Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,10075,26,12.94,    2.009,"1.340, 2.901",Statistically more infections,Target Not Met,MULTNOMAH,Region1,"2801 NORTH GANTENBEIN AVENUE
+PORTLAND 97227
+(45.5435674, -122.6702704)",https://data.oregon.gov/views/338d-zie3/files/8b4fbc0d-6c60-400f-b92e-74bbf09a1641,,43,22,2410
+Willamette Valley Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,2007,2,1.5,    1.333,"0.223, 4.403",More infections,Target Not Met,YAMHILL,Region2,"2700 SOUTHEAST STRATUS AVENUE
+MCMINNVILLE 97128
+(45.1990006, -123.164851)",https://data.oregon.gov/views/338d-zie3/files/45a27c8f-61ff-4816-aa3d-07f4b1bdc67b,,24,12,2453

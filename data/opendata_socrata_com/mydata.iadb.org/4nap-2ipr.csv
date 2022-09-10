@@ -1,0 +1,1001 @@
+"country","table_name","asset_category","asset_composition","year","year_date","methodology","value","notes"
+"Bolivia","Whole Sample","Exports","As % of total sales","1992","1992-01-01T00:00:00.000","Median",,
+"Brazil","By Size: Medium","Exports","As % of total sales","2000","2000-01-01T00:00:00.000","No. obs","39.0",
+"Chile","By Size: Medium","Dollar Indebtness","% Firms with dollar debt","2002","2002-01-01T00:00:00.000","Mean",,
+"Chile","By Size: Medium","Exports","As % of total sales","1990","1990-01-01T00:00:00.000","Mean",,
+"Colombia","Whole Sample","Exports","As % of total sales","2002","2002-01-01T00:00:00.000","No. obs",,
+"Mexico","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","Mean",,
+"Mexico","By Export Level: Low-exporter","Exports","As % of total assets","2002","2002-01-01T00:00:00.000","Mean",,
+"Uruguay","Whole Sample","Exports","As % of total sales","1999","1999-01-01T00:00:00.000","Mean","24.5",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1990","1990-01-01T00:00:00.000","Mean","100.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1990","1990-01-01T00:00:00.000","No. obs","2.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1991","1991-01-01T00:00:00.000","Mean","100.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1991","1991-01-01T00:00:00.000","No. obs","17.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1992","1992-01-01T00:00:00.000","Mean","100.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1992","1992-01-01T00:00:00.000","No. obs","42.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1993","1993-01-01T00:00:00.000","Mean","96.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1993","1993-01-01T00:00:00.000","No. obs","124.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1994","1994-01-01T00:00:00.000","Mean","92.4",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1994","1994-01-01T00:00:00.000","No. obs","145.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1995","1995-01-01T00:00:00.000","Mean","95.7",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1995","1995-01-01T00:00:00.000","No. obs","161.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1996","1996-01-01T00:00:00.000","Mean","94.8",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1996","1996-01-01T00:00:00.000","No. obs","173.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1997","1997-01-01T00:00:00.000","Mean","95.8",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1997","1997-01-01T00:00:00.000","No. obs","189.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1998","1998-01-01T00:00:00.000","Mean","96.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1998","1998-01-01T00:00:00.000","No. obs","198.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1999","1999-01-01T00:00:00.000","Mean","96.4",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","1999","1999-01-01T00:00:00.000","No. obs","196.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","2000","2000-01-01T00:00:00.000","Mean","95.5",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","2000","2000-01-01T00:00:00.000","No. obs","198.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","2001","2001-01-01T00:00:00.000","Mean","95.6",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","2001","2001-01-01T00:00:00.000","No. obs","181.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","2002","2002-01-01T00:00:00.000","Mean","98.0",
+"Argentina","Whole Sample","Dollar Indebtness","% Firms with dollar debt","2002","2002-01-01T00:00:00.000","No. obs","49.0",
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean","37.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median","37.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs","2.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean","48.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median","46.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs","17.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean","44.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median","42.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs","42.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","50.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","53.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","124.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","51.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","58.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","145.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","55.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Median","62.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","161.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Mean","55.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Median","61.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","173.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Mean","56.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Median","63.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","189.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Mean","56.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Median","60.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","198.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Mean","57.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Median","64.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","196.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Mean","58.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Median","64.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","198.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Mean","60.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Median","67.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","181.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Mean","55.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Median","63.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Debt dollarization ratio (%)","2002","2002-01-01T00:00:00.000","No. obs","49.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Exports","As % of total assets","1994","1994-01-01T00:00:00.000","Mean","16.9",
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","44.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","43.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","49.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","38.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","38.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","57.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","45.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Median","47.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","68.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Mean","42.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Median","42.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","75.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Mean","42.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Median","38.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","88.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Mean","45.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Median","44.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","115.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Mean","48.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Median","49.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","136.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1990","1990-01-01T00:00:00.000","No. obs","6.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Mean","48.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Median","50.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","134.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Mean","53.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Median","57.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","121.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Short-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","51.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","62.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","49.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","55.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","85.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","57.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","58.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Median","86.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","68.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Mean","64.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Median","89.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","75.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Mean","68.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Median","92.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","88.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Mean","59.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Median","87.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","115.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Mean","60.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Median","87.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","136.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Mean","62.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Median","84.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","134.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Mean","58.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Median","77.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1991","1991-01-01T00:00:00.000","No. obs","26.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","121.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Long-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean","9.4","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median","9.4","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs","2.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean","5.8","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median","4.9","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs","16.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean","7.2","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median","5.3","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs","42.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","7.6","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","3.6","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","54.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","8.8","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","4.4","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","59.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","8.6","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Median","4.1","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","62.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Mean","8.7","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Median","4.2","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","67.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Mean","8.7","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Median","3.3","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","81.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Mean","7.8","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Median","3.3","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","104.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Mean","7.3","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Median","3.3","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","108.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Mean","8.4","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Exports","As % of total assets","1994","1994-01-01T00:00:00.000","Median","1.1",
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Median","4.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","111.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Mean","9.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Median","4.5","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","103.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Mean",,"2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Median",,"2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Dollar Indebtness","Asset dollarization ratio (%)","2002","2002-01-01T00:00:00.000","No. obs",,"2    Dollar-linked assets as a percentage of total assets"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1990","1990-01-01T00:00:00.000","Mean","21.1","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1990","1990-01-01T00:00:00.000","Median","20.6","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1990","1990-01-01T00:00:00.000","No. obs","6.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1991","1991-01-01T00:00:00.000","Mean","33.8","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1991","1991-01-01T00:00:00.000","Median","36.2","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1991","1991-01-01T00:00:00.000","No. obs","26.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1992","1992-01-01T00:00:00.000","Mean","28.7","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1992","1992-01-01T00:00:00.000","Median","22.1","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1992","1992-01-01T00:00:00.000","No. obs","50.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1993","1993-01-01T00:00:00.000","Mean","22.3","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1993","1993-01-01T00:00:00.000","Median","13.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1993","1993-01-01T00:00:00.000","No. obs","131.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1994","1994-01-01T00:00:00.000","Mean","24.7","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1994","1994-01-01T00:00:00.000","Median","17.6","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1994","1994-01-01T00:00:00.000","No. obs","152.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1995","1995-01-01T00:00:00.000","Mean","24.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1995","1995-01-01T00:00:00.000","Median","15.7","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1995","1995-01-01T00:00:00.000","No. obs","168.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1996","1996-01-01T00:00:00.000","Mean","28.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1996","1996-01-01T00:00:00.000","Median","20.7","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1996","1996-01-01T00:00:00.000","No. obs","180.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1997","1997-01-01T00:00:00.000","Mean","32.6","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1997","1997-01-01T00:00:00.000","Median","26.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1997","1997-01-01T00:00:00.000","No. obs","195.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1998","1998-01-01T00:00:00.000","Mean","30.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1998","1998-01-01T00:00:00.000","Median","24.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1998","1998-01-01T00:00:00.000","No. obs","212.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1992","1992-01-01T00:00:00.000","Mean","33.8","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1999","1999-01-01T00:00:00.000","Mean","30.2","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1999","1999-01-01T00:00:00.000","Median","22.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","1999","1999-01-01T00:00:00.000","No. obs","213.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","2000","2000-01-01T00:00:00.000","Mean","30.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","2000","2000-01-01T00:00:00.000","Median","24.2","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","2000","2000-01-01T00:00:00.000","No. obs","218.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","2001","2001-01-01T00:00:00.000","Mean","32.4","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","2001","2001-01-01T00:00:00.000","Median","27.5","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","2001","2001-01-01T00:00:00.000","No. obs","200.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","2002","2002-01-01T00:00:00.000","Mean","31.1","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","2002","2002-01-01T00:00:00.000","Median","24.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Total debt maturity (%)","2002","2002-01-01T00:00:00.000","No. obs","66.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","Mean",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","Median",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","No. obs",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","Mean",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","Median",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","No. obs",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","Mean",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","Median",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","No. obs",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","Mean","29.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","Median","16.7","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","No. obs","46.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","Mean","39.2","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","Median","41.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","No. obs","51.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","Mean","35.7","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","Median","26.8","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","No. obs","65.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","Mean","49.5","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","Median","57.6","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","No. obs","72.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","Mean","54.3","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","Median","62.7","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","No. obs","85.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","Mean","45.3","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","Median","47.2","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","No. obs","111.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","Mean","41.4","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","Median","43.2","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","No. obs","130.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","Mean","44.6","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","Median","50.4","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","No. obs","129.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","Mean","42.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","Median","42.6","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","No. obs","117.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","Mean",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","Median",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1991","1991-01-01T00:00:00.000","Mean","33.5","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Debt Maturity","Dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","No. obs",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","Mean",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","Median",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","No. obs",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","Mean",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","Median",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","No. obs",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","Mean",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","Median",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","No. obs",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","Mean","11.4","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","Median","2.4","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","No. obs","49.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","Mean","10.9","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","Median","3.7","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","No. obs","57.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","Mean","10.7","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","Median","5.7","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","No. obs","68.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","Mean","13.6","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","Median","8.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","No. obs","75.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","Mean","14.3","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","Median","8.8","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1990","1990-01-01T00:00:00.000","Mean","41.7","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","No. obs","88.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","Mean","17.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","Median","8.3","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","No. obs","115.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","Mean","16.6","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","Median","8.2","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","No. obs","136.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","Mean","16.1","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","Median","11.2","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","No. obs","134.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","Mean","19.5","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","Median","12.6","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","No. obs","121.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","Mean","20.6","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","Median","20.6","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Non-dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","No. obs","1.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1990","1990-01-01T00:00:00.000","Mean",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1990","1990-01-01T00:00:00.000","Median",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1990","1990-01-01T00:00:00.000","No. obs",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1991","1991-01-01T00:00:00.000","Mean",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1991","1991-01-01T00:00:00.000","Median",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1991","1991-01-01T00:00:00.000","No. obs",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1992","1992-01-01T00:00:00.000","Mean",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1992","1992-01-01T00:00:00.000","Median",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1992","1992-01-01T00:00:00.000","No. obs",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1993","1993-01-01T00:00:00.000","Mean","18.8","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1993","1993-01-01T00:00:00.000","Median","5.4","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1993","1993-01-01T00:00:00.000","No. obs","5.4","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1994","1994-01-01T00:00:00.000","Mean","29.2","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1994","1994-01-01T00:00:00.000","Median","27.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1994","1994-01-01T00:00:00.000","No. obs","27.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1995","1995-01-01T00:00:00.000","Mean","25.2","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1995","1995-01-01T00:00:00.000","Median","24.2","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1995","1995-01-01T00:00:00.000","No. obs","24.2","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1996","1996-01-01T00:00:00.000","Mean","36.7","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1996","1996-01-01T00:00:00.000","Median","39.4","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1996","1996-01-01T00:00:00.000","No. obs","39.4","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1997","1997-01-01T00:00:00.000","Mean","40.6","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1997","1997-01-01T00:00:00.000","Median","46.7","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1997","1997-01-01T00:00:00.000","No. obs","46.7","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1998","1998-01-01T00:00:00.000","Mean","28.4","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1998","1998-01-01T00:00:00.000","Median","28.8","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1998","1998-01-01T00:00:00.000","No. obs","28.8","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1999","1999-01-01T00:00:00.000","Mean","24.5","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1999","1999-01-01T00:00:00.000","Median","22.6","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","1999","1999-01-01T00:00:00.000","No. obs","22.6","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","2000","2000-01-01T00:00:00.000","Mean","28.4","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","2000","2000-01-01T00:00:00.000","Median","28.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","2000","2000-01-01T00:00:00.000","No. obs","28.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","2001","2001-01-01T00:00:00.000","Mean","23.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","2001","2001-01-01T00:00:00.000","Median","22.8","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","2001","2001-01-01T00:00:00.000","No. obs","22.8","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","2002","2002-01-01T00:00:00.000","Mean",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","2002","2002-01-01T00:00:00.000","Median",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Debt Maturity","Debt maturity currency difference","2002","2002-01-01T00:00:00.000","No. obs",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1990","1990-01-01T00:00:00.000","Median","48.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1991","1991-01-01T00:00:00.000","Median","29.3","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1992","1992-01-01T00:00:00.000","Median","32.3","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1992","1992-01-01T00:00:00.000","No. obs","51.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1993","1993-01-01T00:00:00.000","Mean","43.9","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1993","1993-01-01T00:00:00.000","Median","40.2","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","131.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1994","1994-01-01T00:00:00.000","Mean","47.2","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1994","1994-01-01T00:00:00.000","Median","45.2","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","152.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1995","1995-01-01T00:00:00.000","Mean","47.8","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1995","1995-01-01T00:00:00.000","Median","45.3","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","168.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1996","1996-01-01T00:00:00.000","Mean","50.6","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1996","1996-01-01T00:00:00.000","Median","47.9","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","180.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1997","1997-01-01T00:00:00.000","Mean","50.9","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1997","1997-01-01T00:00:00.000","Median","48.8","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","197.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1998","1998-01-01T00:00:00.000","Mean","51.1","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1998","1998-01-01T00:00:00.000","Median","48.8","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","213.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1999","1999-01-01T00:00:00.000","Mean","53.6","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1999","1999-01-01T00:00:00.000","Median","54.3","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","214.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","2000","2000-01-01T00:00:00.000","Mean","53.7","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","2000","2000-01-01T00:00:00.000","Median","54.6","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","218.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","2001","2001-01-01T00:00:00.000","Mean","53.9","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","2001","2001-01-01T00:00:00.000","Median","54.3","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","200.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","2002","2002-01-01T00:00:00.000","Mean","54.9","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","2002","2002-01-01T00:00:00.000","Median","55.1","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Leverage","Leverage ratio (%)","2002","2002-01-01T00:00:00.000","No. obs","66.0","7    Leverage = Total liabilities / total assets"
+"Argentina","Whole Sample","Exports","As % of total assets","1990","1990-01-01T00:00:00.000","Mean",,
+"Argentina","Whole Sample","Exports","As % of total assets","1990","1990-01-01T00:00:00.000","Median",,
+"Argentina","Whole Sample","Exports","As % of total assets","1990","1990-01-01T00:00:00.000","No. obs",,
+"Argentina","Whole Sample","Exports","As % of total assets","1991","1991-01-01T00:00:00.000","Mean",,
+"Argentina","Whole Sample","Exports","As % of total assets","1991","1991-01-01T00:00:00.000","Median",,
+"Argentina","Whole Sample","Exports","As % of total assets","1991","1991-01-01T00:00:00.000","No. obs",,
+"Argentina","Whole Sample","Exports","As % of total assets","1992","1992-01-01T00:00:00.000","Mean",,
+"Argentina","Whole Sample","Exports","As % of total assets","1992","1992-01-01T00:00:00.000","Median",,
+"Argentina","Whole Sample","Exports","As % of total assets","1992","1992-01-01T00:00:00.000","No. obs",,
+"Argentina","Whole Sample","Exports","As % of total assets","1993","1993-01-01T00:00:00.000","Mean","16.1",
+"Argentina","Whole Sample","Exports","As % of total assets","1993","1993-01-01T00:00:00.000","Median","0.4",
+"Argentina","Whole Sample","Exports","As % of total assets","1993","1993-01-01T00:00:00.000","No. obs","110.0",
+"Argentina","Whole Sample","Exports","As % of total assets","1994","1994-01-01T00:00:00.000","No. obs","127.0",
+"Argentina","Whole Sample","Exports","As % of total assets","1995","1995-01-01T00:00:00.000","Mean","13.6",
+"Argentina","Whole Sample","Exports","As % of total assets","1995","1995-01-01T00:00:00.000","Median","1.1",
+"Argentina","Whole Sample","Exports","As % of total assets","1995","1995-01-01T00:00:00.000","No. obs","139.0",
+"Argentina","Whole Sample","Exports","As % of total assets","1996","1996-01-01T00:00:00.000","Mean","16.7",
+"Argentina","Whole Sample","Exports","As % of total assets","1996","1996-01-01T00:00:00.000","Median","1.0",
+"Argentina","Whole Sample","Exports","As % of total assets","1996","1996-01-01T00:00:00.000","No. obs","149.0",
+"Argentina","Whole Sample","Exports","As % of total assets","1997","1997-01-01T00:00:00.000","Mean","9.9",
+"Argentina","Whole Sample","Exports","As % of total assets","1997","1997-01-01T00:00:00.000","Median","0.6",
+"Argentina","Whole Sample","Exports","As % of total assets","1997","1997-01-01T00:00:00.000","No. obs","162.0",
+"Argentina","Whole Sample","Exports","As % of total assets","1998","1998-01-01T00:00:00.000","Mean","4.1",
+"Argentina","Whole Sample","Exports","As % of total assets","1998","1998-01-01T00:00:00.000","Median","0.2",
+"Argentina","Whole Sample","Exports","As % of total assets","1998","1998-01-01T00:00:00.000","No. obs","173.0",
+"Argentina","Whole Sample","Exports","As % of total assets","1999","1999-01-01T00:00:00.000","Mean","1.3",
+"Argentina","Whole Sample","Exports","As % of total assets","1999","1999-01-01T00:00:00.000","Median","0.0",
+"Argentina","Whole Sample","Exports","As % of total assets","1999","1999-01-01T00:00:00.000","No. obs","169.0",
+"Argentina","Whole Sample","Exports","As % of total assets","2000","2000-01-01T00:00:00.000","Mean","16.0",
+"Argentina","Whole Sample","Exports","As % of total assets","2000","2000-01-01T00:00:00.000","Median","2.5",
+"Argentina","Whole Sample","Exports","As % of total assets","2000","2000-01-01T00:00:00.000","No. obs","105.0",
+"Argentina","Whole Sample","Exports","As % of total assets","2001","2001-01-01T00:00:00.000","Mean","15.6",
+"Argentina","Whole Sample","Exports","As % of total assets","2001","2001-01-01T00:00:00.000","Median","2.6",
+"Argentina","Whole Sample","Exports","As % of total assets","2001","2001-01-01T00:00:00.000","No. obs","100.0",
+"Argentina","Whole Sample","Exports","As % of total assets","2002","2002-01-01T00:00:00.000","Mean",,
+"Argentina","Whole Sample","Exports","As % of total assets","2002","2002-01-01T00:00:00.000","Median",,
+"Argentina","Whole Sample","Exports","As % of total assets","2002","2002-01-01T00:00:00.000","No. obs",,
+"Argentina","Whole Sample","Exports","As % of total sales","1990","1990-01-01T00:00:00.000","Mean",,
+"Argentina","Whole Sample","Exports","As % of total sales","1990","1990-01-01T00:00:00.000","Median",,
+"Argentina","Whole Sample","Exports","As % of total sales","1990","1990-01-01T00:00:00.000","No. obs",,
+"Argentina","Whole Sample","Exports","As % of total sales","1991","1991-01-01T00:00:00.000","Mean",,
+"Argentina","Whole Sample","Exports","As % of total sales","1991","1991-01-01T00:00:00.000","Median",,
+"Argentina","Whole Sample","Exports","As % of total sales","1991","1991-01-01T00:00:00.000","No. obs",,
+"Argentina","Whole Sample","Exports","As % of total sales","1992","1992-01-01T00:00:00.000","Mean",,
+"Argentina","Whole Sample","Exports","As % of total sales","1992","1992-01-01T00:00:00.000","Median",,
+"Argentina","Whole Sample","Exports","As % of total sales","1992","1992-01-01T00:00:00.000","No. obs",,
+"Argentina","Whole Sample","Exports","As % of total sales","1993","1993-01-01T00:00:00.000","Mean","9.2",
+"Argentina","Whole Sample","Exports","As % of total sales","1993","1993-01-01T00:00:00.000","Median","1.0",
+"Argentina","Whole Sample","Exports","As % of total sales","1993","1993-01-01T00:00:00.000","No. obs","110.0",
+"Argentina","Whole Sample","Exports","As % of total sales","1994","1994-01-01T00:00:00.000","Mean","12.1",
+"Argentina","Whole Sample","Exports","As % of total sales","1994","1994-01-01T00:00:00.000","Median","1.7",
+"Argentina","Whole Sample","Exports","As % of total sales","1994","1994-01-01T00:00:00.000","No. obs","127.0",
+"Argentina","Whole Sample","Exports","As % of total sales","1995","1995-01-01T00:00:00.000","Mean","11.8",
+"Argentina","Whole Sample","Exports","As % of total sales","1995","1995-01-01T00:00:00.000","Median","1.9",
+"Argentina","Whole Sample","Exports","As % of total sales","1995","1995-01-01T00:00:00.000","No. obs","139.0",
+"Argentina","Whole Sample","Exports","As % of total sales","1996","1996-01-01T00:00:00.000","Mean","13.3",
+"Argentina","Whole Sample","Exports","As % of total sales","1996","1996-01-01T00:00:00.000","Median","1.4",
+"Argentina","Whole Sample","Exports","As % of total sales","1996","1996-01-01T00:00:00.000","No. obs","149.0",
+"Argentina","Whole Sample","Exports","As % of total sales","1997","1997-01-01T00:00:00.000","Mean","7.3",
+"Argentina","Whole Sample","Exports","As % of total sales","1997","1997-01-01T00:00:00.000","Median","1.2",
+"Argentina","Whole Sample","Exports","As % of total sales","1997","1997-01-01T00:00:00.000","No. obs","162.0",
+"Argentina","Whole Sample","Exports","As % of total sales","1998","1998-01-01T00:00:00.000","Mean","3.8",
+"Argentina","Whole Sample","Exports","As % of total sales","1998","1998-01-01T00:00:00.000","Median","0.4",
+"Argentina","Whole Sample","Exports","As % of total sales","1998","1998-01-01T00:00:00.000","No. obs","173.0",
+"Argentina","Whole Sample","Exports","As % of total sales","1999","1999-01-01T00:00:00.000","Mean","1.3",
+"Argentina","Whole Sample","Exports","As % of total sales","1999","1999-01-01T00:00:00.000","Median","0.1",
+"Argentina","Whole Sample","Exports","As % of total sales","1999","1999-01-01T00:00:00.000","No. obs","169.0",
+"Argentina","Whole Sample","Exports","As % of total sales","2000","2000-01-01T00:00:00.000","Mean","15.3",
+"Argentina","Whole Sample","Exports","As % of total sales","2000","2000-01-01T00:00:00.000","Median","6.0",
+"Argentina","Whole Sample","Exports","As % of total sales","2000","2000-01-01T00:00:00.000","No. obs","105.0",
+"Argentina","Whole Sample","Exports","As % of total sales","2001","2001-01-01T00:00:00.000","Mean","16.8",
+"Argentina","Whole Sample","Exports","As % of total sales","2001","2001-01-01T00:00:00.000","Median","5.7",
+"Argentina","Whole Sample","Exports","As % of total sales","2001","2001-01-01T00:00:00.000","No. obs","100.0",
+"Argentina","Whole Sample","Exports","As % of total sales","2002","2002-01-01T00:00:00.000","Mean",,
+"Argentina","Whole Sample","Exports","As % of total sales","2002","2002-01-01T00:00:00.000","Median",,
+"Argentina","Whole Sample","Exports","As % of total sales","2002","2002-01-01T00:00:00.000","No. obs",,
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1990","1990-01-01T00:00:00.000","Mean","100.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1990","1990-01-01T00:00:00.000","No. obs","1.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1991","1991-01-01T00:00:00.000","Mean","100.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1991","1991-01-01T00:00:00.000","No. obs","14.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1992","1992-01-01T00:00:00.000","Mean","100.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1992","1992-01-01T00:00:00.000","No. obs","35.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1993","1993-01-01T00:00:00.000","Mean","97.4",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1993","1993-01-01T00:00:00.000","No. obs","77.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1994","1994-01-01T00:00:00.000","Mean","96.5",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1994","1994-01-01T00:00:00.000","No. obs","86.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1995","1995-01-01T00:00:00.000","Mean","98.9",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1995","1995-01-01T00:00:00.000","No. obs","89.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1996","1996-01-01T00:00:00.000","Mean","97.9",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1996","1996-01-01T00:00:00.000","No. obs","94.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1997","1997-01-01T00:00:00.000","Mean","96.9",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1997","1997-01-01T00:00:00.000","No. obs","98.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1998","1998-01-01T00:00:00.000","Mean","96.1",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1998","1998-01-01T00:00:00.000","No. obs","103.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1999","1999-01-01T00:00:00.000","Mean","98.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","1999","1999-01-01T00:00:00.000","No. obs","101.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","2000","2000-01-01T00:00:00.000","Mean","98.1",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","2000","2000-01-01T00:00:00.000","No. obs","103.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","2001","2001-01-01T00:00:00.000","Mean","98.9",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","2001","2001-01-01T00:00:00.000","No. obs","94.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","2002","2002-01-01T00:00:00.000","Mean","96.7",
+"Argentina","By Sector: Tradable","Dollar Indebtness","% Firms with dollar debt","2002","2002-01-01T00:00:00.000","No. obs","30.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean","51.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median","51.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs","1.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean","51.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median","56.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs","14.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean","43.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median","42.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs","35.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","49.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","46.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","77.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","51.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","56.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","86.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","53.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Median","55.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","89.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Mean","53.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Median","59.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","94.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Mean","55.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Median","62.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","98.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Mean","55.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Median","63.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","103.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Mean","54.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Median","63.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","101.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Mean","56.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Median","64.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","103.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Mean","61.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Median","66.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","94.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Mean","50.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Median","58.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Debt dollarization ratio (%)","2002","2002-01-01T00:00:00.000","No. obs","30.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","43.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","39.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","21.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","41.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","35.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","24.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","49.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1995","1995-01-01T00:00:00.000","Mean","47.2","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Median","46.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","27.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Mean","43.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Median","43.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","30.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Mean","44.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Median","42.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","32.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Mean","50.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Median","53.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","50.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Mean","48.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Median","46.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","63.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Mean","48.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Median","49.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","66.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Mean","58.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Median","61.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1990","1990-01-01T00:00:00.000","No. obs",,
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","61.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Short-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1995","1995-01-01T00:00:00.000","Median","45.1","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","36.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","10.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","21.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","29.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","0.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","24.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","47.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Median","45.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","27.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Mean","46.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Median","48.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","30.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Mean","50.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Median","42.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","32.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Mean","47.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Median","48.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","50.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Mean","55.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Exports","As % of total assets","2001","2001-01-01T00:00:00.000","Median","10.5",
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Median","81.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","63.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Mean","59.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Median","77.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","66.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Mean","57.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Median","77.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","61.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Long-dollarization ratio (%)","2002","2002-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean","6.3","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median","6.3","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs","1.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean","5.9","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median","4.7","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs","14.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean","6.9","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median","4.1","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs","35.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","8.4","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","5.1","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","38.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","10.5","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","6.3","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","39.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","10.8","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Exports","As % of total assets","2001","2001-01-01T00:00:00.000","No. obs","53.0",
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Median","6.8","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","39.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Mean","12.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Median","9.9","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","39.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Mean","12.6","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Median","8.5","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","46.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Mean","10.7","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Median","7.5","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","53.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Mean","10.6","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Median","6.6","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","56.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Mean","11.7","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Median","8.8","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","59.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Mean","12.6","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Median","10.1","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","54.0","2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Mean",,"2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Median",,"2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Dollar Indebtness","Asset dollarization ratio (%)","2002","2002-01-01T00:00:00.000","No. obs",,"2    Dollar-linked assets as a percentage of total assets"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1990","1990-01-01T00:00:00.000","Mean","25.4","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1990","1990-01-01T00:00:00.000","Median","23.1","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1990","1990-01-01T00:00:00.000","No. obs","5.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1991","1991-01-01T00:00:00.000","Mean","34.2","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1991","1991-01-01T00:00:00.000","Median","34.5","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1991","1991-01-01T00:00:00.000","No. obs","23.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1992","1992-01-01T00:00:00.000","Mean","27.5","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1992","1992-01-01T00:00:00.000","Median","21.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1992","1992-01-01T00:00:00.000","No. obs","41.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1993","1993-01-01T00:00:00.000","Mean","22.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1993","1993-01-01T00:00:00.000","Median","14.1","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1993","1993-01-01T00:00:00.000","No. obs","83.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1994","1994-01-01T00:00:00.000","Mean","21.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1994","1994-01-01T00:00:00.000","Median","17.1","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1994","1994-01-01T00:00:00.000","No. obs","92.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1995","1995-01-01T00:00:00.000","Mean","20.3","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1995","1995-01-01T00:00:00.000","Median","13.1","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1995","1995-01-01T00:00:00.000","No. obs","95.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1996","1996-01-01T00:00:00.000","Mean","22.3","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1996","1996-01-01T00:00:00.000","Median","14.9","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1996","1996-01-01T00:00:00.000","No. obs","100.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1997","1997-01-01T00:00:00.000","Mean","24.3","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1997","1997-01-01T00:00:00.000","Median","17.8","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1997","1997-01-01T00:00:00.000","No. obs","103.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1998","1998-01-01T00:00:00.000","Mean","24.7","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1998","1998-01-01T00:00:00.000","Median","17.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1998","1998-01-01T00:00:00.000","No. obs","112.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1999","1999-01-01T00:00:00.000","Mean","23.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1999","1999-01-01T00:00:00.000","Median","14.8","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","1999","1999-01-01T00:00:00.000","No. obs","109.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","2000","2000-01-01T00:00:00.000","Mean","25.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","2000","2000-01-01T00:00:00.000","Median","15.6","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","2000","2000-01-01T00:00:00.000","No. obs","111.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","2001","2001-01-01T00:00:00.000","Mean","25.5","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","2001","2001-01-01T00:00:00.000","Median","18.7","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","2001","2001-01-01T00:00:00.000","No. obs","101.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","2002","2002-01-01T00:00:00.000","Mean","31.6","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","2002","2002-01-01T00:00:00.000","Median","19.4","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Total debt maturity (%)","2002","2002-01-01T00:00:00.000","No. obs","39.0","3    Debt maturity = Long-term liabilities / total liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","Mean",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","Median",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","No. obs",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","Mean",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","Median",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","No. obs",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","Mean",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","Median",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","No. obs",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","Mean","18.5","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","Median","3.6","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","No. obs","19.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","Mean","15.7","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","Median","0.3","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","No. obs","21.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","Mean","24.5","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","Median","8.7","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","No. obs","26.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","Mean","33.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Exports","As % of total assets","2002","2002-01-01T00:00:00.000","Mean",,
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","Median","26.7","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","No. obs","28.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","Mean","35.2","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","Median","28.9","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","No. obs","30.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","95.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","Mean","30.6","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","Median","14.4","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","No. obs","48.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","Mean","32.7","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","Median","27.6","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","No. obs","61.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","Mean","37.8","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","Median","32.6","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","No. obs","64.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","Mean","33.2","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","Median","31.9","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","No. obs","60.0","4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","Mean",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","Median",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","No. obs",,"4    Non-dollar debt maturity = Long-term non-dollar liabilities / total non-dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","Mean",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","Median",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1990","1990-01-01T00:00:00.000","No. obs",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","Mean",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","Median",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1991","1991-01-01T00:00:00.000","No. obs",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","Mean",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","Median",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1992","1992-01-01T00:00:00.000","No. obs",,"5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","Mean","12.1","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","Median","4.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1993","1993-01-01T00:00:00.000","No. obs","21.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","Mean","18.7","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","Median","8.5","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1994","1994-01-01T00:00:00.000","No. obs","24.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","Mean","14.4","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","Median","9.7","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1995","1995-01-01T00:00:00.000","No. obs","27.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","Mean","18.5","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","Median","11.8","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1996","1996-01-01T00:00:00.000","No. obs","30.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","Mean","17.4","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","Median","12.4","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1997","1997-01-01T00:00:00.000","No. obs","32.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","Mean","21.2","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","Median","14.4","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1998","1998-01-01T00:00:00.000","No. obs","50.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","Mean","17.6","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","Median","12.2","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Exports","As % of total assets","2002","2002-01-01T00:00:00.000","Median",,
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","1999","1999-01-01T00:00:00.000","No. obs","63.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","Mean","18.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","Median","15.8","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","2000","2000-01-01T00:00:00.000","No. obs","66.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","Mean","18.5","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","Median","14.1","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","2001","2001-01-01T00:00:00.000","No. obs","61.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","Mean","20.6","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","Median","20.6","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Non-dollar debt maturity (%)","2002","2002-01-01T00:00:00.000","No. obs","1.0","5    Dollar debt maturity = Long-term dollar liabilities / total dollar liabilities"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1990","1990-01-01T00:00:00.000","Mean",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1990","1990-01-01T00:00:00.000","Median",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1990","1990-01-01T00:00:00.000","No. obs",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1991","1991-01-01T00:00:00.000","Mean",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1991","1991-01-01T00:00:00.000","Median",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1991","1991-01-01T00:00:00.000","No. obs",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1992","1992-01-01T00:00:00.000","Mean",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1992","1992-01-01T00:00:00.000","Median",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1992","1992-01-01T00:00:00.000","No. obs",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1993","1993-01-01T00:00:00.000","Mean","6.2","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1993","1993-01-01T00:00:00.000","Median","-1.4","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1993","1993-01-01T00:00:00.000","No. obs","19.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1994","1994-01-01T00:00:00.000","Mean","-0.7","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1994","1994-01-01T00:00:00.000","Median","-0.8","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1994","1994-01-01T00:00:00.000","No. obs","21.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1995","1995-01-01T00:00:00.000","Mean","11.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1995","1995-01-01T00:00:00.000","Median","3.6","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1995","1995-01-01T00:00:00.000","No. obs","26.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1996","1996-01-01T00:00:00.000","Mean","16.2","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1996","1996-01-01T00:00:00.000","Median","14.8","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1996","1996-01-01T00:00:00.000","No. obs","28.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1997","1997-01-01T00:00:00.000","Mean","19.4","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1997","1997-01-01T00:00:00.000","Median","16.6","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1997","1997-01-01T00:00:00.000","No. obs","30.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1998","1998-01-01T00:00:00.000","Mean","9.8","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1998","1998-01-01T00:00:00.000","Median","3.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1998","1998-01-01T00:00:00.000","No. obs","48.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1999","1999-01-01T00:00:00.000","Mean","15.2","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1999","1999-01-01T00:00:00.000","Median","13.2","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","1999","1999-01-01T00:00:00.000","No. obs","61.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","2000","2000-01-01T00:00:00.000","Mean","20.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","2000","2000-01-01T00:00:00.000","Median","21.2","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","2000","2000-01-01T00:00:00.000","No. obs","64.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","2001","2001-01-01T00:00:00.000","Mean","14.9","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","2001","2001-01-01T00:00:00.000","Median","4.3","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","2001","2001-01-01T00:00:00.000","No. obs","60.0","6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","2002","2002-01-01T00:00:00.000","Mean",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","2002","2002-01-01T00:00:00.000","Median",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Debt Maturity","Debt maturity currency difference","2002","2002-01-01T00:00:00.000","No. obs",,"6    Difference in maturity of dollar vis a vis non-dollar debt"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1990","1990-01-01T00:00:00.000","Mean","49.6","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1990","1990-01-01T00:00:00.000","Median","55.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1990","1990-01-01T00:00:00.000","No. obs","5.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1991","1991-01-01T00:00:00.000","Mean","35.3","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1991","1991-01-01T00:00:00.000","Median","30.8","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1991","1991-01-01T00:00:00.000","No. obs","23.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1992","1992-01-01T00:00:00.000","Mean","34.9","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1992","1992-01-01T00:00:00.000","Median","36.1","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1992","1992-01-01T00:00:00.000","No. obs","42.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1993","1993-01-01T00:00:00.000","Mean","43.7","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1993","1993-01-01T00:00:00.000","Median","45.2","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","83.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1994","1994-01-01T00:00:00.000","Mean","46.5","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1994","1994-01-01T00:00:00.000","Median","45.5","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","92.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1996","1996-01-01T00:00:00.000","Mean","48.9","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1996","1996-01-01T00:00:00.000","Median","45.2","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","100.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1997","1997-01-01T00:00:00.000","Mean","51.1","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1997","1997-01-01T00:00:00.000","Median","48.1","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","104.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1998","1998-01-01T00:00:00.000","Mean","50.1","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1998","1998-01-01T00:00:00.000","Median","46.8","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","112.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1999","1999-01-01T00:00:00.000","Mean","51.8","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1999","1999-01-01T00:00:00.000","Median","51.6","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","109.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","2000","2000-01-01T00:00:00.000","Mean","50.7","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","2000","2000-01-01T00:00:00.000","Median","50.5","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","111.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","2001","2001-01-01T00:00:00.000","Mean","54.6","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","2001","2001-01-01T00:00:00.000","Median","55.2","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","101.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","2002","2002-01-01T00:00:00.000","Mean","54.2","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","2002","2002-01-01T00:00:00.000","Median","54.1","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Leverage","Leverage ratio (%)","2002","2002-01-01T00:00:00.000","No. obs","39.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1990","1990-01-01T00:00:00.000","Mean",,
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1990","1990-01-01T00:00:00.000","Median",,
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1990","1990-01-01T00:00:00.000","No. obs",,
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1991","1991-01-01T00:00:00.000","Mean",,
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1991","1991-01-01T00:00:00.000","Median",,
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1991","1991-01-01T00:00:00.000","No. obs",,
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1992","1992-01-01T00:00:00.000","Mean",,
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1992","1992-01-01T00:00:00.000","Median",,
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1992","1992-01-01T00:00:00.000","No. obs",,
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1993","1993-01-01T00:00:00.000","Mean","9.4",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1993","1993-01-01T00:00:00.000","Median","3.1",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1993","1993-01-01T00:00:00.000","No. obs","73.0",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1994","1994-01-01T00:00:00.000","Mean","17.4",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1994","1994-01-01T00:00:00.000","Median","3.6",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1994","1994-01-01T00:00:00.000","No. obs","82.0",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1995","1995-01-01T00:00:00.000","Mean","18.3",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1995","1995-01-01T00:00:00.000","Median","4.3",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1995","1995-01-01T00:00:00.000","No. obs","85.0",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1996","1996-01-01T00:00:00.000","Mean","19.5",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1996","1996-01-01T00:00:00.000","Median","6.1",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1996","1996-01-01T00:00:00.000","No. obs","90.0",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1997","1997-01-01T00:00:00.000","Mean","11.2",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1997","1997-01-01T00:00:00.000","Median","4.1",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1997","1997-01-01T00:00:00.000","No. obs","93.0",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1998","1998-01-01T00:00:00.000","Mean","5.7",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1998","1998-01-01T00:00:00.000","Median","2.2",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1998","1998-01-01T00:00:00.000","No. obs","99.0",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1999","1999-01-01T00:00:00.000","Mean","1.8",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1999","1999-01-01T00:00:00.000","Median","0.5",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","1999","1999-01-01T00:00:00.000","No. obs","96.0",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","2000","2000-01-01T00:00:00.000","Mean","23.0",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","2000","2000-01-01T00:00:00.000","Median","12.9",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","2000","2000-01-01T00:00:00.000","No. obs","53.0",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","2001","2001-01-01T00:00:00.000","Mean","20.8",
+"Argentina","By Sector: Tradable","Exports","As % of total assets","2002","2002-01-01T00:00:00.000","No. obs",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1990","1990-01-01T00:00:00.000","Mean",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1990","1990-01-01T00:00:00.000","Median",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1991","1991-01-01T00:00:00.000","Mean",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1991","1991-01-01T00:00:00.000","Median",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1991","1991-01-01T00:00:00.000","No. obs",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1992","1992-01-01T00:00:00.000","Mean",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1992","1992-01-01T00:00:00.000","Median",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1992","1992-01-01T00:00:00.000","No. obs",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1993","1993-01-01T00:00:00.000","Mean","10.6",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1993","1993-01-01T00:00:00.000","Median","2.8",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1993","1993-01-01T00:00:00.000","No. obs","73.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1994","1994-01-01T00:00:00.000","Mean","15.8",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1994","1994-01-01T00:00:00.000","Median","3.9",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1994","1994-01-01T00:00:00.000","No. obs","82.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1995","1995-01-01T00:00:00.000","Mean","17.5",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1995","1995-01-01T00:00:00.000","Median","6.6",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1995","1995-01-01T00:00:00.000","No. obs","85.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1996","1996-01-01T00:00:00.000","Mean","18.8",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1996","1996-01-01T00:00:00.000","Median","7.6",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1996","1996-01-01T00:00:00.000","No. obs","90.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1997","1997-01-01T00:00:00.000","Mean","10.5",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1997","1997-01-01T00:00:00.000","Median","5.9",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1997","1997-01-01T00:00:00.000","No. obs","93.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1998","1998-01-01T00:00:00.000","Mean","6.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1998","1998-01-01T00:00:00.000","Median","3.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1998","1998-01-01T00:00:00.000","No. obs","99.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1999","1999-01-01T00:00:00.000","Mean","2.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1999","1999-01-01T00:00:00.000","Median","0.8",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","1999","1999-01-01T00:00:00.000","No. obs","96.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","2000","2000-01-01T00:00:00.000","Mean","27.1",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","2000","2000-01-01T00:00:00.000","Median","18.1",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","2000","2000-01-01T00:00:00.000","No. obs","53.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","2001","2001-01-01T00:00:00.000","Mean","27.4",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","2001","2001-01-01T00:00:00.000","Median","16.8",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","2001","2001-01-01T00:00:00.000","No. obs","53.0",
+"Argentina","By Sector: Tradable","Exports","As % of total sales","2002","2002-01-01T00:00:00.000","Mean",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","2002","2002-01-01T00:00:00.000","Median",,
+"Argentina","By Sector: Tradable","Exports","As % of total sales","2002","2002-01-01T00:00:00.000","No. obs",,
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1990","1990-01-01T00:00:00.000","Mean","100.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1990","1990-01-01T00:00:00.000","No. obs","1.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1991","1991-01-01T00:00:00.000","Mean","100.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1991","1991-01-01T00:00:00.000","No. obs","3.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1992","1992-01-01T00:00:00.000","Mean","100.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1992","1992-01-01T00:00:00.000","No. obs","7.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1993","1993-01-01T00:00:00.000","Mean","93.6",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1993","1993-01-01T00:00:00.000","No. obs","47.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1994","1994-01-01T00:00:00.000","Mean","86.4",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1994","1994-01-01T00:00:00.000","No. obs","59.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1995","1995-01-01T00:00:00.000","Mean","91.7",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1995","1995-01-01T00:00:00.000","No. obs","72.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1996","1996-01-01T00:00:00.000","Mean","91.1",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1996","1996-01-01T00:00:00.000","No. obs","79.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1997","1997-01-01T00:00:00.000","Mean","94.5",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1997","1997-01-01T00:00:00.000","No. obs","91.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1998","1998-01-01T00:00:00.000","Mean","95.8",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1998","1998-01-01T00:00:00.000","No. obs","95.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1999","1999-01-01T00:00:00.000","Mean","94.7",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","1999","1999-01-01T00:00:00.000","No. obs","95.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","2000","2000-01-01T00:00:00.000","Mean","92.6",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","2000","2000-01-01T00:00:00.000","No. obs","95.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","2001","2001-01-01T00:00:00.000","Mean","92.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","2001","2001-01-01T00:00:00.000","No. obs","87.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","2002","2002-01-01T00:00:00.000","Mean","100.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","% Firms with dollar debt","2002","2002-01-01T00:00:00.000","No. obs","19.0",
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean","24.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median","24.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs","1.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean","33.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median","46.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs","3.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean","48.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median","41.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs","7.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","52.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","60.8","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","47.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","52.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","63.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","59.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","57.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Median","70.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1995","1995-01-01T00:00:00.000","No. obs","72.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Mean","57.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1996","1996-01-01T00:00:00.000","Median","70.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1996","1996-01-01T00:00:00.000","No. obs","79.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Mean","58.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1997","1997-01-01T00:00:00.000","Median","63.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","91.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Mean","57.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1998","1998-01-01T00:00:00.000","Median","56.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1998","1998-01-01T00:00:00.000","No. obs","95.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Mean","60.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1999","1999-01-01T00:00:00.000","Median","65.3","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","1999","1999-01-01T00:00:00.000","No. obs","95.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Mean","60.5","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","2000","2000-01-01T00:00:00.000","Median","65.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","2000","2000-01-01T00:00:00.000","No. obs","95.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Mean","59.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","2001","2001-01-01T00:00:00.000","Median","68.6","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","2001","2001-01-01T00:00:00.000","No. obs","87.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Mean","62.2","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","2002","2002-01-01T00:00:00.000","Median","88.4","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Debt dollarization ratio (%)","2002","2002-01-01T00:00:00.000","No. obs","19.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Leverage","Leverage ratio (%)","1997","1997-01-01T00:00:00.000","No. obs","93.0","7    Leverage = Total liabilities / total assets"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1990","1990-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1991","1991-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Mean",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","Median",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1992","1992-01-01T00:00:00.000","No. obs",,"1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Mean","44.7","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","Median","46.9","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1993","1993-01-01T00:00:00.000","No. obs","28.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Mean","36.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","Median","38.1","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1994","1994-01-01T00:00:00.000","No. obs","33.0","1    Dollar-linked debt as a percentage of total liabilities"
+"Argentina","By Sector: Non-tradable","Dollar Indebtness","Short-dollarization ratio (%)","1995","1995-01-01T00:00:00.000","Mean","43.3","1    Dollar-linked debt as a percentage of total liabilities"

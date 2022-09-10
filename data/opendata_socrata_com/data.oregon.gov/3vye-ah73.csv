@@ -1,0 +1,5 @@
+Hospital Name,Hospital Location,Central Line Days,Observed Infections,Predicted Infections,2016 SIR,SIR 95% CI,SIR Interpretation (2015 US Baseline),2020 HHS Targets,County,HPP Region,Location 1,SIR Icon,Benchmark Icon
+ 1. All Oregon,Adult Long Term Acute Wards,5917,10,7.42,1.347,"0.684, 2.402",More infections,Target Not Met,,,,https://data.oregon.gov/views/3vye-ah73/files/450bf082-d33d-4cfe-a047-c69889dd83ea,
+Vibra Specialty Hospital of Portland,Adult Long Term Acute Wards,5917,10,7.42,1.347,"0.684, 2.402",More infections,Target Not Met,MULTNOMAH,Region1,"10300 NORTHEAST HANCOCK STREET
+PORTLAND 97220
+(45.5357391, -122.5564818)",https://data.oregon.gov/views/3vye-ah73/files/baa9d184-e957-4af3-a1af-1718ad1cb806,

@@ -82,7 +82,7 @@ func main() {
 			log.Fatal(err)
 		}
 
-		totalRecords++;
+		totalRecords++
 
 		if recordRef[FileName] != recordCurrent[FileName] {
 			log.Fatal("FileName key does not match" + recordRef[FileName])
@@ -91,9 +91,13 @@ func main() {
 			log.Fatalf("FieldOffset key does not match: %s,%s\n", recordCurrent[FileName], recordRef[FieldOffset])
 		}
 
-		// Only look for String, Long, or Double BaseTypes where we have something to say in either the reference set or the detected set
-		if (recordRef[BaseType] == "String" || recordRef[BaseType] == "Long" || recordRef[BaseType] == "Double") && (recordRef[SemanticType] != "" || recordCurrent[SemanticType] != "") {
+		// Only look for String, Boolean, Long, or Double BaseTypes where we have something to say in either the reference set or the detected set
+		if (recordRef[BaseType] == "String" || recordRef[BaseType] == "Boolean" || recordRef[BaseType] == "Long" || recordRef[BaseType] == "Double") && (recordRef[SemanticType] != "" || recordCurrent[SemanticType] != "") {
 			key := recordRef[FileName] + "," + recordRef[FieldOffset]
+			if recordRef[BaseType] != recordCurrent[BaseType] {
+				log.Printf("Key: %s - baseTypes do not match, reference: %s, current: %s\n", key, recordRef[BaseType], recordCurrent[BaseType])
+			}
+
 			if recordRef[SemanticType] == recordCurrent[SemanticType] {
 				// True Positive
 				update(statistics, recordRef[SemanticType], key, "", "", "")
@@ -177,7 +181,7 @@ func main() {
 
 	if options.Type == "" {
 		fmt.Printf("\nTotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d, Record#: %d (ID%%: %.2f)\n",
-			totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives, totalRecords, float32((totalTruePositives + totalFalseNegatives)*100)/ float32(totalRecords) )
+			totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives, totalRecords, float32((totalTruePositives+totalFalseNegatives)*100)/float32(totalRecords))
 	}
 }
 

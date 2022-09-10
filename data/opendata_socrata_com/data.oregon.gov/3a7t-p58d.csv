@@ -1,0 +1,187 @@
+Facility Name,Patient Months,Observed Infections,Predicted Infections,2016 SIR,SIR 95% CI,SIR Interpretation (2015 US baseline),County,HPP Region,Location 1,SIR Icon
+1. ALL OREGON,42217,166,247.8179,0.67,"0.574, 0.778",Statistically fewer infections,,,,https://data.oregon.gov/views/3a7t-p58d/files/c65e930f-160f-4d86-ba8e-dda93f375dd0
+BLUE MOUNTAIN KIDNEY CENTER,189,1,0.7917,1.263,"      0.063, 6.230",More infections,UMATILLA,Region9,"72556 COYOTE ROAD
+PENDLETON 97801
+(45.643455, -118.685749)",https://data.oregon.gov/views/3a7t-p58d/files/1e642069-91ed-410d-984c-ad6bfafbbd6d
+FMC ALBANY,655,2,3.9642,0.505,"      0.085, 1.667",Fewer infections,LINN,Region2,"1050 7TH AVENUE, SW
+ALBANY 97321
+(44.631343, -123.116078)",https://data.oregon.gov/views/3a7t-p58d/files/a69c5903-e04f-41fe-a588-ca3c94932773
+FMC BEND,711,3,4.0346,0.744,"      0.189, 2.024",Fewer infections,DESCHUTES,Region7,"1239 NE MEDICAL CENTER DRIVE SUITE 100
+BEND 97701
+(44.063027, -121.264945)",https://data.oregon.gov/views/3a7t-p58d/files/27199fb3-dc8a-434c-ae9b-25de978e9de0
+FMC CLACKAMAS,1087,4,7.2621,0.551,"      0.175, 1.329",Fewer infections,CLACKAMAS,Region1,"13560 SE 97TH AVENUE
+CLACKAMAS 97015
+(45.425392, -122.562045)",https://data.oregon.gov/views/3a7t-p58d/files/8b757195-7759-4c4f-a6e1-b2d7ac91f802
+FMC COOS BAY,1069,2,7.6887,0.26,"      0.044, 0.859",Statistically fewer infections,COOS,Region3,"1971 THOMPSON ROAD
+COOS 97420
+(43.386065, -124.235905)",https://data.oregon.gov/views/3a7t-p58d/files/ff6e166d-2254-49ec-8a06-a287e2bd1dd5
+FMC CORVALLIS OREGON,396,1,2.9957,0.334,"      0.017, 1.646",Fewer infections,BENTON,Region2,"3580 NW SAMARITAN DRIVE
+CORVALLIS 97330
+(44.603352, -123.253315)",https://data.oregon.gov/views/3a7t-p58d/files/365b9947-a8d3-4306-b080-e30a321e735f
+FMC DIALYSIS SERVICES OF MT HOOD,1050,2,5.767,0.347,"      0.058, 1.146",Fewer infections,MULTNOMAH,Region1,"100 SE CLEVELAND AVE
+GRESHAM 97080
+(45.4974927, -122.4207558)",https://data.oregon.gov/views/3a7t-p58d/files/e084d960-7406-4f14-bd0b-8c4d9841a58d
+FMC EUGENE,1463,7,9.4325,0.742,"      0.325, 1.468",Fewer infections,LANE,Region3,"201 RIVER AVENUE
+EUGENE 97404
+(44.095972, -123.123842)",https://data.oregon.gov/views/3a7t-p58d/files/721ca8a8-3b3e-45c4-accf-18b6a531d318
+FMC LEBANON,719,3,4.061,0.739,"      0.188, 2.011",Fewer infections,LINN,Region2,"665 NORTH 5TH STREET
+LEBANON 97355
+(44.552244, -122.914167)",https://data.oregon.gov/views/3a7t-p58d/files/c589190e-2def-43a9-9bfb-5135e7e53802
+FMC MAYWOOD PARK,719,1,5.3441,0.187,"      0.009, 0.923",Statistically fewer infections,MULTNOMAH,Region1,"11909 NE GLENN WIDING DRIVE
+PORTLAND 97220
+(45.568913, -122.539978)",https://data.oregon.gov/views/3a7t-p58d/files/597c064b-550f-4db8-862a-5d2da9a4c20a
+FMC MILTON FREEWATER,204,0,0.7774,0,"           , 3.854",Fewer infections,UMATILLA,Region9,"1213 S MAIN STREET
+MILTON FREEWATER 97862
+(45.923844, -118.38207)",https://data.oregon.gov/views/3a7t-p58d/files/45c348ab-5d39-4809-8503-65c8cb874577
+FMC NEWPORT,594,2,4.1251,0.485,"      0.081, 1.602",Fewer infections,LINCOLN,Region2,"957 SW COAST HWY
+NEWPORT 97365
+(44.627357, -124.061456)",https://data.oregon.gov/views/3a7t-p58d/files/0fab3b5a-3338-4c6c-b775-50238f51c6a4
+FMC REDMOND,669,2,3.0419,0.657,"      0.110, 2.172",Fewer infections,DESCHUTES,Region7,"916 SW 17TH STREET, SUITE 100
+REDMOND 97756
+(44.268506, -121.186731)",https://data.oregon.gov/views/3a7t-p58d/files/90b61368-8f36-4798-9f84-7f152b8da663
+FMC SALEM,1544,4,9.6242,0.416,"      0.132, 1.003",Fewer infections,MARION,Region2,"440 LANCASTER DR NE
+SALEM 97301
+(44.935052, -122.98314)",https://data.oregon.gov/views/3a7t-p58d/files/dcb71298-406c-4cfa-9bb5-d26f9969750d
+FMC SPRINGFIELD,1466,2,8.7266,0.229,"      0.038, 0.757",Statistically fewer infections,LANE,Region3,"304 Q STREET
+SPRINGFIELD 97477
+(44.062096, -123.022108)",https://data.oregon.gov/views/3a7t-p58d/files/97ad2b49-f493-4267-93ef-6fbdfa9ad67a
+FMC WEST SALEM,612,1,4.3612,0.229,"      0.011, 1.131",Fewer infections,POLK,Region1,"1060 2ND STREET NW
+SALEM 97304
+(44.942648, -123.05609)",https://data.oregon.gov/views/3a7t-p58d/files/918b06ab-4ba1-4f55-b4b3-b21426c1b7f3
+FOUR RIVERS DIALYSIS CENTER,743,1,4.2099,0.238,"      0.012, 1.172",Fewer infections,MALHEUR,Region9,"515 EAST LANE
+ONTARIO 97914
+(44.020232, -116.940371)",https://data.oregon.gov/views/3a7t-p58d/files/f5b84d34-396e-4f61-a01e-49af0e695ab5
+FRESENIUS MEDICAL CARE FLORENCE OREGON,258,0,1.3082,0,"           , 2.290",Fewer infections,LANE,Region3,"2820 KINGWOOD STREET
+FLORENCE 97439
+(43.990886, -124.109996)",https://data.oregon.gov/views/3a7t-p58d/files/23eb344c-d3e3-4b5b-a11d-afba9c2a20af
+FRESENIUS MEDICAL CARE SANDY DIALYSIS,221,1,1.2187,0.821,"      0.041, 4.047",Fewer infections,CLACKAMAS,Region1,"37139 HIGHWAY 26
+SANDY 97055
+(45.401624, -122.281705)",https://data.oregon.gov/views/3a7t-p58d/files/5811b364-116a-4ce4-9ca7-112eb860baf9
+FRESENIUS MEDICAL CARE SCHOLLS FERRY,620,3,3.963,0.757,"      0.193, 2.060",Fewer infections,WASHINGTON,Region1,"10300 SW NIMBUS STE P-A
+PORTLAND 97223
+(45.444386, -122.786091)",https://data.oregon.gov/views/3a7t-p58d/files/5d095b2d-5182-486a-809a-2ccadc3629a8
+GRANTS PASS II DIALYSIS,622,1,3.8604,0.259,"      0.013, 1.278",Fewer infections,JOSEPHINE,Region5,"1055 REDWOOD AVENUE
+GRANTS PASS 97527
+(42.422393, -123.349824)",https://data.oregon.gov/views/3a7t-p58d/files/0b38b675-a0f7-4b30-bf27-1372e33b4df6
+HERMISTON COMMUNITY DIALYSIS CENTER,478,0,2.3986,0,"           , 1.249",Fewer infections,UMATILLA,Region9,"1155 W LINDA AVENUE
+HERMISTON 97838
+(45.846021, -119.311557)",https://data.oregon.gov/views/3a7t-p58d/files/691d6995-dc68-4f5a-8279-ca3971759c27
+HILLSBORO DIALYSIS CENTER,223,2,1.6282,1.228,"      0.206, 4.058",More infections,WASHINGTON,Region1,"2500 NW 229TH AVENUE, SUITE 300 BLDG E
+HILLSBORO 97124
+(45.545948, -122.909809)",https://data.oregon.gov/views/3a7t-p58d/files/04387dbf-a7a8-4ec2-939f-4e9b53a595ca
+HILLTOP DIALYSIS,461,4,2.8298,1.414,"      0.449, 3.410",More infections,CLACKAMAS,Region1,"328 WARNER MILNE ROAD, BLDG 1
+OREGON CITY 97045
+(45.33651, -122.594039)",https://data.oregon.gov/views/3a7t-p58d/files/90a7682f-50b2-4830-9cbc-7b57ecf7b2b7
+KLAMATH FALLS DIALYSIS,768,7,4.0026,1.749,"      0.765, 3.459",More infections,KLAMATH,Region7,"2230 N ELDORADO AVENUE
+KLAMATH FALLS 97601
+(42.248104, -121.786801)",https://data.oregon.gov/views/3a7t-p58d/files/beb58349-71ca-424f-82db-db148b84b244
+LAKE ROAD DIALYSIS CENTER,1205,3,4.9419,0.607,"      0.154, 1.652",Fewer infections,CLACKAMAS,Region1,"6902 SE LAKE ROAD, SUITE 100
+MILWAUKIE 97267
+(45.423346, -122.592132)",https://data.oregon.gov/views/3a7t-p58d/files/40b51454-ae54-483e-af9a-72a07b9376ad
+MADRAS DIALYSIS,329,5,1.6468,3.036,"      1.112, 6.730",Statistically more infections,JEFFERSON,Region7,"1077 SW HIGHWAY 97
+MADRAS 97741
+(44.620977, -121.131974)",https://data.oregon.gov/views/3a7t-p58d/files/5b06ff59-ec4f-4f90-aa6d-d63ad37a6d6a
+MCMINNVILLE DIALYSIS,494,2,2.8046,0.713,"      0.120, 2.356",Fewer infections,YAMHILL,Region2,"200 NE NORTON LANE
+MCMINNVILLE 97128
+(45.200953, -123.166538)",https://data.oregon.gov/views/3a7t-p58d/files/b913195a-f7cb-4ae9-bb70-30536f8727ae
+MERIDIAN PARK DIALYSIS CENTER,628,0,3.1273,0,"           , 0.958",Statistically fewer infections,WASHINGTON,Region1,"19255 SW 65TH AVENUE, SUITE 100
+TUALATIN 97062
+(45.381563, -122.744012)",https://data.oregon.gov/views/3a7t-p58d/files/7ed8e96b-282d-4815-87bd-4d14b7aaa4b2
+NE SALEM DIALYSIS,679,6,5.1679,1.161,"      0.471, 2.415",More infections,MARION,Region2,"4792 PORTLAND ROAD NE
+SALEM 97305
+(44.992967, -122.984847)",https://data.oregon.gov/views/3a7t-p58d/files/387cb8ee-1fd6-46e4-8b77-01d6cd875a0a
+NOBLE WOODS DIALYSIS CLINIC,744,6,4.3029,1.394,"      0.565, 2.900",More infections,WASHINGTON,Region1,"5333 W BASELINE
+HILLSBORO 97123",https://data.oregon.gov/views/3a7t-p58d/files/78713e4b-6cc8-410a-bd89-2e69cbd6a417
+NORTHEAST PORTLAND RENAL CENTER,981,2,4.9473,0.404,"      0.068, 1.336",Fewer infections,MULTNOMAH,Region1,"703 NE HANCOCK STREET
+PORTLAND 97212
+(45.536494, -122.658277)",https://data.oregon.gov/views/3a7t-p58d/files/89fea9a2-8718-4f95-a829-8771586c47a9
+OREGON KIDNEY CENTER,892,2,4.0337,0.496,"      0.083, 1.638",Fewer infections,MULTNOMAH,Region1,"5318 NE IRVING STREET
+PORTLAND 97213
+(45.528222, -122.608715)",https://data.oregon.gov/views/3a7t-p58d/files/2e2d8e64-c62a-45da-964a-ce989a88d46a
+PNRS BEAVERTON DIALYSIS CENTER,1288,2,7.9811,0.251,"      0.042, 0.828",Statistically fewer infections,WASHINGTON,Region1,"2715 SW 153RD DR
+BEAVERTON 97006
+(45.4998715, -122.8364088)",https://data.oregon.gov/views/3a7t-p58d/files/e9b66aa3-6ff7-433f-b977-4b0671545ff7
+PNRS COLUMBIA RIVER THE DALLES,273,0,1.4125,0,"           , 2.121",Fewer infections,WASCO,Region6,"411 LONE PINE BLVD
+THE DALLES, OR 97058
+(45.6051979, -121.1397529)",https://data.oregon.gov/views/3a7t-p58d/files/82d46c3e-d9c6-4fba-9df1-2c70baa8112e
+PNRS EASTERN OREGON DIALYSIS CENTER,239,2,1.448,1.381,"      0.232, 4.563",More infections,UNION,Region9,"10601 S WALTON RD
+LA GRANDE, OR 97850
+(45.3357599, -118.0569449)",https://data.oregon.gov/views/3a7t-p58d/files/ace3823c-f78e-4dcc-b628-b34f32dc23c6
+PNRS EMANUEL PEDIATRIC DIALYSIS,68,0,1.1078,0,"           , 2.704",Fewer infections,MULTNOMAH,Region1,"2801 N GANTENBEIN AVE
+PORTLAND 97227
+(45.5435105, -122.66996)",https://data.oregon.gov/views/3a7t-p58d/files/ba620e4b-7b3d-4fde-9d83-c248d93d0a00
+PNRS HOLLYWOOD DIALYSIS CENTER,1024,3,6.6449,0.451,"      0.115, 1.229",Fewer infections,MULTNOMAH,Region1,"2824 NE WASCO ST
+PORTLAND 97232
+(45.5320746, -122.6367751)",https://data.oregon.gov/views/3a7t-p58d/files/877a6e2e-f820-4528-8727-f64e3dfbd580
+PNRS MCMINNVILLE KIDNEY CENTER,415,0,1.7527,0,"           , 1.709",Fewer infections,YAMHILL,Region2,"345 SE NORTON LN
+MCMINNVILLE 97128
+(45.2020522, -123.167104199)",https://data.oregon.gov/views/3a7t-p58d/files/7c57d8ac-c2e1-47b2-990c-74bb0ff81194
+PNRS NEWBERG DIALYSIS CENTER,370,1,2.4833,0.403,"      0.020, 1.986",Fewer infections,YAMHILL,Region2,"3100 HAWORTH AVE
+NEWBERG 97132
+(45.3070557, -122.9480294)",https://data.oregon.gov/views/3a7t-p58d/files/7d043066-0e03-474d-b9d7-5b67814850d6
+PNRS NORTH COAST  DIALYSIS CLINIC,488,3,3.4835,0.861,"      0.219, 2.344",Fewer infections,CLASTOP,Region1,"2120 EXCHANGE ST
+ASTORIA 97103
+(46.1888442, -123.8180512)",https://data.oregon.gov/views/3a7t-p58d/files/7341cd8a-f503-412c-9a90-0700bf25aede
+PNRS ROSE QUARTER DIALYSIS CENTER,1250,5,6.3033,0.793,"      0.291, 1.758",Fewer infections,MULTNOMAH,Region1,"4905 NE MARTIN LUTHER KING BLVD
+PORTLAND 97211
+(45.558438, -122.661812)",https://data.oregon.gov/views/3a7t-p58d/files/20e62652-88e0-41a5-910e-36838eabc16c
+PNRS ST HELENS DIALYSIS,301,2,1.5969,1.252,"      0.210, 4.138",More infections,COLUMBIA,Region1,"500 N COLUMBIA RIVER HIGHWAY, SUITE 510
+SAINT HELENS 97051
+(45.864544, -122.819604)",https://data.oregon.gov/views/3a7t-p58d/files/96a1507e-2d9a-4abd-8a18-96e727f56684
+PNRS/THC RAINES DIALYSIS CENTER,723,4,5.0667,0.789,"      0.251, 1.904",Fewer infections,WASHINGTON,Region1,"1809 MAPLE STREET
+FOREST GROVE 97116
+(45.517464, -123.091236)",https://data.oregon.gov/views/3a7t-p58d/files/8685c7b4-00db-4f87-9f3a-19889d347d2e
+PNRS TUALATIN KIDNEY CENTER,919,5,5.2551,0.951,"      0.349, 2.109",Fewer infections,WASHINGTON,Region1,"7780 SW MOHAWK STREET
+TUALATIN 97062
+(45.376328, -122.758248)",https://data.oregon.gov/views/3a7t-p58d/files/9b1d68c0-3254-4010-9f6f-bdb2d46b934a
+PNRS TWIN OAKS,794,4,4.4878,0.891,"      0.283, 2.150",Fewer infections,WASHINGTON,Region1,"1815 NW 169TH PL
+BEAVERTON 97006
+(45.5326852, -122.852786199)",https://data.oregon.gov/views/3a7t-p58d/files/205e97b1-6474-4781-a6ae-b2d6e3824180
+PORTLAND GATEWAY DIALYSIS,610,1,2.5701,0.389,"      0.019, 1.919",Fewer infections,MULTNOMAH,Region1,"9932 NE HALSEY STREET
+PORTLAND 97220
+(45.533495, -122.561021)",https://data.oregon.gov/views/3a7t-p58d/files/e8a67319-d34c-4857-b80e-2a51fbb3c09e
+PORTLAND MLK DIALYSIS,103,0,0.7243,0,"           , 4.136",Fewer infections,MULTNOMAH,Region1,"2737 NE MARTIN LUTHER KING BLVD
+PORTLAND 97212
+(45.542565, -122.66166)",https://data.oregon.gov/views/3a7t-p58d/files/eb0b7b48-3cd4-40e2-b48d-168f1205cf79
+RAY YASUI DIALYSIS CENTER,367,2,2.016,0.992,"      0.166, 3.278",Fewer infections,HOOD RIVER,Region6,"1125 MAY STREET, SUITE 302
+HOOD RIVER 97031
+(45.70416, -121.523044)",https://data.oregon.gov/views/3a7t-p58d/files/d5c6f633-9792-453d-9adb-3f362c77fded
+REDWOOD DIALYSIS,292,0,1.6196,0,"           , 1.850",Fewer infections,JOSEPHINE,Region5,"201 SW L ST
+GRANTS PASS, OR 97526
+(42.435668, -123.331078)",https://data.oregon.gov/views/3a7t-p58d/files/4af7def8-8be5-4935-ad65-0765d3378924
+ROGUE VALLEY DIALYSIS,2138,8,12.5408,0.638,"      0.296, 1.211",Fewer infections,JACKSON,Region5,"760 GOLF VIEW DR UNIT 100
+MEDFORD 97504
+(42.3152096, -122.823954399)",https://data.oregon.gov/views/3a7t-p58d/files/841bc775-3ae7-40c1-9856-323dc89cb2db
+ROSEBURG/MERCY DIALYSIS,1015,5,8.1307,0.615,"      0.225, 1.363",Fewer infections,DOUGLAS,Region5,"2599 NW EDENBOWER BLVD
+ROSEBURG 97471
+(43.2389, -123.3616536)",https://data.oregon.gov/views/3a7t-p58d/files/986747f2-7cb9-49f4-a08e-ad9b241b9703
+SALEM DIALYSIS,1064,7,7.149,0.979,"      0.428, 1.937",Fewer infections,MARION,Region2,"3550 LIBERTY RD
+SALEM 97302
+(44.9038322, -123.0497212)",https://data.oregon.gov/views/3a7t-p58d/files/8c133916-ea6f-4512-9be8-9a6d506fc7ef
+SALEM NORTH DIALYSIS,663,8,4.1398,1.932,"      0.897, 3.670",More infections,MARION,Region2,"1220 LIBERTY ST. NE
+SALEM 97301
+(44.951877, -123.033357)",https://data.oregon.gov/views/3a7t-p58d/files/9b8e2a7c-ed69-4e8c-aed2-d6c058b6be22
+SHERWOOD DIALYSIS CENTER,286,0,1.7666,0,"           , 1.696",Fewer infections,WASHINGTON,Region1,"21035 SW PACIFIC HWY
+SHERWOOD 97140
+(45.3675053, -122.848034699)",https://data.oregon.gov/views/3a7t-p58d/files/7c07f123-98b4-49d2-80a7-5df636768c0b
+USRC PORTLAND DIALYSIS CENTER,744,4,3.1115,1.286,"      0.408, 3.101",More infections,MULTNOMAH,Region1,"10595 SE STARK STREET
+PORTLAND 97216
+(45.519014, -122.554236)",https://data.oregon.gov/views/3a7t-p58d/files/8ee53830-b6cf-483b-bd8f-155d7731e9b6
+US RENAL CARE GRESHAM DIALYSIS,949,7,5.4977,1.273,"      0.557, 2.519",More infections,MULTNOMAH,Region1,"1360 E. POWELL BLVD
+GRESHAM 97030
+(45.4979064, -122.4179652)",https://data.oregon.gov/views/3a7t-p58d/files/8caba822-df08-4135-ac50-b805c910f489
+US RENAL CARE TILLAMOOK DIALYSIS,244,0,1.4216,0,"           , 2.107",Fewer infections,TILLAMOOK,Region1,"1000 3RD ST
+TILLAMOOK 97141
+(45.4569, -123.85418099)",https://data.oregon.gov/views/3a7t-p58d/files/8273a6f3-cb88-4634-9a71-33ebf8d11e1e
+WALKER ROAD DIALYSIS,491,3,2.3825,1.259,"      0.320, 3.427",More infections,WASHINGTON,Region1,"15050 SW KOLL PARKWAY, SUITE 3
+BEAVERTON 97006
+(45.5137521, -122.8318112)",https://data.oregon.gov/views/3a7t-p58d/files/033edc91-b0c7-4009-ba24-89379c53b1b3
+WEST LINN DIALYSIS CENTER,267,0,1.3097,0,"           , 2.287",Fewer infections,CLACKAMAS,Region1,"19056 WILLAMETTE DRIVE
+WEST LINN 97068
+(45.387628, -122.64184)",https://data.oregon.gov/views/3a7t-p58d/files/0c5a63ca-5889-43f2-a353-07e5f177030a
+WILLAMETTE VALLEY RENAL CENTER,503,5,2.0589,2.428,"      0.890, 5.383",More infections,CLACKAMAS,Region1,"1510 DIVISION STREET, SUITE 90
+OREGON CITY 97045
+(45.357292, -122.588358)",https://data.oregon.gov/views/3a7t-p58d/files/720a8d49-a867-4a3c-9e9d-43a3d9782539
+WOODBURN DIALYSIS,836,3,3.9657,0.756,"      0.192, 2.059",Fewer infections,MARION,Region2,"1840 NEWBERG HWY SUITE 140
+WOODBURN 97071
+(45.149754, -122.867983)",https://data.oregon.gov/views/3a7t-p58d/files/c5d9df9f-1011-4bf7-9fa7-c0fc4fec6fa7

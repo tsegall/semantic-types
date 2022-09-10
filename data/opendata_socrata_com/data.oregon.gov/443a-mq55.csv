@@ -1,0 +1,44 @@
+Hospital Name,Procedures Performed,Procedure Type,Complex SSIs,Predicted SSIs,SIR,SIR 95% CI,SIR Symbol,SIR Icon,SIR Interpretation (2006-08 US baseline),2013 HHS Targets,Percentile on 2014 National SIR Distribution,County,HPP Region,Location,Location 1,2010 House Districts,2010 Senate Districts,Counties
+Adventist Medical Center,57,CBGB,0,0.83, *, *,,,#s too small to calculate,ZERO Infections,,MULTNOMAH,Region1,"(45.512666, -122.5585885)","10123 SOUTHEAST MARKET STREET
+PORTLAND 97216
+(45.512666, -122.5585885)",46,23,2410
+ All Oregon,2207,CBGB,5,26.13,0.191,"0.070, 0.424",Green down,https://data.oregon.gov/views/443a-mq55/files/21f9800c-2681-4aaf-a25f-e033ddc5a28e,Statistically fewer infections,SIR Target (<0.75) Met,36-40%,,,,,,,
+Asante Rogue Regional Medical Center,333,CBGB,2,3.4,0.589,"0.099, 1.944",Grey down,https://data.oregon.gov/views/443a-mq55/files/c85c78ca-4911-4f42-8a8b-aa19821dc94c,Fewer infections,SIR Target (<0.75) Met,61-65%,JACKSON,Region5,"(42.3174104, -122.8302961)","2825 EAST BARNETT ROAD
+MEDFORD 97504
+(42.3174104, -122.8302961)",6,3,2367
+Good Samaritan Regional Medical Center,159,CBGB,0,1.98,0," , 1.515",Grey down,https://data.oregon.gov/views/443a-mq55/files/df4c0025-f3e3-4cce-94ed-e37a01d2d3f7,Fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-35%,BENTON,Region2,"(44.6034337, -123.2523328)","3600 NORTHWEST SAMARITAN DRIVE
+CORVALLIS 97330
+(44.6034337, -123.2523328)",16,8,2316
+Kaiser Permanente Sunnyside Medical Center,170,CBGB,1,2.43,0.411,"0.021, 2.027",Grey down,https://data.oregon.gov/views/443a-mq55/files/790da463-8cd8-45e5-bca2-dd46b7a9fa94,Fewer infections,SIR Target (<0.75) Met,51-55%,CLACKAMAS,Region1,"(45.4312489, -122.5606)","10180 SOUTHEAST SUNNYSIDE ROAD
+CLACKAMAS 97015
+(45.4312489, -122.5606)",48,24,2317
+Legacy Emanuel Medical Center,60,CBGB,0,0.86, *, *,,,#s too small to calculate,ZERO Infections,,MULTNOMAH,Region1,"(45.5435674, -122.6702704)","2801 NORTH GANTENBEIN AVENUE
+PORTLAND 97227
+(45.5435674, -122.6702704)",43,22,2410
+Legacy Good Samaritan Medical Center,133,CBGB,0,1.83,0," , 1.638",Grey down,https://data.oregon.gov/views/443a-mq55/files/7ea8f740-5359-4438-899b-3b6d18e701d3,Fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-35%,MULTNOMAH,Region1,"(45.5302217, -122.6973884)","1015 NORTHWEST 22ND AVENUE
+PORTLAND 97210
+(45.5302217, -122.6973884)",33,17,2410
+McKenzie-Willamette Medical Center,62,CBGB,0,0.82, *, *,,,#s too small to calculate,ZERO Infections,,LANE,Region3,"(44.0530441, -123.0039526)","1460 G STREET
+SPRINGFIELD 97477
+(44.0530441, -123.0039526)",12,6,2371
+Oregon Health & Science University,213,CBGB,0,2.99,0," , 1.001",Grey down,https://data.oregon.gov/views/443a-mq55/files/0fcaf9f0-3381-46c9-86c0-cdc211ed4362,Fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-35%,MULTNOMAH,Region1,"(45.4989708, -122.6861182)","3181 SOUTHWEST SAM JACKSON PARK ROAD
+PORTLAND 97239
+(45.4989708, -122.6861182)",36,18,2410
+Providence Portland Medical Center,102,CBGB,0,1.24,0," , 2.426",Grey down,https://data.oregon.gov/views/443a-mq55/files/fe619f38-a060-4545-b2a4-01b85bd48ba9,Fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-35%,MULTNOMAH,Region1,"(45.52742, -122.6137641)","4805 NORTHEAST GLISAN STREET
+PORTLAND 97213
+(45.52742, -122.6137641)",46,23,2410
+Providence St. Vincent Medical Center,275,CBGB,1,3.49,0.287,"0.014, 1.415",Grey down,https://data.oregon.gov/views/443a-mq55/files/391f83f2-38a1-4aa0-b441-7f91d7553791,Fewer infections,SIR Target (<0.75) Met,41-45%,WASHINGTON,Region1,"(45.5106612, -122.7718284)","9205 SOUTHWEST BARNES ROAD
+PORTLAND 97225
+(45.5106612, -122.7718284)",34,17,724
+Sacred Heart Medical Center - Riverbend,234,CBGB,0,2.31,0," , 1.297",Grey down,https://data.oregon.gov/views/443a-mq55/files/00618dd1-06fc-4905-85fb-f14559f00e01,Fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-35%,LANE,Region3,"(44.080908, -123.026475)","3333 RIVERBEND DR
+SPRINGFIELD 97477
+(44.080908, -123.026475)",12,6,2371
+Salem Hospital,241,CBGB,0,2.22,0," , 1.352",Grey down,https://data.oregon.gov/views/443a-mq55/files/33f4bf2d-d61a-439f-8442-79ad17ad7aae,Fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-35%,MARION,Region2,"(44.932538, -123.033944)","890 Oak St SE, Salem, OR 97301
+SALEM 97301
+(44.932538, -123.033944)",21,11,2409
+St. Charles Medical Center - Bend,137,CBGB,0,1.36,0," , 2.208",Grey down,https://data.oregon.gov/views/443a-mq55/files/1a843f4f-5274-4dad-b8e8-4d718b89ff42,Fewer infections,SIR Target (<0.75) Met & ZERO Infections,0-35%,DESCHUTES,Region7,"(44.067636, -121.2693136)","2500 NORTHEAST NEFF ROAD
+BEND 97701
+(44.067636, -121.2693136)",54,27,2362
+Tuality Community Hostpital,31,CBGB,1,0.39, *, *,,,#s too small to calculate,,,WASHINGTON,Region1,"(45.5194749, -122.9781033)","335 SOUTHEAST 8TH AVENUE
+HILLSBORO 97123
+(45.5194749, -122.9781033)",29,15,724

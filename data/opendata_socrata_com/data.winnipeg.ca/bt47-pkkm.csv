@@ -1,0 +1,64 @@
+"name","address","wifi","accessibilty","room_rentals","room_rental_info","parking_lot","parkng_stalls","notes","website","complex_id","location_1","point"
+"Charleswood Library","6-4910 Roblin Blvd","true","true","false",,"true","23",,"http://wpl.winnipeg.ca/library/branchpages/branch.aspx?chas","135","
+,  
+(49.85774064434839, -97.28520022923546)","POINT (-97.285200229235 49.857740644348)"
+"Bill and Helen Norrie Library","25 Poseidon Bay",,,,,,,,,"167","
+,  
+(49.85540981465735, -97.1747288026036)","POINT (-97.174728802604 49.855409814657)"
+"St. James-Assiniboia Library","1910 Portage Ave","true","false","true","Program Room","true","24",,"http://wpl.winnipeg.ca/library/branchpages/branch.aspx?sjas","43","
+,  
+(49.87795723585326, -97.22164340626925)","POINT (-97.221643406269 49.877957235853)"
+"St. Vital Library","6 Fermor Ave","true","false","true","Programming Room","true",,"limited on-site parking","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?svtl","174","
+,  
+(49.85181473972052, -97.11346440954682)","POINT (-97.113464409547 49.851814739721)"
+"River Heights Library","1520 Corydon Ave","true","false","true","Storytime / Meeting Room","false",,"Limited street parking","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?rivh","136","
+,  
+(49.863191226032804, -97.18904008294163)","POINT (-97.189040082942 49.863191226033)"
+"Transcona Library","1 Transcona Blvd","true","true","true","Board Room, Program Room","true","6",,"http://wpl.winnipeg.ca/library/branchpages/branch.aspx?tran","119","
+,  
+(49.90128908881889, -97.02627738261575)","POINT (-97.026277382616 49.901289088819)"
+"Westwood Library","66 Allard Ave","true","true","true","Storytime / Meeting Room","true","12",,"http://wpl.winnipeg.ca/library/branchpages/branch.aspx?wswd","58","
+,  
+(49.878211660499325, -97.30321631208108)","POINT (-97.303216312081 49.878211660499)"
+"St. Boniface Library","100-131 Provencher Blvd","true","true","true","Salle de Conference, Salle Marie Lynne Bernard","true","10",,"http://wpl.winnipeg.ca/library/branchpages/branch.aspx?sbon","109","
+,  
+(49.89182061892302, -97.12475262301226)","POINT (-97.124752623012 49.891820618923)"
+"Sir William Stephenson Library","765 Keewatin St","true","true","true","Meeting Room","true",,"on-site parking","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?swst","9","
+,  
+(49.93652143804123, -97.1942145991283)","POINT (-97.194214599128 49.936521438041)"
+"Osborne Library","625 Osborne St","true","true","true","Fort Rouge Leisure Centre Meeting Room","true",,"Fort Rouge Recreation & Leisure Centre lot","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?osbn","51","
+,  
+(49.863389777692575, -97.13452604966633)","POINT (-97.134526049666 49.863389777693)"
+"Millennium Library","251 Donald St","true","true","true","Carol Shields Auditorium, Buchawald Room, Anhang Room, Meeting Rooms 1, 2 & 3, Tutorial Rooms A & B, Computer Training Lab","true",,"2 level underground lot","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?mill","165","
+,  
+(49.89182378570722, -97.14187614976802)","POINT (-97.141876149768 49.891823785707)"
+"Pembina Trail Library","2724 Pembina Hwy","true","true","true","Myrtle Lorimer Meeting Room","true","38",,"http://wpl.winnipeg.ca/library/branchpages/branch.aspx?pemb","175","
+,  
+(49.7937804013518, -97.15665127884341)","POINT (-97.156651278843 49.793780401352)"
+"Munroe Library","489 London St","true","true","true","Program Room","false",,"Munroe Shopping Centre lot","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?munr","117","
+,  
+(49.91065586054327, -97.08197032143265)","POINT (-97.081970321433 49.910655860543)"
+"Harvey Smith (West End) Library","999 Sargent Ave","true","true","true","Cindy Klassen Recreation Complex Meeting Room & Community Use Room","true",,"Cindy Klassen Recreation Complex lot","https://wpl.winnipeg.ca/library/branchpages/branch.aspx?harv","29","
+,  
+(49.89763839832152, -97.18007345495026)","POINT (-97.18007345495 49.897638398322)"
+"Henderson Library","1-1050 Henderson Hwy","true","true","true","Metting Rooms 1 & 2","false",,"Rossmere Shopping Centre lot","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?hend","110","
+,  
+(49.93668550263019, -97.0959260392081)","POINT (-97.095926039208 49.93668550263)"
+"St. John's Library","500 Salter St","true","true","true","Program Room","false",,"Limited street parking","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?stjn","76","
+,  
+(49.92557249180167, -97.13320147488882)","POINT (-97.133201474889 49.925572491802)"
+"Fort Garry Library","1360 Pembina Hwy","true","true","true","Meeting Room","true","10",,"http://wpl.winnipeg.ca/library/branchpages/branch.aspx?ftga","173","
+,  
+(49.839539366055085, -97.15138764635704)","POINT (-97.151387646357 49.839539366055)"
+"Windsor Park Library","1195 Archibald St","true","true","true","Program Room. Tutorial Room","true","28","on-site parking","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?wnsp","172","
+,  
+(49.861415374499344, -97.08814313576477)","POINT (-97.088143135765 49.861415374499)"
+"West Kildonan Library","365 Jefferson Ave","true","true","true","Auditorium","true","12",,"http://wpl.winnipeg.ca/library/branchpages/branch.aspx?wkdn","75","
+,  
+(49.936693679286996, -97.12785771842927)","POINT (-97.127857718429 49.936693679287)"
+"Louis Riel Library","1168 Dakota St","true","true","true","Conference Room & Tutorial Room","true","30",,"http://wpl.winnipeg.ca/library/branchpages/branch.aspx?riel","177","
+,  
+(49.81994650300974, -97.09960424453627)","POINT (-97.099604244536 49.81994650301)"
+"Cornish Library","20 West Gate","true","false","true","Program Room","false",,"metered street","http://wpl.winnipeg.ca/library/branchpages/branch.aspx?cnsh","166","
+,  
+(49.878363095432036, -97.15994198741156)","POINT (-97.159941987412 49.878363095432)"

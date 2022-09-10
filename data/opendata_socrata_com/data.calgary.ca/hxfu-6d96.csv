@@ -1,0 +1,391 @@
+"complex_name","facility_type","tier","address","org","typ_of_org","steward","oper","label","website","phone","notes","gym","gymnast_fac","fitnss_wght","fit_studio","multi_purp_rooms","meet_rooms","indr_pool","outdr_pool","fw_25m","fw_50m","fw_18m","lanes_pool","teach_pool","wave_pool","other_pool","indr_wad_pool","diving_tank","springboard","platform","dive_slide","play_slide","rope_swing","steam","hot_tub","sauna","climb_wall","track_indr","outdr_wad_pool","spray_park","ice_indr","stand_ice","nhl_ice","olymp_ice","fig_skating","curl_rnk","curl_sheets","indr_surface","indr_turf","dry_pad","racqfac_indr","squash_crts","raqball_crts","badmint_crts","tennis_crt","outdr_field","artf_turf_outdr","diam_fac_outdr","track_outdr","public_glf","semi_priv_glf","hole_18","hole_9","driverang_outdr","driverang_indr","ski_nordictrck","municpal_op","notprofit_op","profit_op","private_op","longitude","latitude","location"
+"Southland Leisure Centre","Leisure Centre - Municipal",,"2000 SOUTHLAND DR SW","Recreation","Municipal","Recreation","Recreation","Southland Leisure Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Leisure-centres/Southland.aspx","403-648-6555","2 ice rinks, wave pool, slides, fitness/weights, racquet ball, squash, gym, climbing wall, gymnastics, hot tub, steam room","2","Y","Y","1","0","0","Y","N","0","0","0","0","N","Y","N","N","N","N","N","0","1","N","Y","Y","N","Y","N","N","N","N","2","0","0","N","N","0","Y","0","2","Y","3","2","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.10852055068838","50.96228875864107","
+,  
+(50.96228875864107, -114.10852055068838)"
+"West Confederation Park Spray Park","Spray Park",,"2020 CHICOUTIMI DR SW","Parks","Municipal","Parks","Parks","West Confederation Park Spray Park","https://www.calgary.ca/csps/parks/locations/nw-parks/west-confederation-park.html","<Null>",,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","Y","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.10931240134059","51.08106867453199","
+,  
+(51.08106867453199, -114.10931240134059)"
+"Village Square Leisure Centre","Leisure Centre - Municipal",,"2623 56 ST NE","Recreation","Municipal","Recreation","Recreation","Village Square Leisure Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Leisure-centres/Village-Square.aspx","403-366-3900","2 ice rinks, wave pool, slides, dive tank, hot tub, steam room, Splash Zone, gym, weight room, dance studio, fitness rooms","1","N","Y","2","0","2","Y","N","0","0","0","0","N","Y","N","N","Y","Y","N","0","3","Y","Y","Y","N","N","N","N","N","N","2","0","0","N","N","0","Y","0","2","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.95443744999585","51.076014105637356","
+,  
+(51.076014105637356, -113.95443744999585)"
+"Lakeview Golf Course","Golf Course - Municipal",,"5840 19 ST SW","Recreation","Municipal","Recreation","Recreation","Lakeview Golf Course","https://www.calgary.ca/CSPS/Recreation/Pages/Golf-courses/Lakeview.aspx","403-300-1003","9 hole, practice putting green","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","Y","N","N","Y","N","N","N","Y","N","N","N","-114.10683218043894","51.00058770541908","
+,  
+(51.00058770541908, -114.10683218043894)"
+"Triwood CA","Arena",,"2244 CHICOUTIMI DR NW","CA","Not-for-Profit","Parks","Triwood CA","Triwood CA","https://www.triwoodcommunity.com/","403-282-2677","Ice rink","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","Y","0","1","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.11087571094974","51.08625325678179","
+,  
+(51.08625325678179, -114.11087571094974)"
+"South Calgary Outdoor Pool","Outdoor Pool",,"1626 32 AV SW","COSPA","Not-for-Profit","Recreation","COSPA","South Calgary Outdoor Pool",,"403-245-0379","23m pool (6 lane)","0","N","N","0","0","0","N","Y","1","0","0","6","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.09887007067255","51.02525037105149","
+,  
+(51.02525037105149, -114.09887007067255)"
+"Mount Pleasant Outdoor Pool","Outdoor Pool",,"630 22 AV NW","COSPA","Not-for-Profit","Parks","COSPA","Mount Pleasant Outdoor Pool","https://mpca.ca/outdoor-pool/","403-221-4288","Free form pool","0","N","N","0","0","0","N","Y","0","0","0","0","N","N","Y","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.07556482172168","51.072864459009814","
+,  
+(51.072864459009814, -114.07556482172168)"
+"Oakridge CA","Arena",,"9504 OAKFIELD DR SW","CA","Not-for-Profit","Parks","Oakridge CA","Oakridge Community Association","https://www.oakridgecommunity.ca/","403-238-0007","Ice rink, squash, hall","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","Y","1","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.13173812811175","50.968496033520964","
+,  
+(50.968496033520964, -114.13173812811175)"
+"Forest Lawn Outdoor Pool, Wading Pool & Spray Park","Outdoor Pool",,"1706 39 ST SE","COSPA","Not-for-Profit","Recreation","COSPA","Forest Lawn Outdoor Pool, Wading Pool & Spray Park",,"403-221-3595","25m pool (8 lane), wading pool, spray park","0","N","N","0","0","0","N","Y","1","0","0","8","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","Y","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-113.97638016858603","51.03875456829266","
+,  
+(51.03875456829266, -113.97638016858603)"
+"Fox Hollow Golf Course","Golf Course - Public",,"999 32 AV NE","Private","Profit","Parks","Fox Hollow Golf Course","Fox Hollow Golf Course","https://www.foxhollowcalgary.com/","403-277-4653","18 hole, indoor driving range","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","Y","N","Y","N","N","Y","N","N","Y","N","Y","-114.03172890711939","51.074615815616674","
+,  
+(51.074615815616674, -114.03172890711939)"
+"Bowness Community Centre","Arena",,"7904 43 AV NW","CA","Not-for-Profit","Parks","Bowness CA","Bowness Community Centre","https://www.mybowness.com/","403-288-8300","Ice rink, meeting room, main hall","0","N","N","0","0","1","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","0","1","0","N","N","0","Y","0","1","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.20014527532342","51.091647542065495","
+,  
+(51.091647542065495, -114.20014527532342)"
+"Brentwood Sportsplex","Arena",,"1520B NORTHMOUNT DR NW","CA","Not-for-Profit","Recreation","Brentwood CA","Brentwood Sportsplex","https://www.brentwoodcommunity.com/","403-284-3477","Ice rink, meeting room, banquet hall","0","N","N","0","0","1","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","0","1","0","N","N","0","Y","0","1","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.13781139243956","51.09750549856889","
+,  
+(51.09750549856889, -114.13781139243956)"
+"Stanley Park Outdoor Pool & Wading Pool","Outdoor Pool",,"4011 1A ST SW","COSPA","Not-for-Profit","Parks","COSPA","Stanley Park Outdoor Pool & Wading Pool",,"403-221-3577","25m pool (8 lane), wading pool, spray park","0","N","N","0","0","0","N","Y","1","0","0","8","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","Y","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.06929741051472","51.01720586574353","
+,  
+(51.01720586574353, -114.06929741051472)"
+"Bowview Outdoor Pool & Wading Pool","Outdoor Pool",,"1910 6 AV NW","COSPA","Not-for-Profit","Recreation","COSPA","Bowview Outdoor Pool & Wading Pool","https://www.hsca.ca/bowview-swimming-pool","403-221-3571","25m pool (6 lane), wading pool","0","N","N","0","0","0","N","Y","1","0","0","6","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","Y","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.10296978016909","51.05797027228842","
+,  
+(51.05797027228842, -114.10296978016909)"
+"Valley Ridge Golf Course","Golf Course - Semi-Private",,"11618 VALLEY RIDGE PA NW","Private","Profit","Valley Ridge Golf Course","Valley Ridge Golf Course","Valley Ridge Golf Course","https://www.valleyridgegolf.com/","403-288-9457","18 hole, driving range","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","Y","Y","N","Y","N","N","N","N","Y","Y","-114.25272489110056","51.09917214736542","
+,  
+(51.09917214736542, -114.25272489110056)"
+"Mount Pleasant Sportsplex","Arena",,"2408 6 ST NW","CA","Not-for-Profit","Parks","Mount Pleasant CA","Mount Pleasant Sportsplex","https://www.mpca.ca/index.php?option=com_content&view=article&id=59&Itemid=44","403-282-1314","Ice rink","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.07544018725739","51.07341768146856","
+,  
+(51.07341768146856, -114.07544018725739)"
+"Blue Devil Golf Club","Golf Course - Public",,"2300 194 AV SE","Private","Profit","Blue Devil Golf Club","Blue Devil Golf Club","Blue Devil Golf Club","https://www.bluedevilgolf.com/","403-452-7892","18 hole, 9 hole short, driving range","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","Y","Y","Y","Y","N","N","N","N","Y","Y","-114.00717999507563","50.88403489919403","
+,  
+(50.88403489919403, -114.00717999507563)"
+"Lake Bonavista Recreation Centre","Arena",,"1401 ACADIA DR SE","CA","Not-for-Profit","Recreation","Lake Bonavista CA","Lake Bonavista Recreation Centre","http://thelbca.ca/","403-271-7107","2 ice rinks, gym, fitness studio, meeting rooms","1","N","N","1","0","2","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","2","0","0","Y","N","0","N","0","0","N","0","0","4","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.0491693700592","50.93689185401632","
+,  
+(50.93689185401632, -114.0491693700592)"
+"Thorncliffe / Greenview CA","Arena",,"5600 CENTRE ST NE","CA","Not-for-Profit","Parks","Thorncliffe / Greenview CA","Thorncliffe / Greenview CA","https://www.tgcacalgary.com/","403-274-6840","Ice rink / dry pad, gym, 2 fitness rooms, 4 meeting rooms","1","N","N","2","0","4","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","Y","N","0","Y","0","1","N","0","1","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.06175975767631","51.10154220749916","
+,  
+(51.10154220749916, -114.06175975767631)"
+"Millican-Ogden Outdoor Pool","Outdoor Pool",,"6901 20A ST SE","COSPA","Not-for-Profit","Recreation","COSPA","Millican-Ogden Outdoor Pool",,"403-221-3598","25m pool (8 lane)","0","N","N","0","0","0","N","Y","1","0","0","8","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.01182059446518","50.991230156881876","
+,  
+(50.991230156881876, -114.01182059446518)"
+"Highwood Outdoor & Wading Pool","Outdoor Pool",,"20 HARLOW AV NW","COSPA","Not-for-Profit","Recreation","COSPA","Highwood Outdoor & Wading Pool","https://highwoodoutdoorpool.com/","403-221-3574","25m pool (6 lane), wading pool","0","N","N","0","0","0","N","Y","1","0","0","6","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","Y","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.0778895204748","51.092148339421996","
+,  
+(51.092148339421996, -114.0778895204748)"
+"N.E. Community Skatepark","Skate Park",,"7556 FALCONRIDGE BV NE","Parks","Municipal","Recreation","Parks","N.E. Community Skatepark","https://www.calgary.ca/csps/recreation/skateparks.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.94812538396344","51.119304839903954","
+,  
+(51.119304839903954, -113.94812538396344)"
+"West Hillhurst CA","Arena",,"1940 6 AV NW","CA","Not-for-Profit","Recreation","West Hillhurst CA","West Hillhurst CA","https://www.westhillhurst.com/","403-283-0464","Ice rink / dry pad, gym, fitness/weights, dance studio, 3 squash courts, 3 tennis courts","1","N","Y","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","Y","0","1","Y","3","0","0","3","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.10454100534943","51.058074204732286","
+,  
+(51.058074204732286, -114.10454100534943)"
+"McKenzie Meadows Golf Club","Golf Course - Public",,"17215 MCKENZIE MEADOWS DR SE","Private","Profit","McKenzie Meadows Golf Club","McKenzie Meadows Golf Club","McKenzie Meadows Golf Club","https://www.mckenziemeadows.com/","403-257-2255","18 hole, driving range","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","Y","Y","N","Y","N","N","N","N","Y","Y","-114.0023172046404","50.900912663756756","
+,  
+(50.900912663756756, -114.0023172046404)"
+"Prince's Island Lagoon","Outdoor Skating Rink",,"25 PRINCE'S ISLAND PARK SW","Parks","Municipal","Parks","Parks","Prince's Island Lagoon","https://www.calgary.ca/CSPS/Parks/Pages/Locations/Downtown-parks/Princes-Island-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.07153249640592","51.05438849936605","
+,  
+(51.05438849936605, -114.07153249640592)"
+"Huntington Hills Skatepark","Skate Park",,"CENTRE ST & 64 AV NW","Parks","Municipal","Parks","Parks","Huntington Hills Skatepark","https://www.calgary.ca/csps/recreation/skateparks.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.06523274282162","51.111229622292996","
+,  
+(51.111229622292996, -114.06523274282162)"
+"Inglewood Aquatic Centre","Aquatic - Flat Water","1","1525 17 AV SE","Recreation","Municipal","Recreation","Recreation","Inglewood Aquatic Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Inglewood.aspx","311","25m pool (6 lane),  aquatic climbing wall, 2m slide, rope swing","0","N","N","0","0","0","Y","N","1","0","0","6","N","N","N","N","N","N","N","0","1","Y","N","N","N","Y","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.02866184245028","51.03744096856994","
+,  
+(51.03744096856994, -114.02866184245028)"
+"Somerset Spray Park","Spray Park",,"999 SOMERSET DR SW","CA","Not-for-Profit","Parks","CA","Somerset Spray Park","https://somersetwaterpark.org/",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","Y","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","N","N","N","-114.07744101373339","50.89827769517031","
+,  
+(50.89827769517031, -114.07744101373339)"
+"Carrington Skatepark","Skate Park",,"37 CARRINGTON PZ NW","Parks","Municipal","Parks","Parks","Carrington Skatepark","https://www.calgary.ca/csps/recreation/skateparks.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.09399762750124","51.18185751344686","
+,  
+(51.18185751344686, -114.09399762750124)"
+"Ernie Starr Arena","Arena",,"4808 14 AV SE","Recreation","Municipal","Recreation","Recreation","Ernie Starr Arena","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Ernie-Starr.aspx","311","185'x85' ice rink (300 seat cap)","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.96492771461095","51.04136879855382","
+,  
+(51.04136879855382, -113.96492771461095)"
+"Canyon Meadows Aquatic & Fitness Centre","Aquatic & Fitness Centre","2","89 CANOVA RD SW","Recreation","Municipal","Recreation","Recreation","Canyon Meadows Aquatic & Fitness Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Canyon-Meadows.aspx","311","25m pool (6 lane), 1m dive tank & 1.5m slide, hot tub, steam room, fitness/weights, studio","0","N","Y","1","0","0","Y","N","1","0","0","6","N","N","N","N","Y","N","N","1","0","N","Y","Y","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.08951575100261","50.94840292149092","
+,  
+(50.94840292149092, -114.08951575100261)"
+"Bob Bahan Aquatic & Fitness Centre","Aquatic & Fitness Centre","2","4812 14 AV SE","Recreation","Municipal","Recreation","Recreation","Bob Bahan Aquatic & Fitness Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Bob-Bahan.aspx","311","25m pool (6 lane), 1.5m slide & 1m dive tank, hot tub, steam room, fitness/weights, studio","0","N","Y","1","0","0","Y","N","1","0","0","6","N","N","N","N","Y","Y","N","1","0","N","Y","Y","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.96396125693389","51.04129815084809","
+,  
+(51.04129815084809, -113.96396125693389)"
+"Bowness Skatepark","Skate Park",,"4324 77 ST NW","Parks","Municipal","Parks","Parks","Bowness Skatepark","https://www.calgary.ca/csps/recreation/skateparks.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.19876406867755","51.090326244448015","
+,  
+(51.090326244448015, -114.19876406867755)"
+"Shaw Millennium Park","Skate Park",,"1220 9 AV SW","Parks","Municipal","Parks","Parks","Shaw Millennium Park","https://www.calgary.ca/csps/parks/locations/downtown-parks/shaw-millennium-park.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.09187072612936","51.04612828743356","
+,  
+(51.04612828743356, -114.09187072612936)"
+"Riley Park Wading Pool","Outdoor Wading Pool",,"800 12 ST NW","Parks","Municipal","Recreation","Recreation","Riley Park Wading Pool","https://www.calgary.ca/CSPS/Parks/Pages/Locations/NW-parks/Riley-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","Y","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.08917358252626","51.05885461050003","
+,  
+(51.05885461050003, -114.08917358252626)"
+"Thornhill Aquatic & Recreation Centre","Aquatic & Recreation Centre","2","6715 CENTRE ST NW","Recreation","Municipal","Recreation","Recreation","Thornhill Aquatic & Recreation Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Thornhill.aspx","311","25m pool (6 lane), 1m dive tank, hot tub, steam room, fitness/weights, fitness studio/multi-purpose room","0","N","Y","1","1","0","Y","N","1","0","0","6","N","N","N","N","Y","Y","N","0","0","N","Y","Y","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.06529001964557","51.112570271443055","
+,  
+(51.112570271443055, -114.06529001964557)"
+"Big Marlborough Park","Outdoor Skating Rink",,"755 MADEIRA DR NE","Parks","Municipal","Parks","Parks","Big Marlborough Park","https://www.calgary.ca/CSPS/Parks/Pages/Locations/NE-parks/Big-Marlborough-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.94516712654642","51.05929012833965","
+,  
+(51.05929012833965, -113.94516712654642)"
+"Optimist Athletic Park","Athletic Park",,"5020 26 AV SW","Recreation","Municipal","Recreation","Recreation","Optimist Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Optimist-Athletic-Park.aspx","311","Soccer field, 2 field hockey fields, baseball diamond, 6 softball diamonds, 2 little league diamonds","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","Y","N","N","N","N","N","N","N","N","Y","N","N","N","-114.16154746124599","51.03328126315175","
+,  
+(51.03328126315175, -114.16154746124599)"
+"Southwood Skatepark","Skate Park",,"11 SACKVILLE DR SW","Parks","Municipal","Parks","Parks","Southwood Skatepark","https://www.calgary.ca/csps/recreation/skateparks.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.08720034388111","50.95608107539546","
+,  
+(50.95608107539546, -114.08720034388111)"
+"CKE Skatepark","Skate Park",,"1015 73 AV SW","Parks","Municipal","Parks","Parks","CKE Skatepark","https://www.calgary.ca/csps/recreation/skateparks.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.08391453848401","50.98735945561129","
+,  
+(50.98735945561129, -114.08391453848401)"
+"New Brighton Skatepark","Skate Park",,"5801 130 AV SE","Parks","Municipal","Recreation","Parks","New Brighton Skatepark","https://www.calgary.ca/csps/recreation/skateparks.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","N","N","N","-113.94718581841401","50.92835247837754","
+,  
+(50.92835247837754, -113.94718581841401)"
+"Pop Davies Athletic Park","Athletic Park",,"6415 OGDEN RD SE","Recreation","Municipal","Recreation","Recreation","Pop Davies Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Pop-Davies-Athletic-Park.aspx","311","2 soccer fields, 5 softball diamonds","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","Y","N","N","N","N","N","N","N","N","Y","N","N","N","-114.00857394620255","50.996268104322716","
+,  
+(50.996268104322716, -114.00857394620255)"
+"Deer Run Skatepark","Skate Park",,"2223 146 AV SE","Parks","Municipal","Parks","Parks","Deer Run Skatepark","https://www.calgary.ca/csps/recreation/skateparks.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.0077470412275","50.92223371555487","
+,  
+(50.92223371555487, -114.0077470412275)"
+"Mid-Sun Skatepark","Skate Park",,"50 MIDPARK RI SE","Parks","Municipal","Parks","Parks","Mid-Sun Skatepark","https://www.calgary.ca/csps/recreation/skateparks.html",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.05662642803559","50.914600197650614","
+,  
+(50.914600197650614, -114.05662642803559)"
+"Shouldice Arena","Arena",,"1515 HOME RD NW","Recreation","Municipal","Recreation","Recreation","Shouldice Arena","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Shouldice.aspx","311","185'x85' ice rink / dry pad (150 seat cap)","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","Y","0","1","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.16542923196312","51.07107029484518","
+,  
+(51.07107029484518, -114.16542923196312)"
+"Acadia Aquatic & Fitness Centre","Aquatic & Fitness Centre","1","9009 FAIRMOUNT DR SE","Recreation","Municipal","Recreation","Recreation","Acadia Aquatic & Fitness Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Acadia.aspx","311","25m pool (6 lane), 2-2m slides, rope swing, fitness/weight, multi-purpose room","0","N","Y","0","1","0","Y","N","1","0","0","6","N","N","N","N","N","N","N","0","1","Y","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.06015783876195","50.973477487960444","
+,  
+(50.973477487960444, -114.06015783876195)"
+"Shouldice Aquatic Centre","Aquatic - Flat Water","1","5303 BOWNESS RD NW","Recreation","Municipal","Recreation","Recreation","Shouldice Aquatic Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Shouldice.aspx","311","25m pool (6 lane), 1.5m slide, 1m & 3m dive, steam room","0","N","N","0","0","0","Y","N","1","0","0","6","N","N","N","N","Y","Y","N","1","0","N","Y","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.17200297839258","51.07708473363231","
+,  
+(51.07708473363231, -114.17200297839258)"
+"Shaganappi Golf Course","Golf Course - Municipal",,"1200 26 ST SW","Recreation","Municipal","Recreation","Recreation","Shaganappi Point Golf Course","https://www.calgary.ca/CSPS/Recreation/Pages/Golf-courses/Shaganappi-Point.aspx","403-300-1007","18 hole, 9 hole, putting green","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","Y","N","Y","Y","Y","N","Y","Y","N","N","N","-114.12477861738286","51.045500808822545","
+,  
+(51.045500808822545, -114.12477861738286)"
+"Acadia Recreation Complex","Arena",,"240 90 AV SE","CA","Not-for-Profit","Parks","Acadia CA","Acadia Recreation Complex","http://www.acadiaca.com/acadia-recreation-complex/","403-255-1252","Ice rink, curling (10 sheets), 5 squash and racquetball courts","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","Y","10","Y","0","1","Y","5","5","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.06521988449047","50.97304446712554","
+,  
+(50.97304446712554, -114.06521988449047)"
+"Confederation Park Golf Course","Golf Course - Municipal",,"3204 COLLINGWOOD DR NW","Recreation","Municipal","Recreation","Recreation","Confederation Park Golf Course","https://www.calgary.ca/CSPS/Recreation/Pages/Golf-courses/Confederation-Park.aspx","403-300-1002","9 hole, driving range","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","Y","N","N","Y","Y","N","Y","Y","N","N","N","-114.10169492617598","51.0791090325577","
+,  
+(51.0791090325577, -114.10169492617598)"
+"The Winston Golf Club","Golf Course - Semi-Private",,"2502 6 ST NE","Private","Profit","Parks","The Winston Golf Club","The Winston Golf Club","https://thewinstongolfclub.com/","403-984-1700","18 hole, driving range","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","Y","Y","N","Y","N","N","N","N","Y","Y","-114.04278996109161","51.07549627676797","
+,  
+(51.07549627676797, -114.04278996109161)"
+"Murray Copot Arena","Arena",,"6715 CENTRE ST NW","Recreation","Municipal","Recreation","Recreation","Murray Copot Arena","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Murray-Copot.aspx","311","185'x85' ice rink (300 seat cap)","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.06571627082535","51.112836016031004","
+,  
+(51.112836016031004, -114.06571627082535)"
+"Sir Winston Churchill Aquatic & Rec Ctr","Aquatic & Recreation Centre","2","1520 NORTHMOUNT DR NW","Recreation","Municipal","Recreation","Recreation","Sir Winston Churchill Aquatic & Recreation Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Sir-Winston-Churchill.aspx","311","25m pool (6 lane), hot tub, steam room, weight room","0","N","Y","0","0","0","Y","N","1","0","0","6","N","N","N","N","N","N","N","0","0","N","Y","Y","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.13791817267527","51.09688379808963","
+,  
+(51.09688379808963, -114.13791817267527)"
+"Prairie Winds Park","Outdoor Skating Rink",,"223 CASTLERIDGE BV NE","Parks","Municipal","Parks","Parks","Prairie Winds Park","https://www.calgary.ca/CSPS/Parks/Pages/Locations/NE-parks/Prairie-Winds-Park.aspx",,"Closed for renovations","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.97077263017351","51.104613399343556","
+,  
+(51.104613399343556, -113.97077263017351)"
+"Bowness Park Lagoon","Outdoor Skating Rink",,"8900 48 AV NW","Parks","Municipal","Parks","Parks","Bowness Park Lagoon","https://www.calgary.ca/CSPS/Parks/Pages/Locations/NW-parks/Bowness-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.21471724698159","51.09679203616719","
+,  
+(51.09679203616719, -114.21471724698159)"
+"Killarney Aquatic & Recreation Centre","Aquatic & Recreation Centre","2","1919 29 ST SW","Recreation","Municipal","Recreation","Recreation","Killarney Aquatic & Recreation Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Killarney.aspx","311","25m pool (6 lane), teach pool, 1m dive tank, hot tub, steam room, fitness/weights, fitness studio, multi-purpose room","0","N","Y","0","1","0","Y","N","1","0","0","6","Y","N","N","N","Y","Y","N","0","0","N","Y","Y","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.13029463202051","51.03736368419799","
+,  
+(51.03736368419799, -114.13029463202051)"
+"North Mount Pleasant Arts Centre","Art Centre",,"523 27 AV NW","Recreation","Municipal","Recreation","Recreation","North Mount Pleasant Arts Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Arts-centres/North-Mount-Pleasant.aspx","403-221-3682",,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.07272552200975","51.076727424317276","
+,  
+(51.076727424317276, -114.07272552200975)"
+"Frank McCool Athletic Park","Athletic Park",,"1900 LAKE BONAVISTA DR SE","Recreation","Municipal","Recreation","Recreation","Frank McCool Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Frank-McCool-Athletic-Park.aspx","311","2 soccer fields, athletic field","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.05141396275933","50.936477070583315","
+,  
+(50.936477070583315, -114.05141396275933)"
+"Valleyview Spray Park","Spray Park",,"28 ST SE & 30 AV SE","Parks","Municipal","Parks","Parks","Valleyview Spray Park","https://www.calgary.ca/CSPS/Parks/Pages/Locations/SE-parks/Valleyview-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","Y","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-113.99401821292099","51.026506097739755","
+,  
+(51.026506097739755, -113.99401821292099)"
+"Huntington Hills CA","Arena",,"520 78 AV NW","CA","Not-for-Profit","Parks","Huntington Hills CA","Huntington Hills CA","http://www.huntingtonhillscalgary.com/","403-275-6666","Ice rink, curling (8 sheets), meeting room, main hall","0","N","N","0","0","1","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","Y","Y","8","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.07234277699835","51.123749365109084","
+,  
+(51.123749365109084, -114.07234277699835)"
+"Frank McCool Arena","Arena",,"1900 LAKE BONAVISTA DR SE","Recreation","Municipal","Recreation","Recreation","Frank McCool Arena","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Frank-McCool.aspx","311","185'x85' ice rink (250 seat cap), meeting room","0","N","N","0","0","1","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.05015697867495","50.936070350388846","
+,  
+(50.936070350388846, -114.05015697867495)"
+"Maple Ridge Golf Course","Golf Course - Municipal",,"1240 MAPLEGLADE DR SE","Recreation","Municipal","Recreation","Recreation","Maple Ridge Golf Course","https://www.calgary.ca/CSPS/Recreation/Pages/Golf-courses/Maple-Ridge.aspx","403-300-1004","18 hole, practice putting green","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","Y","N","Y","N","N","N","Y","Y","N","N","N","-114.03297979802946","50.95230247054598","
+,  
+(50.95230247054598, -114.03297979802946)"
+"Foothills Aquatic Centre","Aquatic - Flat Water","1","2424 UNIVERSITY DR NW","Recreation","Municipal","Recreation","Recreation","Foothills Aquatic Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Foothills.aspx","311","25m pool (6 lane), wading pool, dive pool w/ 1.5m slide","0","N","N","0","0","0","Y","N","1","0","0","6","N","N","N","Y","Y","N","N","1","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.12544288422687","51.07409977508087","
+,  
+(51.07409977508087, -114.12544288422687)"
+"Shouldice Athletic Park","Athletic Park",,"1515 HOME RD NW","Recreation","Municipal","Recreation","Recreation","Shouldice Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Shouldice-Athletic-Park.aspx","311","3 artificial turf fields, 4 soccer fields, 5 softball diamonds, 3 soccer/football fields, 1 baseball diamond, 4 softball fields w/ fence/lights","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","3","Y","N","N","N","N","N","N","N","N","Y","N","N","N","-114.16943040725432","51.07398474101768","
+,  
+(51.07398474101768, -114.16943040725432)"
+"Renfrew Athletic Park","Athletic Park",,"810 13 AV NE","Recreation","Municipal","Recreation","Recreation","Renfrew Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Renfrew-Athletic-Park.aspx","311","2 soccer fields, fenced softball diamond, enclosed lit softball diamond","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","Y","N","N","N","N","N","N","N","N","Y","N","N","N","-114.04391830145681","51.06558908375156","
+,  
+(51.06558908375156, -114.04391830145681)"
+"Flames Community Arenas","Arena",,"2390 47 AV SW","SRG","Not-for-Profit","South West Arena Society","South West Arena Society","Flames Community Arenas","http://www.flamesca.com/site/3333/page.asp?Site=9879&LeagueID=9879&page=news_basic","403-243-8484","Ice rink, 2 meeting rooms","0","N","N","0","0","2","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","1","1","Y","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.11636908506568","51.01185691164736","
+,  
+(51.01185691164736, -114.11636908506568)"
+"New Brighton Athletic Park","Athletic Park",,"5801 130 AV SE","Recreation","Municipal","Recreation","Recreation","New Brighton Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Research-and-development/New-Brighton-Regional-Athletic-Park.aspx","311","4 multi-sport natural turf (2 football/rugby & 2 soccer/lacrosse/ultimate/field hockey), natural turf diamond, regional trail through park & 2 playgrounds","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","Y","N","N","N","N","N","N","N","N","Y","N","N","N","-113.95062335603785","50.92772606032027","
+,  
+(50.92772606032027, -113.95062335603785)"
+"Rotary Park Spray Park","Spray Park",,"617 1 ST NE","Parks","Municipal","Parks","Parks","Rotary Park Spray Park","https://www.calgary.ca/CSPS/Parks/Pages/Locations/NE-parks/Rotary-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","Y","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.0605048163543","51.05729652934548","
+,  
+(51.05729652934548, -114.0605048163543)"
+"Bowness Park Wading Pool","Outdoor Wading Pool",,"8900 48 AV NW","Parks","Municipal","Parks","Parks","Bowness Park Wading Pool","https://www.calgary.ca/CSPS/Parks/Pages/Locations/NW-parks/Bowness-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","Y","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.2115822228553","51.09724457529767","
+,  
+(51.09724457529767, -114.2115822228553)"
+"Tom Brook Athletic Park","Athletic Park",,"2000 SOUTHLAND DR SW","Recreation","Municipal","Recreation","Recreation","Tom Brook Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Tom-Brook-Athletic-Park.aspx","311","Soccer field, softball diamond","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","Y","N","N","N","N","N","N","N","N","Y","N","N","N","-114.10782080353016","50.9638534018303","
+,  
+(50.9638534018303, -114.10782080353016)"
+"Prairie Winds Park Wading Pool & Spray Park","Outdoor Wading Pool",,"223 CASTLERIDGE BV NE","Parks","Municipal","Parks","Parks","Prairie Winds Park Wading Pool & Spray Park","https://www.calgary.ca/CSPS/Parks/Pages/Locations/NE-parks/Prairie-Winds-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","Y","Y","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-113.97114737441754","51.10377503755385","
+,  
+(51.10377503755385, -113.97114737441754)"
+"Foothills Athletic Park","Athletic Park",,"2424 UNIVERSITY DR NW","Recreation","Municipal","Recreation","Recreation","Foothills Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Foothills-Athletic-Park.aspx","311","Little league diamond, 4 soccer fields, track, long jump, pole vault, discus, javelin, shot put, 8 tennis courts","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","8","Y","0","Y","Y","N","N","N","N","N","N","N","Y","N","N","N","-114.12417058677073","51.0732672755486","
+,  
+(51.0732672755486, -114.12417058677073)"
+"Max Bell Centre - Perry Cavanagh Arena","Arena",,"1001 BARLOW TR SE","Recreation","Municipal","Recreation","Recreation","Max Bell Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Max-Bell-Centre.aspx","311","1 ice rink","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","0","1","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.00388939885455","51.042259166105076","
+,  
+(51.042259166105076, -114.00388939885455)"
+"Woodbine Athletic Park","Athletic Park",,"96 WOODFIELD DR SW","Recreation","Municipal","Recreation","Recreation","Woodbine Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Woodbine-Athletic-Park.aspx","311","2 soccer fields, 2 softball diamonds","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","Y","N","N","N","N","N","N","N","N","Y","N","N","N","-114.11972479956984","50.93736893989702","
+,  
+(50.93736893989702, -114.11972479956984)"
+"Acadia Athletic Park","Athletic Park",,"295 90 AV SE","Recreation","Municipal","Recreation","Recreation","Acadia Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Acadia-Athletic-Park.aspx","311","Sports field, two flag football fields","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.06294910559285","50.971025493846014","
+,  
+(50.971025493846014, -114.06294910559285)"
+"McCall Lake Golf Course","Golf Course - Municipal",,"1600 32 AV NE","Recreation","Municipal","Recreation","Recreation","McCall Lake Golf Course","https://www.calgary.ca/CSPS/Recreation/Pages/Golf-courses/McCall-Lake.aspx","403-300-1005","18 hole & 9 hole, driving range, practice putting green and chipping area","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","Y","N","Y","Y","Y","N","N","Y","N","N","N","-114.0207407331186","51.084174432196235","
+,  
+(51.084174432196235, -114.0207407331186)"
+"Renfrew Aquatic & Recreation Centre","Aquatic & Recreation Centre","2","810 13 AV NE","Recreation","Municipal","Recreation","Recreation","Renfrew Aquatic & Recreation Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Renfrew.aspx","311","25m pool (6 lane), dive pool w/ 1m board, hot tub, steam room, fitness/weight","0","N","Y","0","0","0","Y","N","1","0","0","6","N","N","N","N","Y","Y","N","0","0","N","Y","Y","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.04547256252417","51.06455690318186","
+,  
+(51.06455690318186, -114.04547256252417)"
+"Forest Lawn Athletic Park","Athletic Park",,"4808 14 AV SE","Recreation","Municipal","Recreation","Recreation","Forest Lawn Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Forest-Lawn-Athletic-Park.aspx","311","Soccer","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.96246066805237","51.041731982660686","
+,  
+(51.041731982660686, -113.96246066805237)"
+"Jimmy Condon Arena","Arena",,"502 HERITAGE DR SW","Recreation","Municipal","Recreation","Recreation","Rose Kohn and Jimmy Condon Arenas","https://www.calgary.ca/csps/recreation/arenas/jimmie-condon-arena.html","311","185'x85' ice rink (60 seat cap)","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.07423336929885","50.98033280753998","
+,  
+(50.98033280753998, -114.07423336929885)"
+"Henry Viney Arena","Arena",,"810 13 AV NE","Recreation","Municipal","Recreation","Recreation","Stew Hendry and Henry Viney Arenas","https://www.calgary.ca/csps/recreation/arenas/Henry-Viney-Arena.html","311","185'x85' ice rink (150 seat cap) meeting room","0","N","N","0","0","1","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.04539929365575","51.065381708981114","
+,  
+(51.065381708981114, -114.04539929365575)"
+"MNP Community & Sport Centre","Leisure Centre",,"2225 MACLEOD TR SE","Civic Partner","Not-for-Profit","Recreation","Lindsay Park Sports Society","MNP Community & Sport Centre","https://mnpcentre.com/","403-233-8393","2 - 50m pools, teach pool, dive tank, 5 gyms, track, fitness/weights, 2 fitness studios, racquetball, badminton, hot tub, stream room","5","N","Y","5","0","0","Y","N","0","2","0","8","Y","N","N","N","Y","Y","Y","0","0","N","Y","Y","N","N","Y","N","N","N","0","0","0","N","N","0","N","0","0","Y","0","0","10","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.06334426212403","51.03457684779973","
+,  
+(51.03457684779973, -114.06334426212403)"
+"Carburn Park","Outdoor Skating Rink",,"67 RIVERVIEW DR SE","Parks","Municipal","Parks","Parks","Carburn Park","https://www.calgary.ca/CSPS/Parks/Pages/Locations/SE-parks/Carburn-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.02876572762848","50.974584527578656","
+,  
+(50.974584527578656, -114.02876572762848)"
+"Optimist Arena","Arena",,"5020 26 AV SW","Recreation","Municipal","Recreation","Recreation","Optimist and George Blundun Arenas","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Optimist-and-George-Blundun.aspx","311","185'x85' ice rink (300 seat cap) meeting room","0","N","N","0","0","1","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","Y","0","1","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.16012517887101","51.032295296362896","
+,  
+(51.032295296362896, -114.16012517887101)"
+"Stew Hendry Arena","Arena",,"810 13 AV NE","Recreation","Municipal","Recreation","Recreation","Stew Hendry and Henry Viney Arenas","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Stew-Hendry-and-Henry-Viney.aspx","311","185'x85' ice rink (400 seat cap)","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","Y","0","1","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.04469145488558","51.06517714598993","
+,  
+(51.06517714598993, -114.04469145488558)"
+"Father David Bauer Arena","Arena",,"2424 UNIVERSITY DR NW","Recreation","Municipal","Recreation","Recreation","Father David Bauer and Norma Bush Arenas","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Father-David-Bauer-and-Norma-Bush.aspx","311","200'x100' ice rink (1750 seat cap), meeting room","0","N","N","0","0","1","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","0","0","1","N","N","0","Y","0","1","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.12633323655585","51.07377112224782","
+,  
+(51.07377112224782, -114.12633323655585)"
+"Rose Kohn Arena","Arena",,"502 HERITAGE DR SW","Recreation","Municipal","Recreation","Recreation","Rose Kohn and Jimmy Condon Arenas","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Rose-Kohn-and-Jimmie-Condon.aspx","311","185'x85' ice rink (220 seat cap), 2 meeting rooms","0","N","N","0","0","2","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.07489486543146","50.980475031520946","
+,  
+(50.980475031520946, -114.07489486543146)"
+"George Blundun Arena","Arena",,"5020 26 AV SW","Recreation","Municipal","Recreation","Recreation","Optimist and George Blundun Arenas","https://www.calgary.ca/csps/recreation/arenas/George-Blunden.html","311","185'x85' ice rink (200 seat cap)","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.1600448888993","51.03197786015852","
+,  
+(51.03197786015852, -114.1600448888993)"
+"Norma Bush Arena","Arena",,"2424 UNIVERSITY DR NW","Recreation","Municipal","Recreation","Recreation","Father David Bauer and Norma Bush Arenas","https://www.calgary.ca/csps/recreation/arenas/norma-bush-arena.html","311","185'x85' ice rink (60 seat cap)","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","Y","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.12557356354604","51.07342935431052","
+,  
+(51.07342935431052, -114.12557356354604)"
+"Vecova Centre for Disability Services and Research","Leisure Centre",,"3304 33 ST NW","Vecova","Not-for-Profit","RE&DS (CLA)","Vecova Centre for Disability Services and Research","Vecova Centre for Disability Services and Research","https://vecova.ca/social-enterprise/recreation-centre/","403-284-2231","Salt-water pool, gym, 3 studios, 3 multi-purpose rooms","1","N","N","3","3","0","Y","N","0","0","0","0","N","N","Y","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.13255720652832","51.08220758166735","
+,  
+(51.08220758166735, -114.13255720652832)"
+"Max Bell Centre - Ken Bracko Arena","Arena",,"1001 BARLOW TR SE","Recreation","Municipal","Recreation","Recreation","Max Bell Centre","https://www.calgary.ca/csps/recreation/arenas/ken-bracko-arena/facility-features---ken-bracko-arena.html","311","1 ice rink (2121 seat cap), 3 meeting rooms","0","N","N","0","0","3","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","Y","N","N","Y","0","0","1","N","N","0","Y","0","1","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.00440868781527","51.04197576239041","
+,  
+(51.04197576239041, -114.00440868781527)"
+"Village Square - Wally Kozak Arena","Arena",,"2623 56 ST NE","Recreation","Municipal","Recreation","Recreation","Village Square and Wally Kozak Arenas","https://www.calgary.ca/csps/recreation/leisure-centres/village-square/arenas-village-square-leisure-centre.html","311","185'x85' ice rink","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.95490755261378","51.07548605847268","
+,  
+(51.07548605847268, -113.95490755261378)"
+"Southland - Ed Whale Arena","Arena",,"2000 SOUTHLAND DR SW","Recreation","Municipal","Recreation","Recreation","Ed Whalen and Joseph Kryczka Arenas","https://www.calgary.ca/csps/recreation/leisure-centres/southland/arenas-southland-leisure-centre.html","311","189'x85' ice rink (388 seat cap), pro shop","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.1073633478166","50.96237074308964","
+,  
+(50.96237074308964, -114.1073633478166)"
+"Village Square Arena #1","Arena",,"2623 56 ST NE","Recreation","Municipal","Recreation","Recreation","Village Square and Wally Kozak Arenas","https://www.calgary.ca/csps/recreation/leisure-centres/village-square/arenas-village-square-leisure-centre.html","311","185'x85' ice rink, 2 meeting rooms","0","N","N","0","0","2","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.95432987899305","51.07550722968179","
+,  
+(51.07550722968179, -113.95432987899305)"
+"Southland - Joseph Kryczka Arena","Arena",,"2000 SOUTHLAND DR SW","Recreation","Municipal","Recreation","Recreation","Ed Whalen and Joseph Kryczka Arenas","https://www.calgary.ca/csps/recreation/leisure-centres/southland/arenas-southland-leisure-centre.html","311","189'x85' ice rink (65 seat cap)","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.1076298875999","50.962692512906585","
+,  
+(50.962692512906585, -114.1076298875999)"
+"Inglewood Golf & Curling Club","Golf Course - Semi-Private",,"19 GOSLING WY SE","Private","Not-for-Profit","Parks","Inglewood Golf & Curling Club","Inglewood Golf & Curling Club","https://www.inglewoodgolfclub.ca/","403-272-4363","18 hole, driving range","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","Y","6","N","0","0","N","0","0","0","0","N","0","N","N","N","Y","Y","N","Y","N","N","N","N","Y","Y","-114.00212266214167","51.032606615602916","
+,  
+(51.032606615602916, -114.00212266214167)"
+"Cardel Rec South","Leisure Centre",,"#101 333 SHAWVILLE BV SE","SFCRA","Not-for-Profit","Parks","South Fish Creek Rec Association","Cardel Rec South","https://www.sfcra.com/","403-201-8652","4 ice rinks, gymnasium, 3 multi-purpose meeting rooms, Shawnessy YMCA","1","N","N","0","3","3","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","0","4","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.06366787572082","50.897018297233906","
+,  
+(50.897018297233906, -114.06366787572082)"
+"Olympic Plaza","Outdoor Skating Rink",,"228 8 AV SE","Parks","Municipal","Facility Management","Parks","Olympic Plaza","https://www.calgary.ca/CSPS/Parks/Pages/Locations/Downtown-parks/Olympic-Plaza.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.05893513403622","51.04582996633383","
+,  
+(51.04582996633383, -114.05893513403622)"
+"WinSport","Multi-Sport Facility",,"88 CANADA OLYMPIC RD SW","WinSport","Not-for-Profit","WinSport","WinSport","WinSport","https://www.winsport.ca/","403-247-5452",,"1","N","Y","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","0","3","1","Y","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","Y","-114.22088816585826","51.08448299250661","
+,  
+(51.08448299250661, -114.22088816585826)"
+"Remington YMCA in Quarry Park","Aquatic & Fitness Centre",,"108 QUARRY PARK RD SE","YMCA","Not-for-Profit","Recreation","Remington YMCA","Remington YMCA in Quarry Park","https://www.ymcacalgary.org/program-descriptions/locations/quarry-park/","403-351-6678","25m pool (6 lane), small leisure pool, fitness centre, fitness studios, indoor track, gym, large/small multi-purpose rooms","1","N","Y","1","2","0","Y","N","1","0","0","6","N","N","N","N","N","N","N","0","0","N","Y","Y","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","N","N","N","-114.00609174953063","50.9617471769241","
+,  
+(50.9617471769241, -114.00609174953063)"
+"Stu Peppard Arena","Arena",,"5320 19 ST SW","Recreation","Municipal","Water Resources","Recreation","Stu Peppard Arena","https://www.calgary.ca/CSPS/Recreation/Pages/Arenas/Stu-Peppard.aspx","311","185'x85' ice rink (550 seat cap)","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","N","N","0","Y","0","1","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.10373551195295","51.006386988429114","
+,  
+(51.006386988429114, -114.10373551195295)"
+"Rotary Challenger Park","Athletic Park",,"3688 48 AV NE","CRCPS","Not-for-Profit","Calgary Rotary Challenger Park Society","Calgary Rotary Challenger Park Society","Rotary Challenger Park","https://www.challengerpark.com/","403-250-2707","Soccer pitch, 2 softball diamonds, track, 2 tennis courts, basketball court, weights","0","N","Y","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","2","Y","0","Y","Y","N","N","N","N","N","N","N","N","Y","N","Y","-113.98352525042135","51.0991656892198","
+,  
+(51.0991656892198, -113.98352525042135)"
+"Shane Homes YMCA at Rocky Ridge","Multi-Sport Facility",,"11300 ROCKY RIDGE RD NW","YMCA","Not-for-Profit","Recreation","YMCA Calgary","Shane Homes YMCA at Rocky Ridge","https://www.ymcacalgary.org/program-descriptions/locations/shane-homes-ymca-at-rocky-ridge/","403-351-6673","25m pool, wave pool, 'lazy river', NHL ice, leisure rink, 3 gyms, strength and conditioning centre, 180m running track, climbing wall, 3 fitness studios","3","N","Y","3","0","0","Y","N","1","0","0","8","N","Y","N","N","N","N","N","0","0","N","N","Y","N","Y","Y","N","N","Y","0","1","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.23149830546488","51.15715638077237","
+,  
+(51.15715638077237, -114.23149830546488)"
+"Melcor YMCA at Crowfoot","Aquatic & Fitness Centre",,"8100 JOHN LAURIE BV NW","YMCA","Not-for-Profit","Parks","YMCA Calgary","Melcor YMCA at Crowfoot","https://www.ymcacalgary.org/program-descriptions/locations/crowfoot/","403-547-6576","25m pool, teach pool, fitness/weights, gym, fitness studio, multi-purpose rooms, steam rooms, hot tubs","1","N","Y","1","2","0","Y","N","1","0","0","6","Y","N","N","N","N","N","N","0","0","N","Y","Y","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.19573084394855","51.128810417266514","
+,  
+(51.128810417266514, -114.19573084394855)"
+"Crowchild Twin Arenas","Arena",,"185 SCENIC ACRES DR NW","CTAA","Not-for-Profit","Parks","Crowchild Twin Arena Assoc.","Crowchild Twin Arenas","http://www.crowchildtwinarena.net/","403-239-0171","2 ice rinks, 2 meeting rooms","0","N","N","0","0","2","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","2","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.21171899056458","51.11206120553401","
+,  
+(51.11206120553401, -114.21171899056458)"
+"South Health Campus YMCA","Fitness Centre",,"4448 FRONT ST SE","YMCA","Not-for-Profit","YMCA","South Health Campus YMCA","South Health Campus YMCA","https://www.ymcacalgary.org/program-descriptions/locations/south-health-campus/","403-956-3900","Strength & conditioning centre, running track, climbing wall, multipurpose spaces","0","N","Y","0","2","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","Y","Y","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-113.95086879364351","50.88190307033423","
+,  
+(50.88190307033423, -113.95086879364351)"
+"Silver Springs Outdoor Pool","Outdoor Pool",,"5720 SILVER RIDGE DR NW","COSPA","Not-for-Profit","Recreation","Silver Springs CA","Silver Springs Outdoor Pool","https://silverspringscommunity.ca/pool/","403-288-2616","Outdoor pool","0","N","N","0","0","0","N","Y","1","0","0","6","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.19234128956461","51.10404388490875","
+,  
+(51.10404388490875, -114.19234128956461)"
+"Genesis Centre of Community Wellness","Leisure Centre",,"7556 FALCONRIDGE BV NE","Genesis","Not-for-Profit","Parks","North East Centre of Community Society","Genesis Centre of Community Wellness","https://www.genesis-centre.ca/","403-590-2833","2 field houses (1 dry pad), gym, 2 multi-purpose rooms, soccer pitches","4","N","N","0","2","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","Y","0","2","N","0","0","0","0","Y","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-113.9492812276862","51.12067737466989","
+,  
+(51.12067737466989, -113.9492812276862)"
+"Ernest Manning Athletic Park","Athletic Park",,"20 SPRINGBOROUGH BV SW","Recreation","Municipal","Parks","Recreation","Ernest Manning Athletic Park","https://www.calgary.ca/CSPS/Recreation/Pages/Athletic-parks/Ernest-Manning-athletic-park.aspx","311","Artificial turf for football, soccer, field lacrosse, ultimate, field hockey, rugby, special events/tournaments","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","1","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.19214580697066","51.036423225340805","
+,  
+(51.036423225340805, -114.19214580697066)"
+"Glenmore Athletic Park","Athletic Park",,"5300 19 ST SW","Recreation","Municipal","Water Resources","Recreation","Glenmore Athletic Park","https://www.calgary.ca/csps/recreation/pages/athletic-parks/glenmore-athletic-park.aspx","311","5 soccer fields, 2 softball diamonds, 1 soccer/football field, touch football field, 4 flag football or a soccer field, baseball diamond, track, velodrome, shot put","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","Y","0","Y","Y","N","N","N","N","N","N","N","Y","N","N","N","-114.10267724722135","51.007398552276776","
+,  
+(51.007398552276776, -114.10267724722135)"
+"Variety Park Spray Park","Spray Park",,"9035 24 ST SW","Parks","Municipal","Water Resources","Parks","Variety Park Spray Park","https://www.calgary.ca/CSPS/Parks/Pages/Locations/SW-parks/South-Glenmore-Park.aspx",,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","Y","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","Y","N","N","-114.12165288037241","50.9742674679489","
+,  
+(50.9742674679489, -114.12165288037241)"
+"Wingfield Golf Club","Golf Course - Semi-Private",,"3434 48 AV NE","Private","Profit","Province","Wingfield Golf Club","Wingfield Golf Club","https://www.wingfieldgolf.ca/","403-269-8005","18 hold, 9 hole, driving range","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","Y","Y","Y","Y","N","N","N","N","Y","Y","-113.99054482835064","51.100630539563205","
+,  
+(51.100630539563205, -113.99054482835064)"
+"East Calgary Twin Arenas","Arena",,"299 ERIN WOODS DR SE","ECTAS","Not-for-Profit","Parks","East Calgary Twin Arena Society","East Calgary Twin Arenas","http://eastcalgary.ca/","403-273-8919","2 ice rinks","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","2","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-113.96444049891375","51.02659495815984","
+,  
+(51.02659495815984, -113.96444049891375)"
+"Great Plains Recreation Facility","Arena",,"5749 76 AV SE","CFSDA","Not-for-Profit","Recreation","Canlan Ice Sports","Great Plains Recreation Facility","https://www.cfsda.ca/","403-476-5500","2 ice surfaces, meeting room, dryland training space","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","2","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","N","N","N","-113.94786718034588","50.98439781566385","
+,  
+(50.98439781566385, -113.94786718034588)"
+"Calgary Soccer Centre","Soccer Centre",,"7000 48 ST SE","Recreation","Municipal","Parks","Recreation","Calgary Soccer Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Calgary-Soccer-Centre/Calgary-Soccer-Centre.aspx","403-279-8445","8 indoor regulation fields, 3 outdoor turf fields, natural outdoor turf field","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","Y","8","0","N","0","0","0","0","Y","3","N","N","N","N","N","N","N","N","N","Y","N","N","N","-113.96092820227722","50.99244324407987","
+,  
+(50.99244324407987, -113.96092820227722)"
+"Shawnessy YMCA","Aquatic & Fitness Centre",,"#400 333 SHAWVILLE BV SE","YMCA","Not-for-Profit","Parks","YMCA Calgary","Shawnessy YMCA","https://www.ymcacalgary.org/program-descriptions/locations/shawnessy/","403-256-5533","Pool, teach pool, fitness/weights, gym, running track, fitness studio, multi-purpose room, climbing wall, hot tub, steam rooms","1","N","Y","1","1","0","Y","N","1","0","0","6","Y","N","N","N","N","N","N","0","0","N","Y","Y","N","Y","Y","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.06455201901734","50.89811407016885","
+,  
+(50.89811407016885, -114.06455201901734)"
+"Westside Recreation Centre","Leisure Centre",,"2000 69 ST SW","Westside Rec.","Not-for-Profit","Recreation","Westside Regional Recreation Society","Westside Recreation Centre","https://www.westsiderec.com/","403-531-5875","Ice rink, waterslide, lazy river, tot pool, slide, climbing wall, fitness/weights, fitness studio, track, 2 gyms, hot tub, water slide, steam room, wave pool","3","N","Y","5","0","0","Y","N","1","0","0","4","N","Y","N","Y","N","N","N","0","1","N","Y","Y","N","Y","Y","N","N","Y","0","1","0","N","N","0","N","0","0","N","0","0","2","0","Y","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.18556555698702","51.0357133960991","
+,  
+(51.0357133960991, -114.18556555698702)"
+"Brookfield Residential YMCA at Seton","Multi-Sport Facility",,"4995 MARKET ST SE","YMCA","Not-for-Profit","Recreation","YMCA Calgary","Brookfield Residential YMCA at Seton","https://www.ymcacalgary.org/program-descriptions/locations/brookfield-residential-ymca-at-seton/","403-351-5262","50m pool, diving, water park, leisure pool, 2 ice rinks, 3 gyms, fitness centre, fitness/aerobics studios, 200m track","3","N","Y","1","1","1","Y","N","0","1","0","10","N","N","Y","N","N","N","Y","0","0","N","Y","Y","N","N","Y","N","N","Y","0","2","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-113.94576602412361","50.87963814817932","
+,  
+(50.87963814817932, -113.94576602412361)"
+"Don Hartman North East Sportsplex","Arena",,"5200 68 ST NE","NESS","Not-for-Profit","Parks","North East Sportsplex Society","Don Hartman North East Sportsplex","https://www.nesportsplex.com/","403-590-2444","2 ice rinks, gym, fitness/weights","1","N","Y","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","0","2","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-113.9335897881853","51.102342414351796","
+,  
+(51.102342414351796, -113.9335897881853)"
+"Jack Setters Arena","Arena",,"2020 69 AV SE","CA","Not-for-Profit","Recreation","Millican Ogden CA","Jack Setters Arena",,"403-236-3727","Ice rink","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","Y","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.01241455802797","50.99175618377254","
+,  
+(50.99175618377254, -114.01241455802797)"
+"Glenmore Sailing School","Sailing School",,"8003 14 ST SW","Recreation","Municipal","Water Resources","Recreation","Glenmore Sailing School","https://www.calgary.ca/CSPS/Recreation/Pages/Sailing-school/Glenmore-Sailing-School.aspx","311",,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.11943214496678","50.97502128542121","
+,  
+(50.97502128542121, -114.11943214496678)"
+"Trico Centre for Family Wellness","Leisure Centre",,"11150 BONAVENTURE DR SE","FLCASC","Not-for-Profit","Parks","Family Leisure Centre Assoc. of Southeast Calgary","Trico Centre for Family Wellness","https://www.tricocentre.ca/","403-278-7542","2 ice rinks, running track, fitness/weights, gym, 3 fitness studios, hot tub, steam room, wave pool, meeting rooms","1","N","Y","2","5","6","Y","N","0","0","0","0","N","Y","N","N","N","N","N","0","0","N","Y","Y","N","N","Y","N","N","Y","0","2","0","N","N","0","N","0","0","N","0","0","0","0","N","0","Y","N","N","N","N","N","N","N","N","N","Y","N","N","-114.05894653189088","50.95224606373595","
+,  
+(50.95224606373595, -114.05894653189088)"
+"Calgary Canoe Club","Canoe & Rowing Club",,"7550 CROWCHILD TR SW","SRG","Not-for-Profit","Parks","Calgary Canoe Club","Calgary Canoe & Rowing Club","https://calgarycanoeclub.com/","403-246-5757",,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.11736588584114","50.98647579324298","
+,  
+(50.98647579324298, -114.11736588584114)"
+"Eaglequest Golf Douglasdale","Golf Course - Public",,"7 DOUGLAS WOODS DR SE","Private","Profit","Eaglequest Golf Douglasdale","Eaglequest Golf","Douglasdale Eaglequest Golf Course","https://www.eaglequestgolf.com/douglasdale/","403-279-7913","18 hole, driving range","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","Y","Y","N","Y","N","N","N","N","Y","Y","-114.00359907570717","50.945707439498186","
+,  
+(50.945707439498186, -114.00359907570717)"
+"Vivo for Healthier Generations","Leisure Centre",,"11950 COUNTRY VILLAGE LI NE","VHGS","Not-for-Profit","Recreation","Vivo for Healthier Generations Society","Vivo for Healthier Generations","https://www.vivo.ca/","403-532-1013","2 ice rinks, 2 - 25m pools, tots pool, fitness/weights, 3 gyms, badminton, climbing wall, multi-purpose room, steam room, hot tub","3","N","Y","0","0","1","Y","N","1","0","0","2","N","N","N","Y","N","N","N","0","0","N","Y","Y","N","Y","N","N","N","Y","0","2","0","N","N","0","N","0","0","Y","0","0","3","0","Y","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.06554713253834","51.15951898680296","
+,  
+(51.15951898680296, -114.06554713253834)"
+"Westside Skatepark","Skate Park",,"2200 69 ST SW","Westside Rec","Not-for-Profit","Parks","Westside Regional Recreation Society","Westside Skatepark",,,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.18703196916303","51.03420060029307","
+,  
+(51.03420060029307, -114.18703196916303)"
+"Saddletowne YMCA","Aquatic & Fitness Centre",,"7556 FALCONRIDGE BV NE","YMCA","Not-for-Profit","Parks","YMCA Calgary","Saddletowne YMCA","https://www.ymcacalgary.org/program-descriptions/locations/saddletowne/","403-237-2393","25m pool, teach pool, fitness/weights, track, gym, climbing wall, 2 fitness studios, hot tub, steam rooms","1","N","Y","2","0","0","Y","N","1","0","0","6","Y","N","N","N","N","N","N","0","0","N","Y","Y","N","Y","Y","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-113.94784579007758","51.120313477410804","
+,  
+(51.120313477410804, -113.94784579007758)"
+"Wildflower Arts Centre","Art Centre",,"3363 SPRUCE DR SW","Recreation","Municipal","Private","Recreation","Wildflower Arts Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Arts-centres/Wildflower.aspx","403-249-3773",,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.13553382353848","51.0462724115184","
+,  
+(51.0462724115184, -114.13553382353848)"
+"Rocky Ridge Skatepark","Skate Park",,"11300 ROCKY RIDGE RD NW","Parks","Municipal","Recreation","Shane Homes YMCA at Rocky Ridge","Rocky Ridge Skatepark",,,,"0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.22897627106519","51.15621410857679","
+,  
+(51.15621410857679, -114.22897627106519)"
+"Crowfoot Arena","Arena",,"8080 JOHN LAURIE BV NW","CMHA","Not-for-Profit","Parks","Crowfoot Minor Hockey Assoc.","Crowfoot Arena","http://www.crowfootarena.com/","403-241-1818","Ice rink","0","N","N","0","0","0","N","N","0","0","0","0","N","N","N","N","N","N","N","0","0","N","N","N","N","N","N","N","N","Y","1","0","0","Y","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","N","Y","N","N","-114.19505550981661","51.12855089346997","
+,  
+(51.12855089346997, -114.19505550981661)"
+"Glenmore Aquatic Centre","Aquatic - Flat Water","1","5330 19 ST SW","Recreation","Municipal","Water Resources","Recreation","Glenmore Aquatic Centre","https://www.calgary.ca/CSPS/Recreation/Pages/Pools/Glenmore.aspx","311","25m pool (6 lane), 1m dive tank & 2m slide dive, hot tub, multi-purpose room","0","N","N","0","1","0","Y","N","1","0","0","6","N","N","N","N","Y","Y","N","1","0","N","N","Y","N","N","N","N","N","N","0","0","0","N","N","0","N","0","0","N","0","0","0","0","N","0","N","N","N","N","N","N","N","N","N","Y","N","N","N","-114.10541148452486","51.00623500289351","
+,  
+(51.00623500289351, -114.10541148452486)"

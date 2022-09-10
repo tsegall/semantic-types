@@ -1,0 +1,74 @@
+Hospital Name,Patient Days,Observed Infections,Predicted Infections,2016 SIR,SIR 95% CI,SIR Interpretation (2015 US Baseline),2020 HHS Targets,County,HPP Region,Location 1,SIR Icon,Benchmark Icon,2010 House Districts,2010 Senate Districts,Counties
+Coquille Valley Hospital District,2028,5,0.92,*,*,#s too small to calculate,,COOS,Region3,"940 EAST 5TH STREET
+COQUILLE 97423
+(43.1794727, -124.1793669)",,,1,1,2320
+Curry General Hospital,838,1,0.23,*,*,#s too small to calculate,,CURRY,Region3,"94220 4TH STREET
+GOLD BEACH 97444
+(42.4113416, -124.4184903)",,,1,1,2321
+Harney District Hospital,1608,1,0.36,*,*,#s too small to calculate,,HARNEY,Region7,"557 WEST WASHINGTON STREET
+BURNS 97720
+(43.5884119, -119.0600643)",,,60,30,720
+ 1. All Oregon,71531,35,25.7,    1.362,"0.963, 1.873",More infections,Target Not Met,,,,https://data.oregon.gov/views/4a33-vkac/files/d29cc813-dd17-4de4-9660-98f95a2c9730,,,,
+Cottage Grove Community Hospital,1487,0,0.33,*,*,#s too small to calculate,ZERO Infections,LANE,Region3,"1515 VILLAGE DRIVE
+COTTAGE GROVE 97424
+(43.8037061, -123.0394123)",,https://data.oregon.gov/views/4a33-vkac/files/8d51cb74-3d98-4b76-80a8-cc49811e12c9,7,4,2371
+Lake District Hospital,2696,0,0.6,*,*,#s too small to calculate,ZERO Infections,LAKE,Region7,"700 SOUTH J STREET
+LAKEVIEW 97630
+(42.1815442, -120.3526116)",,https://data.oregon.gov/views/4a33-vkac/files/bbda6950-97cd-4117-bce1-022c272f35d7,56,28,2370
+Lower Umpqua Hospital District,1741,0,0.5,*,*,#s too small to calculate,ZERO Infections,DOUGLAS,Region3,"600 RANCH ROAD
+REEDSPORT 97467
+(43.6945818, -124.1364273)",,https://data.oregon.gov/views/4a33-vkac/files/ff4a18c9-3f07-46b2-868c-884665f8333d,9,5,2363
+Pioneer Memorial Hospital - Heppner,707,0,0.16,*,*,#s too small to calculate,ZERO Infections,MORROW,Region9,"564 EAST PIONEER DRIVE
+HEPPNER 97836
+(45.356098, -119.5487602)",,https://data.oregon.gov/views/4a33-vkac/files/abbc2ad1-6c80-4ccf-bf8a-61341b392b44,57,29,722
+St. Alphonsus Medical Center - Baker City,2700,0,0.6,*,*,#s too small to calculate,ZERO Infections,BAKER,Region9,"3325 POCAHONTAS ROAD
+BAKER CITY 97814
+(44.794763, -117.846872)",,https://data.oregon.gov/views/4a33-vkac/files/309bae4b-ea32-4dc9-8e5f-df4bb4a36c35,60,30,2315
+Good Shepherd Medical Center,4212,2,1.91,    1.046,"0.175, 3.455",More infections,Target Not Met,UMATILLA,Region9,"610 NORTHWEST 11TH STREET
+HERMISTON 97838
+(45.8468145, -119.3084334)",https://data.oregon.gov/views/4a33-vkac/files/05063b19-c7a9-4002-9097-8e9edb6b57f6,,57,29,2413
+Grande Ronde Hospital,4951,2,2.25,    0.890,"0.149, 2.939",Fewer infections,Target Not Met,UNION,Region9,"900 SUNSET DRIVE
+LA GRANDE 97850
+(45.3195774, -118.1084603)",https://data.oregon.gov/views/4a33-vkac/files/c89582a9-ebf1-4f5d-976b-46896eec3602,,58,29,2414
+Peace Harbor Hospital,3658,4,1.23,    3.245,"1.031, 7.827",Statistically more infections,Target Not Met,LANE,Region3,"400 9TH STREET
+FLORENCE 97439
+(43.9731003, -124.1174552)",https://data.oregon.gov/views/4a33-vkac/files/0040c593-736c-4f9b-aa8d-d0c004f2fc69,,9,5,2371
+Pioneer Memorial Hospital - Prineville,2594,2,1.18,    1.698,"0.285, 5.610",More infections,Target Not Met,CROOK,Region7,"1201 NORTHEAST ELM STREET
+PRINEVILLE 97754
+(44.3102605, -120.843538)",https://data.oregon.gov/views/4a33-vkac/files/dd6bc5e2-e8ca-4247-b826-e4e0f4939bda,,55,28,719
+Samaritan Lebanon Community Hospital,5856,7,2.29,    3.058,"1.337, 6.049",Statistically more infections,Target Not Met,LINN,Region2,"525 NORTH SANTIAM HIGHWAY
+LEBANON 97355
+(44.5510546, -122.9068699)",https://data.oregon.gov/views/4a33-vkac/files/e1b74efb-bd70-4e23-b980-2c4da3f2bc12,,17,9,2407
+Samaritan North Lincoln Hospital,3373,2,1.34,    1.496,"0.251, 4.942",More infections,Target Not Met,LINCOLN,Region2,"3043 NORTHEAST 28TH STREET
+LINCOLN CITY 97367
+(44.9855152, -123.9963271)",https://data.oregon.gov/views/4a33-vkac/files/66c462d6-2720-4fda-bb71-3cc039b243da,,10,5,2372
+Samaritan Pacific Communitites Hospital,4936,2,1.65,    1.213,"0.203, 4.009",More infections,Target Not Met,LINCOLN,Region2,"930 SOUTHWEST ABBEY STREET
+NEWPORT 97365
+(44.6291047, -124.0597775)",https://data.oregon.gov/views/4a33-vkac/files/188b15cd-38fc-4c25-8600-400b7e88f065,,10,5,2372
+Tillamook County Hospital,5326,4,1.81,    2.215,"0.704, 5.342",More infections,Target Not Met,TILLAMOOK,Region2,"1000 3RD STREET
+TILLAMOOK 97141
+(45.4566359, -123.8544868)",https://data.oregon.gov/views/4a33-vkac/files/eead81bc-f278-4f3c-bc04-b7bc57860566,,32,16,2412
+Wallowa Memorial Hospital,2529,1,1,    0.998,"0.050, 4.924",Fewer infections,Target Not Met,WALLOWA,Region9,"601 MEDICAL PARKWAY
+ENTERPRISE 97828
+(45.4323835, -117.2846171)",https://data.oregon.gov/views/4a33-vkac/files/e8118f63-9e8e-486b-b444-45cfd3801162,,58,29,2450
+Blue Mountain Hospital,354,0,0.08,*,*,#s too small to calculate,ZERO Infections,GRANT,Region7,"170 FORD ROAD
+JOHN DAY 97845
+(44.417134, -118.9595777)",,https://data.oregon.gov/views/4a33-vkac/files/306a458c-4241-4689-adb6-cc7a8d986637,60,30,2365
+West Valley Hospital,140,0,0.03,*,*,#s too small to calculate,ZERO Infections,POLK,Region2,"525 SOUTHEAST WASHINGTON STREET
+DALLAS 97338
+(44.9189212, -123.3103345)",,https://data.oregon.gov/views/4a33-vkac/files/f9437724-d342-4711-a719-d7e1751a74fe,23,12,723
+Columbia Memorial Hospital,4401,0,1.25,    0.000," , 2.388",Fewer infections,SIR Target (<0.7) Met & ZERO Infections,CLATSOP,Region1,"2111 EXCHANGE STREET
+ASTORIA 97103
+(46.1877604, -123.8190951)",https://data.oregon.gov/views/4a33-vkac/files/caa7e91e-3608-4ec8-8340-1b9c9e2a3eb6,https://data.oregon.gov/views/4a33-vkac/files/2e618a57-bff6-4c8e-8911-19e37d32c446,32,16,2318
+St. Charles Medical Center - Madras,2700,0,0.91,*,*,#s too small to calculate,ZERO Infections,JEFFERSON,Region7,"470 NE A STREET
+MADRAS 97741
+(44.637408, -121.120344)",,https://data.oregon.gov/views/4a33-vkac/files/df59ee35-c8c6-48aa-8f36-c6f95a34a41d,59,30,721
+St. Anthony Hospital,4586,1,1.83,    0.546,"0.027, 2.692",Fewer infections,SIR Target (<0.7) Met,UMATILLA,Region9,"2801 st. anthony way
+PENDLETON 97801
+(45.648587, -118.812262)",https://data.oregon.gov/views/4a33-vkac/files/ae1c2428-db21-44c0-bcbd-a2503e59e364,https://data.oregon.gov/views/4a33-vkac/files/d3886b97-1311-4261-b752-1dc75cf6879b,58,29,2413
+Providence Hood River Memorial Hospital,4521,1,2.05,    0.487,"0.024, 2.403",Fewer infections,SIR Target (<0.7) Met,HOOD RIVER,Region6,"810 12TH STREET
+HOOD RIVER 97031
+(45.7048557, -121.5243182)",https://data.oregon.gov/views/4a33-vkac/files/8c7e3d15-a0be-41b1-8cb2-01287ce210bd,https://data.oregon.gov/views/4a33-vkac/files/a0cfd62f-ddba-45a0-a3c6-895e85c8eb68,52,26,2366
+Providence Seaside Hospital,3589,0,1.21,    0.000," , 2.476",Fewer infections,SIR Target (<0.7) Met & ZERO Infections,CLATSOP,Region1,"725 SOUTH WAHANNA ROAD
+SEASIDE 97138
+(45.9890003, -123.9120832)",https://data.oregon.gov/views/4a33-vkac/files/7d735236-43d6-40d1-9523-9e304c3db6cd,https://data.oregon.gov/views/4a33-vkac/files/0a82a811-783b-47f8-9969-0fd70d2f8fb6,32,16,2318

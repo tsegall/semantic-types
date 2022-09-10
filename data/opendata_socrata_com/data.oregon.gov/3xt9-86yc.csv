@@ -1,0 +1,183 @@
+Hospital Name,Hospital Location,Catheter Days,Observed Infections,Predicted Infections,2016 SIR,SIR 95% CI,SIR Interpretation (2015 US Baseline),2020 HHS Targets,County,HPP Region,Location 1,SIR Icon,Benchmark Icon
+ 1. All Oregon,Adult Medical ICUs,141,0,0.344,*,,#s too small to calculate,,,,,,
+ 1. All Oregon,Adult Medical Wards,136,0,0.275,*,,#s too small to calculate,,,,,,
+Columbia Memorial Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,903,1,0.59,*,*,#s too small to calculate,,CLATSOP,Region1,"2111 EXCHANGE STREET
+ASTORIA 97103
+(46.1877604, -123.8190951)",,
+Columbia Memorial Hospital,Adult Medical/Surgical Wards,700,1,0.46,*,*,#s too small to calculate,,CLATSOP,Region1,"2111 EXCHANGE STREET
+ASTORIA 97103
+(46.1877604, -123.8190951)",,
+ 1. All Oregon,Adult Medical/Surgical Wards,8447,6,7.584,0.791,"0.321 , 1.645",Fewer infections,Target Not Met,,,,https://data.oregon.gov/views/3xt9-86yc/files/924447fa-5fa7-4932-98c2-ca5930298daa,
+Columbia Memorial Hospital,Adult Medical/Surgical ICUs,203,0,0.13,*,*,#s too small to calculate,ZERO Infections,CLATSOP,Region1,"2111 EXCHANGE STREET
+ASTORIA 97103
+(46.1877604, -123.8190951)",,https://data.oregon.gov/views/3xt9-86yc/files/ac2736c5-ee6e-49a2-a457-2550fd0f290f
+Coquille Valley Hospital District,All Adult/Ped ICUs & M/S/MS Wards Combined*,447,0,0.29,*,*,#s too small to calculate,ZERO Infections,COOS,Region3,"940 EAST 5TH STREET
+COQUILLE 97423
+(43.1794727, -124.1793669)",,https://data.oregon.gov/views/3xt9-86yc/files/2e0e29ee-17bd-461a-bd9e-a30dd094167f
+Harney District Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,174,0,0.11,*,*,#s too small to calculate,ZERO Infections,HARNEY,Region7,"557 WEST WASHINGTON STREET
+BURNS 97720
+(43.5884119, -119.0600643)",,https://data.oregon.gov/views/3xt9-86yc/files/baa25441-8800-497e-92e8-5f5e5c3379f5
+Harney District Hospital,Adult Medical/Surgical ICUs,5,0,0,*,*,#s too small to calculate,ZERO Infections,HARNEY,Region7,"557 WEST WASHINGTON STREET
+BURNS 97720
+(43.5884119, -119.0600643)",,https://data.oregon.gov/views/3xt9-86yc/files/2f092375-527e-4e1a-919e-760688be3955
+Cottage Grove Community Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,104,0,0.25,*,*,#s too small to calculate,ZERO Infections,LANE,Region3,"1515 VILLAGE DRIVE
+COTTAGE GROVE 97424
+(43.8037061, -123.0394123)",,https://data.oregon.gov/views/3xt9-86yc/files/a59faa30-db61-451d-83e1-fd62af84c2dc
+Harney District Hospital,Adult Medical/Surgical Wards,169,0,0.11,*,*,#s too small to calculate,ZERO Infections,HARNEY,Region7,"557 WEST WASHINGTON STREET
+BURNS 97720
+(43.5884119, -119.0600643)",,https://data.oregon.gov/views/3xt9-86yc/files/107798a3-e9d8-4ddd-a78d-1e02406dcb39
+Cottage Grove Community Hospital,Adult Medical Wards,104,0,0.25,*,*,#s too small to calculate,ZERO Infections,LANE,Region3,"1515 VILLAGE DRIVE
+COTTAGE GROVE 97424
+(43.8037061, -123.0394123)",,https://data.oregon.gov/views/3xt9-86yc/files/062a3583-c6de-4334-9811-162239fb188b
+Curry General Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,204,0,0.13,*,*,#s too small to calculate,ZERO Infections,CURRY,Region3,"94220 4TH STREET
+GOLD BEACH 97444
+(42.4113416, -124.4184903)",,https://data.oregon.gov/views/3xt9-86yc/files/54d0dcff-e3e2-4122-a48d-379f0710106e
+Curry General Hospital,Adult Medical/Surgical Wards,204,0,0.13,*,*,#s too small to calculate,ZERO Infections,CURRY,Region3,"94220 4TH STREET
+GOLD BEACH 97444
+(42.4113416, -124.4184903)",,https://data.oregon.gov/views/3xt9-86yc/files/2f62f602-198b-4290-a080-2307f0dab07e
+Good Shepherd Medical Center,All Adult/Ped ICUs & M/S/MS Wards Combined*,933,0,2.28,    0.000," , 1.314",Fewer infections,SIR Target (<0.75) Met & ZERO Infections,UMATILLA,Region9,"610 NORTHWEST 11TH STREET
+HERMISTON 97838
+(45.8468145, -119.3084334)",https://data.oregon.gov/views/3xt9-86yc/files/2df12c4e-c0eb-41d9-8125-53839e0b4758,https://data.oregon.gov/views/3xt9-86yc/files/8b5fa3a3-c703-4395-9d1a-f514fdd26470
+Good Shepherd Medical Center,Adult Medical/Surgical Wards,933,0,2.28,    0.000," , 1.314",Fewer infections,SIR Target (<0.75) Met & ZERO Infections,UMATILLA,Region9,"610 NORTHWEST 11TH STREET
+HERMISTON 97838
+(45.8468145, -119.3084334)",https://data.oregon.gov/views/3xt9-86yc/files/c2f0579e-bbce-4d95-9d63-f9b50abd60f2,https://data.oregon.gov/views/3xt9-86yc/files/4d77e848-0b4a-431c-a712-0a3cecfe3ecc
+Grande Ronde Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,837,0,0.55,*,*,#s too small to calculate,ZERO Infections,UNION,Region9,"900 SUNSET DRIVE
+LA GRANDE 97850
+(45.3195774, -118.1084603)",,https://data.oregon.gov/views/3xt9-86yc/files/31af2027-a69a-41a1-8137-dd5953d65943
+Grande Ronde Hospital,Adult Medical/Surgical ICUs,334,0,0.22,*,*,#s too small to calculate,ZERO Infections,UNION,Region9,"900 SUNSET DRIVE
+LA GRANDE 97850
+(45.3195774, -118.1084603)",,https://data.oregon.gov/views/3xt9-86yc/files/8e190540-8ffd-44f5-ba74-3fc36a0f217d
+Pioneer Memorial Hospital - Prineville,All Adult/Ped ICUs & M/S/MS Wards Combined*,135,1,0.09,*,*,#s too small to calculate,,CROOK,Region7,"1201 NORTHEAST ELM STREET
+PRINEVILLE 97754
+(44.3102605, -120.843538)",,
+Pioneer Memorial Hospital - Prineville,Adult Medical/Surgical Wards,116,1,0.08,*,*,#s too small to calculate,,CROOK,Region7,"1201 NORTHEAST ELM STREET
+PRINEVILLE 97754
+(44.3102605, -120.843538)",,
+Providence Seaside Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,363,1,0.89,*,*,#s too small to calculate,,CLATSOP,Region1,"725 SOUTH WAHANNA ROAD
+SEASIDE 97138
+(45.9890003, -123.9120832)",,
+Providence Seaside Hospital,Adult Medical/Surgical Wards,222,1,0.54,*,*,#s too small to calculate,,CLATSOP,Region1,"725 SOUTH WAHANNA ROAD
+SEASIDE 97138
+(45.9890003, -123.9120832)",,
+Lake District Hospital,Adult Medical/Surgical Wards,673,0,0.44,*,*,#s too small to calculate,ZERO Infections,LAKE,Region7,"700 SOUTH J STREET
+LAKEVIEW 97630
+(42.1815442, -120.3526116)",,https://data.oregon.gov/views/3xt9-86yc/files/cca60ad7-2333-40e3-9046-af825ef33e99
+Lower Umpqua Hospital District,All Adult/Ped ICUs & M/S/MS Wards Combined*,578,0,0.38,*,*,#s too small to calculate,ZERO Infections,DOUGLAS,Region3,"600 RANCH ROAD
+REEDSPORT 97467
+(43.6945818, -124.1364273)",,https://data.oregon.gov/views/3xt9-86yc/files/d2df8f89-a652-4ef9-8fa7-c665776398ef
+Lower Umpqua Hospital District,Adult Medical/Surgical Wards,578,0,0.38,*,*,#s too small to calculate,ZERO Infections,DOUGLAS,Region3,"600 RANCH ROAD
+REEDSPORT 97467
+(43.6945818, -124.1364273)",,https://data.oregon.gov/views/3xt9-86yc/files/4aa00270-533f-4a40-bfcf-35d5128d0ae6
+Peace Harbor Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,424,0,0.28,*,*,#s too small to calculate,ZERO Infections,LANE,Region3,"400 9TH STREET
+FLORENCE 97439
+(43.9731003, -124.1174552)",,https://data.oregon.gov/views/3xt9-86yc/files/cf0f2f5a-b1f3-48a3-883d-3cfd0347de51
+Peace Harbor Hospital,Adult Medical/Surgical ICUs,177,0,0.12,*,*,#s too small to calculate,ZERO Infections,LANE,Region3,"400 9TH STREET
+FLORENCE 97439
+(43.9731003, -124.1174552)",,https://data.oregon.gov/views/3xt9-86yc/files/eecc2014-3fe9-48b6-8c01-7eb55c4dbe88
+Peace Harbor Hospital,Adult Medical/Surgical Wards,247,0,0.16,*,*,#s too small to calculate,ZERO Infections,LANE,Region3,"400 9TH STREET
+FLORENCE 97439
+(43.9731003, -124.1174552)",,https://data.oregon.gov/views/3xt9-86yc/files/37c34c8e-ec59-4132-82cf-c1665d614e68
+Pioneer Memorial Hospital - Heppner,All Adult/Ped ICUs & M/S/MS Wards Combined*,32,0,0.02,*,*,#s too small to calculate,ZERO Infections,MORROW,Region9,"564 EAST PIONEER DRIVE
+HEPPNER 97836
+(45.356098, -119.5487602)",,https://data.oregon.gov/views/3xt9-86yc/files/8fe2ce59-ee2e-4d84-88de-ce8f0d43b617
+Pioneer Memorial Hospital - Heppner,Adult Medical Wards,32,0,0.02,*,*,#s too small to calculate,ZERO Infections,MORROW,Region9,"564 EAST PIONEER DRIVE
+HEPPNER 97836
+(45.356098, -119.5487602)",,https://data.oregon.gov/views/3xt9-86yc/files/c7d05eb3-648f-4b96-9314-0efc4d20e5bb
+Providence Hood River Memorial Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,492,0,0.32,*,*,#s too small to calculate,ZERO Infections,HOOD RIVER,Region6,"810 12TH STREET
+HOOD RIVER 97031
+(45.7048557, -121.5243182)",,https://data.oregon.gov/views/3xt9-86yc/files/ac05ca8e-98a7-45ff-93dc-0322244b7f8b
+St. Anthony Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,847,1,0.55,*,*,#s too small to calculate,,UMATILLA,Region9,"2801 st. anthony way
+PENDLETON 97801
+(45.648587, -118.812262)",,
+St. Anthony Hospital,Adult Medical/Surgical Wards,445,1,0.29,*,*,#s too small to calculate,,UMATILLA,Region9,"2801 st. anthony way
+PENDLETON 97801
+(45.648587, -118.812262)",,
+Tillamook County Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,924,2,0.6,*,*,#s too small to calculate,,TILLAMOOK,Region2,"1000 3RD STREET
+TILLAMOOK 97141
+(45.4566359, -123.8544868)",,
+Tillamook County Hospital,Adult Medical/Surgical Wards,796,2,0.52,*,*,#s too small to calculate,,TILLAMOOK,Region2,"1000 3RD STREET
+TILLAMOOK 97141
+(45.4566359, -123.8544868)",,
+St. Charles Medical Center - Madras,Adult Medical/Surgical ICUs,3,0,0,*,*,#s too small to calculate,ZERO Infections,JEFFERSON,Region7,"470 NE A STREET
+MADRAS 97741
+(44.637408, -121.120344)",,https://data.oregon.gov/views/3xt9-86yc/files/457ab6a6-d828-4735-8fc8-7fa71e64c580
+Samaritan North Lincoln Hospital,Adult Medical/Surgical ICUs,246,0,0.16,*,*,#s too small to calculate,ZERO Infections,LINCOLN,Region2,"3043 NORTHEAST 28TH STREET
+LINCOLN CITY 97367
+(44.9855152, -123.9963271)",,https://data.oregon.gov/views/3xt9-86yc/files/a40f2706-9e9c-48c8-a306-e563151b895f
+Samaritan North Lincoln Hospital,Adult Medical/Surgical Wards,257,0,0.17,*,*,#s too small to calculate,ZERO Infections,LINCOLN,Region2,"3043 NORTHEAST 28TH STREET
+LINCOLN CITY 97367
+(44.9855152, -123.9963271)",,https://data.oregon.gov/views/3xt9-86yc/files/819c2a66-5d83-4062-8afc-fce80a08818a
+Tillamook County Hospital,Adult Medical/Surgical ICUs,128,0,0.08,*,*,#s too small to calculate,ZERO Infections,TILLAMOOK,Region2,"1000 3RD STREET
+TILLAMOOK 97141
+(45.4566359, -123.8544868)",,https://data.oregon.gov/views/3xt9-86yc/files/6f9ff44e-ff6b-4938-8bbc-b2ab9835f1ae
+Samaritan Pacific Communitites Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,799,0,0.52,*,*,#s too small to calculate,ZERO Infections,LINCOLN,Region2,"930 SOUTHWEST ABBEY STREET
+NEWPORT 97365
+(44.6291047, -124.0597775)",,https://data.oregon.gov/views/3xt9-86yc/files/4151f14c-df79-4c1e-ac4d-03c293b525e9
+Wallowa Memorial Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,123,0,0.08,*,*,#s too small to calculate,ZERO Infections,WALLOWA,Region9,"601 MEDICAL PARKWAY
+ENTERPRISE 97828
+(45.4323835, -117.2846171)",,https://data.oregon.gov/views/3xt9-86yc/files/b34b88e0-fdef-4b14-931a-2ab272148bd7
+Samaritan Pacific Communitites Hospital,Adult Medical/Surgical ICUs,428,0,0.28,*,*,#s too small to calculate,ZERO Infections,LINCOLN,Region2,"930 SOUTHWEST ABBEY STREET
+NEWPORT 97365
+(44.6291047, -124.0597775)",,https://data.oregon.gov/views/3xt9-86yc/files/230bbf54-8d82-4b8f-abec-3ddb7edddbcc
+St. Charles Medical Center - Madras,Adult Medical/Surgical Wards,114,0,0.07,*,*,#s too small to calculate,ZERO Infections,JEFFERSON,Region7,"470 NE A STREET
+MADRAS 97741
+(44.637408, -121.120344)",,https://data.oregon.gov/views/3xt9-86yc/files/80c250f3-5715-4241-976e-4044f0a0e2e8
+Samaritan Pacific Communitites Hospital,Adult Medical/Surgical Wards,371,0,0.24,*,*,#s too small to calculate,ZERO Infections,LINCOLN,Region2,"930 SOUTHWEST ABBEY STREET
+NEWPORT 97365
+(44.6291047, -124.0597775)",,https://data.oregon.gov/views/3xt9-86yc/files/f751b6e6-7f51-4cea-9493-41b12d184b7d
+Wallowa Memorial Hospital,Adult Medical/Surgical Wards,123,0,0.08,*,*,#s too small to calculate,ZERO Infections,WALLOWA,Region9,"601 MEDICAL PARKWAY
+ENTERPRISE 97828
+(45.4323835, -117.2846171)",,https://data.oregon.gov/views/3xt9-86yc/files/ecab2bf0-9110-4bdc-bb0f-fbaa0bc9c3ba
+St. Alphonsus Medical Center - Baker City,All Adult/Ped ICUs & M/S/MS Wards Combined*,399,0,0.26,*,*,#s too small to calculate,ZERO Infections,BAKER,Region9,"3325 POCAHONTAS ROAD
+BAKER CITY 97814
+(44.794763, -117.846872)",,https://data.oregon.gov/views/3xt9-86yc/files/8b8a040e-33b1-4b31-9873-45a4d37cd9d1
+St. Alphonsus Medical Center - Baker City,Adult Medical/Surgical Wards,399,0,0.26,*,*,#s too small to calculate,ZERO Infections,BAKER,Region9,"3325 POCAHONTAS ROAD
+BAKER CITY 97814
+(44.794763, -117.846872)",,https://data.oregon.gov/views/3xt9-86yc/files/ccf0cc8d-de5b-4c54-b169-362c3ad95751
+ 1. All Oregon,All Adult/Ped ICUs & M/S/MS Wards Combined*,11530,6,10.04,    0.598,"0.242, 1.243",Fewer infections,SIR Target (<0.75) Met,,,,https://data.oregon.gov/views/3xt9-86yc/files/a48f9cb9-c24c-434e-afa1-728e69f7fee9,https://data.oregon.gov/views/3xt9-86yc/files/d6185277-0c9c-49e3-861a-3bbfadb3bc8a
+ 1. All Oregon,Adult Medical/Surgical ICUs,2806,0,1.833,    0.000,", 1.635",Fewer infections,SIR Target (<0.75) Met & ZERO Infections,,,,https://data.oregon.gov/views/3xt9-86yc/files/fc0473a5-006c-4a4b-a03b-602711cbb29a,https://data.oregon.gov/views/3xt9-86yc/files/807a26a0-add3-441a-a66e-dd81b112256e
+Coquille Valley Hospital District,Adult Medical/Surgical Wards,447,0,0.29,*,*,#s too small to calculate,ZERO Infections,COOS,Region3,"940 EAST 5TH STREET
+COQUILLE 97423
+(43.1794727, -124.1793669)",,https://data.oregon.gov/views/3xt9-86yc/files/cc7a6074-2062-4144-b399-bd8c82a69049
+Lake District Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,673,0,0.44,*,*,#s too small to calculate,ZERO Infections,LAKE,Region7,"700 SOUTH J STREET
+LAKEVIEW 97630
+(42.1815442, -120.3526116)",,https://data.oregon.gov/views/3xt9-86yc/files/e7002802-a519-45c9-8509-874288ae7dbb
+Grande Ronde Hospital,Adult Medical/Surgical Wards,503,0,0.33,*,*,#s too small to calculate,ZERO Infections,UNION,Region9,"900 SUNSET DRIVE
+LA GRANDE 97850
+(45.3195774, -118.1084603)",,https://data.oregon.gov/views/3xt9-86yc/files/6d6f092e-fae4-4850-98f7-bb31abbe9889
+Pioneer Memorial Hospital - Prineville,Adult Medical/Surgical ICUs,19,0,0.01,*,*,#s too small to calculate,ZERO Infections,CROOK,Region7,"1201 NORTHEAST ELM STREET
+PRINEVILLE 97754
+(44.3102605, -120.843538)",,https://data.oregon.gov/views/3xt9-86yc/files/cfcc770f-b011-4912-8804-9fd7b7d09a67
+Samaritan Lebanon Community Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,1497,0,0.98,*,*,#s too small to calculate,ZERO Infections,LINN,Region2,"525 NORTH SANTIAM HIGHWAY
+LEBANON 97355
+(44.5510546, -122.9068699)",,https://data.oregon.gov/views/3xt9-86yc/files/2433c7ac-79ae-4520-b77a-d6ef131744a1
+Providence Hood River Memorial Hospital,Adult Medical/Surgical ICUs,149,0,0.1,*,*,#s too small to calculate,ZERO Infections,HOOD RIVER,Region6,"810 12TH STREET
+HOOD RIVER 97031
+(45.7048557, -121.5243182)",,https://data.oregon.gov/views/3xt9-86yc/files/cc31bc5c-d710-4d73-a24c-66ffe1adf435
+St. Anthony Hospital,Adult Medical/Surgical ICUs,402,0,0.26,*,*,#s too small to calculate,ZERO Infections,UMATILLA,Region9,"2801 st. anthony way
+PENDLETON 97801
+(45.648587, -118.812262)",,https://data.oregon.gov/views/3xt9-86yc/files/5f3c0da3-c4ad-45b0-8f0e-0fa59645c406
+Providence Hood River Memorial Hospital,Adult Medical/Surgical Wards,343,0,0.22,*,*,#s too small to calculate,ZERO Infections,HOOD RIVER,Region6,"810 12TH STREET
+HOOD RIVER 97031
+(45.7048557, -121.5243182)",,https://data.oregon.gov/views/3xt9-86yc/files/9a1afd75-84be-4e3d-9988-e6591baeaa65
+Samaritan Lebanon Community Hospital,Adult Medical/Surgical ICUs,712,0,0.47,*,*,#s too small to calculate,ZERO Infections,LINN,Region2,"525 NORTH SANTIAM HIGHWAY
+LEBANON 97355
+(44.5510546, -122.9068699)",,https://data.oregon.gov/views/3xt9-86yc/files/39b946cc-fc23-4c64-8d57-463e43d0a7a0
+Providence Seaside Hospital,Adult Medical ICUs,141,0,0.34,*,*,#s too small to calculate,ZERO Infections,CLATSOP,Region1,"725 SOUTH WAHANNA ROAD
+SEASIDE 97138
+(45.9890003, -123.9120832)",,https://data.oregon.gov/views/3xt9-86yc/files/d26af627-0d53-483a-83e6-1fa25d567aba
+Samaritan Lebanon Community Hospital,Adult Medical/Surgical Wards,785,0,0.51,*,*,#s too small to calculate,ZERO Infections,LINN,Region2,"525 NORTH SANTIAM HIGHWAY
+LEBANON 97355
+(44.5510546, -122.9068699)",,https://data.oregon.gov/views/3xt9-86yc/files/8e3fb7fb-cd1e-4bc1-9952-f9fb7c468a2f
+St. Charles Medical Center - Madras,All Adult/Ped ICUs & M/S/MS Wards Combined*,117,0,0.08,*,*,#s too small to calculate,ZERO Infections,JEFFERSON,Region7,"470 NE A STREET
+MADRAS 97741
+(44.637408, -121.120344)",,https://data.oregon.gov/views/3xt9-86yc/files/cd40275f-0579-4841-8e58-c37b75aca3d3
+Samaritan North Lincoln Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,503,0,0.33,*,*,#s too small to calculate,ZERO Infections,LINCOLN,Region2,"3043 NORTHEAST 28TH STREET
+LINCOLN CITY 97367
+(44.9855152, -123.9963271)",,https://data.oregon.gov/views/3xt9-86yc/files/a9156559-681e-4351-b27d-e34b33f2c669
+West Valley Hospital,Adult Medical/Surgical Wards,22,0,0.01,*,*,#s too small to calculate,ZERO Infections,POLK,Region2,"525 SOUTHEAST WASHINGTON STREET
+DALLAS 97338
+(44.9189212, -123.3103345)",,https://data.oregon.gov/views/3xt9-86yc/files/3a95b082-cee1-4de9-a7e5-87b4c4810fcd
+West Valley Hospital,All Adult/Ped ICUs & M/S/MS Wards Combined*,22,0,0.01,*,*,#s too small to calculate,ZERO Infections,POLK,Region2,"525 SOUTHEAST WASHINGTON STREET
+DALLAS 97338
+(44.9189212, -123.3103345)",,https://data.oregon.gov/views/3xt9-86yc/files/1eaee5b6-68db-4f79-849b-7a1d4c6a001b

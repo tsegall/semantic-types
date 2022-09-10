@@ -1,0 +1,751 @@
+"type","facility","street_address","city","state","zip","phone","website","hours","appointment","internet","wifi","training","location"
+"Chicago Public Library","Dunning","7455 W. Cornelia Avenue","Chicago","IL","60634","(312) 743-0480","http://www.chipublib.org/branch/details/library/dunning/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","7455 W. Cornelia Avenue
+Chicago, IL 60634
+(41.94327523068454, -87.81342276248131)"
+"Chicago Public Library","Toman","2708 S. Pulaski Road","Chicago","IL","60623","(312) 745-1660","http://www.chipublib.org/branch/details/library/toman/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","2708 S. Pulaski Road
+Chicago, IL 60623
+(41.842057117097625, -87.72449072211322)"
+"Community Technology Center","Employment Resource Center","1623 W. Howard  ","Chicago","IL","60626","(773) 262-3515","http://www.howardarea.org","M-F: 9AM-5PM; SA: 9AM-1PM","No","true","false","true","1623 W. Howard
+Chicago, IL 60626
+(42.01932161883411, -87.67234371410865)"
+"Chicago Public Library","Albany Park","5150 N. Kimball Avenue","Chicago","IL","60625","(312) 744-1933","http://www.chipublib.org/branch/details/library/albany-park/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","5150 N. Kimball Avenue
+Chicago, IL 60625
+(41.9748233717849, -87.71358525318179)"
+"Chicago Public School","Sawyer Elementary School","5248 S Sawyer Ave","Chicago","IL","60632","(773) 535-9275","http://www.sawyer.cps.k12.il.us/","Call for hours","Yes ","true","true","false","5248 S Sawyer Ave
+Chicago, IL 60632
+(41.79807487236341, -87.70496379130239)"
+"Community Technology Center","Continental Plaza CTC","1330 W. 76th St.","Chicago","IL","60620","(773) 487-3300","http://www.hhdc.org","T-TH: 10AM-7:30PM; F: 12:30PM-4:30PM","No","true","false","true","1330 W. 76th St.
+Chicago, IL 60620
+(41.75604636138337, -87.65702070974254)"
+"Community Technology Center","Onward Neighborhood House","5423 W. Diversey Avenue","Chicago","IL","60639","(312) 666-6726","http://www.onwardhouse.org/","M-TH: 9AM-8PM; F: 12PM-8PM",,"true","false","true","5423 W. Diversey Avenue
+Chicago, IL 60639
+(41.93129013649463, -87.76233188616958)"
+"Chicago Public School","Monroe Elementary School","3651 W Schubert Ave","Chicago","IL","60647","(773) 534-4155","http://www.jamesmonroeschool.org/education/school/school.php?sectionid=3","Call for hours","Yes ","true","true","false","3651 W Schubert Ave
+Chicago, IL 60647
+(41.930034174246124, -87.71872522327924)"
+"Chicago Public Library","South Chicago","9055 S. Houston Avenue","Chicago","IL","60617","(312) 747-8065","http://www.chipublib.org/branch/details/library/south-chicago/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","9055 S. Houston Avenue
+Chicago, IL 60617
+(41.73091178472393, -87.54977619813424)"
+"Community Technology Center","Jobs For Youth Chicago","17 North State Street, Sixth Floor","Chicago","IL","60602","(312) 499-4778","http://www.jfychicago.org","M-F: 9AM-5PM","No","true","false","false","17 North State Street, Sixth Floor
+Chicago, IL 60602
+(41.882571574517556, -87.62783159040407)"
+"Community Technology Center","Centro Romero","6216 N. Clark St","Chicago","IL","60660","(773) 508-5300","http://www.centroromero.org","Call for hours","Yes","true","true","true","6216 N. Clark St
+Chicago, IL 60660
+(41.99489977625038, -87.67034334045123)"
+"Community Technology Center","Jane Addams Resource Corporation Training CTC Satellite","4222 N. Ravenswood, Chicago, IL","Chicago","IL","60613","(773) 728-9769 x. 19","http://www.jane-addams.org","M-F: 9AM-5PM","No","true","false","true","4222 N. Ravenswood, Chicago, IL
+Chicago, IL 60613
+(41.9583650003377, -87.67445031787796)"
+"Chicago Public Library","Altgeld","13281 S. Corliss Avenue","Chicago","IL","60827","(312) 747-3270","http://www.chipublib.org/branch/details/library/altgeld/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","13281 S. Corliss Avenue
+Chicago, IL 60827
+(41.654748194923336, -87.60220329340268)"
+"Community Technology Center","Street-Level Youth Media","2459 W. Augusta Blvd.","Chicago","IL","60622","(773) 862-5331","http://www.street-level.org","M-F: 3PM-6PM",,"true","true","true","2459 W. Augusta Blvd.
+Chicago, IL 60622
+(41.89935292358433, -87.68922830534433)"
+"Chicago Public School","Saucedo Scholastic Academy","2850 W 24th Blvd # 4250","Chicago","IL","60623","(773) 534-1770","http://www.cps.edu/Schools/Pages/school.aspx?unit=4250","SA: 11AM-12:45PM   ","Yes ","true","false","true","2850 W 24th Blvd # 4250
+Chicago, IL 60623
+(41.84792730804921, -87.69627163358797)"
+"City Colleges of Chicago","Harold Washington College","30 E. Lake Street","Chicago","IL","60601","(312) 553-5655","http://hwashington.ccc.edu/","Call for hours","No","true","true","true","30 E. Lake Street
+Chicago, IL 60601
+(41.88581899050217, -87.62680071753468)"
+"Chicago Public Library","Hall","4801 S. Michigan Avenue","Chicago","IL","60615","(312) 747-2541","http://www.chipublib.org/branch/details/library/hall/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","4801 S. Michigan Avenue
+Chicago, IL 60615
+(41.80740636174217, -87.62272923100159)"
+"Community Technology Center","Rogers Park Computer Lab and Technology Center","1557 W. Howard","Chicago","IL","60626","(773) 508-5885","http://www.rogers-park.com","M-F: 9AM-5PM","Yes","true","true","true","1557 W. Howard
+Chicago, IL 60626
+(42.01930998858192, -87.67013118740422)"
+"Community Technology Center","Career Resource Center","790 N. Milwaukee Ave.","Chicago","IL","60642","(312) 432-1300","http://www.gwtp.org","M-F: 8:30AM-4:30PM ","No","true","true","true","790 N. Milwaukee Ave.
+Chicago, IL 60642
+(41.89621428970207, -87.65535084450062)"
+"Community Technology Center","Chesterfield Community Council","651 E 88th Street","Chicago","IL","60619","773-651-3958","http://www.chesterfieldcommunitycouncil.org/","M-F: 8:30AM-4PM","Yes","true","true","true","651 E 88th Street
+Chicago, IL 60619
+(41.73385968375254, -87.60763281762598)"
+"Senior Center","Renaissance Court","78 E. Washington","Chicago","IL","60602","(312) 744-4550 (Voice) or (312) 744-6777 (TTY) ","http://www.cityofchicago.org/city/en/depts/fss/supp_info/regional_center_information.html","Call","No","true","false","true","78 E. Washington
+Chicago, IL 60602
+(41.88327494122517, -87.62522219047514)"
+"Community Technology Center","Workforce Development Office CTC","2610 W. North Ave. 2nd Flr.","Chicago","IL","60647","(773) 862-1892","http://www.hhdc.org","M-TH: 9AM-7:30PM; F: 12:30PM-4:30PM","Yes","true","false","true","2610 W. North Ave. 2nd Flr.
+Chicago, IL 60647
+(41.91032792009988, -87.69256631864067)"
+"Chicago Public School","Kelvyn Park High School","4343 W Wrightwood Ave","Chicago","IL","60639","(773) 534-4200","http://www.kelvynparkhs.org/","Call for hours","Yes ","true","false","true","4343 W Wrightwood Ave
+Chicago, IL 60639
+(41.92793799446075, -87.73569689701104)"
+"Business Resource Network ","Instituto Del Progreso ","2570 S. Blue Island ","Chicago","IL","60608","(773) 890-0055 x. 291","http://www.pilsenportal.org/www.idpl.org","M-F 9a -5p","yes","true","true","true","2570 S. Blue Island
+Chicago, IL 60608
+(41.84863999999999, -87.67099999999999)"
+"Chicago Public Library","Bucktown-Wicker Park","1701 N. Milwaukee Avenue","Chicago","IL","60647","(312) 744-6022","http://www.chipublib.org/branch/details/library/bucktown-wicker-park/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","1701 N. Milwaukee Avenue
+Chicago, IL 60647
+(41.91243805911063, -87.68065776640515)"
+"WorkForce Center","Chicago Workforce Center - Garfield","10 S. Kedzie, Room 134","Chicago","IL","60612","(773) 722-3885 (Voice or (773) 722-6081(TTY)","http://www.cityofchicago.org/city/en/depts/fss/supp_info/chicago_workforcecenters-servicesforjobseekers.html","M-TH: 9AM (Orientation)","Yes","true","false","true","10 S. Kedzie, Room 134
+Chicago, IL 60612
+(41.88083351336819, -87.70617830105714)"
+"Community Technology Center","Lake Grove Village CTC","3515 South Cottage Grove","Chicago","IL","60653","(773) 538-4671","http://www.cohd.com/","M, W: 11AM-5PM; TU, TH: 1PM-5PM","No","true","true","true","3515 South Cottage Grove
+Chicago, IL 60653
+(41.81923999999998, -87.61011000000002)"
+"Senior Center","Austin Satellite Center","5071 W. Congress Pkwy","Chicago","IL","60644","(312) 743-1538","http://www.cityofchicago.org/city/en/depts/fss/supp_info/satellite_centerinformation.html","M-F: 8:30AM-4:30PM; SA-SU: Closed ","Yes","false","false","true","5071 W. Congress Pkwy
+Chicago, IL 60644
+(41.87391736581621, -87.7520595627168)"
+"Chicago Public Library","Sulzer Regional","4455 N. Lincoln Avenue","Chicago","IL","60625","(312) 744-7616","http://www.chipublib.org/branch/details/library/sulzer-regional/","M-TH: 9AM-9PM; F, SA: 9AM-5PM; SU: 1PM-5PM","NA","true","true","true","4455 N. Lincoln Avenue
+Chicago, IL 60625
+(41.96239291775014, -87.68441344689325)"
+"Business Resource Network ","West Humboldt Park Community Development Council","3620 W. Chicago Ave ","Chicago","IL","60657","(773) 342-0036","http://www.humboldtparkportal.org","M-F 9a- 5P","yes","true","true","true","3620 W. Chicago Ave
+Chicago, IL 60657
+(41.89548583885835, -87.71718822723528)"
+"Chicago Public Library","West Lawn","4020 W. 63rd Street","Chicago","IL","60629","(312) 747-7381","http://www.chipublib.org/branch/details/library/west-lawn/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","4020 W. 63rd Street
+Chicago, IL 60629
+(41.778718730032836, -87.72357170491985)"
+"Community Technology Center","Albany Park Community Center, Inc.","5121 N. Kimball","Chicago","IL","60625","(773) 583-5062","http://www.apcc-chgo.org/","M-TH: 9AM-9PM; F: 12PM-6PM; SA: 9AM-4PM","No","true","false","true","5121 N. Kimball
+Chicago, IL 60625
+(41.974296259670695, -87.71343184115092)"
+"City Colleges of Chicago","Richard J. Daley College","7500 S. Pulaski Ave.","Chicago","IL","60652","(773) 838-7770 or (773) 838-7923","http://daley.ccc.edu/","Call for hours","No","true","true","true","7500 S. Pulaski Ave.
+Chicago, IL 60652
+(41.75635610138763, -87.7222793820099)"
+"Wireless Internet Zone","Millennium Park","55 N Michigan Avenue","Chicago","IL","60602","NA","http://www.cityofchicago.org/city/en/depts/doit/supp_info/wireless_internetzones.html","Wireless access is available 24 hours a day 7 days a week.","No","false","true","false","55 N Michigan Avenue
+Chicago, IL 60602
+(41.88272496938674, -87.62412150294998)"
+"Community Technology Center","Poder Learning Center","1637 S. Allport St.","Chicago","IL","60608","(312) 226-2002","http://www.poderlc.org/","M-TH: 7:30AM-8:30PM; F: 7:30AM-5PM",,"true","false","true","1637 S. Allport St.
+Chicago, IL 60608
+(41.859376241888285, -87.6576010512833)"
+"WorkForce Center","Inspiration Corporation","4554 N. Broadway, Suite 207","Chicago","IL","60640","(773) 878-0981 ","http://www.inspirationcorp.org/","Call","NA","true","false","true","4554 N. Broadway, Suite 207
+Chicago, IL 60640
+(41.964532788079836, -87.65687789460983)"
+"Chicago Public Library","Chicago Bee","3647 S. State Street","Chicago","IL","60609","(312) 747-6872","http://www.chipublib.org/branch/details/library/chicago-bee/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","3647 S. State Street
+Chicago, IL 60609
+(41.828135612084054, -87.62649160058038)"
+"Chicago Public Library","Chicago Lawn","6120 S. Kedzie Avenue ","Chicago","IL","60629","(312) 747-0639","http://www.chipublib.org/branch/details/library/chicago-lawn/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","6120 S. Kedzie Avenue
+Chicago, IL 60629
+(41.78197629571594, -87.70329432075633)"
+"Community Technology Center","Jewish Vocational Service CTC","6526 N. California","Chicago","IL","60645","(773) 743-5638","http://www.jvschicago.org","M-F: 9AM-8:30PM","Yes","true","true","true","6526 N. California
+Chicago, IL 60645
+(41.99987162183665, -87.69978273628041)"
+"Youth Center","YCDC Community Assistance Programs","11444 S. Halsted St.","Chicago","IL","60628","(773) 568-1782 or (773) 468-1993","http://www.capsinc.org/","Call for hours","No","true","false","true","11444 S. Halsted St.
+Chicago, IL 60628
+(41.68605553565135, -87.64231792097537)"
+"Community Technology Center","A Knock At Midnight Tech Center","400 W. 76th Street, Ste. 206","Chicago","IL","60620","(773) 488-2960","http://www.akamworks.org","M-F: 10AM-5PM","Yes ","true","true","true","400 W. 76th Street, Ste. 206
+Chicago, IL 60620
+(41.756306791720334, -87.63447147860683)"
+"WorkForce Center","CARES Chicago","3333 W. Arthington, Suite 139","Chicago","IL","60624","(773) 265-3300","http://www.careschicago.org/","Call","NA","true","false","true","3333 W. Arthington, Suite 139
+Chicago, IL 60624
+(41.8699621249913, -87.70902408044226)"
+"Chicago Public School","Cristo Rey Jesuit High School","1852 W 22nd Pl","Chicago","IL","60608","(773) 890-6800","http://www.cristorey.net/","Call for hours","No","true","true","false","1852 W 22nd Pl
+Chicago, IL 60608
+(41.85151780248502, -87.67218604931873)"
+"Senior Center","Auburn Gresham Satellite Center","1040 W. 79th St.","Chicago","IL","60620","(312) 745-4798","http://www.cityofchicago.org/city/en/depts/fss/provdrs/senior/svcs/regional_senior_centers.html","Call for hours","Yes","false","false","true","1040 W. 79th St.
+Chicago, IL 60620
+(41.75059541453732, -87.65030529290263)"
+"WorkForce Center","Chicago Federation of Labor","130 W. Randolph","Chicago","IL","60601","(312) 565-9431 ","http://www.chicagolabor.org/","Call","NA","true","false","true","130 W. Randolph
+Chicago, IL 60601
+(41.884523966779966, -87.63187611136642)"
+"Chicago Public Library","West Chicago Avenue","4856 W. Chicago Avenue","Chicago","IL","60651","(312) 743-0260","http://www.chipublib.org/branch/details/library/west-chicago-avenue/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","4856 W. Chicago Avenue
+Chicago, IL 60651
+(41.89498221852193, -87.74789108131557)"
+"Chicago Public Library","Merlo","644 W. Belmont Avenue","Chicago","IL","60657","(312) 744-1139","http://www.chipublib.org/branch/details/library/j-merlo-branch/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","644 W. Belmont Avenue
+Chicago, IL 60657
+(41.9400906890489, -87.64596962616768)"
+"Community Technology Center","La Casa Norte","3533 W. North Ave.","Chicago","IL","60647","(773) 276-4900 x. 211","http://www.lacasanorte.org","M-F: 9AM-7PM","No","true","false","true","3533 W. North Ave.
+Chicago, IL 60647
+(41.91000988963151, -87.7157403187681)"
+"Community Technology Center","Community TV Network Youth Media Ctr.","2418 West Bloomingdale","Chicago","IL","60647","(773) 278-8500","http://www.ctvnetwork.org","M-F: 3PM-7PM","No","true","true","true","2418 West Bloomingdale
+Chicago, IL 60647
+(41.91404610652696, -87.68864676423846)"
+"Chicago Public School","Eli Whitney Elementary School CTC","2815 S. Komensky","Chicago","IL","60623","(773) 540-8236","http://www.cps.edu/Schools/Pages/school.aspx?unit=6440","M-TH: 3PM-8PM; SA: 9AM-1PM","No","true","true","true","2815 S. Komensky
+Chicago, IL 60623
+(41.84036195940137, -87.72558279241026)"
+"FamilyNet Center","Instituto Del Progreso ","2570 S. Blue Island ","Chicago","IL","60608","(773) 890-0055","http://www.pilsenportal.org","M, T, W, F: 8AM-5PM; TH 8AM -7PM; SA, SU: Closed","yes","true","false","true","2570 S. Blue Island
+Chicago, IL 60608
+(41.84863999999999, -87.67099999999999)"
+"Community Technology Center","BP Technology Center","1701 W. Superior St.","Chicago","IL","60622","(312) 563-5800","http://www.eriehouse.org","M-F: 9AM-9PM; SA: 9AM-1PM","No","true","true","true","1701 W. Superior St.
+Chicago, IL 60622
+(41.89506995487017, -87.66975788052783)"
+"Chicago Public Library","Daley, Richard M. - West Humboldt Park","733 N. Kedzie Avenue","Chicago","IL","60612","(312) 743-0555","http://www.chipublib.org/branch/details/library/daley-w-humboldt/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","733 N. Kedzie Avenue
+Chicago, IL 60612
+(41.8943353871754, -87.70645353535272)"
+"Chicago Public Library","Avalon","8148 S. Stony Island Avenue ","Chicago","IL","60617","(312) 747-5234","http://www.chipublib.org/branch/details/library/avalon/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","8148 S. Stony Island Avenue
+Chicago, IL 60617
+(41.74634227351919, -87.58584224485605)"
+"Chicago Public School","Patrick Henry Elementary School","4250 N. St. Louis Ave.","Chicago","IL","60618","(773) 534-5060","http://www.henry.cps.k12.il.us/","Call for hours","Yes ","true","false","false","4250 N. St. Louis Ave.
+Chicago, IL 60618
+(41.95837405955986, -87.71558055519696)"
+"WorkForce Center","Safer Foundation","571 W. Jackson","Chicago","IL","60661","(312) 922-2200","http://www.saferfoundation.org/viewpage.asp?id=4","Call","NA","true","false","true","571 W. Jackson
+Chicago, IL 60661
+(41.877967512217005, -87.64172434154816)"
+"Community Technology Center","Guild for the Blind","180 N. Michigan Avenue Suite 1700","Chicago","IL","60601","(312) 236-8569","http://www.guildfortheblind.org","M-F: 8:30AM-4:30PM","No","true","false","true","180 N. Michigan Avenue Suite 1700
+Chicago, IL 60601
+(41.885539337214254, -87.62451309211593)"
+"Chicago Public Library","West Town","1625 W. Chicago Avenue","Chicago","IL","60622","(312) 743-0450","http://www.chipublib.org/branch/details/library/west-town/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","N","true","true","true","1625 W. Chicago Avenue
+Chicago, IL 60622
+(41.896061404957095, -87.66849893256898)"
+"Community Technology Center","Casa Central","1335 N. California","Chicago","IL","60622","(773) 645-2300","http://www.casacentral.org/","M: 12PM-7PM; TU: 10AM-7PM; W: 1PM-7PM; TH: 10AM-12PM & 3PM-7PM; SA: 10AM-2:30PM","No","true","false","true","1335 N. California
+Chicago, IL 60622
+(41.90574955169994, -87.69687876055515)"
+"Chicago Public Library","Beverly","1962 W. 95th Street","Chicago","IL","60643","(312) 747-9673","http://www.chipublib.org/branch/details/library/beverly/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","1962 W. 95th Street
+Chicago, IL 60643
+(41.721214096696755, -87.67082348865515)"
+"Chicago Public Library","McKinley Park","1915 W. 35th Street","Chicago","IL","60609","(312) 747-6082","http://www.chipublib.org/branch/details/library/mckinley-park/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","1915 W. 35th Street
+Chicago, IL 60609
+(41.83035158005777, -87.67343099318283)"
+"City Colleges of Chicago","Malcolm X College","1900 W. Van Buren","Chicago","IL","60612","(312) 850-7197","http://malcolmx.ccc.edu/","Call for hours","No","true","true","true","1900 W. Van Buren
+Chicago, IL 60612
+(41.87627541609087, -87.67410289759742)"
+"Community Technology Center","Lumity","29 E. Madison St., Ste. 1005","Chicago","IL","60602","(312) 372-4872","http://www.lumity.org","M-F: 9AM-5PM","No","true","false","true","29 E. Madison St., Ste. 1005
+Chicago, IL 60602
+(41.882009340752155, -87.62684847774577)"
+"Community Technology Center","Goodwill Industries of Metropolitan Chicago","819 S. Wabash","Chicago","IL","60605","(312) 212-1290","http://www.goodwillchicago.com/page.asp?dbID=78","M-F: 8:30AM-4PM","Yes","true","false","true","819 S. Wabash
+Chicago, IL 60605
+(41.87157573632831, -87.62582796036966)"
+"Community Technology Center","Goodwill Industries of Metropolitan Chicago","2435 W. 63rd Street","Chicago","IL","60629","(312) 212-1290","http://www.goodwillchicago.com/page.asp?dbID=78","M-F: 8:30AM-4PM","No","true","false","true","2435 W. 63rd Street
+Chicago, IL 60629
+(41.77918312724809, -87.68497768079433)"
+"Community Technology Center","Jane Addams Hull House Association","5797 North Lincoln Avenue","Chicago","IL","60659","(773) 506-0293","http://www.hullhouse.org","M-F: 9AM-5PM","No","true","false","true","5797 North Lincoln Avenue
+Chicago, IL 60659
+(41.98679400449316, -87.70132418663843)"
+"Community Technology Center","Sunshine Gospel Ministries","500 East 61st Street","Chicago","IL","60637","(773) 493-0656 x. 1010","http://www.sunshinegospel.org","M-F: 10AM-4PM",,"true","false","true","500 East 61st Street
+Chicago, IL 60637
+(41.78391594790338, -87.61289385149735)"
+"WorkForce Center","Chicago Workforce Center - Southwest","7500 S. Pulaski, Bldg 100","Chicago","IL","60652","(773) 884-7000 (Voice) or (773) 884-0269 (TTY)","http://www.cityofchicago.org/city/en/depts/fss/supp_info/chicago_workforcecenters-servicesforjobseekers.html","M-TH: 8:30AM (Orientation)","Yes","true","false","true","7500 S. Pulaski, Bldg 100
+Chicago, IL 60652
+(41.745340000000056, -87.71235999999999)"
+"Business Resource Network ","Greater Auburn Gresham Development Corporation ","1159 W. 79th Street ","Chicago","IL","60620","(773) 483-3696","http://www.auburngreshamportal.org","M-F 9a- 5P","yes","true","true","true","1159 W. 79th Street
+Chicago, IL 60620
+(41.75043834651455, -87.65301336804875)"
+"Community Technology Center","Korean American Community Services, Inc.","4300 N. California Ave","Chicago","IL","60618","(773) 583-5501","http://www.kacschgo.org","M-F: 9AM-5PM","Yes","true","true","true","4300 N. California Ave
+Chicago, IL 60618
+(41.95953555378509, -87.69846434258528)"
+"Chicago Public Library","Garfield Ridge","6348 S. Archer Avenue","Chicago","IL","60638","(312) 747-6094","http://www.chipublib.org/branch/details/library/garfield-ridge/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","6348 S. Archer Avenue
+Chicago, IL 60638
+(41.792792256332575, -87.78017674216744)"
+"Community Technology Center","Holland CTC","240 W. 107th Place","Chicago","IL","60628","(312) 447-4630","http://www.mercyhousing.org","M-TH: 9AM-2PM ",,"true","false","true","240 W. 107th Place
+Chicago, IL 60628
+(41.69981135172321, -87.62975613954677)"
+"Community Technology Center","LEED Council, Community Technology Center","1866 N. Marcey Street","Chicago","IL","60614","(773) 929-5552 x. 230","http://www.leedcouncil.org","M-TH: 9AM-6:30PM; TU, TH 6:30PM-9PM; F: 9AM-5PM; SA: 10:30AM-4PM","No","true","false","true","1866 N. Marcey Street
+Chicago, IL 60614
+(41.91607132010898, -87.65767109533624)"
+"Community Technology Center","Westside Youth Technical Entrepreneur Center","4211-13 West Madison","Chicago","IL","60624","(773) 533-3500","http://www.WYTEC4213.org","M-F: 11AM-7PM",,"true","true","true","4211-13 West Madison
+Chicago, IL 60624
+(41.88020000000006, -87.72311000000002)"
+"Chicago Public Library","Brighton Park","4314 S. Archer Avenue","Chicago","IL","60632","(312) 747-0666","http://www.chipublib.org/branch/details/library/brighton-park/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","4314 S. Archer Avenue
+Chicago, IL 60632
+(41.815201546687874, -87.70254711536592)"
+"Business Resource Network ","Greater Southwest Development Corporation ","2601 W. 63rd Street ","Chicago","IL","60629","(773) 436-1000 x. 106","http://www.chicagolawnportal.org","M-F 9a- 5P","yes","true","false","true","2601 W. 63rd Street
+Chicago, IL 60629
+(41.77917652080896, -87.68873367822823)"
+"Community Technology Center","AHS Career Resource Center","4820 N. Broadway, 3rd floor","Chicago","IL","60640","(773) 293-8119","http://www.ahschicago.org","M-F: 10AM-4PM","No","true","false","true","4820 N. Broadway, 3rd floor
+Chicago, IL 60640
+(41.96970688593643, -87.65967658346153)"
+"Chicago Public Library","West Town","1625 W. Chicago Ave","Chicago","IL","60622","(312) 743-0450","http://www.chipublib.org/branch/details/library/west-town/","M, W: 10AM-6PM; TU, TH: 12AM-8PM; F-SA: 9AM-5PM; SU: Closed","No","true","true","true","1625 W. Chicago Ave
+Chicago, IL 60622
+(41.896061404957095, -87.66849893256898)"
+"Senior Center","Southeast Center (Atlas)","1767 E. 79th St.","Chicago","IL","60649","(312) 747-0189 (Voice) or (312) 746-0322 (TTY) ","http://www.cityofchicago.org/city/en/depts/fss/supp_info/regional_center_information.html","Call","No","true","false","true","1767 E. 79th St.
+Chicago, IL 60649
+(41.75149480077835, -87.58084284391619)"
+"WorkForce Center","Chicago Career Center","11000 S. Michigan","Chicago","IL","60628","(773) 233-4364","http://www.southeastchicago.com/","Call","NA","true","false","true","11000 S. Michigan
+Chicago, IL 60628
+(41.69402871107485, -87.62080788535519)"
+"Senior Center","Northeast (Levy) Senior Center","2019 W. Lawrence Avenue","Chicago","IL","60625","Mike Toma at (312) 742-2630 or Court Chilton at (312) 742-2623","http://www.cityofchicago.org/city/en/depts/fss/supp_info/regional_center_information.html","Call","No","true","false","true","2019 W. Lawrence Avenue
+Chicago, IL 60625
+(41.968694977057105, -87.67975768517618)"
+"Chicago Public Library","Clearing","6423 W. 63rd Place","Chicago","IL","60638","(312) 747-5657","http://www.chipublib.org/branch/details/library/clearing/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","6423 W. 63rd Place
+Chicago, IL 60638
+(41.77669602524939, -87.78179293415415)"
+"Community Technology Center","Asian Human Services, LEAF Program","6015 N. Francisco","Chicago","IL","60659","(773) 338-5943","http://www.ahschicago.org","M-F: 9AM-5PM","No","true","false","true","6015 N. Francisco
+Chicago, IL 60659
+(41.99073771921184, -87.70175393733757)"
+"Community Technology Center","Interfaith Refugee & Immigration Ministries","4753 N. Broadway, Suite 815","Chicago","IL","60640","(773) 989-5647","http://www.irim.org","M-F: 8AM-4:30PM","No","true","false","true","4753 N. Broadway, Suite 815
+Chicago, IL 60640
+(41.968238137600956, -87.65915674406766)"
+"Chicago Public Library","Lozano","1805 S. Loomis Street","Chicago","IL","60608","(312) 746-4329","http://www.chipublib.org/branch/details/library/lozano/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","1805 S. Loomis Street
+Chicago, IL 60608
+(41.857820778174656, -87.66122498707978)"
+"Chicago Public Library","Kelly","6151 S. Normal Boulevard","Chicago","IL","60621","(312) 747-8418","http://www.chipublib.org/branch/details/library/kelly/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","6151 S. Normal Boulevard
+Chicago, IL 60621
+(41.782343495330295, -87.63746875075267)"
+"Chicago Public Library","Mount Greenwood","11010 S. Kedzie Avenue","Chicago","IL","60655","(312) 747-2805","http://www.chipublib.org/branch/details/library/mt-greenwood/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","11010 S. Kedzie Avenue
+Chicago, IL 60655
+(41.692994490741114, -87.7008655324035)"
+"Community Technology Center","Association House of Chicago","1116 N. Kedzie Ave.","Chicago","IL","60651","(773) 772-7170 x. 3102","http://www.associationhouse.org","M-F: 9AM-9PM","No","true","false","true","1116 N. Kedzie Ave.
+Chicago, IL 60651
+(41.90152511582621, -87.706795718495)"
+"FamilyNet Center","Southwest REACH Center ","6155 S. Pulaski Rd. ","Chicago","IL","60629","(773) 735-6727","http://www.chicagolawnportal.org","M-F: 9AM - 5PM; SA, SU: Closed","yes","true","false","true","6155 S. Pulaski Rd.
+Chicago, IL 60629
+(41.7807683208008, -87.72281798313873)"
+"Chicago Public Library","Rogers Park","6907 N. Clark Street","Chicago","IL","60626","(312) 744-0156","http://www.chipublib.org/branch/details/library/rogers-park/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","6907 N. Clark Street
+Chicago, IL 60626
+(42.006781595898914, -87.67336257682068)"
+"Community Technology Center","Southeast Chicago Development Commission","2938 East 91st Street","Chicago","IL","60617","(773) 731-8755","http://www.southeastchicago.org/","M-F: 8AM-5PM; SA: 9AM-1PM",,"true","false","true","2938 East 91st Street
+Chicago, IL 60617
+(41.730093424168224, -87.5524609863664)"
+"Chicago Public Library","Scottsdale","4101 W. 79th Street","Chicago","IL","60652","(312) 747-0193","http://www.chipublib.org/branch/details/library/scottsdale/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","4101 W. 79th Street
+Chicago, IL 60652
+(41.749352804211014, -87.72436124811308)"
+"Community Technology Center","Hispanic Housing Development Corporation","2610 W. North Ave","Chicago","IL","60647","(773) 862-1892","http://www.hispanichousingdevelopment.com/opportunities/workforce.html","M-F: 9AM-5PM","No","true","false","true","2610 W. North Ave
+Chicago, IL 60647
+(41.91032792009988, -87.69256631864067)"
+"Chicago Public Library","Little Village","2311 S. Kedzie Avenue","Chicago","IL","60623","(312) 745-1862","http://www.chipublib.org/branch/details/library/little-village/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","2311 S. Kedzie Avenue
+Chicago, IL 60623
+(41.849743890578864, -87.70511412105635)"
+"Community Technology Center","Career Pathways Resource Center","950 East 61st Street","Chicago","IL","60637","(773) 752-0687","http://www.thecaraprogram.org","M-F: 9AM-5PM",,"true","false","true","950 East 61st Street
+Chicago, IL 60637
+(41.784136097200694, -87.60245766355906)"
+"Community Technology Center","Alternatives' CTC","4730 N. Sheridan Road","Chicago","IL","60640","(773) 506-7474","http://www.alternativesyouth.org","M-F: 4PM-7PM; SA: 12PM- 4PM","No","true","false","true","4730 N. Sheridan Road
+Chicago, IL 60640
+(41.968169045266336, -87.65482024450336)"
+"Chicago Public Library","Woodson Regional","9525 S. Halsted Street","Chicago","IL","60628","(312) 747-6900","http://www.chipublib.org/branch/details/library/woodson-regional/","M-TH: 9AM-9PM; F, SA: 9AM-5PM; SU: 1PM-5PM","NA","true","true","true","9525 S. Halsted Street
+Chicago, IL 60628
+(41.72096170139649, -87.64305653437839)"
+"Senior Center","Central West Center","2102 W. Ogden","Chicago","IL","60612","(312) 746-5300 (Voice) or (312) 746-0321 (TTY) ","http://www.cityofchicago.org/city/en/depts/fss/supp_info/regional_center_information.html","Call for hours","No","true","false","true","2102 W. Ogden
+Chicago, IL 60612
+(41.870607218318284, -87.67907470907325)"
+"Chicago Public Library","Logan Square","3030 W. Fullerton Avenue","Chicago","IL","60647","(312) 744-5295","http://www.chipublib.org/branch/details/library/logan-square/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","3030 W. Fullerton Avenue
+Chicago, IL 60647
+(41.924758770912035, -87.70341960696669)"
+"Chicago Public Library","Canaryville","642 W. 43rd Street","Chicago","IL","60609","(312) 747-0644","http://www.chipublib.org/branch/details/library/canaryville/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","642 W. 43rd Street
+Chicago, IL 60609
+(41.81531127994623, -87.64256248524396)"
+"Community Technology Center","National Able Network","180 North Wabash Room 600-02","Chicago","IL","60601","(312) 580-0389","http://www.nationalable.org","M-F: 9AM-4PM",,"true","false","true","180 North Wabash Room 600-02
+Chicago, IL 60601
+(41.88543141857076, -87.62624878363249)"
+"Wireless Internet Zone","Thompson Center Plaza","100 W. Randolph Street","Chicago","IL","60601","NA","http://www.cityofchicago.org/city/en/depts/doit/supp_info/wireless_internetzones.html","Wireless access is available 24 hours a day 7 days a week.","No","false","true","false","100 W. Randolph Street
+Chicago, IL 60601
+(41.88446914399941, -87.63167169546915)"
+"Community Technology Center","Community Job Training and Education Center","2021 W. Fulton Ave.","Chicago","IL","60622","(312) 563-9028","http://www.gwtp.org","M-F: 8:30AM-4:30PM","No","true","true","true","2021 W. Fulton Ave.
+Chicago, IL 60622
+(41.88670360499431, -87.6773256061344)"
+"Community Technology Center","CAPs - Roseland","11444 South Halsted","Chicago","IL","60628","(773) 568-1782","http://www.capsinc.org","M-F: 8AM-5PM","No","true","false","true","11444 South Halsted
+Chicago, IL 60628
+(41.68605553565135, -87.64231792097537)"
+"Community Technology Center","Carlos Fuentes School","2845 W Barry","Chicago","IL","60618","(312) 432-6301","http://unocharterschools.org/uscn_campuses.aspx","M-TH: 5PM-8PM",,"true","true","true","2845 W Barry
+Chicago, IL 60618
+(41.9375013006084, -87.69887356167276)"
+"Chicago Public Library","Northtown","6435 N. California Avenue","Chicago","IL","60645","(312) 744-2292","http://www.chipublib.org/branch/details/library/northtown/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","6435 N. California Avenue
+Chicago, IL 60645
+(41.998212242087206, -87.69958791971804)"
+"Senior Center","North Center Satellite Center","4040 N. Oakley Ave","Chicago","IL","60618","(312) 745-4029","http://www.cityofchicago.org/city/en/depts/fss/supp_info/satellite_centerinformation.html","Call","Yes","true","false","true","4040 N. Oakley Ave
+Chicago, IL 60618
+(41.95480195708968, -87.68611746291384)"
+"Chicago Public Library","Water Works","163 E. Pearson Street","Chicago","IL","60611","(312) 742-8811","http://www.chipublib.org/branch/details/library/water-works/","M-TH: 9AM-7PM; F, SA: 9AM-5PM; SU: 1PM-5PM","NA","true","true","false","163 E. Pearson Street
+Chicago, IL 60611
+(41.897534902298894, -87.62299896446554)"
+"Senior Center","Englewood Satellite Center","653 W. 63rd St.","Chicago","IL","60621","(312) 745-3328","http://www.cityofchicago.org/city/en/depts/fss/supp_info/satellite_centerinformation.html","M-F: 8:30AM-4:30PM; SA-SU: Closed ","Yes","true","false","true","653 W. 63rd St.
+Chicago, IL 60621
+(41.77975527971341, -87.64140572220683)"
+"Community Technology Center","Erie Little Village Technology Center","4225 W. 25th. St.","Chicago","IL","60623","(773) 542-7705","http://www.eriehouse.org","M-F: 9AM-8PM","No","true","true","true","4225 W. 25th. St.
+Chicago, IL 60623
+(41.84506984589575, -87.7305071864892)"
+"Chicago Public Library","Jefferson Park","5363 W. Lawrence Avenue","Chicago","IL","60630","(312) 744-1998","http://www.chipublib.org/branch/details/library/jefferson-park/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","5363 W. Lawrence Avenue
+Chicago, IL 60630
+(41.967562324592144, -87.76172176849617)"
+"Community Technology Center","Knowledge Hook Up","3457 East 106th Street","Chicago","IL","60617","(773) 221-9111","http://www.knowledgehookup.org","M-F: 9AM-4PM","No","true","true","true","3457 East 106th Street
+Chicago, IL 60617
+(41.70274314153875, -87.5391044789933)"
+"Community Technology Center","Jane Addams Resource Corporation Main CTC","4432 N. Ravenswood, Chicago, IL","Chicago","IL","60640","(773) 728-9769 x. 19","http://www.jane-addams.org","M-SA: 9AM-9:30PM (Classes); Call for Open Lab hours","No","true","false","true","4432 N. Ravenswood, Chicago, IL
+Chicago, IL 60640
+(41.96212745849938, -87.67459534703566)"
+"WorkForce Center","Polish American Association","6276 W. Archer","Chicago","IL","60638","(773) 767-7773 ","http://www.polish.org/","TU-TH 1PM-8:45PM; SA: 10AM-5:45PM; M, F, SU: Closed","NA","true","false","true","6276 W. Archer
+Chicago, IL 60638
+(41.79348173496655, -87.77739171680953)"
+"Community Technology Center","Dr. David J. Lochman Cyber Center","3656 N Halsted St","Chicago","IL","60613","(773) 472-6469","http://www.centeronhalsted.org/","M-TU: 12:30PM-7:30PM; W-TH: 9:30AM-7:30PM; F: 9:30AM-5:30PM; SA-SU: 10AM-5:30PM","Yes","true","true","true","3656 N Halsted St
+Chicago, IL 60613
+(41.94875708933173, -87.64952500414803)"
+"Community Technology Center","WHA-Business and Human Resource Center","4800 West Chicago Avenue","Chicago","IL","60651","(773) 786-0148","http://www.healthauthority.org","M-F: 7AM-7PM",,"true","false","true","4800 West Chicago Avenue
+Chicago, IL 60651
+(41.894991211742195, -87.74614639657875)"
+"Chicago Public Library","North Pulaski","4300 W. North Avenue","Chicago","IL","60639","(312) 744-9573","http://www.chipublib.org/branch/details/library/north-pulaski/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","4300 W. North Avenue
+Chicago, IL 60639
+(41.909794052344466, -87.73432031189344)"
+"Community Technology Center","Literacy Volunteers of Illinois - Kedzie Center","1116 N. Kedzie, Suite 528","Chicago","IL","60651","(773) 235-0915","http://www.literacyvolunteersillinois.org/northsideprograms.asp","M-F: 8:30AM-4:30PM","Yes","true","false","true","1116 N. Kedzie, Suite 528
+Chicago, IL 60651
+(41.90152511582621, -87.706795718495)"
+"Community Technology Center","IMAN (Inner-City Muslim Action Network)","2744 W. 63rd Street","Chicago","IL","60629","(773) 434-4626","http://www.imancentral.org","M-TH: 9AM-5PM","No","true","false","true","2744 W. 63rd Street
+Chicago, IL 60629
+(41.779131554707476, -87.69272666803835)"
+"Chicago Public Library","West Englewood","1745 W. 63rd Street","Chicago","IL","60636","(312) 747-3481","http://www.chipublib.org/branch/details/library/west-englewood/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","1745 W. 63rd Street
+Chicago, IL 60636
+(41.77934452087478, -87.66814610717171)"
+"Community Technology Center","Mather's More Than a Cafe (83rd Street)","33 E. 83rd Street","Chicago","IL","60619","(773) 488-2801 ","http://www.matherlifeways.org/iyc_wherearematherscafes.asp","M-F: 8:30AM-4:30PM; SA: 8AM-2PM",,"true","false","true","33 E. 83rd Street
+Chicago, IL 60619
+(41.743620658940806, -87.62307703624921)"
+"Community Technology Center","Veterans Memorial High School","4248 W 47th St","Chicago","IL","60632","(312) 432-6301","http://unocharterschools.org/uscn_campuses.aspx","M-TH: 5PM-8PM",,"true","true","true","4248 W 47th St
+Chicago, IL 60632
+(41.80776596812041, -87.7306960441154)"
+"Community Technology Center","Archer Courts CTC","2242 South Princeton","Chicago","IL","60616","(312) 225-5340","http://www.cohd.com/","M, W: 11AM-5PM; TU, TH: 1PM-5PM","No","true","false","true","2242 South Princeton
+Chicago, IL 60616
+(41.8518965994202, -87.63484795659751)"
+"Community Technology Center","FORUM","200 E 75th Street","Chicago","IL","60619","(773) 994-9200","http://www.forumdigital.org/chicago/","M-F: 8AM-9PM; SA: 8AM-1PM","Yes","true","true","true","200 E 75th Street
+Chicago, IL 60619
+(41.75833922939006, -87.61878441078926)"
+"Community Technology Center","Lawndale Christian Development Corporation","3843 W. Ogden Ave","Chicago","IL","60623","(773) 762-8889","http://www.lcdc.net","M-F: 9AM-5PM","No","true","false","true","3843 W. Ogden Ave
+Chicago, IL 60623
+(41.85206657128373, -87.7215139661962)"
+"Chicago Public Library","Wrightwood-Ashburn","8530 S. Kedzie Avenue","Chicago","IL","60652","(312) 747-2696","http://www.chipublib.org/branch/details/library/wrightwood/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","8530 S. Kedzie Avenue
+Chicago, IL 60652
+(41.73836545679345, -87.70215502694877)"
+"Chicago Public Library","Humboldt Park ","1605 N. Troy Street","Chicago","IL","60647","(312) 744-2244","http://www.chipublib.org/branch/details/library/humboldt/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","1605 N. Troy Street
+Chicago, IL 60647
+(41.91026222239651, -87.70557035040065)"
+"Community Technology Center","Germano Millgate CTC","8732 South Burley","Chicago","IL","60617","(773) 221-2210","http://www.cohd.com/","M, W: 11AM-5PM; TU, TH: 1PM-5PM","No","true","false","true","8732 South Burley
+Chicago, IL 60617
+(41.736834872959726, -87.54586273268703)"
+"Community Technology Center","Jane Addams Hull House Association","1937 West Irving Park","Chicago","IL","60613","(773) 348-1866","http://www.hullhouse.org","M-F: 9AM-5PM","No","true","false","true","1937 West Irving Park
+Chicago, IL 60613
+(41.95412349112001, -87.67736952495113)"
+"Chicago Public Library","Whitney M. Young, Jr.","7901 S. King Drive","Chicago","IL","60619","(312) 747-0039","http://www.chipublib.org/branch/details/library/whitney-young/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","7901 S. King Drive
+Chicago, IL 60619
+(41.75108787672468, -87.6148795540565)"
+"Chicago Public Library","Daley, Richard J. - Bridgeport","3400 S. Halsted Street","Chicago","IL","60608","(312) 747-8990","http://www.chipublib.org/branch/details/library/daley/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","3400 S. Halsted Street
+Chicago, IL 60608
+(41.83254459934408, -87.6462238075908)"
+"Community Technology Center","Mathers More Than a Café (Central)","3235 N. Central Ave","Chicago","IL","60634","(773) 205-3300 ","http://www.matherlifeways.org/iyc_wherearematherscafes.asp","M-F: 8AM-4PM",,"true","false","true","3235 N. Central Ave
+Chicago, IL 60634
+(41.93974147592019, -87.76653402698298)"
+"Chicago Public Library","Roden","6083 N. Northwest Highway","Chicago","IL","60631","(312) 744-1478","http://www.chipublib.org/branch/details/library/roden/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","6083 N. Northwest Highway
+Chicago, IL 60631
+(41.99195084318547, -87.79821674928576)"
+"Chicago Public Library","Manning","6 S. Hoyne Avenue","Chicago","IL","60612","(312) 746-6800","http://www.chipublib.org/branch/details/library/mabel-manning/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","6 S. Hoyne Avenue
+Chicago, IL 60612
+(41.88117718045707, -87.67916344433422)"
+"Community Technology Center","CAPs - Kedzie","7723 South Kedzie, Suite D&E","Chicago","IL","60653","(773) 863-5089","http://www.capsinc.org","M-F: 8AM-5PM","Yes","true","false","true","7723 South Kedzie, Suite D&E
+Chicago, IL 60653
+(41.81923999999998, -87.61011000000002)"
+"Community Technology Center","Center for Working Families (The Cara Program)","4804 - 4806 South Cottage Grove Avenue","Chicago","IL","60615","(773) 924-2205","http://www.thecaraprogram.org","M-F: 9AM-5PM",,"true","false","true","4804 - 4806 South Cottage Grove Avenue
+Chicago, IL 60615
+(41.80017425127788, -87.60642032809778)"
+"Wireless Internet Zone","Center for Green Technology ","445 N. Sacramento Boulevard","Chicago","IL","60612","NA","http://www.cityofchicago.org/city/en/depts/doe/provdrs/ccgt.html","Wireless access is available 24 hours a day 7 days a week.","No","false","true","false","445 N. Sacramento Boulevard
+Chicago, IL 60612
+(41.88928051685616, -87.70147707138341)"
+"Chicago Public Library","Lincoln Park","1150 W. Fullerton Avenue","Chicago","IL","60614","(312) 744-1926","http://www.chipublib.org/branch/details/library/lincoln-park/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","1150 W. Fullerton Avenue
+Chicago, IL 60614
+(41.925356616111095, -87.65761850221892)"
+"Community Technology Center","Mather's More Than a Cafe (Higgins)","7134 W. Higgins","Chicago","IL","60656","(773) 774-4804","http://www.matherlifeways.org/iyc_mathersmorethanacafe.asp","M-TH: 7:30AM-3:30PM; F: 7:30AM-7:00PM; SA: 9AM-2PM ",,"true","false","true","7134 W. Higgins
+Chicago, IL 60656
+(41.98092143164183, -87.80604124373014)"
+"FamilyNet Center","St. Sabina Employment Resource Center ","7909 S. Racine St. ","Chicago","IL","60620","(773) 347-0024","http://www.auburngreshamportal.org","M, T: 9AM-5PM; W, TH, F: 9AM -8PM; SA 9AM - 1PM; SU: Closed","yes","true","false","true","7909 S. Racine St.
+Chicago, IL 60620
+(41.750315046741946, -87.65365456637862)"
+"Community Technology Center","SER Little Village CTC","3948 W. 26th Street, Suite 213","Chicago","IL","60623","(773) 542-9030 x. 226","http://www.centralstatesser.org","M-F: 8AM-6PM; SA: 9AM-12PM","No","true","true","true","3948 W. 26th Street, Suite 213
+Chicago, IL 60623
+(41.84427844250996, -87.72383421703182)"
+"Chicago Public Library","Legler","115 S. Pulaski Road","Chicago","IL","60624","(312) 746-7730","http://www.chipublib.org/branch/details/library/legler/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","115 S. Pulaski Road
+Chicago, IL 60624
+(41.87930825979932, -87.7255367645667)"
+"Community Technology Center","St. Agatha Family Empowerment","3143 W. Douglas Boulevard","Chicago","IL","60623","(773) 522-1354","http://www.chicagoareaproject.org/","M-F: 12PM-6PM; SA: 10AM-1PM",,"true","true","true","3143 W. Douglas Boulevard
+Chicago, IL 60623
+(41.86247486464147, -87.70412585459005)"
+"Wireless Internet Zone","Federal Plaza","230 S. Dearborn Street","Chicago","IL","60603","NA","http://www.cityofchicago.org/city/en/depts/doit/supp_info/wireless_internetzones.html","Wireless access is available 24 hours a day 7 days a week.","No","false","true","false","230 S. Dearborn Street
+Chicago, IL 60603
+(41.87906772150343, -87.62939465395297)"
+"Chicago Public Library","Galewood-Montclare ","6871 W. Belden Avenue","Chicago","IL","60707","(312) 746-0165","http://www.chipublib.org/branch/details/library/galewood-mont-clare/","M: 2PM-6PM; TU-TH: 10AM-6PM; F: 9AM-5PM; SA, SU: Closed","NA","true","true","false","6871 W. Belden Avenue
+Chicago, IL 60707
+(41.92109609237066, -87.79728784408778)"
+"FamilyNet Center","63rd Street Corridor CWF Metropolitan Family Services ","747 W. 63rd St., Bldg. V, Room 106","Chicago","IL","60621","(773) 487-3723","http://www.englewoodportal.org","M-F: 9AM - 6PM; SA: 10AM - 2PM (Open 1st and 3rd Sat of each month)","yes","true","false","true","747 W. 63rd St., Bldg. V, Room 106
+Chicago, IL 60621
+(41.779733237008315, -87.64421136895008)"
+"Chicago Public School","John Barry Elementary School","2828 N Kilbourn Ave","Chicago","IL","60641","(773) 534-3455","http://www.barry.cps.k12.il.us/","Call for hours","Yes ","true","true","false","2828 N Kilbourn Ave
+Chicago, IL 60641
+(41.93217057232214, -87.73932307477935)"
+"Senior Center","Southwest Center","6117 S. Kedzie","Chicago","IL","60629","(312) 747-0440 (Voice) or (312) 746-0323 (TTY) ","http://www.cityofchicago.org/city/en/depts/fss/supp_info/regional_center_information.html","Call","No","true","false","true","6117 S. Kedzie
+Chicago, IL 60629
+(41.782307183727234, -87.70315697704424)"
+"Community Technology Center","The Cara Program (East Loop Campus)","228 South Wabash","Chicago","IL","60604","(312) 798-3327","http://www.thecaraprogram.org","M-F: 9AM-5PM",,"true","false","true","228 South Wabash
+Chicago, IL 60604
+(41.87820824389579, -87.6261245628382)"
+"Senior Center","Abbot Park Satellite Center","49 E. 95th St.","Chicago","IL","60619","(312) 745-3493","http://www.cityofchicago.org/city/en/depts/fss/supp_info/satellite_centerinformation.html","M-F: 8:30AM-4:30PM; SA-SU: Closed ","Yes","false","false","true","49 E. 95th St.
+Chicago, IL 60619
+(41.721708979677885, -87.62221832431597)"
+"Chicago Public Library","Uptown","929 W. Buena Avenue","Chicago","IL","60613","(312) 744-8400","http://www.chipublib.org/branch/details/library/uptown/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","929 W. Buena Avenue
+Chicago, IL 60613
+(41.95837819368438, -87.65349928925056)"
+"City Colleges of Chicago","Harry S. Truman College","1145 W. Wilson","Chicago","IL","60640","(773) 907-4429 or (773) 907-3998 or (773) 907-4849","http://www.trumancollege.edu/index.php","Call for hours","No","true","true","true","1145 W. Wilson
+Chicago, IL 60640
+(41.96531934896931, -87.6589842868169)"
+"Chicago Public School","John C. Coonley Elementary School","4046 N Leavitt St","Chicago","IL","60618","(773) 534-5140?","http://coonley.org/","Call for hours","Yes ","true","false","false","4046 N Leavitt St
+Chicago, IL 60618
+(41.955217603665, -87.68370479393352)"
+"Senior Center","West Town Satellite Center","1613 W. Chicago Ave.","Chicago","IL","60622","(312) 743-1016","http://www.cityofchicago.org/city/en/depts/fss/supp_info/satellite_centerinformation.html","M-F: 9AM-4PM; SA-SU: Closed  ","Yes","true","false","true","1613 W. Chicago Ave.
+Chicago, IL 60622
+(41.89607039817736, -87.66792336647023)"
+"Community Technology Center","WHA-Community Tech Center","5417 West Division Street","Chicago","IL","60651","(773) 378-1878","http://www.healthauthority.org","M-F: 9AM-8PM",,"true","true","true","5417 West Division Street
+Chicago, IL 60651
+(41.902185787976634, -87.76163272192332)"
+"Community Technology Center","Harold Washington CTC","4946 W. Sheridan","Chicago","IL","60640","(312) 447-4601","http://www.mercyhousing.org","M-F: 9AM to 5PM",,"true","false","true","4946 W. Sheridan
+Chicago, IL 60640
+(41.9723718784452, -87.65498234348432)"
+"Community Technology Center","Jane Addams Hull House Association","1030 West Van Buren Street","Chicago","IL","60607","(312) 235-7004","http://www.hullhouse.org","M-F: 9AM-5PM","No","true","false","true","1030 West Van Buren Street
+Chicago, IL 60607
+(41.8766311950428, -87.65270800503718)"
+"Chicago Public Library","Greater Grand Crossing","1000 East 73rd Street","Chicago","IL","60619","(312) 745-1608","http://www.chipublib.org/branch/details/library/greater-grand-crossing/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","1000 East 73rd Street
+Chicago, IL 60619
+(41.76228725309869, -87.60040226851038)"
+"Community Technology Center","Chicago Workforce Center - Pilsen","1657 S. Blue Island Avenue","Chicago","IL","60607","(312) 256-5716","http://www.nationalable.org","M-F: 9AM-4PM",,"true","false","true","1657 S. Blue Island Avenue
+Chicago, IL 60607
+(41.85835283226851, -87.66072879023585)"
+"Chicago Public Library","Vodak-East Side","3710 E. 106th Street","Chicago","IL","60617","(312) 747-5500","http://www.chipublib.org/branch/details/library/vodak-east-side/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","3710 E. 106th Street
+Chicago, IL 60617
+(41.70274314153875, -87.53351069597107)"
+"Chicago Public Library","Edgewater","1210 W. Elmdale Avenue","Chicago","IL","60660","(312) 744-0718","http://www.chipublib.org/branch/details/library/edgewater/","M: Closed; TU-TH: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","1210 W. Elmdale Avenue
+Chicago, IL 60660
+(41.990915222728766, -87.66071467778714)"
+"Youth Center","YCDC The Beloved Community St. Sabina","7909 S. Racine Ave.","Chicago","IL","60620","(773) 783-3760","http://www.belovedcommunitychicago.org/","Call for hours","No","true","false","true","7909 S. Racine Ave.
+Chicago, IL 60620
+(41.750315046741946, -87.65365456637862)"
+"Chicago Public Library","South Shore","2505 E. 73rd Street","Chicago","IL","60649","(312) 747-5281","http://www.chipublib.org/branch/details/library/south-shore/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","2505 E. 73rd Street
+Chicago, IL 60649
+(41.76181960564344, -87.56215410260427)"
+"Chicago Public Library","Austin","5615 W. Race Avenue","Chicago","IL","60644","(312) 746-5038","http://www.chipublib.org/branch/details/library/austin/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","5615 W. Race Avenue
+Chicago, IL 60644
+(41.88923971478115, -87.76572190710762)"
+"Chicago Public Library","Oriole Park","7454 W. Balmoral Avenue","Chicago","IL","60656","(312) 744-1965","http://www.chipublib.org/branch/details/library/oriole-park/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","7454 W. Balmoral Avenue
+Chicago, IL 60656
+(41.97806049179239, -87.81330682610985)"
+"Community Technology Center","Instituto del Progreso Latino (Main Site - Pilsen)","2570 S. Blue Island Avenue","Chicago","IL","60608","(773) 890-0055","http://www.idpl.org","M-F: 8AM-9:30PM","No","true","false","true","2570 S. Blue Island Avenue
+Chicago, IL 60608
+(41.84543856792777, -87.68382337994825)"
+"Chicago Public School","Agassiz Elementary","2851 N Seminary Ave","Chicago","IL","60657","(773) 534-5725","http://www.agassizschool.org/","Call for hours","No","true","true","false","2851 N Seminary Ave
+Chicago, IL 60657
+(41.93372582836627, -87.65619929279464)"
+"Community Technology Center","Chinese American Service League","2141 S. Tan Court","Chicago","IL","60616","(312) 791-0418","http://www.caslservice.org","M-F: 9AM-5PM","No","true","true","true","2141 S. Tan Court
+Chicago, IL 60616
+(41.855100615306114, -87.63442098084143)"
+"Youth Center","YCDC Boys and Girls Club","2950 W. Washington Blvd.","Chicago","IL","60612","(773) 376-6847 x. 4717 or (773) 638-5464 x. 4813","http://www.bgcc.org/","Call for hours","No","true","false","true","2950 W. Washington Blvd.
+Chicago, IL 60612
+(41.882914005208946, -87.7000401142845)"
+"Chicago Public School","Black Magnet School","9101 S Euclid Ave","Chicago","IL","60617","(773) 535-6390","http://www.cps.edu/Schools/Pages/school.aspx?unit=7860","Call for hours","No","true","false","true","9101 S Euclid Ave
+Chicago, IL 60617
+(41.72967823592592, -87.57666604590717)"
+"Chicago Public Library","Thurgood Marshall","7506 S. Racine Avenue","Chicago","IL","60620","(312) 747-5927","http://www.chipublib.org/branch/details/library/thurgood-marshall/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","7506 S. Racine Avenue
+Chicago, IL 60620
+(41.75745172208852, -87.65398226057334)"
+"Community Technology Center","CRDDC Technology Center","25 N. Cicero Avenue","Chicago","IL","60644","(773) 261-6098","http://www.CRDDC.net","M-F: 9AM-5PM","No","true","true","true","25 N. Cicero Avenue
+Chicago, IL 60644
+(41.88083025814558, -87.74520703961191)"
+"WorkForce Center","Polish American Association","3815-3819 N. Cicero","Chicago","IL","60641","(773) 282-1122 ","http://www.polish.org/","TU, TH: 9AM-2PM and 3PM-5:45PM; W, F: 1PM-2PM; 3PM-6:45PM; SA: 9AM-2PM and 3PM-4:45PM; SU-M: Closed","NA","true","false","true","3815-3819 N. Cicero
+Chicago, IL 60641
+(41.94620999999995, -87.74698999999993)"
+"Senior Center","Garfield Ridge Satellite Center","5674 S. Archer Ave","Chicago","IL","60638","(312) 745-4250","http://www.cityofchicago.org/city/en/depts/fss/supp_info/satellite_centerinformation.html","M-F: 8:30AM-3PM; SA-SU: Closed ","Yes","true","false","true","5674 S. Archer Ave
+Chicago, IL 60638
+(41.79720909058657, -87.75298148538717)"
+"WorkForce Center","Greater West Town Development Corporation","790 N. Milwaukee","Chicago","IL","60622","(312) 432-1300 ","http://www.gwtp.org/programs.html","Call","NA","true","false","true","790 N. Milwaukee
+Chicago, IL 60622
+(41.90318000000002, -87.68408)"
+"Chicago Public Library","Austin-Irving","6100 W. Irving Park Road","Chicago","IL","60634","(312) 744-6222","http://www.chipublib.org/branch/details/library/austin-irving/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","6100 W. Irving Park Road
+Chicago, IL 60634
+(41.95300647585236, -87.77944829132372)"
+"Chicago Public Library","Pullman","11001 S. Indiana Avenue","Chicago","IL","60628","(312) 747-2033","http://www.chipublib.org/branch/details/library/pullman/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","11001 S. Indiana Avenue
+Chicago, IL 60628
+(41.6943993478663, -87.61821423954542)"
+"Wireless Internet Zone","Daley Center Plaza","50 W. Washington Street","Chicago","IL","60602","NA","http://www.cityofchicago.org/city/en/depts/doit/supp_info/wireless_internetzones.html","Wireless access is available 24 hours a day 7 days a week.","No","false","true","false","50 W. Washington Street
+Chicago, IL 60602
+(41.88322807959895, -87.63036767852668)"
+"Community Technology Center","Austin CTC","4943 W. Quincy","Chicago","IL","60644","(773) 626-5685","http://www.mercyhousing.org","M-W: 8:30AM-6:30PM; TH: 10AM-8PM; F: 8:30AM-6:30PM; SA: 8:30AM-5PM",,"true","false","true","4943 W. Quincy
+Chicago, IL 60644
+(41.87760177646487, -87.74807801023542)"
+"City Colleges of Chicago","Olive-Harvey College","10001 S. Woodlawn Ave.","Chicago","IL","60628","(773) 291-6620","http://oliveharvey.ccc.edu/","Call for hours","No","true","true","true","10001 S. Woodlawn Ave.
+Chicago, IL 60628
+(41.71339982675984, -87.59221645934996)"
+"Chicago Public Library","Hegewisch","3048 E. 130th Street","Chicago","IL","60633","(312) 747-0046","http://www.chipublib.org/branch/details/library/hegewisch/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","3048 E. 130th Street
+Chicago, IL 60633
+(41.65923625090685, -87.54920989297193)"
+"Chicago Public Library","Jeffery Manor","2401 E. 100th Street","Chicago","IL","60617","(312) 747-6479","http://www.chipublib.org/branch/details/library/jeffery-manor/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","2401 E. 100th Street
+Chicago, IL 60617
+(41.71351701944974, -87.5654186415706)"
+"Community Technology Center","WHA-Youth Technology Center","5437 West Division Street","Chicago","IL","60651","(773) 378-5034","http://www.healthauthority.org","M-F: 9AM-7PM",,"true","true","true","5437 West Division Street
+Chicago, IL 60651
+(41.902185787976634, -87.76240613886847)"
+"Chicago Public Library","Blackstone","4904 S. Lake Park Avenue","Chicago","IL","60615","(312) 747-0511","http://www.chipublib.org/branch/details/library/blackstone/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","4904 S. Lake Park Avenue
+Chicago, IL 60615
+(41.80549856317075, -87.58911460582341)"
+"Youth Center","YCDC Center on Halsted","3656 N. Halsted","Chicago","IL","60613","(773) 472-6469","http://www.centeronhalsted.org/","Call for hours","No","true","false","true","3656 N. Halsted
+Chicago, IL 60613
+(41.94875708933173, -87.64952500414803)"
+"Community Technology Center","Arthur D. Griffin Community Learn Center","1613 West Washington Blvd.","Chicago","IL","60612","(773) 243-1373","http://www.adgclc.org","T-F: 9:30AM-12:30PM & 3:30PM-8PM; SA: 10PM-2PM",,"true","true","true","1613 West Washington Blvd.
+Chicago, IL 60612
+(41.88324509281401, -87.66721214209745)"
+"Chicago Public Library","Independence","3548 W. Irving Park Road","Chicago","IL","60618","(312) 744-0900","http://www.chipublib.org/branch/details/library/independence/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","3548 W. Irving Park Road
+Chicago, IL 60618
+(41.95384370879839, -87.71691771117403)"
+"Community Technology Center","Industrial Council of Nearwest Chicago (ICNC)","2010 W. Fulton St.  Suite 280","Chicago","IL","60612","(312) 421-3941","http://www.industrialcouncil.com/","M-F: 10AM-3PM","Yes","true","false","true","2010 W. Fulton St. Suite 280
+Chicago, IL 60612
+(41.88681497047769, -87.67709156139423)"
+"Chicago Public Library","Roosevelt","1101 W. Taylor Street","Chicago","IL","60607","(312) 746-5656","http://www.chipublib.org/branch/details/library/roosevelt/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","1101 W. Taylor Street
+Chicago, IL 60607
+(41.86945945933036, -87.65444252925101)"
+"Community Technology Center","Cleanslate (The Cara Program)","1334 South Ashland","Chicago","IL","60608","(312) 226-6361","http://www.thecaraprogram.org","M-F: 7:30AM-3:30PM",,"true","false","true","1334 South Ashland
+Chicago, IL 60608
+(41.86407763129455, -87.66641078936776)"
+"Chicago Public Library","Chinatown","2353 S. Wentworth Avenue","Chicago","IL","60616","(312) 747-8013","http://www.chipublib.org/branch/details/library/chinatown/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","2353 S. Wentworth Avenue
+Chicago, IL 60616
+(41.84976142050114, -87.63187088623415)"
+"Chicago Public Library","Harold Washington-HWLC","400 S. State Street","Chicago","IL","60605","(312) 747-4300","http://www.chipublib.org/branch/details/library/harold-washington/","M-TH: 9AM-9PM; F, SA: 9AM-5PM; SU: 1PM-5PM","NA","true","true","true","400 S. State Street
+Chicago, IL 60605
+(41.876895532791686, -87.6277248103858)"
+"Community Technology Center","Resurrection Lutheran Church","9349 S. Wentworth Avenue","Chicago","IL","60620","(773) 928-6312","http://resurrectionlutheranschool.com/","M-TH: 2PM-6PM","No","true","true","true","9349 S. Wentworth Avenue
+Chicago, IL 60620
+(41.7244224355123, -87.62864019378907)"
+"Chicago Public School","Alexander Graham Bell Elementary School","3730 N Oakley Ave","Chicago","IL","60618","(773) 534-5150","http://www.agbellschool.com","Call for hours","No","true","true","true","3730 N Oakley Ave
+Chicago, IL 60618
+(41.949163172088134, -87.68595239039209)"
+"Wireless Internet Zone","Gallery 37","66 E Randolph Street","Chicago","IL","60601","NA","http://www.cityofchicago.org/city/en/depts/doit/supp_info/wireless_internetzones.html","Wireless access is available 24 hours a day 7 days a week.","No","false","true","false","66 E Randolph Street
+Chicago, IL 60601
+(41.88446015077909, -87.62551133956845)"
+"Community Technology Center","Wentworth Commons CTC","11045 S. Wentworth Ave","Chicago","IL","60628","(312) 447-4640","http://www.mercyhousing.org","M, W, F: 9AM-4PM; TU, TH: 10AM-6PM; SA: 2PM-6PM",,"true","false","true","11045 S. Wentworth Ave
+Chicago, IL 60628
+(41.69322111990414, -87.62784810446732)"
+"Chicago Public Library","Sherman Park","5440 S. Racine Avenue","Chicago","IL","60609","(312) 747-0477","http://www.chipublib.org/branch/details/library/sherman-park/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","5440 S. Racine Avenue
+Chicago, IL 60609
+(41.79522560459017, -87.65497322295496)"
+"Chicago Public Library","Douglass","3353 W. 13th Street","Chicago","IL","60623","(312) 747-3725","http://www.chipublib.org/branch/details/library/douglass/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","3353 W. 13th Street
+Chicago, IL 60623
+(41.86447035277306, -87.70965742761399)"
+"FamilyNet Center","Association House ","1116 N. Kedzie Ave","Chicago","IL","60657","(773) 772-7170, x. 3103","http://www.humboldtparkportal.org","M-F: 9a -5p; Sat 9a - 2p","yes","true","false","true","1116 N. Kedzie Ave
+Chicago, IL 60657
+(41.90152511582621, -87.706795718495)"
+"WorkForce Center","Ser Services Inc.","3948 W. 26th St., Suite 213","Chicago","IL","60623","(773) 542-9030 x. 250 ","http://www.centralstatesser.org/","Call","NA","true","false","true","3948 W. 26th St., Suite 213
+Chicago, IL 60623
+(41.84427844250996, -87.72383421703182)"
+"Community Technology Center","YWCA Parks Francis Community Technology Center","6600 S. Cottage Grove","Chicago","IL","60637","(773) 496-5619","http://www.ywcachicago.org","M-F: 9AM-8PM",,"true","true","true","6600 S. Cottage Grove
+Chicago, IL 60637
+(41.78082999999998, -87.60190999999998)"
+"Community Technology Center","Instituto del Progreso Latino (Back of the Yards Site)","4600 S. Wood Street","Chicago","IL","60609","(773) 927-7712","http://www.idpl.org","M-F: 9AM-5PM","No","true","false","true","4600 S. Wood Street
+Chicago, IL 60609
+(41.81022111726037, -87.66986590205352)"
+"Chicago Public Library","North Austin","5724 W. North Avenue","Chicago","IL","60639","(312) 746-4233","http://www.chipublib.org/branch/details/library/north-austin/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","5724 W. North Avenue
+Chicago, IL 60639
+(41.909386571158564, -87.76884149582136)"
+"Community Technology Center","Chinese Mutual Aid Association","1016 W Argyle St","Chicago","IL","60640","(773) 784-2900","http://www.chinesemutualaid.org","M-F: 10AM-6PM; SA: 9AM-2PM","No","true","false","true","1016 W Argyle St
+Chicago, IL 60640
+(41.973336511391985, -87.65558535698865)"
+"WorkForce Center","Heartland Human Care Services","3500 S. Lake Park, 1 West","Chicago","IL","60653","(312) 660-1890 x. 6421 ","http://www.heartlandalliance.org/","Call","NA","true","false","true","3500 S. Lake Park, 1 West
+Chicago, IL 60653
+(41.81923999999998, -87.61011000000002)"
+"Chicago Public Library","Archer Heights","5055 S. Archer Avenue","Chicago","IL","60632","(312) 747-9241","http://www.chipublib.org/branch/details/library/archer-heights/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","5055 S. Archer Avenue
+Chicago, IL 60632
+(41.8011516408391, -87.72648637582104)"
+"Chicago Public Library","Walker","11071 S. Hoyne Avenue","Chicago","IL","60643","(312) 747-1920","http://www.chipublib.org/branch/details/library/walker/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","11071 S. Hoyne Avenue
+Chicago, IL 60643
+(41.692425806405964, -87.67413447354456)"
+"Chicago Public Library","Bezazian","1226 W. Ainslie Street","Chicago","IL","60640","(312) 744-0019","http://www.chipublib.org/branch/details/library/bezazian/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","1226 W. Ainslie Street
+Chicago, IL 60640
+(41.97150782906277, -87.66010941497308)"
+"Community Technology Center","Rufino Tamayo School (housed at St. Simon the Apostle Parish)","5157 S. California","Chicago","IL","60632","(312) 432-6301","http://unocharterschools.org/uscn_campuses.aspx","W: 1PM-3PM; T-TH: 9AM-1PM & 5PM-9PM",,"true","true","true","5157 S. California
+Chicago, IL 60632
+(41.79994987799121, -87.69389448532937)"
+"Chicago Public Library","Gage Park","2807 W. 55th Street","Chicago","IL","60632","(312) 747-0032","http://www.chipublib.org/branch/details/library/gage-park/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","2807 W. 55th Street
+Chicago, IL 60632
+(41.79369157836186, -87.69412961040405)"
+"Chicago Public Library","Mayfair","4400 W. Lawrence Avenue","Chicago","IL","60630","(312) 744-1254","http://www.chipublib.org/branch/details/library/mayfair/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","4400 W. Lawrence Avenue
+Chicago, IL 60630
+(41.96812407916491, -87.73825034916149)"
+"Community Technology Center","The Cara Program (West Loop Campus)","703 West Monroe","Chicago","IL","60661","(312) 798-3300","http://www.thecaraprogram.org","M-F: 9AM-5PM",,"true","false","true","703 West Monroe
+Chicago, IL 60661
+(41.88045870478801, -87.64493289554612)"
+"Community Technology Center","South Loop CTC","1521 S. Wabash Ave","Chicago","IL","60605","(312) 447-4681","http://www.mercyhousing.org","M-F: 9AM-5PM",,"true","false","true","1521 S. Wabash Ave
+Chicago, IL 60605
+(41.86125169095953, -87.62557641139145)"
+"Wireless Internet Zone","Chicago Cultural Center","78 E Washington Street","Chicago","IL","60602","NA","http://www.cityofchicago.org/city/en/depts/doit/supp_info/wireless_internetzones.html","Wireless access is available 24 hours a day 7 days a week.","No","false","true","false","78 E Washington Street
+Chicago, IL 60602
+(41.88327494122517, -87.62522219047514)"
+"Chicago Public Library","Edgebrook","5331 W. Devon Avenue","Chicago","IL","60646","(312) 744-8313","http://www.chipublib.org/branch/details/library/edgebrook/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","5331 W. Devon Avenue
+Chicago, IL 60646
+(41.99727110613452, -87.7621183558191)"
+"Chicago Public School","Hubbard High School","6200 S Hamlin Ave","Chicago","IL","60629","(773) 535-2200","http://www.hubbard.cps.k12.il.us/","Call for hours","Yes ","true","true","false","6200 S Hamlin Ave
+Chicago, IL 60629
+(41.7805250950467, -87.71796294439287)"
+"WorkForce Center","Chicago Workforce Center - Northside","4740 N. Sheridan","Chicago","IL","60640","(773) 334-4747 (Voice) or (773) 334-9804 (TTY)","http://www.cityofchicago.org/city/en/depts/fss/supp_info/chicago_workforcecenters-servicesforjobseekers.html","M-TH: 9AM (Orientation)","Yes","true","false","true","4740 N. Sheridan
+Chicago, IL 60640
+(41.96800354653189, -87.65488723277781)"
+"Community Technology Center","Erie Neighborhood House","1347 W. Erie St.","Chicago","IL","60642","(312) 666-3430","http://www.eriehouse.org","M-F: 9AM-9PM; SA: 9AM-1PM","Yes","true","true","true","1347 W. Erie St.
+Chicago, IL 60642
+(41.89336257541038, -87.66115911581073)"
+"Community Technology Center","Polish American Association","3815 N. Cicero Ave","Chicago","IL","60641","(773) 282-1122","http://www.polish.org","TU, TH: 9AM-6PM; W, F: 1PM-7PM; SA: 9AM-5PM",,"true","false","true","3815 N. Cicero Ave
+Chicago, IL 60641
+(41.95019239728898, -87.74713389075295)"
+"Community Technology Center","Instituto del Progreso Latino (Saint. Michaels Site)","2315 W. 24th Place","Chicago","IL","60608","(773) 890-0055","http://www.idpl.org","M-F: 8:30AM-9:30PM","Yes","true","false","true","2315 W. 24th Place
+Chicago, IL 60608
+(41.84842431706505, -87.6837964002874)"
+"WorkForce Center","Howard Area Community Center","1623 W. Howard","Chicago","IL","60626","(773) 262-3515 ","http://www.howardarea.org/","Call","NA","true","false","true","1623 W. Howard
+Chicago, IL 60626
+(42.01932161883411, -87.67234371410865)"
+"Chicago Public School","Henson Elementary School","1326 S Avers Ave","Chicago","IL","60623","(773) 534-1804","http://www.cps.edu/Schools/Pages/school.aspx?unit=6570","Call for hours","Yes ","true","true","false","1326 S Avers Ave
+Chicago, IL 60623
+(41.86386702654221, -87.72150953384323)"
+"FamilyNet Center","Chicago Commons ","3441 W. Chicago Ave","Chicago","IL","60651","(773) 826-0739","http://www.humboldtparkportal.org","M-F 9a -5p","yes","true","false","true","3441 W. Chicago Ave
+Chicago, IL 60651
+(41.89552181173951, -87.71307832556141)"
+"Community Technology Center","OAI CTC","180 N Wabash Ave.  Suite 400","Chicago","IL","60601","(312) 528-3501","http://www.oaiinc.org","M-F: 8:30AM-4PM",,"true","true","true","180 N Wabash Ave. Suite 400
+Chicago, IL 60601
+(41.88543141857076, -87.62624878363249)"
+"Chicago Public Library","King","3436 S. King Drive","Chicago","IL","60616","(312) 747-7543","http://www.chipublib.org/branch/details/library/king/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","3436 S. King Drive
+Chicago, IL 60616
+(41.83225513635272, -87.61739931187078)"
+"Chicago Public Library","Lincoln Belmont","1659 W. Melrose Street","Chicago","IL","60657","(312) 744-0166","http://www.chipublib.org/branch/details/library/lincoln-belmont/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","1659 W. Melrose Street
+Chicago, IL 60657
+(41.94052077934602, -87.6702192224693)"
+"Youth Center","YCDC Association House","1116 N. Kedzie Ave.","Chicago","IL","60651","(773) 772-7170","http://www.associationhouse.org","Call for hours","No","true","false","true","1116 N. Kedzie Ave.
+Chicago, IL 60651
+(41.90152511582621, -87.706795718495)"
+"Senior Center","Portage Park Satellite Center","4100 N. Long","Chicago","IL","60641","(312) 744-9022","http://www.cityofchicago.org/city/en/depts/fss/supp_info/satellite_centerinformation.html","M-F: 8:30AM-4:30PM; SA-SU: Closed ","Yes","true","false","true","4100 N. Long
+Chicago, IL 60641
+(41.95506808167233, -87.7621920751551)"
+"Chicago Public Library","Coleman","731 E. 63rd Street","Chicago","IL","60637","(312) 747-7760","http://www.chipublib.org/branch/details/library/bessie-coleman/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","731 E. 63rd Street
+Chicago, IL 60637
+(41.78032733934338, -87.60713524338108)"
+"City Colleges of Chicago","Wilbur Wright College","4300 N. Narragansett","Chicago","IL","60634","(773) 481-8775","http://wright.ccc.edu/","Call for hours","No","true","true","true","4300 N. Narragansett
+Chicago, IL 60634
+(41.958431313984086, -87.78685486491793)"
+"Community Technology Center","Pui Tak Center","2216 S. Wentworth Avenue","Chicago","IL","60616","(312) 328-1188","http://www.puitak.org","M-TH: 8:30AM-7PM; F: 9AM-5PM; SA: 8:30AM-12:30PM",,"true","false","true","2216 S. Wentworth Avenue
+Chicago, IL 60616
+(41.85238265106053, -87.63206928243336)"
+"Chicago Public Library","West Pullman","830 W. 119th Street","Chicago","IL","60643","(312) 747-1425","http://www.chipublib.org/branch/details/library/west-pullman/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","830 W. 119th Street
+Chicago, IL 60643
+(41.677842548079575, -87.64351692717509)"
+"WorkForce Center","Chicago Workforce Center - Mid-South","4314 S. Cottage Grove","Chicago","IL","60653","(773) 538-5627 (Voice) or (773) 538-8260 (TTY)","http://www.cityofchicago.org/city/en/depts/fss/supp_info/chicago_workforcecenters-servicesforjobseekers.html","M-TH: 8:45AM (Orientation)","Yes","true","false","true","4314 S. Cottage Grove
+Chicago, IL 60653
+(41.81923999999998, -87.61011000000002)"
+"Community Technology Center","Lowden Homes","200 W. 95th Street","Chicago","IL","60620",,"http://www.cha.terau.com","M, W, F: 10AM-6PM","Yes","true","false","true","200 W. 95th Street
+Chicago, IL 60620
+(41.72177338664127, -87.62869611813161)"
+"Community Technology Center","Back of the Yards Neighborhood Council CTC","1751 W 47th Street, 2nd Floor","Chicago","IL","60609","(773) 523-4416","http://www.bync.org","M-F: 9AM-7PM",,"true","true","true","1751 W 47th Street, 2nd Floor
+Chicago, IL 60609
+(41.8085573715062, -87.66938026815768)"
+"Chicago Public Library","Portage-Cragin","5108 W. Belmont Avenue","Chicago","IL","60641","(312) 744-0152","http://www.chipublib.org/branch/details/library/portage-cragin/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","5108 W. Belmont Avenue
+Chicago, IL 60641
+(41.938786635089386, -87.75447892700763)"
+"Community Technology Center","Charles Hayes Center","4859 S. Wabash Ave","Chicago","IL","60615",,"http://www.cha.terau.com","M-F: 9AM-4PM","No","true","false","true","4859 S. Wabash Ave
+Chicago, IL 60615
+(41.80636185262162, -87.62429782439416)"
+"Community Technology Center","Officer Donald J. Marquez School ","2916 W. 47th St.","Chicago","IL","60632","(312) 432-6301","http://unocharterschools.org/uscn_campuses.aspx","M-TH: 5PM-8PM",,"true","true","true","2916 W. 47th St.
+Chicago, IL 60632
+(41.80823361557566, -87.69699844767752)"
+"Chicago Public Library","Near North","310 W. Division Street","Chicago","IL","60610","(312) 744-0991","http://www.chipublib.org/branch/details/library/near-north/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","310 W. Division Street
+Chicago, IL 60610
+(41.90383476840986, -87.6369110556418)"
+"Chicago Public Library","West Belmont","3104 N. Narragansett Avenue","Chicago","IL","60634","(312) 746-5142","http://www.chipublib.org/branch/details/library/west-belmont/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","3104 N. Narragansett Avenue
+Chicago, IL 60634
+(41.93657530790023, -87.78594797227504)"
+"Chicago Public School","John Hope College Prep High School","5515 S Lowe Ave","Chicago","IL","60621","(773) 535-3160","http://www.johnhopecollegeprep.org/","Call for hours","Yes ","true","false","false","5515 S Lowe Ave
+Chicago, IL 60621
+(41.79369070103287, -87.64141096482182)"
+"Senior Center","Northwest (Copernicus) Senior Center","3160 N. Milwaukee Avenue","Chicago","IL","60618","(312) 744-6681 (Voice) or (312) 744-0321 (TTY) ","http://www.cityofchicago.org/city/en/depts/fss/supp_info/regional_center_information.html","Call","No","true","false","true","3160 N. Milwaukee Avenue
+Chicago, IL 60618
+(41.938325732152336, -87.72265595766675)"
+"WorkForce Center","YMCA of Metropolitan Chicago","11 E. Adams","Chicago","IL","60603","(312) 913-2150","http://www.ymcachgo.org/","Call","NA","true","false","true","11 E. Adams
+Chicago, IL 60603
+(41.879440225454566, -87.62733791422428)"
+"Community Technology Center","NTRC Homan Square","3517 W. Arthington St.","Chicago","IL","60624","(773) 722-5653","http://community.homansquare.org/content/page.php?cat=5&content_id=24","M-F: 10AM-6PM",,"true","true","true","3517 W. Arthington St.
+Chicago, IL 60624
+(41.86993378760654, -87.7120557108498)"
+"Chicago Public Library","Budlong Woods","5630 N. Lincoln Avenue","Chicago","IL","60659","(312) 742-9590","http://www.chipublib.org/branch/details/library/budlong-woods/","M: 2PM-6PM; TU, TH: 10AM-6PM; W: 12PM-8PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","false","5630 N. Lincoln Avenue
+Chicago, IL 60659
+(41.983822114371335, -87.69640363231542)"
+"Youth Center","YCDC Central States SER","3948 W. 26th St.","Chicago","IL","60623","(773) 542-9030 x. 257","http://www.centralstatesser.org/","Call for hours","No","true","false","true","3948 W. 26th St.
+Chicago, IL 60623
+(41.84427844250996, -87.72383421703182)"
+"Senior Center","Chatham Satellite Center","8300 S. Cottage Grove","Chicago","IL","60619","(312) 745-0385","http://www.cityofchicago.org/city/en/depts/fss/supp_info/satellite_centerinformation.html","M-F: 8:30AM-4:30PM; SA-SU: Closed ","Yes","true","false","true","8300 S. Cottage Grove
+Chicago, IL 60619
+(41.74405000000007, -87.60523)"
+"Chicago Public Library","Brainerd","1350 W. 89th Street","Chicago","IL","60620","(312) 747-6291","http://www.chipublib.org/branch/details/library/brainerd/","M: 2PM-6PM; TU, TH: 12PM-8PM; W: 10AM-6PM; F, SA: 9AM-5PM; SU: Closed","NA","true","true","true","1350 W. 89th Street
+Chicago, IL 60620
+(41.73238846647307, -87.65729514660165)"
+"Community Technology Center","Chicago Commons ETC","3441 W. Chicago Ave","Chicago","IL","60651","(773) 826-0739","http://www.chicagocommons.org/","M-F: 9AM-5PM","No","true","false","true","3441 W. Chicago Ave
+Chicago, IL 60651
+(41.89552181173951, -87.71307832556141)"
+"City Colleges of Chicago","Kennedy-King College","6301 S. Halsted Street","Chicago","IL","60621","(773) 602-5198 or (773) 602-5199","http://kennedyking.ccc.edu/","Call for hours","No","true","true","true","6301 S. Halsted Street
+Chicago, IL 60621
+(41.77950926995982, -87.64478381065635)"
