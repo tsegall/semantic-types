@@ -9,6 +9,8 @@ import (
 	"log"
 	"os"
 	"sort"
+
+	mapset "github.com/deckarep/golang-set/v2"
 )
 
 type Statistic struct {
@@ -36,6 +38,13 @@ func main() {
 	flag.Parse()
 
 	statistics := make(map[string]Statistic)
+
+	boring := mapset.NewSet[string]()
+	boring.Add("BLANK")
+	boring.Add("SIGNED")
+	boring.Add("SIGNED,GROUPING")
+	boring.Add("SIGNED_TRAILING")
+	boring.Add("NON_LOCALIZED")
 
 	const FileName = 0
 	const FieldOffset = 1
@@ -99,6 +108,10 @@ func main() {
 			}
 
 			if recordRef[SemanticType] == recordCurrent[SemanticType] {
+				if boring.Contains(recordRef[SemanticType]) {
+					continue
+				}
+
 				// True Positive
 				update(statistics, recordRef[SemanticType], key, "", "", "")
 			} else if recordRef[SemanticType] != "" && recordCurrent[SemanticType] == "" {
@@ -109,7 +122,9 @@ func main() {
 				update(statistics, recordCurrent[SemanticType], "", "", key, "")
 			} else {
 				update(statistics, recordRef[SemanticType], "", "", "", key)
-				update(statistics, recordCurrent[SemanticType], "", "", key, "")
+				if !boring.Contains(recordCurrent[SemanticType]) {
+					update(statistics, recordCurrent[SemanticType], "", "", key, "")
+				}
 			}
 
 		}
@@ -181,7 +196,8 @@ func main() {
 
 	if options.Type == "" {
 		fmt.Printf("\nTotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d, Record#: %d (ID%%: %.2f)\n",
-			totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives, totalRecords, float32((totalTruePositives+totalFalseNegatives)*100)/float32(totalRecords))
+			totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives,
+			totalRecords, float32((totalTruePositives+totalFalseNegatives)*100)/float32(totalRecords))
 	}
 }
 
