@@ -1,0 +1,1001 @@
+"year","month","quarter","airline_id","carrier","carrier_name","unique_carrier","unique_carrier_name","passengers","mishandled_baggage","enplaned_baggage","mishandled_wchr_sctr","enplaned_wchr_sctr","form_type","mkt_carrier_flag"
+"2016","4","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1585779","3644",,,,,
+"2016","10","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","10121591","24419",,,,,
+"2016","10","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","1858813","2072",,,,,
+"2016","10","4","20409","B6","JetBlue Airways","B6","JetBlue Airways","2624539","3303",,,,,
+"2016","10","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","10667071","13623",,,,,
+"2016","10","4","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1760941","5696",,,,,
+"2016","10","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1320241","6189",,,,,
+"2016","10","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","847699","2317",,,,,
+"2016","10","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1596534","2846",,,,,
+"2016","10","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2590735","6442",,,,,
+"2016","10","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7073717","14965",,,,,
+"2016","10","4","21171","VX","Virgin America","VX","Virgin America","657048","632",,,,,
+"2016","10","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13025226","29068",,,,,
+"2016","11","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9653208","23105",,,,,
+"2016","11","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","1876070","2142",,,,,
+"2016","11","4","20409","B6","JetBlue Airways","B6","JetBlue Airways","2687459","3512",,,,,
+"2016","11","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","10111035","12468",,,,,
+"2016","11","4","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1620696","5126",,,,,
+"2016","11","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1196083","3701",,,,,
+"2016","11","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","791475","1835",,,,,
+"2016","11","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1618374","2737",,,,,
+"2016","11","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2409655","6316",,,,,
+"2016","11","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","6548526","12665",,,,,
+"2016","11","4","21171","VX","Virgin America","VX","Virgin America","655855","632",,,,,
+"2016","11","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","12862236","31000",,,,,
+"2016","12","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9777696","37769",,,,,
+"2016","12","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","1917631","3919",,,,,
+"2016","12","4","20409","B6","JetBlue Airways","B6","JetBlue Airways","2804881","5082",,,,,
+"2016","12","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","9573952","24396",,,,,
+"2016","12","4","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1634732","9277",,,,,
+"2016","12","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1183976","8269",,,,,
+"2016","12","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","849314","2600",,,,,
+"2016","12","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1687835","3535",,,,,
+"2016","12","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2444664","14076",,,,,
+"2016","12","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","6466450","25918",,,,,
+"2016","12","4","21171","VX","Virgin America","VX","Virgin America","650961","892",,,,,
+"2016","12","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","12732611","48783",,,,,
+"2017","1","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9289525","33827",,,,,
+"2017","1","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","1793803","3971",,,,,
+"2017","1","1","20409","B6","JetBlue Airways","B6","JetBlue Airways","2737977","5259",,,,,
+"2017","1","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","8747031","26921",,,,,
+"2017","1","1","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1393686","8811",,,,,
+"2017","1","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1147969","6827",,,,,
+"2017","1","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","844841","2964",,,,,
+"2017","1","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1640754","3029",,,,,
+"2017","1","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2332048","12021",,,,,
+"2017","1","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","5828072","19309",,,,,
+"2017","1","1","21171","VX","Virgin America","VX","Virgin America","580630","1091",,,,,
+"2017","1","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","11231184","37544",,,,,
+"2017","2","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","8723077","20793",,,,,
+"2017","2","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","1684028","2914",,,,,
+"2017","2","1","20409","B6","JetBlue Airways","B6","JetBlue Airways","2465383","3373",,,,,
+"2017","2","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","8461967","13091",,,,,
+"2017","2","1","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1247511","3871",,,,,
+"2017","2","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1057079","3329",,,,,
+"2017","2","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","751640","2185",,,,,
+"2017","2","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1597904","2364",,,,,
+"2017","2","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2127311","7567",,,,,
+"2017","2","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","5493404","12193",,,,,
+"2017","2","1","21171","VX","Virgin America","VX","Virgin America","534869","663",,,,,
+"2017","2","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","10581340","24426",,,,,
+"2017","3","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","10700764","28017",,,,,
+"2017","3","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2108176","2907",,,,,
+"2017","3","1","20409","B6","JetBlue Airways","B6","JetBlue Airways","2944712","4701",,,,,
+"2017","3","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","10852398","17739",,,,,
+"2017","3","1","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1513041","5507",,,,,
+"2017","3","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1274828","3289",,,,,
+"2017","3","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","857395","2322",,,,,
+"2017","3","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1903202","2525",,,,,
+"2017","3","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2906129","9102",,,,,
+"2017","3","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","6988957","16918",,,,,
+"2017","3","1","21171","VX","Virgin America","VX","Virgin America","643953","806",,,,,
+"2017","3","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13478853","31753",,,,,
+"2017","4","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","10070814","28327",,,,,
+"2017","4","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2008750","2838",,,,,
+"2017","4","2","20409","B6","JetBlue Airways","B6","JetBlue Airways","2913464","4377",,,,,
+"2017","4","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","9953754","30282",,,,,
+"2017","4","2","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1324149","6179",,,,,
+"2017","4","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1248519","2881",,,,,
+"2017","4","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","819181","2068",,,,,
+"2017","4","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2783144","8446",,,,,
+"2017","4","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","6734304","14249",,,,,
+"2017","4","2","21171","VX","Virgin America","VX","Virgin America","653156","928",,,,,
+"2017","4","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13331080","32361",,,,,
+"2017","5","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","10637844","27199",,,,,
+"2017","5","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2193846","3521",,,,,
+"2017","5","2","20409","B6","JetBlue Airways","B6","JetBlue Airways","2905641","4814",,,,,
+"2017","5","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","11122894","18576",,,,,
+"2017","5","2","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1361065","4693",,,,,
+"2017","5","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1361806","3499",,,,,
+"2017","5","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","883544","2655",,,,,
+"2017","5","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1888028","3110",,,,,
+"2017","5","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2952995","7698",,,,,
+"2017","5","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7214180","15259",,,,,
+"2017","5","2","21171","VX","Virgin America","VX","Virgin America","683462","1071",,,,,
+"2017","5","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13567828","39413",,,,,
+"2017","6","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","10762186","34433",,,,,
+"2017","6","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2237360","4146",,,,,
+"2017","6","2","20409","B6","JetBlue Airways","B6","JetBlue Airways","2899515","5314",,,,,
+"2017","6","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","11330703","19382",,,,,
+"2017","6","2","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1369080","5470",,,,,
+"2017","6","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1449410","3466",,,,,
+"2017","6","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","931026","2551",,,,,
+"2017","6","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1961923","3569",,,,,
+"2017","6","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","3161131","9739",,,,,
+"2017","6","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7715405","19075",,,,,
+"2017","6","2","21171","VX","Virgin America","VX","Virgin America","715225","1239",,,,,
+"2017","6","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","14090883","47202",,,,,
+"2017","7","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","11028681","38235",,,,,
+"2017","7","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2350439","4202",,,,,
+"2017","7","3","20409","B6","JetBlue Airways","B6","JetBlue Airways","3044786","5509",,,,,
+"2017","7","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","11706650","20758",,,,,
+"2017","7","3","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1308175","5567",,,,,
+"2017","7","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1563216","3875",,,,,
+"2017","7","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","980360","2527",,,,,
+"2017","7","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2085450","3751",,,,,
+"2017","7","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","3258609","11063",,,,,
+"2017","7","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7995056","22901",,,,,
+"2017","7","3","21171","VX","Virgin America","VX","Virgin America","759392","1487",,,,,
+"2017","7","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","14445834","48840",,,,,
+"2017","8","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","10882062","30440",,,,,
+"2017","8","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2326387","4554",,,,,
+"2017","8","3","20409","B6","JetBlue Airways","B6","JetBlue Airways","2995071","5348",,,,,
+"2017","8","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","11684561","16815",,,,,
+"2017","8","3","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1213329","4515",,,,,
+"2017","8","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1505004","3153",,,,,
+"2017","8","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","934948","2110",,,,,
+"2017","8","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2080540","3428",,,,,
+"2017","8","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","3289770","10022",,,,,
+"2017","8","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7704391","19276",,,,,
+"2017","8","3","21171","VX","Virgin America","VX","Virgin America","762244","1671",,,,,
+"2017","8","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13551198","42818",,,,,
+"2017","9","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9266454","21461",,,,,
+"2017","9","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2016657","3599",,,,,
+"2017","9","3","20409","B6","JetBlue Airways","B6","JetBlue Airways","2362637","3618",,,,,
+"2017","9","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","9800455","12901",,,,,
+"2017","9","3","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1013658","2586",,,,,
+"2017","9","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1318782","2531",,,,,
+"2017","9","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","824969","1967",,,,,
+"2017","9","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1628084","2511",,,,,
+"2017","9","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2989283","6568",,,,,
+"2017","9","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","6621413","11677",,,,,
+"2017","9","3","21171","VX","Virgin America","VX","Virgin America","693658","1372",,,,,
+"2017","9","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","11939568","29751",,,,,
+"2017","10","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","10646198","23808",,,,,
+"2017","10","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2028947","3280",,,,,
+"2017","10","4","20409","B6","JetBlue Airways","B6","JetBlue Airways","2740334","4341",,,,,
+"2017","10","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","11113794","15606",,,,,
+"2017","10","4","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","1087163","2954",,,,,
+"2017","10","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1465100","3651",,,,,
+"2017","10","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","882548","2750",,,,,
+"2017","10","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1930202","2645",,,,,
+"2017","10","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","3305546","8032",,,,,
+"2017","10","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7388086","14843",,,,,
+"2017","10","4","21171","VX","Virgin America","VX","Virgin America","756041","1515",,,,,
+"2017","10","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13469876","32667",,,,,
+"2017","11","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9900482","19877",,,,,
+"2017","11","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","1994274","3614",,,,,
+"2017","11","4","20409","B6","JetBlue Airways","B6","JetBlue Airways","2723983","3733",,,,,
+"2017","11","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","10337827","11161",,,,,
+"2017","11","4","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","948607","1974",,,,,
+"2017","11","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1465474","3124",,,,,
+"2017","11","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","863896","2130",,,,,
+"2017","11","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1843360","2479",,,,,
+"2017","11","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","3008692","6497",,,,,
+"2017","11","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7051034","12486",,,,,
+"2017","11","4","21171","VX","Virgin America","VX","Virgin America","745074","1180",,,,,
+"2017","11","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13416820","31326",,,,,
+"2017","12","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","10143160","39769",,,,,
+"2017","12","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2074701","5451",,,,,
+"2017","12","4","20409","B6","JetBlue Airways","B6","JetBlue Airways","2854753","5054",,,,,
+"2017","12","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","9511782","23732",,,,,
+"2017","12","4","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","925489","4944",,,,,
+"2017","12","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1543637","4130",,,,,
+"2017","12","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","918173","2623",,,,,
+"2017","12","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1868763","3721",,,,,
+"2017","12","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2942055","12619",,,,,
+"2017","12","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","6983454","20944",,,,,
+"2017","12","4","21171","VX","Virgin America","VX","Virgin America","736035","1719",,,,,
+"2017","12","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13141883","44313",,,,,
+"2018","1","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","8381833","38713",,,,,
+"2018","1","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","1848562","4832",,,,,
+"2018","1","1","20409","B6","JetBlue Airways","B6","JetBlue Airways","2455106","5636",,,,,
+"2018","1","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","8284059","24952",,,,,
+"2018","1","1","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","685159","4593",,,,,
+"2018","1","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1440668","4272",,,,,
+"2018","1","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","837398","2729",,,,,
+"2018","1","1","20398","MQ","Envoy Air","MQ","Envoy Air","864463","6920",,,,,
+"2018","1","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1766696","3513",,,,,
+"2018","1","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2327637","11581",,,,,
+"2018","1","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","6021879","19908",,,,,
+"2018","1","1","21171","VX","Virgin America","VX","Virgin America","635970","1497",,,,,
+"2018","1","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","11842658","36869",,,,,
+"2018","2","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","8208467","29978",,,,,
+"2018","2","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","1816123","4015",,,,,
+"2018","2","1","20409","B6","JetBlue Airways","B6","JetBlue Airways","2446090","3874",,,,,
+"2018","2","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","8338230","14371",,,,,
+"2018","2","1","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","662983","3096",,,,,
+"2018","2","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1351721","3505",,,,,
+"2018","2","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","779743","2084",,,,,
+"2018","2","1","20398","MQ","Envoy Air","MQ","Envoy Air","822116","5021",,,,,
+"2018","2","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1818348","2763",,,,,
+"2018","2","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2222677","10051",,,,,
+"2018","2","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","5744594","14462",,,,,
+"2018","2","1","21171","VX","Virgin America","VX","Virgin America","619588","1084",,,,,
+"2018","2","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","11101336","30811",,,,,
+"2018","3","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9760689","32503",,,,,
+"2018","3","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2174298","5286",,,,,
+"2018","3","1","20409","B6","JetBlue Airways","B6","JetBlue Airways","2870724","5167",,,,,
+"2018","3","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","10370305","18727",,,,,
+"2018","3","1","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","790845","3731",,,,,
+"2018","3","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1529479","3732",,,,,
+"2018","3","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","888879","2330",,,,,
+"2018","3","1","20398","MQ","Envoy Air","MQ","Envoy Air","999157","4913",,,,,
+"2018","3","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2250005","3282",,,,,
+"2018","3","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2525389","9679",,,,,
+"2018","3","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7179387","17357",,,,,
+"2018","3","1","21171","VX","Virgin America","VX","Virgin America","789511","1727",,,,,
+"2018","3","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","14098810","37312",,,,,
+"2018","4","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9205782","28097",,,,,
+"2018","4","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2912037","6453",,,,,
+"2018","4","2","20409","B6","JetBlue Airways","B6","JetBlue Airways","2867720","4573",,,,,
+"2018","4","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","9975059","15231",,,,,
+"2018","4","2","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","695995","2790",,,,,
+"2018","4","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1510781","3739",,,,,
+"2018","4","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","837744","2335",,,,,
+"2018","4","2","20398","MQ","Envoy Air","MQ","Envoy Air","993029","4912",,,,,
+"2018","4","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2090046","3204",,,,,
+"2018","4","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2472549","9671",,,,,
+"2018","4","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7269153","14418",,,,,
+"2018","4","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13605528","34852",,,,,
+"2018","5","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9619631","32278",,,,,
+"2018","5","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","3091406","8607",,,,,
+"2018","5","2","20409","B6","JetBlue Airways","B6","JetBlue Airways","2876170","4666",,,,,
+"2018","5","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","10482299","16178",,,,,
+"2018","5","2","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","679927","3115",,,,,
+"2018","5","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1705520","4524",,,,,
+"2018","5","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","885118","2179",,,,,
+"2018","5","2","20398","MQ","Envoy Air","MQ","Envoy Air","1041778","5015",,,,,
+"2018","5","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2211058","4056",,,,,
+"2018","5","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2711718","9139",,,,,
+"2018","5","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7710470","17977",,,,,
+"2018","5","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","14163744","40157",,,,,
+"2018","6","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9797541","43324",,,,,
+"2018","6","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","3193076","9154",,,,,
+"2018","6","2","20409","B6","JetBlue Airways","B6","JetBlue Airways","2824020","4977",,,,,
+"2018","6","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","10852156","23337",,,,,
+"2018","6","2","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","675953","4056",,,,,
+"2018","6","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1690810","6120",,,,,
+"2018","6","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","921668","3008",,,,,
+"2018","6","2","20398","MQ","Envoy Air","MQ","Envoy Air","1059137","7530",,,,,
+"2018","6","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2324405","4656",,,,,
+"2018","6","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2732307","12834",,,,,
+"2018","6","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","8247546","22834",,,,,
+"2018","6","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","14386044","43551",,,,,
+"2018","7","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","10048982","44079",,,,,
+"2018","7","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","3330560","9288",,,,,
+"2018","7","3","20409","B6","JetBlue Airways","B6","JetBlue Airways","2941384","5779",,,,,
+"2018","7","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","11326253","20760",,,,,
+"2018","7","3","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","663679","3623",,,,,
+"2018","7","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1760086","5452",,,,,
+"2018","7","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","970345","2360",,,,,
+"2018","7","3","20398","MQ","Envoy Air","MQ","Envoy Air","1054616","6719",,,,,
+"2018","7","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2452976","5177",,,,,
+"2018","7","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2679899","11569",,,,,
+"2018","7","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","8657700","23985",,,,,
+"2018","7","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","14613767","49484",,,,,
+"2018","8","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9776640","42419",,,,,
+"2018","8","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2983826","9211",,,,,
+"2018","8","3","20409","B6","JetBlue Airways","B6","JetBlue Airways","2912878","5745",,,,,
+"2018","8","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","11336151","21940",,,,,
+"2018","8","3","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","672057","3943",,,,,
+"2018","8","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1734231","4807",,,,,
+"2018","8","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","871667","2246",,,,,
+"2018","8","3","20398","MQ","Envoy Air","MQ","Envoy Air","1054651","6552",,,,,
+"2018","8","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2425434","4465",,,,,
+"2018","8","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2718463","12737",,,,,
+"2018","8","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","8414543","26506",,,,,
+"2018","8","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13750232","39888",,,,,
+"2018","9","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","8480931","30375",,,,,
+"2018","9","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2651515","6431",,,,,
+"2018","9","3","20409","B6","JetBlue Airways","B6","JetBlue Airways","2473883","3962",,,,,
+"2018","9","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","9580517","13291",,,,,
+"2018","9","3","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","563961","2432",,,,,
+"2018","9","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1610830","3737",,,,,
+"2018","9","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","772959","1939",,,,,
+"2018","9","3","20398","MQ","Envoy Air","MQ","Envoy Air","960375","4805",,,,,
+"2018","9","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","1990894","3103",,,,,
+"2018","9","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2144111","7818",,,,,
+"2018","9","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7247030","15082",,,,,
+"2018","9","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","12386373","30979",,,,,
+"2018","10","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9698949","32383",,,,,
+"2018","10","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2756891","6741",,,,,
+"2018","10","4","20409","B6","JetBlue Airways","B6","JetBlue Airways","2686996","3894",,,,,
+"2018","10","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","10630284","13871",,,,,
+"2018","10","4","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","590911","2346",,,,,
+"2018","10","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1686069","3687",,,,,
+"2018","10","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","847341","2121",,,,,
+"2018","10","4","20398","MQ","Envoy Air","MQ","Envoy Air","1065170","5341",,,,,
+"2018","10","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2099421","2921",,,,,
+"2018","10","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2389666","8539",,,,,
+"2018","10","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7966365","15595",,,,,
+"2018","10","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13908773","34748",,,,,
+"2018","11","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9383228","31843",,,,,
+"2018","11","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2715695","7264",,,,,
+"2018","11","4","20409","B6","JetBlue Airways","B6","JetBlue Airways","2685314","4365",,,,,
+"2018","11","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.","10173307","17849",,,,,
+"2018","11","4","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","531847","2184",,,,,
+"2018","11","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1609883","3222",,,,,
+"2018","11","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","830152","1451",,,,,
+"2018","11","4","20398","MQ","Envoy Air","MQ","Envoy Air","990597","5132",,,,,
+"2018","11","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2148736","3483",,,,,
+"2018","11","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2088652","9278",,,,,
+"2018","11","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7465026","17423",,,,,
+"2018","11","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13711819","36536",,,,,
+"2018","12","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.","9092294","41162",,,,,
+"2018","12","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.","2626491","8516",,,,,
+"2018","12","4","20409","B6","JetBlue Airways","B6","JetBlue Airways","2712707","6087",,,,,
+"2018","12","4","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines Inc.","482876","2927",,,,,
+"2018","12","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.","1605770","3127",,,,,
+"2018","12","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.","866286","1939",,,,,
+"2018","12","4","20398","MQ","Envoy Air","MQ","Envoy Air","997324","6740",,,,,
+"2018","12","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines","2197519","4696",,,,,
+"2018","12","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.","2111909","13042",,,,,
+"2018","12","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.","7306821","22685",,,,,
+"2018","12","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.","13292871","50419",,,,,
+"2019","1","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"26795","5649923","91","10239","FORM-1","true"
+"2019","1","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"8856","1816213","16","2431","FORM-2","true"
+"2019","1","1","20398","MQ","Envoy Air","MQ","Envoy Air",,"7121","814638","15","149","FORM-1","false"
+"2019","1","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"46170","9411452","178","4352","FORM-1","true"
+"2019","1","1","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"3505","741317","3","860","FORM-1","false"
+"2019","1","1","20368","G4","Allegiant Air","G4","Allegiant Air",,"853","438958","11","863","FORM-1","true"
+"2019","1","1","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"6707","1010254","7","121","FORM-1","false"
+"2019","1","1","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"6194","1108111","30","1213","FORM-1","true"
+"2019","1","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"4342","935419","42","1360","FORM-1","true"
+"2019","1","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"3243","717014","25","772","FORM-1","true"
+"2019","1","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"44958","5729772","130","2271","FORM-1","true"
+"2019","1","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"27782","3424591","37","564","FORM-2","true"
+"2019","1","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"2763","555402","10","573","FORM-1","true"
+"2019","1","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"167","11372","0","0","FORM-2","true"
+"2019","1","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"7917","1570016","20","1297","FORM-1","true"
+"2019","1","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"4992","625237","3","335","FORM-2","true"
+"2019","1","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"25203","3585720","69","6160","FORM-1","true"
+"2019","1","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"20913","2468634","32","685","FORM-2","true"
+"2019","1","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"16079","2292868","18","1805","FORM-1","false"
+"2019","1","1","20452","YX","Republic Airline","YX","Republic Airline",,"5346","630526","12","268","FORM-1","false"
+"2019","1","1","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"6339","807983","8","159","FORM-1","false"
+"2019","1","1","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines LLC",,"2687","408594","9","112","FORM-1","false"
+"2019","2","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"42578","8382096","138","6151","FORM-1","true"
+"2019","2","1","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"3302","675432","4","836","FORM-1","false"
+"2019","2","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"41351","5351935","113","2572","FORM-1","true"
+"2019","2","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"26849","3270201","49","519","FORM-2","true"
+"2019","2","1","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"5383","1025635","36","1270","FORM-1","true"
+"2019","2","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"2655","675705","22","1009","FORM-1","true"
+"2019","2","1","20398","MQ","Envoy Air","MQ","Envoy Air",,"6976","771747","11","141","FORM-1","false"
+"2019","2","1","20368","G4","Allegiant Air","G4","Allegiant Air",,"798","466434","12","1205","FORM-1","true"
+"2019","2","1","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"6856","995679","14","110","FORM-1","false"
+"2019","2","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"3851","866616","35","1831","FORM-1","true"
+"2019","2","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"28015","5358791","77","8969","FORM-1","true"
+"2019","2","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"8633","1655465","7","2648","FORM-2","true"
+"2019","2","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1777","493371","5","395","FORM-1","true"
+"2019","2","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"153","10874","0","0","FORM-2","true"
+"2019","2","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"9292","1376616","22","1323","FORM-1","true"
+"2019","2","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"6434","534632","10","199","FORM-2","true"
+"2019","2","1","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines LLC",,"1949","385273","8","228","FORM-1","false"
+"2019","2","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"16728","2191696","24","2124","FORM-1","false"
+"2019","2","1","20452","YX","Republic Airline","YX","Republic Airline",,"4686","628947","8","354","FORM-1","false"
+"2019","2","1","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"5662","744493","5","225","FORM-1","false"
+"2019","2","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"24282","3275953","50","5500","FORM-1","true"
+"2019","2","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"18568","2440746","24","1237","FORM-2","true"
+"2019","3","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"46007","10873266","176","8322","FORM-1","true"
+"2019","3","1","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"3809","925025","6","1615","FORM-1","false"
+"2019","3","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"47915","6491804","133","3422","FORM-1","true"
+"2019","3","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"30363","4033956","36","784","FORM-2","true"
+"2019","3","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"31780","7108447","112","11800","FORM-1","true"
+"2019","3","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"9129","2213259","20","3694","FORM-2","true"
+"2019","3","1","20398","MQ","Envoy Air","MQ","Envoy Air",,"7834","954249","10","197","FORM-1","false"
+"2019","3","1","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"6337","1244196","43","1504","FORM-1","true"
+"2019","3","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"3042","839189","31","1526","FORM-1","true"
+"2019","3","1","20368","G4","Allegiant Air","G4","Allegiant Air",,"1098","713247","17","1496","FORM-1","true"
+"2019","3","1","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"7500","1170299","8","161","FORM-1","false"
+"2019","3","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"4592","1147909","48","1889","FORM-1","true"
+"2019","3","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"2285","556725","8","468","FORM-1","true"
+"2019","3","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"127","15009","0","4","FORM-2","true"
+"2019","3","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"8096","1747286","2","1161","FORM-1","true"
+"2019","3","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"4020","652117","1","183","FORM-2","true"
+"2019","3","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"28301","4266408","100","5371","FORM-1","true"
+"2019","3","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"19763","2785698","52","2427","FORM-2","true"
+"2019","3","1","20366","EV","ExpressJet Airlines Inc.","EV","ExpressJet Airlines LLC",,"2370","433750","4","319","FORM-1","false"
+"2019","3","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"17399","2698712","51","2878","FORM-1","false"
+"2019","3","1","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"6517","883068","7","395","FORM-1","false"
+"2019","3","1","20452","YX","Republic Airline","YX","Republic Airline",,"4575","780288","7","657","FORM-1","false"
+"2019","4","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"43986","9957896","163","9716","FORM-1","true"
+"2019","4","2","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"3502","866141","8","4390","FORM-1","false"
+"2019","4","2","20368","G4","Allegiant Air","G4","Allegiant Air",,"925","580910","8","1473","FORM-1","true"
+"2019","4","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"4222","1058136","32","1767","FORM-1","true"
+"2019","4","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"29249","6443577","102","12446","FORM-1","true"
+"2019","4","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"7676","2080674","17","8770","FORM-2","true"
+"2019","4","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"51429","5810400","138","3643","FORM-1","true"
+"2019","4","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"31426","3774439","50","783","FORM-2","true"
+"2019","4","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"2678","724466","17","1644","FORM-1","true"
+"2019","4","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"7069","1688200","10","1814","FORM-1","true"
+"2019","4","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"2741","600657","1","300","FORM-2","true"
+"2019","4","2","20398","MQ","Envoy Air","MQ","Envoy Air",,"7972","884814","17","210","FORM-1","false"
+"2019","4","2","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"6640","1187249","22","1969","FORM-1","true"
+"2019","4","2","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"9170","1133404","9","149","FORM-1","false"
+"2019","4","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1829","538897","10","419","FORM-1","true"
+"2019","4","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"89","15176","2","83","FORM-2","true"
+"2019","4","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"23088","3881946","118","6700","FORM-1","true"
+"2019","4","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"14652","2555080","47","3110","FORM-2","true"
+"2019","4","2","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"1941","354681","5","327","FORM-1","false"
+"2019","4","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"11907","2488182","28","5431","FORM-1","false"
+"2019","4","2","20452","YX","Republic Airline","YX","Republic Airline",,"5807","744850","14","769","FORM-1","false"
+"2019","4","2","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"6031","796385","14","535","FORM-1","false"
+"2019","5","2","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"4240","921668","10","1549","FORM-1","false"
+"2019","5","2","20368","G4","Allegiant Air","G4","Allegiant Air",,"935","571215","5","1691","FORM-1","true"
+"2019","5","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"50309","10634608","228","13146","FORM-1","true"
+"2019","5","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"7620","1887484","18","2461","FORM-1","true"
+"2019","5","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"2652","645140","4","398","FORM-2","true"
+"2019","5","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"5782","1117965","47","2366","FORM-1","true"
+"2019","5","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"64089","6373802","183","4257","FORM-1","true"
+"2019","5","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"44162","4206842","62","973","FORM-2","true"
+"2019","5","2","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"6303","1125885","46","3317","FORM-1","true"
+"2019","5","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"35274","6971880","120","14321","FORM-1","true"
+"2019","5","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"9008","2227330","19","4716","FORM-2","true"
+"2019","5","2","20398","MQ","Envoy Air","MQ","Envoy Air",,"13150","1033032","18","244","FORM-1","false"
+"2019","5","2","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"10165","1216082","19","168","FORM-1","false"
+"2019","5","2","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"10875","879409","13","709","FORM-1","false"
+"2019","5","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"26129","4184805","127","7907","FORM-1","true"
+"2019","5","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"17758","2649549","41","3678","FORM-2","true"
+"2019","5","2","20452","YX","Republic Airline","YX","Republic Airline",,"6537","815360","19","990","FORM-1","false"
+"2019","5","2","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"1872","299576","5","311","FORM-1","false"
+"2019","5","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"14971","1829716","19","4366","FORM-1","false"
+"2019","5","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"4450","1023999","43","1863","FORM-1","true"
+"2019","5","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"2017","568449","8","541","FORM-1","true"
+"2019","5","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"128","16835","0","61","FORM-2","true"
+"2019","6","2","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"4794","948428","12","2994","FORM-1","false"
+"2019","6","2","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"2560","320439","2","323","FORM-1","false"
+"2019","6","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"55354","10955788","189","12668","FORM-1","true"
+"2019","6","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"72725","6434082","200","6284","FORM-1","true"
+"2019","6","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"45581","4173852","92","2301","FORM-2","true"
+"2019","6","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"10206","2037623","14","2112","FORM-1","true"
+"2019","6","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"3491","669251","5","414","FORM-2","true"
+"2019","6","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"4725","1067257","40","1697","FORM-1","true"
+"2019","6","2","20398","MQ","Envoy Air","MQ","Envoy Air",,"13677","1019602","27","587","FORM-1","false"
+"2019","6","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"6235","1125415","60","2267","FORM-1","true"
+"2019","6","2","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"10223","1197148","11","504","FORM-1","false"
+"2019","6","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"21972","2980501","60","5721","FORM-1","false"
+"2019","6","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"37362","4454759","120","8258","FORM-1","true"
+"2019","6","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"25646","2735726","56","3491","FORM-2","true"
+"2019","6","2","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"11895","883867","26","834","FORM-1","false"
+"2019","6","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"40009","7386180","160","13943","FORM-1","true"
+"2019","6","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"10593","2289983","30","7317","FORM-2","true"
+"2019","6","2","20452","YX","Republic Airline","YX","Republic Airline",,"8116","824880","26","1110","FORM-1","false"
+"2019","6","2","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"6684","1129792","37","2986","FORM-1","true"
+"2019","6","2","20368","G4","Allegiant Air","G4","Allegiant Air",,"1479","748653","10","1941","FORM-1","true"
+"2019","6","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"3384","556526","3","395","FORM-1","true"
+"2019","6","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"186","16526","0","86","FORM-2","true"
+"2019","7","3","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"4925","964925","14","1492","FORM-1","false"
+"2019","7","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"53660","11443404","258","12435","FORM-1","true"
+"2019","7","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"9382","2170020","18","2115","FORM-1","true"
+"2019","7","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"2912","692107","3","371","FORM-2","true"
+"2019","7","3","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"2417","375179","5","399","FORM-1","false"
+"2019","7","3","20368","G4","Allegiant Air","G4","Allegiant Air",,"1614","808594","11","2010","FORM-1","true"
+"2019","7","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"35542","4823435","133","8178","FORM-1","true"
+"2019","7","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"22927","2948406","54","3645","FORM-2","true"
+"2019","7","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"6708","1212719","56","2233","FORM-1","true"
+"2019","7","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"64014","6594066","254","8037","FORM-1","true"
+"2019","7","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"39078","4195681","95","2820","FORM-2","true"
+"2019","7","3","20398","MQ","Envoy Air","MQ","Envoy Air",,"10611","1049463","13","697","FORM-1","false"
+"2019","7","3","20452","YX","Republic Airline","YX","Republic Airline",,"8321","837115","28","1271","FORM-1","false"
+"2019","7","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"41390","7728303","117","15088","FORM-1","true"
+"2019","7","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"10998","2321632","33","4293","FORM-2","true"
+"2019","7","3","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"9814","1181178","26","620","FORM-1","false"
+"2019","7","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"17743","2920563","37","4119","FORM-1","false"
+"2019","7","3","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"8067","926652","24","997","FORM-1","false"
+"2019","7","3","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"7871","1237415","54","3097","FORM-1","true"
+"2019","7","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"4563","1167391","48","2028","FORM-1","true"
+"2019","7","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"2513","601288","9","363","FORM-1","true"
+"2019","7","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"238","16731","0","27","FORM-2","true"
+"2019","8","3","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"4664","978282","15","1544","FORM-1","false"
+"2019","8","3","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"2224","351936","3","348","FORM-1","false"
+"2019","8","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"42474","10247315","223","12046","FORM-1","true"
+"2019","8","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"11301","2107244","8","2430","FORM-1","true"
+"2019","8","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"3433","669444","2","446","FORM-2","true"
+"2019","8","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"6051","1095920","48","2120","FORM-1","true"
+"2019","8","3","20452","YX","Republic Airline","YX","Republic Airline",,"8056","830806","19","1114","FORM-1","false"
+"2019","8","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"30430","4370508","139","7445","FORM-1","true"
+"2019","8","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"19456","2765835","46","3265","FORM-2","true"
+"2019","8","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"60805","6285032","200","7668","FORM-1","true"
+"2019","8","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"36721","4140357","74","2636","FORM-2","true"
+"2019","8","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"15699","2838848","39","3934","FORM-1","false"
+"2019","8","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"35311","7316663","127","13723","FORM-1","true"
+"2019","8","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"10371","2347399","27","4215","FORM-2","true"
+"2019","8","3","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"9701","1177017","20","622","FORM-1","false"
+"2019","8","3","20368","G4","Allegiant Air","G4","Allegiant Air",,"1028","541180","1","1408","FORM-1","true"
+"2019","8","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"4764","1184876","47","2115","FORM-1","true"
+"2019","8","3","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"7367","853747","19","772","FORM-1","false"
+"2019","8","3","20398","MQ","Envoy Air","MQ","Envoy Air",,"10143","1046026","19","732","FORM-1","false"
+"2019","8","3","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"7342","1160726","47","2798","FORM-1","true"
+"2019","8","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1967","567585","6","436","FORM-1","true"
+"2019","8","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"236","14599","0","40","FORM-2","true"
+"2019","9","3","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"2900","843077","10","2176","FORM-1","false"
+"2019","9","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"8842","1743469","12","2273","FORM-1","true"
+"2019","9","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"2906","616679","1","375","FORM-2","true"
+"2019","9","3","20368","G4","Allegiant Air","G4","Allegiant Air",,"468","327018","1","975","FORM-1","true"
+"2019","9","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"28450","8789402","208","13472","FORM-1","true"
+"2019","9","3","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"1597","333914","3","417","FORM-1","false"
+"2019","9","3","20398","MQ","Envoy Air","MQ","Envoy Air",,"6769","908921","17","677","FORM-1","false"
+"2019","9","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"19766","3553285","89","6518","FORM-1","true"
+"2019","9","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"13416","2487114","49","3339","FORM-2","true"
+"2019","9","3","20452","YX","Republic Airline","YX","Republic Airline",,"4541","690644","19","1197","FORM-1","false"
+"2019","9","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"36689","5458217","148","7543","FORM-1","true"
+"2019","9","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"22489","3691292","70","2875","FORM-2","true"
+"2019","9","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"23788","6153656","113","12938","FORM-1","true"
+"2019","9","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"6422","1982794","21","5363","FORM-2","true"
+"2019","9","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"11127","2446783","36","4442","FORM-1","false"
+"2019","9","3","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"4718","794926","21","790","FORM-1","false"
+"2019","9","3","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"4826","883323","39","2699","FORM-1","true"
+"2019","9","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"3612","731666","40","2027","FORM-1","true"
+"2019","9","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1986","503582","8","357","FORM-1","true"
+"2019","9","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"96","14286","0","66","FORM-2","true"
+"2019","9","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"3778","849910","33","2165","FORM-1","true"
+"2019","9","3","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"5114","1069810","16","760","FORM-1","false"
+"2019","10","4","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"3254","901430","9","1777","FORM-1","false"
+"2019","10","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"35360","9900026","226","15570","FORM-1","true"
+"2019","10","4","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"1552","337539","2","407","FORM-1","false"
+"2019","10","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"4042","990636","42","2586","FORM-1","true"
+"2019","10","4","20452","YX","Republic Airline","YX","Republic Airline",,"4707","769896","21","1219","FORM-1","false"
+"2019","10","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"7203","1736518","14","2722","FORM-1","true"
+"2019","10","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"2651","645069","2","480","FORM-2","true"
+"2019","10","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"11721","2673854","35","4693","FORM-1","false"
+"2019","10","4","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"5805","854325","6","851","FORM-1","false"
+"2019","10","4","20368","G4","Allegiant Air","G4","Allegiant Air",,"819","486198","3","1635","FORM-1","true"
+"2019","10","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"20256","3908860","108","7021","FORM-1","true"
+"2019","10","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"13652","2686677","35","3509","FORM-2","true"
+"2019","10","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"41055","5912264","161","8792","FORM-1","true"
+"2019","10","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"25062","3997762","66","3089","FORM-2","true"
+"2019","10","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"3179","546954","11","718","FORM-1","true"
+"2019","10","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"149","15073","0","89","FORM-2","true"
+"2019","10","4","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"5167","1035010","56","2955","FORM-1","true"
+"2019","10","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"28481","6674111","123","14305","FORM-1","true"
+"2019","10","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"7112","2158609","23","5113","FORM-2","true"
+"2019","10","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"4150","910667","43","2392","FORM-1","true"
+"2019","10","4","20398","MQ","Envoy Air","MQ","Envoy Air",,"7353","979246","17","784","FORM-1","false"
+"2019","10","4","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"5916","1159582","13","733","FORM-1","false"
+"2019","11","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"33306","9287654","217","14706","FORM-1","true"
+"2019","11","4","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"2855","856234","10","1196","FORM-1","false"
+"2019","11","4","20368","G4","Allegiant Air","G4","Allegiant Air",,"728","475890","3","1271","FORM-1","true"
+"2019","11","4","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"1532","347816","3","401","FORM-1","false"
+"2019","11","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"4323","991642","46","2342","FORM-1","true"
+"2019","11","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"18019","3510129","118","6024","FORM-1","true"
+"2019","11","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"12223","2444616","27","3060","FORM-2","true"
+"2019","11","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"40720","5655521","154","8302","FORM-1","true"
+"2019","11","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"22484","3650565","68","2765","FORM-2","true"
+"2019","11","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"23162","6102639","109","12228","FORM-1","true"
+"2019","11","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"6564","1970995","23","3159","FORM-2","true"
+"2020","3","1","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"2188","454996","14","510","FORM-1","false"
+"2019","11","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1894","500011","12","683","FORM-1","true"
+"2019","11","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"73","13883","0","56","FORM-2","true"
+"2019","11","4","20398","MQ","Envoy Air","MQ","Envoy Air",,"6501","875410","18","789","FORM-1","false"
+"2019","11","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"6521","1604337","30","2163","FORM-1","true"
+"2019","11","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"2644","603944","8","386","FORM-2","true"
+"2019","11","4","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"4894","991092","35","3141","FORM-1","true"
+"2019","11","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"3382","832622","37","2182","FORM-1","true"
+"2019","11","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"10968","2391568","32","3177","FORM-1","false"
+"2019","11","4","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"4654","797429","11","789","FORM-1","false"
+"2019","11","4","20452","YX","Republic Airline","YX","Republic Airline",,"3876","695350","16","1026","FORM-1","false"
+"2019","11","4","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"5563","1079091","19","619","FORM-1","false"
+"2019","12","4","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"2526","390148","3","444","FORM-1","false"
+"2019","12","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"56955","11664319","263","13827","FORM-1","true"
+"2019","12","4","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"6261","1063730","11","1576","FORM-1","false"
+"2019","12","4","20452","YX","Republic Airline","YX","Republic Airline",,"7474","900321","19","1245","FORM-1","false"
+"2019","12","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"43111","7190969","136","12965","FORM-1","true"
+"2019","12","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"13752","2404043","29","3863","FORM-2","true"
+"2019","12","4","20368","G4","Allegiant Air","G4","Allegiant Air",,"1162","629943","4","1524","FORM-1","true"
+"2019","12","4","20398","MQ","Envoy Air","MQ","Envoy Air",,"10015","1006213","11","767","FORM-1","false"
+"2019","12","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"6080","1210040","32","2208","FORM-1","true"
+"2019","12","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"33636","4368055","112","6797","FORM-1","true"
+"2019","12","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"23350","2892435","46","3388","FORM-2","true"
+"2019","12","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"15366","1989178","32","2101","FORM-1","true"
+"2019","12","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"6189","759249","4","448","FORM-2","true"
+"2019","12","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"21211","2855238","37","3559","FORM-1","false"
+"2019","12","4","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"7338","894911","17","868","FORM-1","false"
+"2019","12","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"60966","6816098","174","9033","FORM-1","true"
+"2019","12","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"36509","4186586","69","3088","FORM-2","true"
+"2019","12","4","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"7877","1518266","51","3148","FORM-1","true"
+"2019","12","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"2524","557310","8","602","FORM-1","true"
+"2019","12","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"133","14277","0","54","FORM-2","true"
+"2019","12","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"4380","991097","41","2299","FORM-1","true"
+"2019","12","4","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"9625","1214665","28","772","FORM-1","false"
+"2020","1","1","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"4453","901600","8","961","FORM-1","false"
+"2020","1","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"27557","6213182","89","10402","FORM-1","true"
+"2020","1","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"9697","2063468","21","2565","FORM-2","true"
+"2020","1","1","20368","G4","Allegiant Air","G4","Allegiant Air",,"805","476380","4","1326","FORM-1","true"
+"2020","1","1","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"1880","333864","3","338","FORM-1","false"
+"2020","1","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"3633","888555","40","2318","FORM-1","true"
+"2020","1","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"2151","521495","5","485","FORM-1","true"
+"2020","1","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"152","13939","0","76","FORM-2","true"
+"2020","1","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"5411","1025732","43","1525","FORM-1","true"
+"2020","1","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"22219","3672898","91","5329","FORM-1","true"
+"2020","1","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"16268","2520541","32","2762","FORM-2","true"
+"2020","1","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"36118","9298434","194","10119","FORM-1","true"
+"2020","1","1","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"5219","779650","9","745","FORM-1","false"
+"2020","1","1","20452","YX","Republic Airline","YX","Republic Airline",,"4994","716346","7","933","FORM-1","false"
+"2020","1","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"46598","5966148","126","7384","FORM-1","true"
+"2020","1","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"28377","3761432","62","2516","FORM-2","true"
+"2020","1","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"9850","1646964","20","1814","FORM-1","true"
+"2020","1","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"5251","642263","4","405","FORM-2","true"
+"2020","1","1","20398","MQ","Envoy Air","MQ","Envoy Air",,"7795","893126","20","638","FORM-1","false"
+"2020","1","1","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"5006","1272589","31","2863","FORM-1","true"
+"2020","1","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"15390","2556115","38","2691","FORM-1","false"
+"2020","1","1","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"7841","1117123","13","572","FORM-1","false"
+"2020","2","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"6999","1486477","28","1762","FORM-1","true"
+"2020","2","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"3378","614838","5","383","FORM-2","true"
+"2020","2","1","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"3849","835436","5","1137","FORM-1","false"
+"2020","2","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"27252","8423996","155","9932","FORM-1","true"
+"2020","2","1","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"1500","363875","7","385","FORM-1","false"
+"2020","2","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1636","459232","7","429","FORM-1","true"
+"2020","2","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"92","14062","0","40","FORM-2","true"
+"2020","2","1","20398","MQ","Envoy Air","MQ","Envoy Air",,"5722","823194","8","518","FORM-1","false"
+"2020","2","1","20452","YX","Republic Airline","YX","Republic Airline",,"4347","678806","16","864","FORM-1","false"
+"2020","2","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"41360","5514743","125","7088","FORM-1","true"
+"2020","2","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"23667","3543592","50","2389","FORM-2","true"
+"2020","2","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"19138","3392703","64","4848","FORM-1","true"
+"2020","2","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"14351","2420359","39","2608","FORM-2","true"
+"2020","2","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"4900","1020362","42","1456","FORM-1","true"
+"2020","2","1","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"4146","747962","14","720","FORM-1","false"
+"2020","2","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"14681","2447918","32","2892","FORM-1","false"
+"2020","2","1","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"6880","1034545","11","548","FORM-1","false"
+"2020","2","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"29427","6001373","77","10513","FORM-1","true"
+"2020","2","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"8639","1929106","22","2930","FORM-2","true"
+"2020","2","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"2613","793623","38","2152","FORM-1","true"
+"2020","2","1","20368","G4","Allegiant Air","G4","Allegiant Air",,"776","538112","2","1247","FORM-1","true"
+"2020","2","1","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"4543","1200689","24","2473","FORM-1","true"
+"2020","3","1","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"2084","507675","2","981","FORM-1","false"
+"2020","3","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"4949","909626","14","950","FORM-1","true"
+"2020","3","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1372","323797","5","260","FORM-2","true"
+"2020","3","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1156","306151","8","308","FORM-1","true"
+"2020","3","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"86","9273","0","19","FORM-2","true"
+"2020","3","1","20368","G4","Allegiant Air","G4","Allegiant Air",,"734","409214","3","834","FORM-1","true"
+"2020","3","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"9683","2043044","39","3156","FORM-1","true"
+"2020","3","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"6755","1451877","44","1802","FORM-2","true"
+"2020","3","1","20398","MQ","Envoy Air","MQ","Envoy Air",,"2951","528927","6","447","FORM-1","false"
+"2020","3","1","20452","YX","Republic Airline","YX","Republic Airline",,"1978","383385","5","571","FORM-1","false"
+"2020","3","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"20254","3143756","80","4213","FORM-1","true"
+"2020","3","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"11246","2188607","28","1676","FORM-2","true"
+"2020","3","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"3534","735669","23","926","FORM-1","true"
+"2020","3","1","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"2736","700797","18","1357","FORM-1","true"
+"2020","3","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"2153","523600","23","1540","FORM-1","true"
+"2020","3","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"15817","5196074","75","5647","FORM-1","true"
+"2020","3","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"14191","3349085","52","7687","FORM-1","true"
+"2020","3","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"4325","1177190","6","2317","FORM-2","true"
+"2020","3","1","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"752","217185","1","275","FORM-1","false"
+"2020","3","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"6796","1017592","35","2077","FORM-1","false"
+"2020","3","1","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"2505","641153","2","344","FORM-1","false"
+"2020","4","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"225","43082","2","54","FORM-1","true"
+"2020","4","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"1150","443638","5","464","FORM-1","true"
+"2020","4","2","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"94","31112","0","30","FORM-1","false"
+"2020","4","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"119","16138","0","221","FORM-1","true"
+"2020","4","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"587","133540","2","218","FORM-1","true"
+"2020","4","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"230","98992","0","125","FORM-2","true"
+"2020","4","2","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"334","96764","1","42","FORM-1","false"
+"2020","4","2","20398","MQ","Envoy Air","MQ","Envoy Air",,"324","67302","1","60","FORM-1","false"
+"2020","4","2","20452","YX","Republic Airline","YX","Republic Airline",,"187","31629","0","34","FORM-1","false"
+"2020","4","2","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"31","19057","0","14","FORM-1","false"
+"2020","4","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"2587","383894","12","489","FORM-1","true"
+"2020","4","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"1205","273264","3","197","FORM-2","true"
+"2020","4","2","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"164","51826","1","56","FORM-1","false"
+"2020","4","2","20368","G4","Allegiant Air","G4","Allegiant Air",,"25","11823","0","50","FORM-1","true"
+"2020","4","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"40","14848","0","29","FORM-1","true"
+"2020","4","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"0","563","0","10","FORM-2","true"
+"2020","4","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"1043","298593","5","662","FORM-1","true"
+"2020","4","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"387","110369","1","169","FORM-2","true"
+"2020","4","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"607","159489","1","218","FORM-1","false"
+"2020","4","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"465","101314","3","87","FORM-1","true"
+"2020","4","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"217","50086","0","25","FORM-2","true"
+"2020","4","2","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"298","46321","0","127","FORM-1","true"
+"2020","5","2","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"240","103279","1","147","FORM-1","false"
+"2020","5","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"548","224177","3","158","FORM-1","true"
+"2020","5","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"381","124975","3","97","FORM-2","true"
+"2020","5","2","20368","G4","Allegiant Air","G4","Allegiant Air",,"184","122924","1","460","FORM-1","true"
+"2020","5","2","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"113","33175","1","35","FORM-1","false"
+"2020","5","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"873","273429","4","371","FORM-1","true"
+"2020","5","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"1087","329685","3","407","FORM-2","true"
+"2020","5","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"66","36426","0","56","FORM-1","true"
+"2020","5","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"2","1381","0","21","FORM-2","true"
+"2020","5","2","20452","YX","Republic Airline","YX","Republic Airline",,"309","91465","1","90","FORM-1","false"
+"2020","5","2","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"539","168607","2","184","FORM-1","false"
+"2020","5","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"419","101823","1","197","FORM-1","true"
+"2020","5","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"2481","1474515","15","1372","FORM-1","true"
+"2020","5","2","20398","MQ","Envoy Air","MQ","Envoy Air",,"752","191009","4","158","FORM-1","false"
+"2020","5","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"3999","939546","17","1179","FORM-1","true"
+"2020","5","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"2453","791523","10","597","FORM-2","true"
+"2020","5","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"1012","365804","1","447","FORM-1","false"
+"2020","5","2","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"660","272352","4","182","FORM-1","false"
+"2020","5","2","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"259","67692","2","146","FORM-1","true"
+"2020","5","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"1318","519812","2","1162","FORM-1","true"
+"2020","5","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"442","185340","2","326","FORM-2","true"
+"2020","5","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"113","46133","0","71","FORM-1","true"
+"2020","6","2","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"435","206031","0","268","FORM-1","false"
+"2020","6","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"7774","3767403","38","2932","FORM-1","true"
+"2020","6","2","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"121","55118","1","66","FORM-1","false"
+"2020","6","2","20452","YX","Republic Airline","YX","Republic Airline",,"727","210985","1","248","FORM-1","false"
+"2020","6","2","20398","MQ","Envoy Air","MQ","Envoy Air",,"1848","362364","5","316","FORM-1","false"
+"2020","6","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"7719","1740264","37","1967","FORM-1","true"
+"2020","6","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"4975","1309489","16","959","FORM-2","true"
+"2020","6","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"2123","653371","5","767","FORM-1","false"
+"2020","6","2","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"614","187602","1","435","FORM-1","true"
+"2020","6","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"1281","438386","7","594","FORM-1","true"
+"2020","6","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"1509","580009","4","730","FORM-2","true"
+"2020","6","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"129","69754","2","87","FORM-1","true"
+"2020","6","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1","4004","0","14","FORM-2","true"
+"2020","6","2","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"1013","435090","4","264","FORM-1","false"
+"2020","6","2","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"710","188324","4","202","FORM-1","false"
+"2020","6","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"608","235933","7","254","FORM-1","true"
+"2020","6","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1083","430227","5","321","FORM-1","true"
+"2020","6","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"875","246303","1","121","FORM-2","true"
+"2020","6","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"2371","942175","10","1836","FORM-1","true"
+"2020","6","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"824","347381","2","553","FORM-2","true"
+"2020","6","2","20368","G4","Allegiant Air","G4","Allegiant Air",,"560","341588","2","650","FORM-1","true"
+"2020","6","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"819","263488","2","415","FORM-1","true"
+"2020","7","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1282","528548","7","426","FORM-1","true"
+"2020","7","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1232","339704","2","147","FORM-2","true"
+"2020","7","3","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"1033","384593","3","1017","FORM-1","false"
+"2020","7","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"8509","4230174","31","2927","FORM-1","true"
+"2020","7","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"2568","800423","18","1033","FORM-1","true"
+"2020","7","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"2559","820077","4","969","FORM-2","true"
+"2020","7","3","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"1049","269280","7","565","FORM-1","true"
+"2020","7","3","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"153","62082","0","68","FORM-1","false"
+"2020","7","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"2857","729559","23","645","FORM-1","true"
+"2020","7","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"3019","993780","8","1167","FORM-1","false"
+"2020","7","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"220","101999","0","139","FORM-1","true"
+"2020","7","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"12","6677","0","18","FORM-2","true"
+"2020","7","3","20368","G4","Allegiant Air","G4","Allegiant Air",,"568","368794","2","587","FORM-1","true"
+"2020","7","3","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"1036","295782","3","255","FORM-1","false"
+"2020","7","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"13443","2477419","54","2767","FORM-1","true"
+"2020","7","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"7115","1815610","21","1326","FORM-2","true"
+"2020","7","3","20452","YX","Republic Airline","YX","Republic Airline",,"1386","315200","5","363","FORM-1","false"
+"2020","7","3","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"2010","589462","4","365","FORM-1","false"
+"2020","7","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"1210","401885","5","552","FORM-1","true"
+"2020","7","3","20398","MQ","Envoy Air","MQ","Envoy Air",,"2314","517968","7","410","FORM-1","false"
+"2020","7","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"4204","1472004","11","2575","FORM-1","true"
+"2020","7","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"1714","641677","4","1509","FORM-2","true"
+"2020","8","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1348","601204","7","432","FORM-1","true"
+"2020","8","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"990","377223","3","181","FORM-2","true"
+"2020","8","3","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"1007","419078","5","865","FORM-1","false"
+"2020","8","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"1238","367830","14","620","FORM-1","true"
+"2020","8","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"138","72109","0","65","FORM-1","true"
+"2020","8","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"0","3045","0","3","FORM-2","true"
+"2020","8","3","20398","MQ","Envoy Air","MQ","Envoy Air",,"1831","476911","4","354","FORM-1","false"
+"2020","8","3","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"184","68324","2","63","FORM-1","false"
+"2020","8","3","20452","YX","Republic Airline","YX","Republic Airline",,"1330","315084","3","340","FORM-1","false"
+"2020","8","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"11939","2488000","47","2569","FORM-1","true"
+"2020","8","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"6138","1777756","22","1202","FORM-2","true"
+"2020","8","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"3440","1179858","38","826","FORM-1","false"
+"2020","8","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"3860","1144848","17","1403","FORM-1","true"
+"2020","8","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"3077","946891","8","1046","FORM-2","true"
+"2020","8","3","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"1869","595660","8","381","FORM-1","false"
+"2020","8","3","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"907","237269","8","497","FORM-1","true"
+"2020","8","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"1894","542187","6","479","FORM-1","true"
+"2020","8","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"8541","4237358","44","2978","FORM-1","true"
+"2020","8","3","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"898","319839","3","247","FORM-1","false"
+"2020","8","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"5117","1899116","9","3086","FORM-1","true"
+"2020","8","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"1930","814727","8","1574","FORM-2","true"
+"2020","8","3","20368","G4","Allegiant Air","G4","Allegiant Air",,"324","238672","2","162","FORM-1","true"
+"2020","9","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1324","563798","5","442","FORM-1","true"
+"2020","9","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"870","336930","3","180","FORM-2","true"
+"2020","9","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"91","51447","2","62","FORM-1","true"
+"2020","9","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1","1703","0","5","FORM-2","true"
+"2020","9","3","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"877","469635","4","649","FORM-1","false"
+"2020","9","3","20366","EV","ExpressJet Airlines LLC","EV","ExpressJet Airlines LLC",,"179","66383","1","73","FORM-1","false"
+"2020","9","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"3413","1214506","12","1671","FORM-1","false"
+"2020","9","3","20452","YX","Republic Airline","YX","Republic Airline",,"1434","375159","11","455","FORM-1","false"
+"2020","9","3","20398","MQ","Envoy Air","MQ","Envoy Air",,"2238","484820","7","396","FORM-1","false"
+"2020","9","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"1107","399498","18","299","FORM-1","true"
+"2020","9","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"12106","2634247","47","3189","FORM-1","true"
+"2020","9","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"7028","1917762","29","1408","FORM-2","true"
+"2020","9","3","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"749","191716","11","509","FORM-1","true"
+"2020","9","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"3371","1103539","21","1683","FORM-1","true"
+"2020","9","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"3154","1139563","13","1556","FORM-2","true"
+"2020","9","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"4624","1912077","27","3547","FORM-1","true"
+"2020","9","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"1697","824734","7","1380","FORM-2","true"
+"2020","9","3","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"1472","433031","1","459","FORM-1","false"
+"2020","9","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"871","357108","11","772","FORM-1","true"
+"2020","9","3","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"1754","620655","9","381","FORM-1","false"
+"2020","9","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"8187","3913595","45","3373","FORM-1","true"
+"2020","9","3","20368","G4","Allegiant Air","G4","Allegiant Air",,"233","173456","1","164","FORM-1","true"
+"2020","10","4","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"1211","583925","4","692","FORM-1","false"
+"2020","10","4","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"921","286469","21","706","FORM-1","true"
+"2020","10","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"159","77345","1","171","FORM-1","true"
+"2020","10","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"2","2881","0","9","FORM-2","true"
+"2020","10","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1497","597447","13","634","FORM-1","true"
+"2020","10","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"743","341900","5","269","FORM-2","true"
+"2020","10","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"1336","501519","12","330","FORM-1","true"
+"2020","10","4","20398","MQ","Envoy Air","MQ","Envoy Air",,"4417","572520","10","484","FORM-1","false"
+"2020","10","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"1079","439938","7","902","FORM-1","true"
+"2020","10","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"7767","4250465","58","3893","FORM-1","true"
+"2020","10","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"20310","2999522","64","3631","FORM-1","true"
+"2020","10","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"12296","2177512","33","1663","FORM-2","true"
+"2020","10","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"5553","1560759","32","2427","FORM-1","true"
+"2020","10","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"3583","1270938","12","1735","FORM-2","true"
+"2020","10","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"4218","1380657","13","1789","FORM-1","false"
+"2020","10","4","20452","YX","Republic Airline","YX","Republic Airline",,"2256","477817","8","628","FORM-1","false"
+"2020","10","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"5432","2140131","18","3949","FORM-1","true"
+"2020","10","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"2113","979470","7","1456","FORM-2","true"
+"2020","10","4","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"1865","424112","11","460","FORM-1","false"
+"2020","10","4","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"3290","720989","6","452","FORM-1","false"
+"2020","10","4","20368","G4","Allegiant Air","G4","Allegiant Air",,"360","299633","2","244","FORM-1","true"
+"2020","11","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1752","571908","7","479","FORM-1","true"
+"2020","11","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"833","304625","5","202","FORM-2","true"
+"2020","11","4","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"1128","534503","3","807","FORM-1","false"
+"2020","11","4","20398","MQ","Envoy Air","MQ","Envoy Air",,"2683","506131","5","381","FORM-1","false"
+"2020","11","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"1967","644713","10","467","FORM-1","true"
+"2020","11","4","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"1521","423268","2","409","FORM-1","false"
+"2020","11","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"233","124374","4","230","FORM-1","true"
+"2020","11","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1","2343","0","9","FORM-2","true"
+"2020","11","4","20368","G4","Allegiant Air","G4","Allegiant Air",,"320","263353","1","216","FORM-1","true"
+"2020","11","4","20452","YX","Republic Airline","YX","Republic Airline",,"1932","448391","3","599","FORM-1","false"
+"2020","11","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"5196","2063641","22","3496","FORM-1","true"
+"2020","11","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"2089","924707","5","1496","FORM-2","true"
+"2020","11","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"13334","2481519","46","2971","FORM-1","true"
+"2020","11","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"8415","2012210","18","1379","FORM-2","true"
+"2020","11","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"4603","1517332","30","2285","FORM-1","true"
+"2020","11","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"3178","1157145","10","1611","FORM-2","true"
+"2020","11","4","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"1045","350752","14","686","FORM-1","true"
+"2020","11","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"3573","1241861","10","1521","FORM-1","false"
+"2020","11","4","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"1920","618353","6","376","FORM-1","false"
+"2020","11","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"814","382720","15","769","FORM-1","true"
+"2020","11","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"8164","4271046","57","3736","FORM-1","true"
+"2020","12","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1557","603591","7","485","FORM-1","true"
+"2020","12","4","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1163","335464","2","199","FORM-2","true"
+"2020","12","4","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"1725","601219","6","971","FORM-1","false"
+"2020","12","4","20368","G4","Allegiant Air","G4","Allegiant Air",,"336","279552","1","195","FORM-1","true"
+"2020","12","4","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"2192","665361","18","378","FORM-1","true"
+"2020","12","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"303","149674","3","178","FORM-1","true"
+"2020","12","4","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1","3880","0","11","FORM-2","true"
+"2020","12","4","20452","YX","Republic Airline","YX","Republic Airline",,"2973","532742","3","640","FORM-1","false"
+"2020","12","4","20398","MQ","Envoy Air","MQ","Envoy Air",,"5179","553662","2","360","FORM-1","false"
+"2020","12","4","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"1776","413185","17","730","FORM-1","true"
+"2020","12","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"7345","1721579","21","2337","FORM-1","true"
+"2020","12","4","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"5386","1242233","11","1595","FORM-2","true"
+"2020","12","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"7364","2222368","21","3064","FORM-1","true"
+"2020","12","4","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"3434","1092401","8","1693","FORM-2","true"
+"2020","12","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"19325","2601709","37","2641","FORM-1","true"
+"2020","12","4","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"14666","2209196","13","1477","FORM-2","true"
+"2020","12","4","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"3052","651912","1","416","FORM-1","false"
+"2020","12","4","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"2649","451996","3","409","FORM-1","false"
+"2020","12","4","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"1059","423343","11","844","FORM-1","true"
+"2020","12","4","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"6282","1363293","10","1521","FORM-1","false"
+"2020","12","4","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"15485","5386803","53","3501","FORM-1","true"
+"2021","1","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1742","579734","8","468","FORM-1","true"
+"2021","1","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1106","340399","5","273","FORM-2","true"
+"2021","1","1","19687","QX","Horizon Air","QX","Horizon Air",,"831","264760","5","259","FORM-1",
+"2021","1","1","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"1388","528346","4","699","FORM-1",
+"2021","1","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"233","143028","0","173","FORM-1","true"
+"2021","1","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1","1930","0","9","FORM-2","true"
+"2021","1","1","20398","MQ","Envoy Air","MQ","Envoy Air",,"5193","522099","3","307","FORM-1","false"
+"2021","1","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"15874","2418468","46","2189","FORM-1","true"
+"2021","1","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"14384","1994919","15","1192","FORM-2","true"
+"2021","1","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"5350","1550535","21","1813","FORM-1","true"
+"2021","1","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"4534","1105239","7","1387","FORM-2","true"
+"2021","1","1","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"1427","440014","12","641","FORM-1","true"
+"2021","1","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"5084","1267272","9","1326","FORM-1","false"
+"2021","1","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"11677","4485751","37","2721","FORM-1","true"
+"2021","1","1","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"2809","532907","4","274","FORM-1","false"
+"2021","1","1","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"2392","378730","3","369","FORM-1","false"
+"2021","1","1","20368","G4","Allegiant Air","G4","Allegiant Air",,"250","219836","1","219","FORM-1","true"
+"2021","1","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"6163","2189179","23","2798","FORM-1","true"
+"2021","1","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"2839","1018955","7","1309","FORM-2","true"
+"2021","1","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"1826","543639","9","317","FORM-1","true"
+"2021","1","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"752","351049","5","686","FORM-1","true"
+"2021","1","1","20452","YX","Republic Airline","YX","Republic Airline",,"2850","534213","3","537","FORM-1","false"
+"2021","2","1","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"1284","485640","0","1175","FORM-1","false"
+"2021","2","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"3594","617786","5","539","FORM-1","true"
+"2021","2","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1950","362431","5","206","FORM-2","true"
+"2021","2","1","19687","QX","Horizon Air","QX","Horizon Air",,"1542","280808","4","180","FORM-1","false"
+"2021","2","1","20368","G4","Allegiant Air","G4","Allegiant Air",,"347","258533","0","91","FORM-1","true"
+"2021","2","1","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"1854","455942","18","630","FORM-1","true"
+"2021","2","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"1375","512239","11","319","FORM-1","true"
+"2021","2","1","20452","YX","Republic Airline","YX","Republic Airline",,"2756","518522","6","525","FORM-1","false"
+"2021","2","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"7576","1248563","22","1172","FORM-1","false"
+"2021","2","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"18830","2203006","33","1968","FORM-1","true"
+"2021","2","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"13353","1840614","24","1075","FORM-2","true"
+"2021","2","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"9629","1471262","17","1705","FORM-1","true"
+"2021","2","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"6490","1076330","15","1225","FORM-2","true"
+"2021","2","1","20398","MQ","Envoy Air","MQ","Envoy Air",,"4483","430800","9","278","FORM-1","false"
+"2021","2","1","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"2790","531172","5","264","FORM-1","false"
+"2021","2","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"11677","4056367","38","2589","FORM-1","true"
+"2021","2","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"6720","2130588","22","2909","FORM-1","true"
+"2021","2","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"2890","965624","4","1726","FORM-2","true"
+"2021","2","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"863","356510","12","735","FORM-1","true"
+"2021","2","1","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"2179","318539","1","267","FORM-1","false"
+"2021","2","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"293","147060","2","148","FORM-1","true"
+"2021","3","1","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"1439","662954","5","1195","FORM-1","false"
+"2021","3","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"22172","3687358","42","3574","FORM-1","true"
+"2021","3","1","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"15242","2880619","27","1934","FORM-2","true"
+"2021","3","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"4251","1014026","11","918","FORM-1","true"
+"2021","3","1","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1763","505647","4","357","FORM-2","true"
+"2021","3","1","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"2369","565707","23","1067","FORM-1","true"
+"2021","3","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"7965","3046001","35","4583","FORM-1","true"
+"2021","3","1","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"2955","1319634","12","2222","FORM-2","true"
+"2021","3","1","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"1573","685365","27","1411","FORM-1","true"
+"2021","3","1","20368","G4","Allegiant Air","G4","Allegiant Air",,"511","439820","5","235","FORM-1","true"
+"2021","3","1","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"518","244391","1","283","FORM-1","true"
+"2021","3","1","20398","MQ","Envoy Air","MQ","Envoy Air",,"5011","697458","6","568","FORM-1","false"
+"2021","3","1","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"2646","921197","15","580","FORM-1","true"
+"2021","3","1","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"3172","791967","6","433","FORM-1","false"
+"2021","3","1","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"6325","1762112","18","1966","FORM-1","false"
+"2021","3","1","19687","QX","Horizon Air","QX","Horizon Air",,"1398","392447","1","323","FORM-1","false"
+"2021","3","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"7836","2194629","30","3204","FORM-1","true"
+"2021","3","1","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"5029","1567001","20","2110","FORM-2","true"
+"2021","3","1","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"19055","7144494","58","5217","FORM-1","true"
+"2021","3","1","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"2400","518030","9","565","FORM-1","false"
+"2021","3","1","20452","YX","Republic Airline","YX","Republic Airline",,"3131","762932","12","909","FORM-1","false"
+"2021","4","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"4392","1192090","25","1353","FORM-1","true"
+"2021","4","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"1635","548716","7","566","FORM-2","true"
+"2021","4","2","19687","QX","Horizon Air","QX","Horizon Air",,"1176","412586","5","518","FORM-1","false"
+"2021","4","2","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"1482","749783","2","1332","FORM-1","false"
+"2021","4","2","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"3404","928725","20","1655","FORM-1","true"
+"2021","4","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"3763","988574","34","696","FORM-1","true"
+"2021","4","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"18229","7694543","108","7640","FORM-1","true"
+"2021","4","2","20398","MQ","Envoy Air","MQ","Envoy Air",,"4300","714758","5","709","FORM-1","false"
+"2021","4","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"5132","1817119","21","2911","FORM-1","false"
+"2021","4","2","20452","YX","Republic Airline","YX","Republic Airline",,"3465","845709","11","1132","FORM-1","false"
+"2021","4","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"22859","4220246","71","4926","FORM-1","true"
+"2021","4","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"14090","3179273","37","2437","FORM-2","true"
+"2021","4","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"8642","3125407","35","5971","FORM-1","true"
+"2021","4","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"3163","1451978","7","2903","FORM-2","true"
+"2021","4","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"6632","2278276","35","4326","FORM-1","true"
+"2021","4","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"4198","1635691","21","2944","FORM-2","true"
+"2021","4","2","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"3215","941876","14","605","FORM-1","false"
+"2021","4","2","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"2154","545551","8","767","FORM-1","false"
+"2021","4","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"1586","758734","16","1649","FORM-1","true"
+"2021","4","2","20368","G4","Allegiant Air","G4","Allegiant Air",,"494","410753","5","282","FORM-1","true"
+"2021","4","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"622","308470","3","287","FORM-1","true"
+"2021","5","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"5484","1359069","27","1526","FORM-1","true"
+"2021","5","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"2135","627299","6","776","FORM-2","true"
+"2021","5","2","19687","QX","Horizon Air","QX","Horizon Air",,"1628","468791","3","720","FORM-1","false"
+"2021","5","2","20368","G4","Allegiant Air","G4","Allegiant Air",,"553","412573","2","253","FORM-1","true"
+"2021","5","2","20398","MQ","Envoy Air","MQ","Envoy Air",,"6331","800250","14","763","FORM-1","false"
+"2021","5","2","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"3377","1067168","4","2158","FORM-1","false"
+"2021","5","2","20452","YX","Republic Airline","YX","Republic Airline",,"4507","1051355","16","1506","FORM-1","false"
+"2021","5","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"7372","2211526","30","3946","FORM-1","false"
+"2021","5","2","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"4537","1016007","50","1723","FORM-1","true"
+"2021","5","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"7703","2604071","29","4917","FORM-1","true"
+"2021","5","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"5319","1808393","20","3195","FORM-2","true"
+"2021","5","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"32041","4976442","93","6637","FORM-1","true"
+"2021","5","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"19597","3637024","48","3079","FORM-2","true"
+"2021","5","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"1972","783393","32","2021","FORM-1","true"
+"2021","5","2","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"4418","1121085","8","844","FORM-1","false"
+"2021","5","2","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"2876","583321","8","1244","FORM-1","false"
+"2021","5","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"25357","8934350","160","10940","FORM-1","true"
+"2021","5","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"16130","4922117","85","10110","FORM-1","true"
+"2021","5","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"6553","2106941","13","4702","FORM-2","true"
+"2021","5","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"754","406980","6","445","FORM-1","true"
+"2021","5","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"3936","1078918","30","807","FORM-1","true"
+"2021","6","2","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"2895","881885","32","2072","FORM-1","true"
+"2021","6","2","20368","G4","Allegiant Air","G4","Allegiant Air",,"1613","682287","4","481","FORM-1","true"
+"2021","6","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"13716","1659096","22","1794","FORM-1","true"
+"2021","6","2","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"4276","714096","4","914","FORM-2","true"
+"2021","6","2","19687","QX","Horizon Air","QX","Horizon Air",,"3363","525276","2","832","FORM-1","false"
+"2021","6","2","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1185","498676","7","472","FORM-1","true"
+"2021","6","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"13604","3091333","74","6178","FORM-1","true"
+"2021","6","2","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"9891","2039134","26","3695","FORM-2","true"
+"2021","6","2","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"4757","1068916","8","1888","FORM-1","false"
+"2021","6","2","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"6489","1225101","56","1871","FORM-1","true"
+"2021","6","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"65472","5887114","144","8011","FORM-1","true"
+"2021","6","2","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"32933","3838938","64","3267","FORM-2","true"
+"2021","6","2","20398","MQ","Envoy Air","MQ","Envoy Air",,"10472","886680","17","910","FORM-1","false"
+"2021","6","2","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"52573","9997521","184","11119","FORM-1","true"
+"2021","6","2","20452","YX","Republic Airline","YX","Republic Airline",,"7210","1034241","19","1612","FORM-1","false"
+"2021","6","2","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"6651","1106467","20","823","FORM-1","false"
+"2021","6","2","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"4773","1059451","32","703","FORM-1","true"
+"2021","6","2","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"12643","2517017","29","4631","FORM-1","false"
+"2021","6","2","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"5784","644354","9","884","FORM-1","false"
+"2021","6","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"23756","5739080","74","11462","FORM-1","true"
+"2021","6","2","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"8847","2161531","18","4904","FORM-2","true"
+"2021","7","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"10457","1801012","22","1831","FORM-1","true"
+"2021","7","3","19930","AS","Alaska Airlines Inc.","AS","Alaska Airlines Inc.",,"3955","771830","5","969","FORM-2","true"
+"2021","7","3","20363","9E","Endeavor Air Inc.","9E","Endeavor Air Inc.",,"5088","1096711","12","1724","FORM-1","false"
+"2021","7","3","20368","G4","Allegiant Air","G4","Allegiant Air",,"1514","766519","4","398","FORM-1","true"
+"2021","7","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"19856","3817576","96","7308","FORM-1","true"
+"2021","7","3","19977","UA","United Air Lines Inc.","UA","United Air Lines Inc.",,"13849","2351835","36","4046","FORM-2","true"
+"2021","7","3","19690","HA","Hawaiian Airlines Inc.","HA","Hawaiian Airlines Inc.",,"1369","537913","11","549","FORM-1","true"
+"2021","7","3","20409","B6","JetBlue Airways","B6","JetBlue Airways",,"8373","1498822","77","2027","FORM-1","true"
+"2021","7","3","19393","WN","Southwest Airlines Co.","WN","Southwest Airlines Co.",,"48522","10896855","193","11881","FORM-1","true"
+"2021","7","3","20416","NK","Spirit Air Lines","NK","Spirit Air Lines",,"6533","1219647","39","685","FORM-1","true"
+"2021","7","3","20398","MQ","Envoy Air","MQ","Envoy Air",,"10661","924297","12","841","FORM-1","false"
+"2021","7","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"67913","6249885","161","7968","FORM-1","true"
+"2021","7","3","19805","AA","American Airlines Inc.","AA","American Airlines Inc.",,"34523","4007517","55","3192","FORM-2","true"
+"2021","7","3","20452","YX","Republic Airline","YX","Republic Airline",,"8024","1112311","15","1568","FORM-1","false"
+"2021","7","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"27603","6391403","82","11712","FORM-1","true"
+"2021","7","3","19790","DL","Delta Air Lines Inc.","DL","Delta Air Lines Inc.",,"9224","2264803","17","4125","FORM-2","true"
+"2021","7","3","20436","F9","Frontier Airlines Inc.","F9","Frontier Airlines Inc.",,"3079","939950","36","2029","FORM-1","true"
+"2021","7","3","20397","OH","PSA Airlines Inc.","OH","PSA Airlines Inc.",,"7770","1146200","14","757","FORM-1","false"
+"2021","7","3","20378","YV","Mesa Airlines Inc.","YV","Mesa Airlines Inc.",,"6514","693419","13","924","FORM-1","false"
+"2021","7","3","19687","QX","Horizon Air","QX","Horizon Air",,"2886","568987","5","910","FORM-1","false"
+"2021","7","3","20304","OO","SkyWest Airlines Inc.","OO","SkyWest Airlines Inc.",,"13989","2738535","30","4231","FORM-1","false"
+"2021","8","3","20368","G4","Allegiant Air","G4","Allegiant Air",,"768","456123","5","282","FORM-1","true"

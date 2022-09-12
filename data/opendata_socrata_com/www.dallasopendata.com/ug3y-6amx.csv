@@ -1,0 +1,7 @@
+icon,title,link,data-type,sort,background,image,description,data-number
+/api/assets/4C40C041-16DA-4530-A6BD-FB7AF6E93416,City Services Locations,/GIS/Dallas-Services-Locations/hz74-c2yc,,1,green,https://www.dallasopendata.com/views/ug3y-6amx/files/Y3GmpFWexCBKu7SMLIJ6HKg21sSNgXqBmD0-qLd7TQo,View City Services Locations mapped ,
+/api/assets/126AEC80-5D22-4E2E-BA59-912AA863DECD,Financial Transparency,/browse?category=Financial&q=Financial&sortBy=relevance&utf8=✓,,3,blue,https://www.dallasopendata.com/views/ug3y-6amx/files/sqQQQtcJbmrPI8-_23lZkyKCCtEwfRaYIf0hW3Eg9qk,View the lastest financial data from the City,
+/api/assets/4C40C041-16DA-4530-A6BD-FB7AF6E93416,GIS Maps,/browse?category=GIS&utf8=✓,,5,purple,https://www.dallasopendata.com/views/ug3y-6amx/files/yfXgclLrWnaGyEt_3SuzMlRyMOd1isqnMSISP7CKchI,View all of the available maps generated from datasets.,
+/api/assets/23279FC9-5CD2-4E87-9E29-EEEA11E2C32E,Data Catalog,/browse,,2,#695913,,Explore all of the datasets available.,
+/api/assets/684FDB35-2FFF-42FF-93E0-1B71AFDCB65D,Developers,http://dev.socrata.com,,4,#133169,,Learn to develop applications with the featured datasets.,
+/api/assets/A3A36C75-2584-4402-B4A1-4E12242C6878,Suggest A Dataset,/nominate,,6,#B5B321,,Don't see what you are looking for? Request a dataset to be added.,

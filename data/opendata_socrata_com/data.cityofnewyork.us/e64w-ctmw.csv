@@ -1,0 +1,1001 @@
+"pub_date","agency_cd","agency_name","init_type","init_grp","record_id","init_nm","init_desc","init_sav_type","init_sav_grp_nm","funding","fiscal_year","num_yrs_prsnt","fy1_amt","fy2_amt","fy3_amt","fy4_amt","fy5_amt"
+"20190619","056","Police Department","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","5311555","5245790","5243013","5247129","5247055"
+"20190619","056","Police Department","CIS","Council Initiatives",,,,,,"C","2019","5","-7","85","0","0","0"
+"20190619","056","Police Department","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","9608","9641","5672","5718","5771"
+"20190619","056","Police Department","CI","Council Initiatives","ADPC056Q340006","Local Initiative Reallocations",,,,"C","2019","5","-7","0","0","0","0"
+"20190619","056","Police Department","CI","Council Initiatives","ADPC056Q340007","Local Initiatives",,,,"C","2019","5","0","73","0","0","0"
+"20190619","056","Police Department","CI","Council Initiatives","ADPC056Q240008","City Council Enhancements",,,,"C","2019","5","0","12","0","0","0"
+"20190619","056","Police Department","EIR","Expenditure Increases/Re-estimates","ADPB056A340000","Additional Traffic Enforcement Agents (TEAs)",,,,"C","2019","5","0","6485","4775","4821","4874"
+"20190619","056","Police Department","EIR","Expenditure Increases/Re-estimates","ADPB056A340001","Terminal Leave",,,,"C","2019","5","10000","0","0","0","0"
+"20190619","056","Police Department","EIR","Expenditure Increases/Re-estimates","ADPC056C140002","DC37 Labor Funding Adjustment",,,,"C","2019","5","392","864","897","897","897"
+"20190619","056","Police Department","EIR","Expenditure Increases/Re-estimates","ADPC056N140003","Technical Adjustment",,,,"C","2019","5","-2292","2292","0","0","0"
+"20190619","056","Police Department","EIR","Expenditure Increases/Re-estimates","ADPC056C140005","08-010 Lump Sum",,,,"C","2019","5","1508","0","0","0","0"
+"20190619","057","Fire Department","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","1822343","1819717","1827519","1813127","1813296"
+"20190619","057","Fire Department","CIS","Council Initiatives",,,,,,"C","2019","5","0","364","0","0","0"
+"20190619","057","Fire Department","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-1686","-1686","-1686","-1686"
+"20190619","057","Fire Department","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","32462","3496","1827","1827","349"
+"20190619","057","Fire Department","CI","Council Initiatives","ADPC057Q340006","Local Initiatives",,,,"C","2019","5","0","294","0","0","0"
+"20190619","057","Fire Department","CI","Council Initiatives","ADPC057Q240007","City Council Enhancements",,,,"C","2019","5","0","70","0","0","0"
+"20190619","057","Fire Department","SAV","Citywide Savings Program","ADPC057M640008","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-1686","-1686","-1686","-1686"
+"20190619","057","Fire Department","EIR","Expenditure Increases/Re-estimates","ADPC057C140001","CB- DC 37 Local 1087",,,,"C","2019","5","155","349","349","349","349"
+"20190619","057","Fire Department","EIR","Expenditure Increases/Re-estimates","ADPB057A340000","EMS Revenue Shortfall",,,,"C","2019","5","31421","0","0","0","0"
+"20190619","057","Fire Department","EIR","Expenditure Increases/Re-estimates","ADPC057N140002","OTPS Rolls",,,,"C","2019","5","-669","669","0","0","0"
+"20190619","057","Fire Department","EIR","Expenditure Increases/Re-estimates","ADPB057A340001","Rumblers",,,,"C","2019","5","0","1478","1478","1478","0"
+"20190619","057","Fire Department","EIR","Expenditure Increases/Re-estimates","ADPC057V540003","Get Alarmed NYC",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","057","Fire Department","EIR","Expenditure Increases/Re-estimates","ADPC057C140004","CB - Backpay Adjustment",,,,"C","2019","5","1280","0","0","0","0"
+"20190619","057","Fire Department","EIR","Expenditure Increases/Re-estimates","ADPC057X340000","Motor Fuel",,,,"C","2019","5","275","0","0","0","0"
+"20190619","072","Department of Correction","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","1367603","1350995","1398641","1396089","1396084"
+"20190619","072","Department of Correction","CIS","Council Initiatives",,,,,,"C","2019","5","0","550","0","0","0"
+"20190619","072","Department of Correction","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-2525","-2525","-2525","-2525"
+"20190619","072","Department of Correction","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","53","92","95","95","95"
+"20190619","072","Department of Correction","CI","Council Initiatives","ADPC072Q240001","Discharge Planning",,,,"C","2019","5","0","550","0","0","0"
+"20190619","072","Department of Correction","SAV","Citywide Savings Program","ADPC072M640002","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-2525","-2525","-2525","-2525"
+"20190619","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","ADPB072A140000","Investigation Division (ID) Resources",,,,"C","2019","5","0","4915","4915","4915","4915"
+"20190619","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","ADPC072C140000","DC37 Labor Funding Adjustment",,,,"C","2019","5","53","92","95","95","95"
+"20190619","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","ADPC072O140003","Technical Adjustment",,,,"C","2019","5","0","-4915","-4915","-4915","-4915"
+"20190619","827","Department of Sanitation","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","1749334","1740182","1734605","1727775","1713533"
+"20190619","827","Department of Sanitation","CIS","Council Initiatives",,,,,,"C","2019","5","0","2683","0","0","0"
+"20190619","827","Department of Sanitation","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","1695","-1068","-1068","-1068"
+"20190619","827","Department of Sanitation","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-2964","11779","0","0","0"
+"20190619","827","Department of Sanitation","CI","Council Initiatives","ADPC827Q340006","Local Initiatives",,,,"C","2019","5","0","154","0","0","0"
+"20190619","827","Department of Sanitation","CI","Council Initiatives","ADPC827Q240007","Council Enhancements",,,,"C","2019","5","0","5","0","0","0"
+"20190619","827","Department of Sanitation","CI","Council Initiatives","ADPC827Q240008","NYC Cleanup Initiative",,,,"C","2019","5","0","2524","0","0","0"
+"20200116","056","Police Department","BAS","Baseline Per November 2019 Plan",,,,,,"C","2020","5","5298816","5276643","5290457","5290429","5290453"
+"20190619","827","Department of Sanitation","SAV","Citywide Savings Program","ADPC827M640001","Vacancy Reduction",,"Efficiency","People and Space: Staffing","C","2019","5","0","-1068","-1068","-1068","-1068"
+"20190619","827","Department of Sanitation","SAV","Citywide Savings Program","ADP827V540000","Lot Cleaning Restoration",,"Service Reduction",,"C","2019","5","0","1899","0","0","0"
+"20190619","827","Department of Sanitation","SAV","Citywide Savings Program","ADP827V540001","Highway Shoulder & Ramp Cleaning Restoration",,"Service Reduction",,"C","2019","5","0","864","0","0","0"
+"20190619","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","ADPC827V540002","Trash Pick-Up",,,,"C","2019","5","0","8600","0","0","0"
+"20190619","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","ADPC827N140004","Rolls",,,,"C","2019","5","-2539","2539","0","0","0"
+"20190619","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","ADPC827V540005","Reusable Bags",,,,"C","2019","5","0","640","0","0","0"
+"20190619","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","ADPC827X340000","Motor Fuel",,,,"C","2019","5","-425","0","0","0","0"
+"20190619","068","Administration for Children's Services","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","1069376","878238","897893","897907","897907"
+"20190619","068","Administration for Children's Services","CIS","Council Initiatives",,,,,,"C","2019","5","0","2179","0","0","0"
+"20190619","068","Administration for Children's Services","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","33098","0","0","0"
+"20190619","068","Administration for Children's Services","CI","Council Initiatives","ADPC068Q240003","Connect",,,,"C","2019","5","0","600","0","0","0"
+"20190619","068","Administration for Children's Services","CI","Council Initiatives","ADPC068Q340005","Local Initiatives",,,,"C","2019","5","0","295","0","0","0"
+"20190619","068","Administration for Children's Services","CI","Council Initiatives","ADPC068Q240010","City Council Enhancements",,,,"C","2019","5","0","54","0","0","0"
+"20190619","068","Administration for Children's Services","CI","Council Initiatives","ADPC068Q240013","Wraparound support for transitional-aged foster youth",,,,"C","2019","5","0","1230","0","0","0"
+"20190619","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","ADPC068G240009","Young Men's Initiative Funding Adjustment",,,,"C","2019","5","0","40","0","0","0"
+"20190619","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","ADPC068V540008","Child Care Vouchers",,,,"C","2019","5","0","19758","0","0","0"
+"20190619","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","ADPC068V540011","Fair Futures",,,,"C","2019","5","0","10000","0","0","0"
+"20190619","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","ADPC068V540012","Foster Care Taskforce.",,,,"C","2019","5","0","2800","0","0","0"
+"20190619","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","ADPC068V540014","Youth Health Initiative",,,,"C","2019","5","0","500","0","0","0"
+"20190619","069","Department of Social Services","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","7728803","7920983","7798749","7789673","7788891"
+"20190619","069","Department of Social Services","CIS","Council Initiatives",,,,,,"C","2019","5","-13","37891","0","0","0"
+"20190619","069","Department of Social Services","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-481","-481","-481","-481"
+"20190619","069","Department of Social Services","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","9","7392","2747","-63","-63"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240001","Food Access and Benefits",,,,"C","2019","5","0","725","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240002","City Council Enhancements",,,,"C","2019","5","0","559","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240005","Homeless Prevention Fund",,,,"C","2019","5","0","820","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240006","Veterans Homelessness Prevention",,,,"C","2019","5","0","300","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240007","Immigrant Opportunity Initiative",,,,"C","2019","5","0","2576","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240008","Legal Services for Veterans",,,,"C","2019","5","0","600","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q340009","Local Initiatives",,,,"C","2019","5","0","1374","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240010","Legal Services for Low Income New Yorkers.",,,,"C","2019","5","0","5550","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q340012","City Council Member Items Reallocation",,,,"C","2019","5","-13","0","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240014","New York Immigrant Family Unity Project",,,,"C","2019","5","0","16600","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240017","Supportive Alternatives to Violence Encounters",,,,"C","2019","5","0","850","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240018","Teen RAPP Enhancement",,,,"C","2019","5","0","250","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240019","Unaccompanied Minors and Families",,,,"C","2019","5","0","3982","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240021","Legal Services for Workplace Rights",,,,"C","2019","5","0","500","0","0","0"
+"20190619","069","Department of Social Services","CI","Council Initiatives","ADPC069Q240024","Legal Services for the Working Poor",,,,"C","2019","5","0","3205","0","0","0"
+"20200116","056","Police Department","CSP","Citywide Savings Program",,,,,,"C","2020","5","-35800","0","0","0","0"
+"20190619","069","Department of Social Services","SAV","Citywide Savings Program","ADPC069M640020","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-481","-481","-481","-481"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069G140032","CEC Adjustment",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069G140029","NYCHA JOBS PLUS",,,,"C","2019","5","0","937","2810","0","0"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069G240031","Office of Economic Opportunity Realignment",,,,"C","2019","5","0","11","-80","-80","-80"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069C140000","Collective Bargaining (ABI Local 211 )",,,,"C","2019","5","3","6","6","6","6"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069G240015","OEO Funding Adjustment",,,,"C","2019","5","0","828","0","0","0"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069V540016","Poll Site Interpretation",,,,"C","2019","5","0","640","0","0","0"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069V540022","Low Wage Worker Initiative",,,,"C","2019","5","0","2000","0","0","0"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069V540023","Legal Services for Workplace",,,,"C","2019","5","0","2000","0","0","0"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069G240025","Young Men's Initiative Funding Adjustment",,,,"C","2019","5","0","-40","0","0","0"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069C140027","DC 37 Collective Bargaining",,,,"C","2019","5","3","5","5","5","5"
+"20190619","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","ADPC069C140028","Collective Bargaining",,,,"C","2019","5","3","5","6","6","6"
+"20190619","071","Department of Homeless Services","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","1338543","1282543","1276072","1273585","1273937"
+"20190619","071","Department of Homeless Services","CIS","Council Initiatives",,,,,,"C","2019","5","0","1858","0","0","0"
+"20190619","071","Department of Homeless Services","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","12","23","23","23","23"
+"20190619","071","Department of Homeless Services","CI","Council Initiatives","ADPC071Q240000","City Council Enhancements",,,,"C","2019","5","0","431","0","0","0"
+"20190619","071","Department of Homeless Services","CI","Council Initiatives","ADPC071Q340001","Local Initiatives",,,,"C","2019","5","0","77","0","0","0"
+"20190619","071","Department of Homeless Services","CI","Council Initiatives","ADPC071Q240002","Children and Families in NYC Homeless System",,,,"C","2019","5","0","1350","0","0","0"
+"20190619","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","ADPC071C140004","DC 37 Collective Bargaining",,,,"C","2019","5","12","23","23","23","23"
+"20190619","125","Department for the Aging","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","270066","244570","246884","246882","246882"
+"20190619","125","Department for the Aging","CIS","Council Initiatives",,,,,,"C","2019","5","0","37645","0","0","0"
+"20190619","125","Department for the Aging","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-44","-44","-44","-44"
+"20190619","125","Department for the Aging","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","45","18457","15045","15045","15045"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240000","Borough Presidents Funds",,,,"C","2019","5","0","1130","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240001","Case Management Waitlist",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240002","Elder Abuse Programs",,,,"C","2019","5","0","335","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240003","City Council Enhancements",,,,"C","2019","5","0","621","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240004","Access to Crisis and Emergency Services",,,,"C","2019","5","0","600","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240005","Access to Critical Services for Seniors (non-ACES)",,,,"C","2019","5","0","580","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240008","Healthy Aging Initiative",,,,"C","2019","5","0","2040","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240009","Senior Centers for Immigrant Populations",,,,"C","2019","5","0","1500","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240010","Information and Referral Services",,,,"C","2019","5","0","408","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240012","LGBT Senior Services",,,,"C","2019","5","0","1500","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q340014","Local Initiatives",,,,"C","2019","5","0","8636","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240017","NORC Supportive Service Program",,,,"C","2019","5","0","5325","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240021","NYC Support Our Seniors Initiative",,,,"C","2019","5","0","5080","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240023","Social Adult Day Care",,,,"C","2019","5","0","1506","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240025","Senior Centers, Programs, and Services Restoration",,,,"C","2019","5","0","3384","0","0","0"
+"20190619","125","Department for the Aging","CI","Council Initiatives","ADPC125Q240027","Holocaust Survisiors",,,,"C","2019","5","0","4000","0","0","0"
+"20190619","125","Department for the Aging","SAV","Citywide Savings Program","ADPC125M640028","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-44","-44","-44","-44"
+"20190619","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","ADPC125V540007","Home Delivered Meals",,,,"C","2019","5","0","2840","0","0","0"
+"20190619","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","ADPC125V540013","Senior Center Model Budget Food",,,,"C","2019","5","0","10000","15000","15000","15000"
+"20190619","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","ADPC125O140016","Lease Adjustment",,,,"C","2019","5","45","45","45","45","45"
+"20190619","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","ADPC125V540018","NORC Supportive Service Mayoral",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","ADPC125V540020","DFTA NYCHA Senior Club Funding",,,,"C","2019","5","0","1772","0","0","0"
+"20190619","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","ADPC125V540026","Senior Enhancements",,,,"C","2019","5","0","2800","0","0","0"
+"20190619","260","Department of Youth and Community Development","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","632468","554371","526745","527839","527943"
+"20190619","260","Department of Youth and Community Development","CIS","Council Initiatives",,,,,,"C","2019","5","917","106927","0","0","0"
+"20190619","260","Department of Youth and Community Development","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-66","-66","-66","-66"
+"20190619","260","Department of Youth and Community Development","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","69400","14800","14800","14800"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240002","Afterschool Enrichment",,,,"C","2019","5","0","6629","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240003","Big Brothers Big Sisters",,,,"C","2019","5","0","1200","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240004","School Buses",,,,"C","2019","5","0","850","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240005","CASA",,,,"C","2019","5","0","300","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240006","Adult Literacy",,,,"C","2019","5","0","3373","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240007","COMPASS Elementary Afterschool",,,,"C","2019","5","0","2052","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240011","Census 2020",,,,"C","2019","5","0","14000","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240012","Jill Chaifitz Helpline",,,,"C","2019","5","0","250","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240013","City's First Readers Initiative",,,,"C","2019","5","0","4069","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240014","Civic Education in New York City Schools",,,,"C","2019","5","0","500","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240015","Communities of Color Non-Profit Stabilization Fund",,,,"C","2019","5","0","3700","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240017","City Council Enhancements",,,,"C","2019","5","0","7590","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240018","CUNY Citizenship NOW! Program",,,,"C","2019","5","0","250","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240019","Digital Inclusion and Literacy",,,,"C","2019","5","0","2960","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240020","Diversity Inclusion and Equity in Tech Initiative",,,,"C","2019","5","0","610","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240021","Food Pantries",,,,"C","2019","5","0","5659","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q340022","Local Initiatives",,,,"C","2019","5","917","0","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240023","Green Jobs Corps Program",,,,"C","2019","5","0","120","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240024","A Greener NYC",,,,"C","2019","5","0","3482","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240025","Access to Food and Nutritional Education",,,,"C","2019","5","0","1259","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240026","Cultural Immigrant Initiative",,,,"C","2019","5","0","145","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240027","Job Training and Placement Initiative",,,,"C","2019","5","0","285","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240028","Key to the City Initiative",,,,"C","2019","5","0","700","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240029","LGBT Community Services. This funding supports the Outer Borough LGBT Services Consortium, which works to increase coordinated delivery of h",,,,"C","2019","5","0","3675","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q340030","Local Initiatives",,,,"C","2019","5","0","23787","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240031","NYC Cleanup Initiative",,,,"C","2019","5","0","10632","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240032","Parks Equity Initiative",,,,"C","2019","5","0","110","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240034","Sports Training and Rolemodels for Success",,,,"C","2019","5","0","1450","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240035","Step In and Stop It Initiative to Address Bystander Intervention",,,,"C","2019","5","0","174","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240036","Senior Centers, Programs, and Services Restoration",,,,"C","2019","5","0","400","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240038","Physical Education and Fitness",,,,"C","2019","5","0","1050","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240039","Trans Equity Programs",,,,"C","2019","5","0","850","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240040","Trans Equity Programs",,,,"C","2019","5","0","250","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240049","Veterans Initiative",,,,"C","2019","5","0","860","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240051","Youth Build",,,,"C","2019","5","0","2100","0","0","0"
+"20190619","260","Department of Youth and Community Development","CI","Council Initiatives","ADPC260Q240052","Young Women's Leadership Development",,,,"C","2019","5","0","1606","0","0","0"
+"20190619","260","Department of Youth and Community Development","SAV","Citywide Savings Program","ADPC260M640048","Vacancy Reduction",,"Efficiency","People and Space: Staffing","C","2019","5","0","-66","-66","-66","-66"
+"20190619","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","ADPC260V540001","Adult Literacy",,,,"C","2019","5","0","8000","0","0","0"
+"20190619","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","ADPC260V540016","COMPASS Elementary",,,,"C","2019","5","0","14800","14800","14800","14800"
+"20190619","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","ADPC260V540033","SONYC Summer",,,,"C","2019","5","0","15000","0","0","0"
+"20190619","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","ADPC260V540037","Summer Youth Employment Program",,,,"C","2019","5","0","11900","0","0","0"
+"20190619","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","ADPC260V540050","Work, Learn, Grow (Year-Round Employment)",,,,"C","2019","5","0","19700","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","825747","900771","916746","918748","918748"
+"20190619","816","Department of Health and Mental Hygiene","CIS","Council Initiatives",,,,,,"C","2019","5","7","51444","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-20577","-20577","-20577","-20577"
+"20190619","816","Department of Health and Mental Hygiene","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","34176","2267","-11615","-11840","-11840"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240005","Beating Hearts",,,,"C","2019","5","0","350","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240006","HIV/AIDS - End the Epidemic",,,,"C","2019","5","0","7444","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240007","HIV/AIDS Faith Based",,,,"C","2019","5","0","1131","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240008","Viral Hepatitis Prevention",,,,"C","2019","5","0","1924","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240009","Child Health and Wellness",,,,"C","2019","5","0","378","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240010","Contraceptive Fund",,,,"C","2019","5","0","781","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240011","Maternal and Child Health Services",,,,"C","2019","5","0","2193","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240012","Reproductive and Sexual Health Services",,,,"C","2019","5","0","245","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240013","Trans Equity Programs",,,,"C","2019","5","0","1175","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240014","Access Health",,,,"C","2019","5","0","3000","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q340015","CC Member Items 112",,,,"C","2019","5","0","239","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q340016","CC Member Items 113",,,,"C","2019","5","0","839","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q340017","Local Initiatives",,,,"C","2019","5","0","42","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q340018","CC Member Items 117",,,,"C","2019","5","0","90","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240019","Cancer Services",,,,"C","2019","5","0","600","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q340020","Local Initiatives",,,,"C","2019","5","0","649","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q340021","Local Initiative",,,,"C","2019","5","0","251","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q340022","Local Initiative",,,,"C","2019","5","0","75","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240023","Child Health and Wellness PPC",,,,"C","2019","5","0","268","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240024","Immigrant Health Initiative",,,,"C","2019","5","0","1565","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240025","Reproductive and Sexual Health",,,,"C","2019","5","0","350","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240026","Children Under Five",,,,"C","2019","5","0","1002","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240027","Court-Involved Youth MH",,,,"C","2019","5","0","3400","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240028","Dev, Psych, Behavioral Health",,,,"C","2019","5","0","1587","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240029","Geriatric Mental Health",,,,"C","2019","5","0","1854","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240030","LGBTQ Youth Mental Health",,,,"C","2019","5","0","1200","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240031","Medicaid Redesign Transition",,,,"C","2019","5","0","500","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240032","Veterans Mental Health",,,,"C","2019","5","0","500","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240033","Vulnerable Populations MH",,,,"C","2019","5","0","2228","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240034","Autism Awareness",,,,"C","2019","5","0","3057","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240035","Dev, Psych,  Behavioral Health",,,,"C","2019","5","0","330","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240036","Vulnerable Populations MH",,,,"C","2019","5","0","90","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240037","Dev, Psych, Behavioral Health",,,,"C","2019","5","0","339","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240038","Opioid Prevention & Treatment",,,,"C","2019","5","0","3500","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240040","City Council Enhancements",,,,"C","2019","5","0","2268","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q240003","Public Health Funding Backfill",,,,"C","2019","5","0","6000","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","CI","Council Initiatives","ADPC816Q340004","Local Initiatives",,,,"C","2019","5","7","0","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","SAV","Citywide Savings Program","ADPC816M140045","MHSC Restructuring",,"Service Reduction",,"C","2019","5","0","-20000","-20000","-20000","-20000"
+"20190619","816","Department of Health and Mental Hygiene","SAV","Citywide Savings Program","ADPC816M640049","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-577","-577","-577","-577"
+"20190619","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","ADPC816O140001","School Health Revenue Adjustment",,,,"C","2019","5","38995","0","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","ADPC816V540000","Animal Care Centers",,,,"C","2019","5","0","3000","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","ADPB816A340000","Staten Island Barbershop Hypertension Initiative",,,,"C","2019","5","0","225","225","0","0"
+"20190619","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","ADPC816C140002","Collective Bargaining DC 37 Local 1087",,,,"C","2019","5","9","21","27","27","27"
+"20190619","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","ADPC816N140041","LeadFreeNYC Rolls",,,,"C","2019","5","-1369","1369","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","ADPC816G140044","Thrive Mental Health Service Corp Restructuring",,,,"C","2019","5","0","-5809","-11868","-11868","-11868"
+"20190619","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","ADPC816N140046","Diversion Center Funding Roll",,,,"C","2019","5","-3460","3460","0","0","0"
+"20190619","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","ADPC816O140047","Collective Bargaining Adjustment",,,,"C","2019","5","1","1","1","1","1"
+"20190619","819","Health + Hospitals","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","624837","913722","951372","1000043","1001219"
+"20190619","819","Health + Hospitals","CIS","Council Initiatives",,,,,,"C","2019","5","0","1076","0","0","0"
+"20190619","819","Health + Hospitals","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","281255","-193684","12378","12412","12413"
+"20190619","819","Health + Hospitals","CI","Council Initiatives","ADPC819Q240001","City Council Enhancements",,,,"C","2019","5","0","200","0","0","0"
+"20190619","819","Health + Hospitals","CI","Council Initiatives","ADPC819Q240002","Crisis Management System",,,,"C","2019","5","0","200","0","0","0"
+"20190619","819","Health + Hospitals","CI","Council Initiatives","ADPC819Q240003","Ending the Epidemic",,,,"C","2019","5","0","241","0","0","0"
+"20190619","819","Health + Hospitals","CI","Council Initiatives","ADPC819Q240005","Immigrant Health Initiative",,,,"C","2019","5","0","435","0","0","0"
+"20190619","819","Health + Hospitals","EIR","Expenditure Increases/Re-estimates","ADPC819C140000","Lump Sum Collective Bargaining: 1199 & NYSNA",,,,"C","2019","5","81255","0","0","0","0"
+"20190619","819","Health + Hospitals","EIR","Expenditure Increases/Re-estimates","ADPC819C140004","Collective Bargaining L1087",,,,"C","2019","5","0","117","120","154","155"
+"20190619","819","Health + Hospitals","EIR","Expenditure Increases/Re-estimates","ADPC819G140007","MHSC Transfer",,,,"C","2019","5","0","5809","11868","11868","11868"
+"20190619","819","Health + Hospitals","EIR","Expenditure Increases/Re-estimates","ADPC819L140008","H+H Prepayment",,,,"C","2019","5","200000","-200000","0","0","0"
+"20190619","819","Health + Hospitals","EIR","Expenditure Increases/Re-estimates","ADPC819V540009","Transgender/Gender Non-Binary Healthcare Training",,,,"C","2019","5","0","390","390","390","390"
+"20190619","806","Housing Preservation and Development","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","257866","258661","269055","284580","288398"
+"20190619","806","Housing Preservation and Development","CIS","Council Initiatives",,,,,,"C","2019","5","0","16426","0","0","0"
+"20190619","806","Housing Preservation and Development","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-262","-262","-262","-262"
+"20190619","806","Housing Preservation and Development","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-15613","16402","-2320","490","490"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240004","A Greener NYC",,,,"C","2019","5","0","10","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240009","City Council Enhancements",,,,"C","2019","5","0","395","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q340010","Local Initiatives",,,,"C","2019","5","0","1333","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240011","Community Land Trust",,,,"C","2019","5","0","750","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240012","Community Housing Preservation Strategies",,,,"C","2019","5","0","3651","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240014","Financial Empowerment",,,,"C","2019","5","0","195","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240016","Housing Information Project",,,,"C","2019","5","0","300","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240017","HPD Home Loan Program",,,,"C","2019","5","0","2000","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240018","Housing Court Answers",,,,"C","2019","5","0","650","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240020","Foreclosure Prevention Program",,,,"C","2019","5","0","3250","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240021","City Council Enhancements",,,,"C","2019","5","0","56","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q340022","Local Initiatives",,,,"C","2019","5","0","726","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240023","City Council Programmatic Restorations",,,,"C","2019","5","0","110","0","0","0"
+"20190619","806","Housing Preservation and Development","CI","Council Initiatives","ADPC806Q240028","Stabilize NYC",,,,"C","2019","5","0","3000","0","0","0"
+"20190619","806","Housing Preservation and Development","SAV","Citywide Savings Program","ADPC806M640029","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-262","-262","-262","-262"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPC806V540003","Alt Enforcement Program",,,,"C","2019","5","0","750","0","0","0"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPC806N140005","Basement Apartment Program Re-estimate",,,,"C","2019","5","-596","596","0","0","0"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPC806C140008","Collective Bargaining TL",,,,"C","2019","5","201","409","409","409","409"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPC806N140013","EDC Reallocation",,,,"C","2019","5","-155","155","0","0","0"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPC806O340015","Foreclosure Buyback Adjustment",,,,"C","2019","5","-1250","0","0","0","0"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPC806G140024","NYCHA JOBS PLUS",,,,"C","2019","5","0","-937","-2810","0","0"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPC806C140025","Collective Bargaining for IUOE L211 Settlement.",,,,"C","2019","5","49","81","81","81","81"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPC806N140026","NYCHA Roll of Surplus City Tax Levy",,,,"C","2019","5","-13862","13862","0","0","0"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPB806A340000","NYCHA SMOKE-FREE",,,,"C","2019","5","0","1190","0","0","0"
+"20190619","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","ADPC806V540032","DFTA NYCHA Senior Club Funding",,,,"C","2019","5","0","296","0","0","0"
+"20190619","836","Department of Finance","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","307078","308883","305504","305358","305375"
+"20190619","836","Department of Finance","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-1445","-1445","-1445","-1445"
+"20190619","836","Department of Finance","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-1","7399","6399","6399","6399"
+"20190619","836","Department of Finance","SAV","Citywide Savings Program","ADPC836M640001","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-1445","-1445","-1445","-1445"
+"20190619","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","ADPB836A340000","Hearing Officer Hours",,,,"C","2019","5","0","852","852","852","852"
+"20190619","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","ADPB836A340001","Expansion of Speed Zone Camera Program",,,,"C","2019","5","0","6298","5298","5298","5298"
+"20190619","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","ADPC836O140002","Collective Bargaining Adjustment",,,,"C","2019","5","-1","-1","-1","-1","-1"
+"20190619","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","ADPC836V540000","City Assessors",,,,"C","2019","5","0","250","250","250","250"
+"20190619","841","Department of Transportation","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","625592","647323","652751","652398","652484"
+"20190619","841","Department of Transportation","CIS","Council Initiatives",,,,,,"C","2019","5","0","147","0","0","0"
+"20190619","841","Department of Transportation","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-728","-728","-728","-728"
+"20190619","841","Department of Transportation","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-9995","17881","8176","8730","8966"
+"20190619","841","Department of Transportation","CI","Council Initiatives","ADPC841Q240008","Local initiatives",,,,"C","2019","5","0","10","0","0","0"
+"20190619","841","Department of Transportation","CI","Council Initiatives","ADPC841Q340005","Local Initiatives",,,,"C","2019","5","0","137","0","0","0"
+"20190619","841","Department of Transportation","SAV","Citywide Savings Program","ADPC841M640011","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-728","-728","-728","-728"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841V540001","14th Street traffic study",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841V540002","Accessible pedestrian signals maintenance",,,,"C","2019","5","0","567","2599","3153","3907"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841X340000","Motor Fuel",,,,"C","2019","5","50","0","0","0","0"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841N140003","City-owned Arterial Highway Drainage Asset Study (MS4)",,,,"C","2019","5","-10","-1026","518","518","0"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPB841A340000","Speed camera outreach campaign",,,,"C","2019","5","0","550","0","0","0"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPB841A340002","Vision Zero outreach campaign",,,,"C","2019","5","0","5000","5000","5000","5000"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841C140020","Collective Bargaining for DC37 Local 1087",,,,"C","2019","5","14","33","33","33","33"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841C140012","Collective Bargaining for ABI Local 211",,,,"C","2019","5","3","5","5","5","5"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841C140014","Labor Lump Sum Payment",,,,"C","2019","5","1660","0","0","0","0"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841N140016","IT funding roll",,,,"C","2019","5","-10735","10735","0","0","0"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841C140018","Collective Bargaining for Local 3 IBEW",,,,"C","2019","5","19","21","21","21","21"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841N140004","Brooklyn Bridge cable study roll",,,,"C","2019","5","-466","466","0","0","0"
+"20190619","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","ADPC841N140007","Universal Legal Search roll",,,,"C","2019","5","-530","530","0","0","0"
+"20190619","846","Department of Parks and Recreation","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","436092","415671","417322","417610","417603"
+"20190619","846","Department of Parks and Recreation","CIS","Council Initiatives",,,,,,"C","2019","5","-72","6489","0","0","0"
+"20190619","846","Department of Parks and Recreation","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-1040","-1040","-1040","-1040"
+"20190619","846","Department of Parks and Recreation","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-4131","41519","8269","8269","8269"
+"20190619","846","Department of Parks and Recreation","CI","Council Initiatives","ADPC846Q340016","Local Initiatives (Council)",,,,"C","2019","5","-72","0","0","0","0"
+"20190619","846","Department of Parks and Recreation","CI","Council Initiatives","ADPC846Q340017","Local Initiatives (Council)",,,,"C","2019","5","0","1045","0","0","0"
+"20190619","846","Department of Parks and Recreation","CI","Council Initiatives","ADPC846Q240018","City Council Enhancements",,,,"C","2019","5","0","32","0","0","0"
+"20190619","846","Department of Parks and Recreation","CI","Council Initiatives","ADPC846Q240019","NYC Cleanup Initiative",,,,"C","2019","5","0","105","0","0","0"
+"20190619","846","Department of Parks and Recreation","CI","Council Initiatives","ADPC846Q240020","A Greener NYC",,,,"C","2019","5","0","303","0","0","0"
+"20190619","846","Department of Parks and Recreation","CI","Council Initiatives","ADPC846Q240021","Parks Equity Initiative",,,,"C","2019","5","0","5004","0","0","0"
+"20190619","846","Department of Parks and Recreation","SAV","Citywide Savings Program","ADPC846M640003","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-1040","-1040","-1040","-1040"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846V540004","Beach and Pool Seasonal Extension",,,,"C","2019","5","0","1723","0","0","0"
+"20200116","056","Police Department","CSPR","Citywide Savings Program",,,,,,"C","2020","5","35800","0","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846V540005","Parks Maintenance",,,,"C","2019","5","0","9553","9553","9553","9553"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846G940006","Parks Maintenance- Fringe",,,,"C","2019","5","0","-2821","-2821","-2821","-2821"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846V540007","Tree Stump Removal",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPB846A140000","Wildlife Management Program",,,,"C","2019","5","0","1537","1537","1537","1537"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846V540008","Forestry Management",,,,"C","2019","5","0","4000","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846V540009","GreenThumb",,,,"C","2019","5","0","8200","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846V540010","PEP Officers",,,,"C","2019","5","0","5900","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846G940011","PEP Officers - Fringe",,,,"C","2019","5","0","-1807","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846V540012","Urban Park Rangers",,,,"C","2019","5","0","4100","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846G940013","Urban Park Rangers - Fringe",,,,"C","2019","5","0","-1129","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846V540014","100 Park Workers & 50 Gardeners",,,,"C","2019","5","0","9553","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846G940015","100 Parks Workers and 50 Gardeners - Fringe",,,,"C","2019","5","0","-2821","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPB846A340003","ESCR NYCHA Playground Improvements",,,,"C","2019","5","0","300","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846X340000","Motor Fuel",,,,"C","2019","5","100","0","0","0","0"
+"20190619","846","Department of Parks and Recreation","EIR","Expenditure Increases/Re-estimates","ADPC846N140002","Funding Rolls OTPS",,,,"C","2019","5","-4231","4231","0","0","0"
+"20190619","856","Department of Citywide Administrative Services","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","333695","333833","376772","387551","379104"
+"20190619","856","Department of Citywide Administrative Services","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-143","-143","-143","-143"
+"20190619","856","Department of Citywide Administrative Services","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-2800","30008","155","-485","-485"
+"20190619","856","Department of Citywide Administrative Services","SAV","Citywide Savings Program","ADPC856M640008","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-143","-143","-143","-143"
+"20190619","856","Department of Citywide Administrative Services","EIR","Expenditure Increases/Re-estimates","ADPC856O140010","Lease Adjustment",,,,"C","2019","5","-20","0","0","0","0"
+"20190619","856","Department of Citywide Administrative Services","EIR","Expenditure Increases/Re-estimates","ADPC856C140000","Building Inspectors Collective Bargaining",,,,"C","2019","5","3","5","5","5","5"
+"20190619","856","Department of Citywide Administrative Services","EIR","Expenditure Increases/Re-estimates","ADPC856V540004","Security Services for Bronx DA",,,,"C","2019","5","0","2497","0","0","0"
+"20190619","856","Department of Citywide Administrative Services","EIR","Expenditure Increases/Re-estimates","ADPB856A340001","Contractual Costs",,,,"C","2019","5","0","1401","0","0","0"
+"20190619","856","Department of Citywide Administrative Services","EIR","Expenditure Increases/Re-estimates","ADPB856A140002","Non-Public School Security",,,,"C","2019","5","0","19800","0","0","0"
+"20190619","856","Department of Citywide Administrative Services","EIR","Expenditure Increases/Re-estimates","ADPC856O140005","Census Adjustment",,,,"C","2019","5","0","0","0","-490","-490"
+"20190619","856","Department of Citywide Administrative Services","EIR","Expenditure Increases/Re-estimates","ADPC856O140006","Budget Realignment",,,,"C","2019","5","-2783","6305","150","0","0"
+"20190619","040","Department of Education","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","13583427","13343943","13910488","14433707","14799000"
+"20190619","040","Department of Education","CIS","Council Initiatives",,,,,,"C","2019","5","-850","29349","0","0","0"
+"20190619","040","Department of Education","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","387","-6113","-6113","-6113"
+"20190619","040","Department of Education","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","7298","82398","62524","62544","62544"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q340026","Member Items",,,,"C","2019","5","-850","0","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q340027","Local Initiatives",,,,"C","2019","5","0","1427","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240028","City Council Enhancements",,,,"C","2019","5","0","109","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240030","College and Career Readiness",,,,"C","2019","5","0","1778","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240031","Community Schools",,,,"C","2019","5","0","3750","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240033","LGBTQ Inclusive Curriculum",,,,"C","2019","5","0","800","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240034","Physical Education and Fitness",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240035","Social and Emotional Supports for Students",,,,"C","2019","5","0","1869","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240036","Support for Educators",,,,"C","2019","5","0","4010","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240037","Physical Education and Fitness",,,,"C","2019","5","0","125","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240038","Work-Based Learning Internships",,,,"C","2019","5","0","600","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240039","Peter F. Vallone Academic Scholarship",,,,"C","2019","5","0","532","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240040","Support for Educators",,,,"C","2019","5","0","550","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240041","Educational Programs for Students",,,,"C","2019","5","0","735","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240042","Educational Programs for Students",,,,"C","2019","5","0","5919","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240043","A Greener NYC",,,,"C","2019","5","0","100","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240044","Crisis Management System",,,,"C","2019","5","0","640","0","0","0"
+"20190619","040","Department of Education","CI","Council Initiatives","ADPC040Q240045","Discretionary Child Care Restoration",,,,"C","2019","5","0","5405","0","0","0"
+"20190619","040","Department of Education","SAV","Citywide Savings Program","ADPC040M640006","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-6113","-6113","-6113","-6113"
+"20190619","040","Department of Education","SAV","Citywide Savings Program","ADP040V540000","Breakfast in the Classroom",,"Efficiency","Business Process Redesign: Procurement","C","2019","5","0","6000","0","0","0"
+"20190619","040","Department of Education","SAV","Citywide Savings Program","ADP040V540001","Urban Advantage Restoration",,"Re-estimate",,"C","2019","5","0","500","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040C140000","DC37 Local 1087 - DC37 Trade Titles",,,,"C","2019","5","71","157","157","158","158"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040C140001","Collective Bargaining Lump Sums",,,,"C","2019","5","1638","0","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040C140002","SSA CB Adjustment",,,,"C","2019","5","682","0","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040C140003","DC 37 Collective Bargaining",,,,"C","2019","5","6982","11424","10759","10759","10759"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540008","Restorative Justice",,,,"C","2019","5","0","1300","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540009","Support for Homeless Students",,,,"C","2019","5","0","2000","2000","2000","2000"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040O140010","9-14 Expansion",,,,"C","2019","5","0","184","242","261","261"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040O140012","SAPIS",,,,"C","2019","5","0","2000","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540013","School Crisis Responders",,,,"C","2019","5","0","10949","10949","10949","10949"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540015","Urban Advantage",,,,"C","2019","5","0","3500","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540016","Additional Bridging the Gap Social Workers",,,,"C","2019","5","0","14814","14814","14814","14814"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540017","Guidance Counselors / Social Workers for All Schools",,,,"C","2019","5","0","2000","2000","2000","2000"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540018","Title IX Coordinators",,,,"C","2019","5","0","803","803","803","803"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540019","Community Schools Sustainability",,,,"C","2019","5","0","2567","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040N140020","Halal and Kosher School Lunch Pilot",,,,"C","2019","5","-875","875","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540021","Halal and Kosher School Lunch Pilot",,,,"C","2019","5","0","125","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540022","LGBTQ Inclusive Curriculum",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540023","Child Care Contracts",,,,"C","2019","5","0","4500","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540024","Promote Diversity and Inclusion Initiatives",,,,"C","2019","5","0","2200","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040N140025","Extended Use Fees Roll",,,,"C","2019","5","-1200","1200","0","0","0"
+"20190619","040","Department of Education","EIR","Expenditure Increases/Re-estimates","ADPC040V540029","Teacher's Choice",,,,"C","2019","5","0","20800","20800","20800","20800"
+"20190619","042","City University","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","858448","855654","864992","880251","895917"
+"20190619","042","City University","CIS","Council Initiatives",,,,,,"C","2019","5","-15","31041","0","0","0"
+"20190619","042","City University","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-81","1205","33","33","33"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q340000","Council Member Reallocation",,,,"C","2019","5","-15","0","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240002","Creative Arts Team",,,,"C","2019","5","0","400","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240003","CUNY Childcare Expansion",,,,"C","2019","5","0","600","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240004","CUNY Research Institutes",,,,"C","2019","5","0","3170","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240005","Joseph S. Murphy Center for Worker Education",,,,"C","2019","5","0","1200","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240006","Peter F. Vallone Academic Scholarship",,,,"C","2019","5","0","16293","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240007","CUNY Diversity Incubator",,,,"C","2019","5","0","500","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240008","CUNY Citizenship NOW! Program",,,,"C","2019","5","0","3000","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240009","Immigrant Opportunities Initiative",,,,"C","2019","5","0","24","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240010","Create New Technology Incubators",,,,"C","2019","5","0","1400","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240011","Worker Cooperative Business Development Initiative",,,,"C","2019","5","0","172","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240013","Veterans Community Development",,,,"C","2019","5","0","250","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240015","LGBT Community Services",,,,"C","2019","5","0","50","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240016","Cultural After-School Adventure (CASA)",,,,"C","2019","5","0","40","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240017","Cultural Immigrant Initiative",,,,"C","2019","5","0","20","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240018","Educational Programs for Students",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240019","Access to Healthy Food and Nutritional Education",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240020","Ending the Epidemic",,,,"C","2019","5","0","50","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240021","Civic Education in New York City Schools",,,,"C","2019","5","0","50","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q340025","Local Initiatives",,,,"C","2019","5","0","1332","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240026","City Council Enhancements",,,,"C","2019","5","0","65","0","0","0"
+"20190619","042","City University","CI","Council Initiatives","ADPC042Q240027","Adult Literacy",,,,"C","2019","5","0","425","0","0","0"
+"20190619","042","City University","EIR","Expenditure Increases/Re-estimates","ADPC042C140001","DC37 Local 1087",,,,"C","2019","5","19","33","33","33","33"
+"20190619","042","City University","EIR","Expenditure Increases/Re-estimates","ADPC042G240012","OEO Graduate NYC",,,,"C","2019","5","-100","-100","0","0","0"
+"20190619","042","City University","EIR","Expenditure Increases/Re-estimates","ADPC042G240014","OEO Pathways to College and Careers",,,,"C","2019","5","0","-406","0","0","0"
+"20190619","042","City University","EIR","Expenditure Increases/Re-estimates","ADPC042G240022","OEO Jails to Jobs",,,,"C","2019","5","0","-250","0","0","0"
+"20190619","042","City University","EIR","Expenditure Increases/Re-estimates","ADPC042G240023","OEO PFS Lehman College",,,,"C","2019","5","0","-72","0","0","0"
+"20190619","042","City University","EIR","Expenditure Increases/Re-estimates","ADPC042V540024","Remediation",,,,"C","2019","5","0","2000","0","0","0"
+"20190619","095","Pensions","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","9791898","9806994","9973467","10419829","10475279"
+"20190619","095","Pensions","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","9199","11824","12044","12044","12044"
+"20190619","095","Pensions","EIR","Expenditure Increases/Re-estimates","ADPC095O140000","BASELINE CHANGES - FY19 FINAL CONTRIBUTION",,,,"C","2019","5","2017","-220","0","0","0"
+"20190619","095","Pensions","EIR","Expenditure Increases/Re-estimates","ADPC095O140001","OTB COST",,,,"C","2019","5","12618","12044","12044","12044","12044"
+"20190619","095","Pensions","EIR","Expenditure Increases/Re-estimates","ADPC095O140002","VDC REVERSAL",,,,"C","2019","5","-4200","0","0","0","0"
+"20190619","095","Pensions","EIR","Expenditure Increases/Re-estimates","ADPC095O140003","LIBRARIES",,,,"C","2019","5","-1236","0","0","0","0"
+"20190619","098","Miscellaneous","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","8147248","10379585","11130201","10915425","11789363"
+"20190619","098","Miscellaneous","CIS","Council Initiatives",,,,,,"C","2019","5","13","45018","0","0","0"
+"20190619","098","Miscellaneous","CSP","Citywide Savings Program",,,,,,"C","2019","5","-49000","-40211","-6494","-6768","-7032"
+"20190619","098","Miscellaneous","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-38425","133104","-19854","-19888","-19261"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240001","Crisis Management System",,,,"C","2019","5","0","1905","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q340006","Local Initiatives",,,,"C","2019","5","13","0","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q340007","Local Initiatives",,,,"C","2019","5","0","365","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240008","City Council Enhacements",,,,"C","2019","5","0","788","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240009","Alternatives to Incarceration",,,,"C","2019","5","0","13487","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240010","Diversion Programs",,,,"C","2019","5","0","2525","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240011","Initiative to Combat Sexual Assault",,,,"C","2019","5","0","3210","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240012","Innovative Criminal Justice Programs",,,,"C","2019","5","0","2380","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240013","Support for Human Trafficking Victims",,,,"C","2019","5","0","1200","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240014","Support for Persons Involved in the Sex Trade",,,,"C","2019","5","0","2988","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240015","Domestic Violence and Empowerment Initiative (DoVE)",,,,"C","2019","5","0","9805","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240016","Supportive Alternatives to Violent Encounters (SAVE)",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240017","Family Advocacy and Guardianship Support",,,,"C","2019","5","0","1500","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240018","Legal Information and Support for Families",,,,"C","2019","5","0","485","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240019","Legal Services for Low-Income New Yorkers",,,,"C","2019","5","0","250","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240020","Prisoners' Rights Project",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240021","Hate Crimes Prevention",,,,"C","2019","5","0","1000","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240022","Initiative for Immigrant Survivors of Domestic Violence",,,,"C","2019","5","0","530","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240023","Prevent Sexual Assault Initiative for Young Adults",,,,"C","2019","5","0","350","0","0","0"
+"20190619","098","Miscellaneous","CI","Council Initiatives","ADPC098Q240024","Discharge Planning",,,,"C","2019","5","0","250","0","0","0"
+"20190619","098","Miscellaneous","SAV","Citywide Savings Program","ADPC098M140043","Health Insurance Re-estimate",,"Re-estimate",,"C","2019","5","-49000","-34000","0","0","0"
+"20190619","098","Miscellaneous","SAV","Citywide Savings Program","ADPC098M640048","Fringe Vacancy Reduction",,"Efficiency","People and Space: Staffing","C","2019","5","0","-6211","-6494","-6768","-7032"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098G140036","NYPL 035 Health Increment",,,,"C","2019","5","-150","-150","-150","-150","-150"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098G140037","NYPL 037 Health Increment",,,,"C","2019","5","-682","-682","-682","-682","-682"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098O140038","Water & Sewer Re-Estimate",,,,"C","2019","5","95","11","12","12","641"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098G140039","BPL Health Increment",,,,"C","2019","5","-1161","-1161","-1161","-1161","-1161"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098G140040","QBPL Health Increment",,,,"C","2019","5","-1148","-1148","-1148","-1148","-1148"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140041","Fringe & Training Fund Transfer",,,,"C","2019","5","559","523","543","604","608"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098O140042","HYIC TEP Increment",,,,"C","2019","5","-6062","0","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098G940044","Fringe Benefits -Headcount Adj",,,,"C","2019","5","0","8577","2821","2821","2821"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098O140045","Additional Deposit to RHBT",,,,"C","2019","5","100000","0","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098N140046","Pre-Scoping Funding Alignment",,,,"C","2019","5","-4450","4450","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098O140049","Retiree Adjustment",,,,"C","2019","5","-25000","-25000","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098O140025","Reserve Increase",,,,"C","2019","5","0","150000","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPB098A340000","Task Force Consultants",,,,"C","2019","5","0","200","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098V540002","Transitional Housing for Male Defendants with Mental Illness",,,,"C","2019","5","0","5000","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098V540003","Supervised Release",,,,"C","2019","5","0","7000","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098V540004","Justice for Sex Trade Workers",,,,"C","2019","5","0","2932","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098V540005","Post-Arrest Diversion Program",,,,"C","2019","5","0","3240","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140026","ABI CB",,,,"C","2019","5","-1792","-3094","-3094","-3094","-3094"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140027","L1087 CB",,,,"C","2019","5","-725","-1569","-1612","-1612","-1613"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140028","L3 SEE CB",,,,"C","2019","5","-19","-21","-21","-21","-21"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140029","NYCHA CB",,,,"C","2019","5","-49","-81","-81","-81","-81"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140030","SWB Transfer",,,,"C","2019","5","-559","-523","-543","-604","-608"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140031","H+H CB",,,,"C","2019","5","0","-117","-120","-154","-155"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140032","UPOA CB",,,,"C","2019","5","-2277","-3859","-3859","-3859","-3859"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140033","08-10 Lump Sum Payments",,,,"C","2019","5","-88023","0","0","0","0"
+"20190619","098","Miscellaneous","EIR","Expenditure Increases/Re-estimates","ADPC098C140034","DC37 Summer Pay",,,,"C","2019","5","-6982","-11424","-10759","-10759","-10759"
+"20190619","099","Debt Service","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","5840161","3491737","7402472","8096604","8856113"
+"20190619","099","Debt Service","CSP","Citywide Savings Program",,,,,,"C","2019","5","-190502","-8699","-77254","-122188","-132574"
+"20190619","099","Debt Service","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","505029","-505029","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140000","Projected GO Debt Service",,"Re-estimate",,"C","2019","5","0","9826","-34102","-60158","-68636"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140001","GO Variable Rate Interest",,"Re-estimate",,"C","2019","5","-32469","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140002","GO Swap Payments",,"Re-estimate",,"C","2019","5","-1410","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140003","GO Variable Rate Support Costs",,"Re-estimate",,"C","2019","5","-24795","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140004","GO Interest Earnings",,"Re-estimate",,"C","2019","5","0","1250","900","500","-975"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140005","GO BAB Expense Adjustment",,"Re-estimate",,"C","2019","5","-868","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140006","GO Swap Receipts",,"Re-estimate",,"C","2019","5","5784","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140007","Lease Debt ECF",,"Re-estimate",,"C","2019","5","-20554","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140008","Lease Debt PCDC",,"Re-estimate",,"C","2019","5","-71","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140009","Lease Debt DASNY Court",,"Re-estimate",,"C","2019","5","-1007","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140010","Lease Debt DASNY HHC",,"Re-estimate",,"C","2019","5","-547","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140011","Lease Debt NYSE",,"Re-estimate",,"C","2019","5","-840","0","0","0","0"
+"20190619","099","Debt Service","SAV","Citywide Savings Program","ADPC099M140012","TFA Retention",,"Re-estimate",,"C","2019","5","-113725","-19775","-44052","-62530","-62963"
+"20190619","099","Debt Service","EIR","Expenditure Increases/Re-estimates","ADPC099K140013","Debt Service Prepayment",,,,"C","2019","5","505029","-505029","0","0","0"
+"20190619","002","Mayoralty","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","115426","121795","119175","117979","117979"
+"20190619","002","Mayoralty","CIS","Council Initiatives",,,,,,"C","2019","5","0","40","0","0","0"
+"20190619","002","Mayoralty","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-88","-88","-88","-88"
+"20190619","002","Mayoralty","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-6186","7589","1494","1236","979"
+"20190619","002","Mayoralty","CI","Council Initiatives","ADPC002Q340004","Local Initiatives",,,,"C","2019","5","0","40","0","0","0"
+"20190619","002","Mayoralty","SAV","Citywide Savings Program","ADPC002M640005","Vacancy Reductions - MOCS",,"Efficiency","People and Space: Staffing","C","2019","5","0","-88","-88","-88","-88"
+"20190619","002","Mayoralty","EIR","Expenditure Increases/Re-estimates","ADPC002N140002","PASSPort Rollover- MOCS",,,,"C","2019","5","-6186","6186","0","0","0"
+"20190619","002","Mayoralty","EIR","Expenditure Increases/Re-estimates","ADPC002G140006","Mayor's Office of Workforce Development - MOCS",,,,"C","2019","5","0","515","515","257","0"
+"20190619","002","Mayoralty","EIR","Expenditure Increases/Re-estimates","ADPB002A340001","MOCJ Crisis Management System Staffing",,,,"C","2019","5","0","270","270","270","270"
+"20190619","002","Mayoralty","EIR","Expenditure Increases/Re-estimates","ADPB002A340002","MOCJ Contract and Budget Staff",,,,"C","2019","5","0","255","255","255","255"
+"20190619","002","Mayoralty","EIR","Expenditure Increases/Re-estimates","ADPC002G240008","Office of Economic Opportunity Realignment",,,,"C","2019","5","0","-11","80","80","80"
+"20190619","002","Mayoralty","EIR","Expenditure Increases/Re-estimates","ADPC002V540001","MOCJ Office for the Prevention of Hate Crimes",,,,"C","2019","5","0","374","374","374","374"
+"20190619","003","Board of Elections","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","160986","246029","130895","130895","130895"
+"20190619","003","Board of Elections","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","9900","0","0","0","0"
+"20190619","003","Board of Elections","EIR","Expenditure Increases/Re-estimates","ADPC003O140000","Elections Adjustment",,,,"C","2019","5","9900","0","0","0","0"
+"20190619","012","Borough President - Brooklyn","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","6771","6885","6058","6058","6058"
+"20190619","012","Borough President - Brooklyn","CIS","Council Initiatives",,,,,,"C","2019","5","0","5","0","0","0"
+"20190619","012","Borough President - Brooklyn","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","350","350","350","350"
+"20190619","012","Borough President - Brooklyn","CI","Council Initiatives","ADPC012Q340001","Local Initiatives",,,,"C","2019","5","0","5","0","0","0"
+"20190619","012","Borough President - Brooklyn","EIR","Expenditure Increases/Re-estimates","ADPC012O140000","PS Adjustment",,,,"C","2019","5","0","350","350","350","350"
+"20190619","014","Borough President - Staten Island","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","4670","4738","4482","4482","4482"
+"20190619","014","Borough President - Staten Island","CIS","Council Initiatives",,,,,,"C","2019","5","0","20","0","0","0"
+"20190619","014","Borough President - Staten Island","CI","Council Initiatives","ADPC014Q240000","City Council Enhancements",,,,"C","2019","5","0","20","0","0","0"
+"20190619","017","Department of Emergency Management","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","34797","38057","29017","29014","29014"
+"20190619","017","Department of Emergency Management","CIS","Council Initiatives",,,,,,"C","2019","5","0","28","0","0","0"
+"20190619","017","Department of Emergency Management","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-500","500","0","0","0"
+"20190619","017","Department of Emergency Management","CI","Council Initiatives","ADPC017Q340001","Local Initiatives",,,,"C","2019","5","0","18","0","0","0"
+"20190619","017","Department of Emergency Management","CI","Council Initiatives","ADPC017Q240002","City Council Enhancements",,,,"C","2019","5","0","10","0","0","0"
+"20190619","017","Department of Emergency Management","EIR","Expenditure Increases/Re-estimates","ADPC017N140000","Interim Flood Protection Measures (IFPM) Roll",,,,"C","2019","5","-500","500","0","0","0"
+"20190619","025","Law Department","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","248409","242888","243456","243436","243436"
+"20190619","025","Law Department","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-327","-327","-327","-327"
+"20190619","025","Law Department","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","6000","0","0","0"
+"20190619","025","Law Department","SAV","Citywide Savings Program","ADPC025M640000","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-327","-327","-327","-327"
+"20190619","025","Law Department","EIR","Expenditure Increases/Re-estimates","ADPB025A340001","Case-Specific Needs",,,,"C","2019","5","0","6000","0","0","0"
+"20190619","030","Department of City Planning","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","28443","23920","26166","25757","25845"
+"20190619","030","Department of City Planning","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-3450","3550","0","0","0"
+"20190619","030","Department of City Planning","EIR","Expenditure Increases/Re-estimates","ADPC030N140000","EIS Roll",,,,"C","2019","5","-1000","1000","0","0","0"
+"20190619","030","Department of City Planning","EIR","Expenditure Increases/Re-estimates","ADPC030O140001","Preservation Study SI",,,,"C","2019","5","0","100","0","0","0"
+"20190619","030","Department of City Planning","EIR","Expenditure Increases/Re-estimates","ADPC030N140002","ZAP! Roll",,,,"C","2019","5","-2450","2450","0","0","0"
+"20190619","035","New York Research Library","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","28408","28716","28848","28865","28865"
+"20190619","035","New York Research Library","CIS","Council Initiatives",,,,,,"C","2019","5","0","1030","0","0","0"
+"20190619","035","New York Research Library","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","150","1270","1270","1270","1270"
+"20190619","035","New York Research Library","CI","Council Initiatives","ADPC035Q340000","Local Initiatives",,,,"C","2019","5","0","50","0","0","0"
+"20190619","035","New York Research Library","CI","Council Initiatives","ADPC035Q240003","FY20 NYRL Subsidy",,,,"C","2019","5","0","980","0","0","0"
+"20190619","035","New York Research Library","EIR","Expenditure Increases/Re-estimates","ADPC035G140001","NYRL Health Insurance Increment",,,,"C","2019","5","150","150","150","150","150"
+"20190619","035","New York Research Library","EIR","Expenditure Increases/Re-estimates","ADPC035V540002","NYRL Subsidy",,,,"C","2019","5","0","1120","1120","1120","1120"
+"20190619","037","New York Public Library","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","145107","141369","142022","142097","142097"
+"20190619","037","New York Public Library","CIS","Council Initiatives",,,,,,"C","2019","5","0","5685","0","0","0"
+"20190619","037","New York Public Library","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","950","950","950","950"
+"20190619","037","New York Public Library","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","682","6634","6634","6634","6634"
+"20190619","037","New York Public Library","CI","Council Initiatives","ADPC037Q240002","City's First Readers",,,,"C","2019","5","0","375","0","0","0"
+"20190619","037","New York Public Library","CI","Council Initiatives","ADPC037Q240003","Adult Literacy",,,,"C","2019","5","0","102","0","0","0"
+"20190619","037","New York Public Library","CI","Council Initiatives","ADPC037Q240004","FY20 NYPL Subsidy",,,,"C","2019","5","0","5208","0","0","0"
+"20190619","037","New York Public Library","SAV","Citywide Savings Program","ADP037V540000","Restore DVDs",,"Service Reduction",,"C","2019","5","0","950","950","950","950"
+"20190619","037","New York Public Library","EIR","Expenditure Increases/Re-estimates","ADPC037G140000","NYPL Health Insurance Increment",,,,"C","2019","5","682","682","682","682","682"
+"20190619","037","New York Public Library","EIR","Expenditure Increases/Re-estimates","ADPC037V540001","NYPL Subsidy",,,,"C","2019","5","0","5952","5952","5952","5952"
+"20190619","038","Brooklyn Public Library","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","108633","105934","106467","106516","106516"
+"20190619","038","Brooklyn Public Library","CIS","Council Initiatives",,,,,,"C","2019","5","0","4297","0","0","0"
+"20190619","038","Brooklyn Public Library","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","713","713","713","713"
+"20190619","038","Brooklyn Public Library","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","1161","5625","5625","5625","5625"
+"20190619","038","Brooklyn Public Library","CI","Council Initiatives","ADPC038Q340000","Local Initiatives",,,,"C","2019","5","0","16","0","0","0"
+"20190619","038","Brooklyn Public Library","CI","Council Initiatives","ADPC038Q240003","City's First Readers initiative",,,,"C","2019","5","0","375","0","0","0"
+"20190619","038","Brooklyn Public Library","CI","Council Initiatives","ADPC038Q240004","FY20 BPL Subsidy",,,,"C","2019","5","0","3906","0","0","0"
+"20190619","038","Brooklyn Public Library","SAV","Citywide Savings Program","ADP038V540000","Restore materials spending",,"Service Reduction",,"C","2019","5","0","713","713","713","713"
+"20190619","038","Brooklyn Public Library","EIR","Expenditure Increases/Re-estimates","ADPC038G140001","BPL Health Insurance Increment",,,,"C","2019","5","1161","1161","1161","1161","1161"
+"20190619","038","Brooklyn Public Library","EIR","Expenditure Increases/Re-estimates","ADPC038V540002","BPL Subsidy",,,,"C","2019","5","0","4464","4464","4464","4464"
+"20190619","039","Queens Borough Public Library","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","113123","111111","111481","111808","111808"
+"20190619","039","Queens Borough Public Library","CIS","Council Initiatives",,,,,,"C","2019","5","0","4586","0","0","0"
+"20190619","039","Queens Borough Public Library","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","713","713","713","713"
+"20190619","039","Queens Borough Public Library","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","1148","5612","5612","5612","5612"
+"20190619","039","Queens Borough Public Library","CI","Council Initiatives","ADPC039Q340000","Local Initiatives",,,,"C","2019","5","0","87","0","0","0"
+"20190619","039","Queens Borough Public Library","CI","Council Initiatives","ADPC039Q240003","City's First Readers initiative",,,,"C","2019","5","0","375","0","0","0"
+"20190619","039","Queens Borough Public Library","CI","Council Initiatives","ADPC039Q240004","Adult Literacy",,,,"C","2019","5","0","100","0","0","0"
+"20190619","039","Queens Borough Public Library","CI","Council Initiatives","ADPC039Q240005","FY20 QBPL Subsidy",,,,"C","2019","5","0","3906","0","0","0"
+"20190619","039","Queens Borough Public Library","CI","Council Initiatives","ADPC039Q240006","City Council Enhancements",,,,"C","2019","5","0","18","0","0","0"
+"20190619","039","Queens Borough Public Library","CI","Council Initiatives","ADPC039Q240007","Digital Inclusion and Literacy",,,,"C","2019","5","0","100","0","0","0"
+"20190619","039","Queens Borough Public Library","SAV","Citywide Savings Program","ADP039V540000","Restore OTPS Spending",,"Service Reduction",,"C","2019","5","0","713","713","713","713"
+"20190619","039","Queens Borough Public Library","EIR","Expenditure Increases/Re-estimates","ADPC039G140001","QBPL Health Insurance Increment",,,,"C","2019","5","1148","1148","1148","1148","1148"
+"20190619","039","Queens Borough Public Library","EIR","Expenditure Increases/Re-estimates","ADPC039V540002","QBPL Subsidy",,,,"C","2019","5","0","4464","4464","4464","4464"
+"20190619","054","Civilian Complaint Review Board","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","18820","18344","18477","18477","18477"
+"20190619","054","Civilian Complaint Review Board","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","986","986","986","986"
+"20190619","054","Civilian Complaint Review Board","EIR","Expenditure Increases/Re-estimates","ADPC054V540000","Additional Investigators",,,,"C","2019","5","0","1458","1458","1458","1458"
+"20190619","054","Civilian Complaint Review Board","EIR","Expenditure Increases/Re-estimates","ADPC054O140001","Additional Investigators - Fringe",,,,"C","2019","5","0","-472","-472","-472","-472"
+"20190619","063","Department of Veterans’ Services","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","5075","4957","5063","5086","5108"
+"20190619","063","Department of Veterans’ Services","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","78","23","23","-123"
+"20190619","063","Department of Veterans’ Services","EIR","Expenditure Increases/Re-estimates","ADPC063O140000","Pay for Success Adjustment",,,,"C","2019","5","0","78","23","23","-123"
+"20190619","073","Board of Correction","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","2857","3158","3179","3179","3179"
+"20190619","073","Board of Correction","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-155","155","0","0","0"
+"20190619","073","Board of Correction","EIR","Expenditure Increases/Re-estimates","ADPC073N140000","Technical Adjustment",,,,"C","2019","5","-155","155","0","0","0"
+"20190619","101","Public Advocate","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","3735","3819","3848","3848","3848"
+"20190619","101","Public Advocate","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-60","710","650","650","650"
+"20190619","101","Public Advocate","EIR","Expenditure Increases/Re-estimates","ADPC101O140000","PS Adjustment",,,,"C","2019","5","0","650","650","650","650"
+"20190619","101","Public Advocate","EIR","Expenditure Increases/Re-estimates","ADPC101N140001","Fiscal Year Rollover",,,,"C","2019","5","-60","60","0","0","0"
+"20190619","126","Department of Cultural Affairs","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","197722","144257","148915","148862","148770"
+"20190619","126","Department of Cultural Affairs","CIS","Council Initiatives",,,,,,"C","2019","5","5","39651","0","0","0"
+"20190619","126","Department of Cultural Affairs","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","2853","0","0","0"
+"20190619","126","Department of Cultural Affairs","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-445","24815","600","600","600"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240002","DCA SU-CASA",,,,"C","2019","5","0","3315","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240003","Coalition of Theaters of Color",,,,"C","2019","5","0","3740","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240004","Ghetto Film School (GFS) Accelerator Program Model",,,,"C","2019","5","0","75","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240005","Autism Awareness",,,,"C","2019","5","0","190","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240006","Geriatric Mental Health",,,,"C","2019","5","0","52","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240007","Anti-Gun Violence Initiative",,,,"C","2019","5","0","720","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240008","Veterans Community Development",,,,"C","2019","5","0","160","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240009","CASA funds for CIGs",,,,"C","2019","5","0","1420","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240010","FY20 CC Council Enchancements",,,,"C","2019","5","0","3434","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q340011","Local Initiatives",,,,"C","2019","5","0","3410","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q340013","FY19 City Council Member Items Reallocation.",,,,"C","2019","5","5","0","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240015","A Greener NYC",,,,"C","2019","5","0","175","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240016","Afterschool Enrichment Initiative",,,,"C","2019","5","0","150","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240022","Cultural After-School Adventure (CASA)",,,,"C","2019","5","0","15580","0","0","0"
+"20190619","126","Department of Cultural Affairs","CI","Council Initiatives","ADPC126Q240023","Cultural Immigrant Initiative",,,,"C","2019","5","0","7230","0","0","0"
+"20190619","126","Department of Cultural Affairs","SAV","Citywide Savings Program","ADP126V540000","Restore CIG Subsidies",,"Service Reduction",,"C","2019","5","0","1014","0","0","0"
+"20190619","126","Department of Cultural Affairs","SAV","Citywide Savings Program","ADP126V540001","Restore Supplemental Funds",,"Service Reduction",,"C","2019","5","0","1530","0","0","0"
+"20190619","126","Department of Cultural Affairs","SAV","Citywide Savings Program","ADP126V540002","Restore CDF funds",,"Service Reduction",,"C","2019","5","0","309","0","0","0"
+"20190619","126","Department of Cultural Affairs","EIR","Expenditure Increases/Re-estimates","ADPC126O140024","Lease Adjustment",,,,"C","2019","5","20","0","0","0","0"
+"20190619","126","Department of Cultural Affairs","EIR","Expenditure Increases/Re-estimates","ADPC126N140001","Pilot program for scoping/pre-design services",,,,"C","2019","5","-150","150","0","0","0"
+"20190619","126","Department of Cultural Affairs","EIR","Expenditure Increases/Re-estimates","ADPC126N140012","Funding for maintenance work on Percent for Art commissions",,,,"C","2019","5","-82","82","0","0","0"
+"20190619","126","Department of Cultural Affairs","EIR","Expenditure Increases/Re-estimates","ADPC126V540014","Additional funding in FY20 to support cultural organizations",,,,"C","2019","5","0","23750","0","0","0"
+"20190619","126","Department of Cultural Affairs","EIR","Expenditure Increases/Re-estimates","ADPC126N140017","Funding for pre-development work on proposed affordable artists workspace sites",,,,"C","2019","5","-193","193","0","0","0"
+"20190619","126","Department of Cultural Affairs","EIR","Expenditure Increases/Re-estimates","ADPC126N140018","Inwood Building Community Capacity",,,,"C","2019","5","-40","40","0","0","0"
+"20190619","126","Department of Cultural Affairs","EIR","Expenditure Increases/Re-estimates","ADPC126V540021","Weeksville funding subject to CIG process",,,,"C","2019","5","0","600","600","600","600"
+"20190619","127","Financial Information Services Agency","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","112336","114732","111704","111704","111704"
+"20190619","127","Financial Information Services Agency","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-226","-226","-226","-226"
+"20190619","127","Financial Information Services Agency","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","440","440","440","440"
+"20190619","127","Financial Information Services Agency","SAV","Citywide Savings Program","ADPC127M640000","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-226","-226","-226","-226"
+"20190619","127","Financial Information Services Agency","EIR","Expenditure Increases/Re-estimates","ADPC127G140001","Funding Transfer",,,,"C","2019","5","0","440","440","440","440"
+"20190619","131","Office of Payroll Administration","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","15729","16578","16406","16406","16406"
+"20190619","131","Office of Payroll Administration","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-354","-354","-354","-354"
+"20190619","131","Office of Payroll Administration","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","-440","-440","-440","-440"
+"20190619","131","Office of Payroll Administration","SAV","Citywide Savings Program","ADPC131M640000","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-354","-354","-354","-354"
+"20190619","131","Office of Payroll Administration","EIR","Expenditure Increases/Re-estimates","ADPC131G140001","Funding Transfer",,,,"C","2019","5","0","-440","-440","-440","-440"
+"20190619","132","Independent Budget Office","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","5332","5713","5469","5460","5444"
+"20190619","132","Independent Budget Office","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","464","235","271","271","271"
+"20190619","132","Independent Budget Office","EIR","Expenditure Increases/Re-estimates","ADPC132O140000","Mandated Adjustment",,,,"C","2019","5","464","235","271","271","271"
+"20190619","136","Landmarks Preservation Comm.","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","6265","6217","6238","6258","6258"
+"20190619","136","Landmarks Preservation Comm.","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-240","200","0","-10","50"
+"20190619","136","Landmarks Preservation Comm.","EIR","Expenditure Increases/Re-estimates","ADPC136N140000","Funding Roll",,,,"C","2019","5","-240","200","0","-10","50"
+"20190619","156","NYC Taxi and Limousine Comm","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","51092","51652","53389","53590","53690"
+"20190619","156","NYC Taxi and Limousine Comm","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-192","-192","-192","-192"
+"20190619","156","NYC Taxi and Limousine Comm","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-1775","1775","0","0","0"
+"20190619","156","NYC Taxi and Limousine Comm","SAV","Citywide Savings Program","ADPC156M640003","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-192","-192","-192","-192"
+"20190619","156","NYC Taxi and Limousine Comm","EIR","Expenditure Increases/Re-estimates","ADPC156N140000","Office of Inclusion Roll",,,,"C","2019","5","-1000","1000","0","0","0"
+"20190619","156","NYC Taxi and Limousine Comm","EIR","Expenditure Increases/Re-estimates","ADPC156N140001","ESAP Roll",,,,"C","2019","5","-275","275","0","0","0"
+"20190619","156","NYC Taxi and Limousine Comm","EIR","Expenditure Increases/Re-estimates","ADPC156N140002","Driver Income Study Roll",,,,"C","2019","5","-500","500","0","0","0"
+"20190619","226","Commission on Human Rights","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","13721","14068","14142","14142","14142"
+"20190619","226","Commission on Human Rights","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-90","90","0","0","0"
+"20190619","226","Commission on Human Rights","EIR","Expenditure Increases/Re-estimates","ADPC226N140001","Technical Adjustment",,,,"C","2019","5","-90","90","0","0","0"
+"20190619","499","Community Boards - All","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","21045","18822","19007","19007","19007"
+"20190619","499","Community Boards - All","CIS","Council Initiatives",,,,,,"C","2019","5","0","2743","0","0","0"
+"20190619","499","Community Boards - All","CI","Council Initiatives","ADPC499Q240000","City Council Enhancements",,,,"C","2019","5","0","13","0","0","0"
+"20190619","499","Community Boards - All","CI","Council Initiatives","ADPC499Q340001","LOCAL INITIATIVES",,,,"C","2019","5","0","222","0","0","0"
+"20190619","499","Community Boards - All","CI","Council Initiatives","ADPC499Q240002","COUNCIL ADD",,,,"C","2019","5","0","2508","0","0","0"
+"20190619","781","Department of Probation","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","92140","96409","97343","97387","97387"
+"20190619","781","Department of Probation","CIS","Council Initiatives",,,,,,"C","2019","5","0","331","0","0","0"
+"20190619","781","Department of Probation","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-160","-160","-160","-160"
+"20190619","781","Department of Probation","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","2277","3859","3859","3859","3859"
+"20190619","781","Department of Probation","CI","Council Initiatives","ADPC781Q240001","Crisis Management System",,,,"C","2019","5","0","131","0","0","0"
+"20190619","781","Department of Probation","CI","Council Initiatives","ADPC781Q240002","Innovative Criminal Justice Programs",,,,"C","2019","5","0","200","0","0","0"
+"20190619","781","Department of Probation","SAV","Citywide Savings Program","ADPC781M640003","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-160","-160","-160","-160"
+"20190619","781","Department of Probation","EIR","Expenditure Increases/Re-estimates","ADPC781C140000","DC37 Labor Funding Adjustment",,,,"C","2019","5","2277","3859","3859","3859","3859"
+"20190619","801","Department of Small Business Services","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","200557","134058","110857","96300","95749"
+"20190619","801","Department of Small Business Services","CIS","Council Initiatives",,,,,,"C","2019","5","15","23833","0","0","0"
+"20190619","801","Department of Small Business Services","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","432","0","0","0"
+"20190619","801","Department of Small Business Services","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-27158","22963","1147","5427","155"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240003","Chamber on the Go and Small Business Assistance",,,,"C","2019","5","0","1889","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240004","Construction Site Safety Training",,,,"C","2019","5","0","1100","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240005","Day Laborer Workforce Initiative",,,,"C","2019","5","0","2970","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240006","City Council Enhancements",,,,"C","2019","5","0","470","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240007","Job Training and Placement Initiative",,,,"C","2019","5","0","7614","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240008","Job Placement for Veterans",,,,"C","2019","5","0","200","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q340009","Local Initiatives",,,,"C","2019","5","0","2663","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240010","Made in NYC",,,,"C","2019","5","0","850","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240011","MWBE Leadership Associations",,,,"C","2019","5","0","600","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240012","Neighborhood Development Grant Initiative",,,,"C","2019","5","0","2040","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q340013","FY19 CC Member Item UA 002",,,,"C","2019","5","15","0","0","0","0"
+"20190619","801","Department of Small Business Services","CI","Council Initiatives","ADPC801Q240014","Worker Cooperative Business Development Initiative",,,,"C","2019","5","0","3437","0","0","0"
+"20190619","801","Department of Small Business Services","SAV","Citywide Savings Program","ADP801V540000","NYC & Co City Council PEG Restoration",,"Re-estimate",,"C","2019","5","0","432","0","0","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPB801A340000","Financial District and Seaport Climate Resilience Master Plan",,,,"C","2019","5","0","3000","0","0","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPB801A340001","Repairs at Postcards Memorial",,,,"C","2019","5","0","250","0","0","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPC801N140001","MWBE Bond Surety Fund Reallocation",,,,"C","2019","5","-2950","2950","0","0","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPC801N140015","Love Your Local Reallocation",,,,"C","2019","5","-1630","1630","0","0","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPC801N140016","Construction Safety Reallocation",,,,"C","2019","5","-18108","11008","1857","5243","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPC801G140017","Career Pathways Metrics Transfer",,,,"C","2019","5","0","-865","-865","-471","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPC801N140018","OER Jumpstart Roll",,,,"C","2019","5","-699","699","0","0","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPC801N140020","OMWBE Reallocation",,,,"C","2019","5","-432","432","0","0","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPB801A340002","OER Technology Enhancements",,,,"C","2019","5","0","300","155","155","155"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPB801A340003","Update OneNYC",,,,"C","2019","5","0","720","0","0","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPC801N140023","Relocation Reallocation",,,,"C","2019","5","-424","424","0","0","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPC801N140024","Rezonings Reallocations",,,,"C","2019","5","-2440","1940","0","500","0"
+"20190619","801","Department of Small Business Services","EIR","Expenditure Increases/Re-estimates","ADPC801N140025","OMWBE Compliance Reallocation",,,,"C","2019","5","-475","475","0","0","0"
+"20190619","810","Department of Buildings","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","198647","199534","189582","190407","183093"
+"20190619","810","Department of Buildings","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-14994","8911","8885","4699","7108"
+"20190619","810","Department of Buildings","EIR","Expenditure Increases/Re-estimates","ADPC810N140003","Contract Funding Reallocation",,,,"C","2019","5","-16571","5653","5627","1441","3850"
+"20190619","810","Department of Buildings","EIR","Expenditure Increases/Re-estimates","ADPC810G140002","Compliance Help Desk Transfer",,,,"C","2019","5","0","600","600","600","600"
+"20190619","810","Department of Buildings","EIR","Expenditure Increases/Re-estimates","ADPC810C140000","Collective Bargaining Building Inspectors",,,,"C","2019","5","1577","2658","2658","2658","2658"
+"20190619","826","Department of Environmental Protection","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","1222213","1288405","1287400","1268150","1262562"
+"20190619","826","Department of Environmental Protection","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-358","-358","-358","-358"
+"20190619","826","Department of Environmental Protection","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-218","4527","2427","5475","2828"
+"20190619","826","Department of Environmental Protection","SAV","Citywide Savings Program","ADPC826M640009","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-358","-358","-358","-358"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPC826N140000","City-owned Arterial Highway Drainage Asset Study (MS4) Realignment",,,,"C","2019","5","-10","-1026","518","518","0"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPC826N140001","Rollover for the Demolition of Abandoned Buildings Upstate",,,,"C","2019","5","-180","180","0","0","0"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPC826G140003","Compliance Help Desk Transfer",,,,"C","2019","5","0","-600","-600","-600","-600"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPC826N140004","Rollover for a Filtration Avoidance Determination Initiative",,,,"C","2019","5","-1300","1300","0","0","0"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPB826A140000","Air and Noise Inspectors",,,,"C","2019","5","0","1680","411","411","411"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPC826N140007","Industrial and Commercial Facility Inspections and Assessments (MS4) Realignment",,,,"C","2019","5","-293","-917","-919","2129","0"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPC826N140008","Rollover for the Citywide/Open Water Combined Sewer Overflow Long-term Control Plan",,,,"C","2019","5","-950","950","0","0","0"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPC826C840010","DC 37 Local 1087",,,,"C","2019","5","4","9","9","9","9"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPC826C840011","DC37 L2906 (Sludge Boats)",,,,"C","2019","5","226","396","453","453","453"
+"20190619","826","Department of Environmental Protection","EIR","Expenditure Increases/Re-estimates","ADPC826C840012","Stationary and Senior Stationary Electrical Engineers.",,,,"C","2019","5","2285","2555","2555","2555","2555"
+"20190619","850","Department of Design and Construction","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","21455","29948","18281","18281","18281"
+"20190619","850","Department of Design and Construction","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","1946","0","0","0"
+"20190619","850","Department of Design and Construction","EIR","Expenditure Increases/Re-estimates","ADPB850A340000","Sumner Armory Feasibility Study",,,,"C","2019","5","0","150","0","0","0"
+"20190619","850","Department of Design and Construction","EIR","Expenditure Increases/Re-estimates","ADPB850A340001","East Side Coastal Resiliency (ESCR) Flyover Bridge",,,,"C","2019","5","0","1796","0","0","0"
+"20190619","858","Department of Information Technology and Telecommunication","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","479071","519916","555367","552901","552901"
+"20190619","858","Department of Information Technology and Telecommunication","CIS","Council Initiatives",,,,,,"C","2019","5","0","24","0","0","0"
+"20190619","858","Department of Information Technology and Telecommunication","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","-1545","-1545","-1545","-1545"
+"20190619","858","Department of Information Technology and Telecommunication","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-4737","2027","350","213","0"
+"20190619","858","Department of Information Technology and Telecommunication","CI","Council Initiatives","ADPC858Q340012","Local Initiatives",,,,"C","2019","5","0","24","0","0","0"
+"20190619","858","Department of Information Technology and Telecommunication","SAV","Citywide Savings Program","ADPC858M640000","Vacancy Reductions",,"Efficiency","People and Space: Staffing","C","2019","5","0","-1545","-1545","-1545","-1545"
+"20190619","858","Department of Information Technology and Telecommunication","EIR","Expenditure Increases/Re-estimates","ADPC858G140005","Mayor's Office of Workforce Development",,,,"C","2019","5","0","350","350","213","0"
+"20190619","858","Department of Information Technology and Telecommunication","EIR","Expenditure Increases/Re-estimates","ADPC858N140006","FireCAD Roll",,,,"C","2019","5","-1277","1277","0","0","0"
+"20190619","858","Department of Information Technology and Telecommunication","EIR","Expenditure Increases/Re-estimates","ADPC858G140007","OTPS Transfer",,,,"C","2019","5","0","-1000","0","0","0"
+"20190619","858","Department of Information Technology and Telecommunication","EIR","Expenditure Increases/Re-estimates","ADPC858G240008","Graduate NYC Adjustment",,,,"C","2019","5","100","0","0","0","0"
+"20190619","858","Department of Information Technology and Telecommunication","EIR","Expenditure Increases/Re-estimates","ADPC858N140010","Fiscal Year Rollover",,,,"C","2019","5","-1400","1400","0","0","0"
+"20190619","858","Department of Information Technology and Telecommunication","EIR","Expenditure Increases/Re-estimates","ADPC858O140011","MOME OTPS Adjustment",,,,"C","2019","5","-2160","0","0","0","0"
+"20190619","866","Department of Consumer Affairs","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","38559","39135","39900","39845","39845"
+"20190619","866","Department of Consumer Affairs","CIS","Council Initiatives",,,,,,"C","2019","5","0","255","0","0","0"
+"20190619","866","Department of Consumer Affairs","CI","Council Initiatives","ADPC866Q240000","Financial Empowerment for NYC Renters",,,,"C","2019","5","0","255","0","0","0"
+"20190619","901","District Attorney - Manhattan","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","107654","108104","109155","109155","109155"
+"20190619","901","District Attorney - Manhattan","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","1914","549","549","549"
+"20190619","901","District Attorney - Manhattan","EIR","Expenditure Increases/Re-estimates","ADPC901O140000","Technical Adjustment",,,,"C","2019","5","0","549","549","549","549"
+"20190619","901","District Attorney - Manhattan","EIR","Expenditure Increases/Re-estimates","ADPC901V540001","Backfill State Funds",,,,"C","2019","5","0","1365","0","0","0"
+"20190619","902","District Attorney - Bronx","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","77972","81123","81792","81792","81792"
+"20190619","902","District Attorney - Bronx","CIS","Council Initiatives",,,,,,"C","2019","5","0","25","0","0","0"
+"20190619","902","District Attorney - Bronx","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","342","342","342","342"
+"20190619","902","District Attorney - Bronx","CI","Council Initiatives","ADPC902Q340002","Local Initiatives",,,,"C","2019","5","0","25","0","0","0"
+"20190619","902","District Attorney - Bronx","EIR","Expenditure Increases/Re-estimates","ADPC902O140001","Technical Adjustment",,,,"C","2019","5","0","342","342","342","342"
+"20190619","903","District Attorney - Brooklyn","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","106746","108321","109059","109060","109060"
+"20190619","903","District Attorney - Brooklyn","CIS","Council Initiatives",,,,,,"C","2019","5","0","458","0","0","0"
+"20190619","903","District Attorney - Brooklyn","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","1953","199","199","199"
+"20190619","903","District Attorney - Brooklyn","CI","Council Initiatives","ADPC903Q240005","Innovative Criminal Justice Programs",,,,"C","2019","5","0","458","0","0","0"
+"20190619","903","District Attorney - Brooklyn","EIR","Expenditure Increases/Re-estimates","ADPC903O140002","Technical Adjustment",,,,"C","2019","5","0","199","199","199","199"
+"20190619","903","District Attorney - Brooklyn","EIR","Expenditure Increases/Re-estimates","ADPC903V540003","Warehouse Lease",,,,"C","2019","5","0","1600","0","0","0"
+"20190619","903","District Attorney - Brooklyn","EIR","Expenditure Increases/Re-estimates","ADPC903V540004","Early Victim Engagement",,,,"C","2019","5","0","154","0","0","0"
+"20190619","904","District Attorney - Queens","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","69367","67772","68243","68243","68243"
+"20190619","904","District Attorney - Queens","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","854","89","89","89"
+"20190619","904","District Attorney - Queens","EIR","Expenditure Increases/Re-estimates","ADPC904O140000","Technical Adjustment",,,,"C","2019","5","0","89","89","89","89"
+"20190619","904","District Attorney - Queens","EIR","Expenditure Increases/Re-estimates","ADPC904V540001","DV Bureau Pre-Arrest Expansion",,,,"C","2019","5","0","465","0","0","0"
+"20190619","904","District Attorney - Queens","EIR","Expenditure Increases/Re-estimates","ADPC904V540002","Security Guard Increases",,,,"C","2019","5","0","90","0","0","0"
+"20190619","904","District Attorney - Queens","EIR","Expenditure Increases/Re-estimates","ADPC904V540003","New Building Security",,,,"C","2019","5","0","210","0","0","0"
+"20190619","905","District Attorney - Staten Island","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","15821","15563","15673","15673","15673"
+"20190619","905","District Attorney - Staten Island","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","443","12","12","12"
+"20190619","905","District Attorney - Staten Island","EIR","Expenditure Increases/Re-estimates","ADPC905O140000","Technical Adjustment",,,,"C","2019","5","0","12","12","12","12"
+"20190619","905","District Attorney - Staten Island","EIR","Expenditure Increases/Re-estimates","ADPC905V540001","Body Worn Camera Storage",,,,"C","2019","5","0","6","0","0","0"
+"20190619","905","District Attorney - Staten Island","EIR","Expenditure Increases/Re-estimates","ADPC905V540002","Conviction Integrity Unit",,,,"C","2019","5","0","425","0","0","0"
+"20190619","906","Office of Prosecution and Special Narcotics","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","22386","22880","23059","23059","23059"
+"20190619","906","Office of Prosecution and Special Narcotics","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","4","4","4","4"
+"20190619","906","Office of Prosecution and Special Narcotics","EIR","Expenditure Increases/Re-estimates","ADPC906O140001","Technical Adjustment",,,,"C","2019","5","0","4","4","4","4"
+"20190619","941","Public Administrator - Manhattan","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","2999","1299","1242","1251","1254"
+"20190619","941","Public Administrator - Manhattan","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","0","154","0","0","0"
+"20190619","941","Public Administrator - Manhattan","EIR","Expenditure Increases/Re-estimates","ADPC941M440000","Enhanced Space Management",,,,"C","2019","5","0","154","0","0","0"
+"20190619","943","Public Administrator - Brooklyn","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","886","909","917","917","917"
+"20190619","943","Public Administrator - Brooklyn","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","18","0","0","0","0"
+"20190619","943","Public Administrator - Brooklyn","EIR","Expenditure Increases/Re-estimates","ADPC943O140000","Technical Adjustment",,,,"C","2019","5","18","0","0","0","0"
+"20190619","945","Public Administrator - Staten Island","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","559","565","570","570","570"
+"20190619","945","Public Administrator - Staten Island","CIS","Council Initiatives",,,,,,"C","2019","5","0","5","0","0","0"
+"20190619","945","Public Administrator - Staten Island","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","67","0","0","0","0"
+"20190619","945","Public Administrator - Staten Island","CI","Council Initiatives","ADPC945Q340000","Local Initiatives",,,,"C","2019","5","0","5","0","0","0"
+"20190619","945","Public Administrator - Staten Island","EIR","Expenditure Increases/Re-estimates","ADPC945O140001","Technical Adjustment",,,,"C","2019","5","67","0","0","0","0"
+"20190619","991","General Reserve","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","50000","1000000","1000000","1000000","1000000"
+"20190619","991","General Reserve","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2019","5","-30000","0","0","0","0"
+"20190619","991","General Reserve","EIR","Expenditure Increases/Re-estimates","ADPC991O140000","Reserve Reduction",,,,"C","2019","5","-30000","0","0","0","0"
+"20190619","992","Citywide Savings Initiatives","BAS","Baseline Per April 2019 Plan",,,,,,"C","2019","5","0","-1414","-51897","-57888","-59636"
+"20190619","992","Citywide Savings Initiatives","CSP","Citywide Savings Program",,,,,,"C","2019","5","0","1414","1414","1414","1414"
+"20190619","992","Citywide Savings Initiatives","SAV","Citywide Savings Program","ADPC992M440000","Auto Service Workers II",,"Efficiency","People and Space: Staffing","C","2019","5","0","1414","1414","1414","1414"
+"20200116","056","Police Department","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","5","8969","13074","13347","13352","13352"
+"20200116","056","Police Department","SAV","Citywide Savings Program","JANC056M160064","Additional Reimbursement for Protection of Foreign Missions and Officials (United Nation General Assembly)","Unanticipated prior year payment for NYPD protective services for the United Nations.","Reimbursement Re-estimate",,"C","2020","5","-10800","0","0","0","0"
+"20200116","056","Police Department","SAV","Citywide Savings Program","JANC056M160061","Parking Summons Issuance","Increased parking summons revenue based on NYPD Traffic Enforcement Agent year-to-date issuance.","Reimbursement Re-estimate",,"C","2020","5","-25000","0","0","0","0"
+"20200116","056","Police Department","EIR","Expenditure Increases/Re-estimates","JANC056M420001","Lease Auditing","The Department of Citywide Administrative Services has conducted lease audits that resulted in recoupments.",,,"C","2020","5","-707","0","0","0","0"
+"20200116","056","Police Department","EIR","Expenditure Increases/Re-estimates","JANC056Q320000","City Council Member Reallocation","City Council Member Reallocation",,,"C","2020","5","30","0","0","0","0"
+"20200116","056","Police Department","EIR","Expenditure Increases/Re-estimates","JANC056C120005","CWA 1181 Associate Traffic Enforcement Agent Collective Bargaining Agreement","CWA 1181 Associate Traffic Enforcement Agent Collective Bargaining Agreement.",,,"C","2020","5","1744","1955","2167","2167","2167"
+"20200116","056","Police Department","EIR","Expenditure Increases/Re-estimates","JANC056C120006","Parking Control Specialist Collective Bargaining Agreement","Parking Control Specialist Collective Bargaining Agreement.",,,"C","2020","5","72","80","80","80","80"
+"20200116","056","Police Department","EIR","Expenditure Increases/Re-estimates","JANC056C120007","CWA 1182 Traffic Enforcement Agent Collective Bargaining Agreement","CWA 1182 Traffic Enforcement Agent Collective Bargaining Agreement.",,,"C","2020","5","8626","10893","10893","10893","10893"
+"20200116","056","Police Department","EIR","Expenditure Increases/Re-estimates","JANC056C120012","Mayoral NYSNA Collective Bargaining Agreement","Mayoral NYSNA Collective Bargaining Agreement.",,,"C","2020","5","70","146","207","212","212"
+"20200416","056","Police Department","BAS","Baseline Per January 2020 Plan",,,,,,"C","2020","5","5307784","5289717","5303804","5303781","5303805"
+"20191122","056","Police Department","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","5255514","5248684","5252847","5252826",
+"20191122","056","Police Department","CSP","Citywide Savings Program",,,,,,"C","2020","4","0","-10000","0","0",
+"20191122","056","Police Department","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","43303","37959","37611","37603",
+"20191122","056","Police Department","SAV","Citywide Savings Program","NOVC056M110014","PS Savings",,"Reimbursement Re-est",,"C","2020","4","0","-4000","0","0",
+"20191122","056","Police Department","SAV","Citywide Savings Program","NOVC056M110013","Additional Reimbursement for Protection of Foreign Missions and Officials (United Nation General Assembly)",,"Reimbursement Re-est",,"C","2020","4","0","-6000","0","0",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056M410015","Agency Phone Plan Review",,,,"C","2020","4","-120","-241","-345","-380",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVB056A310000","Homeless Outreach Unit Engagement Teams",,,,"C","2020","4","11438","9534","9534","9534",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVB056A310001","Criminal Justice Reform",,,,"C","2020","4","24731","20696","20452","20479",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVB056A310002","Co-Response Teams",,,,"C","2020","4","2222","3310","3310","3310",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056C110002","CSBA 17-21",,,,"C","2020","4","582","641","641","641",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056C110003","L237 Cement Masons 17-21",,,,"C","2020","4","9","9","9","9",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056C110004","L237 LL56 and SSA 17-21",,,,"C","2020","4","543","865","865","865",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056C110005","L237 Non-LL56 17-21",,,,"C","2020","4","591","1011","1011","1011",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056C110006","L246 (All Groups)",,,,"C","2020","4","1452","1753","1753","1753",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056C110007","L306 AV Aide Techs 17-21",,,,"C","2020","4","64","92","92","92",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056C110008","DC37 Equity Panel award",,,,"C","2020","4","270","289","289","289",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056C110009","08-10 Lump Sum",,,,"C","2020","4","1386","0","0","0",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056O110010","Intracity Media Transfer",,,,"C","2020","4","135","0","0","0",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056O610011","DoITT U/A Realignment - 004",,,,"C","2020","4","0","-5835","-5835","-5835",
+"20191122","056","Police Department","EIR","Expenditure Increases/Re-estimates","NOVC056O610012","DoITT U/A Realignment - 004",,,,"C","2020","4","0","5835","5835","5835",
+"20191122","057","Fire Department","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","1821891","1827660","1813268","1811959",
+"20191122","057","Fire Department","CSP","Citywide Savings Program",,,,,,"C","2020","4","-3602","-5080","0","0",
+"20191122","057","Fire Department","CSPR","Citywide Savings Program",,,,,,"C","2020","4","1336","1336","0","0",
+"20191122","057","Fire Department","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","6360","3953","3997","3891",
+"20191122","057","Fire Department","SAV","Citywide Savings Program","NOVC057M110009","Fire Prevention Revenue",,"Reimbursement Re-est",,"C","2020","4","-1336","-1336","0","0",
+"20191122","057","Fire Department","SAV","Citywide Savings Program","NOVC057M110010","EMS Reimbursement Rate Increase",,"Reimbursement Re-est",,"C","2020","4","-624","-3744","0","0",
+"20191122","057","Fire Department","SAV","Citywide Savings Program","NOVC057M110011","Fringe Savings",,"Reimbursement Re-est",,"C","2020","4","-1642","0","0","0",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVC057O610015","DoITT U/A Realignment - 004",,,,"C","2020","4","0","-2638","-2638","-2638",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVC057O610016","DoITT U/A Realignment - 004",,,,"C","2020","4","0","2638","2638","2638",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVB057A210000","SCBA Equipment",,,,"C","2020","4","1123","0","0","0",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVB057A210001","Post Emergency Canvassing Operations",,,,"C","2020","4","900","0","0","0",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVC057C110001","CSBA Attorneys Collective Bargaining",,,,"C","2020","4","183","202","202","202",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVC057C110002","L237 Cement Masons Collective Bargaining",,,,"C","2020","4","17","17","17","17",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVC057C110003","IBT L237: Non LL56 Groups Collective Bargaining",,,,"C","2020","4","145","264","264","264",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVC057C110004","L246: All Groups Collective Bargaining",,,,"C","2020","4","1027","1204","1204","1204",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVC057C110005","Communication Electricians Collective Bargaining",,,,"C","2020","4","162","267","453","461",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVB057A310002","Health Engagement and Assessment Team (HEAT)",,,,"C","2020","4","114","223","223","223",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVB057A310003","Fire Inspectors & Trainers",,,,"C","2020","4","600","1100","1100","1100",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVB057S210004","Criminal Justice Reform",,,,"C","2020","4","538","857","727","617",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVC057M410006","Agency Phone Plan Review",,,,"C","2020","4","-91","-181","-193","-197",
+"20191122","057","Fire Department","EIR","Expenditure Increases/Re-estimates","NOVC057G910013","City Fringe Offset",,,,"C","2020","4","1642","0","0","0",
+"20191122","072","Department of Correction","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","1349113","1396210","1393659","1393654",
+"20191122","072","Department of Correction","CSP","Citywide Savings Program",,,,,,"C","2020","4","-22000","-69800","-69800","-69800",
+"20191122","072","Department of Correction","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","1404","-8497","-8492","-8548",
+"20191122","072","Department of Correction","SAV","Citywide Savings Program","NOVC072M110010","Closure of BKDC & EMTC",,"Efficiency",,"C","2020","4","-22000","-69800","-69800","-69800",
+"20191122","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","NOVC072C110002","CSBA Collective Bargaining",,,,"C","2020","4","338","373","373","373",
+"20191122","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","NOVC072C110003","L237 Collective Bargaining",,,,"C","2020","4","11","11","11","11",
+"20191122","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","NOVC072C110004","IBT L237 Collective Bargaining",,,,"C","2020","4","576","1092","1092","1092",
+"20191122","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","NOVC072C110005","L246 Collective Bargaining",,,,"C","2020","4","155","191","191","191",
+"20191122","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","NOVC072C110006","ADWA Release Time",,,,"C","2020","4","56","67","67","11",
+"20191122","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","NOVC072C110007","DC 37 L983: HPPT",,,,"C","2020","4","59","90","95","95",
+"20191122","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","NOVC072C110008","DC 37 Equity Panel",,,,"C","2020","4","245","263","263","263",
+"20191122","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","NOVC072M410009","Agency Phone Plan Review",,,,"C","2020","4","-36","-71","-71","-71",
+"20191122","072","Department of Correction","EIR","Expenditure Increases/Re-estimates","NOVC072G110000","DOC to MOCJ transfer.",,,,"C","2020","4","0","-10513","-10513","-10513",
+"20191122","827","Department of Sanitation","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","1756340","1733537","1726707","1712466",
+"20191122","827","Department of Sanitation","CSP","Citywide Savings Program",,,,,,"C","2020","4","-4976","0","0","0",
+"20191122","827","Department of Sanitation","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","6446","5339","5348","5370",
+"20191122","827","Department of Sanitation","SAV","Citywide Savings Program","NOVC827M110000","Fresh Kills Landfill Closure",,"Underspending",,"C","2020","4","-2068","0","0","0",
+"20191122","827","Department of Sanitation","SAV","Citywide Savings Program","NOVC827M110001","Organics Processing",,"Underspending",,"C","2020","4","-2908","0","0","0",
+"20191122","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","NOVB827A310000","Commercial Waste Zone",,,,"C","2020","4","2011","390","390","390",
+"20191122","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","NOVB827A210001","Syringe Litter Collection",,,,"C","2020","4","459","278","287","309",
+"20191122","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","NOVC827C110002","CSBA Attorneys Collective Bargaining",,,,"C","2020","4","108","119","119","119",
+"20191122","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","NOVC827C110003","Cement Masons Collective Bargaining",,,,"C","2020","4","51","51","51","51",
+"20191122","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","NOVC827C110004","IBT L237 Non LL56 Collective Bargaining",,,,"C","2020","4","58","99","99","99",
+"20191122","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","NOVC827C110005","L246 All Groups Collective Bargaining",,,,"C","2020","4","3786","4456","4456","4456",
+"20191122","827","Department of Sanitation","EIR","Expenditure Increases/Re-estimates","NOVC827M410007","Agency Phone Plan Review",,,,"C","2020","4","-27","-54","-54","-54",
+"20191122","068","Administration for Children's Services","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","913514","897893","897907","897907",
+"20191122","068","Administration for Children's Services","CSP","Citywide Savings Program",,,,,,"C","2020","4","-10000","-10000","0","0",
+"20191122","068","Administration for Children's Services","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","19216","18616","8641","8640",
+"20191122","068","Administration for Children's Services","SAV","Citywide Savings Program","NOVC068M110000","Fringe Reimbursement",,"Underspending",,"C","2020","4","-10000","-10000","0","0",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068G910001","Fringe Reimbursement",,,,"C","2020","4","10000","10000","0","0",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068G110013","NFP COPS Transfer",,,,"C","2020","4","861","0","0","0",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068C110002","CSBA Collective Bargaining (IC)",,,,"C","2020","4","5","5","5","5",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068C110003","L237: Non-LL56 Collective Bargaining (IC)",,,,"C","2020","4","4","6","6","6",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068C110004","L237: Non-LL56 Collective Bargaining (IC)",,,,"C","2020","4","9","15","15","15",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068G110007","Technical Adjustment to modify City Service Corps funds from ACS.",,,,"C","2020","4","-67","-13","0","0",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068M410005","Agency Phone Plan Review",,,,"C","2020","4","-27","-54","-58","-59",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068C110006","CSBA Collective Bargaining",,,,"C","2020","4","577","636","636","636",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068G110008","EarlyLearn Adjustment",,,,"C","2020","4","-1514","-1514","-1514","-1514",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVB068A310000","Indirect Cost Rate",,,,"C","2020","4","9163","9163","9163","9163",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068C110009","L237 Collective Bargaining",,,,"C","2020","4","114","245","261","261",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068C110010","L237 Collective Bargaining",,,,"C","2020","4","47","81","81","81",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068C110011","L246 Collective Bargaining",,,,"C","2020","4","4","6","6","6",
+"20191122","068","Administration for Children's Services","EIR","Expenditure Increases/Re-estimates","NOVC068G210012","Young Mens Initiative",,,,"C","2020","4","40","40","40","40",
+"20191122","069","Department of Social Services","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","7965783","7801015","7789128","7788347",
+"20191122","069","Department of Social Services","CSP","Citywide Savings Program",,,,,,"C","2020","4","-8000","-2000","-2000","-2000",
+"20191122","069","Department of Social Services","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","19109","6501","7671","7757",
+"20191122","069","Department of Social Services","SAV","Citywide Savings Program","NOVC069M110004","Information Technology Services Insourcing",,"Efficiency",,"C","2020","4","-2471","-5127","-5127","-5127",
+"20191122","069","Department of Social Services","SAV","Citywide Savings Program","NOVC069M110005","Information Technology Services Insourcing",,"Efficiency",,"C","2020","4","1471","3127","3127","3127",
+"20191122","069","Department of Social Services","SAV","Citywide Savings Program","NOVC069M110002","Fringe Benefits Reimbursement",,"Reimbursement Re-est",,"C","2020","4","-7000","0","0","0",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069G910003","Fringe Benefits Adjustment",,,,"C","2020","4","7000","0","0","0",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069C110025","CSBA Collective Bargaining - Intra-City",,,,"C","2020","4","6","7","7","7",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069H110027","PS Realignment",,,,"C","2020","4","15","16","16","16",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069C110000","L237: Non-LL56 Collective Bargaining (IC)",,,,"C","2020","4","7","12","12","12",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069C110001","L246 Collective Bargaining (IC)",,,,"C","2020","4","2","2","2","2",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069G110013","Technical Adjustment to modify City Service Corps funds from DSS.",,,,"C","2020","4","-37","-3","0","0",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069G110006","Adult Literacy- MOIA",,,,"C","2020","4","1359","0","0","0",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069C110008","L237 Collective Bargaining",,,,"C","2020","4","108","185","185","185",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069C110009","CSBA Collective Bargaining",,,,"C","2020","4","380","418","418","418",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069C110010","CB L237, Non LL56",,,,"C","2020","4","180","307","307","307",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069C110011","L237 Collective Bargaining",,,,"C","2020","4","7","7","7","7",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069C110012","L246 Collective Bargaining",,,,"C","2020","4","3","4","4","4",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069C110007","DC37 Equity Plan",,,,"C","2020","4","54","58","58","58",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069G110015","Home Stat Staff Transfer",,,,"C","2020","4","166","166","166","166",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVB069A310000","Funding for the Indirect Cost Rate Initiative",,,,"C","2020","4","5455","5455","5455","5455",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVB069A110001","Tenant Protection Outreach",,,,"C","2020","4","2832","1283","1283","1283",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069G210021","OEO Funding Adjustment",,,,"C","2020","4","-559","0","0","0",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069M410022","Paper Check Reform",,,,"C","2020","4","0","-4700","-4700","-4700",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVB069A110002","Legal Pay Parity",,,,"C","2020","4","3667","3667","3667","3667",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069M410023","Agency Phone Plan Review",,,,"C","2020","4","-36","-73","-92","-98",
+"20191122","069","Department of Social Services","EIR","Expenditure Increases/Re-estimates","NOVC069G210024","YMI Funding Adjustment",,,,"C","2020","4","-1500","-310","876","968",
+"20191122","071","Department of Homeless Services","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","1284424","1276094","1273608","1273961",
+"20191122","071","Department of Homeless Services","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","16209","17759","17912","17912",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVB071A310002","Funding for the Indirect Cost Rate Initiative",,,,"C","2020","4","14451","14451","14451","14451",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071C110014","IBT L237 LL56 Groups Collective Bargaining",,,,"C","2020","4","1556","3158","3311","3311",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071C110015","L246 All Groups Collective Bargaining",,,,"C","2020","4","15","22","22","22",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071C110016","L237 Cement Masons Collective Bargaining",,,,"C","2020","4","48","48","48","48",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071C110017","IBT L237 Non L56 Groups Collective Bargaining",,,,"C","2020","4","28","48","48","48",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071C110000","L246 Collective Bargaining (IC)",,,,"C","2020","4","1","2","2","2",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071C110001","DC37 Equity Plan",,,,"C","2020","4","254","272","272","272",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071G110003","Home Stat Staff Transfer",,,,"C","2020","4","-166","-166","-166","-166",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071M410002","Agency Phone Plan Review",,,,"C","2020","4","-58","-116","-116","-116",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071G210007","OEO Funding Adjustment",,,,"C","2020","4","40","0","0","0",
+"20191122","071","Department of Homeless Services","EIR","Expenditure Increases/Re-estimates","NOVC071G210013","YMI Fundng Adjustment",,,,"C","2020","4","40","40","40","40",
+"20191122","125","Department for the Aging","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","300627","261885","261882","261882",
+"20191122","125","Department for the Aging","CSP","Citywide Savings Program",,,,,,"C","2020","4","-500","0","0","0",
+"20191122","125","Department for the Aging","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","5533","7140","6890","6890",
+"20191122","125","Department for the Aging","SAV","Citywide Savings Program","NOVC125M110003","One-Time Revenue",,"Reimbursement Re-est",,"C","2020","4","-500","0","0","0",
+"20191122","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","NOVB125A310000","Indirect Cost Rate",,,,"C","2020","4","4607","4607","4607","4607",
+"20191122","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","NOVC125M410004","Agency Phone Plan Review",,,,"C","2020","4","-2","-3","-3","-3",
+"20191122","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","NOVB125A310005","Senior Centers",,,,"C","2020","4","919","2526","2276","2276",
+"20191122","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","NOVC125C110000","CSBA Attorneys",,,,"C","2020","4","8","8","8","8",
+"20191122","125","Department for the Aging","EIR","Expenditure Increases/Re-estimates","NOVC125C110001","IBT L237 Non-LL56 groups",,,,"C","2020","4","1","2","2","2",
+"20191122","260","Department of Youth and Community Development","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","730631","541479","542573","542677",
+"20191122","260","Department of Youth and Community Development","CSP","Citywide Savings Program",,,,,,"C","2020","4","-1000","0","0","0",
+"20191122","260","Department of Youth and Community Development","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","2635","3799","3763","3763",
+"20191122","260","Department of Youth and Community Development","SAV","Citywide Savings Program","NOVC260M110003","Agency Accruals",,"Underspending",,"C","2020","4","-1000","0","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVB260A310000","Funding for the Indirect Cost Rate Initiative",,,,"C","2020","4","3739","3739","3739","3739",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G110001","Funding Transfer",,,,"C","2020","4","-18","-19","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260M410000","Agency Phone Plan Review",,,,"C","2020","4","-15","-31","-31","-31",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G110004","Adult Literacy Transfer- DOE",,,,"C","2020","4","-150","0","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G110005","Adult Literacy Transfer- MOIA",,,,"C","2020","4","-1685","0","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260C110006","CSBA Attorneys",,,,"C","2020","4","46","46","46","46",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G110007","Technical Adjustment to modify City Service Corps funds from ACS.",,,,"C","2020","4","67","13","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G110008","Technical Adjustment to modify City Service Corps funds from CEC.",,,,"C","2020","4","18","2","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G110011","Technical Adjustment to modify City Service Corps funds from DSS.",,,,"C","2020","4","37","3","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G110012","Technical Adjustment to modify City Service Corps funds from MODA.",,,,"C","2020","4","18","2","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G110013","Technical Adjustment to modify City Service Corps funds from MOIA.",,,,"C","2020","4","189","18","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G110015","Technical Adjustment to modify City Service Corps funds from PARKS.",,,,"C","2020","4","183","17","0","0",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260C110016","IBT L237 Non-LL56 groups",,,,"C","2020","4","6","9","9","9",
+"20191122","260","Department of Youth and Community Development","EIR","Expenditure Increases/Re-estimates","NOVC260G210018","YMI Technical Adjustment",,,,"C","2020","4","200","0","0","0",
+"20191122","816","Department of Health and Mental Hygiene","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","933900","884554","886331","886331",
+"20191122","816","Department of Health and Mental Hygiene","CSP","Citywide Savings Program",,,,,,"C","2020","4","-5000","0","0","0",
+"20191122","816","Department of Health and Mental Hygiene","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","24213","32301","31241","30722",
+"20191122","816","Department of Health and Mental Hygiene","SAV","Citywide Savings Program","NOVC816M110022","Prior Year Revenue",,"Reimbursement Re-est",,"C","2020","4","-5000","0","0","0",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816C110001","Collective Bargaining: CSBA Attorneys",,,,"C","2020","4","183","202","202","202",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816C110002","Collective Bargaining: LL56 Special Officers",,,,"C","2020","4","123","210","210","210",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816C110003","Collective Bargaining: Non-LL56 Groups",,,,"C","2020","4","390","667","667","667",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816C110004","Collective Bargaining: L246 Groups",,,,"C","2020","4","9","10","10","10",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816O110005","Rent Regulation Outreach",,,,"C","2020","4","1110","0","0","0",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816G110006","H+H DOHMH Transfer",,,,"C","2020","4","1979","0","0","0",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVB816A210001","Crisis Prevention and Response",,,,"C","2020","4","8085","18428","17448","17448",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816C110007","DC37 Equity Panel Award",,,,"C","2020","4","2404","2577","2577","2577",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816G110008","H+H DOHMH Transfer",,,,"C","2020","4","516","0","0","0",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816O110010","HLP Adjustment",,,,"C","2020","4","-121","-121","-121","-121",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVB816A310002","Funding for the Indirect Cost Rate Initiative",,,,"C","2020","4","4716","4716","4716","4716",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816O110012","Lease Adjustment",,,,"C","2020","4","1869","1897","1897","1897",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816G110013","NFP COPS Transfer",,,,"C","2020","4","-861","0","0","0",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVB816A310005","Criminal Justice Reform",,,,"C","2020","4","3520","2897","2840","2321",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816G210014","OEO Funding Adjustment",,,,"C","2020","4","114","0","0","0",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVB816A210006","Brooklyn Rapid Assessment and Response",,,,"C","2020","4","458","1110","1087","1087",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816M410016","Agency Phone Plan Review",,,,"C","2020","4","-146","-292","-292","-292",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816O110017","Intracity Media Transfer",,,,"C","2020","4","-135","0","0","0",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816O610018","DoITT U/A Realignment - 011",,,,"C","2020","4","0","-466","-466","-466",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816O610019","DoITT U/A Realignment - 011",,,,"C","2020","4","0","466","466","466",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816O610020","DoITT U/A Realignment - 012",,,,"C","2020","4","0","-131","-131","-131",
+"20191122","816","Department of Health and Mental Hygiene","EIR","Expenditure Increases/Re-estimates","NOVC816O610021","DoITT U/A Realignment - 012",,,,"C","2020","4","0","131","131","131",
+"20191122","819","Health + Hospitals","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","721114","963749","1012456","1013632",
+"20191122","819","Health + Hospitals","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","3781","8512","9714","10539",
+"20191122","819","Health + Hospitals","EIR","Expenditure Increases/Re-estimates","NOVC819C110002","Collective Bargaining",,,,"C","2020","4","6215","8447","9649","10474",
+"20191122","819","Health + Hospitals","EIR","Expenditure Increases/Re-estimates","NOVC819C110004","DC37 Equity Panel Award",,,,"C","2020","4","61","65","65","65",
+"20191122","819","Health + Hospitals","EIR","Expenditure Increases/Re-estimates","NOVC819G110000","H+H DOHMH Transfer",,,,"C","2020","4","-1979","0","0","0",
+"20191122","819","Health + Hospitals","EIR","Expenditure Increases/Re-estimates","NOVC819G110001","H+H DOHMH Transfer",,,,"C","2020","4","-516","0","0","0",
+"20191122","806","Housing Preservation and Development","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","291227","266475","284809","288627",
+"20191122","806","Housing Preservation and Development","CSP","Citywide Savings Program",,,,,,"C","2020","4","-71","-71","-71","-71",
+"20191122","806","Housing Preservation and Development","CSPR","Citywide Savings Program",,,,,,"C","2020","4","71","71","71","71",
+"20191122","806","Housing Preservation and Development","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","2064","2109","2109","2109",
+"20191122","806","Housing Preservation and Development","SAV","Citywide Savings Program","NOVC806M150061","AIRS Fee Revenue",,"Reimbursement Re-est",,"C","2020","4","-71","-71","-71","-71",
+"20191122","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","NOVC806C110004","Collective Barg CSBA Attorneys",,,,"C","2020","4","133","146","146","146",
+"20191122","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","NOVB806A310000","Indirect Cost Rate",,,,"C","2020","4","979","979","979","979",
+"20191122","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","NOVC806C110006","NYCHA Labor Funding Estimates",,,,"C","2020","4","956","994","994","994",
+"20191122","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","NOVC806M410007","Agency Phone Plan Review",,,,"C","2020","4","-6","-12","-12","-12",
+"20191122","806","Housing Preservation and Development","EIR","Expenditure Increases/Re-estimates","NOVC806C110000","L246 Collective Bargaining (IC)",,,,"C","2020","4","2","2","2","2",
+"20191122","836","Department of Finance","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","314837","310458","310312","310329",
+"20191122","836","Department of Finance","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","3653","3751","3751","3751",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVC836C110004","IBT L237 CB - C",,,,"C","2020","4","31","50","50","50",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVC836C110005","CSBA Attorneys CB - C",,,,"C","2020","4","266","292","292","292",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVB836A310000","Increased Credit Card Fees",,,,"C","2020","4","2500","2500","2500","2500",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVC836H110006","PS Realignment",,,,"C","2020","4","-15","-16","-16","-16",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVC836M410007","Agency Phone Plan Review",,,,"C","2020","4","-29","-57","-57","-57",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVC836C110008","DC37 Equity Panel",,,,"C","2020","4","1149","1231","1231","1231",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVC836G110010","Assessor Transfer to Office of Administrative Tax Appeals",,,,"C","2020","4","-250","-250","-250","-250",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVC836O610011","DoITT U/A Realignment - 012",,,,"C","2020","4","0","-500","-500","-500",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVC836O610012","DoITT U/A Realignment - 012",,,,"C","2020","4","0","500","500","500",
+"20191122","836","Department of Finance","EIR","Expenditure Increases/Re-estimates","NOVC836C110000","L246 Collective Bargaining (IC)",,,,"C","2020","4","1","1","1","1",
+"20191122","841","Department of Transportation","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","664624","660201","660400","660723",
+"20191122","841","Department of Transportation","CSP","Citywide Savings Program",,,,,,"C","2020","4","-738","-792","-725","-658",
+"20191122","841","Department of Transportation","CSPR","Citywide Savings Program",,,,,,"C","2020","4","263","0","0","0",
+"20191122","841","Department of Transportation","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","21434","57819","66675","67680",
+"20191122","841","Department of Transportation","SAV","Citywide Savings Program","NOVC841M150002","Bikeshare Revenue",,"Reimbursement Re-est",,"C","2020","4","-263","0","0","0",
+"20191122","841","Department of Transportation","SAV","Citywide Savings Program","NOVC841M110012","Janitorial Contract Insourcing",,"Efficiency",,"C","2020","4","0","-792","-725","-658",
+"20191122","841","Department of Transportation","SAV","Citywide Savings Program","NOVC841M110014","Hiring Delays",,"Underspending",,"C","2020","4","-475","0","0","0",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVB841A310016","Review of sidewalk violations caused by street tree damage",,,,"C","2020","4","806","402","0","0",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVB841A310017","Speed Camera Program Expansion",,,,"C","2020","4","6706","36118","40869","40945",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVB841A310019","Better Buses Action Plan",,,,"C","2020","4","2954","3064","3064","3064",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVB841A310020","Green Wave - Bike Safety Plan",,,,"C","2020","4","5597","11877","12844","13540",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVB841A310022","Lease Funding",,,,"C","2020","4","3455","3692","7240","7476",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVC841M410017","Agency Phone Plan Review",,,,"C","2020","4","-44","-88","-97","-100",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVC841C110018","DC37 Equity Panel",,,,"C","2020","4","670","718","718","718",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVC841C110005","Collective Bargaining Cement Masons",,,,"C","2020","4","94","94","94","94",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVC841C110006","Collective Bargain DC37 HPPT",,,,"C","2020","4","29","38","39","39",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVC841C110008","Collective Bargaining L237",,,,"C","2020","4","687","1339","1339","1339",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVC841C110009","Collective Bargaining L246",,,,"C","2020","4","379","454","454","454",
+"20191122","841","Department of Transportation","EIR","Expenditure Increases/Re-estimates","NOVC841C110010","Collective Bargaining CSBA",,,,"C","2020","4","101","111","111","111",
+"20191122","846","Department of Parks and Recreation","BAS","Baseline Per June 2019 Plan",,,,,,"C","2020","4","462639","424551","424838","424832",
+"20191122","846","Department of Parks and Recreation","CSP","Citywide Savings Program",,,,,,"C","2020","4","-7126","-5000","0","0",
+"20191122","846","Department of Parks and Recreation","EIRS","Expenditure Increases/Re-estimates",,,,,,"C","2020","4","1793","2333","2350","2350",
+"20191122","846","Department of Parks and Recreation","SAV","Citywide Savings Program","NOVC846M110004","Fair Play Expense to Capital Reallocation",,"Efficiency",,"C","2020","4","-3826","0","0","0",
+"20191122","846","Department of Parks and Recreation","SAV","Citywide Savings Program","NOVC846M110005","Trees & Sidewalks Expense to Capital Reallocation",,"Efficiency",,"C","2020","4","0","-5000","0","0",
+"20191122","846","Department of Parks and Recreation","SAV","Citywide Savings Program","NOVC846M110006","Seasonal Accrual Savings",,"Underspending",,"C","2020","4","-3300","0","0","0",

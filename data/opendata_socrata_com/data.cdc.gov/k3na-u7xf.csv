@@ -1,0 +1,173 @@
+"age_group","month","vaccine_status","rate","rate_ratio"
+"5-11 yr","December 2021","Unvaccinated","3.9","1.2"
+"5-11 yr","January 2022","Unvaccinated","11","2.6"
+"5-11 yr","February 2022","Unvaccinated","5","2.5"
+"5-11 yr","March 2022","Unvaccinated","1.8","1.7"
+"5-11 yr","April 2022","Unvaccinated","1.7","1.8"
+"5-11 yr","May 2022","Unvaccinated","3.3","1.4"
+"5-11 yr","December 2021","Primary series","3.3",
+"5-11 yr","January 2022","Primary series","4.2",
+"5-11 yr","February 2022","Primary series","2",
+"5-11 yr","March 2022","Primary series","1",
+"5-11 yr","April 2022","Primary series","0.9",
+"5-11 yr","May 2022","Primary series","2.5",
+"12-17 yr","June 2021","Unvaccinated","0.8","3.8"
+"12-17 yr","July 2021","Unvaccinated","3.6","11.3"
+"12-17 yr","August 2021","Unvaccinated","13.6","18.3"
+"12-17 yr","September 2021","Unvaccinated","14.8","12.7"
+"12-17 yr","October 2021","Unvaccinated","13.1","18"
+"12-17 yr","November 2021","Unvaccinated","11","9.3"
+"12-17 yr","December 2021","Unvaccinated","23.5","6.3"
+"12-17 yr","January 2022","Unvaccinated","32","1.7"
+"12-17 yr","February 2022","Unvaccinated","8.9","1.6"
+"12-17 yr","March 2022","Unvaccinated","4.1","2.6"
+"12-17 yr","April 2022","Unvaccinated","2.2","1.4"
+"12-17 yr","May 2022","Unvaccinated","7.7","2.1"
+"12-17 yr","June 2021","Primary series","0.2",
+"12-17 yr","July 2021","Primary series","0.3",
+"12-17 yr","August 2021","Primary series","0.7",
+"12-17 yr","September 2021","Primary series","1.2",
+"12-17 yr","October 2021","Primary series","0.7",
+"12-17 yr","November 2021","Primary series","1.2",
+"12-17 yr","December 2021","Primary series","3.7",
+"12-17 yr","January 2022","Primary series","18.6",
+"12-17 yr","February 2022","Primary series & 1 or more booster","5.5",
+"12-17 yr","March 2022","Primary series & 1 or more booster","1.6",
+"12-17 yr","April 2022","Primary series & 1 or more booster","1.6",
+"12-17 yr","May 2022","Primary series & 1 or more booster","3.6",
+"18-49 yr","January 2021","Unvaccinated","37","17.7"
+"18-49 yr","February 2021","Unvaccinated","20.4","15.6"
+"18-49 yr","March 2021","Unvaccinated","23.3","17.1"
+"18-49 yr","April 2021","Unvaccinated","42.8","27.5"
+"18-49 yr","May 2021","Unvaccinated","36.6","19"
+"18-49 yr","June 2021","Unvaccinated","17.4","13.8"
+"18-49 yr","July 2021","Unvaccinated","36.4","20.6"
+"18-49 yr","August 2021","Unvaccinated","101.7","21.3"
+"18-49 yr","September 2021","Unvaccinated","93.5","23.7"
+"18-49 yr","October 2021","Unvaccinated","72.2","15.7"
+"18-49 yr","November 2021","Unvaccinated","83.4","16.3"
+"18-49 yr","December 2021","Unvaccinated","135","23.5"
+"18-49 yr","January 2022","Unvaccinated","190.8","7.9"
+"18-49 yr","February 2022","Unvaccinated","55","5.7"
+"18-49 yr","March 2022","Unvaccinated","16.9","2.8"
+"18-49 yr","April 2022","Unvaccinated","17.4","2.9"
+"18-49 yr","May 2022","Unvaccinated","31.7","2.7"
+"18-49 yr","January 2021","Primary series","2.1",
+"18-49 yr","February 2021","Primary series","1.3",
+"18-49 yr","March 2021","Primary series","1.4",
+"18-49 yr","April 2021","Primary series","1.6",
+"18-49 yr","May 2021","Primary series","1.9",
+"18-49 yr","June 2021","Primary series","1.3",
+"18-49 yr","July 2021","Primary series","1.8",
+"18-49 yr","August 2021","Primary series","4.8",
+"18-49 yr","September 2021","Primary series","3.9",
+"18-49 yr","October 2021","Primary series","4.6",
+"18-49 yr","November 2021","Primary series","5.1",
+"18-49 yr","December 2021","Primary series & 1 or more booster","5.7",
+"18-49 yr","January 2022","Primary series & 1 or more booster","24",
+"18-49 yr","February 2022","Primary series & 1 or more booster","9.6",
+"18-49 yr","March 2022","Primary series & 1 or more booster","6.1",
+"18-49 yr","April 2022","Primary series & 1 or more booster","6.1",
+"18-49 yr","May 2022","Primary series & 1 or more booster","11.6",
+"50-64 yr","January 2021","Unvaccinated","105.6","20.4"
+"50-64 yr","February 2021","Unvaccinated","51.9","12.9"
+"50-64 yr","March 2021","Unvaccinated","60.1","8.1"
+"50-64 yr","April 2021","Unvaccinated","112.4","25.7"
+"50-64 yr","May 2021","Unvaccinated","95.4","22.2"
+"50-64 yr","June 2021","Unvaccinated","39.9","17.3"
+"50-64 yr","July 2021","Unvaccinated","87.5","19"
+"50-64 yr","August 2021","Unvaccinated","283.7","20.7"
+"50-64 yr","September 2021","Unvaccinated","299.9","19.7"
+"50-64 yr","October 2021","Unvaccinated","228.5","14.3"
+"50-64 yr","November 2021","Unvaccinated","315","15.6"
+"50-64 yr","December 2021","Unvaccinated","425.6","29.7"
+"50-64 yr","January 2022","Unvaccinated","532.8","11.2"
+"50-64 yr","February 2022","Unvaccinated","148","8"
+"50-64 yr","March 2022","Unvaccinated","44.4","4.9"
+"50-64 yr","April 2022","Unvaccinated","39.1","3.8"
+"50-64 yr","May 2022","Unvaccinated","72.7","3.4"
+"50-64 yr","January 2021","Primary series","5.2",
+"50-64 yr","February 2021","Primary series","4",
+"50-64 yr","March 2021","Primary series","7.4",
+"50-64 yr","April 2021","Primary series","4.4",
+"50-64 yr","May 2021","Primary series","4.3",
+"50-64 yr","June 2021","Primary series","2.3",
+"50-64 yr","July 2021","Primary series","4.6",
+"50-64 yr","August 2021","Primary series","13.7",
+"50-64 yr","September 2021","Primary series","15.2",
+"50-64 yr","October 2021","Primary series","16",
+"50-64 yr","November 2021","Primary series","20.2",
+"50-64 yr","December 2021","Primary series & 1 or more booster","14.3",
+"50-64 yr","January 2022","Primary series & 1 or more booster","47.5",
+"50-64 yr","February 2022","Primary series & 1 or more booster","18.4",
+"50-64 yr","March 2022","Primary series & 1 or more booster","9.2",
+"50-64 yr","April 2022","Primary series & 1 or more booster","10.2",
+"50-64 yr","May 2022","Primary series & 1 or more booster","21.2",
+"65+ yr","January 2021","Unvaccinated","228.8","0"
+"65+ yr","February 2021","Unvaccinated","105.8","3"
+"65+ yr","March 2021","Unvaccinated","117.3","5.9"
+"65+ yr","April 2021","Unvaccinated","227.8","11.2"
+"65+ yr","May 2021","Unvaccinated","185.2","15.3"
+"65+ yr","June 2021","Unvaccinated","72.4","10.7"
+"65+ yr","July 2021","Unvaccinated","135.5","9.2"
+"65+ yr","August 2021","Unvaccinated","455.7","8.8"
+"65+ yr","September 2021","Unvaccinated","536.7","9.5"
+"65+ yr","October 2021","Unvaccinated","529.9","9.9"
+"65+ yr","November 2021","Unvaccinated","738.6","39.8"
+"65+ yr","December 2021","Unvaccinated","1232.1","38.4"
+"65+ yr","January 2022","Unvaccinated","1943.9","16.5"
+"65+ yr","February 2022","Unvaccinated","619.3","10.8"
+"65+ yr","March 2022","Unvaccinated","176.1","6.4"
+"65+ yr","April 2022","Unvaccinated","171.8","3.9"
+"65+ yr","May 2022","Unvaccinated","335.4","3.8"
+"65+ yr","January 2021","Primary series","0",
+"65+ yr","February 2021","Primary series","35.2",
+"65+ yr","March 2021","Primary series","19.9",
+"65+ yr","April 2021","Primary series","20.3",
+"65+ yr","May 2021","Primary series","12.1",
+"65+ yr","June 2021","Primary series","6.7",
+"65+ yr","July 2021","Primary series","14.7",
+"65+ yr","August 2021","Primary series","51.6",
+"65+ yr","September 2021","Primary series","56.5",
+"65+ yr","October 2021","Primary series","53.4",
+"65+ yr","November 2021","Primary series & 1 or more booster","18.5",
+"65+ yr","December 2021","Primary series & 1 or more booster","32.1",
+"65+ yr","January 2022","Primary series & 1 or more booster","117.9",
+"65+ yr","February 2022","Primary series & 1 or more booster","57.2",
+"65+ yr","March 2022","Primary series & 1 or more booster","27.5",
+"65+ yr","April 2022","Primary series & 1 or more booster","44.3",
+"65+ yr","May 2022","Primary series & 1 or more booster","87.8",
+"18+ yr (Age-Adjusted)","January 2021","Unvaccinated","90.9","37.4"
+"18+ yr (Age-Adjusted)","February 2021","Unvaccinated","44.6","5.2"
+"18+ yr (Age-Adjusted)","March 2021","Unvaccinated","50.5","7.8"
+"18+ yr (Age-Adjusted)","April 2021","Unvaccinated","95.6","16.3"
+"18+ yr (Age-Adjusted)","May 2021","Unvaccinated","79.7","17.8"
+"18+ yr (Age-Adjusted)","June 2021","Unvaccinated","33.5","13"
+"18+ yr (Age-Adjusted)","July 2021","Unvaccinated","68","13.7"
+"18+ yr (Age-Adjusted)","August 2021","Unvaccinated","214.6","13.4"
+"18+ yr (Age-Adjusted)","September 2021","Unvaccinated","229.6","13.6"
+"18+ yr (Age-Adjusted)","October 2021","Unvaccinated","199","11.8"
+"18+ yr (Age-Adjusted)","November 2021","Unvaccinated","266.8","23.5"
+"18+ yr (Age-Adjusted)","December 2021","Unvaccinated","413.8","32.3"
+"18+ yr (Age-Adjusted)","January 2022","Unvaccinated","607.2","12.8"
+"18+ yr (Age-Adjusted)","February 2022","Unvaccinated","185","8.9"
+"18+ yr (Age-Adjusted)","March 2022","Unvaccinated","53.9","4.9"
+"18+ yr (Age-Adjusted)","April 2022","Unvaccinated","52.1","3.6"
+"18+ yr (Age-Adjusted)","May 2022","Unvaccinated","99.5","3.5"
+"18+ yr (Age-Adjusted)","January 2021","Primary series","2.4",
+"18+ yr (Age-Adjusted)","February 2021","Primary series","8.6",
+"18+ yr (Age-Adjusted)","March 2021","Primary series","6.4",
+"18+ yr (Age-Adjusted)","April 2021","Primary series","5.9",
+"18+ yr (Age-Adjusted)","May 2021","Primary series","4.5",
+"18+ yr (Age-Adjusted)","June 2021","Primary series","2.6",
+"18+ yr (Age-Adjusted)","July 2021","Primary series","5",
+"18+ yr (Age-Adjusted)","August 2021","Primary series","16",
+"18+ yr (Age-Adjusted)","September 2021","Primary series","16.9",
+"18+ yr (Age-Adjusted)","October 2021","Primary series","16.8",
+"18+ yr (Age-Adjusted)","November 2021","Primary series & 1 or more booster","11.4",
+"18+ yr (Age-Adjusted)","December 2021","Primary series & 1 or more booster","12.8",
+"18+ yr (Age-Adjusted)","January 2022","Primary series & 1 or more booster","47.5",
+"18+ yr (Age-Adjusted)","February 2022","Primary series & 1 or more booster","20.8",
+"18+ yr (Age-Adjusted)","March 2022","Primary series & 1 or more booster","10.9",
+"18+ yr (Age-Adjusted)","April 2022","Primary series & 1 or more booster","14.4",
+"18+ yr (Age-Adjusted)","May 2022","Primary series & 1 or more booster","28.4",

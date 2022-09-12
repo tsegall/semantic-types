@@ -41,10 +41,12 @@ func main() {
 
 	boring := mapset.NewSet[string]()
 	boring.Add("BLANK")
+	boring.Add("BLANKORNULL")
 	boring.Add("SIGNED")
 	boring.Add("SIGNED,GROUPING")
 	boring.Add("SIGNED_TRAILING")
 	boring.Add("NON_LOCALIZED")
+	boring.Add("NULL")
 
 	const FileName = 0
 	const FieldOffset = 1
@@ -59,6 +61,7 @@ func main() {
 	current, err := os.Open("current.csv")
 
 	totalRecords := 0
+	totalDataRecords := 0
 
 	if err != nil {
 		log.Fatal(err)
@@ -92,6 +95,9 @@ func main() {
 		}
 
 		totalRecords++
+		if recordRef[SemanticType] != "NULL" && recordRef[SemanticType] != "BLANK" &&recordRef[SemanticType] != "BLANKORNULL" {
+			totalDataRecords++
+		}
 
 		if recordRef[FileName] != recordCurrent[FileName] {
 			log.Fatal("FileName key does not match" + recordRef[FileName])
@@ -195,9 +201,9 @@ func main() {
 	totalF1Score := 2 * ((totalPrecision * totalRecall) / (totalPrecision + totalRecall))
 
 	if options.Type == "" {
-		fmt.Printf("\nTotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d, Record#: %d (ID%%: %.2f)\n",
+		fmt.Printf("\nTotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d, Record# (Non-null/blank): %d (%d) (ID%%: %.2f)\n",
 			totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives,
-			totalRecords, float32((totalTruePositives+totalFalseNegatives)*100)/float32(totalRecords))
+			totalRecords, totalDataRecords, float32((totalTruePositives+totalFalseNegatives)*100)/float32(totalDataRecords))
 	}
 }
 

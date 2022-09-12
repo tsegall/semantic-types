@@ -1,0 +1,3001 @@
+"entity_name","fiscal_year","year","field_type","category","line_description","value","date","estimated_population","area_in_square_miles","entity_id","location"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Revenue",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Expenses",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Revenue",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Expenses",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Revenues","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Expenses","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Revenues",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Expenses",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Revenues",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Expenses",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Revenues","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Expenses","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Revenues",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Expenses",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Revenues",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Expenses",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Revenues","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Expenses","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Revenue",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Expense",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non-Operating Revenues",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non Operating Expenses",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Revenues",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Expenses",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_REV","Total Enterprise Revenues","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_EXP","Total Enterprise Expenditures","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Property Taxes","496176226",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Other Taxes","85518056",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Sales and Use Taxes_Total","20250631",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Other Taxes","53651178",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","All Tax Revenues","581694282",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_SPECIAL_BENEFIT","Total Special Benefit Assessments",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_LICENSES_PERMITS","Total Licenses, Permits, and Franchises","6409996",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_FINES_PENALTIES","Total Fines, Forfeitures, and Penalties","37326124",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_FROM_MONEY_PROPERTY","Total Revenue From the Use of Money and Property","12078553",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_AID_STATE_AGENCIES","Total State Aid","828235015",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_AID_FEDERAL_AGENCIES","Total Federal Aid","435211753",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_INLIEU_TAX","Total Other In-Lieu Taxes and Other Governmental Agencies","209144066",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_CHARGES_CURR_SERV","Total Charges for Current Services","264088798",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_MISCELLANEOUS","Total Miscellaneous Revenue","48137380",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_FIN_SOURCES","Total Other Financing Sources","26246642",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","REV_TRANSFERS_IN_ENTRP","Total Transfers In From Enterprise(s)","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Legislative and Administrative_Total","12651096",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Finance_Total","68715039",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Counsel_Total","2165611",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Personnel_Total","10614289",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Elections_Total","10571158",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Communications_Total","72767",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Property Management_Total","6547346",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Plant Acquisition_Total","182583122",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Promotion_Total","1264797",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Other General_Total","5184490",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Expenditures_General","300369715",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Judicial_Total","194709778",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Police Protection_Total","131875980",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Detention And Correction_Total","248368367",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Fire Protection_Total","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Flood Control - Soil And Water Conservation_Total","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Protective Inspection_Total","4242450",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Other Protection_Total","89930506",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Expenditures_Public Protection","669127081",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Roads_Total","37421715",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Terminals_Total","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Systems_Total","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Parking Facilities_Total","2356561",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Total Expenditures_Public Facilities","39778276",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Public Health_Total","157903881",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Medical Care_Total","146411819",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Mental Health_Total","313947014",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Drug and Alcohol Abuse Services_Total","26196604",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_SANITATION","Sanitation_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH_SANITATION_TOTAL","Total Expenditures_Health and Sanitation","644459318",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Welfare_Total","291430093",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Social Services_Total","205671748",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total General Relief_Total","29374750",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Care of Court Wards_Total","924210",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Veterans Services_Total","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Other Public Assistance_Total","67716389",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Expenditures_Public Assistance","595117190",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","School Administration_Total","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Library Services_Total","25297393",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Agricultural Education_Total","247704",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Other Education_Total","638843",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Total Expenditures_Education","26183940",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Recreation Facilities_Total","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Cultural Services_Total","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Veterans Memorial Building_Total","580279",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Small Craft Harbors_Total","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Total Expenditures_Recreation Cultural","580279",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Retirement of Long-Term Debt_Total","101212456",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Interest on Long-Term Debt_Total","28679835",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Principal and Interest on Short-Term Notes and Warrants_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Total Expenditures_Debt Service","129892291",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","EXP_TRANSFER_OUT_ENTRP","Total Transfers Out To Enterprise(s) Only_Operating Expenditures","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Authorized_Total_Bonded","935505000",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued_Total_Bonded","935505000",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, Beginning of Fiscal Year_Total_Bonded","451965000",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Adjustments to Principal in CY_Total_Bonded","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued in CY_Total_Bonded","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Principal Payment_Total_Bonded","74250000",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Interest Payment_Total_Bonded","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Defeased in CY_Total_Bonded","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Payments to Date_Total_Bonded","557790000",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, End of Fiscal Year_Total_Bonded","377715000",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Principal_Total_Bonded","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Interest_Total_Bonded","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, Beginning of Fiscal Year_Total_Other","59435561",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Adjustments to Principal in CY_Total_Other","2292431",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Principal Payment_Total_Other","1365457",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Interest Payment_Total_Other","318969",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Defeased in CY_Total_Other","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Glenn","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Mental Health_Total","5968519",,"28353","1319","11","Willows
+,  95988
+(39.52311915700005, -122.19882726399999)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Payments to Date_Total_Other","6886938",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, End of Fiscal Year_Total_Other","60362535",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Principal_Total_Other","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Interest_Total_Other","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, Beginning of Fiscal Year_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Initial Amount of Repayment Obligation_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 1 to Repayment Obiligation in CY_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 2 to Repayment Obiligation in CY_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, End of Fiscal Year_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Expended to Date on behalf of the County_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatured, Beginning of Fiscal Year_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment to Principal in CY_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Received During the Fiscal Year_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Principal Payment_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Payments to Date_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatuted, End of Fiscal Year_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Interest Payment_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Delinquent_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Interest Amount Delinquent_Total",,,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, Beginning of Fiscal Year_Total","1340353184",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Initial Amount of Lease Obligation_Total","495250750",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Principal Payment_Total","25596999",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Interest Payment_Total","28360866",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Adjustment(s) to Principal and Interest in CY_Total","-17538812",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, End of Fiscal Year_Total","1764107257",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Unmatured Principal (Only) End of Fiscal Year_Total","842937222",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_General","3883773914",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_General","1366966736",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_General","1081559133",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_General","2516807178",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Special Revenue","422583048",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Special Revenue","2960343",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Special Revenue","419622705",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Special Revenue","419622705",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Humboldt","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Counsel_Total","1186238",,"134648","3600","12","Eureka
+,  95501
+(40.79278624900007, -124.15821618399997)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Debt Service","-7982635",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Debt Service","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Debt Service","-7982635",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Debt Service","-7982635",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Capital Projects","-47328918",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Capital Projects","14471",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Capital Projects","-47343389",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Capital Projects","-47343389",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Enterprise","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Enterprise","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Enterprise","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Enterprise","0",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Internal Service","229830751",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Internal Service","14125525",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Internal Service","201463954",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Internal Service","215705226",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Trust and Agency","2028148580",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Trust and Agency","769745128",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Trust and Agency","1258403452",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Trust and Agency","1258403452",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities","2153812203",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Total","6509024740",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Total","4355212537",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Revenues","2448572609",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alameda","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Expenditures","2405508090",,"1573254","825","1","Oakland
+,  94612
+(37.806477004000044, -122.26912945299995)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Revenue","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Expenses","1674",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Revenue","10097",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Expenses","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Revenues","10097",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Expenses","1674",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Revenues",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Expenses",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Revenues",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Expenses",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Revenues","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Expenses","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Revenues",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Expenses",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Revenues",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Expenses",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Revenues","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Expenses","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Revenue",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Expense",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non-Operating Revenues",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non Operating Expenses",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Revenues",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Expenses",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_REV","Total Enterprise Revenues","10097",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_EXP","Total Enterprise Expenditures","1674",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Property Taxes","5010518",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Other Taxes","728749",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Sales and Use Taxes_Total","228612",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Other Taxes","28297",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","All Tax Revenues","5739267",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_SPECIAL_BENEFIT","Total Special Benefit Assessments","328634",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_LICENSES_PERMITS","Total Licenses, Permits, and Franchises","115507",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_FINES_PENALTIES","Total Fines, Forfeitures, and Penalties","479012",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_FROM_MONEY_PROPERTY","Total Revenue From the Use of Money and Property","216500",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_AID_STATE_AGENCIES","Total State Aid","6028042",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_AID_FEDERAL_AGENCIES","Total Federal Aid","2120582",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_INLIEU_TAX","Total Other In-Lieu Taxes and Other Governmental Agencies","110587",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_CHARGES_CURR_SERV","Total Charges for Current Services","639572",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_MISCELLANEOUS","Total Miscellaneous Revenue","260239",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_FIN_SOURCES","Total Other Financing Sources","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","REV_TRANSFERS_IN_ENTRP","Total Transfers In From Enterprise(s)","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Legislative and Administrative_Total","629400",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Finance_Total","841480",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Counsel_Total","184584",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Personnel_Total","74484",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Elections_Total","17862",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Communications_Total","121656",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Property Management_Total","477858",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Plant Acquisition_Total","4857145",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Promotion_Total","60927",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Other General_Total","799973",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Expenditures_General","8065369",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Judicial_Total","408750",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Police Protection_Total","3079052",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Detention And Correction_Total","218519",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Fire Protection_Total","462600",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Flood Control - Soil And Water Conservation_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Protective Inspection_Total","166242",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Other Protection_Total","342772",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Expenditures_Public Protection","4677935",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Roads_Total","1526647",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Terminals_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Systems_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Parking Facilities_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Total Expenditures_Public Facilities","1526647",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Public Health_Total","777908",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Medical Care_Total","21864",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Mental Health_Total","1249574",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Drug and Alcohol Abuse Services_Total","384691",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_SANITATION","Sanitation_Total","88985",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH_SANITATION_TOTAL","Total Expenditures_Health and Sanitation","2523022",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Welfare_Total","967511",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Social Services_Total","227028",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total General Relief_Total","375",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Care of Court Wards_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Veterans Services_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Other Public Assistance_Total","62079",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Expenditures_Public Assistance","1256993",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","School Administration_Total","56703",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Library Services_Total","248177",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Agricultural Education_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Other Education_Total","92071",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Total Expenditures_Education","396951",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Recreation Facilities_Total","32583",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Cultural Services_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Veterans Memorial Building_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Small Craft Harbors_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Total Expenditures_Recreation Cultural","32583",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Retirement of Long-Term Debt_Total","64924",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Interest on Long-Term Debt_Total","47372",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Principal and Interest on Short-Term Notes and Warrants_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Total Expenditures_Debt Service","112296",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","EXP_TRANSFER_OUT_ENTRP","Total Transfers Out To Enterprise(s) Only_Operating Expenditures","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Authorized_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, Beginning of Fiscal Year_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Adjustments to Principal in CY_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued in CY_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Principal Payment_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Interest Payment_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Defeased in CY_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Payments to Date_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, End of Fiscal Year_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Principal_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Interest_Total_Bonded",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, Beginning of Fiscal Year_Total_Other","495019",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Adjustments to Principal in CY_Total_Other","-22885",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Principal Payment_Total_Other","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Interest Payment_Total_Other","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Defeased in CY_Total_Other","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Payments to Date_Total_Other","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, End of Fiscal Year_Total_Other","472134",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Principal_Total_Other","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Interest_Total_Other","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, Beginning of Fiscal Year_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Initial Amount of Repayment Obligation_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 1 to Repayment Obiligation in CY_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 2 to Repayment Obiligation in CY_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, End of Fiscal Year_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Expended to Date on behalf of the County_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatured, Beginning of Fiscal Year_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment to Principal in CY_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Received During the Fiscal Year_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Principal Payment_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Payments to Date_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatuted, End of Fiscal Year_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Interest Payment_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Delinquent_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Interest Amount Delinquent_Total",,,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, Beginning of Fiscal Year_Total","1684435",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Initial Amount of Lease Obligation_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Principal Payment_Total","64924",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Interest Payment_Total","47372",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Adjustment(s) to Principal and Interest in CY_Total","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, End of Fiscal Year_Total","1572139",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Unmatured Principal (Only) End of Fiscal Year_Total","1214557",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_General","28457124",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_General","1736699",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_General","6051501",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_General","26720425",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Special Revenue","18652400",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Special Revenue","898191",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Special Revenue","17754209",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Special Revenue","17754209",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Debt Service","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Debt Service","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Debt Service","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Debt Service","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Capital Projects","354485",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Capital Projects","251078",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Capital Projects","103407",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Capital Projects","103407",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Enterprise","102647",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Enterprise","123850",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Enterprise","-40116",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Enterprise","-21203",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Internal Service","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Internal Service","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Internal Service","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Internal Service","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Trust and Agency","7168696",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Trust and Agency","7168696",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Trust and Agency","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Trust and Agency","0",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities","10178514",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Total","54735352",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Total","44556838",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Revenues","16048039",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Alpine","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Expenditures","18593470",,"1079","727","2","Markleeville
+,  96120
+(38.79014714400006, -119.808439868)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Revenue","470804",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Expenses","475090",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Revenue","75897",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Expenses","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Revenues","546701",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Expenses","475090",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Revenues",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Expenses",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Revenues",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Expenses",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Revenues","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Expenses","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Revenues","405269",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Expenses","487421",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Revenues","45077",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Expenses","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Revenues","450346",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Expenses","487421",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Revenue",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Expense",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non-Operating Revenues",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non Operating Expenses",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Revenues",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Expenses",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_REV","Total Enterprise Revenues","997047",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_EXP","Total Enterprise Expenditures","962511",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Property Taxes","17037142",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Other Taxes","3053978",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Sales and Use Taxes_Total","2677982",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Other Taxes","204973",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","All Tax Revenues","20091120",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_SPECIAL_BENEFIT","Total Special Benefit Assessments",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_LICENSES_PERMITS","Total Licenses, Permits, and Franchises","776950",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_FINES_PENALTIES","Total Fines, Forfeitures, and Penalties","977944",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_FROM_MONEY_PROPERTY","Total Revenue From the Use of Money and Property","293622",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_AID_STATE_AGENCIES","Total State Aid","26261863",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_AID_FEDERAL_AGENCIES","Total Federal Aid","5819712",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_INLIEU_TAX","Total Other In-Lieu Taxes and Other Governmental Agencies","936609",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_CHARGES_CURR_SERV","Total Charges for Current Services","6368183",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_MISCELLANEOUS","Total Miscellaneous Revenue","755923",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_FIN_SOURCES","Total Other Financing Sources",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","REV_TRANSFERS_IN_ENTRP","Total Transfers In From Enterprise(s)",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Legislative and Administrative_Total","1539464",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Finance_Total","2107741",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Counsel_Total","635665",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Personnel_Total","-22861",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Elections_Total","489241",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Communications_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Property Management_Total","287817",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Plant Acquisition_Total","261685",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Promotion_Total","124060",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Other General_Total","1358771",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Expenditures_General","6781583",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Judicial_Total","4720649",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Police Protection_Total","8510784",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Detention And Correction_Total","6516810",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Fire Protection_Total","569911",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Flood Control - Soil And Water Conservation_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Protective Inspection_Total","1097647",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Other Protection_Total","7161148",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Expenditures_Public Protection","28576949",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Roads_Total","4612456",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Terminals_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Systems_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Parking Facilities_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Total Expenditures_Public Facilities","4612456",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Public Health_Total","2969129",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Medical Care_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Mental Health_Total","5044358",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Drug and Alcohol Abuse Services_Total","518572",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_SANITATION","Sanitation_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH_SANITATION_TOTAL","Total Expenditures_Health and Sanitation","8532059",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Welfare_Total","7315556",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Social Services_Total","3499325",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total General Relief_Total","51544",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Care of Court Wards_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Veterans Services_Total","105986",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Other Public Assistance_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Expenditures_Public Assistance","10972411",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","School Administration_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Library Services_Total","787209",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Agricultural Education_Total","190797",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Other Education_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Total Expenditures_Education","978006",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Recreation Facilities_Total","138630",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Cultural Services_Total","51394",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Veterans Memorial Building_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Small Craft Harbors_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Total Expenditures_Recreation Cultural","190024",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Retirement of Long-Term Debt_Total","520035",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Interest on Long-Term Debt_Total","278917",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Principal and Interest on Short-Term Notes and Warrants_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Total Expenditures_Debt Service","798952",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","EXP_TRANSFER_OUT_ENTRP","Total Transfers Out To Enterprise(s) Only_Operating Expenditures",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Authorized_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, Beginning of Fiscal Year_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Adjustments to Principal in CY_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued in CY_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Principal Payment_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Interest Payment_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Defeased in CY_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Payments to Date_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, End of Fiscal Year_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Principal_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Interest_Total_Bonded",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, Beginning of Fiscal Year_Total_Other","11322889",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Adjustments to Principal in CY_Total_Other","-238202",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Principal Payment_Total_Other","52794",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Interest Payment_Total_Other","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Defeased in CY_Total_Other","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Payments to Date_Total_Other","246435",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, End of Fiscal Year_Total_Other","11031893",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Principal_Total_Other","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Interest_Total_Other","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, Beginning of Fiscal Year_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Initial Amount of Repayment Obligation_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 1 to Repayment Obiligation in CY_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 2 to Repayment Obiligation in CY_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, End of Fiscal Year_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Expended to Date on behalf of the County_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatured, Beginning of Fiscal Year_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment to Principal in CY_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Received During the Fiscal Year_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Principal Payment_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Payments to Date_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatuted, End of Fiscal Year_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Interest Payment_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Delinquent_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Interest Amount Delinquent_Total",,,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, Beginning of Fiscal Year_Total","9497689",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Initial Amount of Lease Obligation_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Principal Payment_Total","467241",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Interest Payment_Total","278917",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Adjustment(s) to Principal and Interest in CY_Total","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, End of Fiscal Year_Total","8751531",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Unmatured Principal (Only) End of Fiscal Year_Total","6965175",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_General","66794576",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_General","10117992",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_General","16938336",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_General","56676584",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Fresno","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Other General_Total","9836222",,"964040","5998","10","93715 1247
+,  
+(36.781398962000026, -119.79040809499998)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Special Revenue","5500187",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Special Revenue","824468",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Special Revenue","4675719",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Special Revenue","4675719",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Debt Service","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Debt Service","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Debt Service","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Debt Service","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Capital Projects","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Capital Projects","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Capital Projects","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Capital Projects","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Enterprise","93999",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Enterprise","8535934",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Enterprise","-8441935",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Enterprise","-8441935",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Internal Service","2453801",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Internal Service","146558",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Internal Service","2307243",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Internal Service","2307243",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Trust and Agency","18157849",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Trust and Agency","0",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Trust and Agency","18157849",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Trust and Agency","18157849",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities","19624952",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Total","93000412",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Total","73375460",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Revenues","63278973",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Amador","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Expenditures","62404951",,"36151","601","3","Jackson
+,  95642
+(38.35558576400007, -120.76086941899996)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Revenue",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Expenses",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Revenue",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Expenses",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Revenues","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Expenses","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Revenues",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Expenses",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Revenues",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Expenses",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Revenues","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Expenses","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Revenues","6154608",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Expenses","5315163",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Revenues","314168",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Expenses","561994",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Revenues","6468776",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Expenses","5877157",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Revenue",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Expense",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non-Operating Revenues",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non Operating Expenses",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Revenues",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Expenses",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_REV","Total Enterprise Revenues","6468776",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_EXP","Total Enterprise Expenditures","5877157",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Property Taxes","46124058",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Other Taxes","8377050",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Sales and Use Taxes_Total","4412159",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Other Taxes","3944752",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","All Tax Revenues","54501108",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_SPECIAL_BENEFIT","Total Special Benefit Assessments",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_LICENSES_PERMITS","Total Licenses, Permits, and Franchises","3747387",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_FINES_PENALTIES","Total Fines, Forfeitures, and Penalties","4157781",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Humboldt","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Personnel_Total","626921",,"134648","3600","12","Eureka
+,  95501
+(40.79278624900007, -124.15821618399997)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_FROM_MONEY_PROPERTY","Total Revenue From the Use of Money and Property","1225728",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_AID_STATE_AGENCIES","Total State Aid","161028112",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_AID_FEDERAL_AGENCIES","Total Federal Aid","78070179",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_INLIEU_TAX","Total Other In-Lieu Taxes and Other Governmental Agencies","4993849",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_CHARGES_CURR_SERV","Total Charges for Current Services","18938494",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_MISCELLANEOUS","Total Miscellaneous Revenue","4457563",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_FIN_SOURCES","Total Other Financing Sources","1778479",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","REV_TRANSFERS_IN_ENTRP","Total Transfers In From Enterprise(s)","20060",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Legislative and Administrative_Total","4215388",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Finance_Total","14617115",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Counsel_Total","1962148",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Personnel_Total","1900749",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Elections_Total","1455349",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Communications_Total","3681804",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Property Management_Total","116175",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Plant Acquisition_Total","2690489",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Promotion_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Other General_Total","4718896",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Expenditures_General","35358113",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Judicial_Total","16036358",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Police Protection_Total","14665078",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Detention And Correction_Total","33717960",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Fire Protection_Total","14163280",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Flood Control - Soil And Water Conservation_Total","698159",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Protective Inspection_Total","1940781",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Other Protection_Total","5722464",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Expenditures_Public Protection","86944080",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Roads_Total","19883451",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Terminals_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Systems_Total","1241857",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Parking Facilities_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Total Expenditures_Public Facilities","21125308",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Public Health_Total","17255265",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Medical Care_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Mental Health_Total","43070947",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Drug and Alcohol Abuse Services_Total","4641530",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_SANITATION","Sanitation_Total",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH_SANITATION_TOTAL","Total Expenditures_Health and Sanitation","64967742",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Welfare_Total","91842853",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Social Services_Total","17359026",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total General Relief_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Care of Court Wards_Total","60859",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Veterans Services_Total","213304",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Other Public Assistance_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Expenditures_Public Assistance","109476042",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","School Administration_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Library Services_Total","2279317",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Agricultural Education_Total","228687",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Other Education_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Total Expenditures_Education","2508004",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Recreation Facilities_Total","133890",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Cultural Services_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Veterans Memorial Building_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Small Craft Harbors_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Total Expenditures_Recreation Cultural","133890",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Retirement of Long-Term Debt_Total","1105044",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Interest on Long-Term Debt_Total","1960254",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Principal and Interest on Short-Term Notes and Warrants_Total",,,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Total Expenditures_Debt Service","3065298",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","EXP_TRANSFER_OUT_ENTRP","Total Transfers Out To Enterprise(s) Only_Operating Expenditures","18085",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Authorized_Total_Bonded","49895000",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued_Total_Bonded","49895000",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, Beginning of Fiscal Year_Total_Bonded","49895000",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Adjustments to Principal in CY_Total_Bonded","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued in CY_Total_Bonded","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Principal Payment_Total_Bonded","350000",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Interest Payment_Total_Bonded","1795337",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Defeased in CY_Total_Bonded","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Payments to Date_Total_Bonded","350000",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, End of Fiscal Year_Total_Bonded","49545000",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Principal_Total_Bonded","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Interest_Total_Bonded","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, Beginning of Fiscal Year_Total_Other","18098349",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Adjustments to Principal in CY_Total_Other","-430122",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Humboldt","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Elections_Total","1110258",,"134648","3600","12","Eureka
+,  95501
+(40.79278624900007, -124.15821618399997)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Principal Payment_Total_Other","165940",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Interest Payment_Total_Other","10885",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Defeased in CY_Total_Other","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Payments to Date_Total_Other","283046",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, End of Fiscal Year_Total_Other","17502287",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Principal_Total_Other","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Interest_Total_Other","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, Beginning of Fiscal Year_Total","3167000",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Initial Amount of Repayment Obligation_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 1 to Repayment Obiligation in CY_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 2 to Repayment Obiligation in CY_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, End of Fiscal Year_Total","3167000",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Expended to Date on behalf of the County_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatured, Beginning of Fiscal Year_Total","1575160",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment to Principal in CY_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Received During the Fiscal Year_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Principal Payment_Total","253217",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Payments to Date_Total","1845057",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatuted, End of Fiscal Year_Total","1321943",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Interest Payment_Total","59751",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Delinquent_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Interest Amount Delinquent_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, Beginning of Fiscal Year_Total","14423927",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Initial Amount of Lease Obligation_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Principal Payment_Total","1338775",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Interest Payment_Total","456196",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Adjustment(s) to Principal and Interest in CY_Total","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, End of Fiscal Year_Total","12628956",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Unmatured Principal (Only) End of Fiscal Year_Total","10139346",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_General","839706715",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_General","74506922",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_General","39898454",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_General","765199793",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Special Revenue","70254919",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Special Revenue","29349471",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Special Revenue","40905448",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Special Revenue","40905448",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Debt Service","9355363",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Debt Service","0",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Debt Service","9355363",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Debt Service","9355363",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Capital Projects","10822508",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Capital Projects","641415",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Capital Projects","10181093",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Capital Projects","10181093",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Enterprise","39939659",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Enterprise","14076930",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Enterprise","25862729",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Enterprise","25862729",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Internal Service","897786",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Internal Service","179783",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Internal Service","718003",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Internal Service","718003",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Trust and Agency","277212496",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Trust and Agency","206996264",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Trust and Agency","70216232",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Trust and Agency","70216232",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities","325750785",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Total","1248189446",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Total","922438661",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Revenues","339367456",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Butte","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Expenditures","329455634",,"222316","1665","4","95965 3316
+,  
+(39.527330730000074, -121.57172946899999)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Revenue","595054",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Expenses","627129",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Revenue","34406",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Expenses","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Kings","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Mental Health_Total","15178071",,"150181","1436","16","Hanford
+,  93230
+(36.33484971100006, -119.64951694699994)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Revenues","629460",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Expenses","627129",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Revenues",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Expenses",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Revenues",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Expenses",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Revenues","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Expenses","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Revenues","5035738",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Expenses","3735870",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Revenues","77166",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Expenses","2003650",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Revenues","5112904",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Expenses","5739520",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Revenue",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Expense",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non-Operating Revenues",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non Operating Expenses",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Revenues",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Expenses",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_REV","Total Enterprise Revenues","5742364",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_EXP","Total Enterprise Expenditures","6366649",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Property Taxes","15497652",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Other Taxes","3431011",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Sales and Use Taxes_Total","2442383",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Other Taxes","655471",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","All Tax Revenues","18928663",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_SPECIAL_BENEFIT","Total Special Benefit Assessments",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_LICENSES_PERMITS","Total Licenses, Permits, and Franchises","2400009",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_FINES_PENALTIES","Total Fines, Forfeitures, and Penalties","2330846",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_FROM_MONEY_PROPERTY","Total Revenue From the Use of Money and Property","340154",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_AID_STATE_AGENCIES","Total State Aid","27879148",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_AID_FEDERAL_AGENCIES","Total Federal Aid","12875729",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_INLIEU_TAX","Total Other In-Lieu Taxes and Other Governmental Agencies","307103",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_CHARGES_CURR_SERV","Total Charges for Current Services","5817622",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_MISCELLANEOUS","Total Miscellaneous Revenue","1270591",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_FIN_SOURCES","Total Other Financing Sources","81741",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","REV_TRANSFERS_IN_ENTRP","Total Transfers In From Enterprise(s)","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Legislative and Administrative_Total","1252054",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Finance_Total","2495642",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Counsel_Total","764317",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Personnel_Total","500260",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Elections_Total","359119",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Communications_Total","40743",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Property Management_Total","481814",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Plant Acquisition_Total","9915658",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Promotion_Total","276004",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Other General_Total","4351553",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Expenditures_General","20437164",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Judicial_Total","2419766",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Police Protection_Total","7922505",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Detention And Correction_Total","5539904",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Fire Protection_Total","323463",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Flood Control - Soil And Water Conservation_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Protective Inspection_Total","1588519",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Other Protection_Total","2219155",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Expenditures_Public Protection","20013312",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Roads_Total","8266391",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Terminals_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Systems_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Parking Facilities_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Total Expenditures_Public Facilities","8266391",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Public Health_Total","2594835",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Medical Care_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Mental Health_Total","4989150",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Drug and Alcohol Abuse Services_Total","894722",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_SANITATION","Sanitation_Total",,,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH_SANITATION_TOTAL","Total Expenditures_Health and Sanitation","8478707",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Welfare_Total","14773330",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Social Services_Total","1256809",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total General Relief_Total","116711",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Care of Court Wards_Total","1430",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Veterans Services_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Other Public Assistance_Total","596840",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Expenditures_Public Assistance","16745120",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","School Administration_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Library Services_Total","458148",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Agricultural Education_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Other Education_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Total Expenditures_Education","458148",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Recreation Facilities_Total","400",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Cultural Services_Total","31058",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Veterans Memorial Building_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Small Craft Harbors_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Total Expenditures_Recreation Cultural","31458",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Retirement of Long-Term Debt_Total","1095132",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Interest on Long-Term Debt_Total","1761519",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Principal and Interest on Short-Term Notes and Warrants_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Total Expenditures_Debt Service","2856651",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","EXP_TRANSFER_OUT_ENTRP","Total Transfers Out To Enterprise(s) Only_Operating Expenditures","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Authorized_Total_Bonded","30998489",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued_Total_Bonded","30998489",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, Beginning of Fiscal Year_Total_Bonded","30868489",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Adjustments to Principal in CY_Total_Bonded","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued in CY_Total_Bonded","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Principal Payment_Total_Bonded","160000",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Interest Payment_Total_Bonded","1395500",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Defeased in CY_Total_Bonded","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Payments to Date_Total_Bonded","290000",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, End of Fiscal Year_Total_Bonded","30708489",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Principal_Total_Bonded","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Interest_Total_Bonded","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, Beginning of Fiscal Year_Total_Other","2572951",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Adjustments to Principal in CY_Total_Other","2792647",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Principal Payment_Total_Other","820132",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Interest Payment_Total_Other","49241",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Defeased in CY_Total_Other","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Payments to Date_Total_Other","5270573",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, End of Fiscal Year_Total_Other","4545466",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Principal_Total_Other","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Interest_Total_Other","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, Beginning of Fiscal Year_Total","1151554",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Initial Amount of Repayment Obligation_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 1 to Repayment Obiligation in CY_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 2 to Repayment Obiligation in CY_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, End of Fiscal Year_Total","1151554",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Expended to Date on behalf of the County_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatured, Beginning of Fiscal Year_Total","478889",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment to Principal in CY_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Received During the Fiscal Year_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Principal Payment_Total","42997",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Payments to Date_Total","313708",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatuted, End of Fiscal Year_Total","435892",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Interest Payment_Total","26410",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Delinquent_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Interest Amount Delinquent_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, Beginning of Fiscal Year_Total","12482616",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Initial Amount of Lease Obligation_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Principal Payment_Total","115000",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Interest Payment_Total","316778",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Adjustment(s) to Principal and Interest in CY_Total","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, End of Fiscal Year_Total","12050838",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Unmatured Principal (Only) End of Fiscal Year_Total","7230000",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_General","167153798",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_General","42980916",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_General","21160551",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_General","124172882",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Special Revenue","42613520",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Special Revenue","75156",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Special Revenue","42538364",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Special Revenue","42538364",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Debt Service","1688581",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Debt Service","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Debt Service","1688581",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Debt Service","1688581",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Capital Projects","3438348",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Capital Projects","1091",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Capital Projects","3437257",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Capital Projects","3437257",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Enterprise","790392",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Enterprise","475907",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Enterprise","314485",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Enterprise","314485",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Internal Service","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Internal Service","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Internal Service","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Internal Service","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Trust and Agency","6716400",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Trust and Agency","0",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_Trust and Agency","6716400",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Trust and Agency","6716400",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities","43533070",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Total","222401039",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_Total","178867969",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Revenues","77973970",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Calaveras","2014","2014-01-01T00:00:00.000","Total","STATISTICS_APPROP","Grand Total Expenditures","83653600",,"44650","1036","5","San Andreas
+,  95249
+(38.19135759100004, -120.66105595299996)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Revenue","396452",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Operating Expenses","410272",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Revenue","54922",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Total Non-Operating Expenses","34399",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Revenues","451374",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","AIRPORT_ENTERPRISE","Airport Enterprise_Total Expenses","444671",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Revenues",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Operating Expenses",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Revenues",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Total Non-Operating Expenses",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Revenues","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","HOSPITAL_ENTERPRISE","Hospital Enterprise_Total Expenses","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Revenues","1590335",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Operating Expenses","1713337",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Revenues","16145",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Total Non-Operating Expenses","11241",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Revenues","1606480",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REFUSAL_ENTERPRISE","Refuse Enterprise_Total Expenses","1724578",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Revenue",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Operating Expense",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non-Operating Revenues",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Total Non Operating Expenses",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Revenues",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","OTHR_ENTERPRISE","Other Enterprise_Total Expenses",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_REV","Total Enterprise Revenues","2057854",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","TOTAL_ENTERPRISE_EXP","Total Enterprise Expenditures","2169249",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Property Taxes","15512099",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Total Other Taxes","2350676",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Sales and Use Taxes_Total","1821952",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","Other Taxes","528724",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_PROP_OTHR_TAXES","All Tax Revenues","17862775",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_SPECIAL_BENEFIT","Total Special Benefit Assessments",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_LICENSES_PERMITS","Total Licenses, Permits, and Franchises","1605459",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_FINES_PENALTIES","Total Fines, Forfeitures, and Penalties","1692325",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_FROM_MONEY_PROPERTY","Total Revenue From the Use of Money and Property","567807",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_AID_STATE_AGENCIES","Total State Aid","26390616",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_AID_FEDERAL_AGENCIES","Total Federal Aid","3613625",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_INLIEU_TAX","Total Other In-Lieu Taxes and Other Governmental Agencies","27867",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_CHARGES_CURR_SERV","Total Charges for Current Services","2077649",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_MISCELLANEOUS","Total Miscellaneous Revenue","375876",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_OTHR_FIN_SOURCES","Total Other Financing Sources","4550",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","REV_TRANSFERS_IN_ENTRP","Total Transfers In From Enterprise(s)",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Legislative and Administrative_Total","963004",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Finance_Total","1949426",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Counsel_Total","-31149",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Personnel_Total","-149776",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Elections_Total","394281",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Communications_Total","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Property Management_Total","1210447",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Plant Acquisition_Total","244347",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Promotion_Total","164536",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Other General_Total","210208",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Total Expenditures_General","4955324",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Judicial_Total","3372024",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Police Protection_Total","6214851",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Detention And Correction_Total","5688008",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Fire Protection_Total","239341",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Flood Control - Soil And Water Conservation_Total","91963",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Protective Inspection_Total","1468608",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Other Protection_Total","1513463",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_PROTECTION","Total Expenditures_Public Protection","18588258",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Roads_Total","10521952",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Terminals_Total","68638",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Transportation Systems_Total","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Parking Facilities_Total","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_FACILITIES","Total Expenditures_Public Facilities","10590590",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Public Health_Total","3219205",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Medical Care_Total","60437",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Mental Health_Total","5366870",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH","Drug and Alcohol Abuse Services_Total","412682",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_SANITATION","Sanitation_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_HEALTH_SANITATION_TOTAL","Total Expenditures_Health and Sanitation","9059194",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Welfare_Total","7998200",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Social Services_Total","199",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total General Relief_Total","74875",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Care of Court Wards_Total","9576",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Veterans Services_Total","76008",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Other Public Assistance_Total","179115",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_PUBLIC_ASSISTANCE","Total Expenditures_Public Assistance","8337973",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","School Administration_Total","30349",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Library Services_Total","1084560",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Agricultural Education_Total","290898",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Other Education_Total","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_EDUCATION","Total Expenditures_Education","1405807",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Recreation Facilities_Total","46242",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Cultural Services_Total","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Veterans Memorial Building_Total","5907",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Small Craft Harbors_Total","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_RECREATION_CULTURAL","Total Expenditures_Recreation Cultural","52149",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Retirement of Long-Term Debt_Total","844032",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Interest on Long-Term Debt_Total","160171",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Principal and Interest on Short-Term Notes and Warrants_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_DEBT_SERVICE","Total Expenditures_Debt Service","1004203",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","EXP_TRANSFER_OUT_ENTRP","Total Transfers Out To Enterprise(s) Only_Operating Expenditures",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Authorized_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, Beginning of Fiscal Year_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Adjustments to Principal in CY_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Issued in CY_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Principal Payment_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Current Year Interest Payment_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Defeased in CY_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Principal Payments to Date_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Unmatured Principal, End of Fiscal Year_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Principal_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS","Amount Delinquent Interest_Total_Bonded",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, Beginning of Fiscal Year_Total_Other","7240654",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Adjustments to Principal in CY_Total_Other","861765",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Principal Payment_Total_Other","586200",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Current Year Interest Payment_Total_Other","117221",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Defeased in CY_Total_Other","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Principal Payments to Date_Total_Other","2417476",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Unmatured Principal, End of Fiscal Year_Total_Other","7516219",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Principal_Total_Other","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","BONDED_INDEBTNESS (Other Long-Term Debt)","Amount Delinquent Interest_Total_Other","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, Beginning of Fiscal Year_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Initial Amount of Repayment Obligation_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 1 to Repayment Obiligation in CY_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment 2 to Repayment Obiligation in CY_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Maximum Repayment Obligation per Contract, End of Fiscal Year_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Expended to Date on behalf of the County_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatured, Beginning of Fiscal Year_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Adjustment to Principal in CY_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Received During the Fiscal Year_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Principal Payment_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Payments to Date_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Humboldt","2014","2014-01-01T00:00:00.000","Total","EXP_GENERAL","Communications_Total","0",,"134648","3600","12","Eureka
+,  95501
+(40.79278624900007, -124.15821618399997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Unmatuted, End of Fiscal Year_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Current Year Interest Payment_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Principal Amount Delinquent_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","CONS_FIN_US_CALIFORNIA","Interest Amount Delinquent_Total",,,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, Beginning of Fiscal Year_Total","980412",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Initial Amount of Lease Obligation_Total","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Principal Payment_Total","257832",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Current Year Interest Payment_Total","42950",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Adjustment(s) to Principal and Interest in CY_Total","0",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Future Principal and Interest Unmatured to Date, End of Fiscal Year_Total","679630",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","LEASE_OBLIGATIONS","Total Unmatured Principal (Only) End of Fiscal Year_Total","636552",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_General","104556390",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_General","5947868",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Retained Earnings/Fund Balance_General","7393487",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Fund Equity_General","98608522",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Assets_Special Revenue","25723138",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"
+"Colusa","2014","2014-01-01T00:00:00.000","Total","ASSETS_LIABILITIES","Total Liabilities_Special Revenue","-3999931",,"21660","1156","6","Colusa
+,  95932
+(39.210196206000035, -122.01087970599997)"

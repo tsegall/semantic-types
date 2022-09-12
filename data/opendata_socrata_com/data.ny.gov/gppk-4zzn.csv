@@ -1,0 +1,1001 @@
+"row_created_dtm","snapshot_date","indicator_set","indicator_name","age_group","data_level_indicator","county","region","provider","eligible_population","with_qi_flag","percent_of_population","rate_high","region_percent"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Putnam","Hudson River","ST CHRISTOPHERS INN INC","43","2","4.65","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","SOUND SHORE MEDICAL CENTER","58","6","10.34","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","SETON HEALTH SYSTEM","149","7","4.7","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rensselaer","Hudson River","SETON HEALTH SYSTEM","29","3","10.34","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","SEARCH FOR CHANGE, INC.","50","15","30","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Sullivan","Hudson River","SDTC THE CENTER FOR DISCOVERY","80","15","18.75","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Schoharie","Hudson River","SCHOHARIE COUNTY COMMUNITY MENTAL HEALTH CTR","45","3","6.67","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Schenectady","Hudson River","SCHENECTADY FAMILY HEALTH SER","34","3","8.82","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Saratoga","Hudson River","SARATOGA COUNTY COMMUNITY SERVICES BOARD","148","15","10.14","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","SANCIA WELLNESS, INC.","25","4","16","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rensselaer","Hudson River","SAMARITAN HOSPITAL","435","39","8.97","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","ROCKLAND PSYCHIATRIC CENTER","35","13","37.14","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","ROCKLAND PSYCHIATRIC CENTER","22","6","27.27","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","ROCKLAND PSYCHIATRIC CENTER","552","153","27.72","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Schenectady","Hudson River","RIDGE HEALTH SERVICES INC","35","8","22.86","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","RESTORATIVE MANAGEMENT CORPORATION","59","7","11.86","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rensselaer","Hudson River","RENSSELAER COUNTY DEPT OF MENTAL HEALTH","128","16","12.5","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","REHABILITATION SUPPORT SERVICES, INC.","28","7","25","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","REHABILITATION SUPPORT SERVICES, INC.","172","28","16.28","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Sullivan","Hudson River","REHABILITATION SUPPORT SERVICES, INC.","53","23","43.4","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","REHABILITATION SUPPORT SERVICES, INC.","34","4","11.76","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","REFUAH HEALTH CENTER INC","89","10","11.24","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","PUTNAM HOSPITAL CENTER","68","7","10.29","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Putnam","Hudson River","PUTNAM FAMILY AND COMMUNITY SERVICES, INC.","73","3","4.11","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","POSTGRADUATE CENTER FOR MENTAL HEALTH, INC.","42","6","14.29","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","PHELPS MEMORIAL HOSPITAL CENTER","329","57","17.33","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","PARSONS CHILD AND FAMILY CENTER","28","3","10.71","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","ORANGE REGIONAL MEDICAL CENTER","295","51","17.29","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","ORANGE COUNTY DEPARTMENT OF MENTAL HEALTH","107","2","1.87","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","OMH STATE PC NETWORK","22","6","27.27","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","OMH STATE PC NETWORK","41","14","34.15","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","OMH STATE PC NETWORK","553","154","27.85","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","OMH STATE PC NETWORK","625","156","24.96","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","REHABILITATION SUPPORT SERVICES, INC.","171","29","16.96","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","OFFICE MENTAL HEALTH MH","516","142","27.52","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","OCCUPATIONS, INC.","45","5","11.11","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","OCCUPATIONS, INC.","411","67","16.3","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","NYC-HHC HARLEM HOSPITAL CENTER","623","49","7.87","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","NYC-HHC AGENCY NETWORK","623","49","7.87","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","NYACK HOSPITAL","261","38","14.56","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","NORTHERN WESTCHESTER HOSPITAL CENTER","49","10","20.41","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","NORTHERN DUTCHESS HOSPITAL","70","14","20","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","NEW YORK PRESBYTERIAN HOSPITAL","242","29","11.98","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","MT VERNON NEIGHBORHOOD HC INC","27","1","3.7","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","MOUNT VERNON HOSPITAL, THE","126","19","15.08","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rensselaer","Hudson River","MONTEFIORE MEDICAL CENTER","1803","164","9.1","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Schenectady","Hudson River","MOHAWK OPPORTUNITIES, INC.","35","3","8.57","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","MIDDLETOWN COMM HEALTH CENTER","26","8","30.77","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","MID HUDSON VALLEY/ARCS AI","231","21","9.09","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","MERCY MEDICAL CENTER","97","15","15.46","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","MENTAL HLTH ASSOC  MH","69","4","5.8","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","MENTAL HEALTH ASSOCIATION OF WESTCHESTER COUN","267","43","16.1","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","MENTAL HEALTH ASSOCIATION OF ROCKLAND COUNTY,","186","42","22.58","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ulster","Hudson River","MENTAL HEALTH ASSOCIATION IN ULSTER COUNTY","82","15","18.29","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Columbia","Hudson River","MENTAL HEALTH ASSOC/COLUMBIA-GREENE COS., INC","59","9","15.25","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","MENTAL HEALTH AMERICA OF DUTCHESS COUNTY, INC","369","73","19.78","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","MEDICAL ARTS SANITARIUM","61","6","9.84","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","MEDEX D & T CTR","96","9","9.38","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rensselaer","Hudson River","MAIMONIDES MEDICAL CENTER","103","12","11.65","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","LOEB HOUSE, INC.","26","4","15.38","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","LEXINGTON CTR FOR RECOVERY","55","8","14.55","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","LAWRENCE HOSPITAL","65","9","13.85","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ulster","Hudson River","KINGSTON HOSPITAL","274","31","11.31","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Greene","Hudson River","MENTAL HEALTH ASSOC/COLUMBIA-GREENE COS., INC","26","9","34.62","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","JAWONIO, INC.","238","48","20.17","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","HUMAN DEVELOPMENT SVCS. OF WESTCHESTER, INC.","166","20","12.05","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rensselaer","Hudson River","HUDSON-MOHAWK RECOVERY CENTER, INC.","24","0","0","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ulster","Hudson River","HUDSON VALLEY MENTAL HEALTH, INC.","73","18","24.66","YES","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","HUDSON VALLEY MENTAL HEALTH, INC.","438","57","13.01","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","HUDSON VALLEY HOSP CTR","107","18","16.82","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","HUDSON RIVER HEALTHCARE INC","73","12","16.44","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","HUDSON RIVER HEALTHCARE INC","35","7","20","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","HONOR EHG INC","64","5","7.81","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Putnam","Hudson River","PUTNAM HOSPITAL CENTER","47","9","19.15","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ulster","Hudson River","HEALTHALLIANCE HOSPITAL MARY'S AVE CAMPUS","69","9","13.04","NO","12.67"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Greene","Hudson River","GREENE COUNTY COMMUNITY SERVICES BOARD","97","12","12.37","NO","12.67"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Staten Island","New York City","COMMUNITY HLTH CTR OF RICHMOND, INC","22","2","9.09","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","FEDERATION OF ORG. F/T NYS MENT.DISABLED, INC","52","9","17.31","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Brooklyn","New York City","NYC-HHC AGENCY NETWORK","57","7","12.28","NA",
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","FEDERATION EMPLOYMENT & GUIDANCE SERVICE","29","1","3.45","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","FEDERATION EMPLOYMENT & GUIDANCE SERVICE","37","1","2.7","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","FAMILY SERVICE LEAGUE, INC.","53","2","3.77","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","FAMILY AND CHILDREN'S ASSOCIATION","47","6","12.77","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","CATHOLIC CHARITIES OF ROCKVILLE CENTRE","27","0","0","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","BRUNSWICK HOSPITAL CENTER, INC.","77","3","3.9","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","BROOKHAVEN MEMORIAL HOSPITAL MEDICAL CENTER","42","1","2.38","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","ADVANTAGE CARE D AND T CTR","57","3","5.26","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","ST. CHARLES HOSPITAL CORP.","23","7","30.43","YES","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","SOUTHSIDE HOSPITAL","26","0","0","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","SOUTH SHORE CHILD GUIDANCE CENTER","41","2","4.88","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","SCO FAMILY OF SERVICES","24","0","0","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","SAGAMORE CHILDREN'S PSYCHIATRIC CENTER","50","9","18","YES","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","PENINSULA COUNSELING CENTER, INC.","42","3","7.14","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","OPTI-HEALTHCARE","34","2","5.88","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","OMH STATE PC NETWORK","50","9","18","YES","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","NORTH SHORE-LONG ISLAND JEWISH HEALTH SYSTEM","32","2","6.25","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","NORTH SHORE CHILD & FAMILY GUIDANCE ASSOCIATI","35","2","5.71","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","NASSAU HEALTH CARE CORP/NASSAU UNIV MED CTR","76","6","7.89","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","MERCYFIRST","21","4","19.05","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","LI JEWISH MEDICAL CENTER ZUCKER HILLSIDE DIV","79","3","3.8","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","JOHN T. MATHER MEMORIAL HOSPITAL","29","1","3.45","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","PEDERSON-KRAG CENTER, INC.","97","6","6.19","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","HUNTINGTON HOSPITAL","29","4","13.79","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","WINTHROP-UNIVERSITY HOSPITAL","25","1","4","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","THE LONG ISLAND HOME","121","8","6.61","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","STATE UNIVERSITY OF NY AT STONY BROOK","127","9","7.09","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","SUFFOLK COUNTY COMMUNITY MENTAL HYGIENE SERV","36","0","0","NO","5.3"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","SUFFOLK COUNTY COMMUNITY MENTAL HYGIENE SERV","198","19","9.6","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","WINTHROP-UNIVERSITY HOSPITAL","98","7","7.14","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","TRANSITIONAL SERVICES/NY FOR LONG ISLAND,INC.","37","15","40.54","YES","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","THE LONG ISLAND HOME","111","8","7.21","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","STATE UNIVERSITY OF NY AT STONY BROOK","468","58","12.39","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","THE WAY BACK, INC.","33","3","9.09","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","UCPA OF NASSAU COUNTY     INC","40","1","2.5","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","UCP ASSO OF GREATER SUFFOLK","78","18","23.08","YES","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","GOOD SAMARITAN HOSP MED CTR","181","7","3.87","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","FRANKLIN HOSPITAL MEDICAL CENTER","183","39","21.31","YES","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","FEDERATION OF ORG. F/T NYS MENT.DISABLED, INC","294","47","15.99","YES","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","FEDERATION EMPLOYMENT & GUIDANCE SERVICE","485","42","8.66","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","FEDERATION EMPLOYMENT & GUIDANCE SERVICE","509","68","13.36","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","FAMILY SERVICE LEAGUE, INC.","301","41","13.62","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","FAMILY RESIDENCES&ESSENTIAL ENTERPRISES, INC.","108","26","24.07","YES","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","FAMILY RESIDENCES&ESSENTIAL ENTERPRISES, INC.","48","18","37.5","YES","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","EPISCOPAL HEALTH SERVICES INC.","217","22","10.14","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","ECON OPP COUNCIL SUFFOLK AI","71","10","14.08","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","EASTERN LONG ISLAND HOSPITAL ASSOCIATION","102","12","11.76","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","COUNSELING SRV OF E D N Y INC","25","1","4","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","CLUBHOUSE OF SUFFOLK, INC.","220","27","12.27","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","CENTRAL NASSAU GUIDANCE AND COUN. SERV., INC.","29","5","17.24","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","CENTRAL NASSAU GUIDANCE AND COUN. SERV., INC.","233","22","9.44","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","CATHOLIC CHARITIES OF ROCKVILLE CENTRE","106","8","7.55","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","CATHOLIC CHARITIES OF ROCKVILLE CENTRE","78","6","7.69","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","BRUNSWICK HOSPITAL CENTER, INC.","67","5","7.46","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","BROOKHAVEN MEMORIAL HOSPITAL MEDICAL CENTER","417","43","10.31","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","BEHAVIORAL ENHANCEMENT AND SUBSTANC","24","1","4.17","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","ANGELO J. MELILLO CENTER FOR MENTAL HEALTH","45","5","11.11","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","AID TO THE DEVELOPMENTALLY DISABLED, INC.","21","9","42.86","YES","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","ADVANTAGE CARE D AND T CTR","107","10","9.35","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","ACLD DT","146","29","19.86","YES","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","ST. CHARLES HOSPITAL CORP.","119","12","10.08","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","ST. CATH OF SIENA MC-D/B/A ST.CATH SIENA HOSP","168","27","16.07","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","SOUTHSIDE HOSPITAL","294","37","12.59","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","SOUTHEAST NASSAU GUIDANCE CENTER, INC.","52","3","5.77","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","SOUTHAMPTON HOSPITAL","51","4","7.84","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","SOUTH NASSAU COMMUNITIES HOSPITAL","281","28","9.96","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","SO.SHORE ASSOCIATION F/INDEPENDENT LIVING, IN","58","12","20.69","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","SKILLS UNLIMITED, INC.","32","1","3.13","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","SEAFIELD SERVICES, INC.","128","2","1.56","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","SEAFIELD CENTER, INC.","33","0","0","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","SAYVILLE PROJECT - SUNY STONYBROOK","109","17","15.6","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","PSCH, INC.","50","7","14","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","PILGRIM PSYCHIATRIC CENTER","279","59","21.15","YES","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","PHOENIX HOUSES OF LONG ISLAND, INC.","85","10","11.76","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","PENINSULA COUNSELING CENTER, INC.","130","14","10.77","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","PEDERSON-KRAG CENTER, INC.","412","60","14.56","NO","11.9"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","PECONIC BAY MED CTR","142","16","11.27","NO","11.9"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","HCR CARE MANAGEMENT LLC","103","5","4.85","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","GREATER ROCHESTER HLTH HOME NETWORK","415","36","8.67","NO","8.57"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","COMMUNITY HEALTHCARE NETWORK, INC.","51","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","UNION SETTLEMENT ASSOCIATION, INC.","28","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","JAWONIO, INC.","32","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Albany","Hudson River","PILGRIM PSYCHIATRIC CENTER","34","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","TRANSITIONAL SERVICES FOR NEW YORK, INC.","46","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","HUDSON VALLEY HOSP CTR","30","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","COUNSELING SERVICE OF E.D.N.Y., INC.","28","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Greene","Hudson River","GREENE COUNTY COMMUNITY SERVICES BOARD","57","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","PHELPS MEMORIAL HOSPITAL CENTER","292","4","1.37","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","CATHOLIC CHARITIES NEIGHBORHOOD SERVICES, INC","951","3","0.32","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Erie","Western NY","JERICHO ROAD MINISTRIES","83","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Suffolk","Long Island","SAGAMORE CHILDREN'S PSYCHIATRIC CENTER","61","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Westchester","Hudson River","JEWISH BOARD OF FAMILY & CHILDREN'S SERVICES","72","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Chenango","Central NY","CHENANGO MEMORIAL HOSP    INC","43","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Orange","Hudson River","ORANGE REGIONAL MEDICAL CENTER","79","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Rockland","Hudson River","LOEB HOUSE, INC.","22","1","4.55","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","SANCIA WELLNESS, INC.","21","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Columbia","Hudson River","TWIN CTY RECOVERY SVCS INC","26","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Albany","Hudson River","ALBANY COUNTY DEPARTMENT OF MENTAL HEALTH","27","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC BELLEVUE HOSPITAL CENTER","858","1","0.12","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Suffolk","Long Island","STATE UNIVERSITY OF NY AT STONY BROOK","194","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Erie","Western NY","CHILD AND FAMILY SERVICES OF ERIE COUNTY","98","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Manhattan","New York City","THE COLLABORATIVE FOR CHILDREN AND","288","1","0.35","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Saratoga","Hudson River","SARATOGA COUNTY COMMUNITY SERVICES BOARD","143","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","FAMILY SERVICE LEAGUE, INC.","608","1","0.16","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Dutchess","Hudson River","HUDSON RIVER HEALTH CARE","352","5","1.42","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","LI JEWISH MEDICAL CENTER ZUCKER HILLSIDE DIV","1063","1","0.09","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Madison","Central NY","ONEIDA HEALTHCARE CENTER","163","1","0.61","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Schenectady","Hudson River","SCHENECTADY FAMILY HEALTH SER","198","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","CENTRAL NASSAU GUIDANCE AND COUN. SERV., INC.","337","3","0.89","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Onondaga","Central NY","HERITAGE ONE DAY SURGERY","34","1","2.94","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","GOOD SAMARITAN HOSP MED CTR","277","1","0.36","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Wayne","Western NY","NEWARK-WAYNE COMMUNITY HOSPITAL, INC.","28","1","3.57","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Albany","Hudson River","ALBANY MEDICAL COLLEGE","38","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Saint Lawrence","Central NY","MASSENA MEMORIAL HOSPITAL","116","1","0.86","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Schenectady","Hudson River","CATHOLIC CHARITIES/ALBANY AI","21","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Manhattan","New York City","ST. DOMINIC'S HOME","23","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Monroe","Western NY","HILLSIDE CHILDREN'S CENTER","111","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Columbia","Hudson River","MENTAL HEALTH ASSOC/COLUMBIA-GREENE COS., INC","69","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Onondaga","Central NY","DIGESTIVE DISEASE CTR CNTRL NY LLC","25","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","BRONX-LEBANON HOSPITAL CENTER","1227","2","0.16","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Erie","Western NY","COMM HLTH CTR BUFFALO INC","32","1","3.13","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Erie","Western NY","BUFFALO FEDERATION/NEIGHBORHOOD CENTERS, INC.","70","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","COMMUNITY HEALTHCARE NETWORK, INC.","175","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","OMH STATE PC NETWORK","64","1","1.56","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Chautauqua","Western NY","UPMC CHAUTAUQUA AT WCA","42","1","2.38","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Albany","Hudson River","ALBANY MEMORIAL HOSPITAL","143","1","0.7","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","THE FLOATING HOSPITAL, INC.","23","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Orange","Hudson River","ACCESS: SUPPORTS FOR LIVING, INC.","128","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Schenectady","Hudson River","SCHENECTADY FAMILY HEALTH SER","65","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","LOWER EAST SIDE SERVICE CENTER, INC.","46","1","2.17","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Onondaga","Central NY","LIBERTY RESOURCES, INC.","60","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","KINGSBORO PSYCHIATRIC CENTER","23","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Albany","Hudson River","CAPITAL DISTRICT PSYCHIATRIC CENTER","39","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Warren","Hudson River","CITIZEN ADVOCATES, INC. DBA NORTH STAR INDUST","22","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Washington","Hudson River","WARREN-WASHINGTON ASSOCIATION FOR MENTAL HEAL","42","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","NORTH SHORE-LONG ISLAND JEWISH HEALTH SYSTEM","59","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Suffolk","Long Island","BRUNSWICK HOSPITAL CENTER, INC.","23","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Albany","Hudson River","SAMARITAN HOSPITAL","31","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","POSTGRADUATE CENTER FOR MENTAL HEALTH, INC.","528","4","0.76","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Steuben","Western NY","CORNING HOSP","156","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","BROOKDALE FAMILY CARE CTR INC","61","2","3.28","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","ST. BARNABAS HOSPITAL","93","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","PSCH, INC.","167","1","0.6","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Monroe","Western NY","FINGER LAKES ADDICTIONS COUNS & REFERRAL AGCY","49","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Putnam","Hudson River","PUTNAM HOSPITAL CENTER","25","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Greene","Hudson River","COLUMBIA MEMORIAL HOSPITAL","41","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Saint Lawrence","Central NY","ST. LAWRENCE PSYCHIATRIC CENTER","36","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Staten Island","New York City","BRIGHTPOINT HEALTH","26","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Westchester","Hudson River","ROCKLAND CHILDREN'S PSYCHIATRIC CENTER","48","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Albany","Hudson River","BROOKHAVEN MEMORIAL HOSPITAL MEDICAL CENTER","49","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Broome","Central NY","GREATER BINGHAMTON HEALTH CENTER","59","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Albany","Hudson River","WHITNEY M YOUNG HEALTH CENTER","140","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Putnam","Hudson River","UCPA OF PUTNAM & SO DUTCHESS","36","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Saint Lawrence","Central NY","CENTRAL NEW YORK HEALTH HOME NETWOR","22","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","MONTEFIORE MEDICAL CENTER","1895","7","0.37","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Albany","Hudson River","OMH STATE PC NETWORK","1382","11","0.8","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","NEW YORK UNIVERSITY HOSPITALS CENTER","309","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Monroe","Western NY","UNIV OF ROCH MED CTR/STRONG MEMORIAL HOSPITAL","278","4","1.44","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Westchester","Hudson River","WESTCHESTER JEWISH COMMUNITY SERVICES, INC.","78","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","SLA ASSOCIATES LLC","42","0","0","NA",
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","UNIVERSITY HOSPITAL OF BROOKLYN","272","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","PALLADIA, INC.","76","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","THE FLOATING HOSPITAL, INC.","42","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC NORTH CENTRAL BRONX HOSPITAL","348","1","0.29","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","PIBLY RESIDENTIAL PROGRAMS, INC.","61","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","ST. BARNABAS HOSPITAL","1481","1","0.07","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","PROJECT RENEWAL","156","1","0.64","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","THE BRIDGE, INC.","147","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC AGENCY NETWORK","7288","13","0.18","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","OMH STATE PC NETWORK","366","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","VOCATIONAL INSTRUCTION PROJECT COMM. SVCS, IN","158","1","0.63","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","ST. JOSEPH'S MEDICAL CENTER","103","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","POSTGRADUATE CENTER FOR MENTAL HEALTH, INC.","34","1","2.94","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","STEINWAY CHILD AND FAMILY SERVICES, INC.","217","2","0.92","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Staten Island","New York City","S I BEHAVIORAL NETWORK  MH","128","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","NYC-HHC CUMBERLAND D+T CENTER","107","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC CUMBERLAND D+T CENTER","89","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Staten Island","New York City","RICHMOND MEDICAL CENTER DBA RICHMOND UMC","626","6","0.96","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","WESTON UNITED COMMUNITY RENEWAL, INC.","75","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","URBAN PATHWAYS","27","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","NYC-HHC ELMHURST HOSPITAL CENTER","602","1","0.17","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC CONEY ISLAND HOSPITAL","294","1","0.34","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","NYC-HHC AGENCY NETWORK","1058","4","0.38","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","WEST MIDTOWN MEDICAL GROUP","119","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","RIVERDALE MENTAL HEALTH ASSOCIATION, INC.","101","1","0.99","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC BELLEVUE HOSPITAL CENTER","903","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","NY COMMUNITY HOSP OF BROOKLYN","137","1","0.73","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","PAUL J. COOPER CENTER FOR HUMAN SERVICES, INC","113","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","OMH STATE PC NETWORK","182","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","NYS CATHOLIC HEALTH PLAN INC","160","1","0.63","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC QUEENS HOSPITAL CENTER","514","2","0.39","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","SERVICES FOR THE UNDERSERVED","33","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC ELMHURST HOSPITAL CENTER","576","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","SALVATION ARMY AI","48","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","VIDACARE INC SN","39","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","UNIV. CONSULTATION & TX CTR FOR MH, INC.","74","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","OHEL CHILDREN'S HOME & FAMILY SERVICES, INC.","115","1","0.87","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","NYC-HHC MORRISANIA DIAGNOSTIC & TREATMENT CTR","55","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","VILLAGE CENTER FOR CARE AI","183","1","0.55","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","NYC-HHC LINCOLN MEDICAL & MENTAL HEALTH CENTE","579","3","0.52","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","STATEN ISLAND UNIVERSITY HOSPITAL","75","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","THE FIFTH AVENUE COUNSELING CENTER, INC.","22","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","WILLIAM F. RYAN COMMUNITY HEALTH CENTER","129","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","PARK SLOPE CENTER FOR MENTAL HEALTH, INC.","60","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","UNIVERSITY BEHAVIORAL ASSOCIATES IN","675","4","0.59","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","URBAN HEALTH PLAN INC","228","1","0.44","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","SPANISH SPEAKING ELDERLY COUNCIL-RAICES, INC.","28","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","THE BRIDGE, INC.","38","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","PSCH, INC.","407","1","0.25","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","SOUND SHORE MEDICAL CENTER","81","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","QUEENS VLG COM FOR MH/J CAP","32","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC EAST NEW YORK D&T CENTER","71","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","WELLCARE OF NEW YORK INC","25","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","SAFE SPACE NYC, INC.","22","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Staten Island","New York City","STATEN ISLAND UNIVERSITY HOSPITAL","682","5","0.73","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NYC-HHC MORRISANIA DIAGNOSTIC & TREATMENT CTR","69","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","START TREATMENT & RECOVERY CENTERS, INC.","203","1","0.49","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","ODA PRIMARY HLTH CARE CTR,INC","37","1","2.7","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","RYAN/CHELSEA CLINTON COMM H C","24","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","START TREATMENT & RECOVERY CENTERS, INC.","165","1","0.61","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","NORTH SHORE UN HSP FOREST HIL","163","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","NORTH CROWN HGHTS FAM OUTRCH","25","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","NNCC DBA NEIGHBORHOOD COUNSELING CENTER, INC.","69","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NEW YORK UNIVERSITY HOSPITALS CENTER","145","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","NEW YORK SERVICE NETWORK INC","25","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","NEW YORK PSYCHOTHERAPY AND COUNSELING CENTER","387","1","0.26","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Bronx","New York City","NEW YORK PSYCHOTHERAPY AND COUNSELING CENTER","61","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NEW YORK PSYCHIATRIC INSTITUTE","177","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NEW YORK PRESBYTERIAN HOSPITAL","1564","4","0.26","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","NEW YORK HOSPITAL MEDICAL CENTER OF QUEENS","255","2","0.78","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NEW YORK HOSPITAL MEDICAL CENTER OF QUEENS","213","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NEW YORK GRACIE SQUARE HOSPITAL, INC., THE","56","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","NEW YORK FLUSHING HOSPITAL AND MEDICAL CENTER","399","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","NEW HORIZON COUNSELING CENTER, INC., THE","290","2","0.69","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","NATIONAL ASSOCIATION ON DRUG ABUSE","330","1","0.3","NO","0.41"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Queens","New York City","NARCO FREEDOM, INC.","58","0","0","NO","0.41"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Queens","New York City","LI JEWISH MEDICAL CENTER ZUCKER HILLSIDE DIV","123","6","4.88","NO","3.42"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Brooklyn","New York City","JEWISH CHILD CARE ASSOCIATION OF NEW YORK","83","0","0","NO","3.42"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Fulton","Central NY","County","227","0","0","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","MH SERVS-ERIE CO SE CORP V DBA SPECTRUM HSVCS","93","13","13.98","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Genesee","Western NY","GENESEE COUNCIL ON ALCOHOLISM","21","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","COMMUNITY MISSIONS, INC.","24","5","20.83","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Broome","Central NY","OMH STATE PC NETWORK","36","8","22.22","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","THE INSTITUTE FOR FAMILY HEALTH","129","5","3.88","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","HUDSON VALLEY COMMUNITY SERVICES, INC.","134","13","9.7","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","FAMILY SERVICES NETWORK NY AI","136","6","4.41","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","BRONX-LEBANON HOSPITAL CENTER","46","3","6.52","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","FLUSHING ENDOSCOPY CENTER LLC","26","1","3.85","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","LONG ISLAND FQHC, INC.","36","8","22.22","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Cayuga","Central NY","CAYUGA COUNTY COMMUNITY SERVICES BOARD","37","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Manhattan","New York City","NYC-HHC AGENCY NETWORK","576","10","1.74","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Broome","Central NY","SOUTHERN TIER AIDS PROGRAM AI","85","1","1.18","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chautauqua","Western NY","TLC HEALTH NETWORK","77","6","7.79","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Chautauqua","Western NY","UPMC CHAUTAUQUA AT WCA","115","1","0.87","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","FAMILY SERVICES NETWORK NY AI","74","6","8.11","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","FAMILY SERVICE LEAGUE, INC.","83","1","1.2","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","POSTGRADUATE CENTER FOR MENTAL HEALTH, INC.","186","35","18.82","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Warren","Hudson River","WARRENSBURG HEALTH CENTER","109","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Clinton","Central NY","CLINTON COUNTY COMMUNITY SERVICES BOARD","26","2","7.69","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","MONTEFIORE MEDICAL CENTER","1271","149","11.72","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ontario","Western NY","CLIFTON SPRINGS HOSPITAL AND CLINIC","118","14","11.86","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","BRIGHTPOINT HEALTH","187","21","11.23","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","MONTEFIORE MEDICAL CENTER","37","5","13.51","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cattaraugus","Western NY","SOUTHERN TIER COMMUNITY HLTH","49","6","12.24","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","JEWISH BOARD OF FAMILY & CHILDREN'S SERVICES","110","16","14.55","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","UCP ASSO OF GREATER SUFFOLK","72","17","23.61","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","NEW YORK GRACIE SQUARE HOSPITAL, INC., THE","69","8","11.59","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","CAPITAL DISTRICT PSYCHIATRIC CENTER","39","3","7.69","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","BUFFALO HEARING & SPEECH CTR","26","5","19.23","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","NORTH SHORE UNIVERSITY HOSPITAL AT GLEN COVE","39","3","7.69","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","COMMUNITY CARE MANAGEMENT PARTNERS","72","6","8.33","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Westchester","Hudson River","ST. JOHN'S RIVERSIDE HOSPITAL","25","1","4","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","MOUNT SINAI MEDICAL CENTER","29","5","17.24","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","NATIONAL ASSOCIATION ON DRUG ABUSE PROBLEMS","347","29","8.36","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","MERCY MEDICAL CENTER","84","8","9.52","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","EPISCOPAL HEALTH SERVICES INC.","249","49","19.68","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Broome","Central NY","UNITED HEALTH SERVICES HOSPITALS, INC.","383","15","3.92","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Herkimer","Central NY","PROMESA, INC.","133","9","6.77","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ontario","Western NY","F F THOMPSON HOSPITAL","43","7","16.28","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","MENTAL HEALTH ASSOCIATION OF NASSAU COUNTY, I","50","4","8","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Erie","Western NY","CHILD & ADOLESCENT TREATMENT SERVICES, INC.","43","2","4.65","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Madison","Central NY","ONEIDA HEALTHCARE CENTER","30","10","33.33","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","DIASPORA COMMUNITY SERVICES  AI","25","4","16","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Monroe","Western NY","CHHUNY LLC","515","19","3.69","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Allegany","Western NY","JONES MEMORIAL HOSPITAL","110","12","10.91","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","QUEENS COUNTY NEUROPSYCHIATRIC INSTITUTE, INC","68","9","13.24","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Sullivan","Hudson River","CATSKILL REGIONAL MEDICAL CENTER","229","38","16.59","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Jefferson","Central NY","NORTH COUNTRY TRANSITIONAL LIVING SERVS, INC.","110","9","8.18","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","NORTH SHORE UNIV AT PLAINVIEW","92","14","15.22","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Otsego","Central NY","AURELIA OSBORN FOX MEM HOSP","44","1","2.27","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","PHELPS MEMORIAL HOSPITAL CENTER","292","35","11.99","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","NORTHWEST BUFFALO COMM H C","165","17","10.3","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Staten Island","New York City","RICHMOND MEDICAL CENTER DBA RICHMOND UMC","382","80","20.94","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","QUEENS COORDINATED CARE PARTNERS, LLC","302","43","14.24","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","BEVERLEY MACK HARRY CONSULTING SERVICES, INC.","31","2","6.45","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Westchester","Hudson River","OMH STATE PC NETWORK","48","1","2.08","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","MIDDLETOWN COMM HEALTH CENTER","100","19","19","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","CATHOLIC CHARITIES OF ROCKVILLE CENTRE","27","7","25.93","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Onondaga","Central NY","SYRACUSE COMM HEALTH CTR  INC","31","3","9.68","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Staten Island","New York City","STATEN ISLAND BEHAVIORAL NETWORK, INC.","131","25","19.08","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","THE INSTITUTE FOR FAMILY HEALTH","1195","116","9.71","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","DIASPORA COMMUNITY SERVICES  AI","74","6","8.11","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","BRONXWORKS, INC.","160","11","6.88","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","ROSWELL PARK CANCER INST","121","13","10.74","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","SOUTHAMPTON HOSPITAL","63","8","12.7","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Sullivan","Hudson River","SDTC THE CENTER FOR DISCOVERY","100","14","14","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Albany","Hudson River","UCP ASSN OF THE CAPITAL DIST","39","3","7.69","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","PUERTO RICAN FAMILY INSTITUTE, INC.","66","12","18.18","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","CATHOLIC CHARITIES OF ROCKVILLE CENTRE","21","1","4.76","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","ST. PETER'S HOSPITAL","260","17","6.54","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","FEDERATION OF ORG. F/T NYS MENT.DISABLED, INC","63","10","15.87","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Saratoga","Hudson River","TRANSITIONAL SERVICES ASSOCIATION, INC.","35","2","5.71","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","ACCESS: SUPPORTS FOR LIVING, INC.","92","21","22.83","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","GOOD SAMARITAN HOSP MED CTR","43","11","25.58","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","NEW YORK PSYCHOTHERAPY AND COUNSELING CENTER","46","4","8.7","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","NORTHPOINTE COUNCIL, INC.","57","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Statewide","Statewide","Statewide","Statewide","884","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Statewide","Statewide","Statewide","Statewide","2044","1","0.05","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Statewide","Statewide","Statewide","Statewide","3268","1","0.03","NA",
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","GREATER BUFFALO UNITED IPA","389","31","7.97","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ontario","Western NY","GENEVA GENERAL HOSPITAL","154","16","10.39","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Genesee","Western NY","GENESEE COUNTY MENTAL HEALTH SERVICES","110","3","2.73","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Genesee","Western NY","GENESEE COUNCIL ON ALCOHOLISM","22","1","4.55","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Wayne","Western NY","FINGER LAKES MIGRANT HLTH","31","1","3.23","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ontario","Western NY","FINGER LAKES MIGRANT HLTH","39","2","5.13","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ontario","Western NY","FINGER LAKES ADDICTIONS COUNS & REFERRAL AGCY","111","4","3.6","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","FINGER LAKES ADDICTIONS COUNS & REFERRAL AGCY","64","2","3.13","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","FDR MEDICAL SERVICES PC","22","3","13.64","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chemung","Western NY","FAMILY SERVICES OF CHEMUNG COUNTY, INC.","234","16","6.84","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","FAMILY & CHILDREN'S SERVICES OF NIAGARA, INC.","73","4","5.48","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","FAMILY & CHILDREN'S SERVICES OF NIAGARA, INC.","90","5","5.56","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ontario","Western NY","F F THOMPSON HOSPITAL","198","9","4.55","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","ERIE COUNTY MEDICAL CENTER","890","96","10.79","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","ELMWOOD HEALTH CENTER","87","12","13.79","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chemung","Western NY","ELMIRA PSYCHIATRIC CENTER","28","7","25","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Seneca","Western NY","ELMIRA PSYCHIATRIC CENTER","37","8","21.62","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chautauqua","Western NY","EHS, INC.","23","7","30.43","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","EHS, INC.","211","22","10.43","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","EASTERN NIAGARA HOSPITAL, INC.","177","11","6.21","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","EASTER SEALS NEW YORK, INC.","132","24","18.18","YES","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","EAST HOUSE CORPORATION","53","7","13.21","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cattaraugus","Western NY","DIRECTIONS IN INDEPENDENT LIV MH","43","3","6.98","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","DEPAUL COMMUNITY SERVICES, INC.","83","11","13.25","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Allegany","Western NY","CUBA MEMORIAL HSP         INC","29","3","10.34","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Livingston","Western NY","COUNCIL ALCOHOL SUB ABUSE LIVINGSTN","57","4","7.02","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Steuben","Western NY","CORNING HOSP","140","6","4.29","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","COMMUNITY MISSIONS, INC.","38","5","13.16","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","COMMUNITY CONCERN OF WESTERN NEW YORK INC.","22","2","9.09","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","COMMUNITY ACTION ORG ERIE CTY","28","0","0","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","COMM HLTH CTR BUFFALO INC","22","0","0","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","COMM HLTH CTR BUFFALO INC","118","13","11.02","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ontario","Western NY","CLIFTON SPRINGS HOSPITAL AND CLINIC","178","11","6.18","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","CHILD AND FAMILY SERVICES OF ERIE COUNTY","39","3","7.69","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cattaraugus","Western NY","CHAUTAUQUA COUNTY MENTAL HYGIENE SERVICES","41","5","12.2","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","CHAUTAUQUA COUNTY MENTAL HYGIENE SERVICES","37","14","37.84","YES","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chautauqua","Western NY","CHAUTAUQUA COUNTY MENTAL HYGIENE SERVICES","469","59","12.58","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","CENTER FOR AMBULATORY SURGERY","21","1","4.76","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Tompkins","Western NY","CAYUGA MEDICAL CENTER AT ITHACA, INC.","228","16","7.02","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cattaraugus","Western NY","CATTARAUGUS REHABILITATION CENTER, INC.","53","9","16.98","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cattaraugus","Western NY","CATTARAUGUS COUNTY DEPARTMENT OF COMMUNITY SE","149","20","13.42","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cattaraugus","Western NY","CATTARAUGUS CNTY ALCHL&SUB AB","31","1","3.23","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","CATHOLIC FAMILY CENTER","97","4","4.12","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","CATH CHAR COMM & RES SVC AI M","151","12","7.95","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ontario","Western NY","CATH CHAR COMM & RES SVC AI M","70","3","4.29","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chautauqua","Western NY","BUFFALO PSYCHIATRIC CENTER","55","11","20","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","BUFFALO PSYCHIATRIC CENTER","167","37","22.16","YES","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","BUFFALO PSYCHIATRIC CENTER","36","9","25","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","BUFFALO GENERAL HOSP","336","39","11.61","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","BUFFALO GENERAL HOSP","22","1","4.55","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","BUFFALO FEDERATION/NEIGHBORHOOD CENTERS, INC.","136","19","13.97","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","BUFFALO BEACON CORP","77","3","3.9","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","BRYLIN HOSPITALS, INC.","44","2","4.55","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","BRYLIN HOSPITALS, INC.","21","0","0","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chautauqua","Western NY","BROOKS MEMORIAL HOSPITAL","127","16","12.6","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","BERTRAND CHAFFEE HOSPITAL","41","6","14.63","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","BEHAVIORAL HEALTH NETWORK, INC.","294","15","5.1","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","ASPIRE OF WESTERN NEW YORK IN","170","19","11.18","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chemung","Western NY","ARNOT OGDEN MEDICAL CENTER","260","14","5.38","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","ANTHONY L. JORDAN HEALTH CENTER","306","15","4.9","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Allegany","Western NY","ALLEGANY REHABILITATION ASSOCIATES, INC.","105","9","8.57","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Allegany","Western NY","ALLEGANY COUNTY MENTAL HEALTH ASSOCIATION","25","6","24","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","ALICE HYDE MEDICAL CENTER","39","1","2.56","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Tompkins","Western NY","ALC & SUB. ABUSE RECOVERY SVC COU. OF TOMPKIN","22","0","0","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","A C CENTER INC","80","2","2.5","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Wayne","Western NY","WAYNE BEHAVIORAL HEALTH NETWORK","103","7","6.8","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","VNA OF WESTERN NY INC","21","0","0","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","UNIVERSITY EMERGENCY MED SVCS","112","12","10.71","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","UNIV OF ROCH MED CTR/STRONG MEMORIAL HOSPITAL","1610","116","7.2","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Genesee","Western NY","UNITED MEMORIAL MEDICAL CTR","214","6","2.8","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","UNITED CEREBRAL PALSY ROCH","32","8","25","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","TRANSITIONAL SERVICES, INC.","99","13","13.13","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Tompkins","Western NY","TOMPKINS COUNTY MENTAL HEALTH SERVICES","126","12","9.52","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cattaraugus","Western NY","TLC HEALTH NETWORK","32","2","6.25","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chautauqua","Western NY","TLC HEALTH NETWORK","104","14","13.46","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Tioga","Western NY","TIOGA COUNTY DEPARTMENT OF MENTAL HYGIENE","47","12","25.53","YES","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","THE UNITY HOSPITAL OF ROCHESTER","814","50","6.14","NO","8.57"
+"2017-02-14T00:00:00.000","2016-10-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","THE DALE ASSOCIATION, INC.","67","3","4.48","NO","8.57"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","MONSIGNOR CARR INSTITUTE, INC.","80","3","3.75","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","GREATER BINGHAMTON HEALTH CENTER","40","3","7.5","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","UCP ASSN OF THE CAPITAL DIST","218","47","21.56","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Clinton","Central NY","CHAMPLAIN VALLEY PHYSICIANS HOSP MED CENTER","69","6","8.7","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Warren","Hudson River","WARRENSBURG HEALTH CENTER","108","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Otsego","Central NY","BASSETT HEALTHCARE","574","44","7.67","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","HUDSON RIVER HEALTH CARE","191","49","25.65","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","NORTHERN DUTCHESS HOSPITAL","121","12","9.92","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","BRONX AIDS SERVICE AI","266","20","7.52","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","GOOD SAMARITAN HOSP MED CTR","267","28","10.49","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Ulster","Hudson River","ASTOR SERVICES FOR CHILDREN & FAMILIES","34","2","5.88","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","PEDERSON KRAG CENTER INC","37","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Onondaga","Central NY","HUTCHINGS PSYCHIATRIC CENTER","65","1","1.54","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Onondaga","Central NY","HILLSIDE CHILDREN'S CENTER","33","3","9.09","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cattaraugus","Western NY","DIRECTIONS IN INDEPENDENT LIV MH","42","1","2.38","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Monroe","Western NY","NEW DIRECTIONS YOUTH & FAMILY SERVICES, INC.","21","1","4.76","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","BRONX-LEBANON HOSPITAL CENTER","103","12","11.65","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","CAMBA, INC.","642","53","8.26","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Steuben","Western NY","HUTHER-DOYLE MEMORIAL INSTITUTE, INC.","45","6","13.33","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Erie","Western NY","BAKER HALL, INC. DBA BAKER VICTORY SERVICES","32","1","3.13","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chautauqua","Western NY","UPMC CHAUTAUQUA AT WCA","379","35","9.23","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","HONOR EHG, INC.","70","7","10","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","MARGARET SANGER CTR","86","6","6.98","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Albany","Hudson River","ALBANY COUNTY DEPARTMENT OF MENTAL HEALTH","41","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Niagara","Western NY","NIAGARA FALLS MEMORIAL MEDICAL CENTER","48","1","2.08","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Manhattan","New York City","THE NEW YORK AND PRESBYTERIAN HOSPITAL","196","7","3.57","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Clinton","Central NY","ADIRONDACK HEALTH INSTITUTE INC","24","2","8.33","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","NEW YORK UNIVERSITY HOSPITALS CENTER","773","77","9.96","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Onondaga","Central NY","CENTRAL NEW YORK HEALTH HOME NETWOR","58","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","SALVATION ARMY AI","78","10","12.82","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","FAMILY AND CHILDREN'S ASSOCIATION","49","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Monroe","Western NY","THE UNITY HOSPITAL OF ROCHESTER","31","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Staten Island","New York City","SOUTH BEACH PSYCHIATRIC CENTER","30","15","50","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Jefferson","Central NY","UCPA OF THE NORTH COUNTRY","31","6","19.35","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","MONTEFIORE MEDICAL CENTER","4919","481","9.78","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Saint Lawrence","Central NY","CANTON-POTSDAM HOSPITAL","34","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Erie","Western NY","MERCY HOSPITAL OF BUFFALO","39","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","LAKE SHORE BEHAVIORAL HEALTH, INC.","630","69","10.95","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","JEWISH BOARD OF FAMILY & CHILDREN'S SERVICES","380","60","15.79","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Staten Island","New York City","JEWISH BOARD OF FAMILY & CHILDREN'S SERVICES","22","2","9.09","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","L I ASSOC FOR AIDS CARE AI","59","1","1.69","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","ORANGE COUNTY DEPARTMENT OF MENTAL HEALTH","71","5","7.04","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","SPANISH SPEAKING ELDERLY COUNCIL-RAICES, INC.","28","3","10.71","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","UNITED CEREBRAL PALSY ROCH","31","7","22.58","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Bronx","New York City","ASTOR SERVICES FOR CHILDREN & FAMILIES","134","2","1.49","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","INTERLINE EMP ASST PROG INC","29","3","10.34","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","FOOT CLINICS OF NY","51","10","19.61","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","ROCHESTER PSYCHIATRIC CENTER","32","10","31.25","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Broome","Central NY","OUR LADY OF LOURDES MEMORIAL HOSPITAL","357","25","7","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Manhattan","New York City","NYC-HHC JACOBI MEDICAL CENTER","58","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Saratoga","Hudson River","VISITING NURS SVC/SCHTD & SAR CNTY","52","7","13.46","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","NYC-HHC WOODHULL MEDICAL & MENTAL HEALTH CENT","367","44","11.99","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","PECONIC BAY MED CTR","142","14","9.86","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Staten Island","New York City","COMMUNITY HEALTH ACTION OF SI","198","16","8.08","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cattaraugus","Western NY","CATTARAUGUS COUNTY DEPARTMENT OF COMMUNITY SE","133","21","15.79","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","OMH STATE PC NETWORK","132","38","28.79","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Brooklyn","New York City","NYC-HHC EAST NEW YORK D&T CENTER","33","1","3.03","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Onondaga","Central NY","ONONDAGA CASE MGMNT SERVICES, INC DBA CIRCARE","739","109","14.75","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","COMMUNITY COUNSELING AND MEDIATION, INC.","201","15","7.46","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Saratoga","Hudson River","THE SARATOGA HOSPITAL","307","33","10.75","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Albany","Hudson River","PARSONS CHILD AND FAMILY CENTER","229","24","10.48","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","UNITED BRONX PARENTS, INC.","395","35","8.86","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","COMUNILIFE, INC.","89","5","5.62","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","AHRC HEALTH CARE INC","275","44","16","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Jefferson","Central NY","SAMARITAN MEDICAL CENTER","58","1","1.72","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ontario","Western NY","SOLDIERS & SAILORS MEMORIAL HOSPITAL","38","2","5.26","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Steuben","Western NY","CORNING HOSP","24","2","8.33","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chautauqua","Western NY","BROOKS MEMORIAL HOSPITAL","139","13","9.35","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Albany","Hudson River","ALBANY CTY DEPT FOR CHILDREN,YOUTH & FAMILIES","26","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","BRONX-LEBANON HOSPITAL CENTER","285","29","10.18","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Onondaga","Central NY","SYRACUSE COMM HEALTH CTR  INC","257","25","9.73","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","ALBANY MEDICAL COLLEGE OF UNI","168","12","7.14","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","PILGRIM PSYCHIATRIC CENTER","93","31","33.33","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Greene","Hudson River","GREENE COUNTY COMMUNITY SERVICES BOARD","32","3","9.38","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","MONTEFIORE NEW ROCHELLE HOSP","148","14","9.46","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Westchester","Hudson River","WIHD INC","61","8","13.11","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","BIKUR CHOLIM, INC.","46","2","4.35","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Broome","Central NY","GREATER BINGHAMTON HEALTH CENTER","63","2","3.17","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Manhattan","New York City","BETH ISRAEL MEDICAL CENTER","63","1","1.59","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cortland","Central NY","FAMILY COUNSELING SERVICES OF CORTLAND CO.INC","73","4","5.48","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","POSTGRADUATE CENTER FOR MENTAL HEALTH, INC.","54","13","24.07","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Cattaraugus","Western NY","CATTARAUGUS COUNTY DEPARTMENT OF COMMUNITY SE","66","0","0","NA",
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Fulton","Central NY","County","227","0","0","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Fulton","Central NY","County","227","0","0","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","County","Lewis","Central NY","County","28","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Herkimer","Central NY","County","425","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Herkimer","Central NY","County","425","0","0","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Herkimer","Central NY","County","425","0","0","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Herkimer","Central NY","County","425","0","0","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Schuyler","Western NY","County","69","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Schuyler","Western NY","County","69","0","0","NA","0.12"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Schuyler","Western NY","County","69","0","0","NA","0.36"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Schuyler","Western NY","County","69","0","0","NA","0.57"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Schuyler","Western NY","County","69","0","0","NA","0.99"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Nassau","Long Island","County","4911","23","0.47","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Nassau","Long Island","County","4911","23","0.47","NA","0.19"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Nassau","Long Island","County","4911","23","0.47","NA","0.32"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Nassau","Long Island","County","4911","23","0.47","NA","0.4"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Nassau","Long Island","County","4911","23","0.47","NA","0.96"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Otsego","Central NY","County","582","4","0.69","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Otsego","Central NY","County","582","4","0.69","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Otsego","Central NY","County","582","4","0.69","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Otsego","Central NY","County","582","4","0.69","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Chenango","Central NY","County","139","1","0.72","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Chenango","Central NY","County","139","1","0.72","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Chenango","Central NY","County","139","1","0.72","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Chenango","Central NY","County","139","1","0.72","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Hamilton","Central NY","County","3","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Hamilton","Central NY","County","3","0","0","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Hamilton","Central NY","County","3","0","0","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Hamilton","Central NY","County","3","0","0","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Ontario","Western NY","County","3","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Ontario","Western NY","County","3","0","0","NA","0.12"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Ontario","Western NY","County","3","0","0","NA","0.36"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Ontario","Western NY","County","3","0","0","NA","0.57"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Ontario","Western NY","County","3","0","0","NA","0.99"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","County","Sullivan","Hudson River","County","50","0","0","NA","0.13"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Queens","New York City","County","2367","27","1.14","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Queens","New York City","County","2367","27","1.14","NA","0.1"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Queens","New York City","County","2367","27","1.14","NA","0.28"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Queens","New York City","County","2367","27","1.14","NA","0.35"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Queens","New York City","County","2367","27","1.14","NA","0.45"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Queens","New York City","County","2367","27","1.14","NA","1.06"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Albany","Hudson River","County","732","5","0.68","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Albany","Hudson River","County","732","5","0.68","NA","0.24"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Albany","Hudson River","County","732","5","0.68","NA","0.47"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Albany","Hudson River","County","732","5","0.68","NA","0.52"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Albany","Hudson River","County","732","5","0.68","NA","1.26"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Albany","Hudson River","County","732","5","0.68","NA","1.49"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","County","Livingston","Western NY","County","47","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Chenango","Central NY","County","30","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Chenango","Central NY","County","30","0","0","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Chenango","Central NY","County","30","0","0","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Chenango","Central NY","County","30","0","0","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Erie","Western NY","County","3206","15","0.47","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Erie","Western NY","County","3206","15","0.47","NA","0.12"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Erie","Western NY","County","3206","15","0.47","NA","0.36"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Erie","Western NY","County","3206","15","0.47","NA","0.57"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Erie","Western NY","County","3206","15","0.47","NA","0.99"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Madison","Central NY","County","317","1","0.32","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Madison","Central NY","County","317","1","0.32","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Madison","Central NY","County","317","1","0.32","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Madison","Central NY","County","317","1","0.32","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Broome","Central NY","County","144","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Broome","Central NY","County","144","0","0","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Broome","Central NY","County","144","0","0","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Broome","Central NY","County","144","0","0","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Saint Lawrence","Central NY","County","99","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Saint Lawrence","Central NY","County","99","0","0","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Saint Lawrence","Central NY","County","99","0","0","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Saint Lawrence","Central NY","County","99","0","0","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Lewis","Central NY","County","17","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Lewis","Central NY","County","17","0","0","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Lewis","Central NY","County","17","0","0","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Lewis","Central NY","County","17","0","0","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Westchester","Hudson River","County","5","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Westchester","Hudson River","County","5","0","0","NA","0.24"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Westchester","Hudson River","County","5","0","0","NA","0.47"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Westchester","Hudson River","County","5","0","0","NA","0.52"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Westchester","Hudson River","County","5","0","0","NA","1.26"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Westchester","Hudson River","County","5","0","0","NA","1.49"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","County","Cayuga","Central NY","County","48","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Allegany","Western NY","County","181","2","1.1","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Allegany","Western NY","County","181","2","1.1","NA","0.12"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Allegany","Western NY","County","181","2","1.1","NA","0.36"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Allegany","Western NY","County","181","2","1.1","NA","0.57"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Allegany","Western NY","County","181","2","1.1","NA","0.99"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Oswego","Central NY","County","383","1","0.26","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Oswego","Central NY","County","383","1","0.26","NA","0.31"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Oswego","Central NY","County","383","1","0.26","NA","0.41"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Oswego","Central NY","County","383","1","0.26","NA","0.73"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","County","Erie","Western NY","County","525","0","0","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","0-17","County","Warren","Hudson River","County","216","0","0","NA","0.13"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Suffolk","Long Island","County","3948","14","0.35","NA","0"
+"2017-05-20T00:00:00.000","2017-04-01T00:00:00.000","Polypharmacy","3AP","18+","County","Suffolk","Long Island","County","3948","14","0.35","NA","0.19"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","MEMORIAL HSP CANCER ALLIED","55","4","7.27","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Statewide","Statewide","Statewide","Statewide","2112","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Statewide","Statewide","Statewide","Statewide","37393","179","0.48","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Statewide","Statewide","Statewide","Statewide","8180","33","0.4","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Statewide","Statewide","Statewide","Statewide","2978","3","0.1","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Statewide","Statewide","Statewide","Statewide","7530","29","0.39","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Statewide","Statewide","Statewide","Statewide","6541","23","0.35","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Statewide","Statewide","Statewide","Statewide","3268","114","3.49","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Statewide","Statewide","Statewide","Statewide","37393","4144","11.08","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Statewide","Statewide","Statewide","Statewide","16344","2151","13.16","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Statewide","Statewide","Statewide","Statewide","6541","549","8.39","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Statewide","Statewide","Statewide","Statewide","2978","124","4.16","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Statewide","Statewide","Statewide","Statewide","2044","66","3.23","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Statewide","Statewide","Statewide","Statewide","2112","57","2.7","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Statewide","Statewide","Statewide","Statewide","884","37","4.19","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Statewide","Statewide","Statewide","Statewide","7530","920","12.22","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Statewide","Statewide","Statewide","Statewide","8180","703","8.59","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Region","Region","New York City","Region","3268","114","3.49","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Region","Region","New York City","Region","37393","4144","11.08","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Region","Region","Hudson River","Region","16344","2151","13.16","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Region","Region","Central NY","Region","6541","549","8.39","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Region","Region","Hudson River","Region","2978","124","4.16","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Region","Region","Western NY","Region","2044","66","3.23","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Region","Region","Central NY","Region","2112","57","2.7","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Region","Region","Long Island","Region","884","37","4.19","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Region","Region","Long Island","Region","7530","920","12.22","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Region","Region","Western NY","Region","8180","703","8.59","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Region","Region","Hudson River","Region","16344","88","0.54","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Region","Region","Long Island","Region","884","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Region","Region","Western NY","Region","2044","1","0.05","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Region","Region","New York City","Region","3268","1","0.03","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Region","Region","Central NY","Region","2112","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Region","Region","New York City","Region","37393","179","0.48","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Region","Region","Western NY","Region","8180","33","0.4","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Region","Region","Hudson River","Region","2978","3","0.1","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Region","Region","Long Island","Region","7530","29","0.39","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Region","Region","Central NY","Region","6541","23","0.35","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Yates","Western NY","County","30","0","0","NA","3.23"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Greene","Hudson River","County","215","17","7.91","NA","13.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Chautauqua","Western NY","County","203","6","2.96","NA","3.23"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Livingston","Western NY","County","213","12","5.63","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Washington","Hudson River","County","50","1","2","NA","4.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Cortland","Central NY","County","175","12","6.86","NA","8.39"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Monroe","Western NY","County","871","29","3.33","NA","3.23"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Columbia","Hudson River","County","38","7","18.42","NA","4.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Herkimer","Central NY","County","434","29","6.68","NA","8.39"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Ulster","Hudson River","County","133","3","2.26","NA","4.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Chenango","Central NY","County","68","4","5.88","NA","2.7"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Chemung","Western NY","County","516","53","10.27","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Saint Lawrence","Central NY","County","125","4","3.2","NA","2.7"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Suffolk","Long Island","County","4148","526","12.68","NA","12.22"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Tompkins","Western NY","County","77","1","1.3","NA","3.23"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Washington","Hudson River","County","124","13","10.48","NA","13.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Monroe","Western NY","County","2850","212","7.44","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Chenango","Central NY","County","153","10","6.54","NA","8.39"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Rockland","Hudson River","County","1264","236","18.67","NA","13.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Rensselaer","Hudson River","County","822","77","9.37","NA","13.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Niagara","Western NY","County","254","9","3.54","NA","3.23"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Herkimer","Central NY","County","38","1","2.63","NA","2.7"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Sullivan","Hudson River","County","406","77","18.97","NA","13.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Cayuga","Central NY","County","128","3","2.34","NA","2.7"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Cayuga","Central NY","County","252","32","12.7","NA","8.39"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Columbia","Hudson River","County","220","30","13.64","NA","13.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Bronx","New York City","County","1218","36","2.96","NA","3.49"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Oneida","Central NY","County","1274","98","7.69","NA","8.39"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Oneida","Central NY","County","403","10","2.48","NA","2.7"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Essex","Central NY","County","131","13","9.92","NA","8.39"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Manhattan","New York City","County","1629","60","3.68","NA","3.49"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Warren","Hudson River","County","219","4","1.83","NA","4.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Chautauqua","Western NY","County","795","87","10.94","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Jefferson","Central NY","County","148","4","2.7","NA","2.7"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Erie","Western NY","County","530","25","4.72","NA","3.23"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Yates","Western NY","County","75","10","13.33","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Delaware","Central NY","County","42","2","4.76","NA","2.7"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Staten Island","New York City","County","132","4","3.03","NA","3.49"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Schoharie","Hudson River","County","94","10","10.64","NA","13.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Montgomery","Central NY","County","145","4","2.76","NA","2.7"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Broome","Central NY","County","919","61","6.64","NA","8.39"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Allegany","Western NY","County","178","22","12.36","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Oswego","Central NY","County","357","24","6.72","NA","8.39"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Wayne","Western NY","County","138","11","7.97","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Saratoga","Hudson River","County","488","45","9.22","NA","13.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Seneca","Western NY","County","76","4","5.26","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Jefferson","Central NY","County","374","32","8.56","NA","8.39"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Schuyler","Western NY","County","79","6","7.59","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Dutchess","Hudson River","County","271","12","4.43","NA","4.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Warren","Hudson River","County","638","48","7.52","NA","13.16"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","County","Broome","Central NY","County","339","10","2.95","NA","2.7"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Steuben","Western NY","County","335","31","9.25","NA","8.59"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","County","Hamilton","Central NY","County","3","0","0","NA","8.39"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","MT VERNON NEIGHBORHOOD HC INC","27","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","MOUNT VERNON HOSPITAL, THE","126","1","0.79","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Putnam","Hudson River","PUTNAM HOSPITAL CENTER","47","1","2.13","NO","0.52"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","MID-ERIE COUNSELING AND TREATMENT SERVICES","132","7","5.3","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","NEW YORK PSYCHOTHERAPY AND COUNSELING CENTER","109","13","11.93","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Saratoga","Hudson River","WARRENSBURG HEALTH CENTER","22","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Madison","Central NY","ONEIDA HEALTHCARE CENTER","140","16","11.43","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Cayuga","Central NY","CAYUGA COUNTY COMMUNITY SERVICES BOARD","46","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Otsego","Central NY","REHABILITATION SUPPORT SERVICES, INC.","51","5","9.8","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Staten Island","New York City","COORDINATED BEHAVIORAL HEALTH CARE, INC.","290","39","13.45","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","NYACK HOSPITAL","263","44","16.73","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rockland","Hudson River","JAWONIO, INC.","214","41","19.16","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Ulster","Hudson River","MENTAL HEALTH ASSOCIATION IN ULSTER COUNTY","84","15","17.86","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","LONG ISLAND CONSULTATION CENTER, INC.","100","10","10","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","PESACH TIKVAH-HOPE DEVELOPMENT, INC.","60","4","6.67","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","BE WELL PRIMARY HLTH CARE CTR","32","3","9.38","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","PUERTO RICAN FAMILY INSTITUTE, INC.","43","4","9.3","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","ERIE COUNTY MEDICAL CENTER","857","80","9.33","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","THE NEW YORK AND PRESBYTERIAN HOSPITAL","2292","184","8.03","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","NYC-HHC CUMBERLAND D+T CENTER","136","8","5.88","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Chautauqua","Western NY","NYS ARC CHAUTAUQUA COUNTY CHAPTER AKA THE RES","259","31","11.97","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","FEDERATION OF ORG. F/T NYS MENT.DISABLED, INC","112","19","16.96","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","DIASPORA COMMUNITY SERVICES  AI","70","4","5.71","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Rensselaer","Hudson River","SAMARITAN HOSPITAL","84","5","5.95","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","ACMH, INC.","292","26","8.9","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","VISITING NURS SVC/SCHTD & SAR CNTY","110","6","5.45","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Monroe","Western NY","VILLA OF HOPE","58","2","3.45","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Manhattan","New York City","NYC-HHC WOODHULL MEDICAL & MENTAL HEALTH CENT","71","4","5.63","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","PARK SLOPE CENTER FOR MENTAL HEALTH, INC.","34","1","2.94","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","OMH STATE PC NETWORK","72","16","22.22","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","GOOD SAMARITAN HOSP MED CTR","84","3","3.57","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","ALLHEALTH DIAG & TRT CTR","32","4","12.5","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","HUDSON VALLEY CARE COALITION","1024","155","15.14","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Franklin","Central NY","ADIRONDACK HEALTH INSTITUTE INC","57","6","10.53","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","L'REFAUH MED & REHAB CTR.,INC","83","19","22.89","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","NEW YORK HOSP MED CTR QUEENS","302","18","5.96","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","WEST MIDTOWN MEDICAL GROUP","101","11","10.89","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Westchester","Hudson River","THE COLLABORATIVE FOR CHILDREN AND","36","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","BRIDGE BACK TO LIFE CENTER INC","88","7","7.95","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","NORTH SHORE UNIVERSITY HOSPITAL AT GLEN COVE","59","7","11.86","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Jefferson","Central NY","CREDO COMM. CENTER F/T TREATMENT OF ADDICTION","26","2","7.69","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","QUEENS COORDINATED CARE PARTNERS, LLC","921","117","12.7","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Orange","Hudson River","ACCESS: SUPPORTS FOR LIVING, INC.","458","68","14.85","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Albany","Hudson River","OMH STATE PC NETWORK","134","4","2.99","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","EHS, INC.","220","21","9.55","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Niagara","Western NY","COMMUNITY MISSIONS, INC.","44","8","18.18","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","POSTGRADUATE CENTER FOR MENTAL HEALTH, INC.","194","37","19.07","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","THE NEW YORK AND PRESBYTERIAN HOSPITAL","227","24","10.57","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","NYC-HHC LINCOLN MEDICAL & MENTAL HEALTH CENTE","463","48","10.37","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","COMMUNITY HEALTHCARE NETWORK, INC.","53","15","28.3","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","HUDSON VALLEY CARE COALITION","48","7","14.58","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","COMMUNITY CARE MANAGEMENT PARTNERS","169","17","10.06","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","CHARLES EVANS CENTER, INC.","179","35","19.55","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","MH SERVS-ERIE CO SE CORP V DBA SPECTRUM HSVCS","372","35","9.41","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Nassau","Long Island","MERCYFIRST","21","2","9.52","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Livingston","Western NY","COUNCIL ALCOHOL SUB ABUSE LIVINGSTN","57","1","1.75","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","BUFFALO HEARING & SPEECH CTR","27","5","18.52","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Rensselaer","Hudson River","ALBANY COUNTY DEPARTMENT OF MENTAL HEALTH","33","6","18.18","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Rensselaer","Hudson River","CHHUNY LLC","21","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Brooklyn","New York City","ODA PRIMARY HLTH CARE CTR,INC","21","1","4.76","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Niagara","Western NY","MOUNT ST MARY HSP HLTH CTR","25","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","NEW HORIZON COUNSELING CENTER, INC., THE","183","22","12.02","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Broome","Central NY","OMH STATE PC NETWORK","65","13","20","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Clinton","Central NY","CLINTON COUNTY COMMUNITY SERVICES BOARD","58","7","12.07","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Broome","Central NY","OUR LADY OF LOURDES MEMORIAL HOSPITAL","128","1","0.78","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","HASC DIAGNOSTIC & TREAT CTR","196","60","30.61","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","OUTREACH DEVELOPMENT CORPORATION","49","4","8.16","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","CENTRAL NEW YORK HEALTH HOME NETWOR","34","5","14.71","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","INSTITUTE FOR COMMUNITY LIVING, INC.","32","10","31.25","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Niagara","Western NY","OMH STATE PC NETWORK","28","1","3.57","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","HEMPSTEAD COMMUNITY HC HEMPSTEAD","98","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Herkimer","Central NY","PROMESA, INC.","282","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","HEARTSHARE WELLNESS LTD","379","6","1.58","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Ontario","Western NY","HUTHER-DOYLE MEMORIAL INSTITUTE, INC.","150","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Brooklyn","New York City","DIGESTIVE DISEASES D AND T CTR","55","1","1.82","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","BRONX PSYCHIATRIC CENTER","93","1","1.08","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Chemung","Western NY","ST. JOSEPH'S HOSPITAL","33","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Dutchess","Hudson River","VASSAR BROTHERS MED CTR","41","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Rockland","Hudson River","POSTGRADUATE CENTER FOR MENTAL HEALTH, INC.","22","1","4.55","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","LINCOLN MED MENTAL HLTH CTR AI","55","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Manhattan","New York City","JGB REHABILITATION CORP","24","0","0","NA",
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Rensselaer","Hudson River","RENSSELAER COUNTY DEPT OF MENTAL HEALTH","128","2","1.56","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","WESTCHESTER JEWISH COMMUNITY SERVICES, INC.","111","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","BEHAVIORAL ENHANCEMENT AND SUBSTANC","24","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","NEW ISLAND HOSPITAL","81","1","1.23","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","MENTAL HEALTH ASSOCIATION OF NASSAU CO., INC.","95","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","CENTRAL NASSAU GUIDANCE AND COUN. SERV., INC.","233","2","0.86","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","MARYHAVEN CENTER OF HOPE, INC.","95","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","LONG BEACH MEDICAL CENTER","27","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","LI JEWISH MEDICAL CENTER ZUCKER HILLSIDE DIV","429","3","0.7","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","L I ASSOC FOR AIDS CARE AI","41","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","PENINSULA COUNSELING CENTER, INC.","130","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","UCPA OF NASSAU COUNTY     INC","40","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","SOUTHSIDE HOSPITAL","294","2","0.68","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","PEDERSON-KRAG CENTER, INC.","412","2","0.49","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","HUNTINGTON HOSPITAL","131","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","CATHOLIC CHARITIES OF ROCKVILLE CENTRE","78","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","CENTRAL NASSAU GUIDANCE AND COUN. SERV., INC.","29","1","3.45","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","HEMPSTEAD COMMUNITY HC HEMPSTEAD","80","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","EPISCOPAL HEALTH SERVICES INC.","217","1","0.46","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","HANDS ACROSS LONG ISLAND","33","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","GOOD SAMARITAN HOSP MED CTR","181","1","0.55","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","FRANKLIN HOSPITAL MEDICAL CENTER","183","1","0.55","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","FEDERATION OF ORG. F/T NYS MENT.DISABLED, INC","294","1","0.34","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","WINTHROP-UNIVERSITY HOSPITAL","98","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","FAMILY SERVICE LEAGUE, INC.","301","1","0.33","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","FAMILY RESIDENCES&ESSENTIAL ENTERPRISES, INC.","48","3","6.25","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","FAMILY RESIDENCES&ESSENTIAL ENTERPRISES, INC.","108","2","1.85","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","UCP ASSO OF GREATER SUFFOLK","78","4","5.13","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","TRANSITIONAL SERVICES/NY FOR LONG ISLAND,INC.","37","1","2.7","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","ECON OPP COUNCIL SUFFOLK AI","71","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","THE WAY BACK, INC.","33","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","EASTERN LONG ISLAND HOSPITAL ASSOCIATION","102","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","THE LONG ISLAND HOME","111","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","COUNSELING SRV OF E D N Y INC","25","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","SUFFOLK COUNTY COMMUNITY MENTAL HYGIENE SERV","198","1","0.51","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","STATE UNIVERSITY OF NY AT STONY BROOK","468","1","0.21","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","ST. CHARLES HOSPITAL CORP.","119","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","SOUTHEAST NASSAU GUIDANCE CENTER, INC.","52","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","SOUTHAMPTON HOSPITAL","51","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","SOUTH NASSAU COMMUNITIES HOSPITAL","281","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","SKILLS UNLIMITED, INC.","32","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","CLUBHOUSE OF SUFFOLK, INC.","220","1","0.45","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","SEAFIELD SERVICES, INC.","128","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","SEAFIELD CENTER, INC.","33","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","BRUNSWICK HOSPITAL CENTER, INC.","67","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","OUTREACH DEVELOPMENT CORP","23","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","ST. CATH OF SIENA MC-D/B/A ST.CATH SIENA HOSP","168","1","0.6","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","OPTI-HEALTHCARE","285","1","0.35","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","FEDERATION EMPLOYMENT & GUIDANCE SERVICE","485","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","CATHOLIC CHARITIES OF ROCKVILLE CENTRE","106","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","OPTIONS FOR COMMUNITY LIVING, INC.","146","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","SO.SHORE ASSOCIATION F/INDEPENDENT LIVING, IN","58","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","SAYVILLE PROJECT - SUNY STONYBROOK","109","0","0","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","OMH STATE PC NETWORK","288","1","0.35","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","PECONIC BAY MED CTR","142","1","0.7","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","NASSAU HEALTH CARE CORP/NASSAU UNIV MED CTR","370","3","0.81","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","FEDERATION EMPLOYMENT & GUIDANCE SERVICE","509","2","0.39","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Suffolk","Long Island","BROOKHAVEN MEMORIAL HOSPITAL MEDICAL CENTER","417","1","0.24","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","ACLD DT","146","1","0.68","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Nassau","Long Island","MERCY MEDICAL CENTER","206","1","0.49","NO","0.44"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Bronx","New York City","NEW YORK CITY CHILDREN'S CENTER","37","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Manhattan","New York City","NORTHSIDE CENTER FOR CHILD DEVELOPMENT, INC.","34","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Brooklyn","New York City","NEW YORK CITY CHILDREN'S CENTER","50","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Queens","New York City","NEW YORK FLUSHING HOSPITAL AND MEDICAL CENTER","21","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Queens","New York City","NEW YORK CITY CHILDREN'S CENTER","63","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Bronx","New York City","ASTOR SERVICES FOR CHILDREN & FAMILIES","142","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Manhattan","New York City","NYC-HHC BELLEVUE HOSPITAL CENTER","126","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Manhattan","New York City","PUERTO RICAN FAMILY INSTITUTE, INC.","62","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Manhattan","New York City","NYC-HHC AGENCY NETWORK","679","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Bronx","New York City","NYC-HHC AGENCY NETWORK","106","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Manhattan","New York City","NEW YORK PRESBYTERIAN HOSPITAL","173","1","0.58","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Brooklyn","New York City","NEW YORK METHODIST HOSPITAL","22","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Manhattan","New York City","NEW YORK HOSPITAL MEDICAL CENTER OF QUEENS","24","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Manhattan","New York City","MOUNT SINAI MEDICAL CENTER","110","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Bronx","New York City","MORRIS HEIGHTS HEALTH CENTER","21","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Queens","New York City","NYC-HHC ELMHURST HOSPITAL CENTER","63","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Bronx","New York City","MONTEFIORE MEDICAL CENTER","253","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Bronx","New York City","BRONX-LEBANON HOSPITAL CENTER","195","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Queens","New York City","ADVANCED CENTER FOR PSYCHOTHERAPY, INC.","23","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Bronx","New York City","NYC-HHC JACOBI MEDICAL CENTER","50","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Brooklyn","New York City","NEW YORK PSYCHOTHERAPY AND COUNSELING CENTER","264","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-09-01T00:00:00.000","Polypharmacy","2AP","18+","County","Essex","Central NY","County","93","6","6.45","NO","8.73"
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Bronx","New York City","NYC-HHC LINCOLN MEDICAL & MENTAL HEALTH CENTE","58","4","6.9","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Rensselaer","Hudson River","RENSSELAER COUNTY DEPT OF MENTAL HEALTH","103","2","1.94","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","VOCATIONAL INSTRUCTION PROJECT COMM. SVCS, IN","223","18","8.07","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Jefferson","Central NY","CARTHAGE AREA HOSPITAL","27","1","3.7","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Saratoga","Hudson River","FW OF SARATOGA, INC.","184","1","0.54","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Manhattan","New York City","THE NEW YORK FOUNDLING HOSPITAL","33","1","3.03","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Onondaga","Central NY","HILLSIDE CHILDREN'S CENTER","28","2","7.14","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Sullivan","Hudson River","REHABILITATION SUPPORT SERVICES, INC.","51","23","45.1","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","PSCH, INC.","166","39","23.49","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","CATHOLIC CHARITIES NEIGHBORHOOD SERVICES, INC","141","23","16.31","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","BOWERY RESIDENTS' COMMITTEE, INC.","133","18","13.53","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","NEW YORK PSYCHIATRIC INSTITUTE","151","15","9.93","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Albany","Hudson River","CHHUNY LLC","402","13","3.23","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Franklin","Central NY","CITIZEN ADVOCATES, INC. DBA NORTH STAR INDUST","242","19","7.85","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Manhattan","New York City","THE CHILDREN'S AID SOCIETY","34","1","2.94","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Brooklyn","New York City","SCO FAMILY OF SERVICES","55","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","SAMARITAN HOSPITAL","313","32","10.22","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Wyoming","Western NY","WYOMING COUNTY COMMUNITY HOSPITAL","82","10","12.2","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Dutchess","Hudson River","LEXINGTON CTR FOR RECOVERY","29","1","3.45","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Broome","Central NY","ACCESS: SUPPORTS FOR LIVING, INC.","24","2","8.33","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","COORDINATED BEHAVIORAL HEALTH CARE, INC.","3693","504","13.65","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","VILLAGE CENTER FOR CARE AI","1298","117","9.01","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","NEW YORK NEURO AND REHAB CTR","56","5","8.93","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cortland","Central NY","ONONDAGA CASE MGMNT SERVICES, INC DBA CIRCARE","23","1","4.35","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","METRO COMMUNITY HEALTH CENTERS INC","57","17","29.82","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Brooklyn","New York City","WYCKOFF HEIGHTS MEDICAL CENTER","43","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Jefferson","Central NY","SAMARITAN MEDICAL CENTER","198","15","7.58","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","FOUR WINDS, INC.","48","7","14.58","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","NEW YORK PSYCHOTHERAPY AND COUNSELING CENTER","1049","142","13.54","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","MONTEFIORE MOUNT VERNON HOSPITAL, INC.","159","21","13.21","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","LEXINGTON CTR FOR RECOVERY","78","4","5.13","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","CHAUTAUQUA COUNTY MENTAL HYGIENE SERVICES","48","10","20.83","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","REALIZATION CENTER INC","183","12","6.56","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Orange","Hudson River","ORANGE COUNTY DEPARTMENT OF MENTAL HEALTH","48","2","4.17","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Herkimer","Central NY","UPSTATE CEREBRAL PALSY, INC.","47","3","6.38","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Schenectady","Hudson River","ALCOHOLISM COUNCIL SCHEN CNTY","37","2","5.41","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Albany","Hudson River","OFFICE MENTAL HEALTH MH","44","2","4.55","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","ONONDAGA CASE MGMNT SERVICES, INC DBA CIRCARE","52","16","30.77","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","CHHUNY LLC","24","1","4.17","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","ST. LUKE'S-ROOSEVELT HOSPITAL CENTER","2716","266","9.79","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","PEDERSON KRAG CENTER INC","86","18","20.93","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","WESTON UNITED COMMUNITY RENEWAL, INC.","205","23","11.22","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Bronx","New York City","DENNELISSE CORP  AI","52","5","9.62","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Chemung","Western NY","ELMIRA PSYCHIATRIC CENTER","27","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","BEHAVIORAL ENHANCEMENT AND SUBSTANC","37","2","5.41","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Broome","Central NY","GREATER BINGHAMTON HEALTH CENTER","66","14","21.21","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Albany","Hudson River","MANHATTAN PSYCHIATRIC CENTER","327","71","21.71","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Manhattan","New York City","URBAN HEALTH PLAN INC","23","2","8.7","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Livingston","Western NY","LIVINGSTON COUNTY MENTAL HEALTH SERVICES","57","4","7.02","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Cayuga","Central NY","CAYUGA COUNSELING SERVICES, INC.","30","1","3.33","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","PILGRIM PSYCHIATRIC CENTER","256","70","27.34","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Queens","New York City","QUEENS COORDINATED CARE PARTNERS, LLC","291","39","13.4","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Washington","Hudson River","WARRENSBURG HEALTH CENTER","46","5","10.87","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Manhattan","New York City","ST. LUKE'S-ROOSEVELT HOSPITAL CENTER","116","3","2.59","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Schenectady","Hudson River","REHABILITATION SUPPORT SERVICES, INC.","59","3","5.08","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Erie","Western NY","ERIE COUNTY MEDICAL CENTER","48","3","6.25","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","WESTCHESTER CARES ACTION PROGRAM","25","2","8","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","ST FRANCIS HSP","29","3","10.34","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","NYC-HHC EAST NEW YORK D&T CENTER","152","20","13.16","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Broome","Central NY","UNITED HEALTH SERVICES HOSPITALS, INC.","198","7","3.54","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Chautauqua","Western NY","NYS ARC CHAUTAUQUA COUNTY CHAPTER AKA THE RES","68","2","2.94","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","PHOENIX HOUSES OF LONG ISLAND, INC.","82","8","9.76","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","HEARTSHARE WELLNESS LTD","379","86","22.69","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","PREMIUM HEALTH INC","88","11","12.5","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Saint Lawrence","Central NY","OMH STATE PC NETWORK","94","7","7.45","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Clinton","Central NY","WARRENSBURG HEALTH CENTER","40","4","10","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Oneida","Central NY","THE NEIGHBORHOOD CENTER, INC.","130","2","1.54","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Suffolk","Long Island","SUFFOLK COUNTY COMMUNITY MENTAL HYGIENE SERV","32","0","0","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Erie","Western NY","BUFFALO FEDERATION/NEIGHBORHOOD CENTERS, INC.","116","15","12.93","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","EAC, INC.","24","1","4.17","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Wyoming","Western NY","ALLEGANY REHABILITATION ASSOCIATES, INC.","23","2","8.7","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Staten Island","New York City","STATEN ISLAND UNIVERSITY HOSPITAL","66","2","3.03","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Nassau","Long Island","ADVANTAGE CARE D AND T CTR","161","18","11.18","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","0-17","Provider","Otsego","Central NY","AURELIA OSBORN FOX MEM HOSP","42","2","4.76","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Brooklyn","New York City","BEVERLEY MACK HARRY CONSULTING SERVICES, INC.","36","1","2.78","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Westchester","Hudson River","CLUSTER, INC.","23","6","26.09","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Monroe","Western NY","LIFETIME HEALTH MEDICAL GROUP","86","10","11.63","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","2AP","18+","Provider","Suffolk","Long Island","HANDS ACROSS LONG ISLAND","59","8","13.56","NA",
+"2017-03-20T00:00:00.000","2017-02-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Onondaga","Central NY","TOMPKINS COUNTY MENTAL HEALTH SERVICES","29","0","0","NA",
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","0-17","Provider","Bronx","New York City","NEW YORK PSYCHOTHERAPY AND COUNSELING CENTER","53","0","0","NO","0.03"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Schenectady","Hudson River","MOHAWK OPPORTUNITIES, INC.","35","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Dutchess","Hudson River","OCCUPATIONS, INC.","45","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","MID HUDSON VALLEY/ARCS AI","231","3","1.3","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Albany","Hudson River","ALBANY MEMORIAL HOSPITAL","170","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Sullivan","Hudson River","REHABILITATION SUPPORT SERVICES, INC.","53","3","5.66","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Rensselaer","Hudson River","SAMARITAN HOSPITAL","435","4","0.92","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Columbia","Hudson River","MENTAL HEALTH ASSOC/COLUMBIA-GREENE COS., INC","59","1","1.69","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Dutchess","Hudson River","MENTAL HEALTH AMERICA OF DUTCHESS COUNTY, INC","369","1","0.27","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Dutchess","Hudson River","MEDICAL ARTS SANITARIUM","61","1","1.64","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Albany","Hudson River","MEDEX D & T CTR","96","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Orange","Hudson River","BON SECOURS COMMUNITY HOSPITAL","104","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Rensselaer","Hudson River","MAIMONIDES MEDICAL CENTER","103","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Rockland","Hudson River","BIKUR CHOLIM, INC.","42","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Rockland","Hudson River","LOEB HOUSE, INC.","26","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Westchester","Hudson River","LAWRENCE HOSPITAL","65","0","0","NO","0.52"
+"2017-02-14T00:00:00.000","2014-10-01T00:00:00.000","Polypharmacy","3AP","18+","Provider","Rockland","Hudson River","ROCKLAND PSYCHIATRIC CENTER","552","6","1.09","NO","0.52"
