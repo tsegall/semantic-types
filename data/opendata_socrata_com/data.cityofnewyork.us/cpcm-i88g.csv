@@ -1,0 +1,1001 @@
+"event_id","name","park_id","lat","long","address","zip","borough","accessible"
+"100073","Audubon Center at the Boathouse","B073","40.66170120239258","-73.9708023071289",,,"B",
+"100074","Wolfes Pond Park at Hylan Blvd","R031","40.521690368652344","-74.19256591796875",,,"R",
+"100075","Williamsbridge Oval Recreation Center","X104","40.876696912441","-73.87855219841","3225 Reservoir Oval East","10467","X",
+"100076","St. Mary's Recreation Center","X045","40.811407668807","-73.914220571518","St. Ann's Avenue and 145th Street","10454","X","1"
+"100144","Washington Square Park","M098","40.73149871826172","-73.99749755859375",,,"M",
+"100158","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100159","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100160","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100161","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100162","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100163","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100164","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100165","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100166","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100167","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100168","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100169","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100170","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100171","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100172","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100173","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100174","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100175","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100176","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100177","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100178","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100179","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100180","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100181","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100182","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100183","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100184","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100185","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100186","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100187","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100188","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100189","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100190","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100191","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100192","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100193","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100194","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100195","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100196","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100197","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100198","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100199","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100200","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100201","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100202","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100203","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100204","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100205","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100206","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100207","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100208","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100209","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100210","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100211","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100212","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100213","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100214","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100215","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100216","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100217","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100218","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100219","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100220","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100221","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100222","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100223","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100224","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100225","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100226","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100227","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100228","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100229","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100230","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100231","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100232","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100233","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100234","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100235","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100236","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100237","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100238","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100239","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100240","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100241","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100242","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100243","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100244","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100245","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100246","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100247","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100248","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100249","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100250","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100251","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100252","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100253","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100254","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100255","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100256","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100257","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100258","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100259","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100260","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100261","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100262","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100263","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100264","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100265","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100266","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100267","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100268","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100269","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100270","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100271","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100272","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100273","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100274","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100275","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100276","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100277","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100278","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100279","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100280","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100281","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100282","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100283","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100284","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100285","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100286","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100287","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100288","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100289","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100290","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100291","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100292","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100293","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100294","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100295","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100296","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100297","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100298","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100299","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100300","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100301","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100302","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100303","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100304","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100305","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100306","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100307","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100308","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100309","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100310","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100311","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100312","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100313","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100314","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100315","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100316","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100317","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100318","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100319","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100320","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100321","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100322","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100323","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100324","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100325","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100326","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100327","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100328","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100329","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100330","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100331","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100332","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100333","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100334","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100335","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100336","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100337","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100338","Peninsula","B073","40.65719985961914","-73.96890258789062",,"11215","B","1"
+"100339","16th Street Entrance","B073","40.65739822387695","-73.9738998413086","Prospect Park Southwest and 16th Street",,"B","1"
+"100340","The Nethermead","B073","40.66109848022461","-73.96859741210938",,"11215","B","1"
+"100340","Lookout Hill","B073","40.657901763916016","-73.97109985351562",,"11215","B",
+"100340","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100341","The Nethermead","B073","40.66109848022461","-73.96859741210938",,"11215","B","1"
+"100341","Lookout Hill","B073","40.657901763916016","-73.97109985351562",,"11215","B",
+"100341","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"100342","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100343","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100344","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100345","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100346","150th and 90th Avenue, right by the Gazebo","Q023","40.70366287231445","-73.80522918701172",,,"Q",
+"100347","20th Avenue and 38th Street","Q332","40.777000427246094","-73.90239715576172",,,"Q",
+"100348","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100349","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100350","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100351","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100352","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100353","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100354","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100355","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100356","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100357","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100358","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100359","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100360","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100361","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100362","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100363","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100364","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100365","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100366","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100367","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100368","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100369","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100370","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100371","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100372","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100373","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100374","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100375","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100376","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100377","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100378","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100379","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100380","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100381","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100382","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100383","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100384","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100385","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100386","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100387","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100388","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100389","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100390","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100391","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100392","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100393","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100394","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100398","Montefiore Park","M055","40.82160186767578","-73.95359802246094","West 137th Street & Broadway","10031","M",
+"100399","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100400","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100401","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100402","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100403","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100404","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100405","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100406","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100407","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100408","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100409","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100410","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100411","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100412","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100413","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100414","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100415","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100416","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100417","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100418","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100419","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100420","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100421","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100422","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100423","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100424","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100425","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100426","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100427","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100428","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100429","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100430","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100431","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100432","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100433","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100434","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100435","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100436","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100437","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100438","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100439","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100440","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100441","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100442","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100443","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100444","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100445","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100446","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100447","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100448","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100449","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100450","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100451","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100452","Joe Michaels Mile: Western Entrance","Q012","40.78879928588867","-73.78209686279297",,,"Q",
+"100453","Sylvan Grove Cemetery","R156","40.591400146484375","-74.19210052490234",,"10314","R",
+"100454","35th Avenue and Cross Island Parkway","Q012","40.77134323120117","-73.76530456542969",,,"Q","1"
+"100455","33rd Road and 215th Place","Q012","40.772098541259766","-73.76940155029297",,,"Q","1"
+"100456","South Beach Gazebo","R046","40.58959197998047","-74.06551361083984",,,"R",
+"100457","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100458","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100459","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100460","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100461","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100462","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100463","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100464","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100465","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100466","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100467","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100468","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100469","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100470","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100471","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100472","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100473","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100474","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100475","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100476","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100477","Dyckman Farmhouse Museum","M026","40.86750030517578","-73.92289733886719","4881 Broadway at 204th Street","10034","M","0"
+"100478","Meadow Lake North","Q099","40.7406005859375","-73.8406982421875",,"11368","Q",
+"100479","Chelsea Recreation Center","M260","40.74829864502","-74.002197265625","430 W. 25th Street","10001","M","1"
+"100480","Chelsea Recreation Center","M260","40.74829864502","-74.002197265625","430 W. 25th Street","10001","M","1"
+"100481","Chelsea Recreation Center","M260","40.74829864502","-74.002197265625","430 W. 25th Street","10001","M","1"
+"100482","Chelsea Recreation Center","M260","40.74829864502","-74.002197265625","430 W. 25th Street","10001","M","1"
+"100483","Across the Street from 222-18 56th Ave","Q001","40.752899169921875","-73.7593002319336",,,"Q",
+"100484","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100485","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100486","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100487","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100488","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100489","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100490","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100491","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100492","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100493","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100494","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100495","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100496","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100497","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100498","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100499","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100500","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100501","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100502","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100503","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100504","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100505","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100506","Garibaldi Plaza","M098","40.730499267578125","-73.99700164794922",,,"M",
+"100507","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100508","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100509","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100510","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100511","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100512","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100513","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100514","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100515","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100516","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100517","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100518","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100519","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100520","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100521","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100522","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100523","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100524","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100525","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100526","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100527","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100528","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100529","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100530","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100531","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100532","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100533","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100534","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100535","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100536","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100537","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100538","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100539","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100540","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100541","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100542","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100543","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100544","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100545","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100546","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100547","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100548","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100549","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100550","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100551","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100552","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100553","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100554","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100555","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100556","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100557","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100558","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100559","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100560","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"100561","Washington Square Park","M098","40.73149871826172","-73.99749755859375",,,"M",
+"100562","Washington Square Park","M098","40.73149871826172","-73.99749755859375",,,"M",
+"100563","Washington Square Park","M098","40.73149871826172","-73.99749755859375",,,"M",
+"100564","Poe Park Visitor Center","X040","40.8650016784668","-73.89469909667969","2640 Grand Concourse",,"X","1"
+"100565","Brownsville Recreation Center","B270","40.65660095214844","-73.9020004272461","1555 Linden Boulevard","11212","B",
+"100566","Brownsville Recreation Center","B270","40.65660095214844","-73.9020004272461","1555 Linden Boulevard","11212","B",
+"100567","Brownsville Recreation Center","B270","40.65660095214844","-73.9020004272461","1555 Linden Boulevard","11212","B",
+"100568","Hunt's Point Recreation Center",,"40.81549835205078","-73.88909912109375","765 Manida Street","10474","X","1"
+"100569","St. James Recreation Center","X044","40.86470031738281","-73.89920043945312","2530 Jerome Avenue","10468","X","1"
+"100570","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100571","Cedar Grove Avenue at Waterside Street","R016","40.563789367676","-74.098258972168","Cedar Grove Avenue at Waterside Street, Staten Island","10306","R",
+"100572","Playground for All Children","Q099","40.74089813232422","-73.8490982055664",,,"Q",
+"100573","Village Hall","R028","40.6265983581543","-74.07779693603516","Canal Street and Wright Street",,"R",
+"100574","Jackie Robinson Recreation Center","M014","40.82419967651367","-73.94249725341797","85 Bradhurst Avenue","10039","M","1"
+"100575","Green Map System",,"40.72348403930664","-73.98360443115234","220A E. 4th Street","10009","M",
+"100576","Creations Gallery",,"40.72370147705078","-73.97940063476562","89 Avenue C","10009","M",
+"100577","Icahn Stadium","M104","40.79322814941406","-73.9254150390625",,"10007","M",
+"100578","Bed Stuy Farm",,"40.68220138549805","-73.9269027709961","404 Decatur Street","11233","B",
+"100579","Eibs Pond Park","R124","40.611000061035156","-74.0824966430664",,"10304","R","1"
+"100580","Eibs Pond Park","R124","40.611000061035156","-74.0824966430664",,"10304","R","1"
+"100581","Graniteville Quarry Park","R150","40.625450134277344","-74.15241241455078","Eunice Place and Van Name Avenue","10303","R",
+"100582","Graniteville Quarry Park","R150","40.625450134277344","-74.15241241455078","Eunice Place and Van Name Avenue","10303","R",
+"100585","Tappen Park","R028","40.626800537109375","-74.07689666748047",,"10304","R","1"
+"100586","Tappen Park","R028","40.626800537109375","-74.07689666748047",,"10304","R","1"
+"100587","Westerleigh Park","R029","40.61980056762695","-74.1344985961914",,"10314","R","1"
+"100588","Westerleigh Park","R029","40.61980056762695","-74.1344985961914",,"10314","R","1"
+"100589","High Rock Park","R088","40.582801818847656","-74.12409973144531",,"10306","R","1"
+"100590","High Rock Park","R088","40.582801818847656","-74.12409973144531",,"10306","R","1"
+"100591","Schmul Park","R045","40.589900970459","-74.187698364258",,"10314","R",
+"100592","Schmul Park","R045","40.589900970459","-74.187698364258",,"10314","R",
+"100593","Conference House Park","R006","40.50279998779297","-74.25250244140625",,,"R",
+"100594","Conference House Park","R006","40.50279998779297","-74.25250244140625",,,"R",
+"100595","Conference House Park","R006","40.50279998779297","-74.25250244140625",,,"R",
+"100596","Conference House Park","R006","40.50279998779297","-74.25250244140625",,,"R",
+"100599","Conference House Park","R006","40.50279998779297","-74.25250244140625",,,"R",
+"100600","Conference House Park","R006","40.50279998779297","-74.25250244140625",,,"R",
+"100601","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100602","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100603","Cadman Plaza Park","B113A","40.69810104370117","-73.9906005859375",,"11201","B","1"
+"100604","Cadman Plaza Park","B113A","40.69810104370117","-73.9906005859375",,"11201","B","1"
+"100607","Herbert Von King Park","B088","40.690101623535156","-73.94650268554688",,"11216","B","1"
+"100608","Herbert Von King Park","B088","40.690101623535156","-73.94650268554688",,"11216","B","1"
+"100609","Nehemiah Park","B396","40.661800384521484","-73.90540313720703","Mother Gaston Boulevard and Livonia Avenue","11212","B",
+"100610","Nehemiah Park","B396","40.661800384521484","-73.90540313720703","Mother Gaston Boulevard and Livonia Avenue","11212","B",
+"100613","Thomas Boyland Park","B381","40.68190002441406","-73.90779876708984",,"11207","B",
+"100614","Thomas Boyland Park","B381","40.68190002441406","-73.90779876708984",,"11207","B",
+"100617","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100618","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100619","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100620","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100621","Monsignor McGolrick Park","B114","40.72439956665039","-73.94339752197266",,"11222","B","1"
+"100622","Monsignor McGolrick Park","B114","40.72439956665039","-73.94339752197266",,"11222","B","1"
+"100623","Parham Playground","B253","40.69029998779297","-73.9708023071289",,"11205","B",
+"100624","Parham Playground","B253","40.69029998779297","-73.9708023071289",,"11205","B",
+"100625","Shore Road Park","B082","40.614601135253906","-74.03820037841797",,"11209","B","1"
+"100626","Shore Road Park","B082","40.614601135253906","-74.03820037841797",,"11209","B","1"
+"100629","Wingate Park","B254","40.658599853515625","-73.94429779052734",,"11203","B","1"
+"100630","Wingate Park","B254","40.658599853515625","-73.94429779052734",,"11203","B","1"
+"100631","Commodore Barry Park","B021","40.69729995727539","-73.97889709472656",,"11201","B","1"
+"100632","Commodore Barry Park","B021","40.69729995727539","-73.97889709472656",,"11201","B","1"
+"100633","Cooper Park","B025","40.71590042114258","-73.93730163574219",,"11211","B","1"
+"100634","Cooper Park","B025","40.71590042114258","-73.93730163574219",,"11211","B","1"
+"100637","Harmony Park","B403","40.67789840698242","-73.93440246582031",,"11213","B",
+"100638","Harmony Park","B403","40.67789840698242","-73.93440246582031",,"11213","B",
+"100641","Lincoln Terrace Park","B054","40.66680145263672","-73.92720031738281",,"11213","B","1"
+"100642","Lincoln Terrace Park","B054","40.66680145263672","-73.92720031738281",,"11213","B","1"
+"100645","St. John's Recreation Center",,"40.673948857689","-73.934933304787","1251 Prospect Place",,"B","1"
+"100646","St. John's Recreation Center",,"40.673948857689","-73.934933304787","1251 Prospect Place",,"B","1"
+"100647","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100648","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100649","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100650","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100651","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100652","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100653","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100654","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100660","Joseph Rodman Drake Park","X015","40.810298919677734","-73.88240051269531",,"10474","X",
+"100662","St. Mary's Park","X045","40.81169891357422","-73.91259765625",,"10455","X","1"
+"100663","East River Esplanade","M289","40.744998931884766","-73.97049713134766",,"10007","M",
+"100664","East River Esplanade","M289","40.744998931884766","-73.97049713134766",,"10007","M",
+"100673","Washington Market Park","M308","40.717098236083984","-74.0115966796875",,"10007","M","1"
+"100674","Washington Market Park","M308","40.717098236083984","-74.0115966796875",,"10007","M","1"
+"100675","Charlton Plaza",,"40.727027893066406","-74.00344848632812","Charlton Street and 6th Avenue","10014","M",
+"100676","Charlton Plaza",,"40.727027893066406","-74.00344848632812","Charlton Street and 6th Avenue","10014","M",
+"100677","Christopher Park","M012","40.73360061645508","-74.002197265625",,"10014","M","1"
+"100678","Christopher Park","M012","40.73360061645508","-74.002197265625",,"10014","M","1"
+"100679","Washington Square Park","M098","40.73149871826172","-73.99749755859375",,,"M",
+"100680","Washington Square Park","M098","40.73149871826172","-73.99749755859375",,,"M",
+"100681","Little Red Square","MZ06","40.72930145263672","-74.0020980834961",,"10014","M","1"
+"100682","Little Red Square","MZ06","40.72930145263672","-74.0020980834961",,"10014","M","1"
+"100683","Downing Street Playground","M027","40.729801177978516","-74.00270080566406","Downing Street and 6th Avenue","10014","M",
+"100684","Downing Street Playground","M027","40.729801177978516","-74.00270080566406","Downing Street and 6th Avenue","10014","M",
+"100685","Father Fagan Square","M207","40.72669982910156","-74.00340270996094",,"10013","M",
+"100686","Father Fagan Square","M207","40.72669982910156","-74.00340270996094",,"10013","M",
+"100687","Juan Pablo Duarte Square",,"40.841976165771484","-73.93914794921875","169th Street and Broadway","10032","M",
+"100688","Juan Pablo Duarte Square",,"40.841976165771484","-73.93914794921875","169th Street and Broadway","10032","M",
+"100689","Minetta Green","M125A","40.73030090332031","-74.00160217285156",,"10014","M",
+"100690","Minetta Green","M125A","40.73030090332031","-74.00160217285156",,"10014","M",
+"100691","Vesuvio Playground","M069","40.72529983520508","-74.00260162353516",,"10012","M",
+"100692","Vesuvio Playground","M069","40.72529983520508","-74.00260162353516",,"10012","M",
+"100693","Columbus Park","M015","40.7151985168457","-74",,"10007","M","1"
+"100694","Columbus Park","M015","40.7151985168457","-74",,"10007","M","1"
+"100695","First Park","M124","40.7234992980957","-73.98979949951172",,"10002","M",
+"100696","First Park","M124","40.7234992980957","-73.98979949951172",,"10002","M",
+"100697","Peretz Square","M123","40.72298812866211","-73.98760223388672","Houston Street between First Avenue and Avenue A","10009","M",
+"100698","Peretz Square","M123","40.72298812866211","-73.98760223388672","Houston Street between First Avenue and Avenue A","10009","M",
+"100703","St. Vartan Park","M076","40.74509811401367","-73.97370147705078","E. 35th Street between 1st and 2nd Avenues","10007","M",
+"100704","St. Vartan Park","M076","40.74509811401367","-73.97370147705078","E. 35th Street between 1st and 2nd Avenues","10007","M",
+"100709","Carl Schurz Park","M081","40.774898529052734","-73.94380187988281",,,"M",
+"100710","Carl Schurz Park","M081","40.774898529052734","-73.94380187988281",,,"M",
+"100713","Samuel Seabury Playground","M236","40.785400390625","-73.95079803466797",,"10128","M",
+"100714","Samuel Seabury Playground","M236","40.785400390625","-73.95079803466797",,"10128","M",
+"100715","Convent Garden","M284","40.82830047607422","-73.94270324707031",,"10031","M","1"
+"100716","Convent Garden","M284","40.82830047607422","-73.94270324707031",,"10031","M","1"
+"100717","Morningside Park","M056","40.805051726374","-73.95910859108",,,"M",
+"100718","Morningside Park","M056","40.805051726374","-73.95910859108",,,"M",
+"100719","St. Nicholas Park","M077","40.816898345947266","-73.9489974975586",,"10007","M","1"
+"100720","St. Nicholas Park","M077","40.816898345947266","-73.9489974975586",,"10007","M","1"
+"100723","Collyer Brothers Park","M305","40.80849838256836","-73.94110107421875",,"10027","M","1"
+"100724","Collyer Brothers Park","M305","40.80849838256836","-73.94110107421875",,"10027","M","1"
+"100727","Jackie Robinson Park","B294","40.680198669433594","-73.92769622802734",,,"B",
+"100728","Jackie Robinson Park","B294","40.680198669433594","-73.92769622802734",,,"B",
+"100729","Jackie Robinson Park","B294","40.680198669433594","-73.92769622802734",,,"B",
+"100730","Jackie Robinson Park","B294","40.680198669433594","-73.92769622802734",,,"B",
+"100731","Marcus Garvey Park","M058","40.804508209228516","-73.94366455078125",,,"M",
+"100732","Marcus Garvey Park","M058","40.804508209228516","-73.94366455078125",,,"M",
+"100733","Marcus Garvey Park","M058","40.804508209228516","-73.94366455078125",,,"M",
+"100734","Marcus Garvey Park","M058","40.804508209228516","-73.94366455078125",,,"M",
+"100735","Thomas Jefferson Park","M047","40.79312515258789","-73.93525695800781",,"10029","M","1"
+"100736","Thomas Jefferson Park","M047","40.79312515258789","-73.93525695800781",,"10029","M","1"
+"100737","Fort Washington Park","M028","40.849459929509","-73.946592330933",,"10033","M","1"
+"100738","Fort Washington Park","M028","40.849459929509","-73.946592330933",,"10033","M","1"
+"100741","Inwood Hill Park","M042","40.87300109863281","-73.92539978027344",,"10007","M","1"
+"100742","Inwood Hill Park","M042","40.87300109863281","-73.92539978027344",,"10007","M","1"
+"100743","Inwood Hill Park","M042","40.87300109863281","-73.92539978027344",,"10007","M","1"
+"100744","Inwood Hill Park","M042","40.87300109863281","-73.92539978027344",,"10007","M","1"
+"100747","Sherman Creek Park","M300","40.861087799072266","-73.9179916381836",,"10033","M","1"
+"100748","Sherman Creek Park","M300","40.861087799072266","-73.9179916381836",,"10033","M","1"
+"100751","Riverside Oval Greenstreet",,"40.83440017700195","-73.94770050048828","West 156th Street and Riverside Drive","10032","M",
+"100752","Riverside Oval Greenstreet",,"40.83440017700195","-73.94770050048828","West 156th Street and Riverside Drive","10032","M",
+"100753","DeLury Square","M385","40.709098815918","-74.00520324707",,,"M",
+"100754","DeLury Square","M385","40.709098815918","-74.00520324707",,,"M",
+"100759","Luther Gulick Playground","M065","40.71590042114258","-73.98190307617188",,"10002","M","1"
+"100760","Luther Gulick Playground","M065","40.71590042114258","-73.98190307617188",,"10002","M","1"
+"100761","East River Esplanade","M289","40.744998931884766","-73.97049713134766",,"10007","M",
+"100762","East River Esplanade","M289","40.744998931884766","-73.97049713134766",,"10007","M",
+"100763","West 181st Street Community Garden",,"40.851200103759766","-73.93920135498047","West 181st Street and Pinehurst Avenue","10033","M",
+"100764","West 181st Street Community Garden",,"40.851200103759766","-73.93920135498047","West 181st Street and Pinehurst Avenue","10033","M",
+"100767","Samuel Seabury Playground","M236","40.785400390625","-73.95079803466797",,"10128","M",
+"100768","Samuel Seabury Playground","M236","40.785400390625","-73.95079803466797",,"10128","M",
+"100769","West 88th Street Trees",,"40.78459930419922","-73.96980285644531","West 88th Street between Columbus Avenue and Central Park West","10007","M",
+"100770","West 88th Street Trees",,"40.78459930419922","-73.96980285644531","West 88th Street between Columbus Avenue and Central Park West","10007","M",
+"100771","Clement Clarke Moore Park","M257","40.74660110473633","-74.00430297851562","10th Avenue between 21st and 22nd Streets","10011","M","1"
+"100772","Clement Clarke Moore Park","M257","40.74660110473633","-74.00430297851562","10th Avenue between 21st and 22nd Streets","10011","M","1"
+"100773","Carl Schurz Park","M081","40.774898529052734","-73.94380187988281",,,"M",
+"100774","Carl Schurz Park","M081","40.774898529052734","-73.94380187988281",,,"M",
+"100775","Carl Schurz Park","M081","40.774898529052734","-73.94380187988281",,,"M",
+"100776","Carl Schurz Park","M081","40.774898529052734","-73.94380187988281",,,"M",
+"100777","Astoria Park","Q004","40.779102012899","-73.922377586365",,,"Q",
+"100778","Astoria Heights Playground (JHS 10)","Q014","40.760398864746094","-73.91179656982422",,"11103","Q","1"
+"100779","Doughboy Plaza","Q031A","40.74639892578125","-73.90889739990234",,"11377","Q",
+"100782","Springfield Park","Q107","40.661800384521484","-73.7615966796875",,"11413","Q",
+"100785","Queensbridge Park","Q104","40.75659942626953","-73.94860076904297",,"11101","Q","1"
+"100786","Sherry Park","Q341C","40.74140167236328","-73.8988037109375",,"11377","Q",
+"100787","Travers Park","Q303","40.75400161743164","-73.88929748535156",,"11372","Q","0"
+"100789","Juniper Valley Park","Q102","40.720298767089844","-73.88040161132812",,"11379","Q","1"
+"100791","Russell Sage Playground","Q335","40.723899841308594","-73.85150146484375",,"11375","Q",
+"100793","Cunningham Park","Q021","40.72809982299805","-73.77269744873047",,"11364","Q","1"
+"100794","Cunningham Park","Q021","40.72809982299805","-73.77269744873047",,"11364","Q","1"
+"100795","Hoover Playground","Q220G","40.712100982666016","-73.82170104980469","Main and Manton Streets",,"Q",
+"100797","Brookville Park","Q008","40.652198791503906","-73.75070190429688",,,"Q",
+"100798","Idlewild Park","Q392","40.65250015258789","-73.75489807128906",,"11413","Q","1"
+"100799","Redfern Playground","Q345","40.61130142211914","-73.74949645996094",,"11096","Q",
+"100816","Al Oerter Recreation Center","Q099","40.75149917602539","-73.83439636230469","131-40 Fowler Ave.","11355","Q","1"
+"100817","Al Oerter Recreation Center","Q099","40.75149917602539","-73.83439636230469","131-40 Fowler Ave.","11355","Q","1"
+"100836","Hylan Boulevard and Satterlee Street","R006","40.50279998779297","-74.25189971923828",,"10307","R","1"
+"100837","P.S. 154X",,"40.80830001831055","-73.9259033203125","Alexander Ave between E 135th St and E 137th St",,,
+"100838","PS 7",,"40.80099868774414","-73.9395980834961","160 E. 120th Street","10035","M",
+"100839","City Hall Garden","M013","40.71290969848633","-74.00507354736328",,,"M",
+"100840","Bronx Trolley Tour Pickup",,"40.82659912109375","-73.92949676513672","153rd Street and Macombs Dam Park, Bronx","10451","X",
+"100841","Weeksville Heritage Center",,"40.674598693847656","-73.92579650878906","1698 Bergen Street, Brooklyn, NY","11213","B",
+"100842","PS 57","R124","40.61119842529297","-74.08380126953125","140 Palma Drive","10304","R",
+"100843","Forest Avenue Park Entrance","R150","40.625598907471","-74.153900146484","1940 Forest Avenue",,"R",
+"100844","Liotti Ikefugi Playgound","R037","40.63869857788086","-74.08390045166016",,"10301","R","1"
+"100845","111 Canal Street","R028","40.62699890136719","-74.07759857177734",,,"R",
+"100846","Maine Avenue and Neal Dow Avenue","R029","40.620498657227","-74.134902954102",,,"R",
+"100847","Parking Lot","R088","40.584556817034","-74.124981164932","200 Nevada Avenue","10306","R",
+"100848","Wild and Melvin Avenues","R045","40.590099334717","-74.188598632812",,,"R",
+"100849","Visitor Center","R006","40.502601623535156","-74.25180053710938","298 Satterlee Street",,"R","1"
+"100850","Bottom of Page Avenue",,"40.50230026245117","-74.22830200195312",,,,
+"100851","Richmond Terrace and Hamilton Avenue",,"40.64550018310547","-74.07769775390625",,"10301","R",
+"100852","Billop Avenue and Brighton Street","R006","40.49919891357422","-74.24169921875",,,"R",
+"100853","Brower Park","B012","40.67359924316406","-73.94309997558594","Prospect Place & Kingston Avenue","11213","B","1"
+"100854","Brooklyn War Memorial","B113A","40.69841766357422","-73.9906997680664",,,"B",
+"100855","Sunset Park Pool","B087","40.6468620300293","-74.00198364257812",,,"B",
+"100856","Monroe Street at Marcus Garvey Boulevard","B216","40.68669891357422","-73.93890380859375",,,,
+"100857","Nehemiah Park","B396","40.661800384521484","-73.90540313720703","Mother Gaston Boulevard and Livonia Avenue","11212","B",
+"100858","St. Marks Children's Playground",,"40.674720764160156","-73.94152069091797",,,,
+"100859","Furman Avenue","B381","40.68190002441406","-73.90779876708984",,,"B",
+"100860","Entrance at Third Avenue and Douglass Street","B145","40.680198669434","-73.984199523926",,,"B",
+"100861","Entrance at Brooklyn Avenue and Prospect Place","B012","40.67399978637695","-73.94450378417969",,,"B",
+"100862","Entrance at Brooklyn Avenue and Prospect Place","B012","40.67399978637695","-73.94450378417969",,,"B",
+"100863","Monsignor McGolrick Park","B114","40.72439956665039","-73.94339752197266",,"11222","B","1"
+"100864","Parham Playground","B253","40.69029998779297","-73.9708023071289",,"11205","B",
+"100865","90th Street and Shore Road","B082","40.622398376464844","-74.04029846191406",,"11209","B",
+"100866","St. Marks Children's Playground",,"40.674720764160156","-73.94152069091797",,,,
+"100867","Rutland Road and Brooklyn Avenue","B254","40.65959930419922","-73.94519805908203",,,"B",
+"100868","Near Park Avenue and North Elliot Place","B021","40.696300506592","-73.977401733398",,,"B",
+"100869","Cooper Park","B025","40.71590042114258","-73.93730163574219",,"11211","B","1"
+"100870","Dr Ronald McNair Park","B044","40.670501708984375","-73.96199798583984","Washington Ave. and Classon St.","11225","B",
+"100871","Entrance at Hattie Jones Court","B403","40.6779899597168","-73.93473052978516",,,"B",
+"100872","Kaiser Park Parkhouse",,"40.57849884033203","-73.99539947509766",,,"B",
+"100873","Lincoln Terrace Park","B054","40.66680145263672","-73.92720031738281",,"11213","B","1"
+"100874","Carmine Carro Community Center","B057","40.607943945573","-73.937465012074","3000 Fillmore Ave",,"B",
+"100875","St. John's Recreation Center",,"40.673948857689","-73.934933304787","1251 Prospect Place",,"B","1"
+"100876","Entrance at Brooklyn Avenue and Prospect Place","B012","40.67399978637695","-73.94450378417969",,,"B",
+"100877","Entrance at Brooklyn Avenue and Prospect Place","B012","40.67399978637695","-73.94450378417969",,,"B",
+"100878","Entrance at Brooklyn Avenue and Prospect Place","B012","40.67399978637695","-73.94450378417969",,,"B",
+"100879","Entrance at Brooklyn Avenue and Prospect Place","B012","40.67399978637695","-73.94450378417969",,,"B",
+"100880","Hunt's Point Recreation Center",,"40.81549835205078","-73.88909912109375","765 Manida Street","10474","X","1"
+"100880","Hunts Point",,"40.81549835205078","-73.88909912109375","765 Manida Street Bronx, 10474","10474","X",
+"100881","Park Entrance","X055","40.889301300049","-73.902900695801","Manhattan College Parkway and Waldo Avenue",,"X",
+"100882","Soundview Park Field House","X118","40.819400787353516","-73.87779998779297","1650 Lafayette Avenue","10473","X",
+"100883","Mosholu Parkway and Webster Avenue",,"40.86859893798828","-73.88140106201172",,"10467","X",
+"100884","Hunt's Point Recreation Center",,"40.81549835205078","-73.88909912109375","765 Manida Street","10474","X","1"
+"100885","Joseph Rodman Drake Park","X015","40.810298919677734","-73.88240051269531",,"10474","X",
+"100886","Claremont Park Gazebo","X008","40.841596055134","-73.907168626785",,,"X",
+"100887","St. Anns Avenue and East 149th Street","X045","40.8140983581543","-73.91290283203125",,,"X",
+"100888","96th Street and FDR Drive","M289","40.782901763916016","-73.94390106201172",,,"M",
+"100889","Stuyvesant Square","M086","40.73379898071289","-73.9843978881836",,"10007","M",
+"100890","Second Avenue Entrance","M086","40.73320007324219","-73.9844970703125",,"10007","M",
+"100891","Matthews-Palmer Playground","M154","40.76139831543","-73.992698669434","West 45th or West 46th Streets, between 9th and 10th Avenues",,"M",
+"100892","East River Esplanade","M289","40.744998931884766","-73.97049713134766",,"10007","M",
+"100893","Southeast Corner at Washington Market Park","M308","40.71659851074219","-74.01110076904297",,,"M",
+"100894","Charlton Plaza",,"40.727027893066406","-74.00344848632812","Charlton Street and 6th Avenue","10014","M",
+"100895","Christopher Street and 7th Avenue","M012","40.73356628417969","-74.00276947021484",,,"M",
+"100896","Washington Square South and Thompson Street","M098","40.73030090332031","-73.99810028076172",,"10012","M",
+"100897","Little Red Square","MZ06","40.72930145263672","-74.0020980834961",,"10014","M","1"
+"100898","Downing Street Playground","M027","40.729801177978516","-74.00270080566406","Downing Street and 6th Avenue","10014","M",
+"100899","Father Fagan Square","M207","40.72669982910156","-74.00340270996094",,"10013","M",
+"100900","169th Street and St. Nicholas Avenue",,"40.84189987182617","-73.93910217285156",,,"M",
+"100901","Minetta Green","M125A","40.73030090332031","-74.00160217285156",,"10014","M",
+"100902","Vesuvio Playground","M069","40.72529983520508","-74.00260162353516",,"10012","M",
+"100903","Worth and Baxter Streets","M015","40.71440124511719","-74.00039672851562",,"10013","M",
+"100904","1st Street between First and Second Avenue","M124","40.72367858886719","-73.98942565917969",,,"M",
+"100905","Houston Street and 1st Avenue","M123","40.722957611083984","-73.988525390625",,,"M",
+"100906","Rivington Street between Chrystie and Forsyth Streets","M105","40.72114181518555","-73.99191284179688",,,"M",
+"100907","Hells Kitchen Park","M277","40.76300048828125","-73.99259948730469","10th Avenue between 47th and 48th Streets","10036","M","1"
+"100908","St. Vartan Park","M076","40.74509811401367","-73.97370147705078","E. 35th Street between 1st and 2nd Avenues","10007","M",
+"100909","Entrance at East 54th Street and Sutton Place","M108P","40.755401611328","-73.962097167969",,,"M",
+"100910","2nd Avenue and 29th Street","M265","40.741600036621","-73.978202819824",,,"M",
+"100911","East 86th Street and East End Avenue","M081","40.774910716171","-73.944703102112",,"10007","M","1"
+"100912","St. Catherine's Park","M079","40.765201568603516","-73.95870208740234",,"10065","M","1"
+"100913","Samuel Seabury Playground","M236","40.785400390625","-73.95079803466797",,"10128","M",
+"100914","151st Street and St. Nicholas Avenue","M284","40.827999114990234","-73.94249725341797",,,"M",
+"100915","114 Street and Morningside Drive","M056","40.80459976196289","-73.95999908447266",,"10026","M",
+"100916","St. Nicholas Park Dog Run","M077","40.817901611328","-73.949699401855","West 135th Street and St. Nicholas Terrace",,"M",
+"100917","West 152nd Street and Adam Clayton Powell Jr. Boulevard",,"40.82569885253906","-73.93599700927734",,"10039","M",
+"100918","Collyer Brothers Park","M305","40.80849838256836","-73.94110107421875",,"10027","M","1"
+"100919","Samuel Playground","M160","40.81719970703125","-73.93920135498047",,"10030","M","1"
+"100920","Jackie Robinson Recreation Center",,"40.826801300049","-73.941497802734","West 150th Street and Edgecombe Avenue","10039","M",
+"100921","Jackie Robinson Recreation Center","M014","40.82419967651367","-73.94249725341797","85 Bradhurst Avenue","10039","M","1"
+"100922","Pelham Fritz Recreation Center","M058","40.805023193359","-73.944984436035",,"10027","M","1"
+"100923","Marcus Garvey Park Dog Run","M058","40.802799224853516","-73.94309997558594","120th Street & Madison Avenue","10035","M",
+"100924","Thomas Jefferson Recreation Center","M047","40.79349899291992","-73.93669891357422","2180 First Avenue, New York, NY","10007","M","1"
+"100925","Rocky Run Dog Run","M028","40.840999603271","-73.944602966309","West 165th Street and Riverside Drive","10032","M",
+"100926","Highbridge Park Dog Run","M037","40.8557014465332","-73.92500305175781","193 Street and Amsterdam Avenue","10040","M",
+"100927","Homers Dog Run","M042","40.87108612060547","-73.92183685302734",,,"M",
+"100928","Seaman Avenue and Isham Street Entrance","M042","40.869998931884766","-73.92109680175781",,"10007","M",
+"100929","J. Hood Wright Recreation Center","M099","40.846576301764","-73.940825939178","351 Fort Washington Avenue","10033","M",
+"100930","203rd Street and 9th Avenue Entrance","M300","40.861099243164","-73.918998718262",,,"M",
+"100931","Payson Playground Facility","M042","40.86720275878906","-73.9286117553711",,,"M","1"
+"100932","Riverside Oval Greenstreet",,"40.83440017700195","-73.94770050048828","West 156th Street and Riverside Drive","10032","M",
+"100933","Delury Square",,"40.7091064453125","-74.00516510009766","Entrance at Fulton Street and Gold Street","10038","M",
+"100934","Entrance on W 52nd Street","M022","40.7677001953125","-73.99479675292969",,,"M",
+"100935","Audubon Playground","M240","40.841499328613","-73.938102722168",,"10032","M",
+"100936","Willett Street and Delancey Street","M065","40.71630096435547","-73.98259735107422",,,"M",
+"100937","96th Street and FDR Drive","M289","40.782901763916016","-73.94390106201172",,,"M",
+"100938","West 181st Street Community Garden",,"40.851200103759766","-73.93920135498047","West 181st Street and Pinehurst Avenue","10033","M",
+"100939","Dr Gertrude B Kelly Playground","M066","40.74169921875","-74.00199890136719",,"10011","M","1"
+"100941","50 West 88th street",,"40.78710174560547","-73.96990203857422",,,,"1"
+"100942","Clement Clarke Moore Park","M257","40.74660110473633","-74.00430297851562","10th Avenue between 21st and 22nd Streets","10011","M","1"
+"100943","East 86th Street and East End Avenue","M081","40.774910716171","-73.944703102112",,"10007","M","1"
+"100944","East 86th Street and East End Avenue","M081","40.774910716171","-73.944703102112",,"10007","M","1"
+"100945","Park House",,"40.77598571777344","-73.92515563964844",,,,
+"100946","Astoria Heights Playground (JHS 10)","Q014","40.760398864746094","-73.91179656982422",,"11103","Q","1"
+"100947","Doughboy Plaza","Q031A","40.74639892578125","-73.90889739990234",,"11377","Q",
+"100948","Center Boulevard and Borden Avenue","Q471","40.7422981262207","-73.95989990234375",,,"Q",
+"100949","Lawrence Virgilio Playground","Q031","40.747501373291","-73.910697937012",,"11377","Q","1"
+"100950","Springfield Park Park House","Q107","40.659698486328","-73.763397216797","184th Street and 147th Avenue",,"Q",
+"100951","Bowne House","Q022","40.762901306152344","-73.82520294189453","37-01 Bowne Street","11354","Q","1"
+"100952","Sunnyside Arch",,"40.74290084838867","-73.9188003540039","46th Street and Queens Boulevard","11104","Q",
+"100953","41st Avenue Entrance","Q104","40.756500244141","-73.947303771973","Vernon Boulevard and 41st Avenue","11101","Q",
+"100954","Sherry Park","Q341C","40.74140167236328","-73.8988037109375",,"11377","Q",
+"100955","78th Street Entrance","Q303","40.75450134277344","-73.88899993896484",,,"Q",
+"100956","Clement Clarke Moore Homestead Park","Q361","40.74209976196289","-73.8822021484375",,"11373","Q","1"
+"100957","Juniper Valley Park 80th Street Entrance","Q102","40.721500396728516","-73.87650299072266","80th Street and Juniper Boulevard North","11379","Q",
+"100958","MacDonald Park Entrance","Q207","40.722198486328125","-73.84750366210938","Queens Boulevard and 69th Road",,"Q",
+"100959","Russell Sage Playground","Q335","40.723899841308594","-73.85150146484375",,"11375","Q",
+"100960","The Painter's Playground","Q306","40.72050094604492","-73.86009979248047","Alderton Street between Dieterle and Ellwell Crescents","11374","Q",
+"100961","193rd Street and Union Turnpike","Q021","40.730159759521","-73.777381896973",,"11366","Q",
+"100962","Redwood Playground","Q021","40.72700119018555","-73.77549743652344",,"11423","Q",
+"100963","Manton Avenue and Main street","Q220G","40.71030044555664","-73.8197021484375",,,"Q",
+"100964","106th Avenue and 173rd Street","Q121","40.70209884643555","-73.78299713134766",,"11433","Q","1"
+"100965","Brookville Park Field House","Q008","40.661800384521484","-73.74199676513672",,"11422","Q",
+"100966","Idlewild Park","Q392","40.65250015258789","-73.75489807128906",,"11413","Q","1"
+"100966","EQA Trailer","Q392","40.65787887573242","-73.7599105834961",,,"Q",
+"100967","Redfern Playground","Q345","40.61130142211914","-73.74949645996094",,"11096","Q",
+"100968","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100969","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100970","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100971","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100972","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100973","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100974","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100975","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100976","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100977","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100978","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100979","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100980","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100981","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100982","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100983","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100984","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100985","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100986","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100987","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100988","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100989","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100990","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100991","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100992","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100993","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100994","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100995","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100996","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100997","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100998","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"100999","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"101000","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"101001","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"101002","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"101003","West Bronx Recreation Center","X261","40.84410095214844","-73.9188003540039",,"10452","X","1"
+"101004","Brookville Playground","Q008","40.662601470947266","-73.74199676513672",,"11422","Q",
+"101005","Joseph P. Addabbo Memorial Park","Q094","40.67319869995117","-73.85469818115234",,"11417","Q","1"
+"101006","Electric Playground","Q342","40.73590087890625","-73.8053970336914",,"11365","Q",
+"101007","Evergreen Lots Community Garden",,"40.69960021972656","-73.93070220947266","120 Jefferson Street Brooklyn, NY 11237","11206","B",
+"101008","Intersection of Westchester Avenue and Wheeler Avenue",,"40.82849884033203","-73.88009643554688","Bronx",,,
+"101012","McCarren Play Center","B058","40.72010040283203","-73.94999694824219","776 Lorimer Street","11222","B","1"
+"101013","McCarren Play Center","B058","40.72010040283203","-73.94999694824219","776 Lorimer Street","11222","B","1"
+"101014","McCarren Play Center","B058","40.72010040283203","-73.94999694824219","776 Lorimer Street","11222","B","1"
+"101015","John Purroy Mitchel","M010","40.784400939941406","-73.95899963378906","90th Street and 5th Avenue",,"M",
+"101016","Strauss Street and Livonia Avenue","B008","40.661800384521484","-73.91419982910156",,,"B",
+"101017","Ridgewood Reservoir",,"40.6864013671875","-73.88919830322266",,,"Q","1"
+"101018","60th Street","M289","40.75885009765625","-73.95852661132812",,,"M",
+"101019","219th Street and Bronx Boulevard",,"40.884201049805","-73.866897583008","in Shoelace Park",,"X",
+"101020","Webster Avenue and East 233rd Street","X002","40.89540100097656","-73.86370086669922",,,"X",
+"101021","Muskrat Cove",,"40.89630126953125","-73.86299896240234","4220 Webster Avenue Bronx, NY","10470","X","1"
+"101022","Miles Avenue and Fairfield Street","R140","40.562599182128906","-74.1532974243164",,"10308","R",
+"101023","Battery Urban Farm","M005","40.70328903198242","-74.01482391357422",,,"M",
+"101024","McCarren Recreation Center","B058","40.72011184692383","-73.9499282836914",,,"B",
+"101025","ARROW Field House",,"40.755760192871094","-73.92633819580078","35-30 35th","11106","Q","1"
+"101026","Brookville Boulevard and 143rd Avenue","Q008","40.66340637207031","-73.7408447265625",,,"Q",
+"101027","Brownsville Recreation Center","B270","40.65660095214844","-73.9020004272461","1555 Linden Boulevard","11212","B",
+"101028","Westerleigh Park","R029","40.61980056762695","-74.1344985961914",,"10314","R","1"
+"101029","Turtle Circle","R046","40.57360076904297","-74.08529663085938","at Jefferson Avenue off Father Capodanno Boulevard",,"R",
+"101030","Brownsville Recreation Center","B270","40.65660095214844","-73.9020004272461","1555 Linden Boulevard","11212","B",
+"101031","Faber Park Field House","R008","40.641009309661","-74.135387182236","2175 Richmond Terrace","10302","R",
+"101032","Pelham Fritz Recreation Center","M058","40.805023193359","-73.944984436035",,"10027","M","1"
+"101033","St. John's Recreation Center",,"40.673948857689","-73.934933304787","1251 Prospect Place",,"B","1"
+"101034","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101035","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101036","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101037","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101038","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101039","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101040","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101041","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101042","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101043","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101044","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101045","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101046","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101047","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101048","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101049","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101050","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101051","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101052","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101053","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101054","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101055","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101056","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101057","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101058","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101059","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101060","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101061","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101062","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101063","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101064","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101065","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101066","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101067","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101068","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101069","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101070","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101071","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101072","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101073","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101074","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101075","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101076","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101077","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101078","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101079","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101080","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101081","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101082","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101083","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101084","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101085","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101086","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101087","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101088","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101089","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101090","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101091","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101092","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101093","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101094","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101095","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101096","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101097","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101098","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101099","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101100","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101101","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101102","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101103","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101104","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101105","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101106","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101107","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101108","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101109","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101110","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101111","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101112","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101113","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101114","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101115","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101116","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101117","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101118","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101119","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101120","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101121","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101122","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101123","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101124","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101125","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101126","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101127","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101128","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101129","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101130","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101131","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101132","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101133","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101134","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101135","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101136","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101137","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101138","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101139","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101140","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101141","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101142","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101143","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101144","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101145","Conference House Park Visitor Center","R006","40.502257029653","-74.251725435257","298 Satterlee Street",,"R","1"
+"101146","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101147","Wave Hill","X209","40.89870071411133","-73.9124984741211",,"10471","X","1"
+"101148","Wave Hill","X209","40.89870071411133","-73.9124984741211",,"10471","X","1"
+"101149","Wave Hill","X209","40.89870071411133","-73.9124984741211",,"10471","X","1"
+"101150","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101151","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101152","Wave Hill","X209","40.89870071411133","-73.9124984741211",,"10471","X","1"
+"101153","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101154","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101155","Glyndor Gallery","X209","40.89886474609375","-73.911865234375",,,"X","1"
+"101156","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101157","Hylan Boulevard and Satterlee Street","R006","40.50299835205078","-74.25170135498047",,,"R",
+"101158","Wave Hill","X209","40.89870071411133","-73.9124984741211",,"10471","X","1"
+"101159","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101160","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101161","Glyndor Gallery","X209","40.89886474609375","-73.911865234375",,,"X","1"
+"101162","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101163","Wave Hill","X209","40.89870071411133","-73.9124984741211",,"10471","X","1"
+"101164","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101165","Perkins Visitors Center","X209","40.89910125732422","-73.91190338134766",,"10471","X",
+"101166","Faber Park Field House","R008","40.641009309661","-74.135387182236","2175 Richmond Terrace","10302","R",
+"101167","Synergi Urban Farm","X270","40.8291015625","-73.89119720458984",,"10459","X",
+"101168","South Brooklyn Childrens Garden",,"40.68519973754883","-74.00240325927734","204 Columbia St., Brooklyn, NY 11231","11231","B",
+"101169","Synergi Urban Farm","X270","40.8291015625","-73.89119720458984",,"10459","X",
+"101170","GrowNYC Conference Room",,"40.71369934082031","-74.00550079345703","49 Chambers St, Room 1225","10007","M",
+"101171","Paradise on Earth",,"40.826900482178","-73.893898010254","1106 Fox Street, Bronx, NY","10459","X",
+"101172","Slosson Avenue & Drake Avenue","R005","40.61917495727539","-74.11846160888672",,,"R",
+"101173","Redwood Playground","Q021","40.72700119018555","-73.77549743652344",,"11423","Q",
+"101174","Raoul Wallenberg Forest at 232 Street","X142","40.885799407958984","-73.918701171875",,,"X",
+"101175","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"101176","Margaret Corbin Circle","M029","40.85929870605469","-73.93409729003906",,"10007","M",
+"101177","Payson Park House","M042","40.8672981262207","-73.92900085449219","Dyckman Street and Payson Avenue",,"M",
+"101178","Payson Center","M042","40.8671989440918","-73.92890167236328","Payson Avenue and Dyckman Street",,"M","1"
+"101179","Payson Center","M042","40.8671989440918","-73.92890167236328","Payson Avenue and Dyckman Street",,"M","1"
+"101180","Highbridge Recreation Center","M037","40.84260177612305","-73.9343032836914","2301 Amsterdam Avenue","10032","M",
+"101181","Lost Battalion Hall Recreation Center","Q401","40.732200622558594","-73.86519622802734","93-29 Queens Boulevard","11374","Q","1"
+"101182","Pavilion & Astral Fountain","Q099","40.743477380574","-73.844197273254",,"11368","Q",
+"101183","Lookout Hill","B073","40.657901763916016","-73.97109985351562",,"11215","B",
+"101184","The Nethermead","B073","40.66109848022461","-73.96859741210938",,"11215","B","1"
+"101185","The Carousel","B073","40.663700103759766","-73.96419525146484",,,"B",
+"101186","The Carousel","B073","40.663700103759766","-73.96419525146484",,,"B",
+"101187","The Carousel","B073","40.663700103759766","-73.96419525146484",,,"B",
+"101188","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"101189","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"101190","Audubon Center at the Boathouse","B073","40.660701751709","-73.965400695801",,"11215","B","1"
+"101191","Lefferts Historic House","B073","40.66429901123047","-73.96389770507812",,"11225","B","1"
+"101192","The Zoo, Lefferts Homestead, Carousel","B073","40.66463088989258","-73.96473693847656",,"11215","B",
+"101193","The Zoo, Lefferts Homestead, Carousel","B073","40.66463088989258","-73.96473693847656",,"11215","B",
+"101194","The Zoo, Lefferts Homestead, Carousel","B073","40.66463088989258","-73.96473693847656",,"11215","B",
+"101195","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101196","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101197","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101198","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101199","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101200","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101201","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101202","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101203","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101204","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101205","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101206","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101207","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101208","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101209","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101210","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101211","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101212","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101213","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101214","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101215","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101216","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101217","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101218","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101219","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101220","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101221","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101222","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101223","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101224","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101225","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101226","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101227","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101228","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101229","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101230","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101231","Asser Levy Recreation Center","M164","40.73609924316406","-73.97570037841797","392 Asser Levy Place","10010","M","1"
+"101232","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101233","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101234","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101235","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101236","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101237","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101238","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101239","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101240","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101241","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101242","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101243","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101244","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101245","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101246","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101247","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101248","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101249","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101250","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101251","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101252","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"
+"101253","Flushing Meadows Corona Park Aquatics Center","Q099","40.7515983581543","-73.83719635009766",,,"Q","1"

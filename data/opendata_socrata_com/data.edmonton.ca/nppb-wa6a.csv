@@ -1,0 +1,380 @@
+"dataset_link","u_id","derived_view","domain","type","name","description","visits","category","keywords","downloads","license","publication_stage","data_provided_by","source_link","period_of_coverage","open_data_request_number","api_endpoint","date_updated","date_made_public","update_frequency"
+"https://data.edmonton.ca/d/j7d9-gs52","j7d9-gs52","false","data.edmonton.ca","dataset","Budget and EPS Data for June 17, 2020 City Council Motion","20 year historical data on budget planning elements in response to Council motion.
+
+See http://sirepub.edmonton.ca/sirepub/mtgviewer.aspx?meetid=2747&doctype=MINUTES or https://data.edmonton.ca/api/views/j7d9-gs52/files/814686f5-ba66-452f-acc1-a9e4f111b748?download=true&filename=Minutes%20for%2006_15_2020,%20City%20Council.pdf for the relevant meeting minutes.","97","City Administration","budget,police","12","See Terms of Use","published",,,,,"https://data.edmonton.ca/resource/j7d9-gs52.json","2020-06-29","2020-06-29","Not Updated (Historical Only)"
+"https://data.edmonton.ca/d/tdhd-tsk6","tdhd-tsk6","false","data.edmonton.ca","dataset","Building Permit Application and Inspection Processing Times","Current processing times for building permit applications and inspections.","286",,"building permits,safety","48",,"published","Business Performance",,,,"https://data.edmonton.ca/resource/tdhd-tsk6.json",,"2020-02-21","X times per day"
+"https://data.edmonton.ca/d/acaa-ax39","acaa-ax39","false","data.edmonton.ca","dataset","Edmonton Public School Board : School Building Footprints","School Building Footprints","50","Facilities and Structures","public school,epsb,polygon,footprint","36","See Terms of Use","published","Edmonton Public School Board",,"2019 - 2020",,"https://data.edmonton.ca/resource/acaa-ax39.json","Aug 1, 2019","Aug 1, 2019","When Necessary"
+"https://data.edmonton.ca/view/345d-jzpy","345d-jzpy","true","data.edmonton.ca","datalens","SafeCityYEG Breakdown","Cities are for everyone and should be safe and welcoming for all. If you feel unsafe in a public space, we want to know.
+
+The City of Edmonton is a member of the United Nations Women Safe Cities and Safe Public Spaces program, which works toward solutions to improve safety and decrease sexual violence for women and girls in public spaces. 
+
+The Edmonton: Safe City project has launched a web-based mapping tool called SafeCityYEG that allows Edmontonians to report where they feel unsafe or safe in their communities and why. By pinning locations on a map and identifying a safety concern or places where you feel comfortable, you are helping to influence change.
+
+The primary goal of this project is to gain substantial user participation from Edmontonians and those visiting the city — with a strong focus on women and girls — for a duration of up to one year. Depending on the results and feedback, this project may continue after the one-year mark.
+
+The SafeCityYEG tool will be tracked based on the participation levels and feedback from users. Once the analytics are reviewed, the interdepartmental committee of Edmonton: Safe City, community partners and experts will use the data collected to ignite action. This may include working to change practices, policies, programs and initiatives within the City of Edmonton and other community organizations.
+
+For more information, please visit:
+
+https://www.edmonton.ca/city_government/initiatives_innovation/safecityyeg.aspx
+
+To visit the SafeCityYEG app, please visit:
+
+https://safecityedmonton.crowdspotmap.com/page/welcome","196","Social Impact","safe city yeg,safecityyeg","7","See Terms of Use","published","City of Edmonton",,"Jun 10, 2019 onward","ODR19-255","https://data.edmonton.ca/resource/345d-jzpy.json",,,"Daily"
+"https://data.edmonton.ca/d/hx79-22u9","hx79-22u9","false","data.edmonton.ca","dataset","SafeCityYEG Data","Cities are for everyone and should be safe and welcoming for all. If you feel unsafe in a public space, we want to know.
+
+The City of Edmonton is a member of the United Nations Women Safe Cities and Safe Public Spaces program, which works toward solutions to improve safety and decrease sexual violence for women and girls in public spaces. 
+
+The Edmonton: Safe City project has launched a web-based mapping tool called SafeCityYEG that allows Edmontonians to report where they feel unsafe or safe in their communities and why. By pinning locations on a map and identifying a safety concern or places where you feel comfortable, you are helping to influence change.
+
+The primary goal of this project is to gain substantial user participation from Edmontonians and those visiting the city — with a strong focus on women and girls —  for a duration of up to one year. Depending on the results and feedback, this project may continue after the one-year mark.
+
+The SafeCityYEG tool will be tracked based on the participation levels and feedback from users. Once the analytics are reviewed, the interdepartmental committee of Edmonton: Safe City, community partners and experts will use the data collected to ignite action. This may include working to change practices, policies, programs and initiatives within the City of Edmonton and other community organizations.
+
+For more information, please visit:
+
+https://www.edmonton.ca/city_government/initiatives_innovation/safecityyeg.aspx
+
+To visit the SafeCityYEG app, please visit:
+
+https://safecityedmonton.crowdspotmap.com/page/welcome","140","Social Impact","safe city yeg,safecityyeg","64","See Terms of Use","published","City of Edmonton",,"Jun 10, 2019 onward","ODR19-255","https://data.edmonton.ca/resource/hx79-22u9.json",,,"Daily"
+"https://data.edmonton.ca/d/4hpq-cruz","4hpq-cruz","false","data.edmonton.ca","dataset","Biking and Road Safety - Edmonton Insight Community","This was one single topic among a couple from the May 2019 Mixed Topic survey. To view the survey questions, click on the following link:
+
+https://www.edmontoninsightcommunity.ca/c/a/5enTBQVbIsLKnhCBvlqKoy?t=1
+
+Open from May 14 - 21, 2019. 
+
+At the time the survey was launched survey invitations were sent to 11,525 Insight Community Members. 2,926 members completed the survey which represents a completion rate of 25%. A total of 2,946 respondents completed the survey: 2,926 Insight Community Members and 6 from the call to action button on our web page and 14 using the anonymous link(s) on edmonton.ca/surveys which will have no demographic information.
+
+Column definitions can be found as an attachment to this dataset (under the About option, in the Attachment section).","43","Surveys","bike safety,road safety,bike and road safety,insight community","15","See Terms of Use","published","City of Edmonton",,"May 14 - 21, 2019",,"https://data.edmonton.ca/resource/4hpq-cruz.json",,"Jul 29, 2019","Not Updated (Historical Only)"
+"https://data.edmonton.ca/d/5nbb-audf","5nbb-audf","true","data.edmonton.ca","map","SafeCityYEG Map","Cities are for everyone and should be safe and welcoming for all. If you feel unsafe in a public space, we want to know.
+
+The City of Edmonton is a member of the United Nations Women Safe Cities and Safe Public Spaces program, which works toward solutions to improve safety and decrease sexual violence for women and girls in public spaces. 
+
+The Edmonton: Safe City project has launched a web-based mapping tool called SafeCityYEG that allows Edmontonians to report where they feel unsafe or safe in their communities and why. By pinning locations on a map and identifying a safety concern or places where you feel comfortable, you are helping to influence change.
+
+The primary goal of this project is to gain substantial user participation from Edmontonians and those visiting the city — with a strong focus on women and girls — for a duration of up to one year. Depending on the results and feedback, this project may continue after the one-year mark.
+
+The SafeCityYEG tool will be tracked based on the participation levels and feedback from users. Once the analytics are reviewed, the interdepartmental committee of Edmonton: Safe City, community partners and experts will use the data collected to ignite action. This may include working to change practices, policies, programs and initiatives within the City of Edmonton and other community organizations.
+
+For more information, please visit:
+
+https://www.edmonton.ca/city_government/initiatives_innovation/safecityyeg.aspx
+
+To visit the SafeCityYEG app, please visit:
+
+https://safecityedmonton.crowdspotmap.com/page/welcome","54","Social Impact","safe city yeg,safecityyeg","7","See Terms of Use","published","City of Edmonton",,"Jun 10, 2019 onward","ODR19-255","https://data.edmonton.ca/resource/5nbb-audf.json",,"Aug 9, 2019","Daily"
+"https://data.edmonton.ca/d/nk6t-8jsz","nk6t-8jsz","false","data.edmonton.ca","dataset","Edmonton Public Schools (2019)","To see the Program codes, please view the attachment","310","Schools","public schools,epsb,education","69","See Terms of Use","published","Edmonton Public School Board",,"2019",,"https://data.edmonton.ca/resource/nk6t-8jsz.json","July 18, 2019","July 18, 2019","When Necessary"
+"https://data.edmonton.ca/d/b55n-y2um","b55n-y2um","false","data.edmonton.ca","dataset","Water Safety - Edmonton Insight Community","This was one single topic among several from the September 2018 Mixed Topic survey. To view the survey questions, click on the following link:
+
+https://www.edmontoninsightcommunity.ca/c/a/5zLg5aUuUgZ6tfSCdB45KK?t=1
+
+Open from September 11 - 18, 2018. 
+
+At the time the survey was launched survey invitations were sent to 9,497 Insight Community Members. 2,420 members completed the survey which represents a completion rate of 26%. A total of 2,431 respondents completed the survey: 2,420 Insight Community Members and 2 from the call to action button on our webpage and 9 using the anonymous link(s) on edmonton.ca/surveys which will have no demographic information.
+
+Column definitions can be found as an attachment to this dataset (under the About option, in the Attachment section).","28","Surveys","water safety,insight community","48","See Terms of Use","published","City of Edmonton",,"September 11 - 18, 2018",,"https://data.edmonton.ca/resource/b55n-y2um.json",,"Nov 30, 2018","Not Updated (Historical Only)"
+"https://dashboard.edmonton.ca/d/fx49-vqap","fx49-vqap","true","dashboard.edmonton.ca","filter","Assaults and Sexual Assaults : 2018","This dataset provides monthly EPS-reported criminal incident count data at the neighbourhood level. Data will be updated one month following the end of a yearly quarter. 
+
+An ""incident"" is the set of connected events which usually constitute an occurrence report. Measuring by incidents is based on the Uniform Crime Reporting 2 (UCR2) survey standard developed by Statistics Canada so that all Canadian police jurisdictions have a comparable set of crime data. 
+
+The crime types used here are for EPS's 4 Property Crime and 4 Violent Crime Indicators only. Hence, not every type of property crime nor violent crime incident is shown here. Additionally, this excludes criminal incidents that fall under Other Criminal Code Violations, Federal Statute Violations, and Criminal Code Traffic Violations. The criminal code that is used here is based on the most serious violation of the incident. For example, if a break & enter occurred that involved an aggravated assault, only the aggravated assault would be counted. 
+
+It's important to note that incident-level data is a distinct measure for crime and will not match exactly with other EPS-reported statistics. There are two notable cases of this. The first is with EPS' Crime Map(http://crimemapping.edmontonpolice.ca/) which uses ""occurrence"" data. Occurrence data is more timely and immediately available, with incident-data based on occurrence data but with further revisions following UCR2 reporting rules. Secondly, EPS reporting on city-wide 4 Violent Crime Indicators is based on the number of victimizations, and since a violent criminal incident can have multiple victims, the figures reported in that manner will be higher. Counting by victimizations for violent crime is also how Statistics Canada reports crime data publicly.","136",,"eps,edmonton police service,police,neighbourhood crime,crime,violent crime,property crime,crime statistics","70",,"published",,,,,"https://dashboard.edmonton.ca/resource/fx49-vqap.json",,,
+"https://dashboard.edmonton.ca/d/7u5r-bedk","7u5r-bedk","true","dashboard.edmonton.ca","filter","Assaults and Sexual Assaults","This dataset provides monthly EPS-reported criminal incident count data at the neighbourhood level. Data will be updated one month following the end of a yearly quarter. 
+
+An ""incident"" is the set of connected events which usually constitute an occurrence report. Measuring by incidents is based on the Uniform Crime Reporting 2 (UCR2) survey standard developed by Statistics Canada so that all Canadian police jurisdictions have a comparable set of crime data. 
+
+The crime types used here are for EPS's 4 Property Crime and 4 Violent Crime Indicators only. Hence, not every type of property crime nor violent crime incident is shown here. Additionally, this excludes criminal incidents that fall under Other Criminal Code Violations, Federal Statute Violations, and Criminal Code Traffic Violations. The criminal code that is used here is based on the most serious violation of the incident. For example, if a break & enter occurred that involved an aggravated assault, only the aggravated assault would be counted. 
+
+It's important to note that incident-level data is a distinct measure for crime and will not match exactly with other EPS-reported statistics. There are two notable cases of this. The first is with EPS' Crime Map(http://crimemapping.edmontonpolice.ca/) which uses ""occurrence"" data. Occurrence data is more timely and immediately available, with incident-data based on occurrence data but with further revisions following UCR2 reporting rules. Secondly, EPS reporting on city-wide 4 Violent Crime Indicators is based on the number of victimizations, and since a violent criminal incident can have multiple victims, the figures reported in that manner will be higher. Counting by victimizations for violent crime is also how Statistics Canada reports crime data publicly.","113",,"eps,edmonton police service,police,neighbourhood crime,crime,violent crime,property crime,crime statistics","52",,"published",,,,,"https://dashboard.edmonton.ca/resource/7u5r-bedk.json",,,
+"https://dashboard.edmonton.ca/d/yfrk-rj27","yfrk-rj27","true","dashboard.edmonton.ca","chart","Crime Severity Index across Canada, 2018","Statistics Canada's Crime Severity Index of the top 20 largest Canadian Cities.
+
+The Crime Severity Index (CSI) assesses the severity of criminality by measuring both the volume of police-reported criminal incidents and weighting for more severe crime, while factoring for the level of population. The CSI is indexed to equal 100 in Canada for the year 2006.
+
+Source: Statistics Canada, tables 252-0083 to 252-0090; 2011 Census.","178",,"eps,edmonton police service,police,police statistics,police data,eps statistics,crime data,crime statistics,crime severity index,crime severity index across canada,police comparison,crime severity,crime trends","59",,"published",,,,,"https://dashboard.edmonton.ca/resource/yfrk-rj27.json",,,
+"https://dashboard.edmonton.ca/d/vbai-mrph","vbai-mrph","true","dashboard.edmonton.ca","chart","Police Strength Across Canada","This dataset provides statistics on police strength (number of police officers per 100,000 population) across Canada. Data is provided as part of Statistics Canada annual Police Administration Survey.
+
+Source: Statistics Canada table 254-0004, 2011 Census:
+
+http://www5.statcan.gc.ca/cansim/a26?lang=eng&id=2540004
+
+http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=301&S=3&O=D","54",,"eps,edmonton police service,police,police statistics,police strength,police officers,officers,police administrative survey,statistics canada,police to population","31",,"published",,,,,"https://dashboard.edmonton.ca/resource/vbai-mrph.json",,,
+"https://data.edmonton.ca/d/8w7c-i8cm","8w7c-i8cm","false","data.edmonton.ca","dataset","Vehicle for Hire Bylaws Violated  - by Month and Type","This dataset is an aggregated summary of Inspections and the corresponding Bylaw that was violated by Year, Month and Vehicle for Hire Type:
+- Year and month
+- Vehicle for Hire Type.  Can be one of the following: Limo, Party bus, Taxi, Transportation Network Vehicle (TNV) and Other.
+- Violated Bylaw Name 
+- Violated Bylaw Section 
+- Warnings Given
+- Tickets Issued
+- Other Enforcement Actions Taken
+
+Note: One Inspection can result in a number of Tickets/Warnings or Other Enforcement Actions as well as a number of Bylaw Names and Bylaw sections that were violated.","163","Community Services","vehicle for hire,licensing,inspections,ride share,uber,taxi,tappcar,party bus,cab service,bylaw,traffic safety act","119","See Terms of Use","published","City of Edmonton",,"Jan 1, 2018 onward","ODR18-197","https://data.edmonton.ca/resource/8w7c-i8cm.json",,,"Daily"
+"https://dashboard.edmonton.ca/d/4ahr-9dya","4ahr-9dya","true","dashboard.edmonton.ca","chart","Weighted Clearance Rate across Canada, 2018","Statistics Canada's Weighted Clearance Rate for the top 20 largest Canadian Cities.
+
+The Weighted Clearance Rate (WCR) measures the percentage of police reported criminal incidents that are cleared by charge, or cleared by ""other"" (e.g., using the Youth Criminal Act, the accused is deceased), weighted by crime severity.
+
+Source: Statistics Canada, tables 252-0083 to 252-0090; 2011 Census.
+
+http://www5.statcan.gc.ca/subject-sujet/result-resultat?pid=2693&id=2102&lang=eng&type=ARRAY&pageNum=1&more=0
+
+http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=301&S=3&O=D","43",,"eps,edmonton police service,police,police statistics,police data,eps statistics,clearance rates,weighted clearance rates,weighted clearance rates across canada,police comparison,statistics canada,solving crime","41",,"published",,,,,"https://dashboard.edmonton.ca/resource/4ahr-9dya.json",,,
+"https://data.edmonton.ca/d/qjsj-x2mi","qjsj-x2mi","false","data.edmonton.ca","dataset","Winter Cycling Advertising Recall And Safety - Edmonton Insight Community","This was one single topic among many, from the February 2018 Mixed Topic survey. To view the survey questions, click on the following link:
+
+https://www.edmontoninsightcommunity.ca/c/a/5tKHEJ44EOxCU3WV2dl88H?t=1
+
+Open from February 13 - 20, 2018. 
+
+At the time the survey was launched survey invitations were sent to 7,131 Insight Community Members. 2,024 members completed the survey which represents a completion rate of 28%. A total of 2,071 respondents completed the survey: 2,024 Insight Community Members and 7 from the call to action button on our webpage and 40 using the anonymous link(s) on edmonton.ca/surveys which will have no demographic information.
+
+Column definitions can be found as an attachment to this dataset (under the About option, in the Attachment section).","74","Surveys","winter cycling,recall,safety,insight community","70","See Terms of Use","published","City of Edmonton",,"February 13 - 20, 2018",,"https://data.edmonton.ca/resource/qjsj-x2mi.json",,"Mar 26, 2018","Not Updated (Historical Only)"
+"https://data.edmonton.ca/d/7fnd-72gr","7fnd-72gr","false","data.edmonton.ca","dataset","Intersection Safety Device Locations","This dataset represents the approximate drive lane(s) and the direction of enforcement, of intersections where Intersection Safety Devices are operational.  Intersection Safety Devices enforce red light infractions and speed on green infractions.
+
+Note:  To avoid some confusion of location, efforts were made to shift the geo-location to one side or the other side of a roadway to more clearly indicate the lane(s) of travel and direction of travel and set back from the actual intersection.
+
+For more information please see https://www.edmonton.ca/transportation/traffic_safety/automated-enforcement.aspx.","1894","Transportation","photo enforcement,enforcement zone,photo radar,intersection safety device,speed on green,red light,red light camera","239","See Terms of Use","published","City of Edmonton",,"Aug 2, 2017 onward","ODR16-98","https://data.edmonton.ca/resource/7fnd-72gr.json",,"Aug 2, 2017","Weekly"
+"https://data.edmonton.ca/d/fwx6-by2r","fwx6-by2r","true","data.edmonton.ca","map view","Intersection Safety Device Locations Map","This dataset represents the approximate location of the intersection and traffic direction of enforcement for the intersection.
+
+Please refer to the FAQ the City has available in regards to Photo Enforcement: https://www.edmonton.ca/enforcement","2765","Transportation","photo enforcement,enforcement zone,photo radar,intersection safety device,speed on green,red light,red light camera","828","See Terms of Use","published","City of Edmonton",,"Aug 2, 2017 onward","ODR16-98","https://data.edmonton.ca/resource/fwx6-by2r.json",,"Aug 2, 2017","Weekly"
+"https://data.edmonton.ca/d/wphc-nrc2","wphc-nrc2","false","data.edmonton.ca","dataset","Transportation Safety - Edmonton Insight Community","This was one single topic among many from Part 2 of the March 2017 Mixed Topic survey. To view the survey questions, click on the following link:
+
+https://www.edmontoninsightcommunity.ca/R.aspx?a=1623&as=9jF1MQ27Rm&t=1
+
+Open from March 21 - 28, 2017. 
+
+At the time the survey was launched survey invitations were sent to 6705 Insight Community Members. 1748 members completed the survey which represents a completion rate of 26%. A total of 1758 respondents completed the survey: 1748 Insight Community Members and 10 using the anonymous link(s) which will have no demographic info.
+
+Column definitions can be found as an attachment to this dataset (under the About option, in the Attachment section).","57","Surveys","transportation safety,insight community","34","See Terms of Use","published","City of Edmonton",,"March 21 - 28, 2017",,"https://data.edmonton.ca/resource/wphc-nrc2.json",,,"Not Updated (Historical Only)"
+"https://data.edmonton.ca/d/49fy-4pc4","49fy-4pc4","false","data.edmonton.ca","dataset","Traffic Safety Culture - Edmonton Insight Community","This was one single topic on Traffic Safety Culture. To view the survey questions, click on the following link:
+
+https://www.edmontoninsightcommunity.ca/R.aspx?a=1095&as=ly5Bo19WX4&t=1
+
+Open from July 25, 2016 to August 3, 2016.
+
+At the time the survey was launched survey invitations were sent to 6494  Insight Community Members. 1824 members completed the survey which represents a completion rate of 28%. A total of 1824 respondents completed the survey: 1824 Insight Community Members and 0 using the anonymous link(s) which will have no demographic info.
+
+Column definitions can be found as an attachment to this dataset (under the About option, in the Attachment section).","217","Surveys","traffic safety culture,insight community","52","See Terms of Use","published","City of Edmonton",,"July 25, 2016 to August 3, 2016","ODR17-140","https://data.edmonton.ca/resource/49fy-4pc4.json",,,"Not Updated (Historical Only)"
+"https://data.edmonton.ca/d/f7ax-babe","f7ax-babe","false","data.edmonton.ca","dataset","Transportation Safety - Insight Community","This was one single topic among many as part of the July 2016 Mixed Topic survey. To view the survey questions, click on the following link:
+
+https://www.edmontoninsightcommunity.ca/R.aspx?a=1089&as=Fz1YZ2114S&t=1
+
+Open from July 12 - 19, 2016. 
+
+At the time the survey was launched survey invitations were sent to 6468 Insight Community Members. 2500 members completed the survey which represents a completion rate of 39%. A total of 2537 respondents completed the survey: 2500 Insight Community Members and 37 using the anonymous link(s) which will have no demographic info.
+
+Column definitions can be found as an attachment to this dataset (under the About option, in the Attachment section).","63","Surveys","insight community,transportation safety,transportation,safety","47","See Terms of Use","published","City of Edmonton",,"July 12 - 19, 2016",,"https://data.edmonton.ca/resource/f7ax-babe.json",,,"Not Updated (Historical Only)"
+"https://dashboard.edmonton.ca/d/hy3s-gute","hy3s-gute","true","dashboard.edmonton.ca","filter","Malmo Plains Criminal Incidents","This dataset provides monthly EPS-reported criminal incident count data at the neighbourhood level. Data will be updated one month following the end of a yearly quarter. 
+
+An ""incident"" is the set of connected events which usually constitute an occurrence report. Measuring by incidents is based on the Uniform Crime Reporting 2 (UCR2) survey standard developed by Statistics Canada so that all Canadian police jurisdictions have a comparable set of crime data. 
+
+The crime types used here are for EPS's 4 Property Crime and 4 Violent Crime Indicators only. Hence, not every type of property crime nor violent crime incident is shown here. Additionally, this excludes criminal incidents that fall under Other Criminal Code Violations, Federal Statute Violations, and Criminal Code Traffic Violations. The criminal code that is used here is based on the most serious violation of the incident. For example, if a break & enter occurred that involved an aggravated assault, only the aggravated assault would be counted. 
+
+It's important to note that incident-level data is a distinct measure for crime and will not match exactly with other EPS-reported statistics. There are two notable cases of this. The first is with EPS' Crime Map(http://crimemapping.edmontonpolice.ca/) which uses ""occurrence"" data. Occurrence data is more timely and immediately available, with incident-data based on occurrence data but with further revisions following UCR2 reporting rules. Secondly, EPS reporting on city-wide 4 Violent Crime Indicators is based on the number of victimizations, and since a violent criminal incident can have multiple victims, the figures reported in that manner will be higher. Counting by victimizations for violent crime is also how Statistics Canada reports crime data publicly.","309",,"eps,edmonton police service,police,neighbourhood crime,crime,violent crime,property crime,crime statistics","86",,"published",,,,,"https://dashboard.edmonton.ca/resource/hy3s-gute.json",,,
+"https://dashboard.edmonton.ca/d/thmf-9u9y","thmf-9u9y","false","dashboard.edmonton.ca","dataset","EPS Checkstop/TADD Statistics","This dataset provides enforcement statistics for EPS's Checkstop and Target All Drunk Drivers (TADD) program.
+Checkstop operations are stationary points on roadways where traffic is contacted by police to ensure drivers are sober. Checkstop includes the activities from Target All Drunk Drivers (TADD), where following the closing of a Checkstop point, officers will patrol to make contact with any vehicles that draw their attention with the primary goal of checking the driver's sobriety. Statistics here are from the combination of Checkstop and TADD activity.
+
+Vehicle Checks (Checkstop/TADD) are the number of vehicles where drivers were personally contacted by police to check for sobriety from Checkstop and TADD operations. 
+
+Impaired Arrests (Checkstop/TADD) are the number of impaired driving arrests for driving with a Blood Alcohol Concentration (BAC) of 0.08 or more, or there is other evidence of impairment by alcohol, driving while impaired from narcotics or prescription drugs, or when testing for alcohol or drugs is refused. 
+
+Roadside Suspensions (Checkstop/TADD) are the number of Alberta Administrative License Sanctions for operating a motor vehicle contrary to the drivers license restrictions. Statistics here exclude roadside suspensions issued as part of a criminal charge of impaired driving. In simple terms, the types of roadside suspensions in this measure arise from: 
+
+1. AZAT (Alberta Zero Alcohol Tolerance Program) – Issued to GDL drivers with a BAC above zero. 30 day suspension, 7 day vehicle seizure.
+2. IRS (Immediate Roadside Sanction) – BAC of .05 to .08 - Immediate 3-day license suspension and 3-day vehicle seizure.
+ with longer durations for subsequent offences.
+3. 24 Hr Suspension – No reasonable Suspicion or Grounds to proceed in a formal Impaired Investigation, but a 24 hr suspension is given on the grounds of public safety.","337",,"eps,edmonton police service,police,checkstop,tadd,impaired driving,roadside suspensions,vehicle checks","85",,"published",,,,,"https://dashboard.edmonton.ca/resource/thmf-9u9y.json",,,
+"https://dashboard.edmonton.ca/d/uc4g-r43u","uc4g-r43u","false","dashboard.edmonton.ca","dataset","EPS Curb The Danger Statistics","This dataset provides statistics from EPS's Curb the Danger program. EPS's Curb the Danger program has been available since 2006, where the public can call 911 when they spot someone they suspect is driving impaired, and if possible report the last direction of travel of the suspect vehicle, make of vehicle, and a license plate. 
+
+Curb The Danger Calls are the number of 9-1-1 calls made by the public to EPS to report an impaired driver. 
+
+EPS Intercepts from CTD are the number of occurrences where EPS made contact with the vehicle that was reported in from Curb The Danger.
+
+Impaired Arrests from CTD the number of impaired driving arrests arising from Intercepts from CTD where the driver has a Blood Alcohol Concentration (BAC) of 0.08 or more, or there is other evidence to suggest a driver is impaired by alcohol, driving while impaired from narcotics or prescription drugs, or when testing for alcohol or drugs is refused. 
+
+Roadside Suspensions from CTD are the number of roadside suspensions that arised from EPS vehicle intercepts from Curb The Danger. The figures here do not count the roadside suspensions that occur as part of an impaired driving arrest. The type of Roadside suspensions in this measure arise from: 
+
+1. AZAT (Alberta Zero Alcohol Tolerance Program) – Issued to GDL drivers with a BAC above zero. 30 day suspension, 7 day vehicle seizure.
+2. IRS (Immediate Roadside Sanction) – BAC of .05 to .08 - 72 Hr suspension, 3 day vehicle seizure, with longer durations for subsequent offences.
+3. 24 Hr Suspension – No reasonable Suspicion or Grounds to proceed in a formal Impaired Investigation, but a 24 hr suspension is given on the grounds of public safety.
+
+CTD Letters Sent to Registered Owners are the number of letters EPS sent to registered owners identified from a Curb The Danger call.","289",,"eps,edmonton police service,police,curb the danger,impaired driving,impaired,roadside suspensions,vehicle intercepts","85",,"published",,,,,"https://dashboard.edmonton.ca/resource/uc4g-r43u.json",,,
+"https://dashboard.edmonton.ca/d/vas7-htsy","vas7-htsy","false","dashboard.edmonton.ca","dataset","Police Strength Across Canada","This dataset provides statistics on police strength (number of police officers per 100,000 population) across Canada. Data is provided as part of Statistics Canada annual Police Administration Survey.
+
+Source: Statistics Canada table 254-0004, 2011 Census:
+
+http://www5.statcan.gc.ca/cansim/a26?lang=eng&id=2540004
+
+http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=301&S=3&O=D","196",,"eps,edmonton police service,police,police statistics,police strength,police officers,officers,police administrative survey,statistics canada,police to population","72",,"published",,,,,"https://dashboard.edmonton.ca/resource/vas7-htsy.json",,,
+"https://dashboard.edmonton.ca/d/xthe-mnvi","xthe-mnvi","false","dashboard.edmonton.ca","dataset","EPS Neighbourhood Criminal Occurrences","This dataset provides monthly EPS-reported criminal occurrence count data at the neighbourhood level. 
+
+An occurrence is a set of connected criminal events constituting a police occurrence report. Measuring by occurrences is distinct from 'incidents' or 'victims', and will not be 
+ a perfect match from what is reported by Statistics Canada.
+
+The crime types used here are for EPS's 4 Property Crime and 4 Violent Crime Indicators only. Hence, not every type of property crime nor violent crime incident is shown here. Additionally, this excludes criminal incidents that fall under Other Criminal Code Violations, Federal Statute Violations, and Criminal Code Traffic Violations. The criminal code that is used here is based on the most serious violation of the incident. For example, if a break & enter occurred that involved an aggravated assault, only the aggravated assault would be counted.","6115",,"eps,edmonton police service,police,neighbourhood crime,crime,violent crime,property crime,crime statistics","1629",,"published",,,,,"https://dashboard.edmonton.ca/resource/xthe-mnvi.json",,,
+"https://dashboard.edmonton.ca/d/sjhf-upbn","sjhf-upbn","false","dashboard.edmonton.ca","dataset","EPS Domestic Violence Occurrences","This dataset provides the number of EPS-reported criminal and non-criminal occurrences that a violence or abuse component among intimate partners. Domestic violence may include a single act of physical or sexual force, actual or threatened, or a number of acts forming a pattern of abuse through the use of controlling behavior.
+
+Government policy related to domestic violence has progressed a great deal over the years (see the Alberta Justice Domestic Violence Handbook, 2014). Notable advancements include the establishment of the Office For the Prevention of Domestic Violence in Alberta in 1984, Alberta Justice' introduction of Prosecutor Guidelines in 2008 and Police Guidelines in 2009 (and updated in 2013), as well as several more recent Alberta legislative Acts that serve to protect victims against domestic violence. These changes have filtered through to EPS and refined our policy & procedures for how we respond to, and better classify, track, and manage these domestic violence occurrences.","611",,"eps,edmonton police service,police,police statistics,domestic violence,domestic violence occurrences,crime,crime statistics,crime occurrences,criminal occurrences","99",,"published",,,,,"https://dashboard.edmonton.ca/resource/sjhf-upbn.json",,,
+"https://dashboard.edmonton.ca/d/3hzu-tepj","3hzu-tepj","false","dashboard.edmonton.ca","dataset","EPS Response Times And Dispatch Volume","This dataset provides EPS statistics for our Response Time Performance and Dispatch Call Volume for Priority 1 through 5 events. 
+
+Response Time Performance measures the percentage of the time that EPS dispatches a priority call and gets patrol on-scene to the event in the targeted time. The targeted time varies by priority level. Time here does not include the time it takes before the call is made available to the dispatcher. EPS's long-standing target is to meet the targeted time for 80% of events. 
+
+The calculation for Response Time Performance is based on a subset of Dispatch Call Volume; it excludes impaired driving calls (i.e., non-fixed location calls), on-view calls (patrol observes the event before the public calls it in), and follow-up calls. Hence, quarterly Response Time Performance cannot be converted to annual figures based on the data provided here.
+
+Priority 1 through 5 calls are categorized as follows:
+
+◦Priority 1: In Progress Person At Risk - a rapid response will likely prevent or reduce further harm to a person. E.g., assault with a weapon in progress. Target: 7 minutes or less.
+
+◦Priority 2: In Progress Property At Risk - Immediate response will likely prevent or reduce the further loss of property. E.g., a citizen observing a theft of auto in progress. Target: 12 minutes or less.
+
+◦Priority 3: Just Occurred - Immediate response will increase the likelihood of locating a suspect. E.g., a mischief that occurred very recently. Target: 17 minutes or less.
+
+◦Priority 4: The Nature of the Occurrence is Time Sensitive. E.g., a shoplifter is in-custody with security and is cooperative. Target: 40 minutes or less.
+
+◦Priority 5: General Service - The nature of the offence is not time sensitive. E.g., a business finds that they were vandalized the night before (i.e., the absence of in progress or just occurred). Target: 180 minutes or less.","685",,"eps,edmonton police service,police,police statistics,police response time,police response time performance,police response,dispatch call volume,call volume,police performance,police calls","99",,"published",,,,,"https://dashboard.edmonton.ca/resource/3hzu-tepj.json",,,
+"https://dashboard.edmonton.ca/d/75h8-as7j","75h8-as7j","false","dashboard.edmonton.ca","dataset","EPS Proactive Patrol Time","EPS Proactive Patrol Time measures the % of EPS patrol shift time that is spent engaged in proactive or preventative policing activities. When not engaging in proactive work, a patrol members time is spent either completing calls-for-service, administrative duties, or as “other” (e.g., getting set up for shift).
+
+Proactive patrol work can be thought of as a policing investment that prevents or suppresses future criminality, or helps maintain public safety. Examples include patrolling a drinking establishment near closing time, searching out an individual with outstanding criminal warrants, or check in with a domestic-violence offender to ensure they are complying with their court ordered conditions.","205",,"eps,edmonton police service,police,police statistics,proactive time,proactive,proactive patrol time,police performance","80",,"published",,,,,"https://dashboard.edmonton.ca/resource/75h8-as7j.json",,,
+"https://dashboard.edmonton.ca/d/5824-hsh6","5824-hsh6","false","dashboard.edmonton.ca","dataset","EPS Online Crime Reporting","This dataset provides statistics on EPS's Online Crime Reporting tool.
+
+This tool has been available to the public since the second quarter of 2013 to report less serious crimes online without having to file a report at a police station. Online reporting is a more efficient and streamlined reporting process, thus allowing EPS to redeploy its support resources to other organizational needs. The convenience of online reporting may encourage citizens to report crime that would otherwise go unreported; thus providing EPS with better intelligence about patterns of crime, which can improve police deployment to crime hot-spots.
+
+Online Crime reporting is available for the following police matters:
+◦Lost Property
+◦Mischief
+◦Theft from Vehicle (under $5,000)
+◦Theft of Bicycle (under $5,000)
+◦Theft under $5,000
+
+Statistics here include:
+-the number of EPS occurrence reports that were submitted by the public online, and approved by EPS
+-the number of EPS occurrence reports that could have been reported online, but were reported by other means (e.g,. reporting at a police station)
+-the percentage of EPS occurrence reports that were reported online (for occurrence types that have the option of being reported online)
+
+The EPS encourages citizens and visitors to our city to report all crimes that occur in Edmonton. Online Crime Reporting is available at: http://www.edmontonpolice.ca/ContactEPS/OnlineCrimeReporting.aspx","598",,"eps,edmonton police service,police,police statistics,online reporting,online crime reporting,crime reporting,police performance,eps performance","125",,"published",,,,,"https://dashboard.edmonton.ca/resource/5824-hsh6.json",,,
+"https://dashboard.edmonton.ca/d/yuiz-et8i","yuiz-et8i","false","dashboard.edmonton.ca","dataset","EPS Warrants","This dataset provides statistics on EPS-issued warrants that have yet to be executed. 
+
+Persons with Criminal Warrants are persons where their most serious warrant is  for a criminal offence (however, they may have additional non-criminal warrants).
+
+Persons with Non-Criminal Warrants are persons where their most serious warrant is non-criminal (and hence do not have a criminal warrant).
+
+Data is provided to EPS from the Canadian Police Information Centre (CPIC) Ottawa.","1137",,"eps,edmonton police service,police,police statistics,eps warrants,eps-issued warrants,warrants,edmonton warrants,police performance,eps performance","163",,"published",,,,,"https://dashboard.edmonton.ca/resource/yuiz-et8i.json",,,
+"https://dashboard.edmonton.ca/d/rpka-3ry7","rpka-3ry7","true","dashboard.edmonton.ca","chart","Sample","Traffic Injury Rate measures the rate of vehicle collisions that resulted in injuries per 1,000 population. Injuries include minor, major, and fatal.","129","Transportation","dashboard,traffic safety,injury rate","75",,"published",,,,,"https://dashboard.edmonton.ca/resource/rpka-3ry7.json",,,"Monthly"
+"https://dashboard.edmonton.ca/d/6wgz-mm4u","6wgz-mm4u","false","dashboard.edmonton.ca","dataset","EPS Impaired Driving Incidents","Impaired Driving measures the number of EPS-reported incidents of impaired driving. The number here uses the number of victims when the incident involves victims. Impaired driving is a leading cause of criminal death in Canada, as well as a significant factor for traffic collision, injuries, and fatalities. 
+
+A driver will face a criminal charge of impaired driving when they exceed a Blood Alcohol Concentration (BAC) of 0.08, or when there is other evidence that a driver is impaired. The number of incidents here also includes impairment by narcotics or prescription medication, or when cooperation with testing for alcohol or drugs is refused.
+
+The following UCR2 codes are used for this crime statistic: 
+
+9210	Impaired operation - causing death
+9215	Impaired operation (drugs) - causing death
+9220	Impaired operation - causing bodily harm
+9225	Impaired operation (drugs) - causing bodily harm
+9230	Impaired operation of motor vehicle, vessel or aircraft
+9235	Impaired operation (drugs) vehicle, vessel, aircraft
+9240	Impaired operation - failure to provide breath sample
+9245	Failure to comply or refusal (drugs)
+9250	Impaired operation - failure to provide blood sample","622",,"eps,edmonton police service,police,police statistics,impaired driving,drunk driving,crime,traffic offences,crime data,police performance","169",,"published",,,,,"https://dashboard.edmonton.ca/resource/6wgz-mm4u.json",,,
+"https://dashboard.edmonton.ca/d/ausx-6r6s","ausx-6r6s","false","dashboard.edmonton.ca","dataset","EPS Recruit Statistics","This dataset provides statistics related to EPS's Recruit Selection Unit. 
+
+Recruit Applicants are the number of sworn recruit applicants for new recruit class, or the Experienced Officer Program, that have passed the eight stage application process. Statistics here include potential ""reactivations"", where an applicant completed the process previously, was temporarily deferred, and has completed the process again.
+
+More information can be found at:
+
+https://dashboard.edmonton.ca/stat/goals/fzxw-8pb7/w793-iem2/4fgq-m2t7
+
+http://www.joineps.ca/","1069",,"eps,edmonton police service,police,police statistics,eps recruitment,eps recruiting,recruitment,police performance,police recruitment,police personnel,eps statistics","68",,"published",,,,,"https://dashboard.edmonton.ca/resource/ausx-6r6s.json",,,
+"https://dashboard.edmonton.ca/d/inf7-nqah","inf7-nqah","false","dashboard.edmonton.ca","dataset","EPS Traffic Injury Rate","Traffic Injury Rate measures the rate of vehicle collisions in Edmonton that resulted in injuries per 1,000 population. Injuries include minor, major, and fatal. Collision and population data is provided by the Office of Traffic Safety and is subject to revisions as more information becomes available.
+
+Source:
+
+https://dashboard.edmonton.ca/Transportation/Traffic-Safety-Intersection-Injury-Information/g2nn-qd2k","366",,"eps,edmonton police service,police,police statistics,traffic injuries,traffic collisions,traffic fatalities,traffic injury rate,traffic data,traffic","80",,"published",,,,,"https://dashboard.edmonton.ca/resource/inf7-nqah.json",,,
+"https://dashboard.edmonton.ca/d/n5ux-m2xi","n5ux-m2xi","false","dashboard.edmonton.ca","dataset","Impaired Driving Across Canada","Data here measures the number of impaired driving incidents per 100,000 population. Incidents include impairment from alcohol, narcotics, or prescription medication, and include failure to comply with testing.
+
+Data is obtained from Statistics Canada, tables 252-0075 to 252-0081.","190",,"eps,edmonton police service,police,police statistics,impaired driving,drunk driving,crime,traffic offences,crime data,police performance,statistics canada,police comparison","89",,"published",,,,,"https://dashboard.edmonton.ca/resource/n5ux-m2xi.json",,,
+"https://dashboard.edmonton.ca/d/re4t-qxga","re4t-qxga","true","dashboard.edmonton.ca","chart","Edmonton Crime Severity Index","Edmonton Crime Severity Index measures the severity of crime in Edmonton. It accounts for Edmonton’s population, the number of crimes occurring, and the seriousness of the crimes. Data is based on crimes reported to the Edmonton
+Police Service (EPS) and submitted to Statistics Canada using UCR2 data (uniform-crime-reporting). UCR2 is a national data format that all police services use to allow for cross-jurisdictional comparisons of crime levels. Statistics Canada aggregates the data to calculate the Crime Severity Index. As crime is impacted by many factors, Edmonton Crime Severity Index is considered an indicator.","276","Dashboard","edmonton,crime,crime severity","81",,"published",,,,,"https://dashboard.edmonton.ca/resource/re4t-qxga.json",,"September 22, 2015","Annually"
+"https://dashboard.edmonton.ca/d/ttdu-6dxh","ttdu-6dxh","true","dashboard.edmonton.ca","chart","Edmonton Crime Severity Index","Edmonton Crime Severity Index measures the severity of crime in Edmonton. It accounts for Edmonton’s population, the number of crimes occurring, and the seriousness of the crimes. Data is based on crimes reported to the Edmonton
+Police Service (EPS) and submitted to Statistics Canada using UCR2 data (uniform-crime-reporting). UCR2 is a national data format that all police services use to allow for cross-jurisdictional comparisons of crime levels. Statistics Canada aggregates the data to calculate the Crime Severity Index. As crime is impacted by many factors, Edmonton Crime Severity Index is considered an indicator.","437","Dashboard","edmonton,crime,crime severity","89",,"published",,,,,"https://dashboard.edmonton.ca/resource/ttdu-6dxh.json",,"September 22, 2015","Annually"
+"https://dashboard.edmonton.ca/d/wjj8-vmz3","wjj8-vmz3","false","dashboard.edmonton.ca","dataset","EPS Personnel Statistics","This dataset provides high-level statistics on Edmonton Police Service staffing for sworn and non-sworn (i.e., civilian) positions. Data is based on actual positions, taken as a snapshot in time on May 15, annually (since 2005). Police Strength measures the number of EPS police officers per 100,000 population.
+
+This data for EPS, as well as all other police services across Canada is provided to Statistics Canada as part of the annual Police Administrative Survey. For additional statistics from this survey, as well as more information on survey methodology, see:
+-Statistics Canada, CANSIM table 254-0004 (http://www5.statcan.gc.ca/cansim/a26?lang=eng&id=2540004)
+-http://www23.statcan.gc.ca/imdb-bmdi/pub/3301-eng.htm","325",,"eps,edmonton police service,police,police statistics,police personnel,number of officers,staff levels,eps staff levels,number of female officers,female officers,civilian officers,staffing levels,eps staffing levels,staff counts,eps staff,police staff,police officers,female police officers,police strength,police to population","87",,"published",,,,,"https://dashboard.edmonton.ca/resource/wjj8-vmz3.json",,,
+"https://dashboard.edmonton.ca/d/7w6s-zw6v","7w6s-zw6v","false","dashboard.edmonton.ca","dataset","EPS Public Complaint Investigation Speed","This dataset provides statistics for EPS' Public Complaint Investigation Speed, which measures the percentage of public complaint investigations against EPS that are concluded by EPS’ Professional Standards Branch within six months of the complaint being lodged. EPS’s targets for this standard to be achieved 50% of the time or more.","206",,"eps,edmonton police service,police,police statistics,police complaints,police complaint resolution,complaint investigation speed,eps public complaint investigation speed,professional standards branch","61",,"published",,,,,"https://dashboard.edmonton.ca/resource/7w6s-zw6v.json",,,
+"https://dashboard.edmonton.ca/d/e3w9-5nws","e3w9-5nws","false","dashboard.edmonton.ca","dataset","EPS Social Disorder Occurrences","This dataset measures the number of EPS-reported Social Disorder Occurrences. Social disorder is composed of the following police events.
+
+◦Weapons Complaint
+◦Trouble with Person
+◦Prostitution
+◦Noise Complaint
+◦Mischief
+◦Mental Health Act Complaints
+◦Disturbance
+◦Arson
+◦Abandoned Vehicle","483",,"eps,edmonton police service,police,police statistics,social disorder,mischief,crime,police data,eps statistics,occurrences,crime data,crime statistics","94",,"published",,,,,"https://dashboard.edmonton.ca/resource/e3w9-5nws.json",,,
+"https://dashboard.edmonton.ca/d/7qpa-hyqe","7qpa-hyqe","false","dashboard.edmonton.ca","dataset","EPS 8 Crime Indicators","This dataset provides crime occurrence counts for EPS's 8 Crime Indicators. 
+
+An ""occurrence"" is a set of connected criminal events which constitute an occurrence report. The occurrence counts here are distinct from 'incidents' and 'victims' as reported by Statistics Canada. 
+
+The crime types used here are for EPS's 4 Property Crime and 4 Violent Crime Indicators only. Hence, not every type of property crime or violent crime incident is shown here (e.g,. kidnapping and theft under $5,000 are excluded here). This also excludes criminal code violations that fall under Other Criminal Code Violations, Federal Statute Violations, and Criminal Code Traffic Violations. 
+
+The criminal code that is used here is based on the most serious violation of the occurrence. For example, if a break & enter occurred that involved an aggravated assault, only the aggravated assault would be counted. This follows the standard for how Statistics Canada reports on crime throughout Canada.","2977",,"eps,edmonton police service,police,police statistics,crime,police data,eps statistics,occurrences,crime data,crime statistics,violent crime,property crime,eps 8 crime indicators,eps crime indicators,eps crime","282",,"published",,,,,"https://dashboard.edmonton.ca/resource/7qpa-hyqe.json",,,
+"https://dashboard.edmonton.ca/d/hrsq-3tcq","hrsq-3tcq","false","dashboard.edmonton.ca","dataset","EPS Emergency/Non-Emergency Calls","This dataset shows the average speed of answer (ASA) for EPS emergency and non-emergency calls, as well as the associated call volume of non-emergency calls answered by a call evaluator. 
+
+The ASA for EPS Non-emergency calls is started once a caller has gone through the Interactive Voice Response (IVR) system, and finishes once a call evaluator answers the call.
+
+The EPS’s Non-Emergency Line can be reached at 780-423-4567 or #377 from an Edmonton mobile. More information on this topic, including what kind of crimes should be reported to the EPS Non-Emergency Line can be found at: 
+
+http://www.edmontonpolice.ca/ContactEPS/EPSComplaintLine.aspx","322",,"eps,edmonton police service,police,police statistics,police data,eps statistics,police calls,police non-emergency calls,non-emergency calls,call data,eps calls","73",,"published",,,,,"https://dashboard.edmonton.ca/resource/hrsq-3tcq.json",,,
+"https://data.edmonton.ca/view/g87i-8h9a","g87i-8h9a","true","data.edmonton.ca","datalens","Bike Safety - Edmonton Insight Community","This was one single topic among many as part of the November 2015 Mixed Topic survey. Test link to view these questions: https://www.edmontoninsightcommunity.ca/R.aspx?a=641&as=972dH6O71T&t=1. Open from November 9 - 17, 2015. At the time the survey was launched survey invitations were sent to 3980 Insight Community Members. 1797 members completed the survey which represents a completion rate of 45%. A total of 1914 respondents completed the survey: 1797 Insight Community Members and 117 using the anonymous link which will have no demographic info.","614","Surveys","edmonton,insight,survey,bike safety,2015","8","See Terms of Use","published","City of Edmonton",,"November 9 - 17, 2015",,"https://data.edmonton.ca/resource/g87i-8h9a.json",,,"Not Updated (Historical Only)"
+"https://dashboard.edmonton.ca/d/fqfh-kkr6","fqfh-kkr6","false","dashboard.edmonton.ca","dataset","Weighted Clearance Rates across Canada","Statistics Canada's Weighted Clearance Rate for the top 20 largest Canadian Cities.
+
+The Weighted Clearance Rate (WCR) measures the percentage of police reported criminal incidents that are cleared by charge, or cleared by ""other"" (e.g., using the Youth Criminal Act, the accused is deceased), weighted by crime severity.
+
+Source: Statistics Canada, tables 252-0083 to 252-0090; 2011 Census.
+
+http://www5.statcan.gc.ca/subject-sujet/result-resultat?pid=2693&id=2102&lang=eng&type=ARRAY&pageNum=1&more=0
+
+http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=301&S=3&O=D","172",,"eps,edmonton police service,police,police statistics,police data,eps statistics,clearance rates,weighted clearance rates,weighted clearance rates across canada,police comparison,statistics canada,solving crime","75",,"published",,,,,"https://dashboard.edmonton.ca/resource/fqfh-kkr6.json",,,
+"https://dashboard.edmonton.ca/d/27i2-87k6","27i2-87k6","false","dashboard.edmonton.ca","dataset","Crime Severity Index across Canada","Statistics Canada's Crime Severity Index of the top 20 largest Canadian Cities.
+
+The Crime Severity Index (CSI) assesses the severity of criminality by measuring both the volume of police-reported criminal incidents and weighting for more severe crime, while factoring for the level of population. The CSI is indexed to equal 100 in Canada for the year 2006.
+
+Source: Statistics Canada, tables 252-0083 to 252-0090; 2011 Census.","328",,"eps,edmonton police service,police,police statistics,police data,eps statistics,crime data,crime statistics,crime severity index,crime severity index across canada,police comparison,crime severity,crime trends","111",,"published",,,,,"https://dashboard.edmonton.ca/resource/27i2-87k6.json",,,
+"https://dashboard.edmonton.ca/d/a73s-tjd5","a73s-tjd5","false","dashboard.edmonton.ca","dataset","EPS Historical Missing Person Files","This dataset provides statistics on historical missing person files that is the responsibility of EPS. A historical missing person is someone who has been reported missing 90+ days. Statistics here also include several files where human remains have been found and have yet to be identified.
+
+Concluded Historical Missing Person files are those where the historical missing person is located (alive or deceased) or new evidence suggests the missing person is in another policing jurisdiction - in which case investigative responsibility is transferred to the other policing jurisdiction.
+
+The number of concluded files and added files up to the end of 2015 are annual figures; figures in 2016 are based on a yearly quarter.","269",,"eps,edmonton police service,police,police statistics,police data,eps statistics,crime data,crime statistics,missing persons,eps missing persons,missing person files,eps historical missing person files,police performance","83",,"published",,,,,"https://dashboard.edmonton.ca/resource/a73s-tjd5.json",,,
+"https://dashboard.edmonton.ca/d/4t55-mj2f","4t55-mj2f","false","dashboard.edmonton.ca","dataset","EPS Crime Severity Index / Weighted Clearance Rate","This dataset provides EPS's Crime Severity Index and Weighted Clearance Rate statistics. Figures provided here are based on in-house calculations with small measurement errors compared to what is produced by Statistics Canada.
+
+The Crime Severity Index (CSI) assesses the severity of criminality by measuring both the volume of police-reported criminal incidents and weighting for more severe crime, while factoring for the level of population. The CSI is available for any city or region across Canada, and is indexed to equal 100 in Canada for the year 2006.
+
+The Weighted Clearance Rate (WCR) measures the percentage of EPS-reported criminal incidents that are cleared by charge, or cleared by ""other"" (e.g., using the Youth Criminal Act, the accused is deceased), weighted by crime severity.
+
+Both measures here account for all criminal code violations, which can be categorized at a high-level as: Violent Crime, Property Crime, Other Criminal Code Violations, Federal Statute Violations, and Criminal Code Traffic Violations. The counting methodology here follows that of Statistics Canada by only counting the most serious violation for a criminal incident, and counting the number of victims for violent-based offences.","651","Dashboard","eps,edmonton police service,police,police statistics,police data,eps statistics,crime data,crime statistics,crime severity index,weighted clearance rates,crime severity,eps crime severity,eps clearance rates,clearance rates,eps performance,police performance","84",,"published",,,,,"https://dashboard.edmonton.ca/resource/4t55-mj2f.json",,,
+"https://data.edmonton.ca/d/4yxs-3vis","4yxs-3vis","false","data.edmonton.ca","dataset","Transportation And Travel Safety - Edmonton Insight Community","This was one single topic among many as part of the October 2015 Mixed Topic survey. Test link to view these questions: https://www.edmontoninsightcommunity.ca/R.aspx?a=558&as=o7np0xc2YJ&t=1. Open from October 13 - 21, 2015. At the time the survey was launched survey invitations were sent to 3857 Insight Community Members. 1435 members completed the survey which represents a completion rate of 37%. A total of 1494 respondents completed the survey: 1435 Insight Community Members and 59 using the anonymous link which will have no demographic info.","37","Surveys","edmonton,insight,survey,transportation and travel safety,2015","26",,"published",,,"Oct 13 - 21, 2015",,"https://data.edmonton.ca/resource/4yxs-3vis.json",,,"Not Updated (Historical Only)"
+"https://dashboard.edmonton.ca/d/dv3m-teat","dv3m-teat","false","dashboard.edmonton.ca","dataset","Edmonton Crime Severity Index","Edmonton Crime Severity Index measures the severity of crime in Edmonton. It accounts for Edmonton’s population, the number of crimes occurring, and the seriousness of the crimes. Data is based on crimes reported to the Edmonton
+Police Service (EPS) and submitted to Statistics Canada using UCR2 data (uniform-crime-reporting). UCR2 is a national data format that all police services use to allow for cross-jurisdictional comparisons of crime levels. Statistics Canada aggregates the data to calculate the Crime Severity Index. As crime is impacted by many factors, Edmonton Crime Severity Index is considered an indicator.","1226","Dashboard","edmonton,crime,crime severity","174",,"published",,,,,"https://dashboard.edmonton.ca/resource/dv3m-teat.json",,"September 22, 2015","Annually"
+"https://dashboard.edmonton.ca/d/g9eb-kjy9","g9eb-kjy9","false","dashboard.edmonton.ca","dataset","Edmontonians’ Assessment: Safe City","Edmontonians’ Assessment: Safe City measures the percentage of respondents to the Edmontonians’ Perception Survey who report that overall, Edmonton is a safe city. This measure is used to assess whether Edmontonians feel safe and are more likely to participate in activities outside the home. A third-party vendor conducts the survey by telephone.","273","Dashboard","assessment,perception,survey,safety. safe city,safety in the city","78",,"published",,,,,"https://dashboard.edmonton.ca/resource/g9eb-kjy9.json",,"September 22, 2015","Annually"
+"https://dashboard.edmonton.ca/d/mrwv-h8jn","mrwv-h8jn","true","dashboard.edmonton.ca","chart","Edmontonians' Assessment: Safe City - Chart View","Edmontonians’ Assessment: Safe City measures the percentage of respondents to the Edmontonians’ Perception Survey who report that overall, Edmonton is a safe city. This measure is used to assess whether Edmontonians feel safe and are more likely to participate in activities outside the home. A third-party vendor conducts the survey by telephone.","467","Dashboard","assessment,perception,survey,safety. safe city,safety in the city","104",,"published",,,,,"https://dashboard.edmonton.ca/resource/mrwv-h8jn.json",,"September 22, 2015","Annually"
+"https://data.edmonton.ca/d/cjcn-85t7","cjcn-85t7","false","data.edmonton.ca","dataset","Measuring Progress Questionnaire - Safety In The City","This was survey sent to the Insight Community in conjunction with a telephone survey performed to gauge residents thoughts on the City and how they think about their city. Test link to view these questions: https://www.edmontoninsightcommunity.ca/R.aspx?a=182&as=yN1J0gu9Dz&t=1. Open from January 26 - February 04, 2015. At the time the survey was launched survey invitations were sent to 2215 Insight Community Members. 1127 members completed the survey which represents a completion rate of 51%. A total of 1284 respondents completed the survey: 1127 Insight Community Members and 157 using the Open link.","522","Surveys","insight,surveys,measuring progress,safety,2015","257","See Terms of Use","published","City of Edmonton",,,,"https://data.edmonton.ca/resource/cjcn-85t7.json",,,"Not Updated (Historical Only)"
+"https://data.edmonton.ca/d/f2ri-59cx","f2ri-59cx","false","data.edmonton.ca","dataset","Edmontonians' Perception Survey - Safety In The City","In 2014, the City of Edmonton contracted Leger to conduct a survey of Edmontonians designed to understand perceptions on key measures relating to the quality of life in Edmonton.
+
+This research is aimed at capturing citizen perception based performance measures which feed into the corporate performance reporting to achieve the City’s vision for 2040 (The Way Ahead). In recent years, Citizen Perception Surveys have been carried out annually to gather data and report on the measures. 
+
+Taking into account the recent modifications in performance measures as well as the focus on continuous improvement, the 2014 research was designed to: 
+- Measure the progress with respect to the key performance measures
+- Understand the drivers of the performance measures and provide recommendations about how the measures can be further improved.
+- Make comparisons with past measures wherever applicable","590","Surveys","edmonton,perception,survey,2014,safety","247","See Terms of Use","published","City of Edmonton",,,,"https://data.edmonton.ca/resource/f2ri-59cx.json",,,"Not Updated (Historical Only)"
+"https://dashboard.edmonton.ca/d/ncr8-z8ie","ncr8-z8ie","true","dashboard.edmonton.ca","chart","Edmonton Crime Severity Index - Chart View","Edmonton Crime Severity Index measures the severity of crime in Edmonton. It accounts for Edmonton’s population, the number of crimes occurring, and the seriousness of the crimes. Data is based on crimes reported to the Edmonton
+Police Service (EPS) and submitted to Statistics Canada using UCR2 data (uniform-crime-reporting). UCR2 is a national data format that all police services use to allow for cross-jurisdictional comparisons of crime levels. Statistics Canada aggregates the data to calculate the Crime Severity Index. As crime is impacted by many factors, Edmonton Crime Severity Index is considered an indicator.","387","Dashboard","edmonton,crime,crime severity","126",,"published",,,,,"https://dashboard.edmonton.ca/resource/ncr8-z8ie.json",,"September 22, 2015","Annually"
+"https://data.edmonton.ca/d/6r3n-pbes","6r3n-pbes","false","data.edmonton.ca","file","Edmonton Public School Board (EPSB) Ward Boundaries (Tableau)","Boundaries for each Edmonton Public School Board ward. CSV file with columns for Point ID, Ward Name, Latitude, Longitude, and Order. 
+
+Point ID, Latitude, Longitude, and Order are used to draw the boundaries in Tableau.","195","Administrative","epsb,boundary,tableau","215",,"published","Analytics Centre of Excellence","https://data.edmonton.ca/Administrative/EPSB-Ward-Boundaries/f9ip-2tud",,,"https://data.edmonton.ca/resource/6r3n-pbes.json",,,"When Necessary"
+"https://data.edmonton.ca/d/dew5-9m98","dew5-9m98","false","data.edmonton.ca","dataset","Transportation Safety - Edmonton Insight Community","This was one single topic among many as part of the June 2015 Mixed Topic survey. Test link to view these questions: https://www.edmontoninsightcommunity.ca/R.aspx?a=325&t=1. Open from June 08 - 16, 2015. At the time the survey was launched survey invitations were sent to 2834 Insight Community Members. 1297 members completed the survey which represents a completion rate of 46%. A total of 1396 respondents completed the survey: 1297 Insight Community Members and 99 using the anonymous link which will have no demographic info.","37","Surveys","insight,edmonton,transportation,safety,survey","25",,"published",,,"June 08 - 16, 2015",,"https://data.edmonton.ca/resource/dew5-9m98.json",,,"Not Updated (Historical Only)"
+"https://data.edmonton.ca/d/mmqu-q3wx","mmqu-q3wx","false","data.edmonton.ca","dataset","Licensed Cabs ID And Safety - Edmonton Insight Community","This was one single topic among many as part of the January Mixed Topic survey. Test link to view these questions: https://www.edmontoninsightcommunity.ca/R.aspx?a=185&t=1. Open from January 11 - 20, 2015. At the time the survey was launched survey invitations were sent to 2159 Insight Community Members. 1070 members completed the survey which represents a completion rate of 50%. A total of 1178 respondents completed the survey: 1070 Insight Community Members and 108 using the anonymous link which will have no demographic info.","602",,"insight,edmonton,licensed cab id,safety,taxi,survey","213","See Terms of Use","published","City of Edmonton",,"Jan 11 - 20, 2015",,"https://data.edmonton.ca/resource/mmqu-q3wx.json",,,"Not Updated (Historical Only)"
+"https://dashboard.edmonton.ca/d/k5r3-7p2f","k5r3-7p2f","true","dashboard.edmonton.ca","chart","Traffic Safety: Injury Rate Information Chart","Traffic Injury Rate measures the rate of vehicle collisions that resulted in injuries per 1,000 population.Major and minor injuries are included.","629","Transportation","dashboard,traffic safety,injury rate","151",,"published",,,,,"https://dashboard.edmonton.ca/resource/k5r3-7p2f.json",,,"Monthly"
+"https://dashboard.edmonton.ca/d/g2nn-qd2k","g2nn-qd2k","false","dashboard.edmonton.ca","dataset","Traffic Injury Information","Traffic Injury Rate measures the rate of vehicle collisions that resulted in injuries per 1,000 population. Injuries include minor, major, and fatal.","1310","Transportation","dashboard,traffic safety,injury rate","255",,"published",,,,,"https://dashboard.edmonton.ca/resource/g2nn-qd2k.json",,,"Monthly"
+"https://data.edmonton.ca/d/7rap-ipwf","7rap-ipwf","true","data.edmonton.ca","map view","Police Stations - Map View","List of all police stations in Edmonton","2841","Emergency Services","police stations","364","See Terms of Use","published","City of Edmonton",,,,"https://data.edmonton.ca/resource/7rap-ipwf.json",,,"Monthly"
+"https://data.edmonton.ca/d/e7aq-scxv","e7aq-scxv","false","data.edmonton.ca","dataset","Police Stations","List of all police stations in Edmonton","2923","Facilities and Structures","police stations","8183","See Terms of Use","published","City of Edmonton",,,,"https://data.edmonton.ca/resource/e7aq-scxv.json",,,"Monthly"

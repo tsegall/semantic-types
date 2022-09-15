@@ -1,0 +1,61 @@
+Branch,Webpage,Address,City,Zip,Square Feet,Inventory,Population Size,Phone,TTY Phone,Sunday Open,Sunday Close,Monday Open,Monday Close,Tuesday Open,Tuesday Close,Wednesday Open,Wednesday Close,Thursday Open,Thursday Close,Friday Open,Friday Close,Saturday Open,Saturday Close,Wi-Fi,Charging,Go Kits,Literacy After School,Collaboration,Computers,Discovery Room,3D printers,makerspace,E-Reader,Laptops,amharic adult,amharic child,chinese adult,chinese child,farsi adult,farsi child,french adult,french child,korean adult,korean child,russian adult,russian child,spanish adult,spanish child,vietnamese adult,vietnamese child,Metro Station,Bike Share 2,Bike Share 1,Bus 4,Bus 5,Bus 6,Bus 7,Bus 9,Bus 12,Bus 14,Bus 15,Bus 16,Bus 17,Bus 19,Bus 20,Bus 23,Bus 26,Bus 29,Bus 33,Bus 34,Bus 36,Bus 45,Bus 47,Bus 48,Bus 53,Bus 55,Bus 56,Bus 58,Bus 59,Bus 76,Bus 90,Bus 97,Bus 98,Bus j2,Bus l8,metrobus c2,metrobus c4,metrobus C8,metrobus d5,metrobus f4,metrobus j2,metrobus j3,metrobus j4,metrobus l8,metrobus Q1,metrobus Q2,metrobus T2,metrobus z2,metrobus Z8,metrobus Z6,metrobus Z9,Latitude,Longitude,Location,Council Districts,Councils,Communities,Zip Codes,Municipalities,Service Regions
+White Oak,http://montgomerycountymd.gov/Library/branches/WhiteOak.html,11701 New Hampshire Avenue,Silver Spring,20904,16205,94217,,240-773-9555,,1,5,10,6,12,8,10,6,12,8,10,6,10,6,y,y,y,y,0,21,n,n,n,y,n,y,y,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,walden rd,garland ave,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,y,y,n,n,39.048025,-76.992139,"11701 New Hampshire Avenue
+(39.047701, -76.992799)",5,5,18,12,1,2
+Silver Spring,http://montgomerycountymd.gov/Library/branches/SilverSpring.html,900 Wayne Avenue,Silver Spring,20910,90000,118397,,240-773-9420,,1,5,10,6,1,9,10,6,1,9,10,6,10,6,y,y,y,y,10,43,n,y,n,n,y,y,y,y,y,n,n,n,n,n,n,n,n,y,y,y,y,silver spring,ellsworth dr,fenton st,n,n,n,n,n,n,n,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,y,n,n,n,n,n,n,n,n,38.994918,-77.024769,"900 Wayne Ave
+(38.995311, -77.024591)",5,5,7,3065,1,1
+Twinbrook,http://montgomerycountymd.gov/Library/branches/Twinbrook.html,202 Meadow Hall Drive,Rockville,20851,16895,64453,,240-777-0240,,1,5,10,6,12,8,10,6,12,8,10,6,10,6,y,y,y,y,3,15,n,n,n,n,y,n,n,y,y,n,n,y,y,y,y,n,n,y,y,n,n,twinbrook,ritchie parkway,fleet st,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,39.075058,-77.113561,"202 Meadow Hall Drive
+Rockville 20851
+(39.074824, -77.113291)",3,3,25,68,12,3
+Rockville,http://montgomerycountymd.gov/Library/branches/rockville.html,21 Maryland Avenue,Rockville,20850,82030,154292,,240-777-0140,,1,5,10,6,1,9,10,6,1,9,10,6,10,6,y,y,y,y,5,37,n,n,y,n,n,n,n,y,y,n,n,y,y,y,y,y,y,y,y,y,y,rockville,maryland ave,e montgomery ave,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.08656,-77.151429,"21 Maryland Avenue
+Rockville 20850
+(39.086578, -77.151051)",3,3,25,71,12,3
+Wheaton,http://montgomerycountymd.gov/Library/branches/Wheaton.html,11701 Georgia Avenue,Wheaton,20902,32000,23150,,240-777-0678,,1,5,10,6,1,9,10,6,1,9,10,6,10,6,y,y,y,y,0,30,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,y,y,y,y,wheaton,lyttonsville pl,lyttonsville rd,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.04678,-77.051307,"2400 Arcola Ave
+Wheaton 20902
+(39.047149, -77.050284)",4,4,16,17,1,4
+Quince Orchard,http://montgomerycountymd.gov/Library/branches/QuinceOrchard.html,15831 Quince Orchard Road,Gaithersburg,20878,17991,110165,,240-777-0200,,1,5,10,6,1,9,10,6,1,9,10,6,10,6,y,y,y,y,0,15,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,n,y,n,n,n,blackwell rd,broshart rd,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.115807,-77.252118,"15831 Quince Orchard Road
+Gaithersburg 20878
+(39.115805, -77.252898)",2,2,24,33,1,5
+Aspen Hill,http://montgomerycountymd.gov/Library/branches/aspenhill.html,4407 Aspen Hill Road,Rockville,20853,16100,78647,,240-773-9410,301-871-2097,1,5,10,6,12,8,10,6,12,8,10,6,10,6,y,y,y,y,1,21,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,twinbrook,E. gude,taft st.,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.079524,-77.088752,"4407 Aspen Hill Rd
+Rockville 20853
+(39.079163, -77.087308)",3,3,61,58,1,4
+Gaithersburg,http://montgomerycountymd.gov/Library/branches/gaithersburg.html,18330 Montgomery Village Avenue,Gaithersburg,20879,62525,153055,,240-773-9490,,1,5,10,6,1,9,10,6,1,9,10,6,10,6,y,y,y,y,7,44,y,n,n,y,n,y,y,y,y,y,y,y,y,y,y,n,n,y,y,y,y,shady grove,shady grove metro,shady grove metro,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.158089,-77.205466,"18330 Montgomery Village Ave
+Gaithersburg 20879
+(39.157594, -77.205133)",2,2,38,28,1,5
+Maggie Nightingale,http://montgomerycountymd.gov/Library/branches/poolesville.html,19633 Fisher Avenue,Poolseville,20837,6250,38456,,240-773-9550,301-972-7825,,,10,6,12,8,12,8,10,6,10,6,10,6,y,y,y,y,0,5,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,blackwell rd,broshart rd,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.145139,-77.410286,"19633 Fisher Avenue
+Poolseville 20837
+(39.144381, -77.41053)",1,1,34,97,16,5
+Potomac,http://montgomerycountymd.gov/Library/branches/Potomac.html,10101 Glenolden Drive,Potomac,20854,16000,92628,,240-777-0690,301-765-4083,1,5,10,6,12,8,10,6,12,8,10,6,10,6,y,y,y,y,0,11,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,southwick street,old georgetown rd,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,39.019274,-77.207797,"10101 Glenolden Drive
+Potomac 20854
+(39.018886, -77.207624)",1,1,20,53,1,3
+Chevy Chase,http://montgomerycountymd.gov/Library/branches/chevychase.html,8005 Connecticut Avenue,Chevy Chase,20815,13656,79482,,240-773-9590,,1,5,10,6,12,8,10,6,12,8,10,6,10,6,y,y,y,y,0,11,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,chevy chase drive,connecticut ave,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,y,n,n,n,n,n,n,n,38.991186,-77.076594,"8005 Connecticut Avenue
+Chevy Chase 20815
+(38.991122, -77.077082)",1,1,5,110,1,3
+Germantown,http://montgomerycountymd.gov/Library/branches/Germantown.html,19840 Century Blvd.,Germantown,20874,44193,176961,,240-777-0110,,1,5,10,6,1,9,10,6,1,9,10,6,10,6,y,y,y,y,5,37,y,n,n,y,n,n,n,y,y,n,n,n,n,n,n,n,n,y,y,n,n,n,pleasant dr,king farm blvd,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.181909,-77.266124,"19840 Century Blvd
+Germantown 20874
+(39.181509, -77.26622)",2,2,39,39,1,5
+Long Branch,http://montgomerycountymd.gov/Library/branches/LongBranch.html,8800 Garland Avenue,Silver Spring,20901,21034,67299,,240-777-0910,301-565-7662,,,,,,,,,,,,,,,y,y,y,y,2,17,n,y,n,y,y,n,n,y,y,n,n,n,n,n,n,n,n,y,y,y,y,n,walden rd,garland ave,n,n,n,n,n,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,y,n,n,n,n,n,n,n,39.00072,-77.00158,"8800 Garland Avenue
+(39.000532, -77.00071)",5,5,8,21,1,1
+Olney,http://montgomerycountymd.gov/Library/branches/Olney.html,3500 Olney-Laytonsville Road,Olney,20832,22574,87423,,240-773-9545,,1,5,10,6,1,9,10,6,1,9,10,6,10,6,y,y,y,y,2,16,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,eagles head ct,needwood rd,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.153654,-77.069035,"3500 Olney-Laytonsville Road
+Olney 20832
+(39.154143, -77.068771)",4,4,58,100,1,4
+Connie Morella,http://montgomerycountymd.gov/Library/branches/bethesda.html,7400 Arlington Road,Bethesda,20814,27280,129548,,240-777-0970,,1,5,10,6,1,9,10,6,1,9,10,6,10,6,y,y,y,y,2,18,n,n,n,n,n,n,n,y,y,n,y,y,y,n,n,n,n,y,y,n,n,bethesda,arlington rd,bethesda ave,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,38.983736,-77.098976,"7400 Arlington Road
+Bethesda 20814
+(38.983745, -77.098579)",1,1,12,111,1,3
+Noyes,http://montgomerycountymd.gov/Library/branches/noyes.html,10237 Carroll Place,Kensington,20895,925,12072,,240-773-9570,,,,,,,,,,,,,,,,y,y,y,y,0,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,linden ave,pooks hill rd,y,n,y,y,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,39.024544,-77.072934,"10237 Carroll Place
+Kensington 20895
+(39.024508, -77.073049)",1,1,15,25,6,4
+Kensington Park,http://montgomerycountymd.gov/Library/branches/KensingtonPark.html,4201 Knowles Avenue,Kensington,20895,16000,73559,,240-773-9515,,1,5,10,6,12,8,10,6,12,8,10,6,10,6,y,y,y,y,3,14,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,linden ave,pooks hill rd,n,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.209091,-77.081309,"4201 Knowles Avenue
+Kensington 20895
+(39.028767, -77.081619)",1,1,15,25,1,4
+Damascus,http://montgomerycountymd.gov/Library/branches/damascus.html,9701 Main Street,Damascus,20872,16400,80971,,240-773-9444,301-253-0148,1,5,10,6,12,8,10,6,12,8,10,6,10,6,y,y,y,y,0,9,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,shady grove,eagles head ct,needwood rd,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,39.2288086,-77.200403,"9701 Main Street
+Damascus 20872
+(39.287238, -77.200174)",2,2,51,42,1,5
+Marilyn Praisner,http://montgomerycountymd.gov/Library/branches/Praisner.html,14910 Old Columbia Pike,Burtonsville,20866,17500,89016,,240-773-9460,301-421-5460,1,5,10,6,1,9,10,6,1,9,10,6,10,6,y,y,y,y,2,18,y,n,n,n,n,n,n,y,y,y,y,y,y,y,y,n,n,n,y,n,n,n,walden rd,garland ave,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,39.102242,-76.940748,"14910 Old Columbia Pike
+Burtonsville 20866
+(39.100886, -76.941241)",5,5,30,47,1,2
+Little Falls,http://montgomerycountymd.gov/Library/branches/LittleFalls.html,5501 Massachusetts Avenue,Bethesda,20816,11500,75478,,240-773-9520,301-320-8813,1,5,10,6,12,8,10,6,12,8,10,6,10,6,y,y,y,y,0,10,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,landy lane,river rd,n,n,n,n,n,n,n,n,n,n,n,n,y,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,38.95885,-77.110169,"5501 Massachusetts Ave
+Bethesda 20816
+(38.958704, -77.110737)",1,1,12,107,1,3
+Davis,http://montgomerycountymd.gov/Library/branches/davis.html,6400 Democracy Blvd.,Bethesda,20817,16000,94430,,240-777-0922,301-897-2203,1,5,10,6,12,8,10,6,12,8,10,6,10,6,y,y,y,y,0,14,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,medical center,linden ave,pooks hill rd,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,n,39.02302,-77.128841,"6400 Democracy Blvd
+Bethesda 20817
+(39.023488, -77.128789)",1,1,12,103,1,3

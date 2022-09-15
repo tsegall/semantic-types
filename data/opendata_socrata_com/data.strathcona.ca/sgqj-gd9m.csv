@@ -1,0 +1,98 @@
+"dataset_link","type","name","description","last_update_date_data","category","update_frequency"
+"https://data.strathcona.ca/d/hxdp-dn5s","gis map","2015 Land Use Bylaw","The Land Use dataset identifies the zoning within Strathcona County that was approved under Bylaw 6-2015 and any subsequent amendments.  On March 10, 2015,Strathcona County Council approved Bylaw 6-2015 and on May 11, 2015the Bylaw came into effect. The Land Use dataset identifies the zoning within Strathcona County that was approved under this Bylaw and any subsequent amendments. http://www.strathcona.ca/departments/planning-development-services/zoning-and-planning-documents/land-use-bylaw/","2020-11-07T09:01:00.000Z","Boundaries","As Needed"
+"https://data.strathcona.ca/d/v78u-sziz","gis map","Area Concept Plan","This data represents only the boundary areas of Council Approved Area Concept Plans. It does not include the future land uses and roadways within the approved plans.
+
+Within Strathcona County and Area Concept Plan (ACP) is defined as  'a comprehensive planning framework and generalized future land use concept that guides subsequent development plans.'","2020-11-07T09:00:00.000Z","Boundaries","As Needed"
+"https://data.strathcona.ca/d/f5h3-uuwi","gis map","Area Structure Plan","This data represents the boundaries of the Council Approved Area Structure Plans and Area Redevelopment Plans. Some boundaries have been created by consolidating the approved Area Structure Plan and its subsequent amendments.
+
+Within Strathcona County the Area Structure Plan (ASP) is defined as a 'statutory plans that outline development of a small part of a community or neighbourhood.'","2020-11-07T09:00:00.000Z","Boundaries","As Needed"
+"https://data.strathcona.ca/d/y99k-mxv7","dataset","Building Permits","Building permits from January 1, 1997 to present. This dataset complies with the Building & Land Development Specification (BLDS) standard for sharing open data on building and construction permits issued by municipal governments. For more information on the BLDS specification see http://permitdata.org/","2020-11-12T12:02:00.000Z","Housing & Buildings","Daily"
+"https://data.strathcona.ca/d/qe7v-mvze","dataset","Building Permits - Recent","Building Permits issued within the last 30 days or whose status changed within the last 30 days.","2020-11-12T12:03:00.000Z","Housing & Buildings","Daily"
+"https://data.strathcona.ca/d/3r5i-6xha","file","Contour Reference Map","This map shows the geographic areas for the north and south contour data. Use the map to determine the corresponding contour file to search and download.","2017-04-04T22:25:00.000Z","Land Features","As Needed"
+"https://data.strathcona.ca/d/du8b-hv35","gis map","Contours 1m  - North Portion of Strathcona County","Single line representation of 1 metre contours in the Northern portion of Strathcona County
+
+Alberta 3TM Reference Meridian 114W","2017-05-24T18:26:00.000Z","Land Features","As Needed"
+"https://data.strathcona.ca/d/ufen-j386","gis map","Contours 1m - South Portion of Strathcona County","Single line representations of 1 metre contours in the southern portion of Strathcona County.
+
+Alberta 3TM Reference Meridian 114W","2017-05-24T18:27:00.000Z","Land Features","As Needed"
+"https://data.strathcona.ca/d/ka5d-d3bx","gis map","Contours 5m INDEX - North Portion of Strathcona County","Single line representation of a sub-sample of the 1 metre contour intervals at every 5 metres for the northern portion of Strathcona County","2017-04-04T20:18:00.000Z","Land Features","As Needed"
+"https://data.strathcona.ca/d/76au-5n8u","gis map","Contours 5m INDEX - South portion of Strathcona County","Single line representation of a sub-sample of the 1 metre contour intervals at every 5 metres for the northern portion of Strathcona County","2017-04-04T20:17:00.000Z","Land Features","As Needed"
+"https://data.strathcona.ca/d/77pr-pds3","gis map","Municipal Boundary","Polygon representing the municipal boundary for Strathcona County.","2020-01-28T15:06:00.000Z","Boundaries","As Needed"
+"https://data.strathcona.ca/d/7sg5-7afn","file","Orthophoto Reference Map 2015","This map shows the tile number and flight dates associated with each orthophoto sid file. Use the map to determine the corresponding orthophoto tile number to search and download.
+
+A list of all 2015 images: https://data.strathcona.ca/browse?category=Imagery&q=orthophoto+2015&sortBy=alpha","2016-11-11T01:44:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/xebd-8248","file","Orthophoto Tile 10 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-01T18:56:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/5y7s-t3up","file","Orthophoto Tile 11 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-01T21:40:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/hdjm-3vzr","file","Orthophoto Tile 1 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-10-31T19:42:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/4ann-x7s5","file","Orthophoto Tile 12 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-01T22:27:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/h9cp-58wf","file","Orthophoto Tile 13 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-02T16:09:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/d77p-r9ek","file","Orthophoto Tile 14 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-02T16:37:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/w95z-pv23","file","Orthophoto Tile 15 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-02T17:10:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/exxp-9ccw","file","Orthophoto Tile 16 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-02T20:32:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/syvu-7g7b","file","Orthophoto Tile 17 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-02T20:54:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/tkb7-7fdh","file","Orthophoto Tile 18 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-02T21:22:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/py7g-p4ka","file","Orthophoto Tile 2 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-10-31T20:32:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/w6h4-3gn4","file","Orthophoto Tile 3 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-10-31T21:07:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/iyq7-2aqm","file","Orthophoto Tile 4 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-10-31T23:33:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/s7ru-v7y2","file","Orthophoto Tile 5 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-01T03:04:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/xivz-ug9q","file","Orthophoto Tile 6 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-01T03:31:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/7wsr-gkxp","file","Orthophoto Tile 7 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-01T16:11:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/wzfv-kczu","file","Orthophoto Tile 8 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-01T16:21:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/pibg-r7bh","file","Orthophoto Tile 9 - 2015","Strathcona County 10cm orthophotos were flown in 2015. Individual tile locations can be determined using the 2015 Orthophoto Reference Map.","2016-11-01T16:52:00.000Z","Imagery","Never"
+"https://data.strathcona.ca/d/sgqj-gd9m","filter","SIG - EAPUOC","This dataset is an inventory of the assets presented as a collection for the Edmonton Area Pipeline and Utility Operators' Committee (EAPUOC)","2020-11-11T22:55:00.000Z","Business & Economy","Daily"
+"https://data.strathcona.ca/d/9bvt-cvek","gis map","Storm Clean Out","Points representing clean outs in the storm system. Clean outs are located at the end of each sump pump discharge line.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:04:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/q9ab-vxzp","gis map","Storm Discharge Point","Points representing inlet and outfall structures in the storm system.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:04:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/vuyp-dvcj","gis map","Storm Gravity Main","Single line representations of storm water pipes.  Precipitation collected from roadways, roofs and developed land makes its way into a network of pipes that convey the water to engineered storm water ponds to store water in rainfall events and act as the primary treatment sources. The water from there is released at a controlled rate in natural streams, rivers and wetlands.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:04:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/9je6-pyut","gis map","Storm Manhole","Points representing manholes and catch basin manholes in storm system. The storm manhole is an access point to pipes in storm drains. Manholes are located at the beginning and end and at a change of direction or size of a gravity storm pipe.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:05:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/3ums-j5hj","gis map","Waste Water Clean Out","Points representing flush points in the waste water system.  Most clean outs are located at the end of pressurized sewer pipes as access points for pipe inspections or cleaning.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:05:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/72nu-8753","gis map","Waste Water Control Valve","Points representing waste water control valves. Control valves are located on the pressurized sewer pipes to control flow and pressure of waste water. “The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:06:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/ispw-shvc","gis map","Waste Water Fitting","Points representing pressurized sewer pipe fittings, including wyes, tees, reducers, plugs, and nodes. The assets are buried at a minimum of 2.74 meters below the ground.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:06:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/s6zk-dux9","gis map","Waste Water Gravity Main","Single line representations of  gravity sewer pipes in the waste water  system.  Waste water gravity mains are buried under ground.  The gravity sewer pipes collected sewage from lateral lines and deliver them to treatment.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:06:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/mirg-hb8e","gis map","Waste Water Lateral Line","Single line representations of service lines in the waste water system.  Lateral lines are buried under ground. Lateral lines transfer sewage from houses and commercial buildings to major gravity or pressurized sewer pipes.“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:06:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/tfkz-z2ms","gis map","Waste Water Manhole","Points representing waste water manholes. The manhole is an access point to pipes in sewage drains. Manholes are located at the beginning and end and at a change of direction or size of a waste water gravity pipe.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:07:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/sf8s-3kv5","gis map","Waste Water Pressurized Main","Single line representations of pressurized sewer pipes. Waste water Pressurized Pipes are buried below ground.  The pressurized sewer pipes collected sewage from lateral lines and deliver them to treatment or gravity sewer pipes.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:07:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/36b3-jnbv","gis map","Waste Water System Valve","Points representing valves that are used to isolate portions of the pressurized sewer systems.   System valves are primarily used to control (open or close) the flow of waste water.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:07:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/tihz-z8sp","gis map","Water Control Valve","Points representing water control valves. Control valves are located on the pressurized water pipes to control flow and pressure of water supply.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:07:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/yv33-rt6e","gis map","Water Fitting","Points representing pressurized water pipe fittings, including wyes, tees, reducers, plugs, and nodes. The assets are buried at a minimum of 2.74 meters below the ground.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:07:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/xsad-m543","gis map","Water Hydrant","Points representing hydrants in the water system.  Private hydrants (red in colour) are not included in this data because they are under private administration.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:07:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/jrv3-539k","gis map","Water Lateral Line","Single line representations of water service lines in water system. Lateral lines transfer water from major water pressurized pipes to houses and commercial buildings.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:08:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/8vzg-rrxg","gis map","Water Meter","Points representing water meters and meter pit locations.  Water meters are used to measure the volume of water used by residential and commercial buildings.  More meter data will be included in the near future.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:08:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/5jvd-2hik","gis map","Water Pressure Zone","These data represent the operational pressure zones used by Strathcona County utilities. These boundaries indicate the isolates areas within the water network, which are physically isolated by closed valves. Boundaries should be drawn through valves and along parcel lines to indicate which lots will be within a particular zone.","2020-11-07T09:08:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/q5ub-8csp","gis map","Water Pressurized Main","Single line representations of water pressurized pipes in water system.  The pressurized pipes deliver fresh water from water reservoirs to residential and commercial areas in Strathcona County.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:08:00.000Z","Utilities","Weekly"
+"https://data.strathcona.ca/d/xtjd-qxep","gis map","Water System Valve","Points representing valves that are used to isolate portions of the water systems.   Water system valves are primarily used to control (open or close) the flow of water supply.
+
+“The maps are provided for information purposes only and are not a replacement for contacting Alberta One Call”","2020-11-07T09:08:00.000Z","Utilities","Weekly"

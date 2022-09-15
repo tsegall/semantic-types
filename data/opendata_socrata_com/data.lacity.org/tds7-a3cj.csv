@@ -1,0 +1,1001 @@
+"rpt_id","arst_date","time","area","area_desc","rd","age","sex_cd","descent_cd","chrg_grp_cd","grp_description","arst_typ_cd","charge","chrg_desc","location","crsst"
+"5835393","2019-12-31T00:00:00.000","1330","14","Pacific","1411","32","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BREEZE                       ST","OCEAN FRONT WALK"
+"5835612","2019-12-31T00:00:00.000","2045","16","Foothill","1643","28","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SAN FERNANDO","PIERCE"
+"5835391","2019-12-31T00:00:00.000","1300","02","Rampart","0289","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11TH                         PL","ALBANY"
+"5835665","2019-12-31T00:00:00.000","2245","16","Foothill","1687","47","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","FLEETWOOD","SAN FERNANDO"
+"5835593","2019-12-31T00:00:00.000","2050","11","Northeast","1145","42","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","GILROY","RIVERSIDE"
+"190501126","2019-12-31T00:00:00.000","1130","05","Harbor","0565","66","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","10TH","GAFFEY"
+"5835616","2019-12-31T00:00:00.000","2109","04","Hollenbeck","0499","49","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BESWICK","CALZONA"
+"190624580","2019-12-31T00:00:00.000","1900","06","Hollywood","0637","52","F","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","HOLLYWOOD                    BL","VINE                         ST"
+"5835492","2019-12-31T00:00:00.000","1530","16","Foothill","1622","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","13300    VAN NUYS                     BL",
+"5835468","2019-12-31T00:00:00.000","1430","18","Southeast","1837","35","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","900 E  94TH                         ST",
+"5835323","2019-12-31T00:00:00.000","1010","05","Harbor","0563","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11TH                         ST","GRAND"
+"5835338","2019-12-31T00:00:00.000","0945","17","Devonshire","1791","37","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8300    WINNETKA                     AV",
+"5835509","2019-12-31T00:00:00.000","1900","06","Hollywood","0637","52","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOLLYWOOD","ARGYLE"
+"5835314","2019-12-31T00:00:00.000","1205","09","Van Nuys","0935","47","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","14400    ERWIN STREET",
+"5835387","2019-12-31T00:00:00.000","1300","02","Rampart","0289","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ALBANY                       ST","11TH                         PL"
+"5835574","2019-12-31T00:00:00.000","2035","02","Rampart","0245","41","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7TH","ALVARADO"
+"190820251","2019-12-31T00:00:00.000","1130","08","West LA","0884","37","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA                    BL","10 FWY"
+"5834603","2019-12-30T00:00:00.000","1500","01","Central","0158","53","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","7TH                          ST","GLADYS                       AV"
+"5834544","2019-12-30T00:00:00.000","1330","18","Southeast","1841","29","F","B","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","500 W  IMPERIAL                     HY",
+"5834343","2019-12-30T00:00:00.000","0700","01","Central","0119","38","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5834270","2019-12-30T00:00:00.000","0300","20","Olympic","2022","31","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH","ST ANDREWS"
+"191230066","2019-12-30T00:00:00.000","0630","12","77th Street","1267","25","F","B",,,"M","11377H&S",,"MANCHESTER                   AV","FIGUEROA                     ST"
+"5834426","2019-12-30T00:00:00.000","0800","05","Harbor","0503","35","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LOMITA","MCCOY                        AV"
+"5834209","2019-12-30T00:00:00.000","0035","16","Foothill","1617","27","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","FENWICK                      ST","SABLE                        AV"
+"5834621","2019-12-30T00:00:00.000","1620","02","Rampart","0246","24","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"5834800","2019-12-30T00:00:00.000","2315","05","Harbor","0529","47","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HENRY FORD","I                            ST"
+"5833929","2019-12-29T00:00:00.000","1350","09","Van Nuys","0909","32","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","13500    SHERMAN                      WY",
+"5833885","2019-12-29T00:00:00.000","1345","01","Central","0162","32","F","B","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","8TH                          ST","FIGUEROA"
+"5833817","2019-12-29T00:00:00.000","1100","12","77th Street","1205","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4900 S  BUDLONG                      AV",
+"5833868","2019-12-29T00:00:00.000","1330","11","Northeast","1124","24","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","DELAY","FLETCHER"
+"5833943","2019-12-29T00:00:00.000","1255","06","Hollywood","0656","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GOWER","ELEANOR                      AV"
+"5834190","2019-12-29T00:00:00.000","2250","16","Foothill","1685","37","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LANKERSHIM                   BL","STRATHERN                    ST"
+"5834074","2019-12-29T00:00:00.000","2100","09","Van Nuys","0952","63","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BURBANK","NOBLE"
+"5834162","2019-12-29T00:00:00.000","2330","15","N Hollywood","1515","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SIMPSON                      AV","VANOWEN                      ST"
+"190401517","2019-12-29T00:00:00.000","1300","04","Hollenbeck","0473","26","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","400 S  SAINT LOUIS                  ST",
+"190401515","2019-12-29T00:00:00.000","1210","04","Hollenbeck","0408","63","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","4900    HUNTINGTON D",
+"191001000","2019-12-29T00:00:00.000","1230","10","West Valley","1025","40","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","LINDLEY                      AV","HART                         ST"
+"191324645","2019-12-29T00:00:00.000","1045","13","Newton","1362","63","F","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","49TH                         ST","AVALON                       BL"
+"5832864","2019-12-28T00:00:00.000","0115","10","West Valley","1033","22","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","19100    VICTORY                      BL",
+"190921844","2019-12-28T00:00:00.000","1630","09","Van Nuys","0909","41","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","WOODMAN                      AV","SHERMAN                      WY"
+"5832952","2019-12-28T00:00:00.000","0915","02","Rampart","0246","39","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"5833249","2019-12-28T00:00:00.000","1950","02","Rampart","0261","43","M","H","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CORONADO","8TH                          ST"
+"190921845","2019-12-28T00:00:00.000","1630","09","Van Nuys","0909","44","M","O","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","WOODMAN                      AV","SHERMAN                      WY"
+"190921840","2019-12-28T00:00:00.000","1445","09","Van Nuys","0923","40","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","14900    GILMORE                      ST",
+"190921841","2019-12-28T00:00:00.000","1445","09","Van Nuys","0923","23","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","14900    GILMORE                      ST",
+"5833029","2019-12-28T00:00:00.000","1240","01","Central","0153","58","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH                          ST","MAIN                         ST"
+"5833025","2019-12-28T00:00:00.000","1350","10","West Valley","1009","28","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","BRIDGE                       ST","ROSCOE                       BL"
+"5832325","2019-12-27T00:00:00.000","0900","14","Pacific","1494","34","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","700    WORLD WAY",
+"5832772","2019-12-27T00:00:00.000","2125","15","N Hollywood","1553","26","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","RIVERSIDE                    DR","CRAFT                        AV"
+"5831914","2019-12-27T00:00:00.000","0230","12","77th Street","1235","46","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","73RD                         ST","VERMONT                      AV"
+"5832669","2019-12-27T00:00:00.000","2225","02","Rampart","0246","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7TH                          ST","WESTLAKE"
+"190223901","2019-12-27T00:00:00.000","1510","02","Rampart","0271","35","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOOVER                       ST","OLYMPIC                      BL"
+"192120409","2019-12-27T00:00:00.000","1730","21","Topanga","2198","20","F","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","LUBAO                        AV","VENTURA                      BL"
+"5832646","2019-12-27T00:00:00.000","1815","13","Newton","1321","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","23RD                         ST","FLOWER"
+"5832385","2019-12-27T00:00:00.000","1400","01","Central","0155","34","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MAPLE                        ST","5TH                          ST"
+"5832658","2019-12-27T00:00:00.000","1920","03","Southwest","0357","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","EXPOSITION                   BL","CATALINA                     ST"
+"5832554","2019-12-27T00:00:00.000","1345","13","Newton","1391","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","68TH                         ST","GRAND                        AV"
+"191324530","2019-12-27T00:00:00.000","1200","13","Newton","1364","30","M","H",,,"M","11377 HS",,"49TH","CENTRAL                      AV"
+"5832482","2019-12-27T00:00:00.000","1450","01","Central","0155","73","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","WALL                         ST","5TH                          ST"
+"5832490","2019-12-27T00:00:00.000","1530","16","Foothill","1675","30","M","W","16","Narcotic Drug Laws","M","11350(A)1HS","POSSESSION OF NARC CONTROLLED SUBSTANCE","8300    SUNLAND                      BL",
+"190130223","2019-12-27T00:00:00.000","1410","01","Central","0155","37","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","6TH","WALL"
+"5831913","2019-12-27T00:00:00.000","0230","15","N Hollywood","1566","33","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","10800    WHIPPLE                      ST",
+"5832474","2019-12-27T00:00:00.000","1500","01","Central","0166","42","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","SAN JULIAN","6TH"
+"190921790","2019-12-27T00:00:00.000","1345","09","Van Nuys","0935","19","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","14100    DELANO                       ST",
+"5832344","2019-12-27T00:00:00.000","1345","13","Newton","1391","29","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","GRAND                        AV","68TH                         ST"
+"5831887","2019-12-27T00:00:00.000","0145","19","Mission","1983","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA                    BL","ROSCOE"
+"5831307","2019-12-26T00:00:00.000","0840","01","Central","0158","50","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7TH                          ST","SAN PEDRO                    ST"
+"5831520","2019-12-26T00:00:00.000","1545","21","Topanga","2147","39","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7100    DE SOTO                      AV",
+"5831798","2019-12-26T00:00:00.000","2250","20","Olympic","2099","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","20TH","HOOVER"
+"192120377","2019-12-26T00:00:00.000","1805","21","Topanga","2189","34","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","VENTURA                      BL","PENFIELD"
+"5831531","2019-12-26T00:00:00.000","1600","14","Pacific","1494","35","M","W","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","700    WORLD WAY",
+"5831291","2019-12-26T00:00:00.000","0715","01","Central","0119","33","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5831653","2019-12-26T00:00:00.000","1515","04","Hollenbeck","0497","23","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3000 E  WASHINGTON                   BL",
+"5831619","2019-12-26T00:00:00.000","1740","03","Southwest","0337","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","35TH                         ST","VAN BUREN"
+"190519864","2019-12-26T00:00:00.000","1400","05","Harbor","0565","34","F","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","10TH                         ST","GAFFEY                       ST"
+"5831786","2019-12-26T00:00:00.000","2250","19","Mission","1963","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VESPER","VAN NUYS"
+"5831207","2019-12-26T00:00:00.000","0125","05","Harbor","0561","23","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1400 W  9TH                          ST",
+"5831173","2019-12-25T00:00:00.000","2245","03","Southwest","0309","21","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1800    OAK                          ST",
+"5830779","2019-12-25T00:00:00.000","0020","19","Mission","1962","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","9700 N  COLUMBUS                     AV",
+"5831002","2019-12-25T00:00:00.000","1215","20","Olympic","2016","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","200 S  KENMORE",
+"190301140","2019-12-25T00:00:00.000","1440","03","Southwest","0396","42","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOOVER                       ST","43RD                         ST"
+"5831095","2019-12-25T00:00:00.000","1915","06","Hollywood","0648","57","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOLLYWOOD","WESTERN"
+"192101176","2019-12-25T00:00:00.000","1500","21","Topanga","2129","34","F","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","QUAKERTOWN                   AV","BALTAR                       ST"
+"190901060","2019-12-25T00:00:00.000","1535","09","Van Nuys","0989","26","F","H",,,"M","11350 H/S",,"13700    VENTURA                      BL",
+"5831090","2019-12-25T00:00:00.000","1620","16","Foothill","1661","44","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","12800    MUSCATINE                    ST",
+"5830310","2019-12-24T00:00:00.000","1155","06","Hollywood","0668","51","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","DELONGPRE","ST ANDREWS"
+"192120295","2019-12-24T00:00:00.000","1600","21","Topanga","2118","28","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","20100    ROSCOE                       BL",
+"5830263","2019-12-24T00:00:00.000","0830","02","Rampart","0299","32","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14TH                         ST","OAK                          ST"
+"5830392","2019-12-24T00:00:00.000","1530","12","77th Street","1235","15","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","1500 W  59TH                         PL",
+"5829830","2019-12-23T00:00:00.000","1400","04","Hollenbeck","0499","31","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ESPERANZA                    ST","14TH                         ST"
+"5829595","2019-12-23T00:00:00.000","0450","17","Devonshire","1779","43","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","AQUEDUCT                     AV","PLUMMER                      ST"
+"5829699","2019-12-23T00:00:00.000","1105","02","Rampart","0261","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","RAMPART","7TH                          ST"
+"5830063","2019-12-23T00:00:00.000","2155","19","Mission","1917","31","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","13800    FOOTHILL                     BL",
+"5829531","2019-12-23T00:00:00.000","0245","19","Mission","1995","36","M","H","16","Narcotic Drug Laws","M","11350(A)1HS","POSSESSION OF NARC CONTROLLED SUBSTANCE","7800    VAN NUYS                     BL",
+"5829910","2019-12-23T00:00:00.000","1815","20","Olympic","2029","28","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","3100    WILSHIRE                     BL",
+"5829810","2019-12-23T00:00:00.000","1330","09","Van Nuys","0933","27","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VESPER","BESSEMER"
+"5829083","2019-12-22T00:00:00.000","1615","09","Van Nuys","0998","36","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VENTURA                      BL","FULTON"
+"5828970","2019-12-22T00:00:00.000","0905","05","Harbor","0555","33","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MARSHALL                     CT","SUMMERLAND                   PL"
+"5828950","2019-12-22T00:00:00.000","1000","06","Hollywood","0645","30","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6800    HOLLYWOOD                    BL",
+"5829014","2019-12-22T00:00:00.000","1153","13","Newton","1317","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","12TH                         ST","BIRCH                        ST"
+"190800830","2019-12-22T00:00:00.000","1130","08","West LA","0893","55","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","SEPULVEDA                    BL","SANTA MONICA                 FY"
+"190519737","2019-12-22T00:00:00.000","1500","05","Harbor","0563","48","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","11TH                         ST","PACIFIC                      AV"
+"190519735","2019-12-22T00:00:00.000","1500","05","Harbor","0563","50","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","11TH                         ST","PACIFIC                      AV"
+"5829060","2019-12-22T00:00:00.000","1445","01","Central","0166","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","400 E  7TH                          ST",
+"5828664","2019-12-21T00:00:00.000","2245","04","Hollenbeck","0456","35","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","FICKETT","FAIRMOUNT"
+"5828125","2019-12-21T00:00:00.000","0030","20","Olympic","2029","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4TH","WESTMORELAND"
+"5828286","2019-12-21T00:00:00.000","0830","01","Central","0119","28","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5828298","2019-12-21T00:00:00.000","1005","15","N Hollywood","1505","26","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7300    LANKERSHIM                   BL",
+"5828229","2019-12-21T00:00:00.000","0630","01","Central","0119","35","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5828426","2019-12-21T00:00:00.000","1500","01","Central","0119","35","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5827552","2019-12-20T00:00:00.000","1535","06","Hollywood","0666","31","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VINE","LA MIRARA"
+"5827587","2019-12-20T00:00:00.000","1640","06","Hollywood","0666","32","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LELAND","EL CENTRO"
+"5827525","2019-12-20T00:00:00.000","1335","01","Central","0153","37","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","500 S  HILL                         ST",
+"5827445","2019-12-20T00:00:00.000","1145","20","Olympic","2029","35","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","3100    WILSHIRE                     BL",
+"5827512","2019-12-20T00:00:00.000","1300","20","Olympic","2005","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 N  ARDMORE                      AV",
+"5827546","2019-12-20T00:00:00.000","1500","06","Hollywood","0666","23","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VINE","LEXINGTON"
+"5827455","2019-12-20T00:00:00.000","1150","18","Southeast","1829","28","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","ALAMEDA                      ST","103RD                        ST"
+"5826554","2019-12-19T00:00:00.000","0910","12","77th Street","1203","36","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1700 W  46TH                         ST",
+"5826500","2019-12-19T00:00:00.000","0810","02","Rampart","0249","26","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1100 W  6TH                          ST",
+"5826450","2019-12-19T00:00:00.000","0745","15","N Hollywood","1549","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5300    LANKERSHIM                   BL",
+"5826968","2019-12-19T00:00:00.000","1730","05","Harbor","0529","23","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","GOODRICH","OPP"
+"5827029","2019-12-19T00:00:00.000","1915","17","Devonshire","1799","36","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","CHASE","HASKELL"
+"5826327","2019-12-18T00:00:00.000","2330","07","Wilshire","0743","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WILSHIRE","OGDEN"
+"5826023","2019-12-18T00:00:00.000","1130","18","Southeast","1831","29","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOOVER","116TH                        PL"
+"5825995","2019-12-18T00:00:00.000","1430","04","Hollenbeck","0459","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BLANCHARD","EVERGREEN"
+"5825915","2019-12-18T00:00:00.000","1220","09","Van Nuys","0985","27","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14200    DICKENS                      ST",
+"5826013","2019-12-18T00:00:00.000","1100","17","Devonshire","1721","38","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CANOGA                       AV","BERMUDA                      ST"
+"5826054","2019-12-18T00:00:00.000","1530","03","Southwest","0358","26","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","3700    MCCLINTOCK                   AV",
+"190129570","2019-12-18T00:00:00.000","2359","01","Central","0119","31","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"192120061","2019-12-18T00:00:00.000","1815","21","Topanga","2189","22","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","VENTURA                      BL","PENFIELD                     AV"
+"192119959","2019-12-17T00:00:00.000","1340","21","Topanga","2144","31","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","22700    VICTORY                      BL",
+"5824900","2019-12-17T00:00:00.000","1230","05","Harbor","0529","51","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","F                            ST","AVALON"
+"5824717","2019-12-17T00:00:00.000","0900","01","Central","0123","27","F","B","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","200 W  TEMPLE                       ST",
+"5824913","2019-12-17T00:00:00.000","1325","01","Central","0156","30","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","SAN JULIAN","6TH"
+"5825491","2019-12-17T00:00:00.000","2310","19","Mission","1985","32","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CHASE","TILDEN"
+"190921367","2019-12-17T00:00:00.000","1645","09","Van Nuys","0905","40","M","W",,,"M","11377 H&S",,"WYANDOTTE                    ST","VAN NUYS                     BL"
+"5825081","2019-12-17T00:00:00.000","1440","02","Rampart","0291","28","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOOVER","ALVARADO"
+"190921368","2019-12-17T00:00:00.000","1645","09","Van Nuys","0905","23","M","B",,,"M","11377 H&S",,"WYANDOTTE                    ST","VAN NUYS                     BL"
+"5825432","2019-12-17T00:00:00.000","2200","02","Rampart","0246","51","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ALVARADO                     ST","WILSHIRE                     BL"
+"5824712","2019-12-17T00:00:00.000","0940","20","Olympic","2019","42","M","B","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","200 S  JUANITA                      AV",
+"5824445","2019-12-16T00:00:00.000","2200","01","Central","0119","37","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5824374","2019-12-16T00:00:00.000","1905","01","Central","0158","51","M","B","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","CENTRAL","INDUSTRIAL"
+"5823913","2019-12-16T00:00:00.000","0100","19","Mission","1901","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ROXFORD","ENCINITAS"
+"5824103","2019-12-16T00:00:00.000","1045","20","Olympic","2029","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3100    WILSHIRE                     BL",
+"5824210","2019-12-16T00:00:00.000","1122","05","Harbor","0527","46","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BERTH","WILMINGTON                   AV"
+"5824093","2019-12-16T00:00:00.000","0930","18","Southeast","1834","41","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1100 E  108TH                        ST",
+"5824442","2019-12-16T00:00:00.000","2050","01","Central","0152","32","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  FIGUEROA                     ST",
+"5823454","2019-12-15T00:00:00.000","1520","01","Central","0119","42","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5823313","2019-12-15T00:00:00.000","0830","15","N Hollywood","1548","53","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5300    LANKERSHIM                   BL",
+"5823342","2019-12-15T00:00:00.000","1130","09","Van Nuys","0989","64","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","13800    VENTURA                      BL",
+"5823403","2019-12-15T00:00:00.000","1250","18","Southeast","1841","41","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","108TH","FIGUEROA"
+"5823497","2019-12-15T00:00:00.000","1755","02","Rampart","0246","37","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"5823869","2019-12-15T00:00:00.000","2220","03","Southwest","0312","46","F","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","ADAMS                        BL","LA BREA                      AV"
+"190800817","2019-12-14T00:00:00.000","1530","08","West LA","0893","33","M","B",,,"M","11377AHS",,"MILITARY                     AV","BROOKHAVEN                   AV"
+"5822783","2019-12-14T00:00:00.000","1150","10","West Valley","1049","26","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6300    WOODLEY                      AV",
+"5822711","2019-12-14T00:00:00.000","0735","20","Olympic","2029","31","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3100    WILSHIRE                     BL",
+"5822696","2019-12-14T00:00:00.000","0900","01","Central","0153","35","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","500 S  HILL                         ST",
+"5822747","2019-12-14T00:00:00.000","0950","07","Wilshire","0739","27","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","300 S  RIMPAU                       BL",
+"5821906","2019-12-13T00:00:00.000","1405","01","Central","0154","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH                          ST","MAIN                         ST"
+"5821964","2019-12-13T00:00:00.000","1430","03","Southwest","0314","26","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3700 W  27TH                         ST",
+"5822072","2019-12-13T00:00:00.000","1515","17","Devonshire","1787","34","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","18000    SUNBURST                     ST",
+"5821685","2019-12-13T00:00:00.000","0235","14","Pacific","1457","20","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","BRADDOCK                     AV","INGLEWOOD                    AV"
+"5822208","2019-12-13T00:00:00.000","2130","11","Northeast","1136","20","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4300    EAGLE ROCK                   BL",
+"5821892","2019-12-13T00:00:00.000","1155","09","Van Nuys","0926","44","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6500    MATILIJA                     AV",
+"5821945","2019-12-13T00:00:00.000","1435","01","Central","0154","29","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MAIN                         ST","7TH                          ST"
+"5821999","2019-12-13T00:00:00.000","1615","01","Central","0147","41","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","HARLEM                       PL","6TH                          ST"
+"5821944","2019-12-13T00:00:00.000","1435","01","Central","0142","33","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5TH","HILL"
+"191824854","2019-12-13T00:00:00.000","1130","18","Southeast","1803","24","M","H",,,"M","11377AH&S",,"8600    WALL                         ST",
+"190921198","2019-12-13T00:00:00.000","1520","09","Van Nuys","0914","35","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","VOSE                         ST","VAN NUYS                     BL"
+"5821887","2019-12-13T00:00:00.000","1130","11","Northeast","1138","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","AVENUE 60","FIGUEROA                     ST"
+"5822112","2019-12-13T00:00:00.000","1810","02","Rampart","0292","31","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","20TH                         ST","HOOVER                       ST"
+"5821625","2019-12-13T00:00:00.000","0130","06","Hollywood","0644","24","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","1400 N  LA BREA",
+"5821826","2019-12-13T00:00:00.000","0850","01","Central","0119","28","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"190519366","2019-12-13T00:00:00.000","1330","05","Harbor","0565","53","M","W",,,"M","11377AHS",,"9TH","GAFFEY"
+"5821926","2019-12-13T00:00:00.000","1445","01","Central","0154","36","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7TH                          ST","MAIN                         ST"
+"190223215","2019-12-13T00:00:00.000","1445","02","Rampart","0271","37","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LAKE                         ST","OLYMPIC"
+"190921122","2019-12-12T00:00:00.000","0012","09","Van Nuys","0911","25","M","B",,,"M","11377(A)PC",,"PEACH                        ST","VOSE                         ST"
+"5821169","2019-12-12T00:00:00.000","1815","12","77th Street","1269","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","STANFORD","84TH                         ST"
+"5820899","2019-12-12T00:00:00.000","0810","15","N Hollywood","1515","28","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LANKERSHIM                   AV","KITTRIDGE                    AV"
+"5820990","2019-12-12T00:00:00.000","1200","10","West Valley","1043","32","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","RESEDA","OXNARD"
+"5821149","2019-12-12T00:00:00.000","1555","15","N Hollywood","1599","27","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3200    OAKLEY                       DR",
+"191120722","2019-12-12T00:00:00.000","0900","11","Northeast","1115","40","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4900    EAGLE ROCK                   BL",
+"5821211","2019-12-12T00:00:00.000","1500","05","Harbor","0567","35","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","8TH                          ST","MESA"
+"5821123","2019-12-12T00:00:00.000","1605","01","Central","0119","46","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5820871","2019-12-12T00:00:00.000","1000","03","Southwest","0397","16","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4100 S  VERMONT                      AV",
+"5820526","2019-12-11T00:00:00.000","1500","01","Central","0142","41","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5TH","HILL"
+"5820226","2019-12-11T00:00:00.000","1410","01","Central","0142","32","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5TH                          ST","HILL                         ST"
+"5820145","2019-12-11T00:00:00.000","1050","09","Van Nuys","0915","31","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","SHERMAN                      WY","LENNOX                       AV"
+"5820158","2019-12-11T00:00:00.000","1045","19","Mission","1919","23","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","12900    FOOTHILL                     BL",
+"5820177","2019-12-11T00:00:00.000","1140","19","Mission","1995","22","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7800    VAN NUYS                     BL",
+"5820379","2019-12-11T00:00:00.000","1305","11","Northeast","1145","20","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","RIVERSIDE","ALLESANDRO"
+"5820130","2019-12-11T00:00:00.000","1055","21","Topanga","2175","62","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PONCE","VENTURA"
+"5820161","2019-12-11T00:00:00.000","0740","20","Olympic","2029","50","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4TH                          ST","SHATTO                       PL"
+"5820137","2019-12-11T00:00:00.000","1010","08","West LA","0822","16","M","H","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","15700    BOWDOIN                      ST",
+"5820194","2019-12-11T00:00:00.000","1210","01","Central","0143","25","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","6TH","HILL"
+"5820493","2019-12-11T00:00:00.000","1730","01","Central","0155","56","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","5TH","MAPLE"
+"5820288","2019-12-11T00:00:00.000","1420","01","Central","0166","55","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH                          ST","JULIAN"
+"5820399","2019-12-11T00:00:00.000","1530","01","Central","0155","64","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","WALL                         ST","5TH"
+"5820539","2019-12-11T00:00:00.000","2020","04","Hollenbeck","0456","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BLANCHARD","MOTT"
+"5820479","2019-12-11T00:00:00.000","1930","21","Topanga","2146","38","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","ALABAMA                      AV","SHERMAN                      WY"
+"5820209","2019-12-11T00:00:00.000","1100","21","Topanga","2105","39","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SCHOENBORN","TOPANGA CANYON"
+"5820291","2019-12-11T00:00:00.000","1210","01","Central","0153","29","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH","HILL"
+"5820200","2019-12-11T00:00:00.000","0740","20","Olympic","2034","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4TH","SHATTO"
+"5819292","2019-12-10T00:00:00.000","1500","14","Pacific","1441","35","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VENICE","PACIFIC"
+"5819453","2019-12-10T00:00:00.000","1430","10","West Valley","1018","53","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","16100    SHERMAN                      WY",
+"5819472","2019-12-10T00:00:00.000","1750","09","Van Nuys","0935","42","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","6200    SYLMAR                       AV",
+"5819496","2019-12-10T00:00:00.000","1700","05","Harbor","0515","28","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","PCH","WILMINGTON"
+"5819155","2019-12-10T00:00:00.000","1030","09","Van Nuys","0933","37","F","W","16","Narcotic Drug Laws","M","11350(A)1HS","POSSESSION OF NARC CONTROLLED SUBSTANCE","6300    VAN NUYS                     BL",
+"5819410","2019-12-10T00:00:00.000","1350","17","Devonshire","1729","33","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BALBOA","SAN FERNANDO"
+"5819448","2019-12-10T00:00:00.000","1600","10","West Valley","1061","48","F","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","19100    VENTURA                      BL",
+"190921046","2019-12-10T00:00:00.000","1300","09","Van Nuys","0901","36","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","15300    SHERMAN                      WY",
+"5819550","2019-12-10T00:00:00.000","1945","16","Foothill","1688","28","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","9300    SAN FERNANDO                 RD",
+"5819380","2019-12-10T00:00:00.000","1615","01","Central","0148","59","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","5TH","SAN PEDRO"
+"5818967","2019-12-10T00:00:00.000","0630","14","Pacific","1494","52","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","400    WORLD                        WY",
+"5818172","2019-12-09T00:00:00.000","0330","02","Rampart","0275","60","M","B","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","JAMES M WOOD","WESTLAKE"
+"5818496","2019-12-09T00:00:00.000","1500","15","N Hollywood","1548","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5300    CARTWRIGHT                   AV",
+"5818170","2019-12-09T00:00:00.000","0310","19","Mission","1971","21","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","RAYEN","ORION"
+"5818451","2019-12-09T00:00:00.000","1130","11","Northeast","1112","34","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VALLE VISTA","AVE 41"
+"5818173","2019-12-09T00:00:00.000","0330","14","Pacific","1499","35","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","LA CIENEGA                   BL","111TH                        ST"
+"5818608","2019-12-09T00:00:00.000","1800","08","West LA","0854","36","M","H","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","COTNER","NEBRASKA"
+"191521693","2019-12-09T00:00:00.000","1630","15","N Hollywood","1502","41","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","7600    BELLAIRE                     AV",
+"5818297","2019-12-09T00:00:00.000","0745","05","Harbor","0503","51","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MCCOY                        AV","LOMITA                       AV"
+"191301102","2019-12-09T00:00:00.000","0200","13","Newton","1307","55","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","7TH                          ST","CENTRAL                      AV"
+"5818276","2019-12-09T00:00:00.000","0815","10","West Valley","1025","43","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ETIWANDA                     AV","SHERMAN                      WY"
+"5818697","2019-12-09T00:00:00.000","1930","19","Mission","1915","42","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","14100    HUBBARD                      ST",
+"191018743","2019-12-09T00:00:00.000","0540","10","West Valley","1004","31","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LINDLEY","KESWICK"
+"5817524","2019-12-08T00:00:00.000","0955","13","Newton","1343","60","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","AVALON                       ST","MARTIN LUTHER KI             BL"
+"5817339","2019-12-08T00:00:00.000","0010","12","77th Street","1266","42","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOOVER","79TH                         ST"
+"5817440","2019-12-08T00:00:00.000","0630","01","Central","0119","29","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5817462","2019-12-08T00:00:00.000","0555","19","Mission","1907","19","F","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MACLAY                       ST","FOOTHILL                     BL"
+"5817561","2019-12-08T00:00:00.000","1230","01","Central","0155","46","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","MAPLE","6TH                          ST"
+"5816563","2019-12-07T00:00:00.000","0040","14","Pacific","1494","28","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","300    WORLD                        WY",
+"190301115","2019-12-07T00:00:00.000","1830","03","Southwest","0317","24","M","H",,,"M","11377(H&S)",,"2500 S  CATALINA                     ST",
+"5817266","2019-12-07T00:00:00.000","1630","06","Hollywood","0644","29","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MC CADDEN","LELAND                       WY"
+"5816981","2019-12-07T00:00:00.000","1025","20","Olympic","2033","42","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","OXFORD","WILSHIRE"
+"5816871","2019-12-07T00:00:00.000","0650","01","Central","0119","31","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"192119500","2019-12-07T00:00:00.000","0950","21","Topanga","2146","48","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VANOWEN","VARIEL"
+"192101142","2019-12-07T00:00:00.000","0015","21","Topanga","2148","56","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SHERMAN                      WY","MASON                        AV"
+"5816956","2019-12-07T00:00:00.000","1030","04","Hollenbeck","0422","56","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5500    HUNTINGTON                   ST",
+"5817045","2019-12-07T00:00:00.000","1605","06","Hollywood","0644","29","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SUNSET","DETROIT"
+"5817181","2019-12-07T00:00:00.000","2005","20","Olympic","2069","21","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","1100 S  VERMONT                      AV",
+"5817032","2019-12-07T00:00:00.000","1525","06","Hollywood","0645","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ORANGE","SUNSET"
+"5816984","2019-12-07T00:00:00.000","1220","14","Pacific","1494","26","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","6500    IMPERIAL",
+"5816939","2019-12-07T00:00:00.000","0930","16","Foothill","1675","41","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8900    GLENOAKS                     BL",
+"5817152","2019-12-07T00:00:00.000","1540","19","Mission","1961","53","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","15400    PLUMMER                      ST",
+"5816335","2019-12-06T00:00:00.000","1750","02","Rampart","0246","42","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"5816529","2019-12-06T00:00:00.000","2335","09","Van Nuys","0911","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PEACH                        AV","HAYNES                       ST"
+"190325959","2019-12-06T00:00:00.000","1330","03","Southwest","0361","69","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","4700    AUGUST                       ST",
+"5816541","2019-12-06T00:00:00.000","2355","20","Olympic","2055","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SAN IPOSA","FEDORA"
+"5815222","2019-12-05T00:00:00.000","0800","11","Northeast","1171","43","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","3100 W  SUNSET                       BL",
+"5815586","2019-12-05T00:00:00.000","1550","01","Central","0157","28","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","6TH","STANFORD"
+"5814941","2019-12-05T00:00:00.000","0258","03","Southwest","0327","45","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","1200 W  27TH                         ST",
+"5815255","2019-12-05T00:00:00.000","1300","09","Van Nuys","0915","45","F","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","14400    VANOWEN                      ST",
+"5815241","2019-12-05T00:00:00.000","1250","09","Van Nuys","0915","55","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14400    VANOWEN                      ST",
+"5815021","2019-12-05T00:00:00.000","0630","01","Central","0119","28","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5815581","2019-12-05T00:00:00.000","1400","04","Hollenbeck","0429","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5300    HYDE                         ST",
+"5814860","2019-12-04T00:00:00.000","2300","20","Olympic","2046","25","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CATALINA","JAMES M WOOD"
+"5814608","2019-12-04T00:00:00.000","1500","02","Rampart","0246","28","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"5814520","2019-12-04T00:00:00.000","0920","21","Topanga","2134","22","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","22300    SHERMAN                      WY",
+"5814500","2019-12-04T00:00:00.000","1130","07","Wilshire","0735","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  CLOVERDALE                   AV",
+"5814473","2019-12-04T00:00:00.000","0830","02","Rampart","0201","25","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","1000 N  VERMONT                      AV",
+"5814755","2019-12-04T00:00:00.000","1900","04","Hollenbeck","0423","51","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","JOHNSTON","MAIN"
+"5814867","2019-12-04T00:00:00.000","2230","17","Devonshire","1722","52","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","CHATSWORTH","CANOGA"
+"5814402","2019-12-04T00:00:00.000","0800","10","West Valley","1023","46","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","18900    KITTRIDGE                    ST",
+"5814856","2019-12-04T00:00:00.000","2230","17","Devonshire","1722","39","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CHATSWORTH","CANOGA"
+"5814751","2019-12-04T00:00:00.000","1900","06","Hollywood","0666","26","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GOWER","SUNSET"
+"5814775","2019-12-04T00:00:00.000","2035","03","Southwest","0395","21","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1500 W  MARTIN LUTHER KI             BL",
+"5814613","2019-12-04T00:00:00.000","1445","02","Rampart","0251","29","F","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","2600    WILSHIRE                     BL",
+"5814696","2019-12-04T00:00:00.000","1750","06","Hollywood","0656","67","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WILLOUGHBY","VINE"
+"5813327","2019-12-03T00:00:00.000","0810","10","West Valley","1025","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","DARBY","SHERMAN"
+"5813865","2019-12-03T00:00:00.000","1115","10","West Valley","1031","20","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","TAMPA","VICTORY"
+"5813904","2019-12-03T00:00:00.000","1510","01","Central","0142","61","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5TH","HILL"
+"191120333","2019-12-03T00:00:00.000","1545","11","Northeast","1149","59","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","AVENUE 52","FIGUEROA"
+"191018478","2019-12-03T00:00:00.000","1900","10","West Valley","1004","34","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","ETIWANDA                     AV","SATICOY                      ST"
+"191018438","2019-12-03T00:00:00.000","0330","10","West Valley","1039","48","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","VANOWEN","HASKELL"
+"5813848","2019-12-03T00:00:00.000","1420","01","Central","0152","35","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","6TH                          ST","HILL                         ST"
+"5814167","2019-12-03T00:00:00.000","2220","01","Central","0153","29","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","500 S  HILL                         ST",
+"5813248","2019-12-03T00:00:00.000","0350","06","Hollywood","0663","27","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","ROMAINE                      ST","MANSFIELD                    AV"
+"5813452","2019-12-03T00:00:00.000","1000","02","Rampart","0299","43","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14TH                         ST","OAK                          ST"
+"191120323","2019-12-03T00:00:00.000","1140","11","Northeast","1157","60","M","H",,,"M","11377",,"FIGUEROA","AVENUE 57"
+"5813242","2019-12-03T00:00:00.000","0315","15","N Hollywood","1512","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SHERMAN                      WY","COLDWATER CA"
+"190518925","2019-12-03T00:00:00.000","1040","05","Harbor","0566","26","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","9TH                          ST","PALOS VERDES"
+"5813162","2019-12-03T00:00:00.000","0020","19","Mission","1983","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA                    BL","ROSCOE                       BL"
+"5813323","2019-12-03T00:00:00.000","0420","07","Wilshire","0702","29","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GARDNER","WILLOUGHBY"
+"5814168","2019-12-03T00:00:00.000","2330","03","Southwest","0373","33","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","CRENSHAW","OBAMA"
+"5813525","2019-12-03T00:00:00.000","1310","09","Van Nuys","0935","31","M","W","16","Narcotic Drug Laws","F","11377HS","POSS CONTROLLED SUBS W/SP PRIOR","6200    SYLMAR                       AV",
+"5813329","2019-12-03T00:00:00.000","0635","01","Central","0155","58","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","200 E  6TH                          ST",
+"5812642","2019-12-02T00:00:00.000","0730","01","Central","0111","55","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5812994","2019-12-02T00:00:00.000","1935","13","Newton","1307","54","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","7TH","GLADYS"
+"5813087","2019-12-02T00:00:00.000","1940","03","Southwest","0376","46","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","WESTERN                      AV","39TH                         ST"
+"190325687","2019-12-02T00:00:00.000","1750","03","Southwest","0335","44","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","E  9TH                          AV","S  30TH                         ST"
+"191120262","2019-12-02T00:00:00.000","1020","11","Northeast","1181","35","F","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","GLENDALE","RESERVOIR"
+"5812587","2019-12-02T00:00:00.000","0525","10","West Valley","1012","37","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","RESEDA                       BL","WYANDOTTE                    ST"
+"191617076","2019-12-02T00:00:00.000","1410","16","Foothill","1602","35","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VAN NUYS                     BL","FOOTHILL                     BL"
+"191120265","2019-12-02T00:00:00.000","1050","11","Northeast","1181","56","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","02000    RESERVOIR                    ST",
+"5813071","2019-12-02T00:00:00.000","2050","02","Rampart","0245","24","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2500 W  6TH                          ST",
+"5813134","2019-12-02T00:00:00.000","2310","15","N Hollywood","1595","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11500    VENTURA                      BL",
+"5811828","2019-12-01T00:00:00.000","0405","09","Van Nuys","0905","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7300    VISTA DEL MONTE              AV",
+"5811977","2019-12-01T00:00:00.000","1210","08","West LA","0892","57","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","PICO","SEPULVEDA"
+"5811894","2019-12-01T00:00:00.000","0930","01","Central","0152","28","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  FIGUEROA                     ST",
+"5811882","2019-12-01T00:00:00.000","0757","10","West Valley","1019","27","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","7200    HASKELL                      AV",
+"5811909","2019-12-01T00:00:00.000","1015","02","Rampart","0237","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2ND                          ST","TOLUCA                       ST"
+"5812019","2019-12-01T00:00:00.000","1425","06","Hollywood","0648","40","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","CARLTON                      WY","SAINT ANDREWS"
+"5811887","2019-12-01T00:00:00.000","0945","06","Hollywood","0636","33","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WHITLEY","HOLLYWOOD"
+"5812538","2019-12-01T00:00:00.000","2300","07","Wilshire","0701","42","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CLINTON","EDINBURGH"
+"5812254","2019-12-01T00:00:00.000","1540","20","Olympic","2023","46","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3RD                          ST","ARDMORE"
+"5812299","2019-12-01T00:00:00.000","1500","19","Mission","1959","28","F","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","ARLETA","FILMORE"
+"5812427","2019-12-01T00:00:00.000","2245","21","Topanga","2136","21","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SHERMAN                      WY","DEERING                      AV"
+"5812249","2019-12-01T00:00:00.000","1530","06","Hollywood","0668","31","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5600    FERNWOOD                     AV",
+"5812338","2019-12-01T00:00:00.000","1920","08","West LA","0893","40","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11200    EXPOSITION                   BL",
+"5812501","2019-12-01T00:00:00.000","1920","08","West LA","0893","47","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","11200    EXPOSITION                   BL",
+"5811809","2019-11-30T00:00:00.000","2330","15","N Hollywood","1505","32","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","11400    SHERMAN                      WY",
+"5811057","2019-11-30T00:00:00.000","0115","19","Mission","1959","36","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SHARP","PAXTON"
+"5811403","2019-11-30T00:00:00.000","1040","09","Van Nuys","0923","43","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","KITTRIDGE","VAN NUYS"
+"5811544","2019-11-30T00:00:00.000","1505","02","Rampart","0246","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"5811332","2019-11-30T00:00:00.000","0710","01","Central","0119","41","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5811383","2019-11-30T00:00:00.000","0945","01","Central","0162","33","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","FIGUEROA","OLYMPIC"
+"5811615","2019-11-30T00:00:00.000","2030","05","Harbor","0517","39","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","EUBANK                       AV","M                            ST"
+"5811481","2019-11-30T00:00:00.000","1450","09","Van Nuys","0941","30","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","OXNARD","SEPULVEDA"
+"5811487","2019-11-30T00:00:00.000","1520","13","Newton","1322","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ADAMS","TRINITY"
+"191120172","2019-11-30T00:00:00.000","0440","11","Northeast","1172","41","F","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","2900    SWAN                         PL",
+"190222532","2019-11-30T00:00:00.000","1140","02","Rampart","0236","57","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BONNIE BRAE","BEVERLY"
+"5811518","2019-11-30T00:00:00.000","1450","01","Central","0119","41","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"190222564","2019-11-30T00:00:00.000","2010","02","Rampart","0245","30","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","ALVARADO","WILSHIRE                     BL"
+"190222533","2019-11-30T00:00:00.000","1140","02","Rampart","0236","59","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BONNIE BRAE","BEVERLY"
+"191501410","2019-11-30T00:00:00.000","1300","15","N Hollywood","1585","40","M","W",,,"M","11377",,"10800    BLUFFSIDE                    DR",
+"190222531","2019-11-30T00:00:00.000","1140","02","Rampart","0236","40","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","BONNIE BRAE","BEVERLY"
+"191901259","2019-11-29T00:00:00.000","2348","19","Mission","1988","19","F","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","WOODMAN","VAN NUYS"
+"5810688","2019-11-29T00:00:00.000","1405","01","Central","0138","22","F","O","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","4TH                          ST","SAN PEDRO"
+"5810708","2019-11-29T00:00:00.000","1510","01","Central","0155","26","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MAPLE                        ST","15TH                         ST"
+"5810899","2019-11-29T00:00:00.000","2000","17","Devonshire","1799","29","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","15700    ROSCOE                       BL",
+"5810867","2019-11-29T00:00:00.000","2100","06","Hollywood","0657","46","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SANTA MONICA                 BL","SAINT ANDREWS"
+"5810659","2019-11-29T00:00:00.000","0830","12","77th Street","1265","35","F","B","16","Narcotic Drug Laws","F","11377HS","POSS CONTROLLED SUBS W/SP PRIOR","79TH","VERMONT"
+"5810751","2019-11-29T00:00:00.000","1550","01","Central","0146","45","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","WALL","5TH                          ST"
+"190920536","2019-11-29T00:00:00.000","1750","09","Van Nuys","0905","29","F","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","KESTER                       AV","RAYMER                       ST"
+"5810123","2019-11-28T00:00:00.000","0120","08","West LA","0841","32","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","12100    SANTA MONICA                 BL",
+"5810233","2019-11-28T00:00:00.000","0800","17","Devonshire","1749","50","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WOODLEY","SAN JOSE"
+"5810203","2019-11-28T00:00:00.000","0700","15","N Hollywood","1557","62","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","10900    MAGNOLIA                     BL",
+"190518712","2019-11-27T00:00:00.000","1410","05","Harbor","0557","26","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","500 S  PACIFIC                      AV",
+"5809454","2019-11-27T00:00:00.000","0700","01","Central","0119","42","M","B","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5809462","2019-11-27T00:00:00.000","0525","14","Pacific","1435","55","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3400    SATELLE                      BL",
+"190222399","2019-11-27T00:00:00.000","1915","02","Rampart","0292","36","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","WASHINGTON","UNION"
+"5810034","2019-11-27T00:00:00.000","2230","03","Southwest","0337","66","M","H","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","NORMANDIE","JEFFERSON"
+"5809935","2019-11-27T00:00:00.000","1700","17","Devonshire","1797","39","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ROSCOE","GOTHIC"
+"5809908","2019-11-27T00:00:00.000","1815","09","Van Nuys","0905","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LULL                         ST","TOBIAS                       AV"
+"190920448","2019-11-27T00:00:00.000","0320","09","Van Nuys","0923","22","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","14600    VICTORY                      BL",
+"5810011","2019-11-27T00:00:00.000","1955","11","Northeast","1151","25","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1500 N  ALEXANDRIA                   AV",
+"5809637","2019-11-27T00:00:00.000","1530","01","Central","0119","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5809906","2019-11-27T00:00:00.000","1625","02","Rampart","0221","37","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","VERMONT","BEVERLY"
+"5809078","2019-11-26T00:00:00.000","1715","08","West LA","0882","39","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SAWTELLE","TENNESSEE"
+"5809022","2019-11-26T00:00:00.000","1445","02","Rampart","0202","44","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SANTA MONICA","HOOVER"
+"5808826","2019-11-26T00:00:00.000","0915","06","Hollywood","0666","39","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SANTA MONICA","EL CENTRO"
+"191718635","2019-11-26T00:00:00.000","1630","17","Devonshire","1712","49","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","11200    TAMPA                        AV",
+"190222352","2019-11-26T00:00:00.000","1700","02","Rampart","0246","32","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","WILSHIRE","ALVARADO"
+"5808690","2019-11-26T00:00:00.000","0730","01","Central","0119","26","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"191823902","2019-11-26T00:00:00.000","1655","18","Southeast","1822","48","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","102ND                        ST","WALL                         ST"
+"5809270","2019-11-26T00:00:00.000","2045","15","N Hollywood","1555","40","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","BELLFLOWER","BLIX"
+"5809114","2019-11-26T00:00:00.000","1845","01","Central","0156","32","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH","MAPLE"
+"190920388","2019-11-25T00:00:00.000","2040","09","Van Nuys","0923","23","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","6700    VAN NUYS                     BL",
+"5808230","2019-11-25T00:00:00.000","1230","09","Van Nuys","0989","33","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","4400    MATILIJA                     AV",
+"5808450","2019-11-25T00:00:00.000","2100","15","N Hollywood","1547","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11400    CHANDLER                     BL",
+"191919717","2019-11-25T00:00:00.000","0100","19","Mission","1962","29","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","9800    SEPULVEDA                    BL",
+"191119991","2019-11-25T00:00:00.000","1200","11","Northeast","1177","24","M","H",,,"M","11377",,"AVENUE 26","FIGUEROA"
+"5808480","2019-11-25T00:00:00.000","2115","09","Van Nuys","0923","25","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6700    VAN NUYS                     BL",
+"5808205","2019-11-25T00:00:00.000","1230","12","77th Street","1235","20","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1200 W  62ND                         ST",
+"191424444","2019-11-25T00:00:00.000","0356","14","Pacific","1443","45","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VENICE","SHELL"
+"5807657","2019-11-25T00:00:00.000","0010","14","Pacific","1437","22","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA                    BL","PALMS                        BL"
+"5807954","2019-11-25T00:00:00.000","0930","19","Mission","1913","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SAN FERNANDO                 RD","BLEDSOE"
+"5808346","2019-11-25T00:00:00.000","1550","10","West Valley","1023","53","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","TAMPA","HART"
+"5808401","2019-11-25T00:00:00.000","1925","21","Topanga","2169","28","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","6400    WINNETKA                     AV",
+"5808239","2019-11-25T00:00:00.000","1300","13","Newton","1307","42","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","AGATHA                       ST","SAN PEDRO                    ST"
+"5808475","2019-11-25T00:00:00.000","2115","18","Southeast","1861","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 W  IMPERIAL                     HY",
+"5807464","2019-11-24T00:00:00.000","1805","09","Van Nuys","0966","36","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VENTURA                      FY","WOODMAN                      AV"
+"5807628","2019-11-24T00:00:00.000","2300","16","Foothill","1654","33","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","10100    BRADLEY                      AV",
+"5807493","2019-11-24T00:00:00.000","1920","02","Rampart","0251","25","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","6TH","CORONADO"
+"5807694","2019-11-24T00:00:00.000","2315","21","Topanga","2105","28","F","W","16","Narcotic Drug Laws","M","11350(A)1HS","POSSESSION OF NARC CONTROLLED SUBSTANCE","21500    SCHOENBORN                   ST",
+"5807503","2019-11-24T00:00:00.000","1810","02","Rampart","0201","39","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VERMONT","SANTA MONICA"
+"5807450","2019-11-24T00:00:00.000","1530","01","Central","0153","44","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","500 S  HILL                         ST",
+"5807182","2019-11-24T00:00:00.000","0745","04","Hollenbeck","0464","55","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1ST                          ST","SOTO                         ST"
+"5807415","2019-11-24T00:00:00.000","1700","17","Devonshire","1735","26","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","10200    ETIWANDA                     AV",
+"5807300","2019-11-24T00:00:00.000","1230","01","Central","0138","43","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","3RD                          ST","OMAR"
+"191227577","2019-11-24T00:00:00.000","2040","12","77th Street","1251","29","M","B",,,"M","11377H&S",,"71ST                         ST","VICTORIA"
+"190901003","2019-11-24T00:00:00.000","0850","09","Van Nuys","0966","31","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","FULTON                       AV","RIVERSIDE"
+"5807327","2019-11-24T00:00:00.000","1305","01","Central","0161","47","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8TH                          ST","FIGUEROA"
+"190920282","2019-11-23T00:00:00.000","0615","09","Van Nuys","0974","33","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","14700    VENTURA                      BL",
+"5806379","2019-11-23T00:00:00.000","1030","01","Central","0132","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","100 S  HILL                         ST",
+"5806215","2019-11-23T00:00:00.000","0300","16","Foothill","1687","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","10900    RATNER                       ST",
+"5806484","2019-11-23T00:00:00.000","1505","15","N Hollywood","1549","42","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5300    LANKERSHIM                   BL",
+"5806527","2019-11-23T00:00:00.000","1600","16","Foothill","1621","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PAXTON","AMBOY"
+"190900996","2019-11-23T00:00:00.000","1100","09","Van Nuys","0941","26","M","B",,,"M","11377H&S",,"OXNARD                       ST","SEPULVEDA                    BL"
+"5805834","2019-11-22T00:00:00.000","1500","02","Rampart","0245","62","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","CORONADO","7TH"
+"190222178","2019-11-22T00:00:00.000","1625","02","Rampart","0245","47","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH                          ST","ALVARADO"
+"190222181","2019-11-22T00:00:00.000","1650","02","Rampart","0245","34","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ALVARADO","WILSHIRE"
+"5805855","2019-11-22T00:00:00.000","1540","06","Hollywood","0666","34","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","EL CENTRO","LELAND"
+"5805691","2019-11-22T00:00:00.000","1110","06","Hollywood","0637","50","M","B","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","LABAIGE","CARLOS"
+"5805613","2019-11-22T00:00:00.000","0755","13","Newton","1343","44","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","400 E  41ST                         ST",
+"5805920","2019-11-22T00:00:00.000","1700","03","Southwest","0363","41","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","3900 S  CRENSHAW                     BL",
+"191119875","2019-11-22T00:00:00.000","1500","11","Northeast","1126","28","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","EATON","AVENUE 56"
+"5806098","2019-11-22T00:00:00.000","2205","04","Hollenbeck","0412","45","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","AVENUE 26","PASADENA"
+"5805278","2019-11-22T00:00:00.000","0215","03","Southwest","0362","35","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4600    OBAMA                        BL",
+"5805256","2019-11-22T00:00:00.000","0010","14","Pacific","1435","47","F","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","11300    VENICE                       BL",
+"5804747","2019-11-21T00:00:00.000","1030","07","Wilshire","0713","35","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GENESE","BEVERLY"
+"5804831","2019-11-21T00:00:00.000","1220","04","Hollenbeck","0455","40","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BARLOW","SOTO"
+"5805029","2019-11-21T00:00:00.000","1845","03","Southwest","0325","23","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","DANA","CATALINA"
+"5804539","2019-11-21T00:00:00.000","0505","14","Pacific","1494","62","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","700    WORLD                        WY",
+"5805025","2019-11-21T00:00:00.000","1915","06","Hollywood","0667","59","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","EL CENTRO","SUNSET"
+"5804810","2019-11-21T00:00:00.000","1240","02","Rampart","0271","19","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","OLYMPIC","LAKE"
+"5804900","2019-11-21T00:00:00.000","1600","06","Hollywood","0645","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","DELONGPRE","SYCAMORE"
+"5804199","2019-11-20T00:00:00.000","1605","01","Central","0153","38","F","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","500 S  HILL                         ST",
+"191322612","2019-11-20T00:00:00.000","0800","13","Newton","1322","51","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","500 E  22ND                         ST",
+"5804117","2019-11-20T00:00:00.000","1350","18","Southeast","1842","24","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","100 W  109TH                        ST",
+"5803717","2019-11-20T00:00:00.000","0800","05","Harbor","0587","33","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","39TH","PACIFIC                      AV"
+"5804371","2019-11-20T00:00:00.000","2220","01","Central","0158","61","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MILLS                        ST","INDUSTRIAL                   ST"
+"5804027","2019-11-20T00:00:00.000","1100","15","N Hollywood","1526","25","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11500    VICTORY                      BL",
+"5803504","2019-11-20T00:00:00.000","0020","13","Newton","1307","21","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","9TH                          ST","GLADYS"
+"5804260","2019-11-20T00:00:00.000","1855","13","Newton","1307","59","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","STANFORD","7TH                          ST"
+"5804161","2019-11-20T00:00:00.000","1550","02","Rampart","0266","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8TH                          ST","BURLINGTON                   AV"
+"190222076","2019-11-20T00:00:00.000","1805","02","Rampart","0246","36","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","400 S  ALVARADO                     ST",
+"191119722","2019-11-19T00:00:00.000","1900","11","Northeast","1124","23","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","3300    DREW                         ST",
+"5803246","2019-11-19T00:00:00.000","1435","01","Central","0155","30","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MAPLE","5TH"
+"5803223","2019-11-19T00:00:00.000","1500","02","Rampart","0201","36","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VERMONT","SANTA MONICA"
+"5803190","2019-11-19T00:00:00.000","0950","01","Central","0119","44","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5803273","2019-11-19T00:00:00.000","1555","09","Van Nuys","0957","29","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14000    MARGATE                      ST",
+"5803333","2019-11-19T00:00:00.000","1845","19","Mission","1954","41","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","10300 N  SEPULVEDA                    BL",
+"5803517","2019-11-19T00:00:00.000","2335","10","West Valley","1024","42","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","DARBY                        AV","HART                         ST"
+"5803365","2019-11-19T00:00:00.000","2000","07","Wilshire","0778","30","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","3600 W  17TH                         ST",
+"5802750","2019-11-19T00:00:00.000","0150","05","Harbor","0525","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MARINE                       AV","D                            ST"
+"5803406","2019-11-19T00:00:00.000","2200","01","Central","0135","49","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","3RD                          ST","LOS ANGELES                  ST"
+"5803177","2019-11-19T00:00:00.000","1600","14","Pacific","1435","39","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","INGLEWOOD","VENICE"
+"5803082","2019-11-19T00:00:00.000","1305","01","Central","0111","14","F","H","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","400 N  GRAND                        AV",
+"5802563","2019-11-18T00:00:00.000","1700","03","Southwest","0391","41","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","STOCKER","ANGELES VISTA"
+"5802354","2019-11-18T00:00:00.000","1330","15","N Hollywood","1547","37","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11600    BURBANK                      BL",
+"5802566","2019-11-18T00:00:00.000","1815","01","Central","0161","40","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7TH","FIGUEROA"
+"5802061","2019-11-18T00:00:00.000","0900","09","Van Nuys","0914","30","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","BASSETT                      ST","KESTER                       AV"
+"5802090","2019-11-18T00:00:00.000","1142","02","Rampart","0219","16","M","O","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","1000 W  TEMPLE                       ST",
+"190324868","2019-11-18T00:00:00.000","1800","03","Southwest","0391","39","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","4700    DON ZAREMBO                  DR",
+"190518361","2019-11-17T00:00:00.000","1600","05","Harbor","0564","46","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  PALOS VERDES                 ST",
+"5801507","2019-11-17T00:00:00.000","1345","06","Hollywood","0659","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SUNSET","NORMANDIE"
+"5801602","2019-11-17T00:00:00.000","1530","19","Mission","1941","28","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","CHATSWORTH","SEPULVEDA"
+"5801544","2019-11-17T00:00:00.000","1520","09","Van Nuys","0937","31","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6300    MURIETTA                     AV",
+"5801538","2019-11-17T00:00:00.000","0815","19","Mission","1962","37","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","NOBLE                        AV","SUPERIOR                     ST"
+"5801785","2019-11-17T00:00:00.000","2030","20","Olympic","2024","42","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","6TH","OXFORD"
+"5801450","2019-11-17T00:00:00.000","1110","14","Pacific","1487","35","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","INTERCEPTOR                  AV","AIRPORT                      BL"
+"5801160","2019-11-16T00:00:00.000","1815","19","Mission","1921","49","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","12700    ENCINITAS                    AV",
+"5801227","2019-11-16T00:00:00.000","2340","06","Hollywood","0645","27","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","HOLLYWOOD","HIGHLAND"
+"190919915","2019-11-16T00:00:00.000","1140","09","Van Nuys","0941","40","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","15000    OXNARD                       ST",
+"190919913","2019-11-16T00:00:00.000","0825","09","Van Nuys","0952","34","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","14500    BURBANK                      BL",
+"192118658","2019-11-16T00:00:00.000","0826","21","Topanga","2139","32","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","VALERIO","WINNETKA"
+"5800603","2019-11-16T00:00:00.000","0320","12","77th Street","1266","39","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","83RD                         ST","FIGUEROA                     ST"
+"5801182","2019-11-16T00:00:00.000","2030","12","77th Street","1267","20","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","84TH","HOOVER"
+"190919919","2019-11-16T00:00:00.000","1400","09","Van Nuys","0933","43","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","CEDROS                       AV","BESSEMER                     ST"
+"5800749","2019-11-16T00:00:00.000","1340","15","N Hollywood","1538","26","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","BURBANK                      BL","E  LANKERSHIM"
+"5801226","2019-11-16T00:00:00.000","2145","05","Harbor","0511","24","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","253RD                        ST","SENATOR"
+"5800143","2019-11-15T00:00:00.000","1325","21","Topanga","2187","29","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","21100    VENTURA                      BL",
+"5800406","2019-11-15T00:00:00.000","2030","17","Devonshire","1752","27","F","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","21100    DEVONSHIRE                   ST",
+"5800344","2019-11-15T00:00:00.000","2000","12","77th Street","1258","33","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7600 S  BROADWAY",
+"191017712","2019-11-15T00:00:00.000","1300","10","West Valley","1043","49","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","YOLANDA                      AV","MIRANDA"
+"5800114","2019-11-15T00:00:00.000","1045","17","Devonshire","1797","28","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","16200    NORDHOFF                     ST",
+"5800052","2019-11-15T00:00:00.000","1003","20","Olympic","2069","19","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOOVER","OLYMPIC"
+"5800156","2019-11-15T00:00:00.000","1405","01","Central","0146","34","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","WALL                         ST","WINSTON"
+"5799658","2019-11-15T00:00:00.000","0015","20","Olympic","2015","29","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4000    BEVERLY                      BL",
+"5799644","2019-11-15T00:00:00.000","0015","20","Olympic","2015","25","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4000    BEVERLY                      BL",
+"5800227","2019-11-15T00:00:00.000","1645","19","Mission","1969","28","F","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","RIVERSIDE","COLDWATER CANYON"
+"5800167","2019-11-15T00:00:00.000","1510","06","Hollywood","0646","45","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOLLYWOOD","ARGYLE"
+"5800171","2019-11-15T00:00:00.000","1410","15","N Hollywood","1559","41","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4900 E  CAHUENGA                     BL",
+"5799572","2019-11-15T00:00:00.000","0030","16","Foothill","1606","27","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","FOOTHILL                     BL","OSBORNE                      ST"
+"5800170","2019-11-15T00:00:00.000","1445","01","Central","0148","60","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","SAN PEDRO","4TH                          ST"
+"191901224","2019-11-15T00:00:00.000","1510","19","Mission","1981","69","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","SEPULVEDA","PARTHENIA"
+"5799330","2019-11-14T00:00:00.000","1600","01","Central","0138","58","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","4TH","WALL                         ST"
+"5799144","2019-11-14T00:00:00.000","1100","02","Rampart","0246","27","M","O","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","600 S  ALVARADO",
+"5799231","2019-11-14T00:00:00.000","1320","08","West LA","0891","56","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CENTINELA","PICO"
+"5799207","2019-11-14T00:00:00.000","1345","01","Central","0162","38","F","O","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","700 W  7TH                          ST",
+"5799238","2019-11-14T00:00:00.000","1445","01","Central","0119","42","M","B","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5799598","2019-11-14T00:00:00.000","2330","11","Northeast","1118","38","F","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","NOLDEN","HUB"
+"5798937","2019-11-14T00:00:00.000","0835","09","Van Nuys","0935","37","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6200    SYLMAR                       AV",
+"5799010","2019-11-14T00:00:00.000","0805","07","Wilshire","0702","28","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7300    WILLOUGHBY",
+"5799137","2019-11-14T00:00:00.000","1310","06","Hollywood","0647","24","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5800 W  HOLLYWOOD",
+"5799542","2019-11-14T00:00:00.000","2340","09","Van Nuys","0933","24","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SYLVAN                       ST","VAN NUYS"
+"5799528","2019-11-14T00:00:00.000","2205","11","Northeast","1123","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LOS FELIZ                    BL","GLENFELIZ"
+"5798717","2019-11-13T00:00:00.000","2240","15","N Hollywood","1516","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11400    VANOWEN                      ST",
+"5798574","2019-11-13T00:00:00.000","1600","01","Central","0139","39","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1ST                          ST","ALAMEDA"
+"190622237","2019-11-13T00:00:00.000","1430","06","Hollywood","0636","32","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","1700 N  HIGHLAND                     AV",
+"5798578","2019-11-13T00:00:00.000","1745","15","N Hollywood","1514","44","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","LAUREL CANYON","KITTRIDGE"
+"5798189","2019-11-13T00:00:00.000","1300","02","Rampart","0257","54","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1200    WILSHIRE                     BL",
+"190221693","2019-11-13T00:00:00.000","1540","02","Rampart","0246","41","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WILSHIRE","ALVARADO"
+"5797871","2019-11-13T00:00:00.000","0030","12","77th Street","1239","37","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6000 S  FIGUEROA                     ST",
+"5798127","2019-11-13T00:00:00.000","0830","07","Wilshire","0743","50","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","900 S  OGDEN                        ST",
+"5798457","2019-11-13T00:00:00.000","1420","01","Central","0148","41","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","4TH                          ST","OMAR                         ST"
+"5798495","2019-11-13T00:00:00.000","1630","01","Central","0176","49","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SAN JULIAN","7TH                          ST"
+"5798008","2019-11-13T00:00:00.000","1000","06","Hollywood","0679","35","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","5600    SUNSET                       BL",
+"190401395","2019-11-13T00:00:00.000","2000","04","Hollenbeck","0438","53","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5000    LA CALANDRIA                 DR",
+"5798571","2019-11-13T00:00:00.000","1500","01","Central","0148","24","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4TH                          ST","CROCKER                      ST"
+"5798558","2019-11-13T00:00:00.000","1650","01","Central","0158","48","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","7TH","TOWNE"
+"192118445","2019-11-12T00:00:00.000","1700","21","Topanga","2189","26","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","VENTURA                      BL","PENFIELD                     AV"
+"5797302","2019-11-12T00:00:00.000","1020","09","Van Nuys","0985","38","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","4400    CALHOUN                      AV",
+"5797309","2019-11-12T00:00:00.000","1030","17","Devonshire","1737","32","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","11100    BALBOA                       BL",
+"5797200","2019-11-12T00:00:00.000","0835","06","Hollywood","0663","35","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ROMAINE","MANSFIELD"
+"191520544","2019-11-12T00:00:00.000","1400","15","N Hollywood","1585","38","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","TUJUNGA                      AV","DILLING                      ST"
+"190127072","2019-11-12T00:00:00.000","0445","01","Central","0158","58","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","STANFORD","5TH"
+"5797527","2019-11-12T00:00:00.000","1545","03","Southwest","0318","31","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","ADAMS","MAGNOLIA"
+"5797445","2019-11-12T00:00:00.000","1400","06","Hollywood","0646","68","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SUNSET","CAHUENGA"
+"5797324","2019-11-12T00:00:00.000","1030","05","Harbor","0513","35","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VERMONT                      AV","PCH"
+"5797694","2019-11-12T00:00:00.000","2125","16","Foothill","1643","30","M","W","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","VAN NUYS                     BL","SAN FERNANDO                 BL"
+"5796643","2019-11-12T00:00:00.000","0030","21","Topanga","2126","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","21000    STAGG                        ST",
+"5797698","2019-11-12T00:00:00.000","2140","01","Central","0143","28","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","5TH","HILL"
+"5797701","2019-11-12T00:00:00.000","2150","16","Foothill","1654","44","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","9900    SAN FERNANDO                 RD",
+"5797702","2019-11-12T00:00:00.000","2140","05","Harbor","0564","26","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PALOS VERDES","6TH"
+"5796108","2019-11-11T00:00:00.000","0530","02","Rampart","0245","55","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ALVARADO                     ST","7TH                          ST"
+"5796596","2019-11-11T00:00:00.000","2140","13","Newton","1361","48","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","48TH","BROADWAY"
+"5796229","2019-11-11T00:00:00.000","1030","16","Foothill","1681","20","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8300    LAUREL CANYON                BL",
+"191119357","2019-11-11T00:00:00.000","1245","11","Northeast","1136","24","M","H",,,"M","11377",,"ELLENWOOD","FAIR PARK"
+"192118397","2019-11-11T00:00:00.000","1515","21","Topanga","2136","27","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","WYANDOTTE                    AV","DEERING                      ST"
+"190518052","2019-11-11T00:00:00.000","0700","05","Harbor","0521","50","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","BATTERY                      ST","GAFFEY                       ST"
+"190200762","2019-11-11T00:00:00.000","0240","02","Rampart","0216","38","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","2200 W  SUNSET                       BL",
+"191322125","2019-11-11T00:00:00.000","1105","13","Newton","1307","32","F","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","AGATHA","STANFORD                     ST"
+"5796347","2019-11-11T00:00:00.000","1320","01","Central","0161","36","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","700 S  FIGUEROA                     ST",
+"190221494","2019-11-10T00:00:00.000","0840","02","Rampart","0236","40","M","W",,,"I","11377(A)H&S",,"ALVARADO","BEVERLY"
+"190301066","2019-11-10T00:00:00.000","0900","03","Southwest","0376","47","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","39TH                         ST","WESTERN                      AV"
+"5795576","2019-11-10T00:00:00.000","0955","06","Hollywood","0648","31","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5400    HOLLYWOOD                    BL",
+"190301070","2019-11-10T00:00:00.000","0300","03","Southwest","0336","42","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","ARLINGTON","JEFFERSON"
+"5795691","2019-11-10T00:00:00.000","1210","06","Hollywood","0679","38","F","G","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ARDMORE","SANTA MONICA"
+"190221492","2019-11-10T00:00:00.000","0805","02","Rampart","0246","31","M","B",,,"I","11377(A)H&S",,"ALVARADO","WILSHIRE"
+"5795906","2019-11-10T00:00:00.000","2055","08","West LA","0889","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2000 S  CORNING                      ST",
+"5795722","2019-11-10T00:00:00.000","1520","10","West Valley","1005","26","F","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","ROSCOE                       BL","YARMOUTH                     ST"
+"5795687","2019-11-10T00:00:00.000","1530","01","Central","0155","48","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","200 E  6TH                          ST",
+"5794850","2019-11-09T00:00:00.000","0730","04","Hollenbeck","0491","49","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1700 S  SOTO                         ST",
+"190221448","2019-11-09T00:00:00.000","1400","02","Rampart","0246","37","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","MARYLAND","ALVARADO"
+"5794982","2019-11-09T00:00:00.000","1330","10","West Valley","1031","32","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","KITTRIDGE                    ST","TAMPA                        AV"
+"5794962","2019-11-09T00:00:00.000","1030","10","West Valley","1021","25","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","19600    VANOWEN                      ST",
+"191226534","2019-11-09T00:00:00.000","1430","12","77th Street","1207","43","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","47TH                         ST","HOOVER                       ST"
+"5795189","2019-11-09T00:00:00.000","2010","10","West Valley","1027","50","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6900    JELLICO                      AV",
+"5794993","2019-11-09T00:00:00.000","1415","06","Hollywood","0666","33","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LEXINGTON","VINE"
+"5794948","2019-11-09T00:00:00.000","1400","06","Hollywood","0666","34","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","1400    WILCOX                       AV",
+"190324304","2019-11-09T00:00:00.000","1410","03","Southwest","0379","58","M","B","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","40TH                         PL","VERMONT                      AV"
+"191520299","2019-11-09T00:00:00.000","0840","15","N Hollywood","1548","22","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5300    LANKERSHIM                   BL",
+"5795005","2019-11-09T00:00:00.000","1415","06","Hollywood","0666","51","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LEXINGTON","VINE"
+"5794901","2019-11-09T00:00:00.000","1100","20","Olympic","2002","39","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 N  MANHATTAN                    PL",
+"5794991","2019-11-09T00:00:00.000","1400","02","Rampart","0205","26","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","BELLEVUE                     AV","BENTON                       WY"
+"5794071","2019-11-08T00:00:00.000","1430","01","Central","0153","37","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8TH                          ST","FIGUEROA"
+"5793804","2019-11-08T00:00:00.000","0630","01","Central","0119","26","F","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","800    ALAMEDA",
+"5794274","2019-11-08T00:00:00.000","2015","01","Central","0158","33","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","7TH                          ST","STANFORD"
+"5794265","2019-11-08T00:00:00.000","1955","02","Rampart","0246","29","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","500 S  WESTLAKE                     AV",
+"5794178","2019-11-08T00:00:00.000","1620","06","Hollywood","0637","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BRONSON","CARLOS"
+"5794091","2019-11-08T00:00:00.000","1330","16","Foothill","1687","49","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","FOOTHILL                     BL","WYNGATE                      ST"
+"5794296","2019-11-08T00:00:00.000","1950","20","Olympic","2099","51","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","20TH","ARAPAHOE"
+"5794127","2019-11-08T00:00:00.000","1605","06","Hollywood","0646","62","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SCHRADER","SUNSET"
+"5794132","2019-11-08T00:00:00.000","1605","06","Hollywood","0646","22","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SCHRADER","SUNSET"
+"191616270","2019-11-08T00:00:00.000","2000","16","Foothill","1643","41","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","13200    VAN NUYS                     BL",
+"5793952","2019-11-08T00:00:00.000","1205","15","N Hollywood","1553","26","F","H","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","11800    KLING                        ST",
+"5793665","2019-11-08T00:00:00.000","0200","09","Van Nuys","0905","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VAN NUYS","SHERMAN                      WY"
+"5794210","2019-11-08T00:00:00.000","1405","09","Van Nuys","0916","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7000    WOODMAN                      AV",
+"5793704","2019-11-08T00:00:00.000","0225","18","Southeast","1822","22","F","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","FIGUEROA","98TH"
+"5792746","2019-11-07T00:00:00.000","0305","03","Southwest","0395","37","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VERNON","WESTERN"
+"192118283","2019-11-07T00:00:00.000","1830","21","Topanga","2144","48","M","A","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","VANOWEN","FALLBROOK"
+"5792888","2019-11-07T00:00:00.000","0830","08","West LA","0881","36","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11600    LA GRANGE",
+"190324212","2019-11-07T00:00:00.000","1900","03","Southwest","0318","43","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","20TH                         ST","HOOVER                       ST"
+"5793567","2019-11-07T00:00:00.000","2340","19","Mission","1958","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WOODMAN","VAN NUYS"
+"190919472","2019-11-07T00:00:00.000","1430","09","Van Nuys","0932","38","F","W",,,"M","11377AHS",,"14800    FRIAR                        ST",
+"192019642","2019-11-07T00:00:00.000","1755","20","Olympic","2099","52","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","20TH                         ST","ARAPAHOE"
+"5793501","2019-11-07T00:00:00.000","2135","11","Northeast","1145","42","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","2300    LANDA                        ST",
+"5793497","2019-11-07T00:00:00.000","2130","15","N Hollywood","1516","39","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","VANOWEN","FARMDALE"
+"5793364","2019-11-07T00:00:00.000","1600","03","Southwest","0362","30","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4000    COCO                         AV",
+"5793524","2019-11-07T00:00:00.000","2050","09","Van Nuys","0904","22","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","14600    SATICOY                      ST",
+"5793132","2019-11-07T00:00:00.000","0935","07","Wilshire","0782","52","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","VENICE","BURCHARD"
+"5793509","2019-11-07T00:00:00.000","2145","03","Southwest","0308","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WASHINGTON                   BL","TOBERMAN                     ST"
+"5792590","2019-11-06T00:00:00.000","2235","03","Southwest","0308","39","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","OAK                          ST","20TH                         ST"
+"5792571","2019-11-06T00:00:00.000","2200","03","Southwest","0328","43","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","FLOWER","ADAMS"
+"5792660","2019-11-06T00:00:00.000","2335","15","N Hollywood","1503","30","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BELLINGHAM                   AV","VANOWEN                      ST"
+"5792393","2019-11-06T00:00:00.000","1515","07","Wilshire","0711","50","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7900    BEVERLY                      BL",
+"190621891","2019-11-06T00:00:00.000","1440","06","Hollywood","0645","32","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7000 W  SUNSET                       BL",
+"5791780","2019-11-06T00:00:00.000","0030","09","Van Nuys","0911","23","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA                    BL","VANOWEN                      ST"
+"5792443","2019-11-06T00:00:00.000","1730","06","Hollywood","0668","22","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","FERNWOOD","SAN ANDREWS"
+"5791792","2019-11-06T00:00:00.000","0110","02","Rampart","0245","37","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","2200 W  6TH                          ST",
+"5792265","2019-11-06T00:00:00.000","1415","04","Hollenbeck","0497","36","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2900 E  WASHINGTON                   BL",
+"191119126","2019-11-06T00:00:00.000","1315","11","Northeast","1139","49","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MARMION                      WY","FIGUEROA"
+"5792128","2019-11-06T00:00:00.000","1055","20","Olympic","2019","25","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3600    BEVERLY",
+"5792005","2019-11-06T00:00:00.000","0850","10","West Valley","1009","52","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8100    HASKELL                      AV",
+"5791966","2019-11-06T00:00:00.000","0835","06","Hollywood","0647","22","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CARLTON                      WY","CANYON                       DR"
+"5792479","2019-11-06T00:00:00.000","2045","17","Devonshire","1793","36","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","PARTHENIA","CORBIN"
+"5792377","2019-11-06T00:00:00.000","1840","19","Mission","1982","19","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8700    BURNET                       AV",
+"5792340","2019-11-06T00:00:00.000","1545","01","Central","0156","64","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","5TH","SAN PEDRO"
+"191119128","2019-11-06T00:00:00.000","1315","11","Northeast","1139","48","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","MARMION                      WY","FIGUEROA"
+"5792555","2019-11-06T00:00:00.000","2140","21","Topanga","2139","29","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","OSO","SATICOY"
+"190919426","2019-11-06T00:00:00.000","1415","09","Van Nuys","0904","39","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","BURNET                       AV","SATICOY                      ST"
+"5792131","2019-11-06T00:00:00.000","1105","19","Mission","1989","55","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","VENTURA","ROSCOE"
+"5791975","2019-11-06T00:00:00.000","0740","04","Hollenbeck","0473","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH","CHICAGO"
+"5791561","2019-11-05T00:00:00.000","1810","01","Central","0119","29","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  VIGNES                       ST",
+"5791105","2019-11-05T00:00:00.000","0800","21","Topanga","2137","46","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","7300    IRONDALE                     AV",
+"5791738","2019-11-05T00:00:00.000","2220","19","Mission","1983","38","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ROSCOE                       BL","BURNET                       AV"
+"190919356","2019-11-05T00:00:00.000","1600","09","Van Nuys","0935","42","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","14100    DELANO                       ST",
+"5791726","2019-11-05T00:00:00.000","2200","06","Hollywood","0679","50","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MELROSE","HARVARD"
+"5791543","2019-11-05T00:00:00.000","1800","18","Southeast","1844","33","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","AVALON","108TH                        ST"
+"5791475","2019-11-05T00:00:00.000","1500","16","Foothill","1601","52","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","PAXTON","GLENOAKS"
+"5791502","2019-11-05T00:00:00.000","1520","02","Rampart","0257","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WESTLAKE","WILSHIRE"
+"5791068","2019-11-05T00:00:00.000","0945","06","Hollywood","0668","31","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5600    FERNWOOD",
+"5791047","2019-11-05T00:00:00.000","0945","06","Hollywood","0668","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5600    FERNWOOD",
+"5791545","2019-11-05T00:00:00.000","1755","18","Southeast","1829","47","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","103RD                        ST","GORMAN"
+"5791498","2019-11-05T00:00:00.000","1435","05","Harbor","0513","65","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MARIGOLD","LOMITA"
+"5791730","2019-11-05T00:00:00.000","2055","04","Hollenbeck","0422","28","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GRIFFIN","BALDWIN"
+"5791360","2019-11-05T00:00:00.000","1240","04","Hollenbeck","0497","42","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MIRASOL","NOAKES"
+"5791569","2019-11-05T00:00:00.000","1800","04","Hollenbeck","0491","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","RIO VISTA                    BL","OLYMPIC                      BL"
+"5791109","2019-11-05T00:00:00.000","1100","06","Hollywood","0656","40","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","6200    SANTA MONICA                 BL",
+"5791328","2019-11-05T00:00:00.000","1230","06","Hollywood","0636","39","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6700    YUCCA                        ST",
+"5791121","2019-11-05T00:00:00.000","1015","09","Van Nuys","0926","36","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","13900    VANOWEN                      ST",
+"5791517","2019-11-05T00:00:00.000","1535","13","Newton","1307","46","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","700    TOWNE                        AV",
+"5790390","2019-11-04T00:00:00.000","1235","04","Hollenbeck","0491","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SOTO                         ST","WASHINGTON                   BL"
+"5790256","2019-11-04T00:00:00.000","0750","01","Central","0119","43","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA",
+"191918842","2019-11-04T00:00:00.000","1600","19","Mission","1907","45","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","13200    GLADSTONE                    AV",
+"5790121","2019-11-04T00:00:00.000","0032","09","Van Nuys","0914","49","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14500    VANOWEN                      ST",
+"5790524","2019-11-04T00:00:00.000","1630","02","Rampart","0246","19","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"5790476","2019-11-04T00:00:00.000","1330","01","Central","0153","38","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH","MAIN"
+"5790113","2019-11-04T00:00:00.000","0050","01","Central","0153","34","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7TH","SPRING"
+"5790512","2019-11-04T00:00:00.000","1445","05","Harbor","0566","45","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","9TH","PALOS VERDES"
+"5790283","2019-11-04T00:00:00.000","0750","01","Central","0119","60","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5790722","2019-11-04T00:00:00.000","2300","09","Van Nuys","0939","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LONGRIDGE","VICTORY"
+"5790676","2019-11-04T00:00:00.000","2100","02","Rampart","0257","34","F","H","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","400    UNION                        DR",
+"191901192","2019-11-04T00:00:00.000","0310","19","Mission","1971","36","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA","RAYEN"
+"5790630","2019-11-04T00:00:00.000","1930","10","West Valley","1061","35","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WILBUR","VENTURA                      BL"
+"5790012","2019-11-03T00:00:00.000","2135","05","Harbor","0517","45","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","M                            ST","BROAD"
+"5790049","2019-11-03T00:00:00.000","2245","15","N Hollywood","1501","33","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7500    COLDWATER CANYON             AV",
+"5790065","2019-11-03T00:00:00.000","2150","01","Central","0138","49","F","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","BOYD                         ST","LOS ANGELES"
+"5789946","2019-11-03T00:00:00.000","1920","05","Harbor","0528","36","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","DRUMM","M                            ST"
+"5672485","2019-11-03T00:00:00.000","0100","01","Central","0132","32","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1ST","OLIVE"
+"5789919","2019-11-03T00:00:00.000","1615","20","Olympic","2026","27","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","300 S  VERMONT                      AV",
+"5789424","2019-11-03T00:00:00.000","0635","01","Central","0119","47","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5789489","2019-11-03T00:00:00.000","0940","01","Central","0153","34","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","5TH                          ST","HILLL                        ST"
+"5789124","2019-11-02T00:00:00.000","1130","05","Harbor","0529","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH","MCFARLAND"
+"5789248","2019-11-02T00:00:00.000","2000","02","Rampart","0221","49","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","300 N  VERMONT                      AV",
+"5789048","2019-11-02T00:00:00.000","1115","17","Devonshire","1797","51","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","DEBRA","RAYEN"
+"5789325","2019-11-02T00:00:00.000","2240","08","West LA","0836","27","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PARNELL                      AV","SANTA MONICA"
+"190220990","2019-11-02T00:00:00.000","0340","02","Rampart","0201","37","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","LILY CREST","ALEXANDRIA"
+"5789316","2019-11-02T00:00:00.000","2230","11","Northeast","1124","42","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","TREADWELL","SAN FERNANDO"
+"5789009","2019-11-02T00:00:00.000","0930","19","Mission","1971","28","F","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","8900    SEPULVEDA                    BL",
+"5788996","2019-11-02T00:00:00.000","0930","10","West Valley","1018","28","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","15900    SHERMAN                      WY",
+"192117976","2019-11-02T00:00:00.000","1840","21","Topanga","2128","24","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","WINNETKA","SATICOY"
+"5788749","2019-11-01T00:00:00.000","2130","02","Rampart","0247","55","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WILSHIRE                     BL","ALVARADO                     ST"
+"5788020","2019-11-01T00:00:00.000","0600","18","Southeast","1842","26","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BROADWAY","108TH                        ST"
+"5788721","2019-11-01T00:00:00.000","2030","02","Rampart","0292","43","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1000 W  WASHINGTON",
+"5788760","2019-11-01T00:00:00.000","2200","01","Central","0148","46","M","B","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","4TH                          ST","SAN PEDRO"
+"5788334","2019-11-01T00:00:00.000","1735","01","Central","0155","37","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WALL                         ST","6TH                          ST"
+"5787453","2019-10-31T00:00:00.000","0950","15","N Hollywood","1549","57","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LANKERSHIM","CHANDLER"
+"5787740","2019-10-31T00:00:00.000","2035","13","Newton","1307","36","M","B","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","CROCKER","AGATHA"
+"5787863","2019-10-31T00:00:00.000","2345","10","West Valley","1024","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CREBS","SHERMAN                      WY"
+"5787814","2019-10-31T00:00:00.000","2152","19","Mission","1906","32","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","13300    SAYRE                        ST",
+"5787200","2019-10-31T00:00:00.000","0010","19","Mission","1944","31","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","FOX                          ST","REMICK                       AV"
+"190919075","2019-10-30T00:00:00.000","1630","09","Van Nuys","0914","68","M","O","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","14500    VOSE                         ST",
+"5786863","2019-10-30T00:00:00.000","1650","04","Hollenbeck","0408","30","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","EL SERENO","EDISON"
+"190919076","2019-10-30T00:00:00.000","1630","09","Van Nuys","0914","27","F","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","14500    VOSE                         ST",
+"191225861","2019-10-30T00:00:00.000","2010","12","77th Street","1239","24","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","6100 S  HOOVER                       ST",
+"5786336","2019-10-30T00:00:00.000","0700","01","Central","0119","41","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"190323679","2019-10-30T00:00:00.000","1830","03","Southwest","0397","37","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","1000 W  43RD                         ST",
+"5786763","2019-10-30T00:00:00.000","1750","15","N Hollywood","1547","39","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","11400    ALBERS                       ST",
+"5786774","2019-10-30T00:00:00.000","1720","06","Hollywood","0647","30","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SUNSET","GOWER"
+"5786762","2019-10-30T00:00:00.000","1745","01","Central","0124","35","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MAIN                         ST","1ST"
+"5786555","2019-10-30T00:00:00.000","1030","19","Mission","1966","21","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VAN NUYS                     BL","NORDHOFF                     ST"
+"5786764","2019-10-30T00:00:00.000","1500","18","Southeast","1844","62","F","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","AVALON","LANZIT                       AV"
+"191901178","2019-10-30T00:00:00.000","1745","19","Mission","1921","41","F","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","ROXFORD","ENCINITAS"
+"191118777","2019-10-29T00:00:00.000","1200","11","Northeast","1136","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4400    EAGLE ROCK                   BL",
+"191118768","2019-10-29T00:00:00.000","1245","11","Northeast","1109","24","F","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","COLORADO","FIGUEROA"
+"191118770","2019-10-29T00:00:00.000","1215","11","Northeast","1117","43","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","EAGLE ROCK","YORK"
+"191321447","2019-10-29T00:00:00.000","1530","13","Newton","1361","23","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","50TH                         ST","GRAND"
+"5672466","2019-10-29T00:00:00.000","0630","05","Harbor","0563","59","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","10TH","GAFFEY"
+"191118767","2019-10-29T00:00:00.000","1245","11","Northeast","1109","26","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","COLORADO","FIGUEROA"
+"191118775","2019-10-29T00:00:00.000","1140","11","Northeast","1151","51","F","O",,,"M","11377",,"GARVANZA","AVENUE 63"
+"5786083","2019-10-29T00:00:00.000","2035","03","Southwest","0321","45","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3400 S  LA CIENGA",
+"5786039","2019-10-29T00:00:00.000","1700","19","Mission","1969","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ARLETA","KAMLOOPS"
+"5786120","2019-10-29T00:00:00.000","2140","13","Newton","1364","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","49TH","HOOPER"
+"5785864","2019-10-29T00:00:00.000","1245","03","Southwest","0358","21","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600    EXPOSITION                   BL",
+"191615868","2019-10-29T00:00:00.000","1430","16","Foothill","1675","37","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","OLINDA","BRADLEY"
+"190401354","2019-10-29T00:00:00.000","1950","04","Hollenbeck","0473","34","M","H",,,"M","11377(A)H2S",,"700 S  CHICAGO                      ST",
+"190517535","2019-10-29T00:00:00.000","0950","05","Harbor","0566","34","F","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","9TH                          ST","BEACON                       ST"
+"5785873","2019-10-29T00:00:00.000","1045","17","Devonshire","1723","32","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","DE SOTO                      AV","CHATSWORTH                   ST"
+"5785822","2019-10-29T00:00:00.000","1225","02","Rampart","0256","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1800 W  6TH                          ST",
+"190918966","2019-10-28T00:00:00.000","0210","09","Van Nuys","0914","48","M","H",,,"M","11377(A)H&S",,"VANOWEN","CEDROS"
+"5785122","2019-10-28T00:00:00.000","1430","19","Mission","1916","44","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","HUBBARD                      ST","GLENOAKS                     AV"
+"191901167","2019-10-28T00:00:00.000","0345","19","Mission","1995","49","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WILLIS","ARMINTA"
+"5784925","2019-10-28T00:00:00.000","0900","12","77th Street","1245","37","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1200    FLORENCE                     AV",
+"5784751","2019-10-28T00:00:00.000","0024","05","Harbor","0529","22","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PREBLE                       AV","OPP                          ST"
+"5784787","2019-10-28T00:00:00.000","0300","01","Central","0111","41","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","ALAMEDA","LOS ANGELES"
+"5784672","2019-10-27T00:00:00.000","2200","02","Rampart","0286","22","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","JAMES M WOOD","BEACON"
+"5784690","2019-10-27T00:00:00.000","2200","02","Rampart","0279","22","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","JAMES M WOOD","BLAINE"
+"191918490","2019-10-27T00:00:00.000","1745","19","Mission","1975","44","M","A","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","VAN NUYS","OSBORNE"
+"5784374","2019-10-27T00:00:00.000","0950","05","Harbor","0503","58","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MCCOY","253RD                        ST"
+"191918531","2019-10-27T00:00:00.000","2255","19","Mission","1983","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA","ROSCOE"
+"5784518","2019-10-27T00:00:00.000","1545","14","Pacific","1472","21","F","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","400 W  MANCHESTER                   AV",
+"5783659","2019-10-26T00:00:00.000","1604","01","Central","0147","36","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WALL","4TH                          ST"
+"5783595","2019-10-26T00:00:00.000","1500","10","West Valley","1049","46","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BURBANK","WOODLEY"
+"5783669","2019-10-26T00:00:00.000","1445","02","Rampart","0205","27","F","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","SILVERLAKE","MARATHON"
+"5783331","2019-10-26T00:00:00.000","0050","15","N Hollywood","1566","24","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","10900    RIVERSIDE                    DR",
+"5782703","2019-10-25T00:00:00.000","0930","17","Devonshire","1723","27","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","MASON","HIAWATHA"
+"5782983","2019-10-25T00:00:00.000","1645","20","Olympic","2034","28","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","700 S  KINGSLEY                     DR",
+"5782937","2019-10-25T00:00:00.000","1832","09","Van Nuys","0923","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14600    VICTORY                      BL",
+"5782985","2019-10-25T00:00:00.000","1535","09","Van Nuys","0964","28","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14100    RIVERSIDE                    DR",
+"5782816","2019-10-25T00:00:00.000","1100","13","Newton","1321","14","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1900 S  MAPLE                        ST",
+"5783068","2019-10-25T00:00:00.000","2240","01","Central","0155","51","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5TH                          ST","TOWNE"
+"5782830","2019-10-25T00:00:00.000","1340","10","West Valley","1029","27","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VALJEAN","HART"
+"5782823","2019-10-25T00:00:00.000","1300","10","West Valley","1008","44","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","16800    ROSCOE                       BL",
+"5782868","2019-10-25T00:00:00.000","1540","05","Harbor","0514","50","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GRANT                        ST","FIGUEROA                     AV"
+"5782063","2019-10-24T00:00:00.000","1345","13","Newton","1371","32","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5500 S  MAIN                         ST",
+"5782131","2019-10-24T00:00:00.000","1600","18","Southeast","1881","31","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","15300    AINSWORTH                    ST",
+"5782119","2019-10-24T00:00:00.000","1600","02","Rampart","0246","31","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"191321129","2019-10-24T00:00:00.000","1130","13","Newton","1325","34","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","29TH                         ST","CENTRAL                      AV"
+"5782537","2019-10-24T00:00:00.000","2300","19","Mission","1982","21","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","SEPULVEDA","N  RAVEN"
+"191321121","2019-10-24T00:00:00.000","1150","13","Newton","1361","39","M","H",,,"M","11377AHS",,"51ST                         ST","GRAND                        AV"
+"5782541","2019-10-24T00:00:00.000","2300","19","Mission","1982","23","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","SEPULVEDA                    BL","RAYEN                        ST"
+"5781577","2019-10-23T00:00:00.000","2330","07","Wilshire","0788","49","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WASHINGTON                   BL","BURNSIDE"
+"5781296","2019-10-23T00:00:00.000","1700","04","Hollenbeck","0418","64","M","H","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","PORTOLA","JENNINGS"
+"5781214","2019-10-23T00:00:00.000","1325","02","Rampart","0235","29","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","100    CARDONDELET",
+"5780772","2019-10-23T00:00:00.000","0100","13","Newton","1385","40","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6100    AVALON                       BL",
+"5781153","2019-10-23T00:00:00.000","1240","20","Olympic","2062","19","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WESTERN","PICO"
+"192018879","2019-10-23T00:00:00.000","1215","20","Olympic","2044","44","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","900 S  KINGSLEY                     DR",
+"5781425","2019-10-23T00:00:00.000","2010","19","Mission","1913","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GLENOAKS                     BL","POLK                         ST"
+"5781043","2019-10-23T00:00:00.000","0940","17","Devonshire","1723","57","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HIAWATHA                     ST","MASON"
+"5781235","2019-10-23T00:00:00.000","1435","01","Central","0162","45","F","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","7TH                          ST","FLOWER"
+"5780803","2019-10-23T00:00:00.000","0300","03","Southwest","0373","17","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3700    CRENSHAW                     BL",
+"5780752","2019-10-23T00:00:00.000","0310","02","Rampart","0245","45","M","O","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","ALVARADO                     ST","6TH                          ST"
+"5780902","2019-10-23T00:00:00.000","0900","06","Hollywood","0657","39","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5400    BARTON                       AV",
+"191821960","2019-10-23T00:00:00.000","1700","18","Southeast","1837","37","F","B",,,"M","11377",,"104TH                        ST","GRAHAM                       ST"
+"191118479","2019-10-23T00:00:00.000","1250","11","Northeast","1115","56","M","W",,,"M","11377",,"EAGLE ROCK","COLORADO"
+"191901157","2019-10-23T00:00:00.000","1530","19","Mission","1979","21","F","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","BRANFORD","ARLETA"
+"5723495","2019-10-23T00:00:00.000","0830","06","Hollywood","0647","23","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOLLYWOOD","VINE"
+"191717010","2019-10-22T00:00:00.000","1330","17","Devonshire","1722","25","F","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","21400    DEVONSHIRE                   ST",
+"5779778","2019-10-22T00:00:00.000","0230","19","Mission","1902","37","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","DE GARMO                     ST","MACLAY                       AV"
+"5780375","2019-10-22T00:00:00.000","2135","19","Mission","1971","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8900    ORION                        AV",
+"5780350","2019-10-22T00:00:00.000","1900","08","West LA","0859","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LA CIENEGA                   BL","SATURN"
+"5779697","2019-10-22T00:00:00.000","0005","19","Mission","1913","26","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","POLK","BRADLEY"
+"5780115","2019-10-22T00:00:00.000","1145","05","Harbor","0521","24","F","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","BATTERY","GAFFEY"
+"5779934","2019-10-22T00:00:00.000","0900","09","Van Nuys","0904","21","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","15000    SHERMAN                      WY",
+"5779967","2019-10-22T00:00:00.000","0835","06","Hollywood","0667","30","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5800    LA MIRADA",
+"5779687","2019-10-22T00:00:00.000","0005","02","Rampart","0246","31","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","600 S  BONNIE BRAE",
+"190918713","2019-10-22T00:00:00.000","1810","09","Van Nuys","0935","20","M","H",,,"O","11350HS",,"14200    BESSEMER                     ST",
+"5780070","2019-10-22T00:00:00.000","1230","01","Central","0155","53","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","5TH                          ST","WALL                         ST"
+"191918183","2019-10-22T00:00:00.000","0210","19","Mission","1987","40","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CHASE                        ST","WOODMAN                      AV"
+"5779144","2019-10-21T00:00:00.000","0100","14","Pacific","1467","45","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA                    BL","77TH                         ST"
+"5779234","2019-10-21T00:00:00.000","0930","15","N Hollywood","1566","47","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MOORPARK","VENTURA                      FY"
+"5779584","2019-10-21T00:00:00.000","2000","09","Van Nuys","0923","40","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VESPER","KITTRIDGE"
+"5779474","2019-10-21T00:00:00.000","1615","01","Central","0158","32","F","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","800 E  6TH                          ST",
+"191501303","2019-10-21T00:00:00.000","1520","15","N Hollywood","1526","27","M","H",,,"M","11377H&S",,"6100    LANKERSHIM                   BL",
+"5779463","2019-10-21T00:00:00.000","1515","10","West Valley","1009","51","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HASKELL","ROSCOE                       BL"
+"191118403","2019-10-21T00:00:00.000","1530","11","Northeast","1133","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GLENDALE","MADERA"
+"5779438","2019-10-21T00:00:00.000","1410","13","Newton","1372","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","58TH                         ST","SAN PEDRO"
+"191501305","2019-10-21T00:00:00.000","1530","15","N Hollywood","1526","53","F","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","6000    LANKERSHIM                   BL",
+"5779377","2019-10-21T00:00:00.000","1310","15","N Hollywood","1547","32","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","TUJUNGA                      AV","CHANDLER                     AV"
+"5779142","2019-10-21T00:00:00.000","0940","09","Van Nuys","0935","53","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14400    ERWIN                        ST",
+"5779152","2019-10-21T00:00:00.000","0730","15","N Hollywood","1502","42","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","STRATHERN","HOLLYWOOD                    FY"
+"5779411","2019-10-21T00:00:00.000","1330","07","Wilshire","0779","41","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1600    5TH                          AV",
+"5778354","2019-10-20T00:00:00.000","0900","13","Newton","1307","34","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CROCKER                      ST","AGATHA                       ST"
+"5778626","2019-10-20T00:00:00.000","2035","19","Mission","1983","39","M","O","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","BURNET                       AV","CHASE                        ST"
+"5778591","2019-10-20T00:00:00.000","1745","08","West LA","0898","34","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GUTHRIE","GARTH"
+"191901141","2019-10-20T00:00:00.000","0315","19","Mission","1995","25","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","14500    ARMINTA                      ST",
+"5779010","2019-10-20T00:00:00.000","2345","02","Rampart","0246","21","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"5778489","2019-10-20T00:00:00.000","1525","01","Central","0153","33","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","500 S  HILL                         ST",
+"190918613","2019-10-20T00:00:00.000","1700","09","Van Nuys","0969","32","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","FULTON                       AV","RIVERSIDE                    DR"
+"5778318","2019-10-20T00:00:00.000","0645","01","Central","0119","52","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5778732","2019-10-20T00:00:00.000","2230","16","Foothill","1665","57","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GLENOAKS                     BL","TRUESDALE                    AV"
+"5778494","2019-10-20T00:00:00.000","1550","13","Newton","1307","29","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BAY","ALAMEDA"
+"191016584","2019-10-19T00:00:00.000","1720","10","West Valley","1067","40","M","O","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","17200    VENTURA                      BL",
+"5778110","2019-10-19T00:00:00.000","2135","10","West Valley","1015","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SATICOY","ETIWANDA"
+"5778173","2019-10-19T00:00:00.000","2345","20","Olympic","2029","27","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  VIRGIL                       AV",
+"5778111","2019-10-19T00:00:00.000","2225","06","Hollywood","0636","24","M","H","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","WHITLEY","HOLLYWOOD                    BL"
+"5777581","2019-10-19T00:00:00.000","1250","14","Pacific","1431","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CLUBHOUSE                    BL","OCEANFRONT                   WK"
+"5777580","2019-10-19T00:00:00.000","1235","10","West Valley","1004","35","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SATICOY                      ST","CANBY                        AV"
+"192117364","2019-10-19T00:00:00.000","1140","21","Topanga","2177","30","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","5900    CANOGA                       AV",
+"5777379","2019-10-19T00:00:00.000","0300","01","Central","0146","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5TH                          ST","LOS ANGELES                  ST"
+"5777090","2019-10-18T00:00:00.000","1730","03","Southwest","0357","29","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1300 W  37TH                         DR",
+"5777147","2019-10-18T00:00:00.000","1845","15","N Hollywood","1549","25","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","5300    LANKERSHIM                   BL",
+"5776478","2019-10-18T00:00:00.000","0715","01","Central","0119","21","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5776860","2019-10-18T00:00:00.000","1000","05","Harbor","0529","53","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","BROAD                        AV","F                            ST"
+"5777082","2019-10-18T00:00:00.000","1720","07","Wilshire","0702","52","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MELROSE                      AV","VISTA"
+"5776992","2019-10-18T00:00:00.000","1640","16","Foothill","1621","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","13500    VAN NUYS                     BL",
+"5776825","2019-10-18T00:00:00.000","1130","13","Newton","1321","16","F","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","FIGUEROA","WASHINGTON"
+"5776410","2019-10-18T00:00:00.000","0230","14","Pacific","1485","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA                    BL","LA TIJERA                    BL"
+"5776863","2019-10-18T00:00:00.000","1120","01","Central","0157","34","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SAN PEDRO                    ST","6TH                          ST"
+"5776335","2019-10-18T00:00:00.000","0110","03","Southwest","0395","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1900 W  42ND                         PL",
+"5777230","2019-10-18T00:00:00.000","1945","04","Hollenbeck","0463","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2000    NEW JERSEY",
+"190322902","2019-10-18T00:00:00.000","2330","03","Southwest","0326","36","M","H",,,"M","11377(H&S)",,"BUDLONG                      AV","ADAMS                        BL"
+"5777039","2019-10-18T00:00:00.000","1825","01","Central","0153","40","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH                          ST","HILL"
+"5777322","2019-10-18T00:00:00.000","2300","11","Northeast","1132","27","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","3900    LOS FELIZ                    BL",
+"192117296","2019-10-17T00:00:00.000","1850","21","Topanga","2144","25","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","22600    VANOWEN                      ST",
+"192117297","2019-10-17T00:00:00.000","1850","21","Topanga","2144","33","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","22600    VANOWEN                      ST",
+"5776090","2019-10-17T00:00:00.000","1155","20","Olympic","2029","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4TH","SHATTO                       PL"
+"191118285","2019-10-17T00:00:00.000","1140","11","Northeast","1142","41","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1800    HILLHURST                    AV",
+"191716786","2019-10-17T00:00:00.000","0820","17","Devonshire","1723","62","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","HIAWATHA                     ST","MASON                        AV"
+"190900936","2019-10-17T00:00:00.000","1135","09","Van Nuys","0911","31","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","6900 N  SEPULVEDA                    BL",
+"5775607","2019-10-17T00:00:00.000","0330","19","Mission","1921","36","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SAN FERNANDO                 RD","BLEDSOE"
+"5776039","2019-10-17T00:00:00.000","1000","03","Southwest","0378","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","EXPOSITION","BILL ROBERTS                 LN"
+"5776288","2019-10-17T00:00:00.000","2115","11","Northeast","1138","30","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PIEDMONT","N  AVENUE 61"
+"5776217","2019-10-17T00:00:00.000","2220","06","Hollywood","0677","32","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SANTA MONICA","GORDON"
+"5776074","2019-10-17T00:00:00.000","1230","20","Olympic","2029","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4TH                          ST","SHATTO                       PL"
+"5776071","2019-10-17T00:00:00.000","1135","20","Olympic","2029","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WESTMORELAND","GENEVA"
+"5775792","2019-10-17T00:00:00.000","1000","10","West Valley","1003","17","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","18700    ELKWOOD                      ST",
+"192117295","2019-10-17T00:00:00.000","1945","21","Topanga","2144","46","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","22600    VANOWEN                      ST",
+"5775584","2019-10-17T00:00:00.000","0135","21","Topanga","2107","26","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","DE SOTO                      AV","ROSCOE                       BL"
+"5775579","2019-10-17T00:00:00.000","0140","01","Central","0158","56","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7TH","ALAMEDA"
+"5775754","2019-10-17T00:00:00.000","0840","14","Pacific","1431","67","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","OCEAN","VENICE"
+"5775182","2019-10-16T00:00:00.000","1525","01","Central","0111","44","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","400    ORD                          ST",
+"5774843","2019-10-16T00:00:00.000","1115","16","Foothill","1637","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7900    FOOTHILL                     BL",
+"5775348","2019-10-16T00:00:00.000","1830","03","Southwest","0378","29","M","B","16","Narcotic Drug Laws","F","11377HS","POSS CONTROLLED SUBS W/SP PRIOR","700    STATE                        DR",
+"5774877","2019-10-16T00:00:00.000","1300","19","Mission","1998","36","M","W","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","LORNE","VAN NUYS"
+"5774541","2019-10-16T00:00:00.000","0400","12","77th Street","1209","36","M","B","16","Narcotic Drug Laws","F","11377HS","POSS CONTROLLED SUBS W/SP PRIOR","VERNON","FIGUEROA"
+"5774914","2019-10-16T00:00:00.000","1421","01","Central","0166","50","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH                          ST","SAN JULIAN                   ST"
+"5775432","2019-10-16T00:00:00.000","1510","01","Central","0148","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CROCKER                      ST","6TH                          ST"
+"5774960","2019-10-16T00:00:00.000","1525","01","Central","0155","31","M","O","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","MAPLE","6TH                          ST"
+"5774178","2019-10-15T00:00:00.000","1520","01","Central","0155","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WALL","WILSON"
+"5774248","2019-10-15T00:00:00.000","1455","01","Central","0156","39","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","200 E  6TH                          ST",
+"5774223","2019-10-15T00:00:00.000","1525","12","77th Street","1269","33","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","400 E  84TH                         PL",
+"5774235","2019-10-15T00:00:00.000","1700","10","West Valley","1006","29","M","O","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","JELLICO","STRATHERN"
+"191917934","2019-10-15T00:00:00.000","0315","19","Mission","1981","45","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SEPULVEDA","CHASE"
+"192117134","2019-10-15T00:00:00.000","1020","21","Topanga","2189","33","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","19900    VENTURA                      BL",
+"5773904","2019-10-15T00:00:00.000","0910","06","Hollywood","0649","43","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOLLYWOOD                    BL","HOBART"
+"5774127","2019-10-15T00:00:00.000","1425","01","Central","0155","43","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MAPLE","5TH"
+"5774295","2019-10-15T00:00:00.000","1615","16","Foothill","1612","64","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","VAN NUYS                     BL","GLEN OAKS"
+"5774346","2019-10-15T00:00:00.000","1600","01","Central","0119","37","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5774326","2019-10-15T00:00:00.000","1645","09","Van Nuys","0989","40","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","WOODMAN                      AV","VALLEYHEART                  DR"
+"5774118","2019-10-15T00:00:00.000","1340","17","Devonshire","1745","37","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","17000    CHATSWORTH                   ST",
+"5774065","2019-10-15T00:00:00.000","1250","09","Van Nuys","0941","40","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","OXNARD                       ST","SEPULVEDA                    BL"
+"5773706","2019-10-15T00:00:00.000","0050","16","Foothill","1622","21","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SAN FERNANDO","VAN NUYS"
+"5774018","2019-10-15T00:00:00.000","1030","14","Pacific","1413","42","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","3RD                          ST","ROSE                         ST"
+"5774026","2019-10-15T00:00:00.000","1055","15","N Hollywood","1548","35","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","10900    MAGNOLIA                     BL",
+"191118074","2019-10-15T00:00:00.000","1030","11","Northeast","1109","26","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","COLORADO","FIGUEROA"
+"191320525","2019-10-14T00:00:00.000","1632","13","Newton","1361","32","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","55TH                         ST","GRAND                        AV"
+"190220018","2019-10-14T00:00:00.000","2030","02","Rampart","0265","32","F","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","JAMES M WOOD","ALVARADO"
+"5773624","2019-10-14T00:00:00.000","2245","19","Mission","1999","24","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","VENTURA CANYON               BL","SATICOY                      ST"
+"5772989","2019-10-14T00:00:00.000","0740","06","Hollywood","0659","22","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SUNSET","HOBART"
+"5773203","2019-10-14T00:00:00.000","1530","18","Southeast","1842","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","113TH                        ST","BROADWAY"
+"192117137","2019-10-14T00:00:00.000","1515","21","Topanga","2138","47","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","7200    COZYCROFT                    AV",
+"190918325","2019-10-14T00:00:00.000","1700","09","Van Nuys","0919","52","M","O",,,"O","11350HS",,"SHERMAN                      WY","WOODMAN                      AV"
+"5773295","2019-10-14T00:00:00.000","1730","04","Hollenbeck","0463","50","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SANTEE                       ST","BREED"
+"190918282","2019-10-14T00:00:00.000","1600","09","Van Nuys","0914","31","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","14500    VANOWEN                      ST",
+"191224794","2019-10-14T00:00:00.000","1935","12","77th Street","1258","33","M","H",,,"M","11377",,"76TH","BROADWAY"
+"191821462","2019-10-14T00:00:00.000","1655","18","Southeast","1802","34","M","H",,,"M","11377",,"90TH                         ST","BROADWAY"
+"191917903","2019-10-14T00:00:00.000","1115","19","Mission","1984","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CHASE","SALOMA"
+"191224860","2019-10-14T00:00:00.000","1507","12","77th Street","1205","33","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","4800 S  NORMANDIE                    AV",
+"5773139","2019-10-14T00:00:00.000","1145","10","West Valley","1079","42","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4700    ORION                        AV",
+"191917899","2019-10-14T00:00:00.000","1250","19","Mission","1981","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","8800 N  SEPULVEDA                    BL",
+"5772490","2019-10-13T00:00:00.000","1230","09","Van Nuys","0966","35","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","VENTURA                      FY","WOODMAN                      AV"
+"5772509","2019-10-13T00:00:00.000","1100","16","Foothill","1659","34","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6500    FOOTHILL                     BL",
+"5772279","2019-10-13T00:00:00.000","0320","04","Hollenbeck","0464","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2300 E  1ST                          ST",
+"5772621","2019-10-13T00:00:00.000","1530","05","Harbor","0514","42","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PACIFIC COAST                HY","FRIGATE"
+"5772418","2019-10-13T00:00:00.000","1000","01","Central","0119","56","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"192117057","2019-10-13T00:00:00.000","1125","21","Topanga","2143","27","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6600    FALLBROOK                    AV",
+"5772641","2019-10-13T00:00:00.000","1800","04","Hollenbeck","0453","21","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1800 E  1ST                          ST",
+"192117048","2019-10-13T00:00:00.000","1145","21","Topanga","2157","30","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","DE SOTO","VANOWEN"
+"190219965","2019-10-13T00:00:00.000","1115","02","Rampart","0236","38","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","200 S  WESTLAKE                     AV",
+"5772714","2019-10-13T00:00:00.000","1900","05","Harbor","0565","28","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","9TH","GAFFEY"
+"190219963","2019-10-13T00:00:00.000","1115","02","Rampart","0236","50","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","200 S  WESTLAKE                     AV",
+"190219966","2019-10-13T00:00:00.000","1115","02","Rampart","0236","36","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","200 S  WESTLAKE                     AV",
+"190219967","2019-10-13T00:00:00.000","1115","02","Rampart","0236","44","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","200 S  WESTLAKE                     AV",
+"192117049","2019-10-13T00:00:00.000","1145","21","Topanga","2157","30","F","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","DE SOTO","VANOWEN"
+"5772336","2019-10-13T00:00:00.000","0700","01","Central","0119","40","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5772854","2019-10-13T00:00:00.000","2215","01","Central","0164","20","M","B","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","6TH","SPRING"
+"5771667","2019-10-12T00:00:00.000","1300","06","Hollywood","0666","48","M","B","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6600    SUNSET",
+"5771849","2019-10-12T00:00:00.000","1910","02","Rampart","0246","42","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","600 S  ALVARADO                     ST",
+"5771689","2019-10-12T00:00:00.000","1015","19","Mission","1999","28","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WOODMAN                      AV","SATICOY                      ST"
+"5771861","2019-10-12T00:00:00.000","1925","05","Harbor","0555","41","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","400 N  GRAND                        AV",
+"5771792","2019-10-12T00:00:00.000","1615","05","Harbor","0583","24","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","25TH                         ST","WESTERN                      AV"
+"5771693","2019-10-12T00:00:00.000","1015","19","Mission","1999","34","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WOODMAN","SATICOY"
+"190124952","2019-10-12T00:00:00.000","1030","01","Central","0176","24","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","7TH                          ST","LOS ANGELES"
+"190918198","2019-10-12T00:00:00.000","1345","09","Van Nuys","0963","29","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","14900    MAGNOLIA                     BL",
+"5771798","2019-10-12T00:00:00.000","1600","02","Rampart","0201","25","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","NEW HAMPSHIRE","SANTA MONICA"
+"5771373","2019-10-11T00:00:00.000","2300","06","Hollywood","0646","28","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","6600 W  SUNSET                       BL",
+"5771239","2019-10-11T00:00:00.000","1535","14","Pacific","1446","46","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GRANDVIEW                    AV","VENICE                       BL"
+"5771331","2019-10-11T00:00:00.000","2000","05","Harbor","0524","42","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ANAHEIM                      ST","HAWAIIAN                     ST"
+"5771330","2019-10-11T00:00:00.000","2000","05","Harbor","0524","42","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ANAHEIM                      AV","HAWAIIAN                     ST"
+"5771273","2019-10-11T00:00:00.000","1750","21","Topanga","2136","28","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","OWENSMOUTH","VALERIO"
+"5771263","2019-10-11T00:00:00.000","1535","14","Pacific","1446","36","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","VENICE                       BL","GRANDVIEW                    AV"
+"5770585","2019-10-10T00:00:00.000","1910","06","Hollywood","0647","48","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SELMA","LA BAIGE"
+"5770480","2019-10-10T00:00:00.000","2100","04","Hollenbeck","0443","33","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","STATE","MARENGO"
+"5770359","2019-10-10T00:00:00.000","1920","09","Van Nuys","0923","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VESPER                       AV","VICTORY                      BL"
+"5769769","2019-10-10T00:00:00.000","0307","14","Pacific","1401","21","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PICO                         BL","BUNDY                        DR"
+"5770229","2019-10-10T00:00:00.000","1456","01","Central","0166","23","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SAN JULIAN","7TH                          ST"
+"190401299","2019-10-10T00:00:00.000","1655","04","Hollenbeck","0459","42","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","3200    FOLSOM                       ST",
+"192018205","2019-10-09T00:00:00.000","2340","20","Olympic","2027","30","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VERMONT","6TH                          ST"
+"5641838","2019-10-09T00:00:00.000","0710","06","Hollywood","0663","37","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ROMAINE","MANSFIELD"
+"5769174","2019-10-09T00:00:00.000","1600","16","Foothill","1656","26","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WHITEGATE","FOOTHILL"
+"5769154","2019-10-09T00:00:00.000","1520","04","Hollenbeck","0478","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3400    PERCY                        ST",
+"5769581","2019-10-09T00:00:00.000","2040","17","Devonshire","1722","26","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","CANOGA                       AV","DEVONSHIRE                   ST"
+"5769194","2019-10-09T00:00:00.000","1640","15","N Hollywood","1526","29","M","O","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","11600    OXNARD                       ST",
+"5769267","2019-10-09T00:00:00.000","1445","20","Olympic","2027","31","F","B","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","6TH                          ST","VERMONT                      AV"
+"5768949","2019-10-09T00:00:00.000","0650","05","Harbor","0566","50","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","9TH","PALOS VERDES                 ST"
+"5768960","2019-10-09T00:00:00.000","0930","02","Rampart","0216","25","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2200    BELLEVUE                     AV",
+"190918066","2019-10-09T00:00:00.000","1705","09","Van Nuys","0941","28","M","W",,,"M","11377H&S",,"5700    SEPULVEDA                    BL",
+"5768650","2019-10-09T00:00:00.000","0230","15","N Hollywood","1521","30","M","O","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","SHERMAN                      WY","FULTON"
+"5769825","2019-10-09T00:00:00.000","0900","15","N Hollywood","1549","53","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CHANDLER","LANKERSHIM"
+"5769296","2019-10-09T00:00:00.000","1500","17","Devonshire","1763","30","F","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","MAYALL                       ST","WINNETKA                     AV"
+"5767900","2019-10-08T00:00:00.000","0700","20","Olympic","2024","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH                          ST","ARDMORE"
+"5768127","2019-10-08T00:00:00.000","1250","13","Newton","1372","56","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","5800 S  SAN PEDRO                    ST",
+"5768193","2019-10-08T00:00:00.000","1130","11","Northeast","1181","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SUNSET                       BL","ALVARADO                     ST"
+"5767582","2019-10-08T00:00:00.000","0210","06","Hollywood","0669","28","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SANTA MONICA                 BL","SERRANO"
+"5768022","2019-10-08T00:00:00.000","1005","14","Pacific","1445","53","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VENICE","CENTINELA"
+"5768018","2019-10-08T00:00:00.000","1045","18","Southeast","1802","21","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","100 W  89TH                         ST",
+"5768084","2019-10-08T00:00:00.000","1215","13","Newton","1307","35","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","TOWNE                        AV","AGATHA                       ST"
+"5767545","2019-10-08T00:00:00.000","0005","04","Hollenbeck","0499","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","15TH","SPENCE                       ST"
+"5767957","2019-10-08T00:00:00.000","0755","14","Pacific","1494","57","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","100    WORLD                        WY",
+"191917625","2019-10-08T00:00:00.000","0115","19","Mission","1931","40","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","INDIAN HILLS","RINALDI"
+"5768406","2019-10-08T00:00:00.000","2030","02","Rampart","0212","26","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VIRGIL","TEMPLE"
+"5768011","2019-10-08T00:00:00.000","1120","06","Hollywood","0668","36","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","FERNANDO","DE LONGPRE"
+"5767985","2019-10-08T00:00:00.000","0825","17","Devonshire","1767","39","M","O","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","RESEDA                       BL","VINCENNES                    ST"
+"190918004","2019-10-08T00:00:00.000","1720","09","Van Nuys","0923","43","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","VANOWEN                      ST","VESPER                       AV"
+"5767218","2019-10-07T00:00:00.000","1310","03","Southwest","0353","28","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3600 S  VICTORIA                     AV",
+"5767200","2019-10-07T00:00:00.000","1200","17","Devonshire","1701","51","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PORTER RANCH                 DR","RINALDI"
+"5767440","2019-10-07T00:00:00.000","2130","19","Mission","1977","27","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","CHASE","SNOWDEN                      AV"
+"5767148","2019-10-07T00:00:00.000","1109","13","Newton","1341","45","F","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","3400 S  GRAND                        AV",
+"190219635","2019-10-07T00:00:00.000","1630","02","Rampart","0265","51","F","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","700 S  WESTLAKE                     AV",
+"190219634","2019-10-07T00:00:00.000","1630","02","Rampart","0265","48","M","B","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","700 S  WESTLAKE                     AV",
+"190322274","2019-10-07T00:00:00.000","1800","03","Southwest","0318","28","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","24TH                         ST","ELLENDALE                    ST"
+"5767217","2019-10-07T00:00:00.000","1430","01","Central","0132","39","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","100 S  HILL                         ST",
+"5766918","2019-10-07T00:00:00.000","0400","02","Rampart","0299","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ALBANY","VENICE"
+"5767348","2019-10-07T00:00:00.000","1725","14","Pacific","1488","49","M","B","16","Narcotic Drug Laws","F","11350(A)HS","POSSESSION NARCOTIC CONTROLLED SUBSTANCE","CENTURY                      BL","AIRPORT                      BL"
+"191614987","2019-10-07T00:00:00.000","1605","16","Foothill","1636","31","M","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","WENTWORTH                    ST","SHARON"
+"5766689","2019-10-06T00:00:00.000","2015","18","Southeast","1837","30","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","103RD","BEACH"
+"5766116","2019-10-06T00:00:00.000","0738","01","Central","0124","26","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2ND","LOS ANGELES"
+"5766359","2019-10-06T00:00:00.000","0935","15","N Hollywood","1595","32","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VENTURA                      BL","RADFORD                      AV"
+"5766685","2019-10-06T00:00:00.000","2015","06","Hollywood","0646","41","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","HIGHLAND                     AV","HOLLYWOOD                    BL"
+"5766442","2019-10-06T00:00:00.000","1015","04","Hollenbeck","0473","34","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOLLENBECK P","LAKE"
+"5765944","2019-10-06T00:00:00.000","0030","06","Hollywood","0645","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HIGHLAND                     AV","HOLLYWOOD                    BL"
+"5766435","2019-10-06T00:00:00.000","1030","04","Hollenbeck","0473","41","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","400 S  SAINT LOUIS                  ST",
+"5766441","2019-10-06T00:00:00.000","1345","02","Rampart","0247","42","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1800 W  5TH                          ST",
+"5766434","2019-10-06T00:00:00.000","1010","04","Hollenbeck","0473","41","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  BOYLE                        AV",
+"5766402","2019-10-06T00:00:00.000","1015","03","Southwest","0328","47","M","H","16","Narcotic Drug Laws","F","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ADAMS","HOOVER"
+"5766426","2019-10-06T00:00:00.000","1010","04","Hollenbeck","0473","27","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  BOYLE                        AV",
+"5766800","2019-10-06T00:00:00.000","2105","01","Central","0195","26","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MAIN","16TH"
+"5766805","2019-10-06T00:00:00.000","2300","02","Rampart","0271","24","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","10TH","GRAND VIEW"
+"191117609","2019-10-05T00:00:00.000","1300","11","Northeast","1139","54","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","AVENUE 59","FIGUEROA"
+"191117612","2019-10-05T00:00:00.000","1300","11","Northeast","1139","49","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","AVENUE 59","FIGUEROA"
+"5765537","2019-10-05T00:00:00.000","1050","15","N Hollywood","1599","31","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2900    GOODVIEW                     TL",
+"5765598","2019-10-05T00:00:00.000","1215","04","Hollenbeck","0442","50","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MARENGO                      AV","STATE                        ST"
+"5765788","2019-10-05T00:00:00.000","1850","16","Foothill","1613","23","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CARL","BORDEN"
+"5765504","2019-10-05T00:00:00.000","0400","10","West Valley","1079","25","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","HASKELL                      ST","VENTURA                      FY"
+"5765528","2019-10-05T00:00:00.000","1000","14","Pacific","1445","27","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WASATCH","MATTESON"
+"5764683","2019-10-04T00:00:00.000","1020","08","West LA","0835","63","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","11000    SANTA MONICA                 BL",
+"5764754","2019-10-04T00:00:00.000","1335","09","Van Nuys","0966","27","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","13300    RIVERSIDE                    DR",
+"5764976","2019-10-04T00:00:00.000","2030","15","N Hollywood","1513","33","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WHITSETT                     AV","SHERMAN                      WY"
+"5764401","2019-10-04T00:00:00.000","0200","10","West Valley","1021","32","F","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CORBIN","VANOWEN"
+"5765237","2019-10-04T00:00:00.000","2315","14","Pacific","1441","49","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VENICE                       BL","ALBERTA                      AV"
+"5764461","2019-10-04T00:00:00.000","0450","08","West LA","0881","40","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","2000 S  BARRINGTON                   AV",
+"5764073","2019-10-03T00:00:00.000","1845","16","Foothill","1689","46","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","CROCKETT","CLYBOURN"
+"5764049","2019-10-03T00:00:00.000","1650","03","Southwest","0357","27","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","NORMANDIE","JEFFERSON"
+"5764034","2019-10-03T00:00:00.000","1300","05","Harbor","0513","51","F","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","ANAHEIM                      ST","GAFFEY                       ST"
+"5764035","2019-10-03T00:00:00.000","1300","05","Harbor","0513","51","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","ANAHEIM                      ST","GAFFEY                       ST"
+"5764031","2019-10-03T00:00:00.000","1330","05","Harbor","0565","28","F","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","900 S  GAFFEY                       ST",
+"5764212","2019-10-03T00:00:00.000","2010","03","Southwest","0356","44","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1700 W  JEFFERSON                    BL",
+"192116696","2019-10-03T00:00:00.000","2030","21","Topanga","2136","46","F","W","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","7200    OWENSMOUTH                   AV",
+"5764008","2019-10-03T00:00:00.000","1330","05","Harbor","0565","28","M","W","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","900 S  GAFFEY                       ST",
+"5764224","2019-10-03T00:00:00.000","1905","04","Hollenbeck","0429","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","3500    FARNSWORTH                   AV",
+"5764211","2019-10-03T00:00:00.000","2130","07","Wilshire","0766","35","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VENICE","12TH"
+"5764343","2019-10-03T00:00:00.000","2345","02","Rampart","0245","47","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","WILSHIRE","ALVARADO"
+"5764136","2019-10-03T00:00:00.000","1915","01","Central","0134","33","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","3RD                          ST","SPRING                       ST"
+"5763308","2019-10-03T00:00:00.000","0050","15","N Hollywood","1503","54","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7500    WHITSETT                     AV",
+"5764145","2019-10-03T00:00:00.000","2030","06","Hollywood","0666","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOLLYWOOD","COSMO"
+"5764292","2019-10-03T00:00:00.000","2245","19","Mission","1995","54","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VAN NUYS                     BL","ARMINTA"
+"5762280","2019-10-02T00:00:00.000","0040","09","Van Nuys","0941","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VESPER","OXNARD"
+"191319797","2019-10-02T00:00:00.000","2200","13","Newton","1341","33","F","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","GRAND                        AV","64TH                         ST"
+"190321944","2019-10-02T00:00:00.000","1425","03","Southwest","0319","36","M","H",,,"M","11377H&S",,"BONSALLO                     AV","21ST                         ST"
+"5762749","2019-10-02T00:00:00.000","1145","20","Olympic","2019","32","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VERMONT                      AV","3RD                          ST"
+"190219354","2019-10-02T00:00:00.000","1335","02","Rampart","0246","35","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","6TH                          ST","LOMA                         DR"
+"5763072","2019-10-02T00:00:00.000","1800","20","Olympic","2027","66","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","600 S  VERMONT                      AV",
+"5763175","2019-10-02T00:00:00.000","2145","04","Hollenbeck","0438","26","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","5500    ALHAMBRA                     AV",
+"5762894","2019-10-02T00:00:00.000","1600","01","Central","0164","30","M","W","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","7TH                          ST","MAIN                         ST"
+"190917762","2019-10-02T00:00:00.000","1740","09","Van Nuys","0964","29","M","B","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","VAN NUYS                     BL","RIVERSIDE                    DR"
+"5762641","2019-10-02T00:00:00.000","1015","09","Van Nuys","0931","30","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VICTORY","SAN DIEGO                    FY"
+"5763194","2019-10-02T00:00:00.000","2040","04","Hollenbeck","0497","51","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","15TH                         ST","DE LA TORRE                  WY"
+"5762994","2019-10-02T00:00:00.000","1715","01","Central","0152","42","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600 S  FIGUEROA                     ST",
+"190917704","2019-10-02T00:00:00.000","1400","09","Van Nuys","0906","49","M","H",,,"M","11377 HS",,"14400    VALERIO                      ST",
+"5762785","2019-10-02T00:00:00.000","1300","09","Van Nuys","0904","38","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","RAYMER                       ST","KESWICK                      ST"
+"5762705","2019-10-02T00:00:00.000","1120","03","Southwest","0308","28","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1000    22ND                         ST",
+"5763095","2019-10-02T00:00:00.000","1620","19","Mission","1995","23","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","14500    BLYTHE                       ST",
+"5762814","2019-10-02T00:00:00.000","1220","05","Harbor","0529","49","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","GRANT                        AV","ALAMEDA                      ST"
+"5762512","2019-10-02T00:00:00.000","0735","06","Hollywood","0663","40","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","MCCADDEN                     PL","ROMAINE"
+"5761327","2019-10-01T00:00:00.000","0110","02","Rampart","0299","29","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","OAK                          ST","14TH"
+"5761334","2019-10-01T00:00:00.000","0110","03","Southwest","0396","33","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","4200 S  HOOVER                       ST",
+"5761945","2019-10-01T00:00:00.000","1800","05","Harbor","0583","48","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","1400 W  25TH                         ST",
+"191901102","2019-10-01T00:00:00.000","1850","19","Mission","1981","19","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","8500    SEPULVEDA                    BL",
+"191117434","2019-10-01T00:00:00.000","1200","11","Northeast","1177","20","M","H",,,"M","11377",,"FIGUEROA","AVENUE 19"
+"191901104","2019-10-01T00:00:00.000","1900","19","Mission","1983","38","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","8300    SEPULVEDA                    BL",
+"5761720","2019-10-01T00:00:00.000","1325","06","Hollywood","0668","34","M","B","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","5700    SANTA MONICA                 BL",
+"5761962","2019-10-01T00:00:00.000","1745","20","Olympic","2029","39","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","9TH                          ST","SHATTO"
+"5761785","2019-10-01T00:00:00.000","1415","16","Foothill","1698","40","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","7800    SAN FERNANDO                 RD",
+"5761507","2019-10-01T00:00:00.000","0710","05","Harbor","0503","34","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 W  LOMITA                       BL",
+"192116500","2019-10-01T00:00:00.000","1600","21","Topanga","2141","58","M","O","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","6400    PLATT                        AV",
+"5761524","2019-10-01T00:00:00.000","0930","01","Central","0148","38","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CROCKER","4TH                          ST"
+"5761932","2019-10-01T00:00:00.000","1910","01","Central","0153","42","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","500 S  HILL                         ST",
+"5761928","2019-10-01T00:00:00.000","1700","18","Southeast","1862","61","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","120TH                        ST","MAIN                         ST"
+"5761688","2019-10-01T00:00:00.000","1245","01","Central","0157","41","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","7TH","TOWNE"
+"5761624","2019-10-01T00:00:00.000","0915","19","Mission","1977","16","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CANTERBURY","BRANFORD"
+"5760707","2019-09-30T00:00:00.000","0645","01","Central","0119","21","F","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","800 N  ALAMEDA                      ST",
+"5761151","2019-09-30T00:00:00.000","1810","10","West Valley","1031","30","M","H","16","Narcotic Drug Laws","M","11350HS","POSSESS CONTROLLED SUBSTANCE","FRIAR","BELMAR"
+"5761121","2019-09-30T00:00:00.000","1915","14","Pacific","1413","25","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","SUNSET                       AV","3RD                          AV"
+"5760783","2019-09-30T00:00:00.000","0520","14","Pacific","1497","23","M","H","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","CENTURY                      BL","LA CIENEGA                   BL"
+"5761221","2019-09-30T00:00:00.000","2000","03","Southwest","0358","40","M","B","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","600    EXPOSITION                   BL",
+"191319650","2019-09-30T00:00:00.000","1115","13","Newton","1321","37","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","MAIN                         ST","ADAMS                        BL"
+"5761190","2019-09-30T00:00:00.000","2100","05","Harbor","0529","21","M","H","16","Narcotic Drug Laws","M","11350(A)HS","POSSESSION OF CONTROLLED SUBSTANCE","PIONEER                      AV","OPP                          ST"
+"5761023","2019-09-30T00:00:00.000","1445","10","West Valley","1049","37","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","VICTORY","WOODLEY"
+"190917612","2019-09-30T00:00:00.000","2055","09","Van Nuys","0923","44","F","H",,,"M","11377H&S",,"VAN NUYS                     BL","GILMORE                      ST"
+"5761039","2019-09-30T00:00:00.000","1500","02","Rampart","0221","28","M","O","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","300 N  VERMONT                      AV",
+"191501234","2019-09-30T00:00:00.000","1405","15","N Hollywood","1511","36","F","W",,,"M","11377H&S",,"13000    RAYMER                       ST",
+"5761215","2019-09-30T00:00:00.000","2120","06","Hollywood","0649","25","F","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","HOLLYWOOD","HARVARD"
+"5760929","2019-09-30T00:00:00.000","1245","13","Newton","1385","46","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","SLAUSON","CENTRAL"
+"191501232","2019-09-30T00:00:00.000","1830","15","N Hollywood","1596","26","M","H","16","Narcotic Drug Laws","M","11377HS","POSSESSION CONTROLLED SUBSTANCE","VENTURA                      BL","EUREKA                       DR"
+"5760852","2019-09-30T00:00:00.000","0800","05","Harbor","0564","51","M","W","16","Narcotic Drug Laws","M","11377(A)HS","POSSESSION CONTROLLED SUBSTANCE","PACIFIC","6TH                          ST"

@@ -1,0 +1,21 @@
+"facility_id","common_name","address","city","zip_code","block_lot","owned_leased","dept_id","department_name","gross_sq_ft","longitude","latitude","supervisor_district","city_tenants"
+"1488.0","1360 Mission St","1360 Mission St","San Francisco","94103","3508024","Lease","9","Non-City",,"-122.41553464199995","37.77582256100004","6","Public Health: Human Services Agency"
+"881.0","1650 Mission St Building","1650 Mission St","San Francisco","94103","3512008","Own","63","Gsa - Real Estate Division","218538","-122.41956315299996","37.77174054400007","6","Human Services Agency: Building Inspection: Mayor: Board Of Appeals: Planning"
+"3296.0","170 Otis Garage","170 Otis St","San Francisco","94103","3513008","Own","52","Human Services Agency","35000","-122.42057935999998","37.77062694800003","6",
+"3302.0","1 Ave of the Palms Building","1 Ave of the Palms","San Francisco","94130",,"Own","114","Treasure Island Development Authority","4052","-122.37087146299996","37.81721268000007","6","Human Services Agency: Police Department"
+"37.0","25 Van Ness Ave Building","25 Van Ness Ave","San Francisco","94102","0834004","Own","63","Gsa - Real Estate Division","152414","-122.41988352399994","37.77563253400007","6","Ethics Commission: Gsa - Real Estate Division: Public Health: Human Rights Commission: Sheriff: Rent Arbitration Board: Status Of Women: Human Services Agency: Gsa - City Administrator's Office: Civil Service Commission: Municipal Transportation Agency: Citizen Complaints: Public Works"
+"44.0","3801 3rd St","3801 03rd St","San Francisco","94124",,"Lease","9","Non-City",,"-122.38766774099997","37.74120159200004","10","Human Services Agency: Public Health: Public Utilities Commission"
+"194.0","39 Jones St","39 Jones St","San Francisco","94102","0349002","Lease","9","Non-City",,"-122.41242319899999","37.78163257600005","5","Human Services Agency"
+"3259.0","601 Van Ness Ave - Offices","601 Van Ness Ave","San Francisco","94102",,"Lease","9","Non-City",,"-122.42140632599995","37.78138577900006","2","Human Services Agency"
+"3330.0","Brady/Stevenson/Colusa - Parking","1125 Stevenson St","San Francisco","94103",,"Lease","9","Non-City",,"-122.419834004","37.773491937000074","6","Human Services Agency"
+"462.0","Child Advocacy Center","3450 03rd St","San Francisco","94124","5211028","Lease","9","Non-City",,"-122.38745829499999","37.745956001000025","10","Human Services Agency"
+"463.0","Child Protective Center (CPC) @ Edgewood","1801 Vicente St","San Francisco","94116","2468A003","Lease","9","Non-City",,"-122.48625648999996","37.73798464400005","4","Human Services Agency"
+"583.0","DAAS -Benefits and Resources Hub","2 Gough St","San Francisco","94103","3504019","Lease","9","Non-City",,"-122.42037894299995","37.772128070000065","6","Human Services Agency"
+"1489.0","Fox Plaza","1390 Market St","San Francisco","94102","0813007","Lease","9","Non-City",,"-122.41744218199995","37.77717442900007","6","City Attorney: Public Health: Children Youth And Families: Human Services Agency"
+"837.0","Hamilton Family Center","538 Holloway Ave","San Francisco","94112","6937023","Lease","9","Non-City",,"-122.45886416999997","37.72199081900004","11","Human Services Agency"
+"879.0","HSA Medi-Cal Headquarters","1440 Harrison St","San Francisco","94103","3520051","Own","52","Human Services Agency","56788","-122.41220367499994","37.77133370800004","6","Human Services Agency"
+"19.0","Human Services Agency (HSA) Headquarters","170 Otis St","San Francisco","94103","3513008","Own","52","Human Services Agency","171385","-122.42101266399999","37.770731742000066","6",
+"777.0","SF Benefits Net Service Center","1235 Mission St","San Francisco","94103",,"Lease","9","Non-City",,"-122.41363314399996","37.77677631600005","6","Human Services Agency"
+"1602.0","Social Services - 150 Otis","150 Otis St","San Francisco","94103","3513007","Own","52","Human Services Agency",,"-122.42045989699994","37.77085376500003","6",
+"584.0","Workforce Development Center – Mission","3120 Mission St","San Francisco","94110",,"Lease","9","Non-City",,"-122.41895847599994","37.74756262300008","9","Human Services Agency"
+"1473.0","Workforce Development Center – Mission Annex","3125 Mission St","San Francisco","94110",,"Lease","9","Non-City",,"-122.41841075899998","37.747496073000036","9","Human Services Agency"

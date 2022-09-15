@@ -1,0 +1,295 @@
+"site_id","approach","cross_street","travel_direction","posted_speed","activation_date","reason_code_s","code_description","latitude","longitude","geo_location","geometry_point"
+"ED2075","97 Street","at 132 Avenue","Northbound","60 km/h","2019-05-20T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.591633","-113.491987","
+,  
+(53.591633, -113.491987)","POINT (-113.491987 53.591633)"
+"ED001","34 Avenue","at 91 Street","Eastbound","60 km/h","2010-12-23T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.46522609","-113.4674525","
+,  
+(53.46522609, -113.4674525)","POINT (-113.4674525 53.46522609)"
+"ED2094","Rabbit Hill Road","at 23 Avenue","Northbound","60 km/h","2019-11-08T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.45365","-113.5654","
+,  
+(53.45365, -113.5654)","POINT (-113.5654 53.45365)"
+"ED008","Yellowhead Trail","at 127 Avenue","Westbound","70 km/h","2009-11-18T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.58073876","-113.5406622","
+,  
+(53.58073876, -113.5406622)","POINT (-113.5406622 53.58073876)"
+"ED014","50 Street","at 137 Avenue","Southbound","60 km/h","2010-03-23T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.5974957","-113.4134868","
+,  
+(53.5974957, -113.4134868)","POINT (-113.4134868 53.5974957)"
+"ED2099","111 Avenue","at 142 Street","Eastbound","60 km/h","2019-12-18T00:00:00.000","(a)","Areas or intersections with an identifiable, documented history of collisions.","53.55882","-113.566383","
+,  
+(53.55882, -113.566383)","POINT (-113.566383 53.55882)"
+"ED2043","137 Avenue","at 113A Street","Westbound","60 km/h","2019-12-04T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.59961683","-113.5160351","
+,  
+(53.59961683, -113.5160351)","POINT (-113.5160351 53.59961683)"
+"ED1068","170 Street","at 69 Avenue","Southbound","60 km/h","2018-09-17T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.5049067","-113.6157943","
+,  
+(53.5049067, -113.6157943)","POINT (-113.6157943 53.5049067)"
+"ED040","137 Avenue","at 127 Street","Eastbound","60 km/h","2010-09-10T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.59935449","-113.5420203","
+,  
+(53.59935449, -113.5420203)","POINT (-113.5420203 53.59935449)"
+"ED1055","111 Street","at Whitemud Drive EB","Northbound","60 km/h","2018-12-20T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.482055","-113.515857","
+,  
+(53.482055, -113.515857)","POINT (-113.515857 53.482055)"
+"ED041","137 Avenue","at 127 Street","Westbound","60 km/h","2010-09-10T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.59959096","-113.5406916","
+,  
+(53.59959096, -113.5406916)","POINT (-113.5406916 53.59959096)"
+"ED2029","Calgary Trail","at 34 Avenue","Southbound","60 km/h","2019-09-01T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.46819871","-113.4956788","
+,  
+(53.46819871, -113.4956788)","POINT (-113.4956788 53.46819871)"
+"ED018","Stony Plain Road","at 170 Street","Westbound","60 km/h","2010-02-26T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.54128722","-113.6159543","
+,  
+(53.54128722, -113.6159543)","POINT (-113.6159543 53.54128722)"
+"ED028","23 Avenue","at Parsons Road","Westbound","60 km/h","2010-10-27T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.45295283","-113.478569","
+,  
+(53.45295283, -113.478569)","POINT (-113.478569 53.45295283)"
+"ED1104","Fox Drive","at Fort Edmonton Road","Eastbound","70 km/h","2019-12-11T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.503222","-113.562803","
+,  
+(53.503222, -113.562803)","POINT (-113.562803 53.503222)"
+"ED2049","97 Street","at 167 Avenue","Northbound","70 km/h","2019-06-03T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.62839682","-113.4916933","
+,  
+(53.62839682, -113.4916933)","POINT (-113.4916933 53.62839682)"
+"ED2084","95 Street","at 103A Avenue","Northbound","50 km/h","2019-08-02T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.547669","-113.480138","
+,  
+(53.547669, -113.480138)","POINT (-113.480138 53.547669)"
+"ED048","Manning Drive","at 137 Avenue","Southbound","70 km/h","2010-09-28T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.59954286","-113.4212717","
+,  
+(53.59954286, -113.4212717)","POINT (-113.4212717 53.59954286)"
+"ED2090","63 Avenue","at Gateway Blvd","Westbound","60 km/h","2019-08-30T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.499942","-113.492922","
+,  
+(53.499942, -113.492922)","POINT (-113.492922 53.499942)"
+"ED2059","153 Avenue","at 97 Street","Westbound","60 km/h","2019-04-22T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.614133","-113.490546","
+,  
+(53.614133, -113.490546)","POINT (-113.490546 53.614133)"
+"ED2095","23 Avenue","at Rabbit Hill Road","Westbound","60 km/h","2019-11-28T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.454147","-113.564903","
+,  
+(53.454147, -113.564903)","POINT (-113.564903 53.454147)"
+"ED002","91 Street","at 34 Avenue","Northbound","70 km/h","2009-11-18T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.46489352","-113.4663185","
+,  
+(53.46489352, -113.4663185)","POINT (-113.4663185 53.46489352)"
+"ED2080","75 Street","at 98 Avenue","Southbound","60 km/h","2019-06-03T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.537853","-113.443157","
+,  
+(53.537853, -113.443157)","POINT (-113.443157 53.537853)"
+"ED010","127 Street","at Yellowhead Trail","Northbound","50 km/h","2010-12-28T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.58026015","-113.5411938","
+,  
+(53.58026015, -113.5411938)","POINT (-113.5411938 53.58026015)"
+"ED2058","Rossdale Road","at 97 Avenue","Northbound","50 km/h","2019-05-20T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.533603","-113.497371","
+,  
+(53.533603, -113.497371)","POINT (-113.497371 53.533603)"
+"ED2091","50 Street","at Ellerslie Road","Southbound","60 km/h","2019-09-04T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.425224","-113.418183","
+,  
+(53.425224, -113.418183)","POINT (-113.418183 53.425224)"
+"ED047","Wayne Gretzky Drive","at 118 Avenue","Northbound","60 km/h","2010-09-28T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.56979565","-113.4521125","
+,  
+(53.56979565, -113.4521125)","POINT (-113.4521125 53.56979565)"
+"ED1064","23 Avenue","at 66 Street","Eastbound","60 km/h","2018-11-15T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.453433","-113.435067","
+,  
+(53.453433, -113.435067)","POINT (-113.435067 53.453433)"
+"ED2076","Groat Road","at 118 Avenue","Northbound","60 km/h","2019-08-20T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.569774","-113.549196","
+,  
+(53.569774, -113.549196)","POINT (-113.549196 53.569774)"
+"ED032","170 Street","at 100 Avenue","Northbound","60 km/h","2010-09-07T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.53889499","-113.6150049","
+,  
+(53.53889499, -113.6150049)","POINT (-113.6150049 53.53889499)"
+"ED1051","Gateway Blvd","at Whitemud Drive","Northbound","60 km/h","2018-08-27T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.4799345","-113.4922439","
+,  
+(53.4799345, -113.4922439)","POINT (-113.4922439 53.4799345)"
+"ED2098","Mark Messier Trail","at Campbell Road","Southbound","70 km/h","2020-01-28T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.61178","-113.591667","
+,  
+(53.61178, -113.591667)","POINT (-113.591667 53.61178)"
+"ED2063","111 Street","at 23 Avenue","Northbound","60 km/h","2019-06-03T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.453378","-113.516161","
+,  
+(53.453378, -113.516161)","POINT (-113.516161 53.453378)"
+"ED2103","170 Street","at 118 Avenue","Northbound","60 km/h","2020-02-04T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.570108","-113.615193","
+,  
+(53.570108, -113.615193)","POINT (-113.615193 53.570108)"
+"ED013","104 Avenue","at 109 Street","Eastbound","50 km/h","2009-11-23T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.54622011","-113.5090615","
+,  
+(53.54622011, -113.5090615)","POINT (-113.5090615 53.54622011)"
+"ED2030","Calgary Trail","at 51 Avenue","Southbound","60 km/h","2019-10-29T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.48844109","-113.4949133","
+,  
+(53.48844109, -113.4949133)","POINT (-113.4949133 53.48844109)"
+"ED2083","97 Street","at 144 Avenue","Northbound","70 km/h","2019-06-17T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.606472","-113.491714","
+,  
+(53.606472, -113.491714)","POINT (-113.491714 53.606472)"
+"ED2102","170 Street","at 118 Avenue","Southbound","60 km/h","2020-02-04T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.570827","-113.61542","
+,  
+(53.570827, -113.61542)","POINT (-113.61542 53.570827)"
+"ED017","50 Street","at 23 Avenue","Northbound","60 km/h","2009-11-25T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.45432753","-113.4198041","
+,  
+(53.45432753, -113.4198041)","POINT (-113.4198041 53.45432753)"
+"ED1067","Windermere Boulevard","at Terwillegar Drive NB","Westbound","60 km/h","2018-10-08T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.436815","-113.612106","
+,  
+(53.436815, -113.612106)","POINT (-113.612106 53.436815)"
+"ED2079","Parsons Road","at Ellerslie Road","Southbound","60 km/h","2019-07-01T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.425615","-113.479951","
+,  
+(53.425615, -113.479951)","POINT (-113.479951 53.425615)"
+"ED003","34 Avenue","at 91 Street","Westbound","60 km/h","2009-11-18T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.46540114","-113.4657331","
+,  
+(53.46540114, -113.4657331)","POINT (-113.4657331 53.46540114)"
+"ED1050","Manning Drive","at 50 Street","Northbound","70 km/h","2018-10-15T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.60137171","-113.4170665","
+,  
+(53.60137171, -113.4170665)","POINT (-113.4170665 53.60137171)"
+"ED1052","Whitemud Drive","at Gateway Blvd","Westbound","60 km/h","2018-09-17T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.4809868","-113.4921173","
+,  
+(53.4809868, -113.4921173)","POINT (-113.4921173 53.4809868)"
+"ED1073","100 Avenue","at 175 Street","Eastbound","60 km/h","2018-10-16T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.538711","-113.622203","
+,  
+(53.538711, -113.622203)","POINT (-113.622203 53.538711)"
+"ED2062","111 Street","at 23 Avenue","Southbound","60 km/h","2019-04-22T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.454486","-113.516605","
+,  
+(53.454486, -113.516605)","POINT (-113.516605 53.454486)"
+"ED021","Yellowhead Trail","at 127 Street","Eastbound","70 km/h","2010-02-16T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.5806233","-113.5419714","
+,  
+(53.5806233, -113.5419714)","POINT (-113.5419714 53.5806233)"
+"ED033","170 Street","at 100 Avenue","Southbound","60 km/h","2010-09-07T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.53956682","-113.6169067","
+,  
+(53.53956682, -113.6169067)","POINT (-113.6169067 53.53956682)"
+"ED1070","Yellowhead Trail","at 66 Street","Eastbound","70 km/h","2018-08-27T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.57828","-113.4434288","
+,  
+(53.57828, -113.4434288)","POINT (-113.4434288 53.57828)"
+"ED2057","82 Avenue","at 99 Street","Westbound","50 km/h","2019-06-03T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.518117","-113.485539","
+,  
+(53.518117, -113.485539)","POINT (-113.485539 53.518117)"
+"ED045","97 Street","at 137 Avenue","Southbound","60 km/h","2010-10-13T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.59997614","-113.492144","
+,  
+(53.59997614, -113.492144)","POINT (-113.492144 53.59997614)"
+"ED2077","Manning Drive","at 153 Avenue","Southbound","70 km/h","2019-05-20T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.614882","-113.403378","
+,  
+(53.614882, -113.403378)","POINT (-113.403378 53.614882)"
+"ED016","82 Street","at 153 Avenue","Northbound","60 km/h","2009-11-10T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.61551724","-113.4673315","
+,  
+(53.61551724, -113.4673315)","POINT (-113.4673315 53.61551724)"
+"ED2039","111 Avenue","at 149 Street","Westbound","60 km/h","2019-08-08T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.55895644","-113.5773778","
+,  
+(53.55895644, -113.5773778)","POINT (-113.5773778 53.55895644)"
+"ED2006","170 Street","at 95 Avenue","Southbound","60 km/h","2019-05-01T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.5320087","-113.6153542","
+,  
+(53.5320087, -113.6153542)","POINT (-113.6153542 53.5320087)"
+"ED2092","50 Street","at 101 Avenue","Northbound","60 km/h","2019-12-02T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.540797","-113.418411","
+,  
+(53.540797, -113.418411)","POINT (-113.418411 53.540797)"
+"ED2087","127 Street","at 126 Avenue","Southbound","50 km/h","2019-07-01T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.582637","-113.541188","
+,  
+(53.582637, -113.541188)","POINT (-113.541188 53.582637)"
+"ED2082","50 Street","at Ellerslie Road","Northbound","60 km/h","2019-06-17T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.42432","-113.417755","
+,  
+(53.42432, -113.417755)","POINT (-113.417755 53.42432)"
+"ED011","109 Street","at 104 Avenue","Southbound","50 km/h","2010-03-23T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.54646216","-113.5085364","
+,  
+(53.54646216, -113.5085364)","POINT (-113.5085364 53.54646216)"
+"ED1065","34 Avenue","at 50 Street","Eastbound","60 km/h","2018-10-12T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.464976","-113.420777","
+,  
+(53.464976, -113.420777)","POINT (-113.420777 53.464976)"
+"ED2097","Mark Messier Trail","at Campbell Road","Northbound","70 km/h","2020-01-28T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.61142","-113.590805","
+,  
+(53.61142, -113.590805)","POINT (-113.590805 53.61142)"
+"ED2071","82 Street","at 112 Avenue","Northbound","50 km/h","2019-06-03T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.560908","-113.467294","
+,  
+(53.560908, -113.467294)","POINT (-113.467294 53.560908)"
+"ED005","170 Street","at 95 Avenue","Northbound","60 km/h","2009-11-18T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.53138521","-113.6151193","
+,  
+(53.53138521, -113.6151193)","POINT (-113.6151193 53.53138521)"
+"ED2086","23 Avenue","at 91 Street","Eastbound","60 km/h","2019-07-01T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.451741","-113.467372","
+,  
+(53.451741, -113.467372)","POINT (-113.467372 53.451741)"
+"ED1053","Whitemud Drive","at Calgary Trail","Eastbound","60 km/h","2018-08-27T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.4796813","-113.4960327","
+,  
+(53.4796813, -113.4960327)","POINT (-113.4960327 53.4796813)"
+"ED2004","91 Street","at 34 Avenue","Southbound","70 km/h","2019-11-22T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.46569548","-113.4668631","
+,  
+(53.46569548, -113.4668631)","POINT (-113.4668631 53.46569548)"
+"ED2061","Windermere Boulevard","at Terwillegar Drive SB","Eastbound","60 km/h","2019-04-22T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.437701","-113.614591","
+,  
+(53.437701, -113.614591)","POINT (-113.614591 53.437701)"
+"ED026","50 Street","at 23 Avenue","Southbound","60 km/h","2010-11-03T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.4551334","-113.4203198","
+,  
+(53.4551334, -113.4203198)","POINT (-113.4203198 53.4551334)"
+"ED2101","Calgary Trail","at Whitemud Drive","Southbound","60 km/h","2019-10-29T00:00:00.000","(a)","Areas or intersections with an identifiable, documented history of collisions.","53.481441","-113.495304","
+,  
+(53.481441, -113.495304)","POINT (-113.495304 53.481441)"
+"ED2009","Yellowhead Trail","at 107 Street","Eastbound","70 km/h","2019-08-23T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.58129246","-113.5061022","
+,  
+(53.58129246, -113.5061022)","POINT (-113.5061022 53.58129246)"
+"ED2072","Whitemud Drive","at 111 Street","Westbound","60 km/h","2019-08-15T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.48319","-113.515325","
+,  
+(53.48319, -113.515325)","POINT (-113.515325 53.48319)"
+"ED020","Yellowhead Trail","at 107 Street","Westbound","70 km/h","2009-11-18T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.58145379","-113.504608","
+,  
+(53.58145379, -113.504608)","POINT (-113.504608 53.58145379)"
+"ED1046","97 Street","at 122 Avenue","Southbound","60 km/h","2018-09-21T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.57706746","-113.4922687","
+,  
+(53.57706746, -113.4922687)","POINT (-113.4922687 53.57706746)"
+"ED015","137 Avenue","at 50 Street","Westbound","60 km/h","2009-11-18T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.59710754","-113.4125877","
+,  
+(53.59710754, -113.4125877)","POINT (-113.4125877 53.59710754)"
+"ED2078","153 Avenue","at 127 Street","Westbound","60 km/h","2019-06-17T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.617021","-113.54053","
+,  
+(53.617021, -113.54053)","POINT (-113.54053 53.617021)"
+"ED1069","118 Avenue","at Wayne Gretzky Drive","Westbound","50 km/h","2018-09-17T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.5704186","-113.4531748","
+,  
+(53.5704186, -113.4531748)","POINT (-113.4531748 53.5704186)"
+"ED2093","62 Avenue","at 199 Street","Westbound","60 km/h","2020-02-10T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.493832","-113.665171","
+,  
+(53.493832, -113.665171)","POINT (-113.665171 53.493832)"
+"ED1066","34 Street","at 34 Avenue","Southbound","60 km/h","2018-08-27T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.463967","-113.393999","
+,  
+(53.463967, -113.393999)","POINT (-113.393999 53.463967)"
+"ED044","137 Avenue","at 97 Street","Eastbound","60 km/h","2010-10-22T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.59942879","-113.4928734","
+,  
+(53.59942879, -113.4928734)","POINT (-113.4928734 53.59942879)"
+"ED2042","Castle Downs Road","at 137 Avenue","Southbound","60 km/h","2019-07-01T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.59992131","-113.5167956","
+,  
+(53.59992131, -113.5167956)","POINT (-113.5167956 53.59992131)"
+"ED034","170 Street","at Stony Plain Road","Northbound","60 km/h","2010-09-15T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.54099587","-113.6149232","
+,  
+(53.54099587, -113.6149232)","POINT (-113.6149232 53.54099587)"
+"ED012","104 Avenue","at 109 Street","Westbound","50 km/h","2010-03-23T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.54622408","-113.5078498","
+,  
+(53.54622408, -113.5078498)","POINT (-113.5078498 53.54622408)"
+"ED2081","Gateway Blvd","at 34 Avenue","Northbound","60 km/h","2019-05-06T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.467373","-113.492054","
+,  
+(53.467373, -113.492054)","POINT (-113.492054 53.467373)"
+"ED2056","Gateway Blvd","at 63 Avenue","Northbound","60 km/h","2019-08-05T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.499319","-113.493421","
+,  
+(53.499319, -113.493421)","POINT (-113.493421 53.499319)"
+"ED2088","167 Avenue","at 127 Street","Westbound","60 km/h","2019-11-05T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.628841","-113.540383","
+,  
+(53.628841, -113.540383)","POINT (-113.540383 53.628841)"
+"ED1054","111 Street","at Whitemud Drive","Southbound","60 km/h","2018-09-17T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.483705","-113.517561","
+,  
+(53.483705, -113.517561)","POINT (-113.517561 53.483705)"
+"ED1031","63 Avenue","at 99 Street","Eastbound","60 km/h","2018-01-24T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.49980654","-113.4869484","
+,  
+(53.49980654, -113.4869484)","POINT (-113.4869484 53.49980654)"
+"ED2025","137 Avenue","at Manning Drive","Eastbound","60 km/h","2019-10-04T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.59911391","-113.4227458","
+,  
+(53.59911391, -113.4227458)","POINT (-113.4227458 53.59911391)"
+"ED027","23 Avenue","at 91 Street","Westbound","60 km/h","2010-09-08T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.45190871","-113.4657289","
+,  
+(53.45190871, -113.4657289)","POINT (-113.4657289 53.45190871)"
+"ED007","Yellowhead Trail","at 149 Avenue","Eastbound","70 km/h","2009-11-20T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.58120518","-113.578715","
+,  
+(53.58120518, -113.578715)","POINT (-113.578715 53.58120518)"
+"ED2085","97 Street","at 111 Avenue","Southbound","50 km/h","2019-05-20T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.559371","-113.491877","
+,  
+(53.559371, -113.491877)","POINT (-113.491877 53.559371)"
+"ED2100","178 Street","at 100 Avenue","Northbound","60 km/h","2020-02-04T00:00:00.000","(a)","Areas or intersections with an identifiable, documented history of collisions.","53.537654","-113.62739","
+,  
+(53.537654, -113.62739)","POINT (-113.62739 53.537654)"
+"ED1105","Fox Drive","at Fort Edmonton Road","Westbound","70 km/h","2019-12-16T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.503264","-113.561979","
+,  
+(53.503264, -113.561979)","POINT (-113.561979 53.503264)"
+"ED019","170 Street","at Stony Plain Road","Southbound","60 km/h","2010-02-26T00:00:00.000","(b)","Areas or intersections with an identifiable, documented history of speeding problems.","53.54176738","-113.6168696","
+,  
+(53.54176738, -113.6168696)","POINT (-113.6168696 53.54176738)"
+"ED2074","66 Street","at 167 Avenue","Northbound","60 km/h","2019-06-17T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.628394","-113.44284","
+,  
+(53.628394, -113.44284)","POINT (-113.44284 53.628394)"
+"ED2060","23 Avenue","at Terwillegar Drive NB","Westbound","60 km/h","2019-04-22T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.457268","-113.587836","
+,  
+(53.457268, -113.587836)","POINT (-113.587836 53.457268)"
+"ED2096","97 Street","at 176 Avenue","Southbound","80 km/h","2019-11-22T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.638807","-113.49202","
+,  
+(53.638807, -113.49202)","POINT (-113.49202 53.638807)"
+"ED2089","167 Avenue","at 127 Street","Eastbound","60 km/h","2019-11-05T00:00:00.000","(a), (b)","Areas or intersections with an identifiable, documented history of collisions. Areas or intersections with an identifiable, documented history of speeding problems","53.628684","-113.542165","
+,  
+(53.628684, -113.542165)","POINT (-113.542165 53.628684)"

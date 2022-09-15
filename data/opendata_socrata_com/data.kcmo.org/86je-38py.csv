@@ -1,0 +1,529 @@
+CASE ID,SOURCE,DEPARTMENT,WORK GROUP,REQUEST TYPE,CATEGORY,TYPE,DETAIL,CREATION DATE,CREATION TIME,CREATION MONTH,CREATION YEAR,STATUS,EXCEEDED EST TIMEFRAME,CLOSED DATE,CLOSED MONTH,CLOSED YEAR,DAYS TO CLOSE,STREET ADDRESS,ADDRESS WITH GEOCODE,ZIP CODE,NEIGHBORHOOD,COUNCIL DISTRICT,POLICE DISTRICT,PARCEL ID NO,LATITUDE,LONGITUDE,CASE URL,30-60-90 Days Open Window,Neighborhood Census,Council Districts,County Boundary,Zip Codes
+2021029619,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-On list,Property / Buildings / Construction,Dangerous Building,Standard,07/30/2021,10:02 AM,7,2021,OPEN,N,,,,,7811 E 113th Ter,"7811 E 113th Ter64134
+(38.920325, -94.499714)",64134,Ruskin Heights,6,South,72236,38.920325,-94.499714,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021029619,0,190,1,7,143
+2021025434,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,04/14/2021,12:13 PM,4,2021,OPEN,N,,,,,11410 Delmar Ave,"11410 Delmar Ave64134
+(38.915925, -94.499658)",64134,Ruskin Heights,6,South,72600,38.915925,-94.499658,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021025434,0,190,1,7,143
+2021024762,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,04/05/2021,11:48 AM,4,2021,OPEN,Y,,,,,7811 E 113th Ter,"7811 E 113th Ter64134
+(38.920325, -94.499714)",64134,Ruskin Heights,6,South,72236,38.920325,-94.499714,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021024762,90,190,1,7,143
+2021024295,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,03/25/2021,05:08 PM,3,2021,OPEN,N,,,,,7704 Ruskin Way,"7704 Ruskin Way64134
+(38.920149, -94.499319)",64134,Ruskin Heights,6,South,72216,38.920149,-94.499319,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021024295,0,190,1,7,143
+2021024293,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,03/25/2021,05:06 PM,3,2021,OPEN,N,,,,,10736 Sycamore Ter,"10736 Sycamore Ter64134
+(38.92859, -94.504055)",64134,Ruskin Heights,6,South,59111,38.92859,-94.504055,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021024293,0,190,1,7,143
+2021024019,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Open Storage,03/22/2021,10:10 AM,3,2021,OPEN,N,,,,,8405 E 109th St,"8405 E 109th St64134
+(38.92569, -94.493441)",64134,Ruskin Hills,6,South,71305,38.92569,-94.493441,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021024019,0,200,1,7,143
+2021023780,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,03/17/2021,03:00 PM,3,2021,OPEN,N,,,,,11218 Palmer Ave,"11218 Palmer Ave64134
+(38.918042, -94.50003)",64134,Ruskin Heights,6,South,72695,38.918042,-94.50003,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021023780,0,190,1,7,143
+2021023779,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,03/17/2021,02:58 PM,3,2021,OPEN,N,,,,,11219 Palmer Ave,"11219 Palmer Ave64134
+(38.918035, -94.499366)",64134,Ruskin Heights,6,South,72688,38.918035,-94.499366,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021023779,0,190,1,7,143
+2021020094,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,02/25/2021,02:51 PM,2,2021,OPEN,N,,,,,8307 E 114th Ter,"8307 E 114th Ter64134
+(38.91536, -94.49497)",64134,Ruskin Hills,6,South,72972,38.91536,-94.49497,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021020094,0,200,1,7,143
+2021018134,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,02/22/2021,12:51 PM,2,2021,OPEN,N,,,,,7200 Longview Rd,"7200 Longview Rd64134
+(38.915299, -94.507326)",64134,Ruskin Heights,6,South,60553,38.915299,-94.507326,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021018134,0,190,1,7,143
+2021017716,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Open Storage,02/21/2021,04:38 PM,2,2021,OPEN,Y,,,,,8408 E 111th Ter,"8408 E 111th Ter64134
+(38.921082, -94.493367)",64134,Ruskin Hills,6,South,72898,38.921082,-94.493367,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021017716,0,200,1,7,143
+2021016986,PHONE,Water Services,Water Services-Line Maintenance-Pipeline,Water-Pipeline Referral-Hydrant,Water,Pipeline Referral,Hydrant,02/19/2021,11:43 AM,2,2021,OPEN,Y,,,,,11229 Crystal Ave,"11229 Crystal Ave64134
+(38.917789, -94.50514)",64134,Ruskin Heights,6,South,60636,38.917789,-94.50514,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021016986,0,190,1,7,143
+2021014249,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Open Storage,02/13/2021,08:38 AM,2,2021,OPEN,N,,,,,11400 Palmer Ave,"11400 Palmer Ave64134
+(38.917413, -94.500553)",64134,Ruskin Heights,6,South,72553,38.917413,-94.500553,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021014249,0,190,1,7,143
+2021011677,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,02/05/2021,07:54 AM,2,2021,OPEN,Y,,,,,8309 E 110th St,"8309 E 110th St64134
+(38.923849, -94.494446)",64134,Ruskin Hills,6,South,71440,38.923849,-94.494446,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021011677,30,200,1,7,143
+2021009440,PHONE,City Planning and Development,City Planning and Development-Dev Comp-Zoning,Prop/Build/Construct-Land Use / Zoning Issue-Business in a residence,Property / Buildings / Construction,Land Use / Zoning Issue,Business In A Residence,01/29/2021,03:39 PM,1,2021,OPEN,N,,,,,11102 Winchester Ave,"11102 Winchester Ave64134
+(38.922006, -94.508601)",64134,Ruskin Heights,6,South,60391,38.922006,-94.508601,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021009440,0,190,1,7,143
+2021008069,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,01/26/2021,08:54 AM,1,2021,OPEN,N,,,,,11214 Greenwood Rd,"11214 Greenwood Rd64134
+(38.919103, -94.493141)",64134,Ruskin Hills,6,South,72806,38.919103,-94.493141,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021008069,0,200,1,7,143
+2021007634,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,01/25/2021,08:59 AM,1,2021,OPEN,N,,,,,11200 Elm Ave,"11200 Elm Ave64134
+(38.919492, -94.48399)",64134,Ruskin Hills,6,South,71190,38.919492,-94.48399,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021007634,0,200,1,7,143
+2021005800,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,01/19/2021,10:56 AM,1,2021,OPEN,Y,,,,,11201 Eastern Ave,"11201 Eastern Ave64134
+(38.918964, -94.502001)",64134,Ruskin Heights,6,South,72340,38.918964,-94.502001,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2021005800,30,190,1,7,143
+2020157739,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,12/22/2020,02:37 PM,12,2020,OPEN,N,,,,,10922 Bristol Ter,"10922 Bristol Ter64134
+(38.924558, -94.498593)",64134,Ruskin Heights,6,South,72131,38.924558,-94.498593,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020157739,0,190,1,7,143
+2020145417,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,11/13/2020,01:22 PM,11,2020,OPEN,N,,,,,7900 E 112th St,"7900 E 112th St64134
+(38.926179, -94.498135)",64134,Ruskin Heights,6,South,71790,38.926179,-94.498135,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020145417,0,190,1,7,143
+2020141443,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,11/02/2020,12:40 PM,11,2020,OPEN,Y,,,,,11406 Richmond Ave,"11406 Richmond Ave64134
+(38.917733, -94.501701)",64134,Ruskin Heights,6,South,72494,38.917733,-94.501701,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020141443,90,190,1,7,143
+2020141441,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,11/02/2020,12:37 PM,11,2020,OPEN,Y,,,,,11403 Richmond Ave,"11403 Richmond Ave64134
+(38.917533, -94.501041)",64134,Ruskin Heights,6,South,72551,38.917533,-94.501041,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020141441,90,190,1,7,143
+2020140063,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,10/28/2020,10:53 AM,10,2020,OPEN,N,,,,,11408 Crystal Ave,"11408 Crystal Ave64134
+(38.916013, -94.506773)",64134,Ruskin Heights,6,South,60575,38.916013,-94.506773,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020140063,0,190,1,7,143
+2020139833,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,10/27/2020,02:22 PM,10,2020,OPEN,N,,,,,8501 E 110th St,"8501 E 110th St64134
+(38.923854, -94.492822)",64134,Ruskin Hills,6,South,71433,38.923854,-94.492822,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020139833,0,200,1,7,143
+2020134922,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,10/13/2020,11:08 AM,10,2020,OPEN,N,,,,,7216 E 112th St,"7216 E 112th St64134
+(38.921666, -94.505423)",64134,Ruskin Heights,6,South,60306,38.921666,-94.505423,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020134922,0,190,1,7,143
+2020134845,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,10/13/2020,09:54 AM,10,2020,OPEN,N,,,,,11226 Oakland Ave,"11226 Oakland Ave64134
+(38.91713, -94.503972)",64134,Ruskin Heights,6,South,72460,38.91713,-94.503972,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020134845,0,190,1,7,143
+2020134837,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,10/13/2020,09:49 AM,10,2020,OPEN,N,,,,,11431 Richmond Ave,"11431 Richmond Ave64134
+(38.915713, -94.503082)",64134,Ruskin Heights,6,South,72515,38.915713,-94.503082,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020134837,0,190,1,7,143
+2020134832,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,10/13/2020,09:44 AM,10,2020,OPEN,N,,,,,11418 Manchester Ave,"11418 Manchester Ave64134
+(38.915858, -94.50136)",64134,Ruskin Heights,6,South,72577,38.915858,-94.50136,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020134832,0,190,1,7,143
+2020131234,WEB,City Planning and Development,City Planning and Development-Dev Comp-Zoning,Prop/Build/Construct-Land Use / Zoning Issue-Business in a residence,Property / Buildings / Construction,Land Use / Zoning Issue,Business In A Residence,10/03/2020,01:15 PM,10,2020,OPEN,N,,,,,11314 McKinley Ave,"11314 McKinley Ave64134
+(38.91678, -94.48953)",64134,Ruskin Hills,6,South,73190,38.91678,-94.48953,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020131234,0,200,1,7,143
+2020130323,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Vacant,09/30/2020,06:42 PM,9,2020,OPEN,N,,,,,8300 E 110th Ter,"8300 E 110th Ter64134
+(38.923483, -94.495138)",64134,Ruskin Hills,6,South,71415,38.923483,-94.495138,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020130323,0,200,1,7,143
+2020125089,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,09/17/2020,01:02 PM,9,2020,OPEN,N,,,,,11222 Herrick Ave,"11222 Herrick Ave64134
+(38.918672, -94.496692)",64134,Ruskin Heights,6,South,72861,38.918672,-94.496692,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020125089,0,190,1,7,143
+2020124667,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Vacant,09/16/2020,04:20 PM,9,2020,OPEN,N,,,,,8700 E 109th St,"8700 E 109th St64134
+(38.925743, -94.48805)",64134,Ruskin Hills,6,South,71594,38.925743,-94.48805,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020124667,30,200,1,7,143
+2020123256,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,09/14/2020,02:40 PM,9,2020,OPEN,N,,,,,11221 Booth Ave,"11221 Booth Ave64134
+(38.918575, -94.491807)",64134,Ruskin Hills,6,South,72726,38.918575,-94.491807,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020123256,0,200,1,7,143
+2020121548,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,09/09/2020,01:32 PM,9,2020,OPEN,N,,,,,7000 E 114th St,"7000 E 114th St64134
+(38.917052, -94.509222)",64134,Ruskin Heights,6,South,60516,38.917052,-94.509222,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020121548,0,190,1,7,143
+2020121476,WEB,City Planning and Development,City Planning and Development-Dev Comp-Zoning,Prop/Build/Construct-Land Use / Zoning Issue-Business in a residence,Property / Buildings / Construction,Land Use / Zoning Issue,Business In A Residence,09/09/2020,12:06 PM,9,2020,OPEN,Y,,,,,8721 E 107th St,"8721 E 107th St64134
+(38.929444, -94.487135)",64134,Ruskin Hills,6,South,71239,38.929444,-94.487135,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020121476,0,200,1,7,143
+2020121297,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,09/09/2020,09:14 AM,9,2020,OPEN,N,,,,,11308 Corrington Ave,"11308 Corrington Ave64134
+(38.917146, -94.507395)",64134,Ruskin Heights,6,South,60542,38.917146,-94.507395,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020121297,0,190,1,7,143
+2020120976,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,09/08/2020,12:27 PM,9,2020,OPEN,N,,,,,7111 E 112th St,"7111 E 112th St64134
+(38.920212, -94.50688)",64134,Ruskin Heights,6,South,60334,38.920212,-94.50688,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020120976,0,190,1,7,143
+2020120855,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,09/08/2020,10:11 AM,9,2020,OPEN,Y,,,,,7601 E 109th Ter,"7601 E 109th Ter64134
+(38.926289, -94.501716)",64134,Ruskin Heights,6,South,71913,38.926289,-94.501716,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020120855,0,190,1,7,143
+2020117473,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,08/31/2020,08:50 AM,8,2020,OPEN,N,,,,,11209 Marsh Ave,"11209 Marsh Ave64134
+(38.919364, -94.494961)",64134,Ruskin Hills,6,South,72830,38.919364,-94.494961,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020117473,0,200,1,7,143
+2020115295,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,08/25/2020,02:47 PM,8,2020,OPEN,N,,,,,7106 E 112th St,"7106 E 112th St64134
+(38.92031, -94.507879)",64134,Ruskin Heights,6,South,60319,38.92031,-94.507879,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020115295,0,190,1,7,143
+2020113264,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,08/20/2020,09:13 AM,8,2020,OPEN,N,,,,,11311 McKinley Ave,"11311 McKinley Ave64134
+(38.917058, -94.488978)",64134,Ruskin Hills,6,South,73171,38.917058,-94.488978,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020113264,0,200,1,7,143
+2020111000,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,08/14/2020,02:10 PM,8,2020,OPEN,N,,,,,7103 E 107th St,"7103 E 107th St64134
+(38.930265, -94.507127)",64134,Ruskin Heights,6,South,59128,38.930265,-94.507127,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020111000,0,190,1,7,143
+2020110761,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,08/14/2020,09:20 AM,8,2020,OPEN,N,,,,,11116 Herrick Ave,"11116 Herrick Ave64134
+(38.921141, -94.496501)",64134,Ruskin Heights,6,South,72913,38.921141,-94.496501,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020110761,0,190,1,7,143
+2020109822,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,08/12/2020,01:54 PM,8,2020,OPEN,N,,,,,8808 Mcelroy Rd,"8808 Mcelroy Rd64134
+(38.922127, -94.488937)",64134,Ruskin Hills,6,South,71564,38.922127,-94.488937,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020109822,0,200,1,7,143
+2020108973,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,08/11/2020,08:45 AM,8,2020,OPEN,N,,,,,7501 E 109th Ter,"7501 E 109th Ter64134
+(38.925687, -94.5027)",64134,Ruskin Heights,6,South,72020,38.925687,-94.5027,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020108973,0,190,1,7,143
+2020105624,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,08/03/2020,02:58 PM,8,2020,OPEN,N,,,,,10803 Blue Ridge Blvd,"10803 Blue Ridge Blvd64134
+(38.927102, -94.507556)",64134,Ruskin Heights,6,South,59171,38.927102,-94.507556,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020105624,0,190,1,7,143
+2020104734,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,07/31/2020,11:52 AM,7,2020,OPEN,N,,,,,7509 E 112th Ter,"7509 E 112th Ter64134
+(38.92073, -94.502381)",64134,Ruskin Heights,6,South,72358,38.92073,-94.502381,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020104734,0,190,1,7,143
+2020104614,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,07/31/2020,09:59 AM,7,2020,OPEN,Y,,,,,11200 Herrick Ave,"11200 Herrick Ave64134
+(38.920202, -94.496575)",64134,Ruskin Heights,6,South,72853,38.920202,-94.496575,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020104614,30,190,1,7,143
+2020103491,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,07/29/2020,11:15 AM,7,2020,OPEN,Y,,,,,11232 Crystal Ave,"11232 Crystal Ave64134
+(38.917757, -94.50587)",64134,Ruskin Heights,6,South,60620,38.917757,-94.50587,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020103491,0,190,1,7,143
+2020101694,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,07/24/2020,12:01 PM,7,2020,OPEN,N,,,,,7007 E 111th St,"7007 E 111th St64134
+(38.922065, -94.507098)",64134,Ruskin Heights,6,South,60279,38.922065,-94.507098,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020101694,0,190,1,7,143
+2020101428,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,07/23/2020,09:31 PM,7,2020,OPEN,N,,,,,7800 E 114th St,"7800 E 114th St64134
+(38.917382, -94.499804)",64134,Ruskin Heights,6,South,72684,38.917382,-94.499804,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020101428,0,190,1,7,143
+2020097994,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,07/17/2020,09:20 AM,7,2020,OPEN,N,,,,,11305 Corrington Ave,"11305 Corrington Ave64134
+(38.917271, -94.506704)",64134,Ruskin Heights,6,South,60564,38.917271,-94.506704,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020097994,0,190,1,7,143
+2020097989,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,07/17/2020,09:12 AM,7,2020,OPEN,N,,,,,11405 Corrington Ave,"11405 Corrington Ave64134
+(38.916397, -94.507088)",64134,Ruskin Heights,6,South,60559,38.916397,-94.507088,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020097989,0,190,1,7,143
+2020096918,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,07/15/2020,01:37 PM,7,2020,OPEN,Y,,,,,11103 Bristol Ter,"11103 Bristol Ter64134
+(38.921854, -94.502163)",64134,Ruskin Heights,6,South,72379,38.921854,-94.502163,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020096918,90,190,1,7,143
+2020096608,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,07/15/2020,09:33 AM,7,2020,OPEN,N,,,,,7608 E 108th St,"7608 E 108th St64134
+(38.929636, -94.500185)",64134,Ruskin Heights,6,South,71658,38.929636,-94.500185,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020096608,0,190,1,7,143
+2020096574,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,07/15/2020,09:20 AM,7,2020,OPEN,N,,,,,10923 Bristol Ter,"10923 Bristol Ter64134
+(38.924195, -94.498092)",64134,Ruskin Heights,6,South,72140,38.924195,-94.498092,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020096574,0,190,1,7,143
+2020096560,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,07/15/2020,09:14 AM,7,2020,OPEN,N,,,,,10712 Bristol Ter,"10712 Bristol Ter64134
+(38.92879, -94.496978)",64134,Ruskin Heights,6,South,71681,38.92879,-94.496978,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020096560,0,190,1,7,143
+2020096549,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,07/15/2020,09:08 AM,7,2020,OPEN,N,,,,,7703 E 108th Ter,"7703 E 108th Ter64134
+(38.928146, -94.499681)",64134,Ruskin Heights,6,South,71730,38.928146,-94.499681,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020096549,0,190,1,7,143
+2020096544,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,07/15/2020,09:06 AM,7,2020,OPEN,Y,,,,,7700 E 108th Ter,"7700 E 108th Ter64134
+(38.928678, -94.499741)",64134,Ruskin Heights,6,South,71728,38.928678,-94.499741,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020096544,90,190,1,7,143
+2020096520,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,07/15/2020,08:48 AM,7,2020,OPEN,N,,,,,7504 E 108th Ter,"7504 E 108th Ter64134
+(38.928839, -94.501676)",64134,Ruskin Heights,6,South,71861,38.928839,-94.501676,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020096520,0,190,1,7,143
+2020096516,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,07/15/2020,08:45 AM,7,2020,OPEN,N,,,,,7405 E 108th Ter,"7405 E 108th Ter64134
+(38.92852, -94.502642)",64134,Ruskin Heights,6,South,71850,38.92852,-94.502642,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020096516,0,190,1,7,143
+2020095472,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,07/13/2020,12:53 PM,7,2020,OPEN,N,,,,,11367 Sycamore Ter,"11367 Sycamore Ter64134
+(38.916781, -94.497282)",64134,Ruskin Heights,6,South,72645,38.916781,-94.497282,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020095472,0,190,1,7,143
+2020095361,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,07/13/2020,11:01 AM,7,2020,OPEN,N,,,,,8801 Mcelroy Rd,"8801 Mcelroy Rd64134
+(38.921691, -94.489788)",64134,Ruskin Hills,6,South,72746,38.921691,-94.489788,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020095361,60,200,1,7,143
+2020094212,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,07/09/2020,03:23 PM,7,2020,OPEN,N,,,,,7106 E 107th Ter,"7106 E 107th Ter64134
+(38.927831, -94.506959)",64134,Ruskin Heights,6,South,59202,38.927831,-94.506959,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020094212,0,190,1,7,143
+2020091653,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,07/04/2020,02:57 PM,7,2020,OPEN,N,,,,,11105 Bristol Ter,"11105 Bristol Ter64134
+(38.921751, -94.502337)",64134,Ruskin Heights,6,South,72380,38.921751,-94.502337,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020091653,0,190,1,7,143
+2020091652,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Open Storage,07/04/2020,02:55 PM,7,2020,OPEN,N,,,,,11011 Bristol Ter,"11011 Bristol Ter64134
+(38.922703, -94.500707)",64134,Ruskin Heights,6,South,72064,38.922703,-94.500707,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020091652,0,190,1,7,143
+2020091650,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,07/04/2020,02:53 PM,7,2020,OPEN,N,,,,,11000 Bristol Ter,"11000 Bristol Ter64134
+(38.923657, -94.500125)",64134,Ruskin Heights,6,South,72072,38.923657,-94.500125,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020091650,0,190,1,7,143
+2020091644,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,07/04/2020,02:44 PM,7,2020,OPEN,N,,,,,7806 E 113th Ter,"7806 E 113th Ter64134
+(38.920333, -94.500572)",64134,Ruskin Heights,6,South,72240,38.920333,-94.500572,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020091644,0,190,1,7,143
+2020091643,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,07/04/2020,02:42 PM,7,2020,OPEN,N,,,,,7721 E 112th Ter,"7721 E 112th Ter64134
+(38.922658, -94.499071)",64134,Ruskin Heights,6,South,72047,38.922658,-94.499071,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020091643,0,190,1,7,143
+2020091639,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,07/04/2020,02:35 PM,7,2020,OPEN,Y,,,,,7510 E 112th Ter,"7510 E 112th Ter64134
+(38.92115, -94.502659)",64134,Ruskin Heights,6,South,72368,38.92115,-94.502659,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020091639,60,190,1,7,143
+2020089929,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,06/30/2020,01:12 PM,6,2020,OPEN,N,,,,,11306 Lewis Ave,"11306 Lewis Ave64134
+(38.917741, -94.490488)",64134,Ruskin Hills,6,South,73213,38.917741,-94.490488,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020089929,0,200,1,7,143
+2020088300,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,06/26/2020,08:59 AM,6,2020,OPEN,Y,,,,,7505 E 112th St,"7505 E 112th St64134
+(38.922696, -94.502604)",64134,Ruskin Heights,6,South,71934,38.922696,-94.502604,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020088300,60,190,1,7,143
+2020088225,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,06/26/2020,07:13 AM,6,2020,OPEN,N,,,,,7109 E 107th Pl,"7109 E 107th Pl64134
+(38.928435, -94.506371)",64134,Ruskin Heights,6,South,59179,38.928435,-94.506371,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020088225,0,190,1,7,143
+2020088223,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,06/26/2020,07:10 AM,6,2020,OPEN,Y,,,,,10713 Sycamore Ter,"10713 Sycamore Ter64134
+(38.929313, -94.506813)",64134,Ruskin Heights,6,South,59189,38.929313,-94.506813,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020088223,30,190,1,7,143
+2020088180,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trees,Private Property,Tree Debris,06/25/2020,06:02 PM,6,2020,OPEN,Y,,,,,11303 Corrington Ave,"11303 Corrington Ave64134
+(38.917438, -94.506599)",64134,Ruskin Heights,6,South,60565,38.917438,-94.506599,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020088180,0,190,1,7,143
+2020086912,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,06/24/2020,05:36 AM,6,2020,OPEN,N,,,,,7818 E 108th Cir,"7818 E 108th Cir64134
+(38.928979, -94.497414)",64134,Ruskin Heights,6,South,71687,38.928979,-94.497414,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020086912,60,190,1,7,143
+2020085459,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,06/19/2020,04:13 PM,6,2020,OPEN,N,,,,,7700 E 113th St,"7700 E 113th St64134
+(38.920998, -94.501216)",64134,Ruskin Heights,6,South,72276,38.920998,-94.501216,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020085459,0,190,1,7,143
+2020083005,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,06/15/2020,11:43 PM,6,2020,OPEN,N,,,,,7404 E 109th St,"7404 E 109th St64134
+(38.926662, -94.503676)",64134,Ruskin Heights,6,South,71831,38.926662,-94.503676,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020083005,0,190,1,7,143
+2020081285,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,06/11/2020,03:25 PM,6,2020,OPEN,Y,,,,,11316 Herrick Ave,"11316 Herrick Ave64134
+(38.917165, -94.496807)",64134,Ruskin Heights,6,South,73083,38.917165,-94.496807,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020081285,30,190,1,7,143
+2020081214,PHONE,Water Services,Water Services-Line Maintenance-Wastewater,Stormwater / Sewer-Services-Feedback,Storm Water / Sewer,Services,Feedback,06/11/2020,02:22 PM,6,2020,OPEN,N,,,,,11414 Manchester Ave,"11414 Manchester Ave64134
+(38.916126, -94.501025)",64134,Ruskin Heights,6,South,72575,38.916126,-94.501025,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020081214,0,190,1,7,143
+2020078579,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,06/06/2020,06:31 PM,6,2020,OPEN,N,,,,,11403 Palmer Ave,"11403 Palmer Ave64134
+(38.916954, -94.500323)",64134,Ruskin Heights,6,South,72566,38.916954,-94.500323,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020078579,0,190,1,7,143
+2020078084,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,06/05/2020,01:15 PM,6,2020,OPEN,N,,,,,11216 Eastern Ave,"11216 Eastern Ave64134
+(38.918401, -94.503909)",64134,Ruskin Heights,6,South,72416,38.918401,-94.503909,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020078084,0,190,1,7,143
+2020077323,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,06/04/2020,11:44 AM,6,2020,OPEN,N,,,,,7614 E 112th St,"7614 E 112th St64134
+(38.924395, -94.500752)",64134,Ruskin Heights,6,South,72078,38.924395,-94.500752,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020077323,0,190,1,7,143
+2020077221,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,06/04/2020,10:05 AM,6,2020,OPEN,N,,,,,8507 E 109th St,"8507 E 109th St64134
+(38.925566, -94.491989)",64134,Ruskin Hills,6,South,71299,38.925566,-94.491989,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020077221,0,200,1,7,143
+2020076975,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,06/03/2020,04:41 PM,6,2020,OPEN,N,,,,,11302 Greenwood Rd,"11302 Greenwood Rd64134
+(38.918122, -94.493535)",64134,Ruskin Hills,6,South,73034,38.918122,-94.493535,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020076975,0,200,1,7,143
+2020076755,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,06/03/2020,01:09 PM,6,2020,OPEN,N,,,,,11110 Winchester Ave,"11110 Winchester Ave64134
+(38.921257, -94.508841)",64134,Ruskin Heights,6,South,60395,38.921257,-94.508841,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020076755,0,190,1,7,143
+2020075591,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,06/01/2020,03:17 PM,6,2020,OPEN,N,,,,,11306 Manchester Ave,"11306 Manchester Ave64134
+(38.917493, -94.499189)",64134,Ruskin Heights,6,South,72681,38.917493,-94.499189,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020075591,0,190,1,7,143
+2020071539,TWIR,City Planning and Development,City Planning and Development-Dev Comp-Zoning,Vehicles / Parking-Commercial Vehicle-On private property,Vehicles / Parking,Commercial Vehicle,On Private Property,05/22/2020,12:17 PM,5,2020,OPEN,Y,,,,,7204 E 112th St,"7204 E 112th St64134
+(38.921019, -94.506543)",64134,Ruskin Heights,6,South,60312,38.921019,-94.506543,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020071539,0,190,1,7,143
+2020071447,PHONE,NHS,NHS-Solid Waste-Administration,Trash / Recycling-Services-Feedback,Trash / Recycling,Services,Feedback,05/22/2020,10:43 AM,5,2020,OPEN,N,,,,,10738 Lewis Ct,"10738 Lewis Ct64134
+(38.926968, -94.488435)",64134,Ruskin Hills,6,South,71256,38.926968,-94.488435,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020071447,0,200,1,7,143
+2020071092,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,05/21/2020,04:01 PM,5,2020,OPEN,N,,,,,7301 E 108th St,"7301 E 108th St64134
+(38.927642, -94.504448)",64134,Ruskin Heights,6,South,59101,38.927642,-94.504448,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020071092,0,190,1,7,143
+2020070075,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,05/20/2020,10:19 AM,5,2020,OPEN,N,,,,,11211 Corrington Ave,"11211 Corrington Ave64134
+(38.919466, -94.504542)",64134,Ruskin Heights,6,South,72308,38.919466,-94.504542,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020070075,0,190,1,7,143
+2020068795,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,05/18/2020,11:12 AM,5,2020,OPEN,Y,,,,,11101 Blue Ridge Blvd,"11101 Blue Ridge Blvd64134
+(38.922247, -94.508969)",64134,Ruskin Heights,6,South,60389,38.922247,-94.508969,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020068795,90,190,1,7,143
+2020068673,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,05/18/2020,09:35 AM,5,2020,OPEN,N,,,,,11012 Stark Ave,"11012 Stark Ave64134
+(38.923354, -94.489043)",64134,Ruskin Hills,6,South,71551,38.923354,-94.489043,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020068673,0,200,1,7,143
+2020065877,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,05/12/2020,08:18 AM,5,2020,OPEN,N,,,,,8613 Ruskin Way,"8613 Ruskin Way64134
+(38.91879, -94.490602)",64134,Ruskin Hills,6,South,72717,38.91879,-94.490602,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020065877,0,200,1,7,143
+2020064414,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,05/08/2020,09:33 AM,5,2020,OPEN,N,,,,,11215 Bristol Ter,"11215 Bristol Ter64134
+(38.919744, -94.505656)",64134,Ruskin Heights,6,South,60365,38.919744,-94.505656,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020064414,0,190,1,7,143
+2020064107,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,05/07/2020,03:55 PM,5,2020,OPEN,N,,,,,8409 E 109th Ter,"8409 E 109th Ter64134
+(38.924729, -94.49303)",64134,Ruskin Hills,6,South,71340,38.924729,-94.49303,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020064107,0,200,1,7,143
+2020063868,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,05/07/2020,12:55 PM,5,2020,OPEN,Y,,,,,11413 Spring Valley Rd,"11413 Spring Valley Rd64134
+(38.915052, -94.488712)",64134,Ruskin Hills,6,South,73147,38.915052,-94.488712,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020063868,90,200,1,7,143
+2020062307,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,05/05/2020,11:19 AM,5,2020,OPEN,Y,,,,,11400 Richmond Ave,"11400 Richmond Ave64134
+(38.918068, -94.501141)",64134,Ruskin Heights,6,South,72545,38.918068,-94.501141,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020062307,90,190,1,7,143
+2020061874,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,05/04/2020,03:27 PM,5,2020,OPEN,N,,,,,7904 E 113th Ter,"7904 E 113th Ter64134
+(38.92152, -94.498534)",64134,Ruskin Heights,6,South,72251,38.92152,-94.498534,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020061874,0,190,1,7,143
+2020061608,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,05/04/2020,11:39 AM,5,2020,OPEN,N,,,,,11410 Manchester Ave,"11410 Manchester Ave64134
+(38.916338, -94.500652)",64134,Ruskin Heights,6,South,72573,38.916338,-94.500652,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020061608,0,190,1,7,143
+2020061006,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,05/01/2020,03:34 PM,5,2020,OPEN,N,,,,,11412 Bristol Ter,"11412 Bristol Ter64134
+(38.915405, -94.508941)",64134,Ruskin Heights,6,South,60633,38.915405,-94.508941,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020061006,0,190,1,7,143
+2020058840,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,04/28/2020,02:01 PM,4,2020,OPEN,Y,,,,,7800 E 108th St,"7800 E 108th St64134
+(38.929374, -94.498741)",64134,Ruskin Heights,6,South,71696,38.929374,-94.498741,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020058840,90,190,1,7,143
+2020058675,PHONE,South,South-KansasCity-Alliance,Prop/Build/Construct-Property Maintenance-SKCA,Property / Buildings / Construction,Property Maintenance,South Kansas City Alliance,04/28/2020,11:32 AM,4,2020,OPEN,Y,,,,,7603 E 111th Ter,"7603 E 111th Ter64134
+(38.924442, -94.501379)",64134,Ruskin Heights,6,South,71956,38.924442,-94.501379,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020058675,90,190,1,7,143
+2020055370,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,04/20/2020,04:28 PM,4,2020,OPEN,Y,,,,,7906 E 113th Ter,"7906 E 113th Ter64134
+(38.921606, -94.498347)",64134,Ruskin Heights,6,South,72252,38.921606,-94.498347,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020055370,90,190,1,7,143
+2020054657,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Recycling-Missed by Contractor South,Trash / Recycling,Recycling,Missed by Contractor South,04/17/2020,06:38 PM,4,2020,OPEN,N,,,,,7217 E 112th St,"7217 E 112th St64134
+(38.921269, -94.505044)",64134,Ruskin Heights,6,South,60344,38.921269,-94.505044,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054657,0,190,1,7,143
+2020054656,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Recycling-Missed by Contractor South,Trash / Recycling,Recycling,Missed by Contractor South,04/17/2020,06:29 PM,4,2020,OPEN,N,,,,,10829 Marsh Ave,"10829 Marsh Ave64134
+(38.92701, -94.493438)",64134,Ruskin Hills,6,South,71325,38.92701,-94.493438,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054656,0,200,1,7,143
+2020054655,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,04/17/2020,06:28 PM,4,2020,OPEN,N,,,,,10829 Marsh Ave,"10829 Marsh Ave64134
+(38.92701, -94.493438)",64134,Ruskin Hills,6,South,71325,38.92701,-94.493438,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054655,0,200,1,7,143
+2020054651,PHONE,NHS,NHS-Solid Waste-Administration,Trash / Recycling-Services-Service Issue / Problem,Trash / Recycling,Services,Service Issue / Problem,04/17/2020,06:07 PM,4,2020,OPEN,N,,,,,8101 E 107th St,"8101 E 107th St64134
+(38.92899, -94.495204)",64134,Ruskin Heights,6,South,71318,38.92899,-94.495204,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054651,0,190,1,7,143
+2020054650,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,04/17/2020,06:06 PM,4,2020,OPEN,N,,,,,8101 E 107th St,"8101 E 107th St64134
+(38.92899, -94.495204)",64134,Ruskin Heights,6,South,71318,38.92899,-94.495204,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054650,0,190,1,7,143
+2020054640,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,04/17/2020,05:53 PM,4,2020,OPEN,N,,,,,7901 E 113th Ter,"7901 E 113th Ter64134
+(38.920929, -94.498549)",64134,Ruskin Heights,6,South,72230,38.920929,-94.498549,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054640,0,190,1,7,143
+2020054585,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,04/17/2020,04:14 PM,4,2020,OPEN,N,,,,,11402 Herrick Ave,"11402 Herrick Ave64134
+(38.916164, -94.49688)",64134,Ruskin Heights,6,South,72939,38.916164,-94.49688,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054585,0,190,1,7,143
+2020054552,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,04/17/2020,03:33 PM,4,2020,OPEN,N,,,,,10718 Stark Ave,"10718 Stark Ave64134
+(38.927835, -94.48756)",64134,Ruskin Hills,6,South,71275,38.927835,-94.48756,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054552,0,200,1,7,143
+2020054301,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,04/17/2020,10:10 AM,4,2020,OPEN,Y,,,,,7601 E 111th Ter,"7601 E 111th Ter64134
+(38.924335, -94.50156)",64134,Ruskin Heights,6,South,71957,38.924335,-94.50156,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054301,90,190,1,7,143
+2020054297,PHONE,Public Works,Public Works-Street and Traffic-Streetlights,Lights / Signals-Street Light-1 light out,Lights / Signals,Street Light,1 Light Out,04/17/2020,10:08 AM,4,2020,OPEN,N,,,,,11415 Blue Ridge Blvd,"11415 Blue Ridge Blvd64134
+(38.915846, -94.512293)",64134,Ruskin Heights,6,South,60463,38.915846,-94.512293,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020054297,0,190,1,7,143
+2020053467,PHONE,Water Services,Water Services-Line Maintenance-Stormwater,Stormwater-Storm Drain / Catch Basin-Clogged / Over-Flow,Storm Water / Sewer,Storm Drain / Catch Basin,Clogged / Over-Flow,04/15/2020,03:49 PM,4,2020,OPEN,N,,,,,8638 E 108th Ter,"8638 E 108th Ter64134
+(38.926719, -94.489874)",64134,Ruskin Hills,6,South,71238,38.926719,-94.489874,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020053467,0,200,1,7,143
+2020053310,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,04/15/2020,01:47 PM,4,2020,OPEN,Y,,,,,11310 Lewis Ave,"11310 Lewis Ave64134
+(38.917356, -94.49052)",64134,Ruskin Hills,6,South,73211,38.917356,-94.49052,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020053310,90,200,1,7,143
+2020053158,BOT,Public Works,Public Works-Street and Traffic-District 3,Streets / Roadways / Alleys-Pothole-District 3,Streets / Roadways / Alleys,Pothole,District 3,04/15/2020,10:57 AM,4,2020,OPEN,N,,,,,8659 E 109th Ter,"8659 E 109th Ter64134
+(38.924553, -94.489726)",64134,Ruskin Hills,6,South,71469,38.924553,-94.489726,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020053158,0,200,1,7,143
+2020052751,PHONE,Water Services,Water Services-Line Maintenance-Leaf Brush,Trash / Recycling-Leaf / Brush-Missed Pick Up,Trash / Recycling,Leaf / Brush,Missed Pick Up,04/14/2020,03:47 PM,4,2020,OPEN,N,,,,,11227 Bristol Ter,"11227 Bristol Ter64134
+(38.918938, -94.50659)",64134,Ruskin Heights,6,South,60359,38.918938,-94.50659,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020052751,0,190,1,7,143
+2020052102,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,04/13/2020,03:13 PM,4,2020,OPEN,N,,,,,11401 Richmond Ave,"11401 Richmond Ave64134
+(38.917659, -94.500829)",64134,Ruskin Heights,6,South,72552,38.917659,-94.500829,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020052102,0,190,1,7,143
+2020051861,PHONE,Water Services,Water Services-Line Maintenance-Leaf Brush,Trash / Recycling-Leaf / Brush-Missed Pick Up,Trash / Recycling,Leaf / Brush,Missed Pick Up,04/13/2020,11:33 AM,4,2020,OPEN,Y,,,,,7203 E 108th Ter,"7203 E 108th Ter64134
+(38.929987, -94.505724)",64134,Ruskin Heights,6,South,59134,38.929987,-94.505724,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020051861,0,190,1,7,143
+2020049327,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,04/07/2020,04:06 PM,4,2020,OPEN,Y,,,,,8509 E 108th St B-29,"8509 E 108th St64134
+(38.927384, -94.49176)",64134,Ruskin Hills,6,South,71297,38.927384,-94.49176,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020049327,90,200,1,7,143
+2020043983,EMAIL,Public Works,Public Works-Street and Traffic-District 3,Streets / Roadways / Alleys-Pothole-District 3,Streets / Roadways / Alleys,Pothole,District 3,03/26/2020,06:48 PM,3,2020,OPEN,N,,,,,8833 E 109th Ter,"8833 E 109th Ter64134
+(38.924762, -94.487408)",64134,Ruskin Hills,6,South,71647,38.924762,-94.487408,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020043983,0,200,1,7,143
+2020043798,WEB,Public Works,Public Works-Street and Traffic-District 3,Streets / Roadways / Alleys-Pothole-District 3,Streets / Roadways / Alleys,Pothole,District 3,03/26/2020,02:39 PM,3,2020,OPEN,Y,,,,,8829 E 109th Ter,"8829 E 109th Ter64134
+(38.924694, -94.487463)",64134,Ruskin Hills,6,South,71646,38.924694,-94.487463,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020043798,0,200,1,7,143
+2020043064,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,03/25/2020,11:17 AM,3,2020,OPEN,N,,,,,11041 Booth Ave,"11041 Booth Ave64134
+(38.92306, -94.492549)",64134,Ruskin Hills,6,South,71458,38.92306,-94.492549,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020043064,0,200,1,7,143
+2020041580,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-On list,Property / Buildings / Construction,Dangerous Building,Standard,03/20/2020,11:25 AM,3,2020,OPEN,N,,,,,7304 E 108th St,"7304 E 108th St64134
+(38.928301, -94.504551)",64134,Ruskin Heights,6,South,59157,38.928301,-94.504551,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020041580,0,190,1,7,143
+2020039652,BOT,Public Works,Public Works-Street and Traffic-District 3,Streets / Roadways / Alleys-Pothole-District 3,Streets / Roadways / Alleys,Pothole,District 3,03/17/2020,08:51 AM,3,2020,OPEN,N,,,,,8655 E 109th Ter,"8655 E 109th Ter64134
+(38.924574, -94.490232)",64134,Ruskin Hills,6,South,71471,38.924574,-94.490232,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020039652,0,200,1,7,143
+2020037744,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,03/12/2020,11:27 AM,3,2020,OPEN,N,,,,,7709 E 113th St,"7709 E 113th St64134
+(38.921058, -94.500117)",64134,Ruskin Heights,6,South,72265,38.921058,-94.500117,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020037744,0,190,1,7,143
+2020037741,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,03/12/2020,11:25 AM,3,2020,OPEN,N,,,,,7706 E 113th St,"7706 E 113th St64134
+(38.921319, -94.500666)",64134,Ruskin Heights,6,South,72279,38.921319,-94.500666,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020037741,0,190,1,7,143
+2020035007,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-On list,Property / Buildings / Construction,Dangerous Building,Standard,03/09/2020,08:07 AM,3,2020,OPEN,N,,,,,7305 E 111th Ter,"7305 E 111th Ter64134
+(38.922416, -94.504839)",64134,Ruskin Heights,6,South,59543,38.922416,-94.504839,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020035007,0,190,1,7,143
+2020034442,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,03/06/2020,02:47 PM,3,2020,OPEN,N,,,,,7112 Ruskin Way,"7112 Ruskin Way64134
+(38.921206, -94.504343)",64134,Ruskin Heights,6,South,72389,38.921206,-94.504343,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020034442,0,190,1,7,143
+2020032226,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,03/03/2020,01:20 PM,3,2020,OPEN,Y,,,,,7502 E 112th St,"7502 E 112th St64134
+(38.922981, -94.503164)",64134,Ruskin Heights,6,South,71943,38.922981,-94.503164,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020032226,0,190,1,7,143
+2020032024,BOT,Public Works,Public Works-Street and Traffic-District 3,Streets / Roadways / Alleys-Pothole-District 3,Streets / Roadways / Alleys,Pothole,District 3,03/03/2020,09:33 AM,3,2020,OPEN,N,,,,,8658 E 109th St,"8658 E 109th St64134
+(38.925886, -94.489619)",64134,Ruskin Hills,6,South,71221,38.925886,-94.489619,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020032024,0,200,1,7,143
+2020031895,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,03/03/2020,03:58 AM,3,2020,OPEN,N,,,,,11233 Eastern Ave,"11233 Eastern Ave64134
+(38.916974, -94.504604)",64134,Ruskin Heights,6,South,72435,38.916974,-94.504604,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020031895,0,190,1,7,143
+2020028887,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,02/26/2020,11:33 AM,2,2020,OPEN,Y,,,,,11347 Sycamore Ter,"11347 Sycamore Ter64134
+(38.918578, -94.49713)",64134,Ruskin Heights,6,South,72154,38.918578,-94.49713,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020028887,90,190,1,7,143
+2020028868,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,02/26/2020,11:12 AM,2,2020,OPEN,N,,,,,10734 Sycamore Ter,"10734 Sycamore Ter64134
+(38.928726, -94.50427)",64134,Ruskin Heights,6,South,59112,38.928726,-94.50427,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020028868,0,190,1,7,143
+2020027792,PHONE,City Managers Office,City Managers Office-311 Call Center-Support,Trash / Recycling-Bulky Pick Up -Address Validation,Trash / Recycling,Bulky Pick Up,Address Validation,02/24/2020,06:19 PM,2,2020,OPEN,N,,,,,7411 E 111th Ter,"7411 E 111th Ter64134
+(38.923379, -94.50319)",64134,Ruskin Heights,6,South,71966,38.923379,-94.50319,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020027792,0,190,1,7,143
+2020026578,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,02/21/2020,12:41 PM,2,2020,OPEN,N,,,,,7202 E 107th Ter,"7202 E 107th Ter64134
+(38.9283, -94.506015)",64134,Ruskin Heights,6,South,59197,38.9283,-94.506015,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020026578,0,190,1,7,143
+2020026311,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,02/21/2020,07:34 AM,2,2020,OPEN,N,,,,,7201 E 112th St,"7201 E 112th St64134
+(38.920416, -94.506525)",64134,Ruskin Heights,6,South,60336,38.920416,-94.506525,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020026311,0,190,1,7,143
+2020025083,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Open Storage,02/19/2020,03:00 PM,2,2020,OPEN,N,,,,,7101 E 113th St,"7101 E 113th St64134
+(38.918115, -94.508239)",64134,Ruskin Heights,6,South,60498,38.918115,-94.508239,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020025083,0,190,1,7,143
+2020022233,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,02/13/2020,10:13 AM,2,2020,OPEN,N,,,,,11308 Marsh Ave,"11308 Marsh Ave64134
+(38.917748, -94.495702)",64134,Ruskin Hills,6,South,73073,38.917748,-94.495702,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020022233,0,200,1,7,143
+2020022229,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,02/13/2020,10:12 AM,2,2020,OPEN,Y,,,,,11316 Marsh Ave,"11316 Marsh Ave64134
+(38.917174, -94.495743)",64134,Ruskin Hills,6,South,73070,38.917174,-94.495743,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020022229,0,200,1,7,143
+2020021229,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,02/11/2020,04:43 PM,2,2020,OPEN,N,,,,,7207 E 107th Ter,"7207 E 107th Ter64134
+(38.928384, -94.50514)",64134,Ruskin Heights,6,South,59159,38.928384,-94.50514,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020021229,0,190,1,7,143
+2020016533,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,02/03/2020,10:56 AM,2,2020,OPEN,N,,,,,6804 Longview Rd,"6804 Longview Rd64134
+(38.915659, -94.511864)",64134,Ruskin Heights,6,South,60484,38.915659,-94.511864,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020016533,0,190,1,7,143
+2020014943,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,01/30/2020,10:56 AM,1,2020,OPEN,N,,,,,8307 E 110th Ter,"8307 E 110th Ter64134
+(38.922867, -94.494527)",64134,Ruskin Hills,6,South,71369,38.922867,-94.494527,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020014943,0,200,1,7,143
+2020014278,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,01/29/2020,12:21 PM,1,2020,OPEN,N,,,,,8406 E 111th St,"8406 E 111th St64134
+(38.92224, -94.493636)",64134,Ruskin Hills,6,South,71384,38.92224,-94.493636,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020014278,0,200,1,7,143
+2020014039,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,01/29/2020,08:21 AM,1,2020,OPEN,N,,,,,11425 Palmer Ave,"11425 Palmer Ave64134
+(38.915652, -94.502014)",64134,Ruskin Heights,6,South,72540,38.915652,-94.502014,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020014039,0,190,1,7,143
+2020014028,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,01/29/2020,08:14 AM,1,2020,OPEN,Y,,,,,11421 Palmer Ave,"11421 Palmer Ave64134
+(38.915933, -94.501818)",64134,Ruskin Heights,6,South,72542,38.915933,-94.501818,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020014028,90,190,1,7,143
+2020009110,EMAIL,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,01/22/2020,10:10 AM,1,2020,OPEN,N,,,,,7705 E 108th St,"7705 E 108th St64134
+(38.928896, -94.499133)",64134,Ruskin Heights,6,South,71702,38.928896,-94.499133,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020009110,0,190,1,7,143
+2020008843,BOT,NHS,NHS-Solid Waste-,Trash / Recycling-Recycling-Missed by Contractor South,Trash / Recycling,Recycling,Missed by Contractor South,01/21/2020,05:13 PM,1,2020,OPEN,N,,,,,7903 E 108th St,"7903 E 108th St64134
+(38.928153, -94.497659)",64134,Ruskin Heights,6,South,71709,38.928153,-94.497659,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020008843,0,190,1,7,143
+2020008808,BOT,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,01/21/2020,04:47 PM,1,2020,OPEN,N,,,,,7314 E 109th St,"7314 E 109th St64134
+(38.926209, -94.504432)",64134,Ruskin Heights,6,South,59085,38.926209,-94.504432,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020008808,0,190,1,7,143
+2020008652,BOT,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,01/21/2020,02:59 PM,1,2020,OPEN,N,,,,,7705 E 108th Ter,"7705 E 108th Ter64134
+(38.92804, -94.499502)",64134,Ruskin Heights,6,South,71731,38.92804,-94.499502,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020008652,0,190,1,7,143
+2020008651,BOT,NHS,NHS-Solid Waste-,Trash / Recycling-Recycling-Missed by Contractor South,Trash / Recycling,Recycling,Missed by Contractor South,01/21/2020,02:58 PM,1,2020,OPEN,N,,,,,7705 E 108th Ter,"7705 E 108th Ter64134
+(38.92804, -94.499502)",64134,Ruskin Heights,6,South,71731,38.92804,-94.499502,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020008651,0,190,1,7,143
+2020008623,BOT,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,01/21/2020,02:36 PM,1,2020,OPEN,N,,,,,8709 E 108th St,"8709 E 108th St64134
+(38.926709, -94.488828)",64134,Ruskin Hills,6,South,71291,38.926709,-94.488828,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020008623,0,200,1,7,143
+2020008620,BOT,NHS,NHS-Solid Waste-,Trash / Recycling-Recycling-Missed by Contractor South,Trash / Recycling,Recycling,Missed by Contractor South,01/21/2020,02:35 PM,1,2020,OPEN,N,,,,,8709 E 108th St,"8709 E 108th St64134
+(38.926709, -94.488828)",64134,Ruskin Hills,6,South,71291,38.926709,-94.488828,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020008620,0,200,1,7,143
+2020008569,PHONE,Water Services,Water Services-Line Maintenance-Stormwater,Stormwater-Storm Drain / Catch Basin-Clogged / Over-Flow,Storm Water / Sewer,Storm Drain / Catch Basin,Clogged / Over-Flow,01/21/2020,01:45 PM,1,2020,OPEN,N,,,,,8207 E 111th St,"8207 E 111th St64134
+(38.92219, -94.495877)",64134,Ruskin Hills,6,South,71355,38.92219,-94.495877,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020008569,0,200,1,7,143
+2020008466,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,01/21/2020,11:26 AM,1,2020,OPEN,N,,,,,7806 Ruskin Way,"7806 Ruskin Way64134
+(38.920572, -94.498313)",64134,Ruskin Heights,6,South,72221,38.920572,-94.498313,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020008466,0,190,1,7,143
+2020008381,PHONE,Health,Health-Healthy Homes-,Public Health-Services-Healthy Homes Information,Public Health,Services,Healthy Homes Information,01/21/2020,10:01 AM,1,2020,OPEN,N,,,,,11318 Ditman Ave,"11318 Ditman Ave64134
+(38.916783, -94.491606)",64134,Ruskin Hills,6,South,73228,38.916783,-94.491606,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020008381,0,200,1,7,143
+2020007836,WEB,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,01/17/2020,07:45 PM,1,2020,OPEN,Y,,,,,8405 E 111th Ter,"8405 E 111th Ter64134
+(38.92069, -94.494057)",64134,Ruskin Hills,6,South,72887,38.92069,-94.494057,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020007836,0,200,1,7,143
+2020006436,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,01/15/2020,11:20 AM,1,2020,OPEN,N,,,,,6904 E 114th St,"6904 E 114th St64134
+(38.917191, -94.510557)",64134,Ruskin Heights,6,South,60444,38.917191,-94.510557,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020006436,0,190,1,7,143
+2020006432,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,01/15/2020,11:18 AM,1,2020,OPEN,N,,,,,11219 Oakland Ave,"11219 Oakland Ave64134
+(38.917317, -94.503017)",64134,Ruskin Heights,6,South,72485,38.917317,-94.503017,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020006432,0,190,1,7,143
+2020006407,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,01/15/2020,11:06 AM,1,2020,OPEN,N,,,,,7803 E 112th St,"7803 E 112th St64134
+(38.92492, -94.498874)",64134,Ruskin Heights,6,South,72118,38.92492,-94.498874,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020006407,0,190,1,7,143
+2020006303,PHONE,Water Services,Water Services-Line Maintenance-Stormwater,Stormwater-Storm Drain / Catch Basin-Clogged / Over-Flow,Storm Water / Sewer,Storm Drain / Catch Basin,Clogged / Over-Flow,01/15/2020,09:31 AM,1,2020,OPEN,N,,,,,8311 E 107th St,"8311 E 107th St64134
+(38.929067, -94.494397)",64134,Ruskin Heights,6,South,71316,38.929067,-94.494397,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020006303,0,190,1,7,143
+2020006293,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trees,Private Property,Tree Debris,01/15/2020,09:15 AM,1,2020,OPEN,N,,,,,11208 Bristol Ter,"11208 Bristol Ter64134
+(38.92053, -94.505489)",64134,Ruskin Heights,6,South,60349,38.92053,-94.505489,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2020006293,0,190,1,7,143
+2019206697,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,12/19/2019,10:14 AM,12,2019,OPEN,Y,,,,,8400 E 111th St,"8400 E 111th St64134
+(38.922454, -94.494287)",64134,Ruskin Hills,6,South,71387,38.922454,-94.494287,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019206697,90,200,1,7,143
+2019206171,PHONE,Water Services,Water Services-Administration-,Water-Services-Service Issue / Problem,Water,Services,Service Issue / Problem,12/18/2019,04:15 PM,12,2019,OPEN,N,,,,,8204 Longview Rd,"8204 Longview Rd64134
+(38.914964, -94.495784)",64134,Ruskin Hills,6,South,72952,38.914964,-94.495784,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019206171,0,200,1,7,143
+2019204586,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,12/17/2019,10:28 AM,12,2019,OPEN,N,,,,,11216 Marsh Ave,"11216 Marsh Ave64134
+(38.919042, -94.495604)",64134,Ruskin Hills,6,South,72848,38.919042,-94.495604,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019204586,0,200,1,7,143
+2019204066,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,12/16/2019,12:09 PM,12,2019,OPEN,Y,,,,,10912 Bristol Ter,"10912 Bristol Ter64134
+(38.925105, -94.497669)",64134,Ruskin Heights,6,South,72136,38.925105,-94.497669,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019204066,90,190,1,7,143
+2019204061,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,12/16/2019,12:01 PM,12,2019,OPEN,N,,,,,7703 E 113th St,"7703 E 113th St64134
+(38.920726, -94.500685)",64134,Ruskin Heights,6,South,72268,38.920726,-94.500685,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019204061,0,190,1,7,143
+2019204060,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,12/16/2019,12:00 PM,12,2019,OPEN,N,,,,,11344 Sycamore Ter,"11344 Sycamore Ter64134
+(38.91892, -94.497734)",64134,Ruskin Heights,6,South,72180,38.91892,-94.497734,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019204060,0,190,1,7,143
+2019204021,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,12/16/2019,11:15 AM,12,2019,OPEN,N,,,,,7606 E 108th Ter,"7606 E 108th Ter64134
+(38.928798, -94.500498)",64134,Ruskin Heights,6,South,71652,38.928798,-94.500498,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019204021,0,190,1,7,143
+2019203624,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,12/13/2019,02:47 PM,12,2019,OPEN,N,,,,,11007 Herrick Ave,"11007 Herrick Ave64134
+(38.923432, -94.49572)",64134,Ruskin Hills,6,South,71413,38.923432,-94.49572,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019203624,0,200,1,7,143
+2019203065,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,12/12/2019,01:32 PM,12,2019,OPEN,N,,,,,8507 E 110th St,"8507 E 110th St64134
+(38.923827, -94.492116)",64134,Ruskin Hills,6,South,71430,38.923827,-94.492116,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019203065,0,200,1,7,143
+2019202614,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,12/11/2019,03:42 PM,12,2019,OPEN,N,,,,,11229 Bristol Ter,"11229 Bristol Ter64134
+(38.918795, -94.506728)",64134,Ruskin Heights,6,South,60604,38.918795,-94.506728,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019202614,0,190,1,7,143
+2019200105,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,12/05/2019,10:09 AM,12,2019,OPEN,Y,,,,,11311 Booth Ave,"11311 Booth Ave64134
+(38.917452, -94.491902)",64134,Ruskin Hills,6,South,73220,38.917452,-94.491902,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019200105,90,200,1,7,143
+2019200102,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,12/05/2019,10:08 AM,12,2019,OPEN,N,,,,,8600 E 114th St,"8600 E 114th St64134
+(38.916435, -94.49214)",64134,Ruskin Hills,6,South,73225,38.916435,-94.49214,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019200102,0,200,1,7,143
+2019200101,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,12/05/2019,10:07 AM,12,2019,OPEN,N,,,,,11314 Ditman Ave,"11314 Ditman Ave64134
+(38.917133, -94.491547)",64134,Ruskin Hills,6,South,73230,38.917133,-94.491547,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019200101,0,200,1,7,143
+2019197775,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,11/27/2019,12:55 PM,11,2019,OPEN,Y,,,,,8208 E 111th Ter,"8208 E 111th Ter64134
+(38.921786, -94.495924)",64134,Ruskin Hills,6,South,72909,38.921786,-94.495924,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019197775,90,200,1,7,143
+2019197557,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,11/27/2019,05:21 AM,11,2019,OPEN,N,,,,,7303 E 108th St,"7303 E 108th St64134
+(38.92778, -94.504258)",64134,Ruskin Heights,6,South,59100,38.92778,-94.504258,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019197557,0,190,1,7,143
+2019197362,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,11/26/2019,01:41 PM,11,2019,OPEN,N,,,,,11222 Herrick Ave,"11222 Herrick Ave64134
+(38.918672, -94.496692)",64134,Ruskin Heights,6,South,72861,38.918672,-94.496692,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019197362,0,190,1,7,143
+2019195101,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,11/21/2019,06:55 AM,11,2019,OPEN,N,,,,,10711 Blue Ridge Blvd,"10711 Blue Ridge Blvd64134
+(38.929159, -94.507401)",64134,Ruskin Heights,6,South,59186,38.929159,-94.507401,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019195101,0,190,1,7,143
+2019192778,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,11/14/2019,11:39 PM,11,2019,OPEN,N,,,,,11411 Winchester Ave,"11411 Winchester Ave64134
+(38.916, -94.50926)",64134,Ruskin Heights,6,South,60624,38.916,-94.50926,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019192778,0,190,1,7,143
+2019192369,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,11/14/2019,09:50 AM,11,2019,OPEN,N,,,,,8504 Longview Rd,"8504 Longview Rd64134
+(38.914902, -94.49296)",64134,Ruskin Hills,6,South,72962,38.914902,-94.49296,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019192369,0,200,1,7,143
+2019189777,PHONE,City Planning and Development,City Planning and Development-Dev Comp-Zoning,Vehicles / Parking-Commercial Vehicle-On private property,Vehicles / Parking,Commercial Vehicle,On Private Property,11/06/2019,02:28 PM,11,2019,OPEN,N,,,,,11431 Richmond Ave,"11431 Richmond Ave64134
+(38.915713, -94.503082)",64134,Ruskin Heights,6,South,72515,38.915713,-94.503082,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019189777,0,190,1,7,143
+2019187766,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,11/01/2019,02:59 PM,11,2019,OPEN,N,,,,,10724 Sycamore Ter,"10724 Sycamore Ter64134
+(38.929297, -94.505258)",64134,Ruskin Heights,6,South,59117,38.929297,-94.505258,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019187766,0,190,1,7,143
+2019185787,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,10/29/2019,12:46 AM,10,2019,OPEN,Y,,,,,8502 Longview Rd,"8502 Longview Rd64134
+(38.914909, -94.49324)",64134,Ruskin Hills,6,South,72961,38.914909,-94.49324,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019185787,90,200,1,7,143
+2019185503,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trees,Private Property,Tree Debris,10/28/2019,01:49 PM,10,2019,OPEN,N,,,,,11350 Sycamore Ter,"11350 Sycamore Ter64134
+(38.918382, -94.497793)",64134,Ruskin Heights,6,South,72655,38.918382,-94.497793,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019185503,0,190,1,7,143
+2019185416,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,10/28/2019,12:17 PM,10,2019,OPEN,N,,,,,7507 E 109th Ter,"7507 E 109th Ter64134
+(38.926031, -94.502114)",64134,Ruskin Heights,6,South,72017,38.926031,-94.502114,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019185416,0,190,1,7,143
+2019183380,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,10/22/2019,04:59 PM,10,2019,OPEN,N,,,,,11400 Sycamore Ter,"11400 Sycamore Ter64134
+(38.91638, -94.497892)",64134,Ruskin Heights,6,South,72622,38.91638,-94.497892,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019183380,0,190,1,7,143
+2019183377,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,10/22/2019,04:56 PM,10,2019,OPEN,Y,,,,,7512 Longview Rd,"7512 Longview Rd64134
+(38.915204, -94.503843)",64134,Ruskin Heights,6,South,72511,38.915204,-94.503843,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019183377,90,190,1,7,143
+2019183369,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,10/22/2019,04:49 PM,10,2019,OPEN,N,,,,,11201 Crystal Ave,"11201 Crystal Ave64134
+(38.919513, -94.502761)",64134,Ruskin Heights,6,South,72331,38.919513,-94.502761,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019183369,0,190,1,7,143
+2019182145,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,10/21/2019,10:05 AM,10,2019,OPEN,N,,,,,7811 Ruskin Way,"7811 Ruskin Way64134
+(38.920181, -94.49769)",64134,Ruskin Heights,6,South,72173,38.920181,-94.49769,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019182145,0,190,1,7,143
+2019182141,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,10/21/2019,10:00 AM,10,2019,OPEN,Y,,,,,7906 E 112th St,"7906 E 112th St64134
+(38.926351, -94.4974)",64134,Ruskin Heights,6,South,71793,38.926351,-94.4974,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019182141,90,190,1,7,143
+2019176581,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,10/07/2019,02:37 PM,10,2019,OPEN,N,,,,,11222 Corrington Ave,"11222 Corrington Ave64134
+(38.919059, -94.505926)",64134,Ruskin Heights,6,South,60376,38.919059,-94.505926,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019176581,0,190,1,7,143
+2019172901,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,09/28/2019,11:50 AM,9,2019,OPEN,Y,,,,,7705 E 107th St,"7705 E 107th St64134
+(38.929899, -94.498983)",64134,Ruskin Heights,6,South,71666,38.929899,-94.498983,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019172901,90,190,1,7,143
+2019168252,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-On list,Property / Buildings / Construction,Dangerous Building,Standard,09/19/2019,07:06 AM,9,2019,OPEN,Y,,,,,7313 E 108th Ter,"7313 E 108th Ter64134
+(38.928881, -94.503693)",64134,Ruskin Heights,6,South,71846,38.928881,-94.503693,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019168252,0,190,1,7,143
+2019164653,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,09/11/2019,06:03 PM,9,2019,OPEN,N,,,,,11117 Bristol Ter,"11117 Bristol Ter64134
+(38.921079, -94.503487)",64134,Ruskin Heights,6,South,72386,38.921079,-94.503487,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019164653,0,190,1,7,143
+2019164446,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,09/11/2019,01:53 PM,9,2019,OPEN,Y,,,,,11214 Herrick Ave,"11214 Herrick Ave64134
+(38.91924, -94.496648)",64134,Ruskin Heights,6,South,72858,38.91924,-94.496648,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019164446,90,190,1,7,143
+2019161621,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,09/05/2019,03:26 PM,9,2019,OPEN,Y,,,,,7808 E 108th Cir,"7808 E 108th Cir64134
+(38.929388, -94.498237)",64134,Ruskin Heights,6,South,71692,38.929388,-94.498237,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019161621,0,190,1,7,143
+2019159536,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,09/01/2019,01:26 PM,9,2019,OPEN,Y,,,,,11405 Palmer Ave,"11405 Palmer Ave64134
+(38.916848, -94.500506)",64134,Ruskin Heights,6,South,72565,38.916848,-94.500506,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019159536,90,190,1,7,143
+2019157754,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,08/28/2019,01:09 PM,8,2019,OPEN,Y,,,,,8301 E 114th St,"8301 E 114th St64134
+(38.916084, -94.495696)",64134,Ruskin Hills,6,South,72947,38.916084,-94.495696,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019157754,30,200,1,7,143
+2019152891,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Other Private Property,08/20/2019,11:19 AM,8,2019,OPEN,Y,,,,,6904 Longview Rd,"6904 Longview Rd64134
+(38.915567, -94.510503)",64134,Ruskin Heights,6,South,60478,38.915567,-94.510503,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019152891,90,190,1,7,143
+2019151344,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,08/16/2019,03:52 PM,8,2019,OPEN,N,,,,,7808 E 112th St,"7808 E 112th St64134
+(38.925676, -94.498934)",64134,Ruskin Heights,6,South,72108,38.925676,-94.498934,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019151344,30,190,1,7,143
+2019151338,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,08/16/2019,03:49 PM,8,2019,OPEN,N,,,,,7718 E 112th Ter,"7718 E 112th Ter64134
+(38.923004, -94.499483)",64134,Ruskin Heights,6,South,72058,38.923004,-94.499483,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019151338,30,190,1,7,143
+2019151333,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,08/16/2019,03:47 PM,8,2019,OPEN,N,,,,,7309 E 108th Dr,"7309 E 108th Dr64134
+(38.926742, -94.504237)",64134,Ruskin Heights,6,South,71839,38.926742,-94.504237,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019151333,30,190,1,7,143
+2019147446,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,08/09/2019,04:18 PM,8,2019,OPEN,Y,,,,,11407 Palmer Ave,"11407 Palmer Ave64134
+(38.916742, -94.500689)",64134,Ruskin Heights,6,South,72564,38.916742,-94.500689,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019147446,90,190,1,7,143
+2019145994,TWIR,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,08/07/2019,01:46 PM,8,2019,OPEN,Y,,,,,7300 E 108th Ter,"7300 E 108th Ter64134
+(38.929888, -94.504583)",64134,Ruskin Heights,6,South,71888,38.929888,-94.504583,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019145994,90,190,1,7,143
+2019141564,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,07/30/2019,03:02 PM,7,2019,OPEN,Y,,,,,7713 E 110th St,"7713 E 110th St64134
+(38.92728, -94.498828)",64134,Ruskin Heights,6,South,71755,38.92728,-94.498828,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019141564,60,190,1,7,143
+2019141300,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,07/30/2019,11:21 AM,7,2019,OPEN,Y,,,,,6806 Longview Rd,"6806 Longview Rd64134
+(38.915659, -94.511639)",64134,Ruskin Heights,6,South,60483,38.915659,-94.511639,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019141300,60,190,1,7,143
+2019135252,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,07/18/2019,04:48 PM,7,2019,OPEN,Y,,,,,7311 E 107th St,"7311 E 107th St64134
+(38.930091, -94.503768)",64134,Ruskin Heights,6,South,71895,38.930091,-94.503768,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019135252,60,190,1,7,143
+2019128047,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,07/08/2019,12:53 PM,7,2019,OPEN,Y,,,,,11219 McKinley Ave,"11219 McKinley Ave64134
+(38.91872, -94.488885)",64134,Ruskin Hills,6,South,72705,38.91872,-94.488885,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019128047,90,200,1,7,143
+2019124323,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,07/01/2019,09:01 AM,7,2019,OPEN,Y,,,,,11413 Sycamore Ter,"11413 Sycamore Ter64134
+(38.915363, -94.497375)",64134,Ruskin Heights,6,South,72638,38.915363,-94.497375,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019124323,90,190,1,7,143
+2019123563,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,06/28/2019,12:08 PM,6,2019,OPEN,Y,,,,,6907 E 114th St,"6907 E 114th St64134
+(38.916722, -94.510616)",64134,Ruskin Heights,6,South,60450,38.916722,-94.510616,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019123563,90,190,1,7,143
+2019123543,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,06/28/2019,11:53 AM,6,2019,OPEN,Y,,,,,7504 E 108th Ter,"7504 E 108th Ter64134
+(38.928839, -94.501676)",64134,Ruskin Heights,6,South,71861,38.928839,-94.501676,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019123543,90,190,1,7,143
+2019123429,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,06/28/2019,10:29 AM,6,2019,OPEN,Y,,,,,11121 Herrick Ave,"11121 Herrick Ave64134
+(38.920585, -94.495969)",64134,Ruskin Hills,6,South,72876,38.920585,-94.495969,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019123429,90,200,1,7,143
+2019117244,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,06/19/2019,08:41 AM,6,2019,OPEN,Y,,,,,7402 E 109th St,"7402 E 109th St64134
+(38.926546, -94.503867)",64134,Ruskin Heights,6,South,71830,38.926546,-94.503867,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019117244,90,190,1,7,143
+2019114949,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,06/14/2019,02:40 PM,6,2019,OPEN,Y,,,,,11306 Corrington Ave,"11306 Corrington Ave64134
+(38.917317, -94.507307)",64134,Ruskin Heights,6,South,60541,38.917317,-94.507307,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019114949,90,190,1,7,143
+2019108959,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,06/06/2019,10:24 AM,6,2019,OPEN,Y,,,,,10817 Bristol Ter,"10817 Bristol Ter64134
+(38.926651, -94.496506)",64134,Ruskin Heights,6,South,71800,38.926651,-94.496506,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019108959,90,190,1,7,143
+2019108957,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,06/06/2019,10:23 AM,6,2019,OPEN,Y,,,,,11201 Oakland Ave,"11201 Oakland Ave64134
+(38.918338, -94.501376)",64134,Ruskin Heights,6,South,72544,38.918338,-94.501376,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019108957,90,190,1,7,143
+2019103029,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,05/29/2019,01:34 PM,5,2019,OPEN,Y,,,,,11401 Herrick Ave,"11401 Herrick Ave64134
+(38.91634, -94.496257)",64134,Ruskin Hills,6,South,72945,38.91634,-94.496257,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019103029,90,200,1,7,143
+2019097264,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,05/20/2019,11:08 AM,5,2019,OPEN,Y,,,,,11302 Manchester Ave,"11302 Manchester Ave64134
+(38.917812, -94.498996)",64134,Ruskin Heights,6,South,72679,38.917812,-94.498996,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019097264,90,190,1,7,143
+2019083846,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,04/30/2019,11:11 AM,4,2019,OPEN,Y,,,,,11207 Manchester Ave,"11207 Manchester Ave64134
+(38.919397, -94.498222)",64134,Ruskin Heights,6,South,72187,38.919397,-94.498222,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019083846,90,190,1,7,143
+2019078930,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,04/23/2019,03:29 PM,4,2019,OPEN,Y,,,,,11200 Corrington Ave,"11200 Corrington Ave64134
+(38.920351, -94.504032)",64134,Ruskin Heights,6,South,72301,38.920351,-94.504032,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019078930,90,190,1,7,143
+2019071826,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,04/12/2019,12:36 AM,4,2019,OPEN,Y,,,,,7611 E 110th St,"7611 E 110th St64134
+(38.926326, -94.500249)",64134,Ruskin Heights,6,South,71763,38.926326,-94.500249,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019071826,90,190,1,7,143
+2019070563,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,04/10/2019,01:04 PM,4,2019,OPEN,Y,,,,,11016 Herrick Ave,"11016 Herrick Ave64134
+(38.922708, -94.496379)",64134,Ruskin Heights,6,South,71394,38.922708,-94.496379,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019070563,90,190,1,7,143
+2019049765,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,03/11/2019,09:28 AM,3,2019,OPEN,Y,,,,,11409 Manchester Ave,"11409 Manchester Ave64134
+(38.916162, -94.499942)",64134,Ruskin Heights,6,South,72590,38.916162,-94.499942,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019049765,90,190,1,7,143
+2019041325,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,02/26/2019,02:31 PM,2,2019,OPEN,Y,,,,,7912 Longview Rd,"7912 Longview Rd64134
+(38.915088, -94.498215)",64134,Ruskin Heights,6,South,72630,38.915088,-94.498215,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019041325,90,190,1,7,143
+2019024771,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,02/01/2019,12:43 PM,2,2019,OPEN,Y,,,,,11214 Manchester Ave,"11214 Manchester Ave64134
+(38.918506, -94.498798)",64134,Ruskin Heights,6,South,72675,38.918506,-94.498798,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019024771,90,190,1,7,143
+2019024622,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Open Storage,02/01/2019,11:09 AM,2,2019,OPEN,Y,,,,,7601 E 110th St,"7601 E 110th St64134
+(38.925627, -94.501132)",64134,Ruskin Heights,6,South,72087,38.925627,-94.501132,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019024622,90,190,1,7,143
+2019014153,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Fence Issue,01/22/2019,03:59 PM,1,2019,OPEN,Y,,,,,8650 Ruskin Way,"8650 Ruskin Way64134
+(38.919917, -94.49044)",64134,Ruskin Hills,6,South,72739,38.919917,-94.49044,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2019014153,90,200,1,7,143
+2018165494,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,12/12/2018,03:36 PM,12,2018,OPEN,Y,,,,,7200 E 112th St,"7200 E 112th St64134
+(38.920809, -94.506909)",64134,Ruskin Heights,6,South,60314,38.920809,-94.506909,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018165494,90,190,1,7,143
+2018142897,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,10/24/2018,10:39 AM,10,2018,OPEN,Y,,,,,11221 Bristol Ter,"11221 Bristol Ter64134
+(38.91935, -94.506145)",64134,Ruskin Heights,6,South,60362,38.91935,-94.506145,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018142897,90,190,1,7,143
+2018141301,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,10/21/2018,07:56 AM,10,2018,OPEN,Y,,,,,7704 Longview Rd,"7704 Longview Rd64134
+(38.915135, -94.501784)",64134,Ruskin Heights,6,South,72581,38.915135,-94.501784,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018141301,90,190,1,7,143
+2018139150,PHONE,NHS,NHS-Neighborhood Preservation-Administration,Government-NHS (Neighborhood Housing Services)-No Known Property Owner,Government,NHS (Neighborhood Housing Services),No Known Property Owner,10/16/2018,09:24 AM,10,2018,OPEN,Y,,,,,8514 E 108th Ter,"8514 E 108th Ter64134
+(38.927031, -94.492195)",64134,Ruskin Hills,6,South,71332,38.927031,-94.492195,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018139150,90,200,1,7,143
+2018134599,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,10/05/2018,02:42 PM,10,2018,OPEN,Y,,,,,11415 Palmer Ave,"11415 Palmer Ave64134
+(38.916314, -94.501401)",64134,Ruskin Heights,6,South,72560,38.916314,-94.501401,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018134599,90,190,1,7,143
+2018125733,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,09/18/2018,11:29 AM,9,2018,OPEN,Y,,,,,11342 Sycamore Ter,"11342 Sycamore Ter64134
+(38.919099, -94.497727)",64134,Ruskin Heights,6,South,72179,38.919099,-94.497727,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018125733,90,190,1,7,143
+2018118824,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,09/04/2018,03:35 PM,9,2018,OPEN,Y,,,,,7506 E 108th Ter,"7506 E 108th Ter64134
+(38.928822, -94.501444)",64134,Ruskin Heights,6,South,71860,38.928822,-94.501444,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018118824,90,190,1,7,143
+2018105672,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,08/07/2018,02:51 PM,8,2018,OPEN,Y,,,,,11416 Oakland Ave,"11416 Oakland Ave64134
+(38.915648, -94.504791)",64134,Ruskin Heights,6,South,72469,38.915648,-94.504791,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018105672,90,190,1,7,143
+2018095354,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Open Storage,07/16/2018,05:28 PM,7,2018,OPEN,Y,,,,,11401 Richmond Ave,"11401 Richmond Ave64134
+(38.917659, -94.500829)",64134,Ruskin Heights,6,South,72552,38.917659,-94.500829,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018095354,90,190,1,7,143
+2018072680,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,06/05/2018,11:38 PM,6,2018,OPEN,Y,,,,,11204 Bristol Ter,"11204 Bristol Ter64134
+(38.92074, -94.50513)",64134,Ruskin Heights,6,South,60347,38.92074,-94.50513,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018072680,90,190,1,7,143
+2018065478,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,05/23/2018,08:18 AM,5,2018,OPEN,Y,,,,,11117 Winchester Ave,"11117 Winchester Ave64134
+(38.920473, -94.508361)",64134,Ruskin Heights,6,South,60291,38.920473,-94.508361,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018065478,90,190,1,7,143
+2018065169,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,05/22/2018,02:57 PM,5,2018,OPEN,Y,,,,,11311 Bristol Ter,"11311 Bristol Ter64134
+(38.917143, -94.507849)",64134,Ruskin Heights,6,South,60532,38.917143,-94.507849,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018065169,90,190,1,7,143
+2018045484,PHONE,Water Services,Water Services-Meter and Field Services-,Water-Leak-Meter,Water,Leak,Meter,04/13/2018,04:43 PM,4,2018,OPEN,N,,,,,11208 MARSH AVE,"11208 MARSH AVE64134
+(38.919617, -94.495538)",64134,Ruskin Hills,6,South,72851,38.919617,-94.495538,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018045484,0,200,1,7,143
+2018039108,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,03/30/2018,12:57 PM,3,2018,OPEN,Y,,,,,11201 Corrington Ave,"11201 Corrington Ave64134
+(38.920033, -94.503576)",64134,Ruskin Heights,6,South,72313,38.920033,-94.503576,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018039108,90,190,1,7,143
+2018012480,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,01/26/2018,12:47 PM,1,2018,OPEN,Y,,,,,7311 E 108th Ter,"7311 E 108th Ter64134
+(38.92898, -94.50394)",64134,Ruskin Heights,6,South,71845,38.92898,-94.50394,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2018012480,90,190,1,7,143
+2017157033,PHONE,Water Services,Water Services-Line Maintenance-Pipeline,Water-Pipeline Referral-Water Main,Water,Pipeline Referral,Water Main,12/18/2017,04:44 PM,12,2017,OPEN,Y,,,,,8400 RUSKIN WAY,"8400 RUSKIN WAY64134
+(38.920168, -94.494159)",64134,Ruskin Hills,6,South,72869,38.920168,-94.494159,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017157033,30,200,1,7,143
+2017148916,KCEPD,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,11/28/2017,12:49 PM,11,2017,OPEN,Y,,,,,11233 BRISTOL TER,"11233 BRISTOL TER64134
+(38.91849, -94.506982)",64134,Ruskin Heights,6,South,60602,38.91849,-94.506982,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017148916,90,190,1,7,143
+2017122914,PHONE,Water Services,Water Services-Meter and Field Services-,Water-No Water / Pressure-No Water,Water,No Water / Pressure,No Water,09/22/2017,02:52 PM,9,2017,OPEN,N,,,,,11348 SYCAMORE TER,"11348 SYCAMORE TER64134
+(38.918563, -94.497773)",64134,Ruskin Heights,6,South,72182,38.918563,-94.497773,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017122914,0,190,1,7,143
+2017114893,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Trailer Private Property,09/06/2017,06:20 PM,9,2017,OPEN,Y,,,,,11420 RICHMOND AVE,"11420 RICHMOND AVE64134
+(38.916899, -94.502921)",64134,Ruskin Heights,6,South,72501,38.916899,-94.502921,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017114893,90,190,1,7,143
+2017113040,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,09/01/2017,11:38 AM,9,2017,OPEN,Y,,,,,11305 BRISTOL TER,"11305 BRISTOL TER64134
+(38.917644, -94.50759)",64134,Ruskin Heights,6,South,60535,38.917644,-94.50759,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017113040,90,190,1,7,143
+2017110304,PHONE,City Planning and Development,City Planning and Development-Dev Comp-Zoning,Prop/Build/Construct-Land Use / Zoning Issue-Business in a residence,Property / Buildings / Construction,Land Use / Zoning Issue,Business In A Residence,08/28/2017,10:57 AM,8,2017,OPEN,Y,,,,,8501 E 110th St,"8501 E 110th St64134
+(38.923854, -94.492822)",64134,Ruskin Hills,6,South,71433,38.923854,-94.492822,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017110304,90,200,1,7,143
+2017078646,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,06/28/2017,09:04 AM,6,2017,OPEN,Y,,,,,11216 MANCHESTER AVE,"11216 MANCHESTER AVE64134
+(38.918327, -94.498821)",64134,Ruskin Heights,6,South,72676,38.918327,-94.498821,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017078646,90,190,1,7,143
+2017074922,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,06/21/2017,05:11 PM,6,2017,OPEN,Y,,,,,7702 E 108th St,"7702 E 108th St64134
+(38.929487, -94.499214)",64134,Ruskin Heights,6,South,71698,38.929487,-94.499214,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017074922,90,190,1,7,143
+2017070728,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,06/14/2017,05:14 PM,6,2017,OPEN,Y,,,,,7607 E 107th St,"7607 E 107th St64134
+(38.930001, -94.500345)",64134,Ruskin Heights,6,South,71661,38.930001,-94.500345,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017070728,90,190,1,7,143
+2017066428,WEB,Water Services,Water Services-Meter and Field Services-,Water-No Water / Pressure-High Pressure,Water,No Water / Pressure,High Pressure,06/06/2017,11:23 AM,6,2017,OPEN,N,,,,,11001 STARK AVE,"11001 STARK AVE64134
+(38.92372, -94.488372)",64134,Ruskin Hills,6,South,71554,38.92372,-94.488372,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017066428,0,200,1,7,143
+2017062743,PHONE,Water Services,Water Services-Line Maintenance-Wastewater,Storm Water / Sewer-Sewer Backup / Leak-Outside,Storm Water / Sewer,Sewer Backup / Leak,Outside,05/30/2017,09:35 AM,5,2017,OPEN,N,,,,,11314 DITMAN AVE,"11314 DITMAN AVE64134
+(38.917133, -94.491547)",64134,Ruskin Hills,6,South,73230,38.917133,-94.491547,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017062743,0,200,1,7,143
+2017054641,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Bulky Pick Up -Address Validation,Trash / Recycling,Bulky Pick Up,Address Validation,05/11/2017,10:00 AM,5,2017,OPEN,N,,,,,11214 EASTERN AVE,"11214 EASTERN AVE64134
+(38.918523, -94.503733)",64134,Ruskin Heights,6,South,72415,38.918523,-94.503733,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017054641,0,190,1,7,143
+2017053277,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,05/09/2017,08:19 AM,5,2017,OPEN,N,,,,,8208 E 111TH TER,"8208 E 111TH TER64134
+(38.921786, -94.495924)",64134,Ruskin Hills,6,South,72909,38.921786,-94.495924,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017053277,0,200,1,7,143
+2017042339,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,04/14/2017,03:34 PM,4,2017,OPEN,Y,,,,,11205 CRYSTAL AVE,"11205 CRYSTAL AVE64134
+(38.919288, -94.503169)",64134,Ruskin Heights,6,South,72329,38.919288,-94.503169,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017042339,90,190,1,7,143
+2017041014,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,04/12/2017,01:26 PM,4,2017,OPEN,Y,,,,,6906 E 113th St,"6906 E 113th St64134
+(38.9188, -94.509238)",64134,Ruskin Heights,6,South,223296,38.9188,-94.509238,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017041014,90,190,1,7,143
+2017040421,PHONE,Water Services,Water Services-Meter and Field Services-,Water-Leak-Meter,Water,Leak,Meter,04/11/2017,03:19 PM,4,2017,OPEN,N,,,,,11308 SYCAMORE TER,"11308 SYCAMORE TER64134
+(38.921971, -94.498264)",64134,Ruskin Heights,6,South,72255,38.921971,-94.498264,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017040421,0,190,1,7,143
+2017023374,PHONE,Water Services,Water Services-Line Maintenance-Restoration,Water-Pipeline Referral-Restoration,Water,Pipeline Referral,Restoration,03/01/2017,04:41 PM,3,2017,OPEN,N,,,,,11000 BOOTH AVE,"11000 BOOTH AVE64134
+(38.923839, -94.490999)",64134,Ruskin Hills,6,South,71498,38.923839,-94.490999,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017023374,0,200,1,7,143
+2017015518,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,02/09/2017,02:54 PM,2,2017,OPEN,Y,,,,,11204 MANCHESTER AVE,"11204 MANCHESTER AVE64134
+(38.919381, -94.498861)",64134,Ruskin Heights,6,South,72195,38.919381,-94.498861,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2017015518,90,190,1,7,143
+2016084311,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,07/20/2016,11:09 AM,7,2016,OPEN,Y,,,,,7803 E 112th St,"7803 E 112th St64134
+(38.92492, -94.498874)",64134,Ruskin Heights,6,South,72118,38.92492,-94.498874,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2016084311,90,190,1,7,143
+2012065617,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,05/17/2012,12:46 PM,5,2012,OPEN,Y,,,,,8721 E 107th St,"8721 E 107th St64134
+(38.929444, -94.487135)",64134,Ruskin Hills,6,South,71239,38.929444,-94.487135,http://city.kcmo.org/kc/ActionCenterRequest/CaseInfo.aspx?CaseID=2012065617,90,200,1,7,143

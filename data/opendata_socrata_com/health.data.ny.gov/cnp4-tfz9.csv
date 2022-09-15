@@ -1,0 +1,5 @@
+"measurement_year","payer","plan_id","plan_name","measure","measure_description","age_category","gender","rate","percentile_10th","percentile_25th","percentile_50th","percentile_75th","percentile_90th","level_of_significance","membermonths","events","days"
+"2018","Commercial HMO","1000001","Statewide","Cardiac Cath","Cardiac Catheterization","All","Female","4.5",,,,,,,"4861507","1824",
+"2018","Commercial HMO","1000001","Statewide","Cardiac Cath","Cardiac Catheterization","All","Male","8.5",,,,,,,"4410221","3139",
+"2018","Commercial PPO","1000001","Statewide","Cardiac Cath","Cardiac Catheterization","All","Female","4",,,,,,,"9478590","3191",
+"2018","Commercial PPO","1000001","Statewide","Cardiac Cath","Cardiac Catheterization","All","Male","7.8",,,,,,,"9391548","6095",

@@ -1,0 +1,1001 @@
+"unique_id","year_range","cause_of_death","race","hispanic_origin","gender","age_adjusted_rate_per_100_000_population","lower_95_confidence_interval","upper_95_confidence_interval"
+"A2010201200000","2010-2012","All causes of mortality","Total","Total","Total","517.3","509.6","525.1"
+"A2010201200001","2010-2012","All causes of mortality","Total","Total","Male","609.3","596.2","622.5"
+"A2010201200002","2010-2012","All causes of mortality","Total","Total","Female","450.2","440.8","459.6"
+"A2010201200010","2010-2012","All causes of mortality","Total","Not Hispanic","Total","531.8","523.6","540"
+"A2010201200011","2010-2012","All causes of mortality","Total","Not Hispanic","Male","623.4","609.5","637.2"
+"A2010201200012","2010-2012","All causes of mortality","Total","Not Hispanic","Female","464.4","454.4","474.4"
+"A2010201200020","2010-2012","All causes of mortality","Total","Hispanic","Total","328.2","303.8","352.7"
+"A2010201200021","2010-2012","All causes of mortality","Total","Hispanic","Male","394","348.4","439.6"
+"A2010201200022","2010-2012","All causes of mortality","Total","Hispanic","Female","283.8","255.4","312.2"
+"A2010201200100","2010-2012","All causes of mortality","White","Total","Total","521","512","530"
+"A2010201200101","2010-2012","All causes of mortality","White","Total","Male","614.5","599.3","629.6"
+"A2010201200102","2010-2012","All causes of mortality","White","Total","Female","451.5","440.6","462.4"
+"A2010201200110","2010-2012","All causes of mortality","White","Not Hispanic","Total","540.9","531.2","550.6"
+"A2010201200111","2010-2012","All causes of mortality","White","Not Hispanic","Male","634.2","617.9","650.4"
+"A2010201200112","2010-2012","All causes of mortality","White","Not Hispanic","Female","470.6","458.8","482.5"
+"A2010201200120","2010-2012","All causes of mortality","White","Hispanic","Total","302.8","278.1","327.5"
+"A2010201200121","2010-2012","All causes of mortality","White","Hispanic","Male","362.4","316.6","408.2"
+"A2010201200122","2010-2012","All causes of mortality","White","Hispanic","Female","261.4","232.6","290.2"
+"A2010201200200","2010-2012","All causes of mortality","Black","Total","Total","597.8","573.5","622.1"
+"A2010201200201","2010-2012","All causes of mortality","Black","Total","Male","732.1","686.8","777.4"
+"A2010201200202","2010-2012","All causes of mortality","Black","Total","Female","516.1","487.7","544.6"
+"A2010201200210","2010-2012","All causes of mortality","Black","Not Hispanic","Total","610.2","585.2","635.1"
+"A2010201200211","2010-2012","All causes of mortality","Black","Not Hispanic","Male","746.3","699.9","792.7"
+"A2010201200212","2010-2012","All causes of mortality","Black","Not Hispanic","Female","526.9","497.7","556.1"
+"A2010201200220","2010-2012","All causes of mortality","Black","Hispanic","Total","315.3","211","419.6"
+"A2010201200221","2010-2012","All causes of mortality","Black","Hispanic","Male","402.5","204.2","600.7"
+"A2010201200222","2010-2012","All causes of mortality","Black","Hispanic","Female","268.6","147.2","390"
+"A2010201200300","2010-2012","All causes of mortality","American Indian/Alaska Native","Total","Total","138.4","57.6","219.2"
+"A2010201200301","2010-2012","All causes of mortality","American Indian/Alaska Native","Total","Male",,,
+"A2010201200302","2010-2012","All causes of mortality","American Indian/Alaska Native","Total","Female",,,
+"A2010201200310","2010-2012","All causes of mortality","American Indian/Alaska Native","Not Hispanic","Total",,,
+"A2010201200311","2010-2012","All causes of mortality","American Indian/Alaska Native","Not Hispanic","Male",,,
+"A2010201200312","2010-2012","All causes of mortality","American Indian/Alaska Native","Not Hispanic","Female",,,
+"A2010201200320","2010-2012","All causes of mortality","American Indian/Alaska Native","Hispanic","Total",,,
+"A2010201200321","2010-2012","All causes of mortality","American Indian/Alaska Native","Hispanic","Male",,,
+"A2010201200322","2010-2012","All causes of mortality","American Indian/Alaska Native","Hispanic","Female",,,
+"A2010201200400","2010-2012","All causes of mortality","Asian/Pacific Islander","Total","Total","348","328.5","367.5"
+"A2010201200401","2010-2012","All causes of mortality","Asian/Pacific Islander","Total","Male","407.9","375.7","440.1"
+"A2010201200402","2010-2012","All causes of mortality","Asian/Pacific Islander","Total","Female","298.7","274.8","322.7"
+"A2010201200410","2010-2012","All causes of mortality","Asian/Pacific Islander","Not Hispanic","Total","349.7","330.1","369.3"
+"A2010201200411","2010-2012","All causes of mortality","Asian/Pacific Islander","Not Hispanic","Male","407.9","375.6","440.3"
+"A2010201200412","2010-2012","All causes of mortality","Asian/Pacific Islander","Not Hispanic","Female","301.5","277.3","325.7"
+"A2010201200420","2010-2012","All causes of mortality","Asian/Pacific Islander","Hispanic","Total",,,
+"A2010201200421","2010-2012","All causes of mortality","Asian/Pacific Islander","Hispanic","Male",,,
+"A2010201200422","2010-2012","All causes of mortality","Asian/Pacific Islander","Hispanic","Female",,,
+"A2010201201000","2010-2012","Salmonella infections","Total","Total","Total",,,
+"A2010201201001","2010-2012","Salmonella infections","Total","Total","Male","0","0","0.2"
+"A2010201201002","2010-2012","Salmonella infections","Total","Total","Female",,,
+"A2010201201010","2010-2012","Salmonella infections","Total","Not Hispanic","Total",,,
+"A2010201201011","2010-2012","Salmonella infections","Total","Not Hispanic","Male","0","0","0.2"
+"A2010201201012","2010-2012","Salmonella infections","Total","Not Hispanic","Female",,,
+"A2010201201020","2010-2012","Salmonella infections","Total","Hispanic","Total","0","0","0.7"
+"A2010201201021","2010-2012","Salmonella infections","Total","Hispanic","Male","0","0","1.9"
+"A2010201201022","2010-2012","Salmonella infections","Total","Hispanic","Female","0","0","1.1"
+"A2010201201100","2010-2012","Salmonella infections","White","Total","Total","0","0","0.1"
+"A2010201201101","2010-2012","Salmonella infections","White","Total","Male","0","0","0.2"
+"A2010201201102","2010-2012","Salmonella infections","White","Total","Female","0","0","0.2"
+"A2010201201110","2010-2012","Salmonella infections","White","Not Hispanic","Total","0","0","0.2"
+"A2010201201111","2010-2012","Salmonella infections","White","Not Hispanic","Male","0","0","0.3"
+"A2010201201112","2010-2012","Salmonella infections","White","Not Hispanic","Female","0","0","0.3"
+"A2010201201120","2010-2012","Salmonella infections","White","Hispanic","Total","0","0","0.7"
+"A2010201201121","2010-2012","Salmonella infections","White","Hispanic","Male","0","0","2.1"
+"A2010201201122","2010-2012","Salmonella infections","White","Hispanic","Female","0","0","1.2"
+"A2010201201200","2010-2012","Salmonella infections","Black","Total","Total",,,
+"A2010201201201","2010-2012","Salmonella infections","Black","Total","Male","0","0","1.2"
+"A2010201201202","2010-2012","Salmonella infections","Black","Total","Female",,,
+"A2010201201210","2010-2012","Salmonella infections","Black","Not Hispanic","Total",,,
+"A2010201201211","2010-2012","Salmonella infections","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201201212","2010-2012","Salmonella infections","Black","Not Hispanic","Female",,,
+"A2010201201220","2010-2012","Salmonella infections","Black","Hispanic","Total","0","0","11.6"
+"A2010201201221","2010-2012","Salmonella infections","Black","Hispanic","Male","0","0","35.1"
+"A2010201201222","2010-2012","Salmonella infections","Black","Hispanic","Female","0","0","17.8"
+"A2010201201300","2010-2012","Salmonella infections","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201201301","2010-2012","Salmonella infections","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201201302","2010-2012","Salmonella infections","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201201310","2010-2012","Salmonella infections","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201201311","2010-2012","Salmonella infections","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201201312","2010-2012","Salmonella infections","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201201320","2010-2012","Salmonella infections","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201201321","2010-2012","Salmonella infections","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201201322","2010-2012","Salmonella infections","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201201400","2010-2012","Salmonella infections","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201201401","2010-2012","Salmonella infections","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201201402","2010-2012","Salmonella infections","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201201410","2010-2012","Salmonella infections","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201201411","2010-2012","Salmonella infections","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201201412","2010-2012","Salmonella infections","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201201420","2010-2012","Salmonella infections","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201201421","2010-2012","Salmonella infections","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201201422","2010-2012","Salmonella infections","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201202000","2010-2012","Shigellosis and amebiasis","Total","Total","Total","0","0","0.1"
+"A2010201202001","2010-2012","Shigellosis and amebiasis","Total","Total","Male","0","0","0.2"
+"A2010201202002","2010-2012","Shigellosis and amebiasis","Total","Total","Female","0","0","0.1"
+"A2010201202010","2010-2012","Shigellosis and amebiasis","Total","Not Hispanic","Total","0","0","0.1"
+"A2010201202011","2010-2012","Shigellosis and amebiasis","Total","Not Hispanic","Male","0","0","0.2"
+"A2010201202012","2010-2012","Shigellosis and amebiasis","Total","Not Hispanic","Female","0","0","0.2"
+"A2010201202020","2010-2012","Shigellosis and amebiasis","Total","Hispanic","Total","0","0","0.7"
+"A2010201202021","2010-2012","Shigellosis and amebiasis","Total","Hispanic","Male","0","0","1.9"
+"A2010201202022","2010-2012","Shigellosis and amebiasis","Total","Hispanic","Female","0","0","1.1"
+"A2010201202100","2010-2012","Shigellosis and amebiasis","White","Total","Total","0","0","0.1"
+"A2010201202101","2010-2012","Shigellosis and amebiasis","White","Total","Male","0","0","0.2"
+"A2010201202102","2010-2012","Shigellosis and amebiasis","White","Total","Female","0","0","0.2"
+"A2010201202110","2010-2012","Shigellosis and amebiasis","White","Not Hispanic","Total","0","0","0.2"
+"A2010201202111","2010-2012","Shigellosis and amebiasis","White","Not Hispanic","Male","0","0","0.3"
+"A2010201202112","2010-2012","Shigellosis and amebiasis","White","Not Hispanic","Female","0","0","0.3"
+"A2010201202120","2010-2012","Shigellosis and amebiasis","White","Hispanic","Total","0","0","0.7"
+"A2010201202121","2010-2012","Shigellosis and amebiasis","White","Hispanic","Male","0","0","2.1"
+"A2010201202122","2010-2012","Shigellosis and amebiasis","White","Hispanic","Female","0","0","1.2"
+"A2010201202200","2010-2012","Shigellosis and amebiasis","Black","Total","Total","0","0","0.4"
+"A2010201202201","2010-2012","Shigellosis and amebiasis","Black","Total","Male","0","0","1.2"
+"A2010201202202","2010-2012","Shigellosis and amebiasis","Black","Total","Female","0","0","0.7"
+"A2010201202210","2010-2012","Shigellosis and amebiasis","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201202211","2010-2012","Shigellosis and amebiasis","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201202212","2010-2012","Shigellosis and amebiasis","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201202220","2010-2012","Shigellosis and amebiasis","Black","Hispanic","Total","0","0","11.6"
+"A2010201202221","2010-2012","Shigellosis and amebiasis","Black","Hispanic","Male","0","0","35.1"
+"A2010201202222","2010-2012","Shigellosis and amebiasis","Black","Hispanic","Female","0","0","17.8"
+"A2010201202300","2010-2012","Shigellosis and amebiasis","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201202301","2010-2012","Shigellosis and amebiasis","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201202302","2010-2012","Shigellosis and amebiasis","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201202310","2010-2012","Shigellosis and amebiasis","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201202311","2010-2012","Shigellosis and amebiasis","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201202312","2010-2012","Shigellosis and amebiasis","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201202320","2010-2012","Shigellosis and amebiasis","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201202321","2010-2012","Shigellosis and amebiasis","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201202322","2010-2012","Shigellosis and amebiasis","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201202400","2010-2012","Shigellosis and amebiasis","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201202401","2010-2012","Shigellosis and amebiasis","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201202402","2010-2012","Shigellosis and amebiasis","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201202410","2010-2012","Shigellosis and amebiasis","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201202411","2010-2012","Shigellosis and amebiasis","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201202412","2010-2012","Shigellosis and amebiasis","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201202420","2010-2012","Shigellosis and amebiasis","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201202421","2010-2012","Shigellosis and amebiasis","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201202422","2010-2012","Shigellosis and amebiasis","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201203000","2010-2012","Tuberculosis","Total","Total","Total",,,
+"A2010201203001","2010-2012","Tuberculosis","Total","Total","Male",,,
+"A2010201203002","2010-2012","Tuberculosis","Total","Total","Female",,,
+"A2010201203010","2010-2012","Tuberculosis","Total","Not Hispanic","Total",,,
+"A2010201203011","2010-2012","Tuberculosis","Total","Not Hispanic","Male",,,
+"A2010201203012","2010-2012","Tuberculosis","Total","Not Hispanic","Female",,,
+"A2010201203020","2010-2012","Tuberculosis","Total","Hispanic","Total",,,
+"A2010201203021","2010-2012","Tuberculosis","Total","Hispanic","Male",,,
+"A2010201203022","2010-2012","Tuberculosis","Total","Hispanic","Female","0","0","1.1"
+"A2010201203100","2010-2012","Tuberculosis","White","Total","Total",,,
+"A2010201203101","2010-2012","Tuberculosis","White","Total","Male",,,
+"A2010201203102","2010-2012","Tuberculosis","White","Total","Female","0","0","0.2"
+"A2010201203110","2010-2012","Tuberculosis","White","Not Hispanic","Total",,,
+"A2010201203111","2010-2012","Tuberculosis","White","Not Hispanic","Male",,,
+"A2010201203112","2010-2012","Tuberculosis","White","Not Hispanic","Female","0","0","0.3"
+"A2010201203120","2010-2012","Tuberculosis","White","Hispanic","Total",,,
+"A2010201203121","2010-2012","Tuberculosis","White","Hispanic","Male",,,
+"A2010201203122","2010-2012","Tuberculosis","White","Hispanic","Female","0","0","1.2"
+"A2010201203200","2010-2012","Tuberculosis","Black","Total","Total",,,
+"A2010201203201","2010-2012","Tuberculosis","Black","Total","Male",,,
+"A2010201203202","2010-2012","Tuberculosis","Black","Total","Female","0","0","0.7"
+"A2010201203210","2010-2012","Tuberculosis","Black","Not Hispanic","Total",,,
+"A2010201203211","2010-2012","Tuberculosis","Black","Not Hispanic","Male",,,
+"A2010201203212","2010-2012","Tuberculosis","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201203220","2010-2012","Tuberculosis","Black","Hispanic","Total","0","0","11.6"
+"A2010201203221","2010-2012","Tuberculosis","Black","Hispanic","Male","0","0","35.1"
+"A2010201203222","2010-2012","Tuberculosis","Black","Hispanic","Female","0","0","17.8"
+"A2010201203300","2010-2012","Tuberculosis","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201203301","2010-2012","Tuberculosis","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201203302","2010-2012","Tuberculosis","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201203310","2010-2012","Tuberculosis","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201203311","2010-2012","Tuberculosis","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201203312","2010-2012","Tuberculosis","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201203320","2010-2012","Tuberculosis","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201203321","2010-2012","Tuberculosis","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201203322","2010-2012","Tuberculosis","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201203400","2010-2012","Tuberculosis","Asian/Pacific Islander","Total","Total",,,
+"A2010201203401","2010-2012","Tuberculosis","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201203402","2010-2012","Tuberculosis","Asian/Pacific Islander","Total","Female",,,
+"A2010201203410","2010-2012","Tuberculosis","Asian/Pacific Islander","Not Hispanic","Total",,,
+"A2010201203411","2010-2012","Tuberculosis","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201203412","2010-2012","Tuberculosis","Asian/Pacific Islander","Not Hispanic","Female",,,
+"A2010201203420","2010-2012","Tuberculosis","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201203421","2010-2012","Tuberculosis","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201203422","2010-2012","Tuberculosis","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201204000","2010-2012","Whooping cough","Total","Total","Total","0","0","0.1"
+"A2010201204001","2010-2012","Whooping cough","Total","Total","Male","0","0","0.2"
+"A2010201204002","2010-2012","Whooping cough","Total","Total","Female","0","0","0.1"
+"A2010201204010","2010-2012","Whooping cough","Total","Not Hispanic","Total","0","0","0.1"
+"A2010201204011","2010-2012","Whooping cough","Total","Not Hispanic","Male","0","0","0.2"
+"A2010201204012","2010-2012","Whooping cough","Total","Not Hispanic","Female","0","0","0.2"
+"A2010201204020","2010-2012","Whooping cough","Total","Hispanic","Total","0","0","0.7"
+"A2010201204021","2010-2012","Whooping cough","Total","Hispanic","Male","0","0","1.9"
+"A2010201204022","2010-2012","Whooping cough","Total","Hispanic","Female","0","0","1.1"
+"A2010201204100","2010-2012","Whooping cough","White","Total","Total","0","0","0.1"
+"A2010201204101","2010-2012","Whooping cough","White","Total","Male","0","0","0.2"
+"A2010201204102","2010-2012","Whooping cough","White","Total","Female","0","0","0.2"
+"A2010201204110","2010-2012","Whooping cough","White","Not Hispanic","Total","0","0","0.2"
+"A2010201204111","2010-2012","Whooping cough","White","Not Hispanic","Male","0","0","0.3"
+"A2010201204112","2010-2012","Whooping cough","White","Not Hispanic","Female","0","0","0.3"
+"A2010201204120","2010-2012","Whooping cough","White","Hispanic","Total","0","0","0.7"
+"A2010201204121","2010-2012","Whooping cough","White","Hispanic","Male","0","0","2.1"
+"A2010201204122","2010-2012","Whooping cough","White","Hispanic","Female","0","0","1.2"
+"A2010201204200","2010-2012","Whooping cough","Black","Total","Total","0","0","0.4"
+"A2010201204201","2010-2012","Whooping cough","Black","Total","Male","0","0","1.2"
+"A2010201204202","2010-2012","Whooping cough","Black","Total","Female","0","0","0.7"
+"A2010201204210","2010-2012","Whooping cough","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201204211","2010-2012","Whooping cough","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201204212","2010-2012","Whooping cough","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201204220","2010-2012","Whooping cough","Black","Hispanic","Total","0","0","11.6"
+"A2010201204221","2010-2012","Whooping cough","Black","Hispanic","Male","0","0","35.1"
+"A2010201204222","2010-2012","Whooping cough","Black","Hispanic","Female","0","0","17.8"
+"A2010201204300","2010-2012","Whooping cough","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201204301","2010-2012","Whooping cough","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201204302","2010-2012","Whooping cough","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201204310","2010-2012","Whooping cough","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201204311","2010-2012","Whooping cough","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201204312","2010-2012","Whooping cough","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201204320","2010-2012","Whooping cough","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201204321","2010-2012","Whooping cough","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201204322","2010-2012","Whooping cough","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201204400","2010-2012","Whooping cough","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201204401","2010-2012","Whooping cough","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201204402","2010-2012","Whooping cough","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201204410","2010-2012","Whooping cough","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201204411","2010-2012","Whooping cough","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201204412","2010-2012","Whooping cough","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201204420","2010-2012","Whooping cough","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201204421","2010-2012","Whooping cough","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201204422","2010-2012","Whooping cough","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201205000","2010-2012","Scarlet fever and erysipelas","Total","Total","Total","0","0","0.1"
+"A2010201205001","2010-2012","Scarlet fever and erysipelas","Total","Total","Male","0","0","0.2"
+"A2010201205002","2010-2012","Scarlet fever and erysipelas","Total","Total","Female","0","0","0.1"
+"A2010201205010","2010-2012","Scarlet fever and erysipelas","Total","Not Hispanic","Total","0","0","0.1"
+"A2010201205011","2010-2012","Scarlet fever and erysipelas","Total","Not Hispanic","Male","0","0","0.2"
+"A2010201205012","2010-2012","Scarlet fever and erysipelas","Total","Not Hispanic","Female","0","0","0.2"
+"A2010201205020","2010-2012","Scarlet fever and erysipelas","Total","Hispanic","Total","0","0","0.7"
+"A2010201205021","2010-2012","Scarlet fever and erysipelas","Total","Hispanic","Male","0","0","1.9"
+"A2010201205022","2010-2012","Scarlet fever and erysipelas","Total","Hispanic","Female","0","0","1.1"
+"A2010201205100","2010-2012","Scarlet fever and erysipelas","White","Total","Total","0","0","0.1"
+"A2010201205101","2010-2012","Scarlet fever and erysipelas","White","Total","Male","0","0","0.2"
+"A2010201205102","2010-2012","Scarlet fever and erysipelas","White","Total","Female","0","0","0.2"
+"A2010201205110","2010-2012","Scarlet fever and erysipelas","White","Not Hispanic","Total","0","0","0.2"
+"A2010201205111","2010-2012","Scarlet fever and erysipelas","White","Not Hispanic","Male","0","0","0.3"
+"A2010201205112","2010-2012","Scarlet fever and erysipelas","White","Not Hispanic","Female","0","0","0.3"
+"A2010201205120","2010-2012","Scarlet fever and erysipelas","White","Hispanic","Total","0","0","0.7"
+"A2010201205121","2010-2012","Scarlet fever and erysipelas","White","Hispanic","Male","0","0","2.1"
+"A2010201205122","2010-2012","Scarlet fever and erysipelas","White","Hispanic","Female","0","0","1.2"
+"A2010201205200","2010-2012","Scarlet fever and erysipelas","Black","Total","Total","0","0","0.4"
+"A2010201205201","2010-2012","Scarlet fever and erysipelas","Black","Total","Male","0","0","1.2"
+"A2010201205202","2010-2012","Scarlet fever and erysipelas","Black","Total","Female","0","0","0.7"
+"A2010201205210","2010-2012","Scarlet fever and erysipelas","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201205211","2010-2012","Scarlet fever and erysipelas","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201205212","2010-2012","Scarlet fever and erysipelas","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201205220","2010-2012","Scarlet fever and erysipelas","Black","Hispanic","Total","0","0","11.6"
+"A2010201205221","2010-2012","Scarlet fever and erysipelas","Black","Hispanic","Male","0","0","35.1"
+"A2010201205222","2010-2012","Scarlet fever and erysipelas","Black","Hispanic","Female","0","0","17.8"
+"A2010201205300","2010-2012","Scarlet fever and erysipelas","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201205301","2010-2012","Scarlet fever and erysipelas","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201205302","2010-2012","Scarlet fever and erysipelas","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201205310","2010-2012","Scarlet fever and erysipelas","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201205311","2010-2012","Scarlet fever and erysipelas","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201205312","2010-2012","Scarlet fever and erysipelas","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201205320","2010-2012","Scarlet fever and erysipelas","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201205321","2010-2012","Scarlet fever and erysipelas","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201205322","2010-2012","Scarlet fever and erysipelas","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201205400","2010-2012","Scarlet fever and erysipelas","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201205401","2010-2012","Scarlet fever and erysipelas","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201205402","2010-2012","Scarlet fever and erysipelas","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201205410","2010-2012","Scarlet fever and erysipelas","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201205411","2010-2012","Scarlet fever and erysipelas","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201205412","2010-2012","Scarlet fever and erysipelas","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201205420","2010-2012","Scarlet fever and erysipelas","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201205421","2010-2012","Scarlet fever and erysipelas","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201205422","2010-2012","Scarlet fever and erysipelas","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201206000","2010-2012","Meningococcal infection","Total","Total","Total",,,
+"A2010201206001","2010-2012","Meningococcal infection","Total","Total","Male","0","0","0.2"
+"A2010201206002","2010-2012","Meningococcal infection","Total","Total","Female",,,
+"A2010201206010","2010-2012","Meningococcal infection","Total","Not Hispanic","Total","0","0","0.1"
+"A2010201206011","2010-2012","Meningococcal infection","Total","Not Hispanic","Male","0","0","0.2"
+"A2010201206012","2010-2012","Meningococcal infection","Total","Not Hispanic","Female","0","0","0.2"
+"A2010201206020","2010-2012","Meningococcal infection","Total","Hispanic","Total",,,
+"A2010201206021","2010-2012","Meningococcal infection","Total","Hispanic","Male","0","0","1.9"
+"A2010201206022","2010-2012","Meningococcal infection","Total","Hispanic","Female",,,
+"A2010201206100","2010-2012","Meningococcal infection","White","Total","Total",,,
+"A2010201206101","2010-2012","Meningococcal infection","White","Total","Male","0","0","0.2"
+"A2010201206102","2010-2012","Meningococcal infection","White","Total","Female",,,
+"A2010201206110","2010-2012","Meningococcal infection","White","Not Hispanic","Total","0","0","0.2"
+"A2010201206111","2010-2012","Meningococcal infection","White","Not Hispanic","Male","0","0","0.3"
+"A2010201206112","2010-2012","Meningococcal infection","White","Not Hispanic","Female","0","0","0.3"
+"A2010201206120","2010-2012","Meningococcal infection","White","Hispanic","Total",,,
+"A2010201206121","2010-2012","Meningococcal infection","White","Hispanic","Male","0","0","2.1"
+"A2010201206122","2010-2012","Meningococcal infection","White","Hispanic","Female",,,
+"A2010201206200","2010-2012","Meningococcal infection","Black","Total","Total","0","0","0.4"
+"A2010201206201","2010-2012","Meningococcal infection","Black","Total","Male","0","0","1.2"
+"A2010201206202","2010-2012","Meningococcal infection","Black","Total","Female","0","0","0.7"
+"A2010201206210","2010-2012","Meningococcal infection","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201206211","2010-2012","Meningococcal infection","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201206212","2010-2012","Meningococcal infection","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201206220","2010-2012","Meningococcal infection","Black","Hispanic","Total","0","0","11.6"
+"A2010201206221","2010-2012","Meningococcal infection","Black","Hispanic","Male","0","0","35.1"
+"A2010201206222","2010-2012","Meningococcal infection","Black","Hispanic","Female","0","0","17.8"
+"A2010201206300","2010-2012","Meningococcal infection","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201206301","2010-2012","Meningococcal infection","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201206302","2010-2012","Meningococcal infection","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201206310","2010-2012","Meningococcal infection","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201206311","2010-2012","Meningococcal infection","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201206312","2010-2012","Meningococcal infection","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201206320","2010-2012","Meningococcal infection","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201206321","2010-2012","Meningococcal infection","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201206322","2010-2012","Meningococcal infection","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201206400","2010-2012","Meningococcal infection","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201206401","2010-2012","Meningococcal infection","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201206402","2010-2012","Meningococcal infection","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201206410","2010-2012","Meningococcal infection","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201206411","2010-2012","Meningococcal infection","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201206412","2010-2012","Meningococcal infection","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201206420","2010-2012","Meningococcal infection","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201206421","2010-2012","Meningococcal infection","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201206422","2010-2012","Meningococcal infection","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201207000","2010-2012","Septicemia","Total","Total","Total","10.6","9.5","11.8"
+"A2010201207001","2010-2012","Septicemia","Total","Total","Male","11.6","9.7","13.5"
+"A2010201207002","2010-2012","Septicemia","Total","Total","Female","9.9","8.5","11.4"
+"A2010201207010","2010-2012","Septicemia","Total","Not Hispanic","Total","10.8","9.6","12"
+"A2010201207011","2010-2012","Septicemia","Total","Not Hispanic","Male","11.9","9.9","13.9"
+"A2010201207012","2010-2012","Septicemia","Total","Not Hispanic","Female","10","8.5","11.5"
+"A2010201207020","2010-2012","Septicemia","Total","Hispanic","Total","7.4","3.8","10.9"
+"A2010201207021","2010-2012","Septicemia","Total","Hispanic","Male",,,
+"A2010201207022","2010-2012","Septicemia","Total","Hispanic","Female",,,
+"A2010201207100","2010-2012","Septicemia","White","Total","Total","10.5","9.2","11.8"
+"A2010201207101","2010-2012","Septicemia","White","Total","Male","11.8","9.6","13.9"
+"A2010201207102","2010-2012","Septicemia","White","Total","Female","9.5","7.9","11.1"
+"A2010201207110","2010-2012","Septicemia","White","Not Hispanic","Total","10.6","9.2","12"
+"A2010201207111","2010-2012","Septicemia","White","Not Hispanic","Male","12.1","9.8","14.5"
+"A2010201207112","2010-2012","Septicemia","White","Not Hispanic","Female","9.4","7.7","11.1"
+"A2010201207120","2010-2012","Septicemia","White","Hispanic","Total","7.2","3.5","10.9"
+"A2010201207121","2010-2012","Septicemia","White","Hispanic","Male",,,
+"A2010201207122","2010-2012","Septicemia","White","Hispanic","Female",,,
+"A2010201207200","2010-2012","Septicemia","Black","Total","Total","14.6","10.7","18.6"
+"A2010201207201","2010-2012","Septicemia","Black","Total","Male","15.5","8.8","22.3"
+"A2010201207202","2010-2012","Septicemia","Black","Total","Female","14","9.1","19"
+"A2010201207210","2010-2012","Septicemia","Black","Not Hispanic","Total","14.7","10.7","18.8"
+"A2010201207211","2010-2012","Septicemia","Black","Not Hispanic","Male","15.4","8.6","22.3"
+"A2010201207212","2010-2012","Septicemia","Black","Not Hispanic","Female","14.2","9.1","19.2"
+"A2010201207220","2010-2012","Septicemia","Black","Hispanic","Total",,,
+"A2010201207221","2010-2012","Septicemia","Black","Hispanic","Male",,,
+"A2010201207222","2010-2012","Septicemia","Black","Hispanic","Female",,,
+"A2010201207300","2010-2012","Septicemia","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201207301","2010-2012","Septicemia","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201207302","2010-2012","Septicemia","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201207310","2010-2012","Septicemia","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201207311","2010-2012","Septicemia","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201207312","2010-2012","Septicemia","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201207320","2010-2012","Septicemia","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201207321","2010-2012","Septicemia","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201207322","2010-2012","Septicemia","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201207400","2010-2012","Septicemia","Asian/Pacific Islander","Total","Total","7.1","4.2","10"
+"A2010201207401","2010-2012","Septicemia","Asian/Pacific Islander","Total","Male",,,
+"A2010201207402","2010-2012","Septicemia","Asian/Pacific Islander","Total","Female","7.5","3.5","11.4"
+"A2010201207410","2010-2012","Septicemia","Asian/Pacific Islander","Not Hispanic","Total","7.2","4.3","10.1"
+"A2010201207411","2010-2012","Septicemia","Asian/Pacific Islander","Not Hispanic","Male",,,
+"A2010201207412","2010-2012","Septicemia","Asian/Pacific Islander","Not Hispanic","Female","7.6","3.6","11.5"
+"A2010201207420","2010-2012","Septicemia","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201207421","2010-2012","Septicemia","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201207422","2010-2012","Septicemia","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201208000","2010-2012","Syphilis","Total","Total","Total","0","0","0.1"
+"A2010201208001","2010-2012","Syphilis","Total","Total","Male","0","0","0.2"
+"A2010201208002","2010-2012","Syphilis","Total","Total","Female","0","0","0.1"
+"A2010201208010","2010-2012","Syphilis","Total","Not Hispanic","Total","0","0","0.1"
+"A2010201208011","2010-2012","Syphilis","Total","Not Hispanic","Male","0","0","0.2"
+"A2010201208012","2010-2012","Syphilis","Total","Not Hispanic","Female","0","0","0.2"
+"A2010201208020","2010-2012","Syphilis","Total","Hispanic","Total","0","0","0.7"
+"A2010201208021","2010-2012","Syphilis","Total","Hispanic","Male","0","0","1.9"
+"A2010201208022","2010-2012","Syphilis","Total","Hispanic","Female","0","0","1.1"
+"A2010201208100","2010-2012","Syphilis","White","Total","Total","0","0","0.1"
+"A2010201208101","2010-2012","Syphilis","White","Total","Male","0","0","0.2"
+"A2010201208102","2010-2012","Syphilis","White","Total","Female","0","0","0.2"
+"A2010201208110","2010-2012","Syphilis","White","Not Hispanic","Total","0","0","0.2"
+"A2010201208111","2010-2012","Syphilis","White","Not Hispanic","Male","0","0","0.3"
+"A2010201208112","2010-2012","Syphilis","White","Not Hispanic","Female","0","0","0.3"
+"A2010201208120","2010-2012","Syphilis","White","Hispanic","Total","0","0","0.7"
+"A2010201208121","2010-2012","Syphilis","White","Hispanic","Male","0","0","2.1"
+"A2010201208122","2010-2012","Syphilis","White","Hispanic","Female","0","0","1.2"
+"A2010201208200","2010-2012","Syphilis","Black","Total","Total","0","0","0.4"
+"A2010201208201","2010-2012","Syphilis","Black","Total","Male","0","0","1.2"
+"A2010201208202","2010-2012","Syphilis","Black","Total","Female","0","0","0.7"
+"A2010201208210","2010-2012","Syphilis","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201208211","2010-2012","Syphilis","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201208212","2010-2012","Syphilis","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201208220","2010-2012","Syphilis","Black","Hispanic","Total","0","0","11.6"
+"A2010201208221","2010-2012","Syphilis","Black","Hispanic","Male","0","0","35.1"
+"A2010201208222","2010-2012","Syphilis","Black","Hispanic","Female","0","0","17.8"
+"A2010201208300","2010-2012","Syphilis","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201208301","2010-2012","Syphilis","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201208302","2010-2012","Syphilis","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201208310","2010-2012","Syphilis","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201208311","2010-2012","Syphilis","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201208312","2010-2012","Syphilis","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201208320","2010-2012","Syphilis","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201208321","2010-2012","Syphilis","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201208322","2010-2012","Syphilis","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201208400","2010-2012","Syphilis","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201208401","2010-2012","Syphilis","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201208402","2010-2012","Syphilis","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201208410","2010-2012","Syphilis","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201208411","2010-2012","Syphilis","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201208412","2010-2012","Syphilis","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201208420","2010-2012","Syphilis","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201208421","2010-2012","Syphilis","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201208422","2010-2012","Syphilis","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201209000","2010-2012","Acute poliomyelitis","Total","Total","Total","0","0","0.1"
+"A2010201209001","2010-2012","Acute poliomyelitis","Total","Total","Male","0","0","0.2"
+"A2010201209002","2010-2012","Acute poliomyelitis","Total","Total","Female","0","0","0.1"
+"A2010201209010","2010-2012","Acute poliomyelitis","Total","Not Hispanic","Total","0","0","0.1"
+"A2010201209011","2010-2012","Acute poliomyelitis","Total","Not Hispanic","Male","0","0","0.2"
+"A2010201209012","2010-2012","Acute poliomyelitis","Total","Not Hispanic","Female","0","0","0.2"
+"A2010201209020","2010-2012","Acute poliomyelitis","Total","Hispanic","Total","0","0","0.7"
+"A2010201209021","2010-2012","Acute poliomyelitis","Total","Hispanic","Male","0","0","1.9"
+"A2010201209022","2010-2012","Acute poliomyelitis","Total","Hispanic","Female","0","0","1.1"
+"A2010201209100","2010-2012","Acute poliomyelitis","White","Total","Total","0","0","0.1"
+"A2010201209101","2010-2012","Acute poliomyelitis","White","Total","Male","0","0","0.2"
+"A2010201209102","2010-2012","Acute poliomyelitis","White","Total","Female","0","0","0.2"
+"A2010201209110","2010-2012","Acute poliomyelitis","White","Not Hispanic","Total","0","0","0.2"
+"A2010201209111","2010-2012","Acute poliomyelitis","White","Not Hispanic","Male","0","0","0.3"
+"A2010201209112","2010-2012","Acute poliomyelitis","White","Not Hispanic","Female","0","0","0.3"
+"A2010201209120","2010-2012","Acute poliomyelitis","White","Hispanic","Total","0","0","0.7"
+"A2010201209121","2010-2012","Acute poliomyelitis","White","Hispanic","Male","0","0","2.1"
+"A2010201209122","2010-2012","Acute poliomyelitis","White","Hispanic","Female","0","0","1.2"
+"A2010201209200","2010-2012","Acute poliomyelitis","Black","Total","Total","0","0","0.4"
+"A2010201209201","2010-2012","Acute poliomyelitis","Black","Total","Male","0","0","1.2"
+"A2010201209202","2010-2012","Acute poliomyelitis","Black","Total","Female","0","0","0.7"
+"A2010201209210","2010-2012","Acute poliomyelitis","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201209211","2010-2012","Acute poliomyelitis","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201209212","2010-2012","Acute poliomyelitis","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201209220","2010-2012","Acute poliomyelitis","Black","Hispanic","Total","0","0","11.6"
+"A2010201209221","2010-2012","Acute poliomyelitis","Black","Hispanic","Male","0","0","35.1"
+"A2010201209222","2010-2012","Acute poliomyelitis","Black","Hispanic","Female","0","0","17.8"
+"A2010201209300","2010-2012","Acute poliomyelitis","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201209301","2010-2012","Acute poliomyelitis","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201209302","2010-2012","Acute poliomyelitis","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201209310","2010-2012","Acute poliomyelitis","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201209311","2010-2012","Acute poliomyelitis","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201209312","2010-2012","Acute poliomyelitis","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201209320","2010-2012","Acute poliomyelitis","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201209321","2010-2012","Acute poliomyelitis","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201209322","2010-2012","Acute poliomyelitis","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201209400","2010-2012","Acute poliomyelitis","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201209401","2010-2012","Acute poliomyelitis","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201209402","2010-2012","Acute poliomyelitis","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201209410","2010-2012","Acute poliomyelitis","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201209411","2010-2012","Acute poliomyelitis","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201209412","2010-2012","Acute poliomyelitis","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201209420","2010-2012","Acute poliomyelitis","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201209421","2010-2012","Acute poliomyelitis","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201209422","2010-2012","Acute poliomyelitis","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201210000","2010-2012","Arthropod-borne viral encephalitis","Total","Total","Total","0","0","0.1"
+"A2010201210001","2010-2012","Arthropod-borne viral encephalitis","Total","Total","Male","0","0","0.2"
+"A2010201210002","2010-2012","Arthropod-borne viral encephalitis","Total","Total","Female","0","0","0.1"
+"A2010201210010","2010-2012","Arthropod-borne viral encephalitis","Total","Not Hispanic","Total","0","0","0.1"
+"A2010201210011","2010-2012","Arthropod-borne viral encephalitis","Total","Not Hispanic","Male","0","0","0.2"
+"A2010201210012","2010-2012","Arthropod-borne viral encephalitis","Total","Not Hispanic","Female","0","0","0.2"
+"A2010201210020","2010-2012","Arthropod-borne viral encephalitis","Total","Hispanic","Total","0","0","0.7"
+"A2010201210021","2010-2012","Arthropod-borne viral encephalitis","Total","Hispanic","Male","0","0","1.9"
+"A2010201210022","2010-2012","Arthropod-borne viral encephalitis","Total","Hispanic","Female","0","0","1.1"
+"A2010201210100","2010-2012","Arthropod-borne viral encephalitis","White","Total","Total","0","0","0.1"
+"A2010201210101","2010-2012","Arthropod-borne viral encephalitis","White","Total","Male","0","0","0.2"
+"A2010201210102","2010-2012","Arthropod-borne viral encephalitis","White","Total","Female","0","0","0.2"
+"A2010201210110","2010-2012","Arthropod-borne viral encephalitis","White","Not Hispanic","Total","0","0","0.2"
+"A2010201210111","2010-2012","Arthropod-borne viral encephalitis","White","Not Hispanic","Male","0","0","0.3"
+"A2010201210112","2010-2012","Arthropod-borne viral encephalitis","White","Not Hispanic","Female","0","0","0.3"
+"A2010201210120","2010-2012","Arthropod-borne viral encephalitis","White","Hispanic","Total","0","0","0.7"
+"A2010201210121","2010-2012","Arthropod-borne viral encephalitis","White","Hispanic","Male","0","0","2.1"
+"A2010201210122","2010-2012","Arthropod-borne viral encephalitis","White","Hispanic","Female","0","0","1.2"
+"A2010201210200","2010-2012","Arthropod-borne viral encephalitis","Black","Total","Total","0","0","0.4"
+"A2010201210201","2010-2012","Arthropod-borne viral encephalitis","Black","Total","Male","0","0","1.2"
+"A2010201210202","2010-2012","Arthropod-borne viral encephalitis","Black","Total","Female","0","0","0.7"
+"A2010201210210","2010-2012","Arthropod-borne viral encephalitis","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201210211","2010-2012","Arthropod-borne viral encephalitis","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201210212","2010-2012","Arthropod-borne viral encephalitis","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201210220","2010-2012","Arthropod-borne viral encephalitis","Black","Hispanic","Total","0","0","11.6"
+"A2010201210221","2010-2012","Arthropod-borne viral encephalitis","Black","Hispanic","Male","0","0","35.1"
+"A2010201210222","2010-2012","Arthropod-borne viral encephalitis","Black","Hispanic","Female","0","0","17.8"
+"A2010201210300","2010-2012","Arthropod-borne viral encephalitis","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201210301","2010-2012","Arthropod-borne viral encephalitis","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201210302","2010-2012","Arthropod-borne viral encephalitis","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201210310","2010-2012","Arthropod-borne viral encephalitis","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201210311","2010-2012","Arthropod-borne viral encephalitis","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201210312","2010-2012","Arthropod-borne viral encephalitis","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201210320","2010-2012","Arthropod-borne viral encephalitis","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201210321","2010-2012","Arthropod-borne viral encephalitis","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201210322","2010-2012","Arthropod-borne viral encephalitis","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201210400","2010-2012","Arthropod-borne viral encephalitis","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201210401","2010-2012","Arthropod-borne viral encephalitis","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201210402","2010-2012","Arthropod-borne viral encephalitis","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201210410","2010-2012","Arthropod-borne viral encephalitis","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201210411","2010-2012","Arthropod-borne viral encephalitis","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201210412","2010-2012","Arthropod-borne viral encephalitis","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201210420","2010-2012","Arthropod-borne viral encephalitis","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201210421","2010-2012","Arthropod-borne viral encephalitis","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201210422","2010-2012","Arthropod-borne viral encephalitis","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201211000","2010-2012","Measles","Total","Total","Total","0","0","0.1"
+"A2010201211001","2010-2012","Measles","Total","Total","Male","0","0","0.2"
+"A2010201211002","2010-2012","Measles","Total","Total","Female","0","0","0.1"
+"A2010201211010","2010-2012","Measles","Total","Not Hispanic","Total","0","0","0.1"
+"A2010201211011","2010-2012","Measles","Total","Not Hispanic","Male","0","0","0.2"
+"A2010201211012","2010-2012","Measles","Total","Not Hispanic","Female","0","0","0.2"
+"A2010201211020","2010-2012","Measles","Total","Hispanic","Total","0","0","0.7"
+"A2010201211021","2010-2012","Measles","Total","Hispanic","Male","0","0","1.9"
+"A2010201211022","2010-2012","Measles","Total","Hispanic","Female","0","0","1.1"
+"A2010201211100","2010-2012","Measles","White","Total","Total","0","0","0.1"
+"A2010201211101","2010-2012","Measles","White","Total","Male","0","0","0.2"
+"A2010201211102","2010-2012","Measles","White","Total","Female","0","0","0.2"
+"A2010201211110","2010-2012","Measles","White","Not Hispanic","Total","0","0","0.2"
+"A2010201211111","2010-2012","Measles","White","Not Hispanic","Male","0","0","0.3"
+"A2010201211112","2010-2012","Measles","White","Not Hispanic","Female","0","0","0.3"
+"A2010201211120","2010-2012","Measles","White","Hispanic","Total","0","0","0.7"
+"A2010201211121","2010-2012","Measles","White","Hispanic","Male","0","0","2.1"
+"A2010201211122","2010-2012","Measles","White","Hispanic","Female","0","0","1.2"
+"A2010201211200","2010-2012","Measles","Black","Total","Total","0","0","0.4"
+"A2010201211201","2010-2012","Measles","Black","Total","Male","0","0","1.2"
+"A2010201211202","2010-2012","Measles","Black","Total","Female","0","0","0.7"
+"A2010201211210","2010-2012","Measles","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201211211","2010-2012","Measles","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201211212","2010-2012","Measles","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201211220","2010-2012","Measles","Black","Hispanic","Total","0","0","11.6"
+"A2010201211221","2010-2012","Measles","Black","Hispanic","Male","0","0","35.1"
+"A2010201211222","2010-2012","Measles","Black","Hispanic","Female","0","0","17.8"
+"A2010201211300","2010-2012","Measles","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201211301","2010-2012","Measles","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201211302","2010-2012","Measles","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201211310","2010-2012","Measles","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201211311","2010-2012","Measles","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201211312","2010-2012","Measles","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201211320","2010-2012","Measles","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201211321","2010-2012","Measles","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201211322","2010-2012","Measles","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201211400","2010-2012","Measles","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201211401","2010-2012","Measles","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201211402","2010-2012","Measles","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201211410","2010-2012","Measles","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201211411","2010-2012","Measles","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201211412","2010-2012","Measles","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201211420","2010-2012","Measles","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201211421","2010-2012","Measles","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201211422","2010-2012","Measles","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201212000","2010-2012","Viral hepatitis","Total","Total","Total","1","0.6","1.3"
+"A2010201212001","2010-2012","Viral hepatitis","Total","Total","Male","1.5","0.9","2.1"
+"A2010201212002","2010-2012","Viral hepatitis","Total","Total","Female",,,
+"A2010201212010","2010-2012","Viral hepatitis","Total","Not Hispanic","Total","1","0.7","1.4"
+"A2010201212011","2010-2012","Viral hepatitis","Total","Not Hispanic","Male","1.5","0.8","2.1"
+"A2010201212012","2010-2012","Viral hepatitis","Total","Not Hispanic","Female",,,
+"A2010201212020","2010-2012","Viral hepatitis","Total","Hispanic","Total",,,
+"A2010201212021","2010-2012","Viral hepatitis","Total","Hispanic","Male",,,
+"A2010201212022","2010-2012","Viral hepatitis","Total","Hispanic","Female","0","0","1.1"
+"A2010201212100","2010-2012","Viral hepatitis","White","Total","Total","0.8","0.5","1.2"
+"A2010201212101","2010-2012","Viral hepatitis","White","Total","Male","1.2","0.6","1.9"
+"A2010201212102","2010-2012","Viral hepatitis","White","Total","Female",,,
+"A2010201212110","2010-2012","Viral hepatitis","White","Not Hispanic","Total","0.9","0.5","1.3"
+"A2010201212111","2010-2012","Viral hepatitis","White","Not Hispanic","Male","1.4","0.6","2.1"
+"A2010201212112","2010-2012","Viral hepatitis","White","Not Hispanic","Female",,,
+"A2010201212120","2010-2012","Viral hepatitis","White","Hispanic","Total",,,
+"A2010201212121","2010-2012","Viral hepatitis","White","Hispanic","Male",,,
+"A2010201212122","2010-2012","Viral hepatitis","White","Hispanic","Female","0","0","1.2"
+"A2010201212200","2010-2012","Viral hepatitis","Black","Total","Total",,,
+"A2010201212201","2010-2012","Viral hepatitis","Black","Total","Male",,,
+"A2010201212202","2010-2012","Viral hepatitis","Black","Total","Female",,,
+"A2010201212210","2010-2012","Viral hepatitis","Black","Not Hispanic","Total",,,
+"A2010201212211","2010-2012","Viral hepatitis","Black","Not Hispanic","Male",,,
+"A2010201212212","2010-2012","Viral hepatitis","Black","Not Hispanic","Female",,,
+"A2010201212220","2010-2012","Viral hepatitis","Black","Hispanic","Total","0","0","11.6"
+"A2010201212221","2010-2012","Viral hepatitis","Black","Hispanic","Male","0","0","35.1"
+"A2010201212222","2010-2012","Viral hepatitis","Black","Hispanic","Female","0","0","17.8"
+"A2010201212300","2010-2012","Viral hepatitis","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201212301","2010-2012","Viral hepatitis","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201212302","2010-2012","Viral hepatitis","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201212310","2010-2012","Viral hepatitis","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201212311","2010-2012","Viral hepatitis","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201212312","2010-2012","Viral hepatitis","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201212320","2010-2012","Viral hepatitis","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201212321","2010-2012","Viral hepatitis","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201212322","2010-2012","Viral hepatitis","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201212400","2010-2012","Viral hepatitis","Asian/Pacific Islander","Total","Total",,,
+"A2010201212401","2010-2012","Viral hepatitis","Asian/Pacific Islander","Total","Male",,,
+"A2010201212402","2010-2012","Viral hepatitis","Asian/Pacific Islander","Total","Female",,,
+"A2010201212410","2010-2012","Viral hepatitis","Asian/Pacific Islander","Not Hispanic","Total",,,
+"A2010201212411","2010-2012","Viral hepatitis","Asian/Pacific Islander","Not Hispanic","Male",,,
+"A2010201212412","2010-2012","Viral hepatitis","Asian/Pacific Islander","Not Hispanic","Female",,,
+"A2010201212420","2010-2012","Viral hepatitis","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201212421","2010-2012","Viral hepatitis","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201212422","2010-2012","Viral hepatitis","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201213000","2010-2012","Human immunodeficiency virus (HIV) disease","Total","Total","Total","1.6","1.2","2.1"
+"A2010201213001","2010-2012","Human immunodeficiency virus (HIV) disease","Total","Total","Male","2.4","1.6","3.2"
+"A2010201213002","2010-2012","Human immunodeficiency virus (HIV) disease","Total","Total","Female","1","0.5","1.5"
+"A2010201213010","2010-2012","Human immunodeficiency virus (HIV) disease","Total","Not Hispanic","Total","1.7","1.2","2.1"
+"A2010201213011","2010-2012","Human immunodeficiency virus (HIV) disease","Total","Not Hispanic","Male","2.2","1.4","3.1"
+"A2010201213012","2010-2012","Human immunodeficiency virus (HIV) disease","Total","Not Hispanic","Female","1.1","0.5","1.7"
+"A2010201213020","2010-2012","Human immunodeficiency virus (HIV) disease","Total","Hispanic","Total",,,
+"A2010201213021","2010-2012","Human immunodeficiency virus (HIV) disease","Total","Hispanic","Male",,,
+"A2010201213022","2010-2012","Human immunodeficiency virus (HIV) disease","Total","Hispanic","Female","0","0","1.1"
+"A2010201213100","2010-2012","Human immunodeficiency virus (HIV) disease","White","Total","Total","0.8","0.4","1.2"
+"A2010201213101","2010-2012","Human immunodeficiency virus (HIV) disease","White","Total","Male","1.4","0.6","2.1"
+"A2010201213102","2010-2012","Human immunodeficiency virus (HIV) disease","White","Total","Female",,,
+"A2010201213110","2010-2012","Human immunodeficiency virus (HIV) disease","White","Not Hispanic","Total",,,
+"A2010201213111","2010-2012","Human immunodeficiency virus (HIV) disease","White","Not Hispanic","Male",,,
+"A2010201213112","2010-2012","Human immunodeficiency virus (HIV) disease","White","Not Hispanic","Female",,,
+"A2010201213120","2010-2012","Human immunodeficiency virus (HIV) disease","White","Hispanic","Total",,,
+"A2010201213121","2010-2012","Human immunodeficiency virus (HIV) disease","White","Hispanic","Male",,,
+"A2010201213122","2010-2012","Human immunodeficiency virus (HIV) disease","White","Hispanic","Female","0","0","1.2"
+"A2010201213200","2010-2012","Human immunodeficiency virus (HIV) disease","Black","Total","Total","6.2","4","8.3"
+"A2010201213201","2010-2012","Human immunodeficiency virus (HIV) disease","Black","Total","Male","9.2","5","13.4"
+"A2010201213202","2010-2012","Human immunodeficiency virus (HIV) disease","Black","Total","Female","4","1.7","6.3"
+"A2010201213210","2010-2012","Human immunodeficiency virus (HIV) disease","Black","Not Hispanic","Total","6.5","4.3","8.8"
+"A2010201213211","2010-2012","Human immunodeficiency virus (HIV) disease","Black","Not Hispanic","Male","9.7","5.3","14.1"
+"A2010201213212","2010-2012","Human immunodeficiency virus (HIV) disease","Black","Not Hispanic","Female","4.3","1.8","6.7"
+"A2010201213220","2010-2012","Human immunodeficiency virus (HIV) disease","Black","Hispanic","Total","0","0","11.6"
+"A2010201213221","2010-2012","Human immunodeficiency virus (HIV) disease","Black","Hispanic","Male","0","0","35.1"
+"A2010201213222","2010-2012","Human immunodeficiency virus (HIV) disease","Black","Hispanic","Female","0","0","17.8"
+"A2010201213300","2010-2012","Human immunodeficiency virus (HIV) disease","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201213301","2010-2012","Human immunodeficiency virus (HIV) disease","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201213302","2010-2012","Human immunodeficiency virus (HIV) disease","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201213310","2010-2012","Human immunodeficiency virus (HIV) disease","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201213311","2010-2012","Human immunodeficiency virus (HIV) disease","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201213312","2010-2012","Human immunodeficiency virus (HIV) disease","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201213320","2010-2012","Human immunodeficiency virus (HIV) disease","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201213321","2010-2012","Human immunodeficiency virus (HIV) disease","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201213322","2010-2012","Human immunodeficiency virus (HIV) disease","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201213400","2010-2012","Human immunodeficiency virus (HIV) disease","Asian/Pacific Islander","Total","Total",,,
+"A2010201213401","2010-2012","Human immunodeficiency virus (HIV) disease","Asian/Pacific Islander","Total","Male",,,
+"A2010201213402","2010-2012","Human immunodeficiency virus (HIV) disease","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201213410","2010-2012","Human immunodeficiency virus (HIV) disease","Asian/Pacific Islander","Not Hispanic","Total",,,
+"A2010201213411","2010-2012","Human immunodeficiency virus (HIV) disease","Asian/Pacific Islander","Not Hispanic","Male",,,
+"A2010201213412","2010-2012","Human immunodeficiency virus (HIV) disease","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201213420","2010-2012","Human immunodeficiency virus (HIV) disease","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201213421","2010-2012","Human immunodeficiency virus (HIV) disease","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201213422","2010-2012","Human immunodeficiency virus (HIV) disease","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201214000","2010-2012","Malaria","Total","Total","Total",,,
+"A2010201214001","2010-2012","Malaria","Total","Total","Male",,,
+"A2010201214002","2010-2012","Malaria","Total","Total","Female","0","0","0.1"
+"A2010201214010","2010-2012","Malaria","Total","Not Hispanic","Total",,,
+"A2010201214011","2010-2012","Malaria","Total","Not Hispanic","Male",,,
+"A2010201214012","2010-2012","Malaria","Total","Not Hispanic","Female","0","0","0.2"
+"A2010201214020","2010-2012","Malaria","Total","Hispanic","Total","0","0","0.7"
+"A2010201214021","2010-2012","Malaria","Total","Hispanic","Male","0","0","1.9"
+"A2010201214022","2010-2012","Malaria","Total","Hispanic","Female","0","0","1.1"
+"A2010201214100","2010-2012","Malaria","White","Total","Total",,,
+"A2010201214101","2010-2012","Malaria","White","Total","Male",,,
+"A2010201214102","2010-2012","Malaria","White","Total","Female","0","0","0.2"
+"A2010201214110","2010-2012","Malaria","White","Not Hispanic","Total",,,
+"A2010201214111","2010-2012","Malaria","White","Not Hispanic","Male",,,
+"A2010201214112","2010-2012","Malaria","White","Not Hispanic","Female","0","0","0.3"
+"A2010201214120","2010-2012","Malaria","White","Hispanic","Total","0","0","0.7"
+"A2010201214121","2010-2012","Malaria","White","Hispanic","Male","0","0","2.1"
+"A2010201214122","2010-2012","Malaria","White","Hispanic","Female","0","0","1.2"
+"A2010201214200","2010-2012","Malaria","Black","Total","Total","0","0","0.4"
+"A2010201214201","2010-2012","Malaria","Black","Total","Male","0","0","1.2"
+"A2010201214202","2010-2012","Malaria","Black","Total","Female","0","0","0.7"
+"A2010201214210","2010-2012","Malaria","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201214211","2010-2012","Malaria","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201214212","2010-2012","Malaria","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201214220","2010-2012","Malaria","Black","Hispanic","Total","0","0","11.6"
+"A2010201214221","2010-2012","Malaria","Black","Hispanic","Male","0","0","35.1"
+"A2010201214222","2010-2012","Malaria","Black","Hispanic","Female","0","0","17.8"
+"A2010201214300","2010-2012","Malaria","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201214301","2010-2012","Malaria","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201214302","2010-2012","Malaria","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201214310","2010-2012","Malaria","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201214311","2010-2012","Malaria","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201214312","2010-2012","Malaria","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201214320","2010-2012","Malaria","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201214321","2010-2012","Malaria","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201214322","2010-2012","Malaria","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201214400","2010-2012","Malaria","Asian/Pacific Islander","Total","Total","0","0","0.5"
+"A2010201214401","2010-2012","Malaria","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201214402","2010-2012","Malaria","Asian/Pacific Islander","Total","Female","0","0","1"
+"A2010201214410","2010-2012","Malaria","Asian/Pacific Islander","Not Hispanic","Total","0","0","0.5"
+"A2010201214411","2010-2012","Malaria","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201214412","2010-2012","Malaria","Asian/Pacific Islander","Not Hispanic","Female","0","0","1"
+"A2010201214420","2010-2012","Malaria","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201214421","2010-2012","Malaria","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201214422","2010-2012","Malaria","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201215000","2010-2012","Malignant neoplasms","Total","Total","Total","127.1","123.2","131.1"
+"A2010201215001","2010-2012","Malignant neoplasms","Total","Total","Male","145.7","139.2","152.3"
+"A2010201215002","2010-2012","Malignant neoplasms","Total","Total","Female","115.5","110.4","120.5"
+"A2010201215010","2010-2012","Malignant neoplasms","Total","Not Hispanic","Total","130.8","126.6","135"
+"A2010201215011","2010-2012","Malignant neoplasms","Total","Not Hispanic","Male","148.6","141.7","155.4"
+"A2010201215012","2010-2012","Malignant neoplasms","Total","Not Hispanic","Female","119.7","114.3","125.1"
+"A2010201215020","2010-2012","Malignant neoplasms","Total","Hispanic","Total","85.3","72.8","97.7"
+"A2010201215021","2010-2012","Malignant neoplasms","Total","Hispanic","Male","99.8","76.8","122.8"
+"A2010201215022","2010-2012","Malignant neoplasms","Total","Hispanic","Female","76.7","62.1","91.4"
+"A2010201215100","2010-2012","Malignant neoplasms","White","Total","Total","128.8","124.2","133.5"
+"A2010201215101","2010-2012","Malignant neoplasms","White","Total","Male","148.7","141","156.3"
+"A2010201215102","2010-2012","Malignant neoplasms","White","Total","Female","116.1","110.2","122"
+"A2010201215110","2010-2012","Malignant neoplasms","White","Not Hispanic","Total","134.3","129.3","139.3"
+"A2010201215111","2010-2012","Malignant neoplasms","White","Not Hispanic","Male","153","144.9","161.1"
+"A2010201215112","2010-2012","Malignant neoplasms","White","Not Hispanic","Female","122.3","115.8","128.8"
+"A2010201215120","2010-2012","Malignant neoplasms","White","Hispanic","Total","80.6","67.8","93.4"
+"A2010201215121","2010-2012","Malignant neoplasms","White","Hispanic","Male","95","71.4","118.6"
+"A2010201215122","2010-2012","Malignant neoplasms","White","Hispanic","Female","71.6","56.5","86.6"
+"A2010201215200","2010-2012","Malignant neoplasms","Black","Total","Total","139.3","127.6","151"
+"A2010201215201","2010-2012","Malignant neoplasms","Black","Total","Male","167.9","146.1","189.7"
+"A2010201215202","2010-2012","Malignant neoplasms","Black","Total","Female","125","111","139.1"
+"A2010201215210","2010-2012","Malignant neoplasms","Black","Not Hispanic","Total","142.1","130","154.1"
+"A2010201215211","2010-2012","Malignant neoplasms","Black","Not Hispanic","Male","170.3","148","192.6"
+"A2010201215212","2010-2012","Malignant neoplasms","Black","Not Hispanic","Female","128.3","113.8","142.7"
+"A2010201215220","2010-2012","Malignant neoplasms","Black","Hispanic","Total",,,
+"A2010201215221","2010-2012","Malignant neoplasms","Black","Hispanic","Male",,,
+"A2010201215222","2010-2012","Malignant neoplasms","Black","Hispanic","Female",,,
+"A2010201215300","2010-2012","Malignant neoplasms","American Indian/Alaska Native","Total","Total",,,
+"A2010201215301","2010-2012","Malignant neoplasms","American Indian/Alaska Native","Total","Male",,,
+"A2010201215302","2010-2012","Malignant neoplasms","American Indian/Alaska Native","Total","Female",,,
+"A2010201215310","2010-2012","Malignant neoplasms","American Indian/Alaska Native","Not Hispanic","Total",,,
+"A2010201215311","2010-2012","Malignant neoplasms","American Indian/Alaska Native","Not Hispanic","Male",,,
+"A2010201215312","2010-2012","Malignant neoplasms","American Indian/Alaska Native","Not Hispanic","Female",,,
+"A2010201215320","2010-2012","Malignant neoplasms","American Indian/Alaska Native","Hispanic","Total",,,
+"A2010201215321","2010-2012","Malignant neoplasms","American Indian/Alaska Native","Hispanic","Male",,,
+"A2010201215322","2010-2012","Malignant neoplasms","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201215400","2010-2012","Malignant neoplasms","Asian/Pacific Islander","Total","Total","95","85","104.9"
+"A2010201215401","2010-2012","Malignant neoplasms","Asian/Pacific Islander","Total","Male","103.4","87.7","119.2"
+"A2010201215402","2010-2012","Malignant neoplasms","Asian/Pacific Islander","Total","Female","88","75.3","100.7"
+"A2010201215410","2010-2012","Malignant neoplasms","Asian/Pacific Islander","Not Hispanic","Total","95.2","85.2","105.2"
+"A2010201215411","2010-2012","Malignant neoplasms","Asian/Pacific Islander","Not Hispanic","Male","103.5","87.7","119.3"
+"A2010201215412","2010-2012","Malignant neoplasms","Asian/Pacific Islander","Not Hispanic","Female","88.4","75.5","101.2"
+"A2010201215420","2010-2012","Malignant neoplasms","Asian/Pacific Islander","Hispanic","Total",,,
+"A2010201215421","2010-2012","Malignant neoplasms","Asian/Pacific Islander","Hispanic","Male",,,
+"A2010201215422","2010-2012","Malignant neoplasms","Asian/Pacific Islander","Hispanic","Female",,,
+"A2010201216000","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Total","Total","Total","3.9","3.2","4.6"
+"A2010201216001","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Total","Total","Male","5.6","4.3","7"
+"A2010201216002","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Total","Total","Female","2.9","2.1","3.7"
+"A2010201216010","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Total","Not Hispanic","Total","4","3.3","4.7"
+"A2010201216011","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Total","Not Hispanic","Male","5.7","4.3","7.1"
+"A2010201216012","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Total","Not Hispanic","Female","3.1","2.2","3.9"
+"A2010201216020","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Total","Hispanic","Total",,,
+"A2010201216021","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Total","Hispanic","Male",,,
+"A2010201216022","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Total","Hispanic","Female",,,
+"A2010201216100","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","White","Total","Total","3.9","3.1","4.7"
+"A2010201216101","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","White","Total","Male","5.8","4.3","7.3"
+"A2010201216102","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","White","Total","Female","2.8","1.9","3.7"
+"A2010201216110","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","White","Not Hispanic","Total","4.1","3.3","5"
+"A2010201216111","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","White","Not Hispanic","Male","6.1","4.5","7.7"
+"A2010201216112","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","White","Not Hispanic","Female","3","2","4"
+"A2010201216120","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","White","Hispanic","Total",,,
+"A2010201216121","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","White","Hispanic","Male",,,
+"A2010201216122","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","White","Hispanic","Female",,,
+"A2010201216200","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Black","Total","Total","4.3","2.2","6.5"
+"A2010201216201","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Black","Total","Male",,,
+"A2010201216202","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Black","Total","Female",,,
+"A2010201216210","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Black","Not Hispanic","Total","4.5","2.3","6.7"
+"A2010201216211","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Black","Not Hispanic","Male",,,
+"A2010201216212","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Black","Not Hispanic","Female",,,
+"A2010201216220","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Black","Hispanic","Total","0","0","11.6"
+"A2010201216221","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Black","Hispanic","Male","0","0","35.1"
+"A2010201216222","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Black","Hispanic","Female","0","0","17.8"
+"A2010201216300","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201216301","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201216302","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201216310","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201216311","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201216312","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201216320","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201216321","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201216322","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201216400","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Asian/Pacific Islander","Total","Total",,,
+"A2010201216401","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Asian/Pacific Islander","Total","Male",,,
+"A2010201216402","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Asian/Pacific Islander","Total","Female",,,
+"A2010201216410","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Asian/Pacific Islander","Not Hispanic","Total",,,
+"A2010201216411","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Asian/Pacific Islander","Not Hispanic","Male",,,
+"A2010201216412","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Asian/Pacific Islander","Not Hispanic","Female",,,
+"A2010201216420","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201216421","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201216422","2010-2012","In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201217000","2010-2012","Anemias","Total","Total","Total","1.8","1.4","2.3"
+"A2010201217001","2010-2012","Anemias","Total","Total","Male","2","1.2","2.8"
+"A2010201217002","2010-2012","Anemias","Total","Total","Female","1.7","1","2.3"
+"A2010201217010","2010-2012","Anemias","Total","Not Hispanic","Total","1.9","1.4","2.4"
+"A2010201217011","2010-2012","Anemias","Total","Not Hispanic","Male","2.1","1.3","2.9"
+"A2010201217012","2010-2012","Anemias","Total","Not Hispanic","Female","1.7","1.1","2.4"
+"A2010201217020","2010-2012","Anemias","Total","Hispanic","Total",,,
+"A2010201217021","2010-2012","Anemias","Total","Hispanic","Male",,,
+"A2010201217022","2010-2012","Anemias","Total","Hispanic","Female",,,
+"A2010201217100","2010-2012","Anemias","White","Total","Total","1.5","1","2"
+"A2010201217101","2010-2012","Anemias","White","Total","Male","1.8","0.9","2.6"
+"A2010201217102","2010-2012","Anemias","White","Total","Female","1.2","0.7","1.8"
+"A2010201217110","2010-2012","Anemias","White","Not Hispanic","Total","1.5","0.9","2"
+"A2010201217111","2010-2012","Anemias","White","Not Hispanic","Male","1.7","0.8","2.6"
+"A2010201217112","2010-2012","Anemias","White","Not Hispanic","Female","1.3","0.6","1.9"
+"A2010201217120","2010-2012","Anemias","White","Hispanic","Total",,,
+"A2010201217121","2010-2012","Anemias","White","Hispanic","Male",,,
+"A2010201217122","2010-2012","Anemias","White","Hispanic","Female",,,
+"A2010201217200","2010-2012","Anemias","Black","Total","Total","3.4","1.7","5.2"
+"A2010201217201","2010-2012","Anemias","Black","Total","Male",,,
+"A2010201217202","2010-2012","Anemias","Black","Total","Female",,,
+"A2010201217210","2010-2012","Anemias","Black","Not Hispanic","Total","3.3","1.6","5"
+"A2010201217211","2010-2012","Anemias","Black","Not Hispanic","Male",,,
+"A2010201217212","2010-2012","Anemias","Black","Not Hispanic","Female",,,
+"A2010201217220","2010-2012","Anemias","Black","Hispanic","Total",,,
+"A2010201217221","2010-2012","Anemias","Black","Hispanic","Male","0","0","35.1"
+"A2010201217222","2010-2012","Anemias","Black","Hispanic","Female",,,
+"A2010201217300","2010-2012","Anemias","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201217301","2010-2012","Anemias","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201217302","2010-2012","Anemias","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201217310","2010-2012","Anemias","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201217311","2010-2012","Anemias","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201217312","2010-2012","Anemias","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201217320","2010-2012","Anemias","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201217321","2010-2012","Anemias","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201217322","2010-2012","Anemias","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201217400","2010-2012","Anemias","Asian/Pacific Islander","Total","Total",,,
+"A2010201217401","2010-2012","Anemias","Asian/Pacific Islander","Total","Male",,,
+"A2010201217402","2010-2012","Anemias","Asian/Pacific Islander","Total","Female",,,
+"A2010201217410","2010-2012","Anemias","Asian/Pacific Islander","Not Hispanic","Total",,,
+"A2010201217411","2010-2012","Anemias","Asian/Pacific Islander","Not Hispanic","Male",,,
+"A2010201217412","2010-2012","Anemias","Asian/Pacific Islander","Not Hispanic","Female",,,
+"A2010201217420","2010-2012","Anemias","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201217421","2010-2012","Anemias","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201217422","2010-2012","Anemias","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201218000","2010-2012","Diabetes mellitus","Total","Total","Total","13.3","12","14.5"
+"A2010201218001","2010-2012","Diabetes mellitus","Total","Total","Male","17.5","15.2","19.8"
+"A2010201218002","2010-2012","Diabetes mellitus","Total","Total","Female","10.3","8.8","11.7"
+"A2010201218010","2010-2012","Diabetes mellitus","Total","Not Hispanic","Total","13.3","12","14.6"
+"A2010201218011","2010-2012","Diabetes mellitus","Total","Not Hispanic","Male","17.4","15","19.8"
+"A2010201218012","2010-2012","Diabetes mellitus","Total","Not Hispanic","Female","10.4","8.8","11.9"
+"A2010201218020","2010-2012","Diabetes mellitus","Total","Hispanic","Total","14.2","8.9","19.5"
+"A2010201218021","2010-2012","Diabetes mellitus","Total","Hispanic","Male","21","9.9","32.1"
+"A2010201218022","2010-2012","Diabetes mellitus","Total","Hispanic","Female","10.4","4.8","16"
+"A2010201218100","2010-2012","Diabetes mellitus","White","Total","Total","11.3","9.9","12.6"
+"A2010201218101","2010-2012","Diabetes mellitus","White","Total","Male","16.2","13.7","18.8"
+"A2010201218102","2010-2012","Diabetes mellitus","White","Total","Female","7.7","6.3","9.2"
+"A2010201218110","2010-2012","Diabetes mellitus","White","Not Hispanic","Total","11.3","9.8","12.7"
+"A2010201218111","2010-2012","Diabetes mellitus","White","Not Hispanic","Male","16.2","13.5","18.9"
+"A2010201218112","2010-2012","Diabetes mellitus","White","Not Hispanic","Female","7.6","6.1","9.1"
+"A2010201218120","2010-2012","Diabetes mellitus","White","Hispanic","Total","12.6","7.4","17.7"
+"A2010201218121","2010-2012","Diabetes mellitus","White","Hispanic","Male",,,
+"A2010201218122","2010-2012","Diabetes mellitus","White","Hispanic","Female","9.6","3.9","15.2"
+"A2010201218200","2010-2012","Diabetes mellitus","Black","Total","Total","25.8","20.5","31"
+"A2010201218201","2010-2012","Diabetes mellitus","Black","Total","Male","31.4","21.6","41.3"
+"A2010201218202","2010-2012","Diabetes mellitus","Black","Total","Female","22.8","16.6","29.1"
+"A2010201218210","2010-2012","Diabetes mellitus","Black","Not Hispanic","Total","26.4","21","31.8"
+"A2010201218211","2010-2012","Diabetes mellitus","Black","Not Hispanic","Male","31.6","21.6","41.6"
+"A2010201218212","2010-2012","Diabetes mellitus","Black","Not Hispanic","Female","23.7","17.2","30.2"
+"A2010201218220","2010-2012","Diabetes mellitus","Black","Hispanic","Total",,,
+"A2010201218221","2010-2012","Diabetes mellitus","Black","Hispanic","Male",,,
+"A2010201218222","2010-2012","Diabetes mellitus","Black","Hispanic","Female","0","0","17.8"
+"A2010201218300","2010-2012","Diabetes mellitus","American Indian/Alaska Native","Total","Total",,,
+"A2010201218301","2010-2012","Diabetes mellitus","American Indian/Alaska Native","Total","Male",,,
+"A2010201218302","2010-2012","Diabetes mellitus","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201218310","2010-2012","Diabetes mellitus","American Indian/Alaska Native","Not Hispanic","Total",,,
+"A2010201218311","2010-2012","Diabetes mellitus","American Indian/Alaska Native","Not Hispanic","Male",,,
+"A2010201218312","2010-2012","Diabetes mellitus","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201218320","2010-2012","Diabetes mellitus","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201218321","2010-2012","Diabetes mellitus","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201218322","2010-2012","Diabetes mellitus","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201218400","2010-2012","Diabetes mellitus","Asian/Pacific Islander","Total","Total","11.2","7.6","14.8"
+"A2010201218401","2010-2012","Diabetes mellitus","Asian/Pacific Islander","Total","Male","11.9","6.2","17.5"
+"A2010201218402","2010-2012","Diabetes mellitus","Asian/Pacific Islander","Total","Female","10.5","5.9","15.2"
+"A2010201218410","2010-2012","Diabetes mellitus","Asian/Pacific Islander","Not Hispanic","Total","11.3","7.7","14.9"
+"A2010201218411","2010-2012","Diabetes mellitus","Asian/Pacific Islander","Not Hispanic","Male","12","6.3","17.7"
+"A2010201218412","2010-2012","Diabetes mellitus","Asian/Pacific Islander","Not Hispanic","Female","10.6","5.9","15.3"
+"A2010201218420","2010-2012","Diabetes mellitus","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201218421","2010-2012","Diabetes mellitus","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201218422","2010-2012","Diabetes mellitus","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201219000","2010-2012","Nutritional deficiencies","Total","Total","Total","0.4","0.2","0.7"
+"A2010201219001","2010-2012","Nutritional deficiencies","Total","Total","Male",,,
+"A2010201219002","2010-2012","Nutritional deficiencies","Total","Total","Female",,,
+"A2010201219010","2010-2012","Nutritional deficiencies","Total","Not Hispanic","Total","0.5","0.2","0.7"
+"A2010201219011","2010-2012","Nutritional deficiencies","Total","Not Hispanic","Male",,,
+"A2010201219012","2010-2012","Nutritional deficiencies","Total","Not Hispanic","Female",,,
+"A2010201219020","2010-2012","Nutritional deficiencies","Total","Hispanic","Total","0","0","0.7"
+"A2010201219021","2010-2012","Nutritional deficiencies","Total","Hispanic","Male","0","0","1.9"
+"A2010201219022","2010-2012","Nutritional deficiencies","Total","Hispanic","Female","0","0","1.1"
+"A2010201219100","2010-2012","Nutritional deficiencies","White","Total","Total",,,
+"A2010201219101","2010-2012","Nutritional deficiencies","White","Total","Male",,,
+"A2010201219102","2010-2012","Nutritional deficiencies","White","Total","Female",,,
+"A2010201219110","2010-2012","Nutritional deficiencies","White","Not Hispanic","Total",,,
+"A2010201219111","2010-2012","Nutritional deficiencies","White","Not Hispanic","Male",,,
+"A2010201219112","2010-2012","Nutritional deficiencies","White","Not Hispanic","Female",,,
+"A2010201219120","2010-2012","Nutritional deficiencies","White","Hispanic","Total","0","0","0.7"
+"A2010201219121","2010-2012","Nutritional deficiencies","White","Hispanic","Male","0","0","2.1"
+"A2010201219122","2010-2012","Nutritional deficiencies","White","Hispanic","Female","0","0","1.2"
+"A2010201219200","2010-2012","Nutritional deficiencies","Black","Total","Total",,,
+"A2010201219201","2010-2012","Nutritional deficiencies","Black","Total","Male",,,
+"A2010201219202","2010-2012","Nutritional deficiencies","Black","Total","Female",,,
+"A2010201219210","2010-2012","Nutritional deficiencies","Black","Not Hispanic","Total",,,
+"A2010201219211","2010-2012","Nutritional deficiencies","Black","Not Hispanic","Male",,,
+"A2010201219212","2010-2012","Nutritional deficiencies","Black","Not Hispanic","Female",,,
+"A2010201219220","2010-2012","Nutritional deficiencies","Black","Hispanic","Total","0","0","11.6"
+"A2010201219221","2010-2012","Nutritional deficiencies","Black","Hispanic","Male","0","0","35.1"
+"A2010201219222","2010-2012","Nutritional deficiencies","Black","Hispanic","Female","0","0","17.8"
+"A2010201219300","2010-2012","Nutritional deficiencies","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201219301","2010-2012","Nutritional deficiencies","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201219302","2010-2012","Nutritional deficiencies","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201219310","2010-2012","Nutritional deficiencies","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201219311","2010-2012","Nutritional deficiencies","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201219312","2010-2012","Nutritional deficiencies","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201219320","2010-2012","Nutritional deficiencies","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201219321","2010-2012","Nutritional deficiencies","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201219322","2010-2012","Nutritional deficiencies","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201219400","2010-2012","Nutritional deficiencies","Asian/Pacific Islander","Total","Total",,,
+"A2010201219401","2010-2012","Nutritional deficiencies","Asian/Pacific Islander","Total","Male",,,
+"A2010201219402","2010-2012","Nutritional deficiencies","Asian/Pacific Islander","Total","Female",,,
+"A2010201219410","2010-2012","Nutritional deficiencies","Asian/Pacific Islander","Not Hispanic","Total",,,
+"A2010201219411","2010-2012","Nutritional deficiencies","Asian/Pacific Islander","Not Hispanic","Male",,,
+"A2010201219412","2010-2012","Nutritional deficiencies","Asian/Pacific Islander","Not Hispanic","Female",,,
+"A2010201219420","2010-2012","Nutritional deficiencies","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201219421","2010-2012","Nutritional deficiencies","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201219422","2010-2012","Nutritional deficiencies","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201220000","2010-2012","Meningitis","Total","Total","Total",,,
+"A2010201220001","2010-2012","Meningitis","Total","Total","Male",,,
+"A2010201220002","2010-2012","Meningitis","Total","Total","Female",,,
+"A2010201220010","2010-2012","Meningitis","Total","Not Hispanic","Total",,,
+"A2010201220011","2010-2012","Meningitis","Total","Not Hispanic","Male",,,
+"A2010201220012","2010-2012","Meningitis","Total","Not Hispanic","Female",,,
+"A2010201220020","2010-2012","Meningitis","Total","Hispanic","Total","0","0","0.7"
+"A2010201220021","2010-2012","Meningitis","Total","Hispanic","Male","0","0","1.9"
+"A2010201220022","2010-2012","Meningitis","Total","Hispanic","Female","0","0","1.1"
+"A2010201220100","2010-2012","Meningitis","White","Total","Total",,,
+"A2010201220101","2010-2012","Meningitis","White","Total","Male",,,
+"A2010201220102","2010-2012","Meningitis","White","Total","Female","0","0","0.2"
+"A2010201220110","2010-2012","Meningitis","White","Not Hispanic","Total",,,
+"A2010201220111","2010-2012","Meningitis","White","Not Hispanic","Male",,,
+"A2010201220112","2010-2012","Meningitis","White","Not Hispanic","Female","0","0","0.3"
+"A2010201220120","2010-2012","Meningitis","White","Hispanic","Total","0","0","0.7"
+"A2010201220121","2010-2012","Meningitis","White","Hispanic","Male","0","0","2.1"
+"A2010201220122","2010-2012","Meningitis","White","Hispanic","Female","0","0","1.2"
+"A2010201220200","2010-2012","Meningitis","Black","Total","Total","0","0","0.4"
+"A2010201220201","2010-2012","Meningitis","Black","Total","Male","0","0","1.2"
+"A2010201220202","2010-2012","Meningitis","Black","Total","Female","0","0","0.7"
+"A2010201220210","2010-2012","Meningitis","Black","Not Hispanic","Total","0","0","0.5"
+"A2010201220211","2010-2012","Meningitis","Black","Not Hispanic","Male","0","0","1.2"
+"A2010201220212","2010-2012","Meningitis","Black","Not Hispanic","Female","0","0","0.8"
+"A2010201220220","2010-2012","Meningitis","Black","Hispanic","Total","0","0","11.6"
+"A2010201220221","2010-2012","Meningitis","Black","Hispanic","Male","0","0","35.1"
+"A2010201220222","2010-2012","Meningitis","Black","Hispanic","Female","0","0","17.8"
+"A2010201220300","2010-2012","Meningitis","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201220301","2010-2012","Meningitis","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201220302","2010-2012","Meningitis","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201220310","2010-2012","Meningitis","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201220311","2010-2012","Meningitis","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201220312","2010-2012","Meningitis","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201220320","2010-2012","Meningitis","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201220321","2010-2012","Meningitis","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201220322","2010-2012","Meningitis","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201220400","2010-2012","Meningitis","Asian/Pacific Islander","Total","Total",,,
+"A2010201220401","2010-2012","Meningitis","Asian/Pacific Islander","Total","Male","0","0","1.1"
+"A2010201220402","2010-2012","Meningitis","Asian/Pacific Islander","Total","Female",,,
+"A2010201220410","2010-2012","Meningitis","Asian/Pacific Islander","Not Hispanic","Total",,,
+"A2010201220411","2010-2012","Meningitis","Asian/Pacific Islander","Not Hispanic","Male","0","0","1.2"
+"A2010201220412","2010-2012","Meningitis","Asian/Pacific Islander","Not Hispanic","Female",,,
+"A2010201220420","2010-2012","Meningitis","Asian/Pacific Islander","Hispanic","Total","0","0","37.3"
+"A2010201220421","2010-2012","Meningitis","Asian/Pacific Islander","Hispanic","Male","0","0","144.5"
+"A2010201220422","2010-2012","Meningitis","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201221000","2010-2012","Parkinson's disease","Total","Total","Total","7.7","6.7","8.7"
+"A2010201221001","2010-2012","Parkinson's disease","Total","Total","Male","13.2","11.2","15.3"
+"A2010201221002","2010-2012","Parkinson's disease","Total","Total","Female","4.1","3.2","5"
+"A2010201221010","2010-2012","Parkinson's disease","Total","Not Hispanic","Total","8","7","9"
+"A2010201221011","2010-2012","Parkinson's disease","Total","Not Hispanic","Male","13.7","11.5","15.9"
+"A2010201221012","2010-2012","Parkinson's disease","Total","Not Hispanic","Female","4.2","3.2","5.2"
+"A2010201221020","2010-2012","Parkinson's disease","Total","Hispanic","Total",,,
+"A2010201221021","2010-2012","Parkinson's disease","Total","Hispanic","Male",,,
+"A2010201221022","2010-2012","Parkinson's disease","Total","Hispanic","Female",,,
+"A2010201221100","2010-2012","Parkinson's disease","White","Total","Total","8.7","7.5","9.9"
+"A2010201221101","2010-2012","Parkinson's disease","White","Total","Male","15.1","12.6","17.7"
+"A2010201221102","2010-2012","Parkinson's disease","White","Total","Female","4.4","3.3","5.5"
+"A2010201221110","2010-2012","Parkinson's disease","White","Not Hispanic","Total","9.2","7.9","10.4"
+"A2010201221111","2010-2012","Parkinson's disease","White","Not Hispanic","Male","15.9","13.3","18.6"
+"A2010201221112","2010-2012","Parkinson's disease","White","Not Hispanic","Female","4.6","3.4","5.8"
+"A2010201221120","2010-2012","Parkinson's disease","White","Hispanic","Total",,,
+"A2010201221121","2010-2012","Parkinson's disease","White","Hispanic","Male",,,
+"A2010201221122","2010-2012","Parkinson's disease","White","Hispanic","Female",,,
+"A2010201221200","2010-2012","Parkinson's disease","Black","Total","Total","4.6","2.3","7"
+"A2010201221201","2010-2012","Parkinson's disease","Black","Total","Male",,,
+"A2010201221202","2010-2012","Parkinson's disease","Black","Total","Female",,,
+"A2010201221210","2010-2012","Parkinson's disease","Black","Not Hispanic","Total","4.5","2.1","6.8"
+"A2010201221211","2010-2012","Parkinson's disease","Black","Not Hispanic","Male",,,
+"A2010201221212","2010-2012","Parkinson's disease","Black","Not Hispanic","Female",,,
+"A2010201221220","2010-2012","Parkinson's disease","Black","Hispanic","Total",,,
+"A2010201221221","2010-2012","Parkinson's disease","Black","Hispanic","Male","0","0","35.1"
+"A2010201221222","2010-2012","Parkinson's disease","Black","Hispanic","Female",,,
+"A2010201221300","2010-2012","Parkinson's disease","American Indian/Alaska Native","Total","Total","0","0","16.9"
+"A2010201221301","2010-2012","Parkinson's disease","American Indian/Alaska Native","Total","Male","0","0","48.7"
+"A2010201221302","2010-2012","Parkinson's disease","American Indian/Alaska Native","Total","Female","0","0","27.6"
+"A2010201221310","2010-2012","Parkinson's disease","American Indian/Alaska Native","Not Hispanic","Total","0","0","39.1"
+"A2010201221311","2010-2012","Parkinson's disease","American Indian/Alaska Native","Not Hispanic","Male","0","0","91.8"
+"A2010201221312","2010-2012","Parkinson's disease","American Indian/Alaska Native","Not Hispanic","Female","0","0","73"
+"A2010201221320","2010-2012","Parkinson's disease","American Indian/Alaska Native","Hispanic","Total","0","0","35.6"
+"A2010201221321","2010-2012","Parkinson's disease","American Indian/Alaska Native","Hispanic","Male","0","0","138.5"
+"A2010201221322","2010-2012","Parkinson's disease","American Indian/Alaska Native","Hispanic","Female","0","0","51.7"
+"A2010201221400","2010-2012","Parkinson's disease","Asian/Pacific Islander","Total","Total","4.2","1.9","6.6"
+"A2010201221401","2010-2012","Parkinson's disease","Asian/Pacific Islander","Total","Male",,,
+"A2010201221402","2010-2012","Parkinson's disease","Asian/Pacific Islander","Total","Female",,,
+"A2010201221410","2010-2012","Parkinson's disease","Asian/Pacific Islander","Not Hispanic","Total","3.9","1.7","6.2"
+"A2010201221411","2010-2012","Parkinson's disease","Asian/Pacific Islander","Not Hispanic","Male",,,
+"A2010201221412","2010-2012","Parkinson's disease","Asian/Pacific Islander","Not Hispanic","Female",,,
+"A2010201221420","2010-2012","Parkinson's disease","Asian/Pacific Islander","Hispanic","Total",,,
+"A2010201221421","2010-2012","Parkinson's disease","Asian/Pacific Islander","Hispanic","Male",,,
+"A2010201221422","2010-2012","Parkinson's disease","Asian/Pacific Islander","Hispanic","Female","0","0","58.6"
+"A2010201222000","2010-2012","Alzheimer's disease","Total","Total","Total","14.5","13.2","15.8"
+"A2010201222001","2010-2012","Alzheimer's disease","Total","Total","Male","13.4","11.4","15.5"
+"A2010201222002","2010-2012","Alzheimer's disease","Total","Total","Female","14.9","13.3","16.6"
+"A2010201222010","2010-2012","Alzheimer's disease","Total","Not Hispanic","Total","14.7","13.4","16.1"
+"A2010201222011","2010-2012","Alzheimer's disease","Total","Not Hispanic","Male","13.5","11.4","15.6"
+"A2010201222012","2010-2012","Alzheimer's disease","Total","Not Hispanic","Female","15.4","13.6","17.1"
+"A2010201222020","2010-2012","Alzheimer's disease","Total","Hispanic","Total","9.2","4.5","13.9"
+"A2010201222021","2010-2012","Alzheimer's disease","Total","Hispanic","Male",,,
+"A2010201222022","2010-2012","Alzheimer's disease","Total","Hispanic","Female",,,
+"A2010201222100","2010-2012","Alzheimer's disease","White","Total","Total","15.3","13.8","16.8"

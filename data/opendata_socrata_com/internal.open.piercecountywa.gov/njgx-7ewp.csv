@@ -1,0 +1,31 @@
+"the_geom","objectid","name","temp_rh","pressure","ground_tem","solar_rad","leaf_wetne","wind_speed","soil_moist","ws_num","url","status","date_installed","date_removed"
+"POINT (-122.435876832647 47.117275192792)","87","Spanaway Lake Golf Course","YES","YES","NO","YES","YES","YES","NO","WS016","https://www.hobolink.com/p/1b7a2353cfbe40d0cbcd84ddf37da379","Active",,
+"POINT (-122.017297034893 46.83413562166)","81","Puyallup Lookout","YES","YES","YES","YES","NO","YES","NO",,"https://www.hobolink.com/p/ef1deec92e1f84519ed7245f3e204a74","Active",,
+"POINT (-122.36534044002 47.077394130094)","98","Central Maintenance Facility","YES","YES","YES","NO","YES","YES","No",,"https://www.hobolink.com/p/acdbce2d35917dafb7540ac8972622be","Active",,
+"POINT (-122.116527777785 47.161313887894)","105","Foothills","YES","YES","NO","NO","NO","YES","NO",,"https://www.hobolink.com/p/60ec1ae98ad68fac39cfbaef27b8d67a","Active","2017-01-01T00:00:00.000Z",
+"POINT (-122.603965013344 47.172807789904)","101","Steilacoom Ferry Dock","YES","YES","NO","NO","NO","YES","NO",,"https://www.hobolink.com/p/ce3d88b408753c820efd166bca31b5a1","Active",,
+"POINT (-121.637086670106 47.145276089342)","91","Greenwater Fire Department #26","YES","YES","NO","YES","NO","YES","NO","WS014","https://www.hobolink.com/p/d56fa75f802f02e2c68ff28415172ae1","Inactive",,"2015-08-24T00:00:00.000Z"
+"POINT (-122.291764735896 47.105908364069)","94","Puyallup at Thun","YES","YES","NO","NO","NO","YES","NO","WS002","https://www.hobolink.com/p/fd70ca9cc7c2b0be740286eda9d81ae7","Active",,
+"POINT (-122.75502467077 47.209523243632)","85","Longbranch Filucy Bay","YES","YES","NO","NO","YES","YES","NO","WS011","https://www.hobolink.com/p/9f4fca7bacae447827a2c5b362169a7c","Active",,
+"POINT (-122.298005559412 47.20420341592)","90","River Improvement Building","YES","YES","YES","YES","YES","YES","YES","WS015","https://www.hobolink.com/p/de260c6959afe7790309ccb5e8fba807","Active",,
+"POINT (-122.575457499145 47.330418035032)","104","Gig Harbor","YES","YES","NO","NO","YES","YES","NO",,"https://www.hobolink.com/p/ed70dce00807a24f8245cdc9e0e4dde2","Active","2016-01-07T00:00:00.000Z",
+"POINT (-122.038376800092 46.760367269147)","92","Ashford","YES","YES","YES","YES","YES","YES","NO","WS009","https://www.hobolink.com/p/de742d33411c7a5420b5f00332edc5a1","Inactive",,"2017-11-14T00:00:00.000Z"
+"POINT (-122.333818842618 47.161203142081)","108","Woodland Pond","YES","YES","NO","NO","NO","NO","NO",,"https://www.hobolink.com/p/ef205525867966d624840a1ba8b9c5ce","Active",,
+"POINT (-122.472526297838 47.21864217512)","103","Tacoma Mall Plaza (TMP)","YES","YES","NO","NO","NO","YES","NO",,"https://www.hobolink.com/p/5c1cbbe9250aea8c11d344a90c3c5857","Active","2015-12-14T00:00:00.000Z",
+"POINT (-122.356751804979 46.947719558959)","93","Christenson Muck","YES","YES","NO","YES","YES","YES","NO","WS010","https://www.hobolink.com/p/5e3d0ca5c3a22542147448bf3a50fc06","Active",,
+"POINT (-122.449696137568 47.115039019549)","110","Enchanted Island","YES","YES","NO","NO","NO","YES","NO",,"https://www.hobolink.com/p/195cc628bac367bfad27f7d7a7aa00f2","Active",,
+"POINT (-121.960046071733 47.007671915235)","96","Burnt Ridge at Fairfax","YES","YES","NO","YES","NO","YES","NO",,"https://www.hobolink.com/p/a06687ea300862500582c729b553b8d0","Inactive",,"2017-01-01T00:00:00.000Z"
+"POINT (-122.700930867627 47.136172795168)","86","Oro Bay","YES","YES","YES","YES","YES","YES","NO","WS012","https://www.hobolink.com/p/de3ae8d02aff87b5523cf8b2e7491441","Active",,
+"POINT (-121.637086670106 47.145276089342)","102","Greenwater Fire Department #26","YES","YES","NO","NO","YES","YES","NO","WS014","https://www.hobolink.com/p/d6e003904166976951888c8627cf55de","Active",,
+"POINT (-122.767570156865 47.275606095878)","84","Home Fire Station","YES","YES","YES","NO","NO","YES","NO","WS004","https://www.hobolink.com/p/6d4322c41de3cdeaa9ed7c0717bf43d1","Active",,
+"POINT (-122.131123305034 47.15023172227)","99","East County Maintenance","YES","YES","YES","NO","YES","YES","NO",,"https://www.hobolink.com/p/f1f0bdf150b366c4d10b34a54ed2fc28","Active",,
+"POINT (-122.370673328842 47.218857823932)","109","Diamond Well 1","YES","NO","YES","NO","NO","NO","NO",,"https://www.hobolink.com/p/a9e16cefc5f097cd599f9ae90e6cb576","Active",,
+"POINT (-122.116920814955 47.16138406997)","95","South Prairie Fire Station","YES","YES","NO","NO","NO","YES","NO",,"https://www.hobolink.com/p/8bc8129ab01a5c5d91fa3ff08d5c3bfa","Inactive",,"2017-01-01T00:00:00.000Z"
+"POINT (-122.168762357515 47.240609928987)","88","Lake Tapps","YES","YES","NO","NO","NO","YES","NO","WS008","https://www.hobolink.com/p/74b09189ba5bf4fe53ef18c38cdf64ad","Active",,
+"POINT (-122.61890645363 47.378298842641)","83","Purdy","YES","YES","YES","NO","NO","YES","NO","WS006","https://www.hobolink.com/p/64772c8f4708e71015e16f9a8b0eda57","Active",,
+"POINT (-121.892614952662 47.116700172734)","97","Three Sisters","YES","YES","NO","NO","NO","YES","NO",,"https://www.hobolink.com/p/1e74e06eea9696af0a0385fe0412e569","Active",,
+"POINT (-122.442744542281 46.989994710049)","89","Roy PCSD Firing Range","YES","YES","YES","NO","NO","YES","NO","WS005","https://www.hobolink.com/p/27b886990bc69c61ff021a71e6f84de0","Active",,
+"POINT (-122.038376800092 46.760367269147)","106","Ashford 2","YES","NO","NO","NO","NO","YES","NO","WS009","https://www.hobolink.com/p/4cbebe8fdc8abc72377167a0a817ca9c","Active","2017-11-14T00:00:00.000Z",
+"POINT (-122.764603060187 47.370136829883)","82","Rocky Creek","YES","YES","YES","YES","NO","YES","YES","WS013","https://www.hobolink.com/p/a21ebf5c970839627a47e24afe5b4f82","Active",,
+"POINT (-122.143724004512 47.047601999754)","100","Spar Pole","YES","YES","NO","NO","NO","YES","NO",,"https://www.hobolink.com/p/1ea7ce53086c3f469ccf825c70876177","Active",,
+"POINT (-122.343242631776 47.204891213916)","107","Clarks Creek","YES","YES","NO","YES","YES","NO","NO",,"https://www.hobolink.com/p/de260c6959afe7790309ccb5e8fba807","Active",,

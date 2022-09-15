@@ -1,0 +1,5 @@
+"measurement_year","payer","plan_id","plan_name","measure","measure_description","age_category","gender","rate","percentile_10th","percentile_25th","percentile_50th","percentile_75th","percentile_90th","level_of_significance","membermonths","events","days"
+"2018","Commercial HMO","1000001","Statewide","Angioplasty","Angioplasty","All","Female","1.4",,,,,,,"4861507","560",
+"2018","Commercial HMO","1000001","Statewide","Angioplasty","Angioplasty","All","Male","5.5",,,,,,,"4410221","2032",
+"2018","Commercial PPO","1000001","Statewide","Angioplasty","Angioplasty","All","Female","1.4",,,,,,,"9478590","1123",
+"2018","Commercial PPO","1000001","Statewide","Angioplasty","Angioplasty","All","Male","6.2",,,,,,,"9391548","4834",

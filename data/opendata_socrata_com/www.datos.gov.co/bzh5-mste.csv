@@ -1,0 +1,1001 @@
+Codigo,Nombre,Categoria,Estado,Departamento,Municipio,Ubicación,Altitud,Fecha_instalacion,Fecha_suspension,Corriente
+52057100,RUMICHACA - AUT [52057100],Limnigráfica,Activa,Nariño,Ipiales,"(0.81378611, -77.66197778)",2582,2016-11-15,,Guaitara
+52055170,LA JOSEFINA - AUT [52055170],Climática Principal,Activa,Nariño,Contadero,"(0.93030556, -77.49119444)",2450,2005-12-10,,Guaitara
+52055220,EL PARAISO - AUT [52055220],Climática Principal,Activa,Nariño,Túquerres,"(1.07061111, -77.63688889)",3120,2004-03-01,,Guaitara
+44015070,EL PEPINO - AUT [44015070],Climática Principal,Activa,Putumayo,Mocoa,"(1.08288889, -76.66711111)",760,2005-11-11,,Guaitara
+48015040,PUERTO NARINO - AUT [48015040],Climática Principal,Activa,Amazonas,Puerto Nariño,"(-3.78030556, -70.36263889)",158,2005-07-19,,Amazonas
+44135020,CAHUINARI - AUT [44135020],Climática Principal,Suspendida,Amazonas,Santander (Araracuara),"(-1.35166667, -70.80375)",118,2006-02-04,2011-08-04,Amazonas
+44135030,CHIRIBIQUETE - AUT [44135030],Climática Principal,Suspendida,Caquetá,Solano,"(-0.07416667, -72.45138889)",256,2006-02-04,2011-07-29,Amazonas
+52055150,CERRO PARAMO  - AUT [52055150],Climática Principal,Activa,Nariño,Puerres,"(0.84311111, -77.38880556)",3585,2005-12-08 19:00,,0
+44037040,EL ROSARIO - AUT [44037040],Limnigráfica,Activa,Caquetá,Florencia (Caquetá),"(1.72525, -75.66638889)",600,1964-08-15,,CarañO
+52077020,LOS NORTES - AUT [52077020],Limnigráfica,Activa,Nariño,Cumbitara,"(1.74111111, -77.53111111)",340,1984-09-15,,Patia
+51039010,TUMACO - AUT [51039010],Mareográfica,Activa,Nariño,Tumaco,"(1.81930556, -78.73027778)",0,1951-09-15,,Pacifico
+21017050,PITALITO 2 - AUT [21017050],Limnigráfica,Activa,Huila,Pitalito,"(1.84883333, -76.05244444)",1250,1972-05-15,,Guarapas
+51025060,BIOTOPO - AUT [51025060],Climática Principal,Activa,Nariño,Barbacoas,"(1.40863889, -78.28161111)",512,2005-12-12,,Guarapas
+51025090,GRANJA EL MIRA - - AUT [51025090],Climática Principal,Activa,Nariño,Tumaco,"(1.55019444, -78.69558333)",16,2016-08-01,,0
+52077010,PUENTE PUSMEO - AUT [52077010],Limnigráfica,Activa,Nariño,Cumbitara,"(1.62405556, -77.47891667)",380,1965-09-15,,Patia
+51027060,SAN JUAN MIRA - AUT [51027060],Limnigráfica,Activa,Nariño,Tumaco,"(1.42388889, -78.67027778)",2,1980-12-15,,Mira
+44037060,FLORENCIA-HACHA [44037060],Limnigráfica,Activa,Caquetá,Florencia (Caquetá),"(1.62116667, -75.61922222)",270,1971-02-15,,Hacha
+51020011,Piedrancha - - AUT [51020011],Pluviográfica,Activa,Nariño,Mallama (Piedrancha),"(1.14152778, -77.92897222)",1830,2016-07-01,,Hacha
+44015060,ACUEDUCTO MOCOA - AUT [44015060],Climática Principal,Activa,Putumayo,Mocoa,"(1.15733333, -76.65183333)",650,2006-03-29,,Hacha
+52055210,BOTANA - AUT [52055210],Climática Principal,Activa,Nariño,Pasto,"(1.16, -77.27880556)",2820,2004-03-01,,Hacha
+51025070,RICAURTE - AUT [51025070],Climática Principal,Suspendida,Nariño,Ricaurte (Nariño),"(1.21533333, -77.99691667)",1210,2005-12-15,2006-08-25,Hacha
+26015030,PNN PURACE - AUT [26015030],Climática Principal,Activa,Cauca,Puracé (Coconuco),"(2.35684889, -76.40354389)",368,2007-09-26,,Vaupes
+52035040,VIENTO LIBRE - AUT [52035040],Climática Ordinaria,Activa,Nariño,Taminango,"(1.62, -77.34)",1400,2004-03-01,,0
+26015010,EL TABLAZO - AUT [26015010],Climática Principal,Activa,Cauca,Popayán,"(2.47483306, -76.58129361)",1837,2005-06-28,,Vaupes
+21017020,SAN AGUSTIN - AUT [21017020],Limnigráfica,Activa,Huila,San Agustín,"(1.87027778, -76.23161111)",1233,1971-04-15,,Sombrerillos
+21015050,PURACE  - AUT [21015050],Climática Principal,Activa,Huila,San Agustín,"(1.92591667, -76.42755556)",1900,2005-07-17,,Sombrerillos
+21015040,LA PRIMAVERA - AUT [21015040],Climática Principal,Activa,Huila,Saladoblanco,"(2.02158333, -76.11433333)",1919,2005-07-28,,Sombrerillos
+52015050,BALBOA - AUT [52015050],Climática Principal,Activa,Cauca,Balboa (Cauca),"(2.03277778, -77.22166667)",1700,2005-09-27,,Suaza
+52025090,LA SIERRA - AUT [52025090],Climática Principal,Activa,Cauca,La Sierra,"(2.19383333, -76.75033333)",1870,2005-09-23,,Suaza
+21015060,MARENGO  - AUT [21015060],Agrometeorológica,Activa,Huila,Pitalito,"(2.22111111, -76.11888889)",1550,2005-07-23,,Suaza
+46015030,SAN VICENTE DEL CAGUAN  - AUT [46015030],Climática Principal,Activa,Caquetá,San Vicente Del Caguán,"(2.063, -74.76269444)",300,2008-09-29 19:00,,0
+21047010,PUENTE BALSEADERO [21047010],Limnigráfica,Suspendida,Huila,Agrado,"(2.23236111, -75.64855556)",688,1971-09-05,2018-06-14 14:52,Magdalena
+53075020,EL DIVISO - AUT [53075020],Climática Principal,Activa,Cauca,Argelia (Cauca),"(2.31141667, -77.25877778)",1750,2005-09-29,,Magdalena
+26035090,LA LAGUNA DE CAJIBIO [26035090],Climática Principal,Suspendida,Cauca,Cajibío,"(2.699175, -76.59544444)",1872,2004-10-04,2016-01-06,Magdalena
+21057100,TALAGA TOEZ - AUT [21057100],Limnigráfica,Suspendida,Cauca,Páez (Belalcázar),"(2.70555556, -76.02219444)",1900,1991-09-01,2007-04-26,Paez
+52045080,UNIVERSIDAD DE NARINO  - AUT [52045080],Climática Ordinaria,Activa,Nariño,Pasto,"(1.23, -77.28)",2626,2004-04-13,,0
+21115170,LA PLATA - AUT [21115170],Climática Principal,Activa,Huila,Neiva,"(2.75913889, -75.07455556)",2101,2005-07-20,,Paez
+21097070,PUENTE SANTANDER [21097070],Limnigráfica,Activa,Huila,Neiva,"(2.94261111, -75.30852778)",431,1960-09-15,,Magdalena
+57025020,GORGONA GUAPI [57025020],Climática Principal,Activa,Cauca,Guapi,"(2.96294444, -78.17436111)",10,2005-09-18,,Magdalena
+22025040,EL DIABLO - AUT [22025040],Climática Principal,Activa,Cauca,Páez (Belalcázar),"(2.97772222, -76.06383333)",495,2005-05-31,,Quebrada Don Abad
+53077010,ANGOSTURA RIO MICAY [53077010],Limnigráfica,Activa,Cauca,López,"(2.80122222, -77.24102778)",120,1960-03-15,,Micay
+21117100,PUEBLO NUEVO - AUT [21117100],Limnigráfica,Activa,Huila,Neiva,"(2.82744444, -75.08883333)",1280,1983-06-15,,Ceibas
+48017050,BOCATOMA YAGUARCACA [48017050],Limnimétrica,Suspendida,Amazonas,Leticia,"(-4.19047222, -69.95027778)",83,1989-12-15,2014-01-14,Quebrada Yahuarcaca
+25027980,UNION LA [25027980],Limnigráfica,Suspendida,Bolívar,Pinillos,"(8.7, -74.31666667)",23,1976-10-15,1976-11-15,Cga. La Iguana
+25027640,TRES CRUCES [25027640],Limnimétrica,Activa,Bolívar,Achí,"(8.70308333, -74.51730556)",31,1974-09-15,,Cauca
+25020030,GUACAMAYO [25020030],Pluviométrica,Activa,Bolívar,Achí,"(8.72722222, -74.51222222)",30,1966-07-15,,Cauca
+25028210,CNO VIDE [25028210],Limnimétrica,Suspendida,Bolívar,Pinillos,"(8.78333333, -74.33333333)",21,1974-09-15,1981-07-15,Cno Vide
+25027400,ALTO DEL ROSARIO [25027400],Limnimétrica,Activa,Bolívar,Altos Del Rosario,"(8.79444444, -74.16027778)",24,1973-07-15,,Cno Las Palomas
+25028220,NO TE PASES HACIENDA [25028220],Limnimétrica,Suspendida,Bolívar,Pinillos,"(8.8, -74.33333333)",21,1978-06-15,1981-07-15,Cno Tapoa
+25028230,PUERTO CARMEN [25028230],Limnimétrica,Suspendida,Bolívar,Pinillos,"(8.81666667, -74.31666667)",22,1976-06-15,1981-07-15,Cno Tapoa
+25027390,PALOMAS LAS [25027390],Limnimétrica,Activa,Bolívar,Altos Del Rosario,"(8.83055556, -74.17055556)",24,1973-07-15,,Magdalena
+25028240,NUEVO HORIZONTE [25028240],Limnimétrica,Suspendida,Bolívar,Pinillos,"(8.86666667, -74.35)",21,1979-09-15,1981-07-15,Bzo De Loba
+25027990,CONTENTO EL [25027990],Limnimétrica,Suspendida,Bolívar,Pinillos,"(8.88333333, -74.45)",20,1974-09-15,1981-07-15,Bzo De Tapoa
+25028410,MANTEQUERA [25028410],Limnimétrica,Suspendida,Bolívar,Pinillos,"(8.88333333, -74.45)",20,1974-09-15,1981-07-15,Cga. Mantequera
+25020410,CANDELARIA LA [25020410],Pluviométrica,Activa,Bolívar,San Jacinto Del Cauca,"(8.21944444, -74.72875)",28,1966-07-15,,Vaupes
+25027280,CANDELARIA LA [25027280],Limnimétrica,Suspendida,Bolívar,San Jacinto Del Cauca,"(8.23333333, -74.71666667)",22,1966-11-15,1969-05-15,Cauca
+25028350,MANCHA LA [25028350],Limnimétrica,Suspendida,Bolívar,San Jacinto Del Cauca,"(8.26666667, -74.58333333)",30,1979-09-15,1999-07-15,Cno Rompedero
+13090030,BERRUGAS [13090030],Pluviométrica,Activa,Sucre,San Onofre,"(9.91027778, -75.60055556)",1,1974-04-15,,Cno Rompedero
+25027880,GALINDO [25027880],Limnimétrica,Suspendida,Bolívar,San Jacinto Del Cauca,"(8.3, -74.58333333)",33,1975-04-15,2002-05-15,Cauca
+25025230,MONTECRISANTO [25025230],Climática Ordinaria,Suspendida,Bolívar,Montecristo,"(8.3, -74.48333333)",100,1974-08-15,2004-11-15,Cauca
+25020450,MONTECRISANTO [25020440],Pluviométrica,Suspendida,Bolívar,Montecristo,"(8.3, -74.43333333)",80,1966-07-15,1974-10-15,Cauca
+48017010,LETICIA [48017010],Limnigráfica,Activa,Amazonas,Leticia,"(-4.22252778, -69.94272222)",120,1986-05-15,,Amazonas
+25020800,BUENAVISTA [25020800],Pluviométrica,Activa,Bolívar,Achí,"(8.57305556, -74.52972222)",10,1974-04-14 19:00,,0
+24035380,NEVADO DEL COCUY - AUT [24035380],Climática Principal,Activa,Boyacá,Guicán,"(6.50911111, -72.31416667)",4676,2005-11-18 19:00,,0
+24037001,"LA PLAYA, CARDENILLO [24037001]",Limnigráfica,Activa,Boyacá,Guicán,"(6.49955556, -72.37613889)",3742,2013-10-23 19:00,,Rio Cardenillo
+21057030,PUENTE RICAURTE - AUT [21057030],Limnigráfica,Activa,Cauca,Páez (Belalcázar),"(2.52291667, -75.96158333)",1140,1971-06-15,,Paez
+21055070,INZA - AUT [21055070],Climática Principal,Activa,Cauca,Inzá,"(2.54819444, -76.06394444)",1800,2005-11-11,,Paez
+53045040,AEROPUERTO GUAPI - AUT [53045040],Climática Principal,Activa,Cauca,Guapi,"(2.57441667, -77.89475)",42,2004-03-01,,Paez
+21087080,HACIENDA VENECIA - AUT [21087080],Limnigráfica,Activa,Huila,Yaguará,"(2.64380556, -75.54430556)",575,1983-06-15,,Yaguara
+21115180,HACIENDA MANILA - AUT [21115180],Agrometeorológica,Activa,Huila,Baraya,"(3.13305556, -75.08152778)",600,2005-06-15,,Yaguara
+26075120,LA DIANA - AUT [26075120],Climática Principal,Activa,Valle del Cauca,Florida,"(3.31405556, -76.18569444)",1615,2005-06-26,,Yaguara
+26055100,FARALLONES - AUT [26055100],Climática Principal,Activa,Valle del Cauca,Cali,"(3.41605556, -76.6515)",227,2005-06-28,,Yaguara
+26055110,LA INDEPENDENCIA - AUT [26055110],Agrometeorológica,Activa,Valle del Cauca,Jamundí,"(3.18536111, -76.56930556)",14,2005-06-27 19:00,,0
+26135320,NEVADO SANTA ISABEL  - AUT [26135320],Climática Principal,Activa,Caldas,Villamaria,"(4.80261111, -75.38047222)",4757,2005-10-16 19:00,,0
+26055120,UNIVERSIDAD DEL VALLE  - AUT [26055120],Climática Principal,Activa,Valle del Cauca,Cali,"(3.378, -76.53388889)",996,2006-11-25 19:00,,0
+26085160,SILOE - AUT [26085160],Climática Principal,Activa,Valle del Cauca,Cali,"(3.4255, -76.56061111)",1238,2005-06-28,,Yaguara
+54077210,JUANCHACO - AUT [54077210],Mareográfica,Activa,Valle del Cauca,Buenaventura,"(3.92514722, -77.34900556)",18,2005-06-23,,Oceano Pacifico
+21185090,NATAIMA - AUT [21185090],Agrometeorológica,Activa,Tolima,Espinal,"(4.18813889, -74.96047222)",393,2005-10-16,,Cuinde
+21195170,PAQUILO - AUT [21195170],Climática Principal,Activa,Cundinamarca,Cabrera (Cundinamarca),"(3.99361111, -74.39805556)",2957,2005-07-23,,Cuinde
+21167090,HACIENDA EL RUBY - AUT [21167090],Limnigráfica,Activa,Tolima,Cunday,"(4.01105556, -74.71902778)",450,1991-08-15,,Cunday
+22075050,PARAMO DE YERBABUENA  - AUT [22075050],Climática Principal,Activa,Tolima,Roncesvalles,"(4.07580556, -75.70083333)",3394,2007-09-29 19:00,,0
+35017020,PUENTE LLERAS - AUT [35017020],Limnigráfica,Activa,Meta,Puerto López,"(4.10301944, -72.93638333)",177,1972-03-15,,Meta
+21167080,LA MORA - AUT [21167080],Limnigráfica,Activa,Tolima,Prado,"(3.72519444, -74.82644444)",464,1990-10-15,,Negro
+26095320,EL VINCULO - AUT [26095320],Agrometeorológica,Activa,Valle del Cauca,Buga,"(3.83480556, -76.30000556)",98,2005-06-24,,Negro
+21137010,PURIFICACION - AUT [21137010],Limnigráfica,Activa,Tolima,Purificación,"(3.84952778, -74.93577778)",306,1959-11-15,,Magdalena
+21137050,RIO ANGOSTURA  - AUT [21137050],Limnigráfica,Activa,Tolima,Natagaima,"(3.44319444, -75.11880556)",345,1975-01-14 19:00,,Magdalena
+26085170,BASE AEREA MARCO FIDEL SUAREZ  - AUT [26085170],Climática Principal,Activa,Valle del Cauca,Cali,"(3.4545, -76.49972222)",975,2006-11-22 19:00,,0
+26105240,EL PLACER - AUT [26105240],Climática Principal,Activa,Valle del Cauca,Buga,"(3.87911111, -76.10055556)",22,2005-06-30,,Magdalena
+21215190,CAJAMARCA - AUT [21215190],Climática Principal,Activa,Tolima,Cajamarca,"(4.43566667, -75.50036111)",2530,2005-12-10,,Saldana
+21217180,MONTEZUMA [21217180],Limnigráfica,Activa,Tolima,Ibagué,"(4.48205556, -75.28605556)",1450,1973-12-15,,Combeima
+23125170,SAN CAYETANO - AUT [23125170],Climática Principal,Activa,Cundinamarca,San Cayetano (Cundinamarca),"(5.33333333, -74.01666667)",2807,2004-12-01,,0
+21195190,PASCA - AUT [21195190],Agrometeorológica,Activa,Cundinamarca,Pasca,"(4.31011111, -74.31175)",2256,2005-08-26,,Guatiquia
+21206920,VILLA TERESA - AUT [21206920],Climática Principal,Activa,Bogotá,"Bogota, D.C","(4.35, -74.15)",3624,2005-07-19,,Guatiquia
+21237010,NARINO - AUT [21237010],Limnigráfica,Activa,Cundinamarca,Nariño (Cundinamarca),"(4.38777778, -74.838375)",277,1977-08-15,,Magdalena
+31095030,PUERTO INIRIDA - AUT [31095030],Agrometeorológica,Activa,Guainía,Inírida,"(3.87441667, -67.91905556)",100,2003-03-26 19:00,,0
+21195160,SUBIA - AUT [21195160],Climática Principal,Suspendida,Cundinamarca,Silvania,"(4.47661111, -74.38388889)",275,2004-09-27 19:00,2019-05-03 9:58,0
+22057010,PIEDRAS DE COBRE  - AUT [22057010],Limnigráfica,Activa,Tolima,Saldaña,"(3.90838889, -75.10327778)",3452,1959-09-14 19:00,,Saldana
+53119010,BUENAVENTURA IDEAM  - AUT [53119010],Mareográfica,Activa,Valle del Cauca,Buenaventura,"(3.890175, -77.06190833)",40,1941-05-14 19:00,,Pacifico
+21235030,UNIVERSIDAD DE CUNDINAMARCA - AUT [21235030],Climática Principal,Activa,Cundinamarca,Girardot,"(4.30533333, -74.80811111)",309,2004-09-29 19:00,,0
+21215160,CERROS NOROCCIDENTALES  - AUT [21215160],Climática Principal,Activa,Tolima,Ibagué,"(4.47036111, -75.24386111)",1946,2005-10-17 19:00,,0
+21215170,LA MARTINICA - AUT [21215170],Climática Principal,Suspendida,Tolima,Ibagué,"(4.402, -75.22905556)",1780,2005-12-10,2014-08-28,Magdalena
+26127010,EL ALAMBRADO [26127010],Limnigráfica,Activa,Valle del Cauca,Caicedonia,"(4.41025, -75.87538889)",151,1953-01-15,,La Vieja
+26105250,ZARAGOZA - AUT [26105250],Agrometeorológica,Activa,Valle del Cauca,Cartago,"(4.68977778, -75.92519444)",943,2005-06-30,,La Vieja
+26127040,CARTAGO [26127040],Limnigráfica,Activa,RIsaralda,Pereira,"(4.75761111, -75.89925)",937,1945-01-15,,La Vieja
+21255160,HACIENDA PAJONALES [21255160],Agrometeorológica,Activa,Tolima,Ambalema,"(4.76072222, -74.83425)",277,2005-10-18,,La Vieja
+26135300,PNN QUIMBAYA - AUT [26135300],Agrometeorológica,Activa,RIsaralda,Pereira,"(4.76191667, -75.74491667)",1881,2004-07-14,,La Vieja
+26115090,LAS BRISAS - AUT [26115090],Climática Principal,Activa,Valle del Cauca,Ansermanuevo,"(4.77558333, -76.14427778)",1971,2005-06-30,,La Vieja
+21206990,TIBAITATA - AUT [21206990],Agrometeorológica,Activa,Cundinamarca,Mosquera (Cundinamarca),"(4.69141667, -74.209)",2543,2004-10-27,,Meta
+26137220,EL RETEN - AUT [26137220],Limnigráfica,Activa,RIsaralda,Santa Rosa De Cabal,"(4.72819444, -75.60344444)",188,1993-11-15,,Otun
+26125300,CALARCA - AUT [26125300],Climática Principal,Activa,Quindío,Calarcá,"(4.52830556, -75.59638889)",2255,2004-10-04,,Otun
+35035130,PARAMO CHINGAZA  - AUT [35035130],Climática Principal,Activa,Cundinamarca,Guasca,"(4.71366667, -73.80325)",3863,2004-11-23 19:00,,0
+21215180,BATALLON ROOKE  - AUT [21215180],Climática Principal,Activa,Tolima,Ibagué,"(4.41838889, -75.24866667)",1323,2005-12-09 19:00,,0
+21206980,SANTA CRUZ DE SIECHA  - AUT [21206980],Agrometeorológica,Activa,Cundinamarca,Guasca,"(4.78427778, -73.87080556)",3100,2005-11-07 19:00,,0
+21206940,CIUDAD BOLIVAR [21206940],Climática Principal,Suspendida,Bogotá,"Bogota, D.C","(4.57686111, -74.17677778)",2687,2005-05-19,2018-08-24 10:27,0
+35025080,PNN CHINGAZA - AUT [35025080],Climática Principal,Activa,Cundinamarca,La Calera,"(4.661, -73.82733333)",3205,2007-12-06,,Otun
+26155280,NEV SANTA ISABEL [26155280],Climática Principal,Activa,Caldas,Villamaria,"(4.81758333, -75.37405556)",4685,2010-04-23,,Lagunilla
+35085070,SANTA MARIA - AUT [35085070],Climática Principal,Activa,Boyacá,Santa María (Boyacá),"(4.84125, -73.25669444)",1300,2005-03-10,,Lagunilla
+26135310,SANTA ROSA - AUT [26135310],Climática Principal,Suspendida,RIsaralda,Santa Rosa De Cabal,"(4.84686111, -75.63563889)",1898,2005-10-23,2016-01-06,Lagunilla
+26155240,PNN NEVADOS - AUT [26155240],Climática Principal,Activa,Caldas,Villamaria,"(4.85944444, -75.38241667)",3641,2007-08-24,,Lagunilla
+21255170,MURILLO - AUT [21255170],Climática Principal,Activa,Tolima,Murillo,"(4.87055556, -75.17327778)",323,2005-10-21,,Lagunilla
+26177030,LA VIRGINIA - AUT [26177030],Limnigráfica,Activa,RIsaralda,La Virginia,"(4.8925, -75.88269444)",922,1946-10-15,,Cauca
+35225030,MODULOS - AUT [35225030],Climática Ordinaria,Activa,Casanare,Orocué,"(4.91047222, -71.43305556)",130,2016-12-15,,0
+26135290,MARSELLA - AUT [26135290],Agrometeorológica,Activa,RIsaralda,Marsella,"(4.92958333, -75.73838889)",1659,2005-06-19,,Cauca
+26125290,ARMENIA - AUT [26125290],Climática Principal,En Mantenimiento,Quindío,Armenia (Quindío),"(4.53158333, -75.69069444)",1485,2004-09-28 19:00,,0
+21206960,IDEAM BOGOTA  - AUT [21206960],Climática Principal,Activa,Bogotá,"Bogota, D.C","(4.6, -74.06666667)",2646,2005-04-10 19:00,,0
+21205012,UNIVERSIDAD NACIONAL  - AUT [21205012],Climática Principal,Activa,Bogotá,"Bogota, D.C","(4.63808333, -74.08908333)",2556,2004-08-18 19:00,,0
+21209920,SANTA ROSITA - AUT [21209920],Limnigráfica,Activa,Cundinamarca,Suesca,"(5.19225, -73.77905556)",2618,2005-05-19,,Bogota
+24015110,LA BOYERA - AUT [24015110],Climática Ordinaria,Activa,Cundinamarca,Ubaté,"(5.30380556, -73.85175)",2610,1960-03-15,,Bogota
+35215020,AEROPUERTO YOPAL - AUT [35215020],Climática Principal,Activa,Casanare,Yopal,"(5.32044444, -72.3875)",325,2005-11-17,,Bogota
+35075080,PARAMO RABANAL - AUT [35075080],Climática Principal,Activa,Boyacá,Ventaquemada,"(5.39238889, -73.56277778)",3398,2005-03-13,,Bogota
+35237030,TRINIDAD PAUTO - AUT [35237030],Limnigráfica,Activa,Casanare,Trinidad,"(5.41438889, -71.66836111)",178,2016-12-15,,Bogota
+23017040,ESPERANZA LA [23017040],Limnigráfica,Activa,Tolima,Mariquita,"(5.20616667, -74.91372222)",550,1988-09-15,,Guali
+26145090,SANTA EMILIA - AUT [26145090],Climática Principal,Activa,RIsaralda,Belén De Umbría,"(5.20747222, -75.90294444)",1748,2005-10-21,,Guali
+35075070,CHINAVITA - AUT [35075070],Agrometeorológica,Activa,Boyacá,Chinavita,"(5.21925, -73.35038889)",212,2005-03-06,,Guali
+54017040,TADO - AUT [54017040],Limnigráfica,Activa,Chocó,Tadó,"(5.26511111, -76.56275)",95,1973-08-15,,San Juan
+35085060,ZETAQUIRA - AUT [35085060],Climática Principal,Activa,Boyacá,Zetaquirá,"(5.29494444, -73.16994444)",1436,2004-12-12,,San Juan
+23065180,VILLETA - AUT [23065180],Climática Principal,Activa,Cundinamarca,Villeta,"(5.01686111, -74.47097222)",878,2004-12-10,,San Juan
+26155220,VILLAMARIA - AUT [26155220],Climática Principal,Activa,Caldas,Villamaria,"(5.04866667, -75.51388889)",1906,2004-06-14,,San Juan
+26155210,TORRE 4 - AUT [26155210],Climática Principal,Suspendida,Caldas,Manizales,"(5.06077778, -75.35611111)",3787,2004-07-14,2010-09-29,San Juan
+26155230,EMAS - AUT [26155230],Climática Principal,Activa,Caldas,Manizales,"(5.08525, -75.50713889)",2211,2004-06-10,,San Juan
+21206790,HACIENDA SANTA ANA - AUT [21206790],Climática Principal,Activa,Cundinamarca,Nemocón,"(5.0905, -73.88125)",2572,2004-06-10,,San Juan
+35085080,LA CAPILLA - AUT [35085080],Climática Principal,Activa,Boyacá,La Capilla,"(5.09919444, -73.436)",1917,2005-03-08,,San Juan
+26145080,PARAMO TATAMA [26145080],Climática Principal,Suspendida,RIsaralda,Santuario (Risaralda),"(5.12386111, -76.061)",3814,2005-12-14,2010-09-29,San Juan
+23065190,QUEBRADA NEGRA - AUT [23065190],Climática Principal,Activa,Cundinamarca,Quebradanegra,"(5.13761111, -74.48125)",1107,2005-10-06,,Negro
+23035030,BASE PALANQUERO  - AUT [23035030],Climática Principal,Activa,Cundinamarca,Puerto Salgar,"(5.49286111, -74.658)",170,2005-11-02 19:00,,0
+35235040,TRINIDAD - AUT [35235040],Climática Ordinaria,Activa,Casanare,Trinidad,"(5.41902778, -71.66616667)",265,2016-12-15,,Atrato
+35217030,PUENTE LA CABANA [35217030],Limnigráfica,Activa,Casanare,Yopal,"(5.43794444, -72.45522222)",497,1979-12-15,,Cravo Sur
+23037010,PUERTO SALGAR - AUT [23037010],Limnigráfica,Activa,Cundinamarca,Puerto Salgar,"(5.46966667, -74.66216667)",186,1936-01-15,,Magdalena
+35160010,POTRERITO [35160010],Pluviométrica,Activa,Boyacá,Aquitania,"(5.47758333, -72.94861111)",347,2016-12-31,,Magdalena
+55015010,PIE DE PATO - AUT [55015010],Climática Principal,Activa,Chocó,Alto Baudó (Pie De Pato),"(5.52108333, -76.97316667)",40,2006-03-12,,Atrato
+23125160,SAN PABLO DE BORBUR  - AUT [23125160],Climática Principal,Activa,Boyacá,San Pablo De Borbur,"(5.64702778, -74.07130556)",742,2004-12-13 19:00,,0
+23067060,TOBIA  - AUT [23067060],Limnigráfica,Activa,Cundinamarca,Nimaima,"(5.12530556, -74.44705556)",620,1986-12-14 19:00,,Negro
+11027070,BORAUDO - AUT [11027070],Limnigráfica,Activa,Chocó,Lloró,"(5.51461111, -76.57569444)",78,2005-04-14 19:00,,Atrato
+35195060,TOQUILLA - AUT [35195060],Climática Ordinaria,Activa,Boyacá,Aquitania,"(5.52361111, -72.79097222)",2950,2016-12-15,,Atrato
+35217060,PLAYON EL [35217060],Limnigráfica,Activa,Casanare,Nunchía,"(5.5405, -72.23172222)",271,2016-12-15,,Tocaria
+35095120,AQUITANIA - AUT [35095120],Climática Principal,Activa,Boyacá,Aquitania,"(5.55663889, -72.88175)",321,2004-12-06,,Tocaria
+35165000,EL TUNEL [35165000],Climática Ordinaria,Activa,Boyacá,Cuítiva,"(5.57497222, -72.941)",30,2016-12-31,,Tocaria
+35167010,HATO LAGUNA - AUT [35167010],Limnigráfica,Activa,Boyacá,Aquitania,"(5.58444444, -72.90008333)",3020,2016-12-31,,Las Cintas
+35160020,LLANO ALARCON [35160020],Pluviométrica,Activa,Boyacá,Cuítiva,"(5.59972222, -72.91347222)",339,2016-12-31,,Quito
+35160000,LAS CINTAS [35160000],Pluviométrica,Activa,Boyacá,Sogamoso,"(5.61427778, -72.86747222)",3400,2016-12-31,,Quito
+24035360,SOCHA - AUT [24035360],Climática Principal,Activa,Boyacá,Socha,"(5.98541667, -72.99702778)",2503,2004-12-10,,Cauca
+35215030,Pisba - Aut [35215030],Climática Ordinaria,Activa,Boyacá,Pisva,"(5.72055556, -72.48847222)",1482,2016-12-15,,Cauca
+23057140,SAN MIGUEL - AUT [23057140],Limnigráfica,Activa,Antioquia,Sonsón,"(5.73102778, -74.72583333)",176,1974-08-15,,La Miel
+26187040,QUITASUENO  - AUT [26187040],Limnigráfica,Activa,Caldas,Aguadas,"(5.72113889, -75.55258333)",560,2014-03-09 19:00,,Arma
+26185050,SANTA BARBARA - AUT [26185050],Climática Principal,Activa,Antioquia,Santa Bárbara (Antioquia),"(5.85958333, -75.55627778)",1680,2004-11-29 19:00,,0
+24035430,TUNGUAVITA - AUT [24035430],Agrometeorológica,Activa,Boyacá,Paipa,"(5.74591667, -73.11636111)",2470,2004-12-15,,La Miel
+24035410,SOGAMOSO - AUT [24035410],Meteorológica Especial,Activa,Boyacá,Sogamoso,"(5.75333333, -72.91115278)",2495,2007-12-06,,La Miel
+26185030,JERICO - AUT [26185030],Climática Principal,Suspendida,Antioquia,Jericó (Antioquia),"(5.79916667, -75.78952778)",2313,2004-11-28,2016-01-06,La Miel
+36015020,EL DIAMANTE - AUT [36015020],Climática Principal,Activa,Casanare,Paz De Ariporo,"(5.81619444, -71.41983333)",160,2005-11-19,,La Miel
+24025090,MOGOTES - AUT [24025090],Agrometeorológica,Activa,Santander,Mogotes,"(6.47, -72.96888889)",1673,2004-10-25,,La Miel
+26207080,BOLOMBOLO [26207080],Limnigráfica,Activa,Antioquia,Venecia (Antioquia),"(5.97, -75.84)",1750,1971-10-15,,Cauca
+23097030,PUERTO BERRIO - AUT [23097030],Limnigráfica,Activa,Antioquia,Puerto Berrío,"(6.48513889, -74.40116667)",111,1936-01-15,,Magdalena
+24035370,EL ESPINO - AUT [24035370],Climática Principal,Activa,Boyacá,El Espino,"(6.50672222, -72.45266667)",3510,2005-11-19,,Magdalena
+23127020,PUERTO ARAUJO - AUT [23127020],Limnigráfica,Activa,Santander,Cimitarra,"(6.52555556, -74.08583333)",92,1965-10-15,,Carare
+27015300,VILLANUEVA VILLAHERMOSA [27015300],Climática Principal,Suspendida,Antioquia,Medellín,"(6.25327778, -75.55)",1591,2005-09-08,2016-01-06,Carare
+56019010,BAHIA SOLANO - AUT [56019010],Mareográfica,Suspendida,Chocó,Bahía Solano (Mutis),"(6.26863889, -77.43316667)",21,2005-11-24,2008-11-20,Oceano Pacifico
+23087210,CANTERAS - AUT [23087210],Limnigráfica,Activa,Antioquia,Puerto Nare,"(6.27608333, -74.67330556)",1274,1973-07-15,,Nare
+27015290,PAJARITO - AUT [27015290],Climática Principal,Suspendida,Antioquia,Medellín,"(6.28633333, -75.61279167)",1952,2005-11-17,2016-01-06,Nare
+35025110,LA LIBERTAD - AUT [35025110],Agrometeorológica,Activa,Meta,Villavicencio,"(4.05736111, -73.46791667)",336,2007-03-24 19:00,,0
+23195190,SAN ANTONIO SANTANDER [23195190],Climática Principal,Suspendida,Santander,Floridablanca,"(7.09952778, -73.06619444)",1480,1991-01-15,1991-01-15,Magdalena
+23117030,EL TAGUAL - AUT [23117030],Limnigráfica,Suspendida,Santander,Cimitarra,"(6.73305556, -74.15975)",105,2005-08-19,2018-07-13 12:15,Tachira
+16027300,PUENTE CAPIRA - AUT [16027300],Limnigráfica,Activa,Norte de Santander,Cucutilla,"(7.53719444, -72.77113889)",1320,2004-11-15,,Zulia
+23105070,MACEO - AUT [23105070],Climática Principal,Activa,Antioquia,Yolombó,"(6.57163889, -74.79472222)",980,2005-06-17 19:00,,0
+23195230,NEOMUNDO,Climática Principal,Suspendida,Santander,Bucaramanga,"(7.09999722, -73.11)",970,2005-08-17,2020-02-28 13:05,0
+27015280,PARAMO BELMIRA - AUT [27015280],Climática Principal,Activa,Antioquia,Entrerrios,"(6.63202778, -75.64444444)",3221,2004-11-22 19:00,,0
+24035390,PARAMO ALMORZADERO  - AUT [24035390],Climática Principal,Activa,Santander,Cerrito,"(6.94538889, -72.69633333)",3600,2004-10-24 19:00,,0
+24055070,SAN  VICENTE DE CHUCURI  - AUT [24055070],Agrometeorológica,Activa,Santander,San Vicente De Chucurí,"(6.82338889, -73.47205556)",173,2004-10-24 19:00,,0
+24055080,VIZCAINA LA LIZAMA  - AUT [24055080],Agrometeorológica,Activa,Santander,Barrancabermeja,"(6.98297222, -73.70488889)",114,2004-10-24 19:00,,0
+37057020,ALCARAVAN  AUT [37057020],Limnigráfica,Activa,Arauca,Arauquita,"(7.035, -71.41638889)",162,1997-11-14 19:00,,Arauca
+3206500045,GRANADA SENA - AUT   [3206500045],Climática Principal,Activa,Meta,Granada (Meta),"(3.51633333, -73.73973333)",316,2017-12-27 19:00,,0
+37015030,BERLIN - AUT [37015030],Climática Principal,Activa,Santander,Tona,"(7.187, -72.8685)",3316,2008-08-21,,Zulia
+25017010,MONTELIBANO - AUT [25017010],Limnigráfica,Activa,Córdoba,Montelíbano,"(7.98797222, -75.41733333)",40,1973-04-15,,San Jorge
+23195240,AGUACHICA - AUT [23195240],Agrometeorológica,Activa,Cesar,Aguachica,"(8.12341667, -73.57986111)",103,2005-08-19,,Cauca
+13037040,CARRIZOLA - AUT [13037040],Limnimétrica,Activa,Córdoba,Tierralta,"(8.16083333, -76.09555556)",55,1990-06-15,,Sinu
+27037010,LA ESPERANZA NECHI [27037010],Limnigráfica,Activa,Antioquia,Nechí,"(8.03, -74.79)",33,1975-03-09,,Nechi
+27037030,SAN JUAN NECHI - AUT [27037030],Limnigráfica,Activa,Antioquia,Zaragoza,"(7.475, -74.92083333)",180,1976-05-14 19:00,,Nechi
+23207040,SAN PABLO RIO MAGDALENA  - AUT [23207040],Limnigráfica,Activa,Bolívar,San Pablo (Bolívar),"(7.48033333, -73.91855556)",62,1977-07-14 19:00,,Magdalena
+16015120,UNIVERSIDAD DE PAMPLONA  - AUT [16015120],Agrometeorológica,Activa,Norte de Santander,Pamplona,"(7.36094444, -72.66605556)",2362,2004-10-12 19:00,,0
+16057030,LA CABANA - AUT [16057030],Limnigráfica,Activa,Norte de Santander,Ocaña,"(8.19780556, -73.31825)",1220,1971-10-14 19:00,,Algodonal
+16017020,LA DONJUANA - AUT [16017020],Limnigráfica,Activa,Norte de Santander,Chinácota,"(7.68797222, -72.60547222)",730,1972-08-15,,Pamplonita
+16017030,LA UCHEMA - AUT [16017030],Limnigráfica,Suspendida,Norte de Santander,Villa Del Rosario,"(7.69422222, -72.474)",520,1981-10-15,2018-07-13 12:08,Tachira
+29045150,SAIZA - AUT [29045150],Climática Principal,Suspendida,Córdoba,Tierralta,"(7.74602778, -76.4325)",287,2002-11-15,2010-08-10,Tachira
+16057090,TERMOTASAJERO [16057090],Limnigráfica,Suspendida,Norte de Santander,Durania,"(7.83333333, -72.63333333)",255,2004-10-15,2008-05-23,Zulia
+25017020,SAN PEDRO - AUT [25017020],Limnigráfica,Activa,Córdoba,Puerto Libertador,"(7.85388889, -75.70972222)",50,1989-05-15,,San Pedro
+35071001,TEATINO  - AUT  [35071001],Limnigráfica,Activa,Boyacá,Samacá,"(5.42155556, -73.54019444)",2288,,,Teatinos
+25027020,EL BANCO - AUT [25027020],Limnigráfica,Activa,Magdalena,El Banco,"(8.99252778, -73.96944444)",29,1934-01-15,,Magdalena
+29065130,LA GRAN VIA - AUT [29065130],Agrometeorológica,Activa,Magdalena,Zona Bananera,"(10.85, -74.13333333)",30,2008-10-01,,Magdalena
+15067020,CERCADO EL-AUTOMAT [15067020],Limnigráfica,Activa,La Guajira,Fonseca,"(10.9075, -73.00833333)",335,2004-09-04,,Rancheria
+25025360,AEROPUERTO LAS FLORES  - AUT [25025360],Climática Principal,Activa,Magdalena,El Banco,"(9.04633333, -73.97083333)",34,2013-05-04 19:00,,0
+25020470,CHINU - AUT [25020470],Pluviométrica,Activa,Córdoba,Chinú,"(9.11777778, -75.39333333)",125,2014-12-11,,Suarez
+28035070,GUATAPURI - AUT [28035070],Climática Principal,Suspendida,Cesar,Valledupar,"(10.73213889, -73.39241667)",1315,2006-02-25 19:00,2018-11-06 5:25,0
+25025380,SAN BENITO - AUT [25025380],Meteorológica Especial,Activa,Sucre,San Benito Abad,"(9.16388889, -75.04472222)",20,2014-11-14,,Suarez
+15067050,CUESTECITAS - AUT [15067050],Limnigráfica,Activa,La Guajira,Albania (La guajira),"(11.18033333, -72.55344444)",76,1958-03-15,,Rancheria
+13085050,LORICA  ITA - AUT [13085050],Climática Principal,Suspendida,Córdoba,Lorica,"(9.25272222, -75.84441667)",30,2005-05-13,2010-10-02,Barroblanco
+15065190,MONGUI - AUT [15065190],Climática Principal,Activa,La Guajira,Riohacha,"(11.22677778, -72.82063889)",60,2011-11-22,,Barroblanco
+25025002,LOS ALAMOS - AUT [25025002],Climática Principal,Activa,Magdalena,San Sebastián De Buenavista,"(9.30405556, -74.27363889)",25,2013-05-05,,Manzanares
+25025350,PUERTA ROJA - AUT [25025350],Climática Principal,Activa,Sucre,Sincelejo,"(9.31638889, -75.3875)",160,2004-08-23,,Manzanares
+13095010,COVENAS - AUT [13095010],Meteorológica Especial,Suspendida,Sucre,Tolú,"(9.38333333, -75.66666667)",1,1980-02-15,1992-04-15,Manzanares
+15075150,PAICI - AUT [15075150],Agrometeorológica,Activa,La Guajira,Uribia,"(11.59494444, -72.32575)",45,2004-10-14,,Manzanares
+15085050,TOROMANA - AUT [15085050],Climática Principal,Activa,La Guajira,Uribia,"(12.08352778, -71.21094444)",144,2005-04-18,,Manzanares
+25025280,EL TESORO IDEAM  - AUT [25025280],Agrometeorológica,Activa,Sucre,Morroa,"(9.35708333, -75.28925)",168,2004-12-01 19:00,,0
+15015120,UNIVERSIDAD TECNOLOGICA  - AUT [15015120],Climática Principal,Activa,Magdalena,Santa Marta,"(11.22305556, -74.18591667)",7,2007-09-12 19:00,,0
+25027450,PLATO MAGDALENA [25027450],Limnimétrica,Activa,Magdalena,Plato,"(9.78777778, -74.80583333)",16,1964-08-15,,Magdalena
+17019010,SAN ANDRES - AUT [17019010],Mareográfica,Activa,"Archipiélago de San Andres, Providencia y Santa Catalina","San Andrés (Archipiélago de San Andrés, Providencia y Santa Catalina)","(12.55611111, -81.70338889)",1,1996-12-15,,Mar Caribe
+25025000,EL DIFICIL - AUT [25025000],Climática Principal,Activa,Magdalena,Ariguaní (El Dificil),"(9.91197222, -74.08580556)",120,2013-05-05,,Vaupes
+23217080,GAMARRA - AUT [23217080],Limnigráfica,Activa,Cesar,Gamarra,"(8.28428611, -73.75338889)",40,2011-12-12,,Magdalena
+25025030,AYAPEL - AUT [25025030],Meteorológica Especial,Activa,Córdoba,Ayapel,"(8.29506389, -75.16455556)",20,2014-12-11,,Magdalena
+25027760,BEIRUT - AUT [25027760],Limnigráfica,Activa,Córdoba,Ayapel,"(8.30222222, -75.13388889)",26,2014-11-13,,Cga. De Ayapel
+29015000,EL GUAMO - AUT [29015000],Climática Ordinaria,Activa,Bolívar,El Guamo,"(10.06444444, -74.85222222)",75,2004-03-23,,Cga. De Ayapel
+29037080,GAMBOTE CANAL DEL [29037080],Limnigráfica,Activa,Bolívar,Arjona,"(10.16222222, -75.29861111)",4,2012-04-27,,Canal Del Dique
+28025120,SERRANIA DEL PERIJA  - AUT [28025120],Climática Principal,Activa,Cesar,Agustín Codazzi,"(10.02908333, -73.04619444)",2256,2006-12-19 19:00,,0
+29035200,REPELON - AUT [29035200],Climática Principal,Activa,Atlantico,Repelón,"(10.49, -75.12694444)",10,2007-09-12,,Cauca
+29035000,SINCERIN  - AUT [29035000],Climática Principal,Activa,Bolívar,Arjona,"(10.14258333, -75.27827778)",10,2013-05-04 19:00,,0
+52050130,CHILES [52050130],Pluviométrica,Activa,Nariño,Cumbal,"(0.81166667, -77.84833333)",3100,1972-07-15,,Sucio
+17035010,SERRANILLA - AUT [17035010],Climática Ordinaria,Suspendida,"Archipiélago de San Andres, Providencia y Santa Catalina","San Andrés (Archipiélago de San Andrés, Providencia y Santa Catalina)","(15.7975, -79.85222222)",3,1998-12-15,2019-06-12,Mar Caribe
+25020600,SAJONIA HACIENDA - AUT [25020600],Pluviométrica,Activa,Córdoba,Pueblo Nuevo,"(8.48972222, -75.60138889)",100,2014-03-10,,Yaguara
+13057010,NUEVA COLOMBIA [13057010],Limnigráfica,Activa,Córdoba,Montería,"(8.49944444, -75.97861111)",20,1990-06-15,,Sinu
+29047070,SAN PEDRITO - AUT [29047070],Limnigráfica,Activa,Atlantico,Suan,"(10.26822222, -74.90786111)",8,1978-05-15,,Magdalena
+28015110,MANAURE - AUT [28015110],Climática Principal,Suspendida,Cesar,Manaure Balcón Del Cesar,"(10.36533333, -72.99763889)",1918,2005-08-17,2006-05-15,Magdalena
+25025340,SAN MARCOS - AUT [25025340],Climática Principal,Activa,Sucre,San Marcos,"(8.59683333, -75.14269444)",31,2005-10-07,,Cauca
+14019030,ESCUELA NAVAL CIOH - AUT [14019030],Limnigráfica,Activa,Bolívar,Cartagena De Indias,"(10.39056389, -75.53383056)",1,1991-07-15,,Mar Caribe
+25020430,TREMENTINO - AUT [25020430],Pluviométrica,Activa,Córdoba,Montería,"(8.71666667, -75.76666667)",19,2014-03-10,,Cauca
+29065140,COLEGIO KANKAWARWA - AUT [29065140],Meteorológica Especial,Activa,Magdalena,Fundación,"(10.452, -73.97338333)",318,2017-04-01,,Cauca
+28035060,FEDEARROZ - AUT [28035060],Climática Principal,Activa,Cesar,Valledupar,"(10.46361111, -73.24805556)",184,2005-08-16,,Cauca
+29065120,BATALLON NO. 6 - AUT [29065120],Climática Principal,Activa,Magdalena,Fundación,"(10.46536111, -73.92777778)",1280,2006-02-24,,Cauca
+29065000,MEDIA LUNA - AUT [29065000],Climática Principal,Activa,Magdalena,Pivijai,"(10.51002778, -74.50666667)",20,2013-05-05,,Cauca
+13055040,INCODER - AUT [13055040],Agrometeorológica,Activa,Córdoba,Montería,"(8.74694444, -75.91388889)",37,2004-11-17,,Cauca
+13067020,MONTERIA  - AUT [13067020],Limnigráfica,Activa,Córdoba,Montería,"(8.75161111, -75.89241667)",15,1963-02-15,,Sinu
+29045000,SABANALARGA - AUT [29045000],Climática Principal,Activa,Atlantico,Sabanalarga (Atlántico),"(10.63672222, -74.91888889)",100,2013-05-05,,Magdalena
+35185010,LA PALOMERA - AUT [35185010],Agrometeorológica,Activa,Meta,Puerto López,"(4.26036111, -72.56447222)",188,2005-05-17 19:00,,0
+35167000,CORPOBOYACA - SANTA INES -AUT [35167000],Limnigráfica,Activa,Boyacá,Aquitania,"(5.545, -72.88411111)",3041,2016-12-31,,Lago De Tota
+35167020,CRIADERO -AUT [35167020],Limnigráfica,Activa,Boyacá,Aquitania,"(5.557, -72.88047222)",3025,2016-12-31,,Qda Los Pozos
+35217090,LABRANZA GRANDE AUT [35217090],Limnigráfica,Activa,Boyacá,Labranzagrande,"(5.56691667, -72.58355556)",1125,2016-12-15,,Rio Cravo Sur
+16057080,PUENTE CAPIRA [16057080],Limnigráfica,Suspendida,Norte de Santander,Cucutilla,"(7.5, -72.76666667)",1320,2004-11-15,2008-05-23,Zulasquilla
+42107010,TARACUA  [42107010],Limnimétrica,Activa,Vaupes,Mitú,"(1.06666667, -68.23333333)",120,1977-01-15,,Vaupes
+29047000,TEBSA BQUILLA [29047000],Limnigráfica,Activa,Atlantico,Soledad,"(10.93663889, -74.75988889)",6,2013-05-05,,Rio Magdalena
+15067210,CARACOLI - AUT [15067210],Limnigráfica,Activa,La Guajira,San Juan Del Cesar,"(10.95011111, -73.05102778)",460,2011-12-01,,Rio Rancheria
+15067220,PUENTE CARRETERA [15067220],Limnigráfica,Activa,La Guajira,Riohacha,"(11.51097222, -72.85594444)",7,2011-12-01,,Rio Rancheria
+47015020,AEROPUERTO PUERTO ASIS [47015020],Sinóptica Principal,Suspendida,Putumayo,Puerto Asís,"(0.5, -76.5)",254,1965-01-15,1984-09-15,Amazonas
+51035010,AEROPUERTO LA FLORIDA [51035010],Sinóptica Secundaria,Suspendida,Nariño,Tumaco,"(1.8, -78.76666667)",3,1948-05-15,2002-03-15,Amazonas
+52045020,AEROPUERTO ANTONIO NARINO [52045020],Sinóptica Principal,Activa,Nariño,Chachaguí,"(1.39408333, -77.29086111)",1796,1957-11-15,,Amazonas
+26035030,AEROPUERTO G L VALENCIA [26035030],Sinóptica Principal,Activa,Cauca,Popayán,"(2.45288889, -76.60875)",1752,1941-06-15,,Amazonas
+26075040,AEROPUERTO A BONILLA [26075040],Sinóptica Principal,Activa,Valle del Cauca,Palmira,"(3.53668889, -76.38663889)",970,1971-07-15,,Quebrada Don Abad
+35035020,AEROPUERTO VANGUARDIA [35035020],Sinóptica Principal,Activa,Meta,Villavicencio,"(4.16191944, -73.61757778)",422,1924-10-15,,Quebrada Don Abad
+26135040,AEROPUERTO MATECANA [26135040],Sinóptica Principal,Activa,RIsaralda,Pereira,"(4.81586111, -75.73722222)",1199,1947-09-15,,Orinoco
+26155110,AEROPUERTO LA NUBIA [26155110],Sinóptica Principal,Activa,Caldas,Manizales,"(5.02977778, -75.46991667)",2104,1968-06-15,,Orinoco
+38015030,AEROPUERTO PUERTO CARRENO [38015030],Sinóptica Principal,Activa,Vichada,Puerto Carreño,"(6.18243611, -67.49122222)",57,1972-06-15,,Orinoco
+23155030,AEROPUERTO YARIGUIES [23155030],Sinóptica Principal,Activa,Santander,Barrancabermeja,"(7.02638889, -73.80861111)",126,1931-07-15,,Orinoco
+23195250,AP.PALO NEGRO [23195250],Sinóptica Principal,Suspendida,Santander,Lebrija,"(7.12147222, -73.18452778)",1189,2005-05-08,2015-08-13,Orinoco
+16015010,AEROPUERTO CAMILO DAZA [16015010],Sinóptica Principal,Activa,Norte de Santander,Cúcuta,"(7.93027778, -72.50916667)",250,1941-02-15,,Cauca
+13070040,RABOLARGO [13070040],Pluviométrica,Activa,Córdoba,Cereté,"(8.95061111, -75.74247222)",19,1963-01-15,,Cga. Mantequera
+17015010,AEROPUERTO SESQUICENTEN [17015010],Sinóptica Principal,Activa,"Archipiélago de San Andres, Providencia y Santa Catalina","San Andrés (Archipiélago de San Andrés, Providencia y Santa Catalina)","(12.54218333, -81.73096944)",1,1958-01-15,,Cga. Mantequera
+17025020,AEROPUERTO EL EMBRUJO [17025020],Sinóptica Principal,Activa,"Archipiélago de San Andres, Providencia y Santa Catalina",San Andres Y  Providencia (Santa Isabel),"(13.3595, -81.35772222)",7,1973-01-15,,Cga. Mantequera
+35235050,TAMARA - AUT [35235050],Climática Ordinaria,Activa,Casanare,Támara,"(5.81858333, -72.16677778)",117,2017-08-23 9:31,,Quebrada Don Abad
+57027010,GORGONA LA PLAYA [57027010],Limnimétrica,Activa,Cauca,Guapi,"(2.96388889, -78.17416667)",10,1986-05-15,,Quebrada Don Abad
+23147030,TENERIFE DELICIAS [23147030],Limnimétrica,Suspendida,Santander,Barrancabermeja,"(6.86666667, -73.76666667)",170,1974-08-15,1993-08-15,Oponcito
+57020020,GORGONILLA [57020020],Pluviométrica,Suspendida,Cauca,Guapi,"(2.98333333, -78.18333333)",5,1986-05-15,1986-07-15,Quebrada Don Abad
+57020010,ALTO DE LOS MICOS [57020010],Pluviométrica,Suspendida,Cauca,Guapi,"(3.0, -78.18333333)",180,1986-05-15,1991-12-15,Quebrada Don Abad
+57027020,GORGONA BOCATOMA [57027020],Limnimétrica,Suspendida,Cauca,Guapi,"(3.01666667, -78.16666667)",60,1986-05-15,1995-07-15,Quebrada Don Abad
+25027270,LAS FLORES [25027270],Limnimétrica,Activa,Antioquia,Nechí,"(8.10241667, -74.77344444)",22,1968-06-15,,Cauca
+25020850,REGENCIA [25020850],Pluviométrica,Suspendida,Bolívar,Montecristo,"(8.13333333, -74.65)",100,1974-05-15,1992-10-15,Cauca
+25027910,LA RAYA [25027910],Limnimétrica,Activa,Bolívar,San Jacinto Del Cauca,"(8.34455556, -74.56122222)",1600,1975-03-15,,Cno Caribona
+14015060,ISLAS DEL ROSARIO [14015060],Climática Principal,Suspendida,Bolívar,Cartagena De Indias,"(10.18333333, -75.75)",3,1983-12-15,1996-08-15,Cno Caribona
+14019020,ISLA DEL ROSARIO [14019020],Mareográfica,Suspendida,Bolívar,Cartagena De Indias,"(10.19541667, -75.74730556)",2,1989-07-15,2009-07-22,Mar Caribe
+14015070,ISLA DEL TESORO [14015070],Meteorológica Especial,Suspendida,Bolívar,Cartagena De Indias,"(10.23333333, -75.75)",2,1985-03-15,1990-10-15,Mar Caribe
+25020350,GUARANDA [25020350],Pluviométrica,Activa,Bolívar,Achí,"(8.49277778, -74.54166667)",30,1966-08-15,,Mar Caribe
+32077100,PEÑAS BLANCAS [32077100],Limnigráfica,Activa,Meta,San Juan De Arama,"(3.25161111, -73.89283333)",350,1983-12-14 19:00,,Guejar
+25027260,BUENAVISTA [25027260],Limnimétrica,Suspendida,Bolívar,Achí,"(8.56666667, -74.55)",20,1967-04-14 19:00,2019-01-21 3:33,Cauca
+35017070,RANCHO ALEGRE [35017070],Limnimétrica,En Mantenimiento,Meta,Castilla La Nueva,"(3.86363889, -73.54061111)",337,1979-05-14 19:00,,Orotoy
+32105080,SAN JOSE DEL GUAVIARE [32105080],Agrometeorológica,Suspendida,Guaviare,San José Del Guaviare,"(2.55302778, -72.64708333)",165,2008-09-25 19:00,2019-02-22 4:13,0
+32075030,VISTA HERMOSA [32075030],Climática Ordinaria,Suspendida,Meta,Vistahermosa,"(3.12038889, -73.75402778)",325,1969-04-14 19:00,2019-02-22 4:13,0
+3518700145,TUA BALNEARIO - AUT [ ],Limnigráfica,Activa,Casanare,Monterrey,"(4.88565, -72.90088889)",412,2018-09-17 19:00,,1249
+13090050,TOLUVIEJO [13090050],Pluviométrica,Activa,Sucre,Tolú Viejo,"(9.438, -75.44)",60,2014-03-31 19:00,,0
+24035440,RITACUBA BLANCO EMMA 2 - AUT [24035440],Meteorológica Especial,Activa,Boyacá,Guicán,"(6.49358333, -72.31161111)",5027,2017-07-08 19:00,,0
+47015070,PUERTO UMBRIA [47015070],Climática Ordinaria,Activa,Putumayo,Villagarzón,"(0.83897222, -76.57044444)",362,1983-04-14 19:00,,0
+51025080,ALTAQUER - AUT [51025080],Climática Principal,Activa,Nariño,Barbacoas,"(1.24833333, -78.0925)",110,2007-02-26 19:00,,0
+53115010,AEROPUERTO BUENAVENTUR [53115010],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.82011111, -76.99238889)",28,1946-01-14 19:00,,0
+38027700,MAIPURES CABAÑAS [38027700],Limnimétrica,Activa,Vichada,Cumaribo,"(5.24947222, -67.85561111)",77,2014-12-01 19:00,,Tuparro
+11017020,BAGADO [11017020],Limnigráfica,Activa,Chocó,Bagadó,"(5.412, -76.41788889)",90,2017-12-28 19:00,,Andagueda
+47087010,ARICA - R. PUTUMAYO [47087010],Pluviométrica,Activa,Amazonas,Puerto Arica,"(-2.14688889, -71.75222222)",115,1986-05-14 19:00,,Putumayo
+3518500127,GUADUALITO - AUT [3518500127],Climática Principal,Activa,Casanare,Monterrey,"(4.98708056, -72.8651)",784,2018-09-18 19:00,,0
+35097090,LA REVENTONERA [35097090],Limnigráfica,Activa,Casanare,Sabanalarga (Casanare),"(4.90497222, -73.04761111)",451,1981-03-14 19:00,,Upia
+35037100,PUENTE ABADIA - AUT [35037100],Limnigráfica,Activa,Meta,Villavicencio,"(4.23533333, -73.63536111)",523,1968-04-14 19:00,,Guatiquia
+2120500127,RADIO SONDA BOGOTA - AUT [2120500127],Radio Sonda,Activa,Bogotá,"Bogota, D.C","(4.62166667, -74.10333333)",2564,2016-04-04 19:00,,0
+38027020,PUERTO NARIÑO [38027020],Limnigráfica,Activa,Vichada,Cumaribo,"(4.95686111, -67.83416667)",79,1984-02-14 19:00,,Orinoco
+26197020,BRASILIA [26197020],Limnigráfica,Activa,Antioquia,Ciudad Bolívar,"(5.82544444, -75.93533333)",670,1970-09-14 19:00,,Bolivar
+12015110,CHIGORODO - AUT [12015110],Agrometeorológica,Activa,Antioquia,Chigorodó,"(7.67113889, -76.69405556)",44,2005-09-17 19:00,,0
+12017010,CHIGORODO [12017010],Limnimétrica,Activa,Antioquia,Chigorodó,"(7.67305556, -76.68391667)",20,1976-10-14 19:00,,Chigorodo
+26225060,HACIENDA COTOVE - AUT [26225060],Agrometeorológica,Activa,Antioquia,Santa Fe De Antioquia,"(6.53391667, -75.82733333)",534,2004-11-24 19:00,,0
+23085260,LA SELVA - AUT [23085260],Agrometeorológica,Activa,Antioquia,Rionegro (Antioquia),"(6.13191667, -75.41455556)",2125,2004-10-10 19:00,,0
+26247050,LAS CAMELIAS - AUT [26247050],Limnigráfica,Activa,Antioquia,Tarazá,"(7.58252778, -75.42005556)",110,1973-05-14 19:00,,Taraza
+27015310,METROMEDELLIN - AUT [27015310],Climática Principal,Activa,Antioquia,Bello,"(6.32975, -75.55211111)",1440,2005-06-30 19:00,,0
+12025040,TURBO - AUT [12025040],Climática Ordinaria,Activa,Antioquia,Turbo,"(8.09180556, -76.71633333)",37,1984-04-14 19:00,,0
+11135030,UNGUIA - AUT [11135030],Climática Principal,Activa,Chocó,Unguía,"(8.03672222, -77.08786111)",14,2005-09-23 19:00,,0
+21085040,TERPEYA COLOMBIA [21085040],Climática Ordinaria,En Mantenimiento,Huila,Íquira,"(2.66280556, -75.66555556)",1650,1990-11-14 19:00,,0
+21115010,DESIERTO LA TATACOA [21115010],Climática Principal,Suspendida,Huila,Villavieja,"(3.23447222, -75.16819444)",459,2005-07-13 19:00,2019-04-29 9:06,0
+4403000112,MARACAIBO [4403000112],Pluviométrica,Activa,Caquetá,Florencia (Caquetá),"(1.61052778, -75.48616667)",277,2019-03-16 19:00,,San Pedro
+54015020,TADO - AUT  [54015020],Climática Ordinaria,Activa,Chocó,Tadó,"(5.27011111, -76.55183611)",91,2017-12-28 19:00,,0
+21206570,AEROPUERTO CATAM [21206570],Climática Principal,Suspendida,Bogotá,"Bogota, D.C","(4.70558333, -74.15066667)",2546,2001-01-14 19:00,2019-05-03 10:03,0
+26035100,HACIENDA SUECIA - AUT [26035100],Agrometeorológica,En Mantenimiento,Cauca,El Tambo (Cauca),"(2.47955556, -76.82775)",1755,2005-11-22 19:00,,0
+47035030,PNN LA PAYA - AUT [47035030],Climática Principal,Suspendida,Putumayo,Puerto Leguízamo,"(-0.17372222, -74.89813889)",194,2007-09-19 19:00,2019-05-08 10:42,0
+15079010,PUERTO BOLIVAR - AUT [15079010],Mareográfica,En Mantenimiento,La Guajira,Uribia,"(12.22427778, -71.96766667)",0,2005-04-15 19:00,,Mar Caribe
+27035050,SENA - EL BAGRE [27035050],Climática Ordinaria,Activa,Antioquia,El Bagre,"(7.58466667, -74.80069444)",93,2017-08-23 19:00,,0
+23065060,SANTA TERESA [23065060],Climática Ordinaria,En Mantenimiento,Cundinamarca,Guayabal De Síquima,"(4.84216667, -74.46169444)",2200,1988-12-14 19:00,,0
+23065100,SABANETA [23065100],Climática Ordinaria,En Mantenimiento,Cundinamarca,La Vega,"(4.90175, -74.30738889)",2475,1986-08-14 19:00,,0
+24067020,PUENTE SOGAMOSO - AUT [24067020],Limnimétrica,Activa,Santander,Puerto Wilches,"(7.24416667, -73.7875)",90,1992-08-14 19:00,,Sogamoso
+21105030,ALGECIRAS - AUT [21105030],Climática Ordinaria,Activa,Huila,Algeciras,"(2.52169444, -75.32225)",1155,1971-04-14 19:00,,0
+21015030,PARQUE ARQUEOLOGICO - AUT [21015030],Climática Principal,Activa,Huila,San Agustín,"(1.88847222, -76.29497222)",1800,1971-06-14 19:00,,0
+47017110,MONOPAMBA  - AUT [47017110],Limnigráfica,Activa,Nariño,Puerres,"(0.80777778, -77.30694444)",1650,1980-05-14 19:00,,Sucio
+26135330,LA LAGUNA DEL OTUN  - AUT [26135330],Climática Principal,Activa,RIsaralda,Pereira,"(4.77636111, -75.4125)",3944,2005-10-10 19:00,,0
+28025130,LA LOMA CARBONES - AUT [28025130],Climática Principal,Activa,Cesar,El Paso,"(9.64061111, -73.52394444)",60,2010-03-01 19:00,,0
+15065040,LA PAULINA - AUT [15065040],Climática Principal,Activa,La Guajira,Fonseca,"(10.89813889, -72.82847222)",170,1966-09-14 19:00,,0
+21197030,LA PLAYA - AUT [21197030],Limnigráfica,Activa,Tolima,Icononzo,"(4.19225, -74.50072222)",750,1958-12-14 19:00,,Sumapaz
+26155150,LAS BRISAS - AUT [26155150],Climática Principal,Activa,Caldas,Villamaria,"(4.93452778, -75.35038889)",4133,1981-10-14 19:00,,0
+5205500123,LAS IGLESIAS  - AUT [5205500123],Climática Principal,Activa,Nariño,Pasto,"(1.05480556, -77.27025)",2973,2017-06-20 19:00,,0
+21015070,LOS GUACHAROS  - AUT [21015070],Climática Principal,Activa,Huila,Palestina (Huila),"(1.675833, -76.106841)",1590,2005-07-24 19:00,,0
+21205660,MERCEDES - AUT [21205660],Climática Ordinaria,Activa,Cundinamarca,Anapoima,"(4.58188889, -74.52661111)",810,1970-09-14 19:00,,0
+15017030,MINCA  - AUT [15017030],Limnigráfica,Activa,Magdalena,Santa Marta,"(11.15891667, -74.12291667)",650,1965-05-14 19:00,,Gaira
+21117110,MOTILON  - AUT [21117110],Limnimétrica,Suspendida,Huila,Rivera,"(2.80558333, -75.08555556)",1440,1983-06-14 19:00,2019-05-23 3:15,Motilon
+21215150,NEVADO DEL TOLIMA  - AUT [21215150],Climática Principal,Activa,Tolima,Anzoátegui,"(4.67077778, -75.32777778)",4635,2005-10-17 19:00,,0
+21206600,NUEVA GENERACION  - AUT [21206600],Climática Ordinaria,Activa,Bogotá,"Bogota, D.C","(4.78222222, -74.09433333)",2590,2001-11-14 19:00,,0
+26155250,PARAMO CONEJERAS  - AUT [26155250],Climática Ordinaria,Activa,Caldas,Villamaria,"(4.82980556, -75.37583333)",4413,2007-12-05 19:00,,0
+21206950,PARAMO GUACHENEQUE  - AUT [21206950],Climática Principal,Activa,Cundinamarca,Villapinzón,"(5.23605556, -73.52508333)",2300,2005-07-18 19:00,,0
+21206930,PARAMO GUERRERO  - AUT [21206930],Climática Principal,Activa,Cundinamarca,Zipaquirá,"(5.08644444, -74.02216667)",3257,2004-11-30 19:00,,0
+21227010,PIEDRAS  - AUT [21227010],Limnigráfica,Activa,Tolima,Piedras,"(4.535225, -74.88053056)",384,1972-03-14 19:00,,Opia
+23125140,AEROPUERTO FURATENA  - AUT [23125140],Climática Ordinaria,Activa,Boyacá,Quípama,"(5.52083333, -74.18241667)",1250,1991-05-14 19:00,,0
+16055120,AGUAS DE LA VIRGEN  - AUT [16055120],Climática Principal,Activa,Norte de Santander,Ocaña,"(8.22769444, -73.3975)",1700,2006-08-08 19:00,,0
+16015130,ALCALDIA DE HERRAN  - AUT [16015130],Climática Principal,Activa,Norte de Santander,Herrán,"(7.50672222, -72.48536111)",240,2005-08-18 19:00,,0
+21237020,ARRANCAPLUMAS  - AUT [21237020],Limnigráfica,Activa,Cundinamarca,Guaduas,"(5.20241667, -74.72761111)",222,1934-01-14 19:00,,Magdalena
+23157030,BARRANCABERMEJA  - AUT [23157030],Limnigráfica,Activa,Santander,Barrancabermeja,"(7.06019444, -73.876)",75,1936-06-14 19:00,,Magdalena
+35025090,BOSQUE INTERVENIDO  - AUT [35025090],Climática Principal,Activa,Cundinamarca,La Calera,"(4.66488889, -73.84663889)",2944,2008-07-08 19:00,,0
+23087160,CARAMANTA  - AUT [23087160],Limnigráfica,Activa,Antioquia,San Roque,"(6.50733333, -74.86516667)",1900,1973-07-14 19:00,,Nus
+21147030,CARRASPOSO  - AUT [21147030],Limnigráfica,Activa,Huila,Colombia,"(3.32752778, -74.86691667)",730,1972-02-14 19:00,,Cabrera
+23205030,SANTA ROSA D SIMITI [23205030],Climática Ordinaria,Activa,Bolívar,Santa Rosa Del Sur,"(7.96527778, -74.05916667)",650,1974-10-15,,El Zulia
+13015020,TUCURA [13015020],Climática Ordinaria,Suspendida,Córdoba,Tierralta,"(7.96666667, -76.25)",110,1991-11-15,1996-10-15,El Zulia
+23187120,BADILLO [23187120],Limnimétrica,Activa,Santander,Puerto Wilches,"(7.97561111, -73.85675)",49,1974-08-15,,Magdalena
+35070130,QUEBRADA HONDA [35070130],Pluviométrica,Activa,Boyacá,Macanal,"(4.95025, -73.30797222)",1200,1957-10-15,,Magdalena
+35070470,ESCUELA LOS MOLINOS [35070470],Pluviométrica,Activa,Boyacá,Almeida,"(4.95041667, -73.41016667)",2150,1982-08-15,,Magdalena
+26150150,PAPAYAL [26150150],Pluviométrica,Activa,Caldas,Villamaria,"(4.95166667, -75.48972222)",2304,1970-09-15,,Magdalena
+35070490,HATO GRANDE HACIENDA [35070490],Pluviométrica,Activa,Cundinamarca,Manta,"(4.95938889, -73.58436111)",2346,1982-07-15,,Orinoco
+16020230,COLORADA LA [16020230],Pluviométrica,Suspendida,Norte de Santander,El Zulia,"(7.96666667, -72.61666667)",160,1967-11-15,1986-06-15,El Zulia
+13015030,CAMPO BELLO [13015030],Climática Principal,Suspendida,Córdoba,Tierralta,"(7.98333333, -76.23333333)",78,1996-12-15,2008-03-31,Magdalena
+25028040,INSP FLUVIAL CAUCA [25028040],Limnimétrica,Suspendida,Antioquia,Caucasia,"(7.98333333, -75.2)",70,1992-11-15,2002-05-15,Cauca
+26255040,CACAOTERAS DEL DIQ [26255040],Climática Principal,Suspendida,Antioquia,Caucasia,"(7.98333333, -75.11666667)",55,1968-08-15,2008-12-10,Cauca
+23187180,DESEO EL [23187180],Limnimétrica,Suspendida,Bolívar,Simití,"(7.98333333, -73.85)",60,1979-06-15,1979-11-15,Magdalena
+23187260,CHORRO EL [23187260],Limnimétrica,Suspendida,Santander,Puerto Wilches,"(7.98333333, -73.85)",60,1979-04-15,1979-05-15,Magdalena
+35075050,MARTOTA [35075050],Meteorológica Especial,Suspendida,Boyacá,Somondoco,"(4.95, -73.43333333)",2620,1989-02-15,1996-06-15,Magdalena
+26130200,RECUERDO EL [26130200],Pluviométrica,Activa,RIsaralda,Marsella,"(4.96241667, -75.74166667)",1587,1970-09-15,,Orinoco
+23060370,ESTANCIA LA [23060370],Pluviométrica,Activa,Cundinamarca,La Vega,"(4.96666667, -74.36666667)",1280,2004-07-15,,Lagunilla
+35070260,ALMEIDA [35070260],Pluviográfica,Activa,Boyacá,Almeida,"(4.97083333, -73.37986111)",1954,1959-01-15,,Lagunilla
+26110120,VILLA NUEVA [26110120],Pluviométrica,Activa,Valle del Cauca,El Águila,"(4.97108333, -76.03852778)",1341,1970-09-15,,Lagunilla
+23060290,SILENCIO EL [23060290],Pluviométrica,Activa,Cundinamarca,Sasaima,"(4.97316667, -74.41205556)",1425,1986-03-15,,Lagunilla
+35075040,INSTITUCION AGRICOLA MACANAL [35075040],Climática Principal,Activa,Boyacá,Macanal,"(4.97436111, -73.31675)",1300,1982-07-15,,Lagunilla
+35070110,GUAYATA LA GRANJA [35070110],Pluviográfica,Activa,Boyacá,Guayatá,"(4.97608333, -73.49930556)",1580,1971-07-15,,Lagunilla
+21201050,LOURDES [21201050],Pluviométrica,Activa,Cundinamarca,Gachancipá,"(4.98288889, -73.86466667)",2750,1985-03-15,,Lagunilla
+21250060,IDEMA-ARMERO [21250060],Pluviométrica,Suspendida,Tolima,Armero (Guayabal),"(4.96666667, -74.91666667)",390,1964-01-15,1974-12-15,Lagunilla
+21250510,ARMERO GJA-C UNIVE [21250510],Pluviométrica,Suspendida,Tolima,Armero (Guayabal),"(4.96666667, -74.91666667)",390,1974-12-15,1986-10-15,Lagunilla
+35070150,GUAYATA [35070150],Pluviométrica,Suspendida,Boyacá,Guayatá,"(4.96666667, -73.48333333)",1580,1962-03-15,1971-09-15,Lagunilla
+35070400,GUAYATA [35070400],Pluviométrica,Suspendida,Boyacá,Guayatá,"(4.96666667, -73.48333333)",1580,1939-05-15,1943-10-15,Lagunilla
+35070140,ALMEIDA [35070140],Pluviográfica,Suspendida,Boyacá,Almeida,"(4.96666667, -73.38333333)",1910,1962-03-15,1971-07-15,Lagunilla
+35070120,MACANAL [35070120],Pluviométrica,Suspendida,Boyacá,Macanal,"(4.96666667, -73.31666667)",1710,1957-07-15,2003-08-15,Lagunilla
+21206450,TERMOZIPA [21206450],Climática Principal,Suspendida,Cundinamarca,Tocancipá,"(4.98333333, -73.93333333)",2497,1992-05-15,1996-01-15,Lagunilla
+25025330,COLEGIO AGROPECUARIO PAILITAS  - AUT [25025330],Climática Principal,Activa,Cesar,Pailitas,"(8.95422222, -73.63008333)",50,1987-09-14 19:00,,0
+35070100,SOMONDOCO [35070100],Pluviométrica,Activa,Boyacá,Somondoco,"(4.98347222, -73.43305556)",1600,1962-03-15,,Somondoco
+21230120,BELLEZA LA [21230120],Pluviométrica,Activa,Cundinamarca,Chaguaní,"(4.98538889, -74.58111111)",1200,1986-12-15,,Somondoco
+24010810,GACHANTIVA [24010810],Pluviométrica,Activa,Boyacá,Gachantivá,"(5.75080556, -73.54891667)",2375,1980-08-15,,Canal Principal
+26190090,BETANIA-LAS GUACAS [26190090],Pluviométrica,Activa,Antioquia,Betania,"(5.755, -75.97552778)",1600,1970-10-15,,Canal Principal
+24030940,SENA [24030940],Pluviográfica,Activa,Boyacá,Sogamoso,"(5.75605556, -72.90788889)",2500,1981-04-15,,Canal Principal
+11020050,PINON EL [11020050],Pluviométrica,Activa,Chocó,El Carmen (Choco),"(5.75766667, -76.25086111)",715,1958-10-15,,Canal Principal
+23060150,PUERTO LIBRE [23060150],Pluviométrica,Activa,Cundinamarca,Puerto Salgar,"(5.75827778, -74.62733333)",1836,1974-08-15,,Canal Principal
+23125060,ALBANIA [23125060],Climática Ordinaria,Activa,Santander,Albania (Santander),"(5.75833333, -73.91333333)",1690,1974-03-15,,Canal Principal
+24030560,MONGUA [24030560],Pluviométrica,Activa,Boyacá,Mongua,"(5.75838889, -72.7945)",2900,1971-04-15,,Canal Principal
+35070460,VOLADOR EL [35070460],Pluviométrica,Suspendida,Boyacá,Macanal,"(4.98333333, -73.35)",1250,1968-06-15,2002-02-15,Somondoco
+26190130,MANSA LA [26190130],Pluviométrica,Suspendida,Chocó,El Carmen (Choco),"(5.75, -76.1)",2100,1970-10-15,1973-04-15,Risaralda
+26177070,PUENTE CARRETERA [26177070],Limnimétrica,Suspendida,Antioquia,Támesis,"(5.75, -75.63333333)",605,1978-03-15,1978-04-15,Cartama
+26180130,PINTADA LA [26180130],Pluviométrica,Suspendida,Caldas,Aguadas,"(5.75, -75.6)",650,1962-02-15,1970-08-15,Cartama
+24037460,CAMBULOS LOS [24037460],Limnimétrica,Suspendida,Boyacá,Sogamoso,"(5.75, -72.93333333)",2500,1969-10-15,2002-02-15,Canal Principal
+24010630,ARCABUCO [24010630],Pluviométrica,Activa,Boyacá,Arcabuco,"(5.76058333, -73.44413889)",2600,1974-02-15,,Chicamocha
+11047010,BELEN [11047010],Limnigráfica,Activa,Chocó,Quibdó,"(5.76483333, -76.66966667)",26,1965-12-15,,Atrato
+23067020,COLORADOS  - AUT [23067020],Limnigráfica,Activa,Cundinamarca,Puerto Salgar,"(5.4695, -74.59338889)",309,1952-02-14 19:00,,Negro
+24037320,LA SIBERIA [24037320],Limnigráfica,Activa,Boyacá,Paipa,"(5.76673333, -73.10872222)",2248,1971-04-15,,Chicamocha
+24030790,NOBSA [24030790],Pluviométrica,Activa,Boyacá,Nobsa,"(5.77341667, -72.94025)",2500,1964-02-15,,Chicamocha
+24035150,BELENCITO [24035150],Climática Principal,Activa,Boyacá,Nobsa,"(5.78158333, -72.89430556)",2530,1967-02-15,,Chicamocha
+24030640,NIMICIA ESCUELA RURAL [24030640],Pluviométrica,Activa,Boyacá,Gámeza,"(5.78236111, -72.76980556)",3200,1974-06-15,,Chicamocha
+15060080,CANAVERALES [15060080],Pluviométrica,Activa,La Guajira,San Juan Del Cesar,"(10.75777778, -72.84522222)",230,1963-08-15,,Cno Mono
+29067050,CANAL FLORIDA [29067050],Limnigráfica,Activa,Magdalena,Zona Bananera,"(10.75886111, -74.10663889)",60,1965-05-15,,Sevilla
+11020020,GUADUAS [11020020],Pluviométrica,Suspendida,Chocó,El Carmen (Choco),"(5.76666667, -76.18333333)",1500,1977-03-15,2002-04-15,Atrato
+24037330,VERTEDERO PAIPA [24037330],Limnimétrica,Suspendida,Boyacá,Paipa,"(5.76666667, -73.11666667)",2500,1971-05-15,1978-03-15,Sochagota
+24035200,SENA [24035200],Meteorológica Especial,Suspendida,Boyacá,Sogamoso,"(5.76666667, -72.91666667)",2500,1967-10-15,1981-03-15,Sochagota
+26205030,FARALLONES [26205030],Climática Ordinaria,Suspendida,Antioquia,La Pintada,"(5.78333333, -75.61666667)",860,1970-03-15,1983-04-15,Chicamocha
+23120100,ALBANIA [23120100],Pluviométrica,Suspendida,Santander,Albania (Santander),"(5.78333333, -73.91666667)",1925,1959-11-15,1974-02-15,Chicamocha
+29067160,PUENTE SEVILLA  - AUT [29067160],Limnigráfica,Activa,Magdalena,Ciénaga,"(10.79883333, -74.02858333)",10,1982-07-14 19:00,,Sevilla
+29060340,PALMOR EL [29060340],Pluviométrica,Activa,Magdalena,Ciénaga,"(10.77344444, -74.02563889)",1200,1975-09-15,,Sevilla
+15060150,CONEJO EL [15060150],Pluviométrica,Activa,La Guajira,Fonseca,"(10.77794444, -72.79819444)",350,1975-10-15,,Sevilla
+29040080,POLONUEVO [29040080],Pluviométrica,Activa,Atlantico,Polonuevo,"(10.779, -74.85791667)",80,1959-03-15,,Sevilla
+29060070,SAN PABLO [29060070],Pluviométrica,Activa,Magdalena,Ciénaga,"(10.80819444, -74.02680556)",800,1960-08-15,,Sevilla
+29060290,SAN JUAN [29060290],Pluviométrica,Suspendida,Magdalena,Zona Bananera,"(10.76666667, -74.16666667)",25,1975-05-15,2002-02-15,Sevilla
+28010270,PIZARRA LA [28010270],Pluviométrica,Suspendida,La Guajira,San Juan Del Cesar,"(10.76666667, -73.01666667)",225,1971-04-15,1975-09-15,Sevilla
+15075050,PIZARRA LA [15075050],Climática Ordinaria,Suspendida,La Guajira,San Juan Del Cesar,"(10.76666667, -73.0)",150,1971-04-15,1975-09-15,Sevilla
+28010130,SARACHUI [28010130],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.78333333, -73.4)",1560,1968-04-15,1990-05-15,Sevilla
+15060070,JUGUETE EL [15060070],Pluviométrica,Suspendida,La Guajira,Fonseca,"(10.786, -72.76836111)",390,1971-05-15,2014-08-28,Sevilla
+29060220,POLY LA [29060220],Pluviométrica,Suspendida,Magdalena,Zona Bananera,"(10.81666667, -74.18333333)",24,1972-01-15,2002-02-15,Sevilla
+29067030,SAN PABLO [29067030],Limnigráfica,Suspendida,Magdalena,Ciénaga,"(10.81666667, -74.03333333)",900,1960-08-15,1975-04-15,Sevilla
+29060330,PLAYA LA [29060330],Pluviométrica,Suspendida,Magdalena,Zona Bananera,"(10.76197222, -74.12047222)",20,1990-01-14 19:00,2019-07-02 6:32,0
+29065030,PRADO SEVILLA [29065030],Climática Ordinaria,Suspendida,Magdalena,Zona Bananera,"(10.76416667, -74.15472222)",18,1970-07-14 19:00,2019-07-02 6:32,0
+28017080,CORRAL DE PIEDRA [28017080],Limnimétrica,Activa,La Guajira,San Juan Del Cesar,"(10.81891667, -73.05508333)",275,1970-03-15,,Cesar
+29067040,SANTA ROSALIA [29067040],Limnimétrica,Activa,Magdalena,Zona Bananera,"(10.83080556, -74.12055556)",55,1965-05-15,,Orihueca
+24037030,EL PALO - AUT [24037030],Limnigráfica,Activa,Boyacá,Tuta,"(5.68172222, -73.23113889)",2600,1955-05-14 19:00,,Tuta
+29045110,JUAN DE ACOSTA [29045110],Climática Ordinaria,Activa,Atlantico,Juan De Acosta,"(10.83388889, -75.04611111)",20,1964-01-14 19:00,,0
+29040400,JUAN DE ACOSTA [29040400],Pluviométrica,Suspendida,Atlantico,Juan De Acosta,"(10.83333333, -75.03333333)",20,1959-03-14 19:00,2019-01-21 3:34,0
+44035040,FLORENCIA - AUT [44035040],Climática Principal,Activa,Caquetá,Florencia (Caquetá),"(1.733, -75.64502778)",600,2006-02-03 19:00,,0
+16020050,ARBOLEDAS [16020050],Pluviométrica,Activa,Norte de Santander,Arboledas,"(7.64444444, -72.79972222)",925,1958-05-15,,Lebrija
+23190540,VEGA LA [23190540],Pluviométrica,Activa,Norte de Santander,Cáchira,"(7.65083333, -73.18055556)",710,1976-08-15,,Lebrija
+23197350,CNO GRANDE [23197350],Limnimétrica,Suspendida,Santander,Rionegro (Santander),"(7.63333333, -73.58333333)",770,1971-10-15,1981-07-15,Lebrija
+12015030,IDEMA-MONTECRISANTO [12015030],Climática Ordinaria,Suspendida,Antioquia,Chigorodó,"(7.65, -76.68333333)",40,1972-03-15,1982-08-15,Lebrija
+12010040,TULENAPA [12010040],Pluviométrica,Suspendida,Antioquia,Chigorodó,"(7.66666667, -76.66666667)",30,1974-08-15,1982-08-15,Lebrija
+26240090,PUERTO BELGICA [26240090],Pluviométrica,Activa,Antioquia,Cáceres,"(7.66830556, -75.28444444)",80,1977-01-15,,Lebrija
+23200060,SANTO DOMINGO [23200060],Pluviométrica,Activa,Bolívar,San Pablo (Bolívar),"(7.67055556, -73.94194444)",80,1974-08-15,,Lebrija
+23197410,HOYO EL [23197410],Limnimétrica,Activa,Cesar,San Alberto,"(7.68472222, -73.50888889)",77,1974-08-15,,San Alberto
+16010020,DONJUANA LA 2 [16010020],Pluviométrica,Activa,Norte de Santander,Bochalema,"(7.69722222, -72.60138889)",770,1973-04-15,,San Alberto
+13010010,MOLINILLO [13010010],Pluviométrica,Suspendida,Córdoba,Tierralta,"(7.68333333, -76.05)",500,1990-06-15,1999-03-15,Manso
+26250020,TRINIDAD LA HACIENDA [26250020],Pluviométrica,Suspendida,Antioquia,Cáceres,"(7.68333333, -75.23333333)",260,1970-05-15,1976-12-15,Manso
+12010130,CHIGORODO [12010130],Pluviométrica,Suspendida,Antioquia,Chigorodó,"(7.7, -76.7)",30,1966-01-15,1972-03-15,San Alberto
+13020040,SAIZA [13020040],Pluviométrica,Suspendida,Córdoba,Tierralta,"(7.7, -76.48333333)",287,1990-06-15,2002-02-15,San Alberto
+23187190,EDEN EL [23187190],Limnimétrica,Suspendida,Bolívar,San Pablo (Bolívar),"(7.7, -73.83333333)",61,1979-04-15,1979-05-15,Magdalena
+23187200,FE LA [23187200],Limnimétrica,Suspendida,Santander,Puerto Wilches,"(7.7, -73.81666667)",77,1979-05-15,1979-09-15,Magdalena
+23187210,NO HAY COMO DIOS [23187210],Limnimétrica,Suspendida,Santander,Puerto Wilches,"(7.7, -73.8)",79,1979-08-15,1979-09-15,Bzo Boston
+23197360,VEINTE DE JULIO [23197360],Limnimétrica,Suspendida,Norte de Santander,La Esperanza,"(7.7, -73.56666667)",71,1974-09-15,1996-02-15,Cachira
+23190550,SAMARKANDA [23190550],Pluviométrica,Suspendida,Santander,Rionegro (Santander),"(7.7, -73.53333333)",100,1979-11-15,1980-06-15,Cachira
+16010080,DONJUANA LA 1 [16010080],Pluviométrica,Suspendida,Norte de Santander,Bochalema,"(7.7, -72.6)",770,1953-01-15,1978-01-15,Cachira
+25027420,VICTORIA LA [25027420],Limnimétrica,Activa,Bolívar,Margarita,"(8.965, -74.22083333)",24,1973-07-15,,Cno Violo
+12015080,CERRAZON LA [12015080],Agrometeorológica,Suspendida,Antioquia,Chigorodó,"(7.71666667, -76.61666667)",70,1986-08-15,2002-02-15,Cachira
+26240050,UNION LA HACIENDA [26240050],Pluviométrica,Suspendida,Antioquia,Cáceres,"(7.71666667, -75.35)",230,1970-05-15,1984-03-15,Cachira
+13010040,FLECHA LA [13010040],Pluviométrica,Suspendida,Córdoba,Tierralta,"(7.63333333, -75.96666667)",500,1990-06-15,1999-03-15,Cachira
+13015010,URRA 2 [13015010],Climática Ordinaria,Suspendida,Córdoba,Tierralta,"(7.73333333, -76.2)",88,1982-11-15,1988-12-15,Chigorodo
+26247040,BUENOS AIRES [26247040],Limnigráfica,Suspendida,Antioquia,Cáceres,"(7.73333333, -75.43333333)",49,1972-11-15,1975-10-15,Man
+27035030,SANTA MARGARITA [27035030],Climática Ordinaria,Suspendida,Antioquia,El Bagre,"(7.73333333, -74.76666667)",179,1970-05-15,1980-04-15,Man
+27030150,ASI ES LA VIDA [27030150],Pluviométrica,Suspendida,Antioquia,El Bagre,"(7.73333333, -74.58333333)",492,1974-10-15,1987-05-15,Man
+23195140,LLANA LA [23195140],Climática Ordinaria,Suspendida,Cesar,San Alberto,"(7.73333333, -73.53333333)",120,1974-09-15,1995-05-15,Man
+25028370,GUAYABAL [25028370],Limnimétrica,Suspendida,Bolívar,Barranco De Loba,"(8.95, -74.16666667)",17,1974-09-15,1981-07-15,Cno Violo
+25020200,PAILITAS [25020200],Pluviométrica,Suspendida,Cesar,Pailitas,"(8.95, -73.63333333)",74,1960-02-15,1989-05-15,Cno Violo
+25027520,OREJERO [25027520],Limnimétrica,Activa,Sucre,Sucre (Sucre),"(8.98222222, -74.71388889)",21,1989-11-15,,Cano Panceguita
+13070180,CARRILLO [13070180],Pluviométrica,Activa,Córdoba,San Pelayo,"(8.98444444, -75.83177778)",20,1979-03-15,,Cno Tapoa
+25027330,PENONCITO [25027330],Limnimétrica,Activa,Bolívar,El Peñón (Bolívar),"(8.98972222, -73.94722222)",28,1972-09-15,,Magdalena
+16070010,PUERTO BARCO [16070010],Pluviométrica,Activa,Norte de Santander,Tibú,"(8.99805556, -72.89694444)",50,1973-04-15,,Magdalena
+25027570,PALENQUITO [25027570],Limnimétrica,Activa,Bolívar,Pinillos,"(8.9985, -74.46169444)",19,1974-03-15,,(Chicagua)Magdalena
+14015010,GALERAZAMBA  - AUT [14015010],Climática Principal,Activa,Bolívar,Santa Catalina,"(10.79416667, -75.26055556)",20,1945-12-14 19:00,,0
+25021310,POZON EL [25021310],Pluviométrica,Activa,Bolívar,Hatillo De Loba,"(9.00416667, -74.40583333)",20,1976-10-15,,Catatumbo
+25020750,TABLITAS LAS [25020750],Pluviométrica,Activa,Sucre,San Benito Abad,"(9.01138889, -75.16888889)",60,1973-11-15,,Catatumbo
+13077130,POLITO EL [13077130],Limnimétrica,Suspendida,Córdoba,Ciénaga De Oro,"(8.96666667, -75.71666667)",8,1985-09-15,1991-01-15,Canal San Carlos
+25028290,NUEVO PORVENIR [25028290],Limnimétrica,Suspendida,Bolívar,Margarita,"(8.96666667, -74.23333333)",24,1979-09-15,1981-07-15,Cno Mono
+25025290,ARGENTINA LA [25025290],Climática Ordinaria,Suspendida,Cesar,Pailitas,"(8.96666667, -73.63333333)",75,1984-11-15,1987-09-15,Cno Mono
+25028200,PUERTO LOPEZ [25028200],Limnimétrica,Suspendida,Bolívar,Pinillos,"(8.98333333, -74.38333333)",21,1976-06-15,1981-07-15,Cno Tapoa
+25028310,SAN MIGUEL [25028310],Limnimétrica,Suspendida,Magdalena,El Banco,"(9.0, -73.98333333)",27,1978-06-15,1981-07-15,Bzo De Loba
+25028330,LADRILLERAS [25028330],Limnimétrica,Suspendida,Magdalena,El Banco,"(9.0, -73.96666667)",28,1979-09-15,1981-07-15,Cesar
+25027290,SITIO NUEVO [25027290],Limnimétrica,Suspendida,Bolívar,Magangué,"(9.01638889, -74.60563889)",20,1968-04-15,2014-08-28,Magdalena(Loba)
+25027530,BARBOSA [25027530],Limnimétrica,Activa,Bolívar,Magangué,"(9.0225, -74.63666667)",19,1973-09-15,,Magdalena (Loba)
+25027860,VILLA TERESA [25027860],Limnimétrica,Activa,Sucre,San Benito Abad,"(9.02397222, -74.97666667)",30,1973-11-15,,Ay Corozal
+25021200,NEGRITOS LOS [25021200],Pluviométrica,Activa,Magdalena,El Banco,"(9.02666667, -74.07944444)",26,1976-07-15,,Ay Corozal
+13077010,SABANA NUEVA [13077010],Limnimétrica,Activa,Córdoba,San Pelayo,"(9.03222222, -75.84583333)",9,1963-02-15,,Sinu
+28010200,HATICO D LOS INDIO [28010200],Pluviométrica,Activa,La Guajira,San Juan Del Cesar,"(10.86022222, -73.11416667)",594,1970-01-15,,Sinu
+25027540,MORENEROS BOCA [25027540],Limnigráfica,Suspendida,Bolívar,Pinillos,"(9.01666667, -74.46666667)",20,1973-10-15,1984-12-15,Cga. Moreneros
+25028150,ILUSION LA [25028150],Limnimétrica,Suspendida,Bolívar,Pinillos,"(9.01666667, -74.43333333)",20,1974-05-15,1981-07-15,Cno Violo
+25028320,SALTO EL [25028320],Limnimétrica,Suspendida,Magdalena,El Banco,"(9.01666667, -74.0)",27,1976-07-15,1981-07-15,Bzo Mompos
+13070030,SABANA NUEVA [13070030],Pluviométrica,Suspendida,Córdoba,San Pelayo,"(9.03333333, -75.83333333)",20,1973-10-15,2002-06-15,Sinu
+29065070,RUBI EL [29065070],Meteorológica Especial,Suspendida,Magdalena,Zona Bananera,"(10.85, -74.18333333)",20,1977-04-15,1984-02-15,Sinu
+24015512,GAMBITA-24015512  - AUT  [24015512],Pluviométrica,Activa,Santander,Gámbita,"(5.94480278, -73.34374167)",1931,,,Bogota
+28010380,PORVENIR [28010380],Pluviométrica,Suspendida,La Guajira,Distracción,"(10.85, -72.93333333)",225,1970-09-15,1972-06-15,Sinu
+29065060,VIRGINIA LA HACIENDA [29065060],Climática Ordinaria,Suspendida,Magdalena,Zona Bananera,"(10.88333333, -74.18333333)",40,1970-04-15,1976-08-15,Sinu
+15060260,ANTILLAS LAS [15060260],Pluviométrica,Suspendida,La Guajira,Fonseca,"(10.88333333, -72.88333333)",170,1976-10-15,1977-01-15,Sinu
+29065040,RIO FRIO [29065040],Climática Ordinaria,Suspendida,Magdalena,Zona Bananera,"(10.9, -74.16666667)",20,1967-07-15,1973-08-15,Sinu
+29065050,SAN PEDRO D LA SIE [29065050],Climática Ordinaria,Suspendida,Magdalena,Ciénaga,"(10.9, -74.05)",1400,1970-04-15,1980-08-15,Sinu
+29060280,SAN ISIDRO [29060280],Pluviométrica,Activa,Magdalena,Zona Bananera,"(10.90083333, -74.22061111)",25,1967-01-15,,Sinu
+29060160,ENANO EL [29060160],Pluviométrica,Activa,Magdalena,Zona Bananera,"(10.90219444, -74.18947222)",25,1974-11-15,,Sinu
+29067070,RIO FRIO [29067070],Limnigráfica,Activa,Magdalena,Ciénaga,"(10.90541667, -74.15411111)",30,1978-07-15,,Frio
+15067200,EL SILENCIO - AUT [15067200],Limnigráfica,Activa,La Guajira,Fonseca,"(10.91708333, -72.91533333)",255,2010-06-25,,Rancheria
+29045190,AEROPUERTO E. CORTISSOZ - AUT [29045190],Sinóptica Principal,Activa,Atlantico,Soledad,"(10.91777778, -74.77972222)",14,2005-05-04,,Rancheria
+15067150,PUENTE GUAJIRO - AUT [15067150],Limnigráfica,Activa,La Guajira,Barrancas,"(10.92644444, -72.80438889)",485,2008-07-22,,Rancheria
+29060310,SEVILLANO [29060310],Pluviométrica,Activa,Magdalena,Ciénaga,"(10.93305556, -74.25244444)",5,1979-09-15,,Rancheria
+25020760,SANTIAGO APOSTOL [25020760],Pluviométrica,Activa,Sucre,San Benito Abad,"(9.00472222, -74.94055556)",25,1973-11-15,,Catatumbo
+25020660,ZAPATOZA [25020660],Pluviométrica,Activa,Cesar,Curumaní,"(9.00975, -73.75402778)",90,1972-09-15,,Catatumbo
+15060060,LOMITAS LAS [15060060],Pluviométrica,Activa,La Guajira,Barrancas,"(10.93516667, -72.68466667)",300,1971-05-15,,Rancheria
+15067080,MAGUEYES LOS [15067080],Limnimétrica,Activa,La Guajira,Barrancas,"(10.94672222, -72.77227778)",140,1980-07-15,,Ay La Quebrada
+15060050,SABANAS DE MANUELA [15060050],Pluviométrica,Activa,La Guajira,Distracción,"(10.953, -73.04797222)",420,1963-08-15,,Ay La Quebrada
+15060190,FONSECA [15060190],Pluviométrica,Suspendida,La Guajira,Fonseca,"(10.9, -72.83333333)",180,1955-06-15,1974-10-15,Sinu
+15060290,CERCADO EL - AUTATICO [15060290],Pluviográfica,Suspendida,La Guajira,Fonseca,"(10.91513889, -73.01152778)",400,2004-09-04,2010-09-29,Rancheria
+15067290,PORCIOSA [15067290],Limnimétrica,Activa,La Guajira,Albania (La guajira),"(11.23216944, -72.513975)",88,2012-10-31 19:00,,Porciosa
+14010100,PINTADA LA [14010100],Pluviométrica,Activa,Atlantico,Tubará,"(10.95511111, -74.995)",200,1992-12-15,,Porciosa
+29047080,DARCENA BARRANQUIL [29047080],Limnigráfica,Activa,Atlantico,Barranquilla,"(10.96638889, -74.76)",2,2006-09-02,,Magdalena
+35107040,GUAICARAMO  - AUT [35107040],Limnigráfica,Activa,Meta,Barranca De Upía,"(4.68909444, -73.04651944)",264,1981-03-14 19:00,,Upia
+29040230,PUERTO COLOMBIA [29040230],Pluviométrica,Activa,Atlantico,Puerto Colombia (Atlántico),"(10.98833333, -74.96966667)",5,1974-04-15,,Magdalena
+15067170,SAN FRANCISCO [15067170],Limnigráfica,Activa,La Guajira,Barrancas,"(10.99122222, -72.75608333)",450,2008-07-22,,Rancheria
+29040450,BARRANQUILLA SEDE [29040450],Pluviométrica,Activa,Atlantico,Barranquilla,"(10.99761111, -74.79672222)",12,2007-11-01,,Rancheria
+15067130,POZO HONDO [15067130],Limnigráfica,Activa,La Guajira,Barrancas,"(10.99855556, -72.81955556)",210,1987-07-15,,Ay Pozo Hondo
+15060030,CRUZ LA HACIENDA [15060030],Pluviométrica,Suspendida,La Guajira,Barrancas,"(10.96666667, -72.76666667)",195,1971-06-15,1985-12-15,Magdalena
+15065020,PUEBLITO EL HACIENDA [15065020],Climática Ordinaria,Suspendida,La Guajira,San Juan Del Cesar,"(10.98333333, -73.11666667)",585,1971-05-15,1977-10-15,Magdalena
+29045100,BASE NAVAL [29045100],Climática Principal,Suspendida,Atlantico,Barranquilla,"(11.0, -74.78333333)",5,1973-06-15,1992-09-15,Ay Pozo Hondo
+21205710,JARDIN BOTANICO  - AUT [21205710],Climática Ordinaria,Activa,Bogotá,"Bogota, D.C","(4.66933333, -74.10266667)",2552,1974-09-14 19:00,,0
+29060210,PALMA LA [29060210],Pluviométrica,Activa,Magdalena,Ciénaga,"(10.96683333, -74.20469444)",23,1967-03-15,,Magdalena
+29060120,TASAJERA [29060120],Pluviométrica,Activa,Magdalena,Puebloviejo,"(10.97622222, -74.36175)",2,1965-08-15,,Magdalena
+21205910,LA COSECHA - AUT [21205910],Meteorológica Especial,Activa,Cundinamarca,Zipaquirá,"(4.98922222, -74.00119444)",2600,1976-09-14 19:00,,0
+23195180,ESCUELA AGRICOLA CACHIRA [23195180],Climática Ordinaria,Activa,Norte de Santander,Cáchira,"(7.73527778, -73.05166667)",1882,1972-03-15,,Embalse
+12010090,TRIGANA [12010090],Pluviométrica,Activa,Antioquia,Carepa,"(7.74766667, -76.71188889)",4,1977-06-15,,Embalse
+12010080,SANTA ISABEL [12010080],Pluviométrica,Suspendida,Antioquia,Carepa,"(7.75, -76.66666667)",30,1977-07-15,1994-04-15,Embalse
+21097120,LA ESPERANZA - AUT [21097120],Limnigráfica,Activa,Huila,Palermo,"(2.72841667, -75.39638889)",460,1993-11-14 19:00,,Magdalena
+27040030,ESMERALDA LA [27040030],Pluviométrica,Activa,Antioquia,Caucasia,"(7.75111111, -74.85305556)",100,1970-05-15,,Esmeralda
+23190500,SAN ALBERTO [23190500],Pluviométrica,Activa,Cesar,San Alberto,"(7.75972222, -73.38833333)",134,1971-05-15,,Sinu
+12010010,TORMENTO EL [12010010],Pluviométrica,Activa,Antioquia,Turbo,"(7.76638889, -76.85527778)",20,1972-01-15,,Carepa
+16025030,SALAZAR [16025030],Climática Principal,Activa,Norte de Santander,Salazar,"(7.77458333, -72.83055556)",860,1973-03-15,,Carepa
+16027010,POMARROSOS LOS [16027010],Limnigráfica,Activa,Norte de Santander,Salazar,"(7.77833333, -72.82083333)",850,1985-02-15,,Salazar
+23180100,SITIO NUEVO [23180100],Pluviométrica,Activa,Santander,Puerto Wilches,"(7.78333333, -73.80083333)",98,1974-08-15,,Sinu
+23187280,SITIO NUEVO [23187280],Limnimétrica,Activa,Santander,Puerto Wilches,"(7.784, -73.80191667)",58,1978-11-15,,Magdalena
+27030060,AMACERI [27030060],Pluviométrica,Suspendida,Antioquia,El Bagre,"(7.75, -74.73333333)",250,1970-05-15,1987-05-15,Esmeralda
+13017050,URRA SANDUBO [13017050],Limnigráfica,Suspendida,Córdoba,Tierralta,"(7.7515, -76.22777778)",150,2009-03-25,2010-09-29,Sinu
+12017080,CAREPA [12017080],Limnimétrica,Suspendida,Antioquia,Carepa,"(7.76336111, -76.65825)",62,1977-03-15,2011-10-01,Carepa
+23190150,ESCUELA AGROPECUARI [23190150],Pluviométrica,Suspendida,Norte de Santander,Cáchira,"(7.76666667, -73.08333333)",215,1958-05-15,1972-01-15,Carepa
+13017030,SALTO VIEJO [13017030],Limnigráfica,Suspendida,Córdoba,Tierralta,"(7.78333333, -76.23333333)",131,1974-03-15,1988-12-15,Sinu
+26250090,PIAMONTE [26250090],Pluviométrica,Suspendida,Antioquia,Cáceres,"(7.78333333, -75.2)",80,1975-03-15,1987-10-15,Sinu
+16020390,SALAZAR [16020390],Pluviométrica,Suspendida,Norte de Santander,Salazar,"(7.78333333, -72.8)",870,1956-01-15,1973-01-15,Sinu
+25010060,URE [25010060],Pluviométrica,Activa,Córdoba,San Jose De Ure,"(7.78805556, -75.53833333)",200,1973-11-15,,Magdalena
+12010050,TOSCANA LA [12010050],Pluviométrica,Activa,Antioquia,Carepa,"(7.80805556, -76.70305556)",15,1977-07-15,,Man
+26247010,PALMIRA HACIENDA  - AUT [26247010],Limnigráfica,Activa,Antioquia,Cáceres,"(7.79677778, -75.37252778)",80,1971-09-14 19:00,,Man
+23190810,PLANES LOS [23190810],Pluviométrica,Activa,Cesar,San Alberto,"(7.81261111, -73.32144444)",650,1984-11-15,,Man
+12015070,AEROPUERTO LOS CEDROS [12015070],Sinóptica Principal,Activa,Antioquia,Carepa,"(7.81638889, -76.71788889)",41,1983-05-15,,Man
+16010010,VILLA DEL ROSARIO [16010010],Pluviométrica,Activa,Norte de Santander,Villa Del Rosario,"(7.81777778, -72.47777778)",522,1972-01-15,,Vijagual
+12015020,UNIBAN [12015020],Agrometeorológica,Activa,Antioquia,Apartadó,"(7.82591667, -76.65133333)",43,1977-08-15,,Zungo
+12017030,VICTORIA LA [12017030],Limnimétrica,Suspendida,Antioquia,Apartadó,"(7.81666667, -76.68333333)",20,1977-03-15,1996-05-15,Vijagual
+12017050,PUENTE CARRETERA [12017050],Limnimétrica,Suspendida,Antioquia,Apartadó,"(7.82388889, -76.64805556)",23,1977-03-15,2011-05-10,Zungo
+25027600,MAJATA [25027600],Limnigráfica,Suspendida,Bolívar,Magangué,"(9.03333333, -74.65)",18,1976-07-15,1985-02-15,Cga. Majata
+25028380,ZORRO 1 [25028380],Limnimétrica,Suspendida,Bolívar,Mompós,"(9.03333333, -74.65)",18,1976-07-15,1981-07-15,Boca Zorro
+26240060,MANIZALES [26240060],Pluviométrica,Activa,Antioquia,Cáceres,"(7.83666667, -75.415)",75,1970-05-15,,Zulia
+25028390,ZORRO 2 [25028390],Limnimétrica,Suspendida,Bolívar,Mompós,"(9.03333333, -74.65)",18,1974-09-15,1981-07-15,Boca Zorro
+25028400,ZORRO 3 [25028400],Limnimétrica,Suspendida,Bolívar,Mompós,"(9.03333333, -74.65)",18,1974-09-15,1981-07-15,Boca Zorro
+12045020,CRISTO REY  - AUT [12045020],Climática Ordinaria,Activa,Córdoba,Puerto Escondido,"(9.07111111, -76.22444444)",15,1973-10-14 19:00,,0
+25020670,RAYA LA [25020670],Pluviométrica,Activa,Cesar,Pailitas,"(9.05027778, -73.55972222)",500,1972-09-15,,San Jorge
+25027850,BELEN [25027850],Limnimétrica,Activa,Magdalena,El Banco,"(9.06916667, -73.90305556)",36,1973-09-15,,Cienaga Zapatoza
+25021270,CANDELARIA [25021270],Pluviométrica,Activa,Bolívar,Mompós,"(9.07305556, -74.52555556)",20,1976-10-15,,Magdalena(Mompox)
+25021180,SANTA CRUZ [25021180],Pluviométrica,Activa,Bolívar,Mompós,"(9.07833333, -74.68888889)",20,1974-03-15,,Magdalena(Mompox)
+25028100,ZORRO EL [25028100],Limnimétrica,Suspendida,Bolívar,Mompós,"(9.03333333, -74.61666667)",18,1978-06-15,1981-07-15,Salida Cienaga
+25027320,SAN ROQUE [25027320],Limnimétrica,Activa,Bolívar,Margarita,"(9.07, -74.16)",24,1972-09-15,,Magdalena(Mompox)
+25021380,SAN ROQUE ALERTAS [25021380],Pluviométrica,Activa,Magdalena,El Banco,"(9.07, -74.15)",24,1980-05-15,,0
+25028160,LIMONES LOS [25028160],Limnimétrica,Suspendida,Bolívar,Pinillos,"(9.03333333, -74.46666667)",20,1974-09-15,1981-07-15,Cno Chicagua
+13070330,ICOTEAS LAS [13070330],Pluviográfica,Suspendida,Córdoba,Cotorra,"(9.05, -75.76666667)",20,1974-11-15,1977-02-15,San Jorge
+25028070,DONA ANA [25028070],Limnimétrica,Suspendida,Bolívar,Magangué,"(9.05, -74.8)",20,1974-09-15,1981-07-15,San Jorge
+25028110,CANDELARIA [25028110],Limnimétrica,Suspendida,Bolívar,Mompós,"(9.06666667, -74.53333333)",19,1979-09-15,1981-07-15,Cno Chicagua
+25028090,SANTA CRUZ [25028090],Limnimétrica,Suspendida,Bolívar,Mompós,"(9.08333333, -74.71666667)",17,1974-05-15,1981-07-15,Bzo De Loba
+25021090,SANTA ROSA [25021090],Pluviométrica,Activa,Bolívar,San Fernando,"(9.09333333, -74.31388889)",40,1974-10-15,,Bzo De Loba
+25028340,JAGUA [25028340],Limnigráfica,Activa,Bolívar,Mompós,"(9.09666667, -74.65833333)",18,1976-07-15,,Cno Lobita
+25021290,JOLON EL [25021290],Pluviométrica,Activa,Bolívar,San Fernando,"(9.10138889, -74.40888889)",25,1976-10-15,,Cno Lobita
+25021330,GUAYMARAL [25021330],Pluviométrica,Activa,Bolívar,Mompós,"(9.11544444, -74.61347222)",20,1976-10-15,,(Chicagua)Magdalena
+25020890,CHILLOA [25020890],Pluviométrica,Activa,Bolívar,Margarita,"(9.11938889, -74.22194444)",20,1974-09-15,,(Chicagua)Magdalena
+25027550,ALGARROBAL [25027550],Limnimétrica,Activa,Magdalena,El Banco,"(9.13152778, -74.04427778)",25,1973-09-15,,Cga. Chilloa
+25027720,BARRANCONES [25027720],Limnigráfica,Activa,Cesar,Chimichagua,"(9.13391667, -73.77280556)",32,1974-01-15,,Cga. Zapatosa
+13017020,LIMON EL [13017020],Limnigráfica,Suspendida,Córdoba,Tierralta,"(7.83333333, -76.26666667)",108,1966-03-15,1999-03-15,Sinu
+13025020,ESMERALDA LA [13025020],Climática Ordinaria,Suspendida,Córdoba,Tierralta,"(7.83333333, -76.25)",170,1974-10-15,1975-01-15,Sinu
+13070210,COTORRA [13070210],Pluviométrica,Suspendida,Córdoba,Cotorra,"(9.03333333, -75.78333333)",20,1979-03-15,2002-02-15,Cga. Chilloa
+13070310,CHIMA [13070310],Pluviográfica,Suspendida,Córdoba,Chima (Córdoba),"(9.15, -75.61666667)",30,1965-11-15,1971-05-15,Cga. Zapatosa
+13070300,CHIMA [13070300],Pluviométrica,Suspendida,Córdoba,Chima (Córdoba),"(9.15, -75.61666667)",30,1958-09-15,1973-10-15,Cga. Zapatosa
+13077220,BAJO GRANDE [13077220],Limnimétrica,Suspendida,Córdoba,San Andrés De Sotavento,"(9.15, -75.51666667)",48,1988-06-15,1991-01-15,Lago Bajo Grande
+13077260,CUESANTA ABAJO [13077260],Limnimétrica,Suspendida,Córdoba,San Andrés De Sotavento,"(9.15, -75.51666667)",80,1989-12-15,1991-01-15,Lago Cuesta Abaj
+16070020,PISTA LA [16070020],Pluviométrica,Suspendida,Norte de Santander,Tibú,"(9.11666667, -72.86666667)",50,1986-02-14 19:00,2019-01-21 3:00,0
+13075010,CHIMA [13075010],Climática Ordinaria,Activa,Córdoba,Chima (Córdoba),"(9.15075, -75.62208333)",20,1973-10-15,,Lago Cuesta Abaj
+29060080,COCOS LOS   [29060080],Pluviométrica,Activa,Magdalena,Sitionuevo,"(11.00597222, -74.68363889)",4,1967-10-15,,Ay Lata
+15067010,LOMA LINDA [15067010],Limnigráfica,Activa,La Guajira,Barrancas,"(11.01413889, -72.64444444)",130,1985-12-15,,Ay Cerrejon
+15067160,ABAJO BOCATOMA [15067160],Limnigráfica,Activa,La Guajira,Barrancas,"(11.03305556, -72.70872222)",89,1989-02-15,,Rancheria
+15060040,LAGUNITAS [15060040],Pluviométrica,Activa,La Guajira,Barrancas,"(11.03436111, -72.87752778)",900,1971-05-15,,Ay Cerrejon
+29045120,FLORES LAS [29045120],Climática Principal,Activa,Atlantico,Barranquilla,"(11.04, -74.82083333)",8,1971-04-15,,Ay Cerrejon
+15060090,GUACAMAYO [15060090],Pluviográfica,Activa,La Guajira,Hato Nuevo,"(11.06338889, -72.77669444)",220,1987-08-15,,Ay Cerrejon
+15067090,CAMPAMENTO [15067090],Limnigráfica,Suspendida,La Guajira,Barrancas,"(11.0, -72.66666667)",150,1981-10-15,1996-06-15,Ay Lata
+15060280,CERREJON CARBOCOL [15060280],Pluviométrica,Suspendida,La Guajira,Barrancas,"(11.0, -72.66666667)",150,1981-01-15,1983-08-15,Ay Lata
+15010070,FILTRO DE AGUA [15010070],Pluviométrica,Suspendida,Magdalena,Ciénaga,"(11.01666667, -74.23333333)",25,1967-03-15,1974-10-15,Ay Cerrejon
+15065110,CAURINA [15065110],Meteorológica Especial,Suspendida,La Guajira,Barrancas,"(11.01666667, -72.55)",380,1985-12-15,1998-03-15,Ay Cerrejon
+15067140,CHANCLETA LA [15067140],Limnimétrica,Suspendida,La Guajira,Barrancas,"(11.03333333, -72.63333333)",150,1988-04-15,1988-06-15,Ay Cerrejon
+15030040,ALTO RIO ANCHO [15030040],Pluviométrica,Suspendida,La Guajira,Dibulla,"(11.06666667, -73.46666667)",220,1973-10-15,1993-11-15,Ay Cerrejon
+15030050,CERRO CUBA [15030050],Pluviométrica,Suspendida,La Guajira,Dibulla,"(11.06666667, -73.4)",400,1973-10-15,1993-11-15,Ay Cerrejon
+15065170,ESPINAL EL [15065170],Meteorológica Especial,Suspendida,La Guajira,Hato Nuevo,"(11.06666667, -72.73333333)",150,1991-04-15,1998-02-15,Ay Cerrejon
+15067040,GUAMITO HACIENDA [15067040],Limnigráfica,Suspendida,La Guajira,Barrancas,"(11.07102778, -72.66822222)",80,1979-03-14 19:00,2019-07-02 6:34,Rancheria
+15060210,TAJO SUR [15060210],Pluviográfica,Activa,La Guajira,Barrancas,"(11.07688889, -72.675)",95,1989-04-15,,Rancheria
+15067110,REMEDIOS [15067110],Limnigráfica,Activa,La Guajira,Albania (La guajira),"(11.09591667, -72.53480556)",150,1985-12-15,,Ay Tabaco
+15010310,FILO CARTAGENA [15010310],Pluviométrica,Activa,Magdalena,Santa Marta,"(11.10027778, -73.84322222)",750,2006-11-24,,Ay Tabaco
+15065100,CRUZ LA HACIENDA [15065100],Meteorológica Especial,Activa,La Guajira,Hato Nuevo,"(11.11586111, -72.70858333)",155,1985-12-15,,Mar Caribe
+15060120,PALMAR EL HACIENDA [15060120],Pluviográfica,Suspendida,La Guajira,Barrancas,"(11.08333333, -72.66666667)",105,1979-03-15,1987-06-15,Rancheria
+15060160,PAJONALES HACIENDA [15060160],Pluviográfica,Suspendida,La Guajira,Barrancas,"(11.08333333, -72.6)",116,1978-05-15,1996-02-15,Rancheria
+15010030,GUACHACA 2 [15010030],Pluviográfica,Suspendida,Magdalena,Santa Marta,"(11.1, -73.85)",750,1969-02-15,1971-05-15,Ay Tabaco
+15080100,PAN GRANDE [15080100],Pluviométrica,Suspendida,La Guajira,Maicao,"(11.1, -72.45)",250,1975-10-15,1993-11-15,Ay Tabaco
+14019040,TAJAMAR OCCIDENTAL [14019040],Mareográfica,Suspendida,Atlantico,Barranquilla,"(11.10630556, -74.85472222)",1,2006-10-19,2010-09-29,Mar Caribe
+15010160,DELICIAS LAS [15010160],Pluviométrica,Suspendida,Magdalena,Santa Marta,"(11.11666667, -74.13333333)",900,1964-05-15,1971-12-15,Mar Caribe
+15015110,ALTO DE MIRA [15015110],Climática Ordinaria,Suspendida,Magdalena,Santa Marta,"(11.0915, -73.93238889)",180,1987-08-14 19:00,2019-07-02 6:35,0
+15060200,ROCHE [15060200],Pluviográfica,Suspendida,La Guajira,Barrancas,"(11.07505556, -72.64733333)",100,1987-10-14 19:00,2019-07-02 6:34,0
+35035110,SALINAS DE UPIN  - AUT [35035110],Agrometeorológica,Activa,Meta,Restrepo (Meta),"(4.27386111, -73.58686111)",690,2007-03-22 19:00,,0
+15010140,TORRE TV [15010140],Pluviométrica,Suspendida,Magdalena,Santa Marta,"(11.11666667, -74.03333333)",2700,1964-05-15,1971-09-15,Mar Caribe
+15030030,ALTO RIO DIBULLA [15030030],Pluviométrica,Suspendida,La Guajira,Dibulla,"(11.11666667, -73.3)",390,1973-10-15,1979-04-15,Mar Caribe
+15040020,JUANA VIEJA [15040020],Pluviométrica,Suspendida,La Guajira,San Juan Del Cesar,"(11.11666667, -73.05)",1100,1971-05-15,1978-12-15,Mar Caribe
+11057020,SAN ANTONIO PADUA  - AUT [11057020],Limnimétrica,Activa,Antioquia,Vigia Del Fuerte,"(6.28666667, -76.76180556)",18,1973-05-14 19:00,,Atrato
+23190110,LIBANO EL [23190110],Pluviométrica,Activa,Cesar,San Alberto,"(7.83805556, -73.42805556)",164,1976-12-15,,Zulia
+16025010,CARMEN DE TONCHALA [16025010],Climática Principal,Activa,Norte de Santander,Cúcuta,"(7.84888889, -72.56611111)",285,1968-10-15,,Zulia
+16027310,TERMOTASAJERO - AUT [16027310],Limnigráfica,Suspendida,Norte de Santander,Durania,"(7.83333333, -72.63333333)",255,2004-10-15,2010-09-29,Zulia
+16020520,TERMOTASAJERO - AUT [16020520],Pluviográfica,Suspendida,Norte de Santander,Durania,"(7.83333333, -72.63333333)",255,2004-10-15,2010-09-29,Zulia
+11135010,SAUTATA [11135010],Climática Ordinaria,Suspendida,Chocó,Riosucio (Choco),"(7.85, -77.11666667)",2,1972-04-15,2008-03-31,Zulia
+13027030,CANAFINA [13027030],Limnimétrica,Suspendida,Córdoba,Tierralta,"(7.85, -76.31666667)",90,1990-06-15,1998-12-15,Verde
+23187060,VIJAGUAL [23187060],Limnimétrica,Suspendida,Santander,Puerto Wilches,"(7.85, -73.81666667)",56,1971-07-15,1980-03-15,Magdalena
+16010190,ROSARIO EL [16010190],Pluviométrica,Suspendida,Norte de Santander,Villa Del Rosario,"(7.85, -72.5)",430,1967-11-15,1977-07-15,Magdalena
+26240100,GUARUMO-LA LUCHA [26240100],Pluviométrica,Activa,Antioquia,Cáceres,"(7.86291667, -75.21491667)",70,1970-05-15,,Magdalena
+12010060,LORENA LA [12010060],Pluviométrica,Activa,Antioquia,Apartadó,"(7.86305556, -76.68916667)",10,1976-07-15,,Magdalena
+16020030,SANTIAGO CAIMITO [16020030],Pluviométrica,Activa,Norte de Santander,Santiago (Norte de Santander),"(7.86416667, -72.71611111)",411,1973-03-15,,Magdalena
+23205050,CANELOS  - AUT [23205050],Climática Ordinaria,Activa,Bolívar,Santa Rosa Del Sur,"(7.88541667, -74.24097222)",750,1983-09-14 19:00,,0
+12010070,CASCO EL [12010070],Pluviométrica,Activa,Antioquia,Apartadó,"(7.88444444, -76.64777778)",18,1977-07-15,,Lebrija
+25010010,PUERTO LIBERTADOR [25010010],Pluviométrica,Activa,Córdoba,Puerto Libertador,"(7.89027778, -75.68)",55,1989-05-15,,Lebrija
+16020010,GRAMALOTE [16020010],Pluviométrica,Activa,Norte de Santander,Gramalote,"(7.89194444, -72.79944444)",120,1958-03-15,,Lebrija
+16020280,URIMACO [16020280],Pluviométrica,Activa,Norte de Santander,San Cayetano (Norte de Santander),"(7.90083333, -72.5925)",221,1967-12-15,,Lebrija
+16020190,CORNEJO [16020190],Pluviométrica,Activa,Norte de Santander,San Cayetano (Norte de Santander),"(7.90138889, -72.63416667)",250,1968-05-15,,Lebrija
+12010160,SAN JOSE APARTADO [12010160],Pluviográfica,Suspendida,Antioquia,Apartadó,"(7.86666667, -76.6)",100,1984-08-15,1997-12-15,Magdalena
+13017010,DESPENSA LA [13017010],Limnigráfica,Suspendida,Córdoba,Tierralta,"(7.86666667, -76.28333333)",106,1965-10-15,1998-12-15,Sinu
+23200020,CANELOS LOS [23200020],Pluviométrica,Suspendida,Bolívar,Santa Rosa Del Sur,"(7.86666667, -74.16666667)",170,1979-05-15,1983-09-15,Sinu
+12017060,APARTADO [12017060],Limnimétrica,Suspendida,Antioquia,Apartadó,"(7.87575, -76.62258333)",65,1977-03-15,2013-03-10,Apartado
+13025030,DESPENSA LA [13025030],Climática Ordinaria,Suspendida,Córdoba,Tierralta,"(7.88333333, -76.3)",160,1990-06-15,1996-05-15,Apartado
+23197080,SAN ALBERTO MIRA 6 [23197080],Limnimétrica,Suspendida,Santander,Puerto Wilches,"(7.88333333, -73.7)",70,1966-01-15,1979-10-15,Lebrija
+16027100,CORNEJO [16027100],Limnigráfica,Activa,Norte de Santander,San Cayetano (Norte de Santander),"(7.90138889, -72.63388889)",270,1969-03-15,,Peralonso
+25021000,GALERAS [25021000],Pluviométrica,Activa,Sucre,Galeras,"(9.165, -75.05083333)",70,1973-11-15,,Peralonso
+15015060,SAN LORENZO  - AUT [15015060],Climática Principal,Activa,Magdalena,Santa Marta,"(11.11108333, -74.05469444)",2200,1969-01-14 19:00,,0
+25021260,BARRANCO DE YUCA [25021260],Pluviométrica,Activa,Bolívar,Magangué,"(9.17388889, -74.85083333)",70,1976-10-15,,Cno Chicagua
+25027690,PUENTE PEATONAL [25027690],Limnimétrica,Activa,Sucre,Sincé,"(9.17713889, -75.02241667)",60,1973-11-15,,Ay Mancomojan
+25020990,HATO NUEVO [25020990],Pluviométrica,Activa,Sucre,Corozal,"(9.17833333, -75.19027778)",80,1973-11-15,,Ay Mancomojan
+25021040,MENCHIQUEJO [25021040],Pluviométrica,Activa,Magdalena,El Banco,"(9.18805556, -74.04422222)",25,1974-09-15,,Cno Lobita
+25020270,SALOA [25020270],Pluviométrica,Activa,Cesar,Chimichagua,"(9.19316667, -73.73130556)",90,1963-04-15,,Cno Lobita
+25027140,SALOA [25027140],Limnimétrica,Activa,Cesar,Chimichagua,"(9.19319444, -73.7325)",28,1963-04-15,,Magdalena
+25028060,SAN JAVIER [25028060],Limnimétrica,Suspendida,Bolívar,Mompós,"(9.16666667, -74.66666667)",17,1976-07-15,1981-07-15,Cno Chicagua
+25027710,CULEBRERA LA [25027710],Limnimétrica,Suspendida,Sucre,Galeras,"(9.18052778, -74.91458333)",25,1973-12-15,2014-08-28,Ay Mancomojan
+16050140,JURISDICCIONES [16050140],Pluviográfica,Suspendida,Norte de Santander,Ábrego,"(7.85, -73.23333333)",3850,1976-10-15,1988-08-15,Magdalena
+16010170,ESCOBAL EL [16010170],Pluviométrica,Suspendida,Norte de Santander,Cúcuta,"(7.85, -72.53333333)",250,1967-11-15,1972-11-15,Magdalena
+13077160,VENECIA [13077160],Limnimétrica,Suspendida,Córdoba,San Andrés De Sotavento,"(9.18333333, -75.51666667)",92,1987-12-15,1991-01-15,Lago Venecia
+25028050,SAN FRANCISCO [25028050],Limnimétrica,Suspendida,Bolívar,Mompós,"(9.18333333, -74.71666667)",17,1979-09-15,1981-07-15,Cno Lobita
+25021580,CURUMANI D C [25021580],Pluviométrica,Suspendida,Cesar,Curumaní,"(9.18333333, -73.53333333)",100,1979-11-15,1996-08-15,Cno Lobita
+25027080,GRACIAS A DIOS HACIENDA [25027080],Limnimétrica,Activa,Cesar,Curumaní,"(9.19447222, -73.57652778)",46,1963-07-15,,Animito
+13070430,VENECIA [13070430],Pluviométrica,Activa,Córdoba,San Andrés De Sotavento,"(9.19527778, -75.54111111)",50,1987-08-15,,Animito
+25020250,CURUMANI [25020250],Pluviométrica,Activa,Cesar,Curumaní,"(9.19719444, -73.54194444)",100,1963-03-15,,Sinu
+13077170,LORICA [13077170],Limnimétrica,Activa,Córdoba,Lorica,"(9.22667222, -75.81500833)",5,1987-12-15,,Cno Aguas Prieta
+25020900,SAN SEBASTIAN [25020900],Pluviométrica,Activa,Magdalena,San Sebastián De Buenavista,"(9.23388889, -74.35583333)",65,1974-01-15,,Cga. Sur
+13077060,COTOCA ABAJO  - AUT [13077060],Limnigráfica,Activa,Córdoba,Lorica,"(9.22444444, -75.83444444)",6,1970-02-14 19:00,,Sinu
+13077030,PALMA CENTRAL [13077030],Limnimétrica,Suspendida,Córdoba,Lorica,"(9.19561111, -75.81819444)",6,1953-06-15,2011-09-09,Sinu
+13077210,ESMERALDA LA [13077210],Limnimétrica,Suspendida,Córdoba,San Andrés De Sotavento,"(9.2, -75.56666667)",60,1988-06-15,1991-01-15,Lago La Esmerald
+13077250,MARIA LA [13077250],Limnimétrica,Suspendida,Sucre,Sincelejo,"(9.2, -75.45)",120,1989-12-15,1991-01-15,Lago La Maria
+13077270,CRUZ CHIQUITA [13077270],Limnimétrica,Suspendida,Córdoba,San Andrés De Sotavento,"(9.21666667, -75.5)",120,1989-12-15,1991-01-15,Lago Cruz Chiqui
+13087010,JUNIN [13087010],Limnimétrica,Suspendida,Córdoba,San Bernardo Del Viento,"(9.23333333, -76.03333333)",24,1987-12-15,1990-09-15,Lago Junin
+25027920,MAGANGUE [25027920],Limnimétrica,Suspendida,Bolívar,Magangué,"(9.23333333, -74.76666667)",16,1977-02-15,1981-07-15,Cga. Grande
+25025110,MAGANGUE [25025110],Climática Ordinaria,Suspendida,Bolívar,Magangué,"(9.23333333, -74.75)",27,1971-01-15,1977-09-15,Cga. Grande
+25028440,BOMBA SUR [25028440],Limnimétrica,Suspendida,Bolívar,Magangué,"(9.23333333, -74.73333333)",16,1987-04-15,1987-07-15,Cga. Sur
+15060130,ESPERANZA LA HACIENDA [15060130],Pluviográfica,Suspendida,La Guajira,Maicao,"(11.142, -72.50847222)",87,1978-05-14 19:00,2019-07-02 6:35,0
+25027680,MAGANGUE [25027680],Limnimétrica,Activa,Bolívar,Magangué,"(9.24, -74.74166667)",18,1967-09-15,,Magdalena(Loba)
+25021030,SAN ZENON [25021030],Pluviométrica,Activa,Magdalena,San Zenón,"(9.2475, -74.50194444)",25,1974-05-15,,Magdalena(Loba)
+25021340,ESPERANZA LA [25021340],Pluviométrica,Activa,Bolívar,Cicuco,"(9.24916667, -74.73611111)",18,1958-09-15,,Magdalena(Loba)
+15015050,AEROPUERTO SIMON BOLIVAR [15015050],Sinóptica Principal,Activa,Magdalena,Santa Marta,"(11.12833333, -74.22888889)",4,1952-06-15,,Tabaco El
+15060180,GLORIA LA [15060180],Pluviométrica,Activa,La Guajira,Hato Nuevo,"(11.13802778, -72.7115)",680,1987-08-15,,Tabaco El
+15010010,MINCA [15010010],Pluviométrica,Activa,Magdalena,Santa Marta,"(11.14083333, -74.12)",640,1962-11-15,,Tabaco El
+15067060,ESPERANZA LA [15067060],Limnimétrica,Activa,La Guajira,Albania (La guajira),"(11.14233333, -72.50819444)",135,1979-03-15,,Ay Bruno
+13080020,LORICA [13080020],Pluviométrica,Suspendida,Córdoba,Lorica,"(9.25, -75.83333333)",80,1958-01-15,1972-10-15,Magdalena(Loba)
+13080040,LORICA [13080040],Pluviométrica,Suspendida,Córdoba,Lorica,"(9.25, -75.83333333)",80,1934-01-15,1958-12-15,Magdalena(Loba)
+25027840,MAGANGUE [25027840],Limnimétrica,Suspendida,Bolívar,Magangué,"(9.25, -74.76666667)",18,1977-02-15,1981-07-15,Cga. Rabon
+15067100,MIRA LA [15067100],Limnigráfica,Suspendida,La Guajira,Hato Nuevo,"(11.11666667, -72.7)",280,1985-12-15,1995-09-15,Ay Agua Blanca
+15067030,EJEMPLO EL [15067030],Limnimétrica,Suspendida,La Guajira,Albania (La guajira),"(11.11666667, -72.58333333)",300,1977-12-15,2003-08-01,Tabaco El
+15060110,EJEMPLO EL [15060110],Pluviométrica,Suspendida,La Guajira,Hato Nuevo,"(11.13333333, -72.6)",116,1978-06-15,1996-02-15,Tabaco El
+15060270,ARENA LA [15060270],Pluviométrica,Activa,La Guajira,Riohacha,"(11.18913889, -72.72791667)",120,1978-10-15,,Gaira
+15037010,ANCHO [15037010],Limnigráfica,Activa,La Guajira,Dibulla,"(11.20505556, -73.46130556)",50,1971-09-15,,Ancho
+15037030,MINGUEO [1503703],Limnimétrica,Activa,La Guajira,Dibulla,"(11.21222222, -73.40333333)",44,1990-06-15,,Canas
+15065120,LAGUNA D OXIDACION [15065120],Meteorológica Especial,Suspendida,La Guajira,Albania (La guajira),"(11.15, -72.58333333)",89,1985-12-15,1996-02-15,Ay Bruno
+15060140,SAN FRANCISCO [15060140],Pluviográfica,Suspendida,La Guajira,Albania (La guajira),"(11.15, -72.53333333)",115,1978-05-15,1996-02-15,Ay Bruno
+15067070,HOLANDA LA [15067070],Limnimétrica,Suspendida,La Guajira,Albania (La guajira),"(11.16666667, -72.53333333)",115,1979-03-15,2002-02-15,Ay Bruno
+15065090,AEROPUERTO INTERCOR [15065090],Meteorológica Especial,Suspendida,La Guajira,Albania (La guajira),"(11.16666667, -72.5)",150,1981-10-15,1987-10-15,Ay Bruno
+15017010,GAIRA [15017010],Limnimétrica,Suspendida,Magdalena,Santa Marta,"(11.18333333, -74.18333333)",10,1964-09-15,1981-02-15,Gaira
+15010100,PLTA GAIRA [15010100],Pluviométrica,Suspendida,Magdalena,Santa Marta,"(11.18333333, -74.16666667)",150,1964-05-15,1971-09-15,Gaira
+15065030,ARENA LA [15065030],Climática Ordinaria,Suspendida,La Guajira,Riohacha,"(11.18913889, -72.72791667)",120,1972-10-15,1978-10-15,Gaira
+15010200,PLASTICOS MAGDALEN [15010200],Pluviométrica,Suspendida,Magdalena,Santa Marta,"(11.2, -74.2)",20,1965-01-15,1971-09-15,Gaira
+15010190,CACAOS LOS [15010190],Pluviométrica,Suspendida,Magdalena,Santa Marta,"(11.2, -74.08333333)",500,1965-04-15,1971-09-15,Gaira
+15040030,RIO SAN FRANCISCO [15040030],Pluviométrica,Suspendida,La Guajira,Riohacha,"(11.11666667, -72.98333333)",180,1973-11-15,1993-11-15,Canas
+15015010,CENTRO AGRO SENA [15015010],Climática Ordinaria,Suspendida,Magdalena,Santa Marta,"(11.21666667, -74.18333333)",7,1973-05-15,1979-02-15,Canas
+15010501,IDEAM SANTA MARTA [15010501],Pluviométrica,Activa,Magdalena,Santa Marta,"(11.22222222, -74.17991667)",20,2007-06-24 19:00,,0
+15065060,BUENA FE LA [15065060],Climática Ordinaria,Suspendida,La Guajira,Riohacha,"(11.21666667, -72.83333333)",50,1971-09-15,1972-03-15,Canas
+15017050,SAN P. ALEJANDRINO [15017050],Limnimétrica,Suspendida,Magdalena,Santa Marta,"(11.23333333, -74.18333333)",20,1972-10-15,1987-07-15,Manzanares
+15010240,CUBILETE EL BONDA [15010240],Pluviométrica,Suspendida,Magdalena,Santa Marta,"(11.23333333, -74.15)",50,1965-02-15,1971-09-15,Manzanares
+15040010,ALTO RIO CORUAL [15040010],Pluviométrica,Suspendida,La Guajira,Riohacha,"(11.23333333, -73.15)",200,1973-10-15,1993-11-15,Manzanares
+15047010,ANAIME [15047010],Limnigráfica,Suspendida,La Guajira,Riohacha,"(11.23333333, -73.05)",31,1975-10-15,1980-10-15,Tapias
+15085030,ESCUELA AGRICOLA CARRAIPIA  - AUT [15085030],Climática Ordinaria,Activa,La Guajira,Maicao,"(11.21675, -72.35994444)",118,1968-10-14 19:00,,0
+21167060,SAN PABLO TOLIMA  - AUT [21167060],Limnigráfica,Activa,Tolima,Cunday,"(3.92666667, -74.65694444)",744,1971-04-14 19:00,,Cuinde
+15060020,CUESTECITA [15060020],Pluviométrica,Activa,La Guajira,Albania (La guajira),"(11.19738889, -72.61180556)",93,1959-05-15,,Gaira
+15010170,ONACA [15010170],Pluviométrica,Suspendida,Magdalena,Santa Marta,"(11.19972222, -73.84027778)",900,1965-04-15,1971-09-15,Gaira
+21127030,SANTA MARIA  - AUT [21127030],Limnigráfica,Activa,Huila,Santa María (Huila),"(2.97177778, -75.59244444)",1270,1971-09-14 19:00,,Bache
+27030040,GUAMO EL [27030040],Pluviométrica,Activa,Antioquia,Nechí,"(7.90441667, -74.814)",40,1970-05-15,,Cali
+16030090,VILLA CARO [16030090],Pluviométrica,Activa,Norte de Santander,Villa Caro,"(7.91472222, -72.98)",1490,1973-08-15,,Cali
+12015050,RIOGRANDE [12015050],Climática Ordinaria,Suspendida,Antioquia,Turbo,"(7.91666667, -76.63333333)",20,1982-09-15,1992-12-15,Cali
+13020020,CIELO EL [13020020],Pluviométrica,Suspendida,Córdoba,Tierralta,"(7.91666667, -76.41666667)",650,1973-09-15,2002-02-15,Cali
+16055030,MARIA LA [16055030],Climática Ordinaria,Suspendida,Norte de Santander,Ábrego,"(7.91666667, -73.21666667)",2140,1973-08-15,1978-08-15,Cali
+12010120,SANTA MARTHA [12010120],Pluviométrica,Activa,Antioquia,Turbo,"(7.92383333, -76.64908333)",130,1977-07-15,,Peralonso
+16015501,AEROPUERTO CAMILO DAZA - AUT [16015501],Sinóptica Principal,Activa,Norte de Santander,Cúcuta,"(7.93161111, -72.51125)",313,2015-06-10,,Grande
+12010100,EUPOL [12010100],Pluviométrica,Activa,Antioquia,Turbo,"(7.94552778, -76.61738889)",10,1977-07-15,,El Zulia
+16027110,TAPONERA LA [16027110],Limnimétrica,Suspendida,Norte de Santander,San Cayetano (Norte de Santander),"(7.91666667, -72.63333333)",300,1973-05-15,1989-01-15,Peralonso
+12010140,RIOGRANDE [12010140],Pluviométrica,Suspendida,Antioquia,Turbo,"(7.93333333, -76.63333333)",5,1972-01-15,1977-07-15,Grande
+13010020,TUCURA [13010020],Pluviométrica,Suspendida,Córdoba,Tierralta,"(7.93333333, -76.26666667)",120,1959-08-15,1973-09-15,Grande
+16027090,MESA LA [16027090],Limnimétrica,Suspendida,Norte de Santander,El Zulia,"(7.93333333, -72.65)",300,1969-03-15,1989-01-15,Peralonso
+16027130,ZULIA PUENTE OSPINA [16027130],Limnimétrica,Suspendida,Norte de Santander,Cúcuta,"(7.93333333, -72.56666667)",174,1967-01-15,1974-01-15,El Zulia
+12015040,NEGRA LA 1 [12015040],Meteorológica Especial,Suspendida,Antioquia,Turbo,"(7.95, -76.68333333)",2,1977-07-15,1982-12-15,El Zulia
+12010180,CHOROMANDO HACIENDA [12010180],Pluviográfica,Suspendida,Antioquia,Turbo,"(7.95, -76.58333333)",150,1984-08-15,1997-10-15,El Zulia
+13035010,PUERTO NUEVO [13035010],Climática Principal,Suspendida,Córdoba,Tierralta,"(7.95, -76.28333333)",145,1965-09-15,1991-12-15,El Zulia
+16020300,VALE  MONTEVIDE [16020300],Pluviométrica,Suspendida,Norte de Santander,Cúcuta,"(7.95, -72.6)",200,1961-01-15,1978-05-15,El Zulia
+16030080,LOURDES [16030080],Pluviométrica,Activa,Norte de Santander,Lourdes,"(7.95027778, -72.8325)",1200,1973-03-15,,El Zulia
+23200010,SIMITI [23200010],Pluviométrica,Activa,Bolívar,Simití,"(7.96027778, -73.95055556)",64,1964-06-15,,El Zulia
+27015260,SALADA LA [27015260],Agrometeorológica,Activa,Antioquia,Caldas (Antioquia),"(6.04836111, -75.62466667)",1923,1984-07-15,,Meta
+35250010,LA AURORA [35250010],Pluviométrica,Activa,Vichada,La Primavera,"(6.09561111, -69.42341667)",82,1983-06-14 19:00,,0
+23080750,COCORNA [23080750],Pluviométrica,Activa,Antioquia,Cocorná,"(6.05333333, -75.18261111)",1455,1975-05-15,,Orinoco
+24030570,APOSENTOS [24030570],Pluviométrica,Activa,Boyacá,Socotá,"(6.06208333, -72.63533333)",2328,1971-05-15,,Orinoco
+26200120,OTRAMINA [26200120],Pluviométrica,Activa,Antioquia,Titiribí,"(6.07294444, -75.79458333)",515,1970-10-15,,Orinoco
+23080650,CAMPOALEGRE [23080650],Pluviométrica,Activa,Antioquia,Carmen De Viboral,"(6.07377778, -75.33561111)",1850,1973-06-15,,Orinoco
+24010110,COMODA LA [24010110],Pluviométrica,Activa,Boyacá,Santana,"(6.07694444, -73.46916667)",1520,1954-02-15,,Orinoco
+36020010,PUENTE QUEMADO [36020010],Pluviométrica,Activa,Casanare,Sácama,"(6.08822222, -72.19063889)",120,1984-02-15,,Casanare
+27015160,CLARA LA [27015160],Agrometeorológica,Suspendida,Antioquia,Caldas (Antioquia),"(6.06666667, -75.6)",2500,1975-03-15,1978-09-15,Orinoco
+23127080,SALADO EL [23127080],Limnigráfica,Suspendida,Santander,Bolivar (Santander),"(6.08333333, -74.11666667)",200,1984-08-15,1987-08-15,Minero
+24010790,PAMPLONILLA [24010790],Pluviométrica,Suspendida,Santander,Suaita,"(6.08333333, -73.38333333)",20,1980-09-15,2002-03-15,Minero
+36027010,PUENTE QUEMADO [36027010],Limnigráfica,Suspendida,Arauca,Tame,"(6.08333333, -72.18333333)",850,1984-02-15,2002-02-15,Casanare
+24010760,SUAITA [24010760],Pluviométrica,Activa,Santander,Suaita,"(6.099, -73.44138889)",1660,1958-03-15,,Casanare
+26210080,HERRADURA LA [26210080],Pluviométrica,Activa,Antioquia,Concordia (Antioquia),"(6.09922222, -75.87397222)",620,1970-10-15,,Casanare
+24030860,CAPILLA LA [24030860],Pluviométrica,Activa,Boyacá,Tutazá,"(6.10072222, -72.86666667)",2800,1980-08-15,,Casanare
+11050030,BUEY EL [1105003],Pluviométrica,Activa,Chocó,Medio Atrato (Beté),"(6.1025, -76.82136111)",25,1977-02-15,,Casanare
+11050060,ALTO DEL BUEY [11050060],Pluviométrica,Activa,Chocó,Medio Atrato (Beté),"(6.10833333, -76.91563889)",100,1977-02-15,,Casanare
+24035320,SATIVANORTE [24035320],Climática Ordinaria,Activa,Boyacá,Sativanorte,"(6.11686111, -72.70483333)",2594,1974-06-15,,Suarez
+23127060,SANTA ROSA  - AUT [23127060],Limnimétrica,Activa,Santander,Cimitarra,"(6.29194444, -74.09833333)",154,1975-04-14 19:00,,Carare
+36020020,CABUYA LA [36020020],Pluviométrica,Activa,Casanare,Hato Corozal,"(6.12791667, -72.01022222)",575,1984-02-15,,Suarez
+24017710,MAMARUCO [24017710],Limnimétrica,Suspendida,Santander,Suaita,"(6.11666667, -73.48333333)",10,1980-08-15,1989-12-15,Suarez
+24010770,SAN PEDRO HACIENDA [24010770],Pluviométrica,Suspendida,Santander,Suaita,"(6.11666667, -73.45)",1400,1979-11-15,2002-03-15,Suarez
+37045010,SARAVENA  - AUT [37045010],Climática Ordinaria,Suspendida,Arauca,Saravena,"(6.94638889, -71.89055556)",148,1971-08-14 19:00,2019-05-23 4:48,0
+26155170,TESORITO FINCA  - AUT [26155170],Climática Ordinaria,Activa,Caldas,Manizales,"(5.03222222, -75.43833333)",2325,1992-10-14 19:00,,0
+24020040,ENCINO [24020040],Pluviográfica,Activa,Santander,Encino,"(6.13833333, -73.09805556)",1814,1954-11-15,,Barroso
+24030670,SANTA ROSITA [24030670],Pluviométrica,Activa,Boyacá,Sativanorte,"(6.13963889, -72.771)",3240,1974-06-15,,Barroso
+24030580,JERICO [24030580],Pluviométrica,Activa,Boyacá,Jericó (Boyacá),"(6.14147222, -72.59333333)",2962,1971-06-15,,Barroso
+23080820,TAFETANES [23080820],Pluviométrica,Activa,Antioquia,Granada (Antioquia),"(6.14672222, -75.11775)",2180,1983-05-15,,Meta
+35257030,PUERTO FORTUNA [35257030],Limnimétrica,Activa,Vichada,La Primavera,"(6.15, -68.78)",73,1983-02-15,,Meta
+11070130,BRECHON EL [11070130],Pluviométrica,Suspendida,Antioquia,Urrao,"(6.13333333, -76.03333333)",2320,1970-10-15,2000-01-15,Barroso
+23080910,MEDIOS LOS [23080910],Pluviográfica,Suspendida,Antioquia,Granada (Antioquia),"(6.13333333, -75.08333333)",1630,1991-06-15,1999-03-15,Barroso
+23087300,CASAMIA [23087300],Limnimétrica,Suspendida,Antioquia,Rionegro (Antioquia),"(6.14219444, -75.37655556)",223,1992-05-15,2014-08-28,Quebrada La Pereira
+23085010,CALDERAS [23085010],Climática Principal,Suspendida,Antioquia,San Carlos (Antioquia),"(6.15, -75.06666667)",1320,1985-08-15,1988-07-15,Meta
+24010650,OLIVAL [24010650],Pluviométrica,Activa,Santander,Suaita,"(6.15138889, -73.34166667)",1502,1973-11-15,,Casanare
+24020220,PAVAS LAS [24020220],Pluviométrica,Activa,Santander,Coromoro,"(6.15272222, -72.96458333)",2625,1983-04-15,,Casanare
+23085220,SAN CARLOS [23085220],Climática Principal,Activa,Antioquia,San Carlos (Antioquia),"(6.15766667, -75.03891667)",1113,1983-05-15,,Casanare
+26200140,ARMENIA [26200140],Pluviométrica,Activa,Antioquia,Armenia (Antioquia),"(6.15797222, -75.77152778)",1800,1975-04-15,,Casanare
+23087260,COLTEPUNTO RNS 19 [23087260],Limnigráfica,Activa,Antioquia,Rionegro (Antioquia),"(6.16891667, -75.35741667)",280,1977-08-15,,Quebrada La Cimarrona
+23080640,MARINILLA [23080640],Pluviométrica,Activa,Antioquia,Marinilla,"(6.17108333, -75.328)",2150,1973-06-15,,Quebrada La Cimarrona
+35250040,ACEITICO [35250040],Pluviométrica,Activa,Vichada,Puerto Carreño,"(6.17541667, -68.39436111)",67,1983-06-15,,Marinilla
+23107040,VEGACHI [23107040],Limnimétrica,Activa,Antioquia,Vegachí,"(6.77236111, -74.79758333)",630,1975-04-15,,Volcan
+23147020,PUENTE FERROCARRIL [23147020],Limnigráfica,Activa,Santander,Simacota,"(6.77361111, -73.935)",90,1971-08-15,,Opon
+11115040,MUSINGA [11115040],Climática Ordinaria,Activa,Antioquia,Frontino,"(6.77797222, -76.20333333)",1396,1984-08-15,,Opon
+23127070,ANGUSTIAS LAS [23127070],Limnigráfica,Suspendida,Santander,Bolivar (Santander),"(6.16666667, -74.1)",190,1984-08-15,1995-09-15,Minero
+38015020,MEREY EL [38015020],Climática Principal,Suspendida,Vichada,Puerto Carreño,"(6.16666667, -67.53333333)",55,1968-01-15,1972-05-15,Minero
+23105030,VEGACHI [23105030],Climática Ordinaria,Activa,Antioquia,Vegachí,"(6.77411111, -74.79652778)",990,1975-04-14 19:00,,0
+26230220,OCULTA LA [26230220],Pluviométrica,Activa,Antioquia,Belmira,"(6.77938889, -75.63858333)",2300,1983-09-15,,Opon
+24055030,ZAPATOCA [24055030],Climática Ordinaria,Activa,Santander,Zapatoca,"(6.79277778, -73.28275)",1810,1973-06-15,,Opon
+37010050,TABETA [37010050],Pluviométrica,Activa,Santander,Concepción (Santander),"(6.81027778, -72.55611111)",3168,1979-05-15,,Chicamocha
+11090010,OPOGADO [11090010],Pluviométrica,Activa,Chocó,Bojayá (Bellavista),"(6.81252778, -76.97272222)",50,1977-04-15,,Chicamocha
+27020220,LLANOS D CUIBA LOS [27020220],Pluviométrica,Activa,Antioquia,Yarumal,"(6.81361111, -75.48386111)",2750,1970-11-15,,Chicamocha
+24030270,SAN ANDRES [24030270],Pluviométrica,Activa,Santander,San Andrés (Santander),"(6.83, -72.84416667)",1702,1956-02-15,,Chicamocha
+24030210,CERRITO [24030210],Pluviométrica,Activa,Santander,Cerrito,"(6.83611111, -72.69722222)",2440,1958-02-15,,Chicamocha
+23100030,TIGRE EL [23100030],Pluviométrica,Activa,Antioquia,Vegachí,"(6.84047222, -74.78566667)",1450,1970-06-15,,Chicamocha
+24035400,VOLCAN EL [24035400],Climática Ordinaria,Activa,Santander,Cerrito,"(6.84527778, -72.67777778)",2841,2006-09-08,,Chicamocha
+27015200,NORMANDIA HACIENDA [27015200],Climática Ordinaria,Suspendida,Antioquia,Yolombó,"(6.78333333, -75.11666667)",900,1981-04-15,1998-09-15,Opon
+23137020,PUERTO GAITAN [23137020],Limnimétrica,Suspendida,Santander,Puerto Parra,"(6.8, -74.1)",94,1979-04-15,1986-11-15,Magdalena
+24037350,PUENTE PESCADERO [24037350],Limnimétrica,Suspendida,Santander,Aratoca,"(6.8, -73.05)",2860,1971-11-15,1975-06-15,Chicamocha
+36030040,BANADIA [36030040],Pluviométrica,Suspendida,Arauca,Saravena,"(6.8, -71.83333333)",300,1982-12-15,1993-11-15,Chicamocha
+11115030,NUTIBARA [11115030],Climática Ordinaria,Suspendida,Antioquia,Frontino,"(6.81666667, -76.25)",1400,1973-07-15,1981-09-15,Chicamocha
+24035270,TINAGA GRANJA [24035270],Climática Ordinaria,Suspendida,Santander,Cerrito,"(6.84083333, -72.7075)",2698,1973-12-15,2009-08-18,Chicamocha
+26230200,SABANALARGA [26230200],Pluviográfica,Activa,Antioquia,Sabanalarga (Antioquia),"(6.846, -75.81480556)",10,1975-03-15,,Chicamocha
+38017010,PUERTO CARREÑO [38017010],Limnimétrica,Activa,Vichada,Puerto Carreño,"(6.17652778, -67.47958333)",55,1983-02-14 19:00,,Orinoco
+11110030,FUEMIA [11110030],Pluviométrica,Activa,Antioquia,Frontino,"(6.85805556, -76.25222222)",905,1977-03-15,,La Colorada
+23155040,CENTRO EL [23155040],Climática Ordinaria,Activa,Santander,Barrancabermeja,"(6.85955556, -73.76508333)",114,1937-01-15,,La Colorada
+35250020,PATEVACAL [35250020],Pluviométrica,Activa,Vichada,La Primavera,"(6.17661111, -69.12780556)",76,1983-06-15,,Orinoco
+27010770,CHUSCAL EL [27010770],Pluviométrica,Activa,Antioquia,Heliconia,"(6.17833333, -75.70508333)",255,1970-08-15,,Orinoco
+23087670,RIOTEX [23087670],Limnigráfica,Activa,Antioquia,Rionegro (Antioquia),"(6.18125, -75.36638889)",2114,1992-03-15,,Quebrada La Mosca
+35257040,ACEITICO [35257040],Limnigráfica,Activa,Vichada,Puerto Carreño,"(6.18355556, -68.44147222)",67,1983-02-15,,Meta
+24030370,SUSA [24030370],Pluviográfica,Activa,Santander,Onzaga,"(6.1885, -72.83483333)",380,1959-11-15,,Meta
+23110060,PADILLA [23110060],Pluviométrica,Activa,Santander,Cimitarra,"(6.19361111, -74.33305556)",171,1984-05-15,,Meta
+23115020,PADILLA [23115020],Climática Ordinaria,Suspendida,Santander,Cimitarra,"(6.2, -74.36666667)",100,1975-04-15,1983-05-15,Negro
+27010810,SANTA HELENA [27010810],Climática Ordinaria,Activa,Antioquia,Medellín,"(6.19688889, -75.51675)",2550,1970-08-15,,0
+26227010,PURGATORIO [26227010],Limnigráfica,Suspendida,Antioquia,Buriticá,"(6.86666667, -75.86666667)",398,1980-05-15,1995-11-15,Cauca
+23080800,PATIO BONITO [23080800],Pluviográfica,Suspendida,Antioquia,San Carlos (Antioquia),"(6.18333333, -74.9)",975,1982-11-15,2000-11-15,Quebrada La Mosca
+24035250,CHITA  - AUT [24035250],Climática Ordinaria,Activa,Boyacá,Chita,"(6.18833333, -72.46633333)",2888,1970-12-14 19:00,,0
+12015060,TULENAPA  - AUT [12015060],Climática Ordinaria,Suspendida,Antioquia,Carepa,"(7.77394444, -76.66575)",39,1982-08-14 19:00,2019-05-23 4:53,0
+23085110,PENOL EL [23085110],Climática Ordinaria,Activa,Antioquia,Peñol,"(6.21422222, -75.24130556)",247,1973-06-15,,Nare
+26210140,ALTAMIRA [26210140],Pluviométrica,Activa,Antioquia,Betulia (Antioquia),"(6.21852778, -75.9455)",232,1975-04-15,,Atrato
+35257020,PATEVACAL [35257020],Limnimétrica,Activa,Vichada,La Primavera,"(6.17605556, -69.12872222)",76,1983-02-15,,Meta
+23125130,LANDAZURI [23125130],Pluviográfica,Activa,Santander,Landázuri,"(6.22138889, -73.80888889)",935,1975-04-15,,0
+23097040,PUERTO INMARCO [23097040],Limnigráfica,Activa,Antioquia,Puerto Nare,"(6.2215, -74.56955556)",1371,1973-06-15,,Magdalena
+23085130,SAN CARLOS [23085130],Climática Ordinaria,Suspendida,Antioquia,San Carlos (Antioquia),"(6.2, -74.98333333)",160,1973-05-15,1980-09-15,Negro
+23080490,SAN CARLOS [23080490],Pluviográfica,Suspendida,Antioquia,San Carlos (Antioquia),"(6.2, -74.98333333)",160,1968-02-15,1992-04-15,Negro
+23080930,POPO EL [23080930],Pluviográfica,Suspendida,Antioquia,San Carlos (Antioquia),"(6.2, -74.98333333)",110,1992-05-15,2002-08-15,Negro
+23080400,SAN CARLOS [23080400],Pluviométrica,Suspendida,Antioquia,San Carlos (Antioquia),"(6.2, -74.98333333)",160,1963-08-15,1965-04-15,Negro
+35060240,GAMA [35060240],Pluviométrica,Activa,Cundinamarca,Gama,"(4.76427778, -73.60991667)",2210,1972-08-15,,San Juan
+26217040,CANGREJO EL [26217040],Limnigráfica,Suspendida,Antioquia,Betulia (Antioquia),"(6.20972222, -75.86069444)",558,1978-05-15,2010-10-20,San Mateo
+11057010,TAGACHI [11057010],Limnimétrica,Suspendida,Chocó,Quibdó,"(6.21666667, -76.71666667)",18,1966-04-15,2002-02-15,Atrato
+23120090,LANDAZURI [23120090],Pluviométrica,Suspendida,Santander,Vélez,"(6.21666667, -73.81666667)",185,1959-10-15,1975-03-15,Atrato
+11050010,TAGACHI [11050010],Pluviométrica,Activa,Chocó,Quibdó,"(6.22177778, -76.72702778)",20,1966-01-15,,Magdalena
+24030240,SUSACON [24030240],Pluviométrica,Activa,Boyacá,Susacón,"(6.23175, -72.68933333)",2550,1958-02-15,,Pienta
+24030850,ASERRIO EL [24030850],Pluviométrica,Activa,Santander,Onzaga,"(6.23258333, -72.78119444)",2500,1980-08-15,,Pienta
+36020030,SANTA INES [36020030],Pluviométrica,Activa,Arauca,Tame,"(6.23488889, -71.9755)",860,1984-02-15,,Casanare
+24015250,LAJA LA [24015250],Climática Ordinaria,Activa,Santander,Guadalupe (Santander),"(6.23716667, -73.41538889)",1400,1973-11-15,,Casanare
+27015502,SOLMAFORO MEDELLIN [27015502],Meteorológica Especial,Activa,Antioquia,Medellín,"(6.24513056, -75.57697778)",1494,2015-12-03,,Casanare
+26180250,VALLE ALTO  - AUT [26180250],Pluviográfica,Activa,Caldas,Salamina (Caldas),"(5.35, -75.31777778)",2800,1994-04-14 19:00,,0
+24035010,CUSAGUI [24035010],Climática Ordinaria,Activa,Boyacá,La Uvita,"(6.24811111, -72.54888889)",2950,1986-05-15,,Casanare
+24020230,PUEBLO VIEJO [24020230],Pluviométrica,Activa,Santander,Coromoro,"(6.24877778, -72.94672222)",2107,1983-04-15,,Casanare
+23080810,JORDAN EL [23080810],Pluviográfica,Activa,Antioquia,San Carlos (Antioquia),"(6.2495, -74.82811111)",1950,1982-11-15,,Casanare
+23087480,CANAL DE FUGA [23087480],Limnigráfica,Suspendida,Antioquia,San Carlos (Antioquia),"(6.23333333, -74.88333333)",1180,1987-03-15,1990-11-15,Calderas
+36027040,SAN SALVADOR [36027040],Limnimétrica,Suspendida,Casanare,Hato Corozal,"(6.23333333, -71.61666667)",172,1984-02-15,2002-02-15,Casanare
+23097050,PUERTO SUIZA [23097050],Limnimétrica,Suspendida,Antioquia,Puerto Nare,"(6.25, -74.56666667)",121,1977-04-15,1986-11-15,Magdalena
+56015010,PANAMERICANA [56015010],Climática Ordinaria,Activa,Chocó,Bahía Solano (Mutis),"(6.22333333, -77.40444444)",4,1963-01-14 19:00,,0
+27011110,ASTILLEROS [27011110],Pluviométrica,Activa,Antioquia,Medellín,"(6.25730556, -75.67586111)",2450,1990-10-15,,San Lope
+24010240,OIBA [24010240],Pluviométrica,Activa,Santander,Oiba,"(6.2625, -73.30333333)",1400,1958-11-15,,San Lope
+24025050,CHARALA [24025050],Climática Ordinaria,Activa,Santander,Charalá,"(6.27416667, -73.15055556)",1350,1973-11-15,,San Lope
+23080720,CANTERAS [23080720],Pluviométrica,Activa,Antioquia,Puerto Nare,"(6.27616667, -74.67433333)",1723,1979-03-15,,San Lope
+11077020,LA MAGDALENA - AUT [11077020],Limnigráfica,Activa,Antioquia,Urrao,"(6.29836111, -76.13447222)",1770,1972-09-14 19:00,,Penderisco
+36027050,CRAVO NORTE [36027050],Limnimétrica,Activa,Arauca,Cravo Norte,"(6.29563889, -70.19433333)",91,1988-05-15,,Casanare
+24020120,COROMORO [24020120],Pluviométrica,Activa,Santander,Coromoro,"(6.29944444, -73.04472222)",1520,1973-11-15,,Penderisco
+24017520,OIBA-PUENTE VARGAS [24017520],Limnimétrica,Suspendida,Santander,Oiba,"(6.25, -73.33333333)",1400,1957-11-15,1975-07-15,Oibita
+36027030,SANTA INES [36027030],Limnimétrica,Suspendida,Arauca,Tame,"(6.25, -72.0)",694,1984-02-15,2002-02-15,San Lope
+27015270,JARDIN BOTANICO [27015270],Climática Ordinaria,Suspendida,Antioquia,Medellín,"(6.26691667, -75.56316667)",1435,2002-05-15,2009-08-18,San Lope
+24020210,CHARALA [24020210],Pluviográfica,Suspendida,Santander,Charalá,"(6.27416667, -73.15055556)",1350,1968-02-15,1971-09-15,San Lope
+24020030,CHARALA [24020030],Pluviométrica,Suspendida,Santander,Charalá,"(6.27416667, -73.15055556)",1350,1954-09-15,1973-11-15,San Lope
+27015210,VIVERO EL [27015210],Climática Principal,Suspendida,Antioquia,Guarne,"(6.28333333, -75.5)",2400,1982-07-15,1996-06-15,San Lope
+24027050,PUENTE LLANO [24027050],Limnimétrica,Activa,Santander,Charalá,"(6.285, -73.12611111)",1280,1971-08-14 19:00,,Taquiza
+24015300,VILLA DE LEIVA  - AUT [24015300],Climática Principal,Activa,Boyacá,Villa De Leiva,"(5.65583333, -73.54394444)",2215,1979-12-14 19:00,,0
+26210090,ANZA [26210090],Pluviométrica,Activa,Antioquia,Anzá,"(6.30313889, -75.85925)",550,1970-10-15,,Penderisco
+23125120,CIMITARRA [23125120],Climática Ordinaria,Activa,Santander,Cimitarra,"(6.30861111, -73.95222222)",198,1975-04-15,,Penderisco
+23085160,CORRIENTES [23085160],Climática Ordinaria,Activa,Antioquia,San Vicente,"(6.31194444, -75.25355556)",1965,1975-05-15,,Penderisco
+27011120,IGUANA LA [27011120],Pluviográfica,Activa,Antioquia,Medellín,"(6.31627778, -75.65752778)",2300,1990-10-15,,Penderisco
+27015090,TULIO OSPINA [27015090],Climática Ordinaria,Activa,Antioquia,Bello,"(6.31969444, -75.55325)",1453,1950-09-15,,Penderisco
+24011070,SANTUARIO EL [24011070],Pluviométrica,Activa,Santander,El Guacamayo,"(6.32361111, -73.46722222)",1800,1984-09-15,,Penderisco
+11075020,URRAO [11075020],Climática Ordinaria,Activa,Antioquia,Urrao,"(6.29830556, -76.14330556)",1833,1973-06-15,,0
+24035330,BOAVITA [24035330],Agrometeorológica,Activa,Boyacá,Boavita,"(6.32897222, -72.58227778)",2150,1978-08-15,,Penderisco
+27010060,MEDELLIN  [27010060],Pluviométrica,Suspendida,Antioquia,Medellín,"(6.25, -75.58333333)",1549,1918-01-15,1923-04-15,Abreito
+11070020,ROBLE EL [11070020],Pluviométrica,Activa,Antioquia,Urrao,"(6.33222222, -76.22861111)",250,1977-03-15,,Penderisco
+26205080,ALDEA LA [26205080],Meteorológica Especial,Activa,Antioquia,Medellín,"(6.34105556, -75.70094444)",1737,1990-09-15,,Penderisco
+23080730,TEJAR EL [23080730],Pluviográfica,Suspendida,Antioquia,San Rafael,"(6.3, -75.03333333)",120,1973-05-15,1994-05-15,Penderisco
+23120180,CIMITARRA [23120180],Pluviométrica,Suspendida,Santander,Cimitarra,"(6.31666667, -73.95)",200,1971-09-15,1975-07-15,Penderisco
+11070040,URRAO [11070040],Pluviométrica,Suspendida,Antioquia,Urrao,"(6.33333333, -76.16666667)",1875,1969-01-15,1973-07-15,Penderisco
+24030280,BOAVITA [24030280],Pluviométrica,Suspendida,Boyacá,Boavita,"(6.33333333, -72.6)",20,1958-07-15,1978-07-15,Penderisco
+23085210,VIOLETAS LAS [23085210],Climática Principal,Suspendida,Antioquia,San Rafael,"(6.34888889, -75.00277778)",116,1982-11-15,2011-09-30,Penderisco
+24015260,CHIMA [24015260],Climática Ordinaria,Activa,Santander,Chima (Santander),"(6.355, -73.36833333)",190,1973-12-15,,Cauca
+24010230,CONFINES [24010230],Pluviométrica,Activa,Santander,Confines,"(6.35527778, -73.23972222)",1523,1958-08-15,,Cauca
+35095130,LAGUNA LA PLAZA [35095130],Climática Principal,Activa,Arauca,Saravena,"(6.362, -72.28201667)",4378,2010-09-17,,Cauca
+27010820,CUCHILLA LA [27010820],Pluviométrica,Activa,Antioquia,Girardota,"(6.36833333, -75.45361111)",1600,1970-08-15,,Cauca
+24030660,MORTINO EL [24030660],Pluviométrica,Activa,Boyacá,El Cocuy,"(6.37511111, -72.419)",3409,1974-06-15,,Cauca
+23085030,ALEJANDRIA [23085030],Climática Ordinaria,Activa,Antioquia,Alejandría,"(6.37625, -75.14338889)",1712,1988-09-15,,Quebrada La Concepcion
+26217060,AGARA [26217060],Limnimétrica,Suspendida,Antioquia,Anzá,"(6.35, -75.83333333)",475,1979-11-15,2002-04-15,Cauca
+27010780,BOQUERON [27010780],Pluviométrica,Suspendida,Antioquia,Medellín,"(6.35, -75.68333333)",2510,1970-08-15,1990-11-15,Cauca
+24020160,CARMEN EL HACIENDA [24020160],Pluviométrica,Suspendida,Santander,Ocamonte,"(6.35, -73.11666667)",1400,1979-10-15,1983-06-15,Cauca
+24010220,CHIMA [24010220],Pluviométrica,Suspendida,Santander,Chima (Santander),"(6.355, -73.36833333)",190,1958-08-15,1973-11-15,Cauca
+11075010,HONDA LA [11075010],Climática Ordinaria,Suspendida,Antioquia,Urrao,"(6.35638889, -76.15805556)",1850,1990-07-15,2011-05-10,Cauca
+26205040,IGUINA HACIENDA [26205040],Climática Ordinaria,Suspendida,Antioquia,Anzá,"(6.36666667, -75.86666667)",480,1978-10-15,1980-10-15,Cauca
+24010740,RODEO EL HACIENDA [24010740],Pluviométrica,Suspendida,Santander,Chima (Santander),"(6.36666667, -73.36666667)",1200,1979-10-15,2002-03-15,Cauca
+23080680,ALEJANDRIA [23080680],Pluviométrica,Suspendida,Antioquia,Alejandría,"(6.38333333, -75.15)",1700,1973-06-15,1988-09-15,Quebrada La Concepcion
+23080630,TOPACIO EL [23080630],Pluviográfica,Suspendida,Antioquia,San Rafael,"(6.38333333, -74.98333333)",1340,1973-05-15,1991-11-15,Quebrada La Concepcion
+26217050,CAÑAFISTO [26217050],Limnigráfica,Activa,Antioquia,Santa Fe De Antioquia,"(6.41797222, -75.81925)",466,1978-11-14 19:00,,Cauca
+23080940,PRESA SAN LORENZO [23080940],Pluviográfica,Activa,Antioquia,Alejandría,"(6.38458333, -74.99677778)",1700,1992-07-15,,Chicamocha
+23090020,VIRGINIAS [23090020],Pluviométrica,Activa,Antioquia,Puerto Berrío,"(6.39355556, -74.68180556)",975,1976-07-15,,Chicamocha
+23080740,CONCEPCION [23080740],Pluviométrica,Activa,Antioquia,Concepción (Antioquia),"(6.39694444, -75.25916667)",1280,1975-05-15,,Chicamocha
+24037370,MOMPA IZQUIERDO [24037370],Limnigráfica,Activa,Santander,Onzaga,"(6.39741667, -72.81719444)",1800,1974-05-15,,Onzaga
+27010800,MESETA LA SN PEDRO [27010800],Pluviométrica,Activa,Antioquia,Bello,"(6.39972222, -75.60722222)",2600,1970-08-15,,Onzaga
+26210070,CAICEDO [26210070],Pluviométrica,Activa,Antioquia,Caicedo,"(6.40597222, -75.98127778)",550,1970-10-15,,Onzaga
+24030260,COCUY EL [24030260],Pluviométrica,Activa,Boyacá,El Cocuy,"(6.40822222, -72.44544444)",2749,1958-03-15,,Onzaga
+24035240,SIERRA NEVAD COCUY [24035240],Climática Ordinaria,Activa,Boyacá,Guicán,"(6.41008333, -72.37519444)",3716,1974-05-15,,Onzaga
+23120010,VERDE LA [23120010],Pluviométrica,Activa,Santander,Cimitarra,"(6.4125, -73.89972222)",140,1976-07-15,,Onzaga
+26205060,NOQUE LA [26205060],Climática Ordinaria,Suspendida,Antioquia,Anzá,"(6.4, -75.83333333)",450,1981-04-15,1987-05-15,Onzaga
+23080950,VIENTO EL [23080950],Pluviográfica,Suspendida,Antioquia,Alejandría,"(6.4, -75.1)",890,1992-08-15,2004-11-15,Onzaga
+24031010,COCUY EL [24031010],Pluviométrica,Suspendida,Boyacá,El Cocuy,"(6.40822222, -72.44544444)",2749,1934-01-15,1942-05-15,Onzaga
+26215020,CANAFISANTO [26215020],Climática Ordinaria,Suspendida,Antioquia,Santa Fe De Antioquia,"(6.41666667, -75.81666667)",500,1987-06-15,2002-04-15,Onzaga
+24020090,PARAMO [24020090],Pluviométrica,Suspendida,Santander,Páramo,"(6.41666667, -73.16666667)",1353,1958-08-15,1971-09-15,Onzaga
+11060010,BUCHADO [11060010],Pluviométrica,Activa,Antioquia,Vigia Del Fuerte,"(6.42, -76.77927778)",18,1969-01-15,,Cauca
+24030200,SAN JOAQUIN [24030200],Pluviométrica,Activa,Santander,San Joaquín,"(6.42641667, -72.87383333)",20,1958-02-15,,Cauca
+26230180,LLANOS DE SAN JUAN [26230180],Pluviométrica,Activa,Antioquia,San Jerónimo,"(6.427, -75.71775)",1600,1990-11-15,,Cauca
+24020080,VALLE DE SAN JOSE [24020080],Pluviométrica,Activa,Santander,Valle De San José,"(6.44111111, -73.14277778)",1300,1958-04-15,,Nevado
+24010660,SIMACOTA [24010660],Pluviométrica,Activa,Santander,Simacota,"(6.44361111, -73.33388889)",150,1973-11-15,,Nevado
+24017640,LA CEIBA - AUT [24017640],Limnigráfica,Activa,Santander,Socorro,"(6.44888889, -73.30694444)",724,1979-10-14 19:00,,Suarez
+24037040,GUICAN [24037040],Limnimétrica,Activa,Boyacá,Guicán,"(6.45397222, -72.40305556)",2827,1955-07-15,,Nevado
+36025010,TAME [36025010],Climática Ordinaria,Activa,Arauca,Tame,"(6.45619444, -71.74502778)",350,1985-02-15,,Nevado
+24037380,SAN LUIS [24037380],Limnimétrica,Activa,Boyacá,Guicán,"(6.45966667, -72.43086111)",2550,1974-06-15,,Nevado
+26237020,PENALTA [26237020],Limnimétrica,Activa,Antioquia,San Jerónimo,"(6.46261111, -75.75630556)",480,1971-04-15,,Aurra
+26237130,LLANOS DE SAN JUAN [26237130],Limnigráfica,Suspendida,Antioquia,San Jerónimo,"(6.43333333, -75.71666667)",750,1990-11-15,1990-12-15,Quebrada La Munoz
+24010780,SOCORRO [24010780],Pluviométrica,Suspendida,Santander,Socorro,"(6.43333333, -73.26666667)",1240,1956-01-15,1967-06-15,Quebrada La Munoz
+24030830,CHAPETON EL [24030830],Pluviométrica,Suspendida,Boyacá,San Mateo,"(6.45, -72.61666667)",1100,1980-08-15,2002-02-15,Suarez
+24027070,MERIDA - AUT [24027070],Limnigráfica,Activa,Santander,Páramo,"(6.44472222, -73.15833333)",1201,1979-11-14 19:00,,Fonce
+24035070,GUICAN [24035070],Climática Ordinaria,Activa,Boyacá,Guicán,"(6.46347222, -72.40919444)",2963,1991-08-15,,Aurra
+23095010,AEROPUERTO PUERTO BERRIO [23095010],Climática Principal,Suspendida,Antioquia,Puerto Berrío,"(6.465, -74.41222222)",150,1975-04-15,2018-07-13 12:10,0
+23080390,SANTO DOMINGO [23080390],Pluviográfica,Activa,Antioquia,Santo Domingo,"(6.46830556, -75.16380556)",2100,1986-04-15,,Nevado
+24025040,ESCUELA AGRICOLA MOGOTES [24025040],Climática Principal,Activa,Santander,Mogotes,"(6.47, -72.96888889)",1673,1973-11-15,,Nevado
+24015370,HACIENDA MAJAVITA UL [24015370],Climática Principal,Suspendida,Santander,Socorro,"(6.47180556, -73.24858333)",1382,2010-05-22,2018-07-13 12:12,0
+24027060,PUENTE ARCO [24027060],Limnigráfica,Activa,Santander,Valle De San José,"(6.47861111, -73.07361111)",1223,1971-08-15,,Monchia
+23080760,SAN ROQUE [23080760],Pluviométrica,Activa,Antioquia,San Roque,"(6.4875, -75.017)",820,1975-05-15,,Monchia
+23085080,GRANJA EXPERIOMENTAL EL NUS  - AUT [23085080],Climática Principal,Activa,Antioquia,San Roque,"(6.48358333, -74.83669444)",859,1972-05-14 19:00,,0
+24030290,MACARAVITA [24030290],Pluviométrica,Activa,Santander,Macaravita,"(6.49394444, -72.58136111)",1856,1958-07-15,,Rio Cardenillo
+23080660,MORRO EL [23080660],Pluviográfica,Suspendida,Antioquia,Santo Domingo,"(6.46666667, -75.13333333)",2210,1973-05-15,1986-04-15,Aurra
+24037400,TOTUMO [24037400],Limnimétrica,Suspendida,Boyacá,El Espino,"(6.46666667, -72.5)",2560,1974-05-15,1978-03-15,Nevado
+24020050,MOGOTES [24020050],Pluviométrica,Suspendida,Santander,Mogotes,"(6.47, -72.96888889)",1673,1958-06-15,1974-07-15,Nevado
+24030740,MOLINOS LOS [24030740],Pluviométrica,Suspendida,Santander,Capitanejo,"(6.48333333, -72.65)",1397,1978-09-15,2002-02-15,Monchia
+23090040,PUERTO BERRIO [23090040],Pluviométrica,Suspendida,Antioquia,Puerto Berrío,"(6.5, -74.4)",125,1958-08-15,1980-06-15,Rio Cardenillo
+26210130,GUASABRA [26210130],Pluviométrica,Activa,Antioquia,Santa Fe De Antioquia,"(6.50333333, -75.95583333)",1800,1975-03-15,,Fonce
+24025020,CUCHARO EL [24025020],Pluviométrica,Activa,Santander,Pinchote,"(6.53222222, -73.19916667)",975,1953-11-14 19:00,,0
+24037390,CAPITANEJO [24037390],Limnimétrica,Activa,Santander,Capitanejo,"(6.51320806, -72.69545306)",1160,1974-06-15,,Chicamocha
+24030700,COVARACHIA [24030700],Pluviométrica,Activa,Boyacá,Covarachía,"(6.51475, -72.73294444)",2400,1974-06-15,,Chicamocha
+24035260,CAPITANEJO [24035260],Climática Ordinaria,Activa,Santander,Capitanejo,"(6.52072222, -72.69661111)",1160,1974-06-15,,Quebrada La Sopetrana
+24027040,PUENTE CABRA [24027040],Limnigráfica,Activa,Santander,Mogotes,"(6.52916667, -73.00777778)",1700,1971-06-15,,Mogoticos
+23090080,PUERTO BERRIO [23090080],Pluviométrica,Suspendida,Antioquia,Puerto Berrío,"(6.5, -74.4)",125,1931-07-15,1958-12-15,Rio Cardenillo
+23090090,POZOS LOS [23090090],Pluviométrica,Suspendida,Antioquia,Puerto Berrío,"(6.5, -74.38333333)",108,1980-06-15,1988-10-15,Rio Cardenillo
+23125110,PORTUGAL HACIENDA [23125110],Climática Ordinaria,Suspendida,Santander,Cimitarra,"(6.5, -74.05)",200,1975-05-15,1978-03-15,Rio Cardenillo
+24017650,PLAYA LA [24017650],Limnimétrica,Suspendida,Santander,Cabrera (Santander),"(6.5, -73.28333333)",595,1980-03-15,1997-09-15,Suarez
+24027080,AVENTINO EL [24027080],Limnimétrica,Suspendida,Santander,San Gil,"(6.5, -73.11666667)",1145,1979-10-15,1997-09-15,Fonce
+26207090,PASO REAL [26207090],Limnigráfica,Suspendida,Antioquia,Sopetrán,"(6.51666667, -75.81666667)",384,1972-03-15,1978-11-15,Cauca
+26237060,SOPETRAN [26237060],Limnimétrica,Suspendida,Antioquia,Sopetrán,"(6.51666667, -75.75)",680,1980-03-15,1996-04-15,Quebrada La Sopetrana
+11085010,LOMA LA [11085010],Agrometeorológica,Suspendida,Chocó,Bojayá (Bellavista),"(6.53333333, -76.98333333)",20,1980-09-15,2000-07-15,Mogoticos
+23120200,PUERTO ARAUJO ALERTAS [23120200],Pluviométrica,Activa,Santander,Cimitarra,"(6.53388889, -74.0825)",118,1979-10-15,,Mogoticos
+26217010,LA GALERA - AUT [26217010],Limnigráfica,Activa,Antioquia,Santa Fe De Antioquia,"(6.55497222, -75.86419444)",538,1970-11-14 19:00,,Tonusco
+11070030,CLARITA LA [11070030],Pluviométrica,Activa,Antioquia,Urrao,"(6.53944444, -76.15861111)",2150,1977-03-15,,Mogoticos
+27015190,GUAYABITO [27015190],Climática Ordinaria,Activa,Antioquia,Santo Domingo,"(6.54038889, -75.14675)",1440,1970-05-15,,Mogoticos
+24035310,CHISCAS [24035310],Climática Ordinaria,Activa,Boyacá,Chiscas,"(6.54952778, -72.50472222)",2350,1974-06-15,,Fonce
+24055040,PALMAR EL [24055040],Climática Ordinaria,Activa,Santander,Palmar,"(6.54972222, -73.292)",940,1984-02-15,,Fonce
+23195090,VIVERO SURATA  - AUT [23195090],Climática Ordinaria,Activa,Santander,Suratá,"(7.36583333, -72.9875)",1725,1968-09-14 19:00,,0
+52055160,VOLCAN CHILES  - AUT [52055160],Climática Principal,Activa,Nariño,Cumbal,"(0.84658333, -77.92122222)",442,2005-12-16 19:00,,0
+27010830,SAN ISIDRO [27010830],Pluviométrica,Activa,Antioquia,Entrerrios,"(6.56322222, -75.51575)",2320,1970-08-15,,Atrato
+26235020,VEGA LA-TAB RUBIOS [26235020],Climática Ordinaria,Suspendida,Antioquia,Sopetrán,"(6.53333333, -75.8)",450,1970-05-15,1978-10-15,Mogoticos
+23120070,PUERTO ARAUJO [23120070],Pluviométrica,Suspendida,Santander,Cimitarra,"(6.53333333, -74.11666667)",160,1959-10-15,1995-07-15,Mogoticos
+24030360,CHISCAS [24030360],Pluviométrica,Suspendida,Boyacá,Chiscas,"(6.53333333, -72.5)",2480,1959-02-15,1974-06-15,Mogoticos
+24050080,PALMAR EL [24050080],Pluviométrica,Suspendida,Santander,Palmar,"(6.55, -73.28333333)",940,1973-11-15,1984-02-15,Fonce
+24030730,MINA LA [24030730],Pluviométrica,Suspendida,Santander,Capitanejo,"(6.55, -72.71666667)",1100,1978-09-15,2002-02-15,Fonce
+36030030,MORICHAL [36030030],Pluviométrica,Activa,Arauca,Tame,"(6.57063889, -71.70763889)",300,1982-12-15,,Atrato
+24020150,MAMONAL EL HACIENDA [24020150],Pluviométrica,Activa,Santander,San Gil,"(6.57666667, -73.10616667)",1408,1979-10-15,,Atrato
+23100040,YOLOMBO [23100040],Pluviométrica,Activa,Antioquia,Yolombó,"(6.59427778, -75.01091667)",965,1975-04-15,,Atrato
+24020130,CURITI 2 [24020130],Pluviométrica,Activa,Santander,Curití,"(6.59825, -73.05611111)",1626,1973-11-15,,Atrato
+27010840,SAN PABLO [27010840],Pluviométrica,Activa,Antioquia,Santa Rosa De Osos,"(6.602, -75.24652778)",1900,1970-10-15,,Atrato
+23090110,MURILLO [23090110],Pluviométrica,Activa,Antioquia,Puerto Berrío,"(6.60305556, -74.39527778)",130,1984-09-15,,Atrato
+24040060,REMOLINO [24040060],Pluviométrica,Activa,Santander,Cabrera (Santander),"(6.60611111, -73.27611111)",630,1979-08-15,,Atrato
+27010870,BELMIRA [27010870],Pluviométrica,Activa,Antioquia,Belmira,"(6.60916667, -75.66833333)",2540,1970-11-15,,Atrato
+27011230,SAN ANTONIO [27011230],Pluviométrica,Activa,Antioquia,Yolombó,"(6.62083333, -75.15166667)",158,1999-10-15,,Quebrada Curiti
+24030320,CARCASI [24030320],Pluviométrica,Activa,Santander,Carcasí,"(6.6275, -72.63)",224,1958-08-15,,Quebrada Curiti
+23090100,SAN JUAN BEDUTH [23090100],Pluviográfica,Suspendida,Antioquia,Puerto Berrío,"(6.6, -74.45)",150,1984-08-15,2002-03-15,Atrato
+24020070,CURITI 1 [24020070],Pluviométrica,Suspendida,Santander,Curití,"(6.6, -73.06666667)",1505,1958-02-15,1978-07-15,Atrato
+23065110,YACOPI  - AUT [23065110],Climática Ordinaria,Activa,Cundinamarca,Yacopí,"(5.48416667, -74.35458333)",1347,1974-09-14 19:00,,0
+11077030,PLAYA LA [11077030],Limnimétrica,Suspendida,Antioquia,Vigia Del Fuerte,"(6.61666667, -76.75)",22,1975-09-15,2002-02-15,Murri
+24027090,PUENTE CARRETERA [24027090],Limnigráfica,Suspendida,Santander,Curití,"(6.61666667, -73.06666667)",1630,1990-11-15,2002-03-15,Quebrada Curiti
+26230010,OLAYA [26230010],Pluviométrica,Activa,Antioquia,Olaya,"(6.62872222, -75.81088889)",575,1970-10-15,,Quebrada Curiti
+23107030,MASCOTA LA [23107030],Limnigráfica,Activa,Antioquia,Yalí,"(6.63963889, -74.87544444)",970,1975-05-15,,San Bartolome
+23100070,RAMBLAS [23100070],Pluviométrica,Activa,Antioquia,Yondó (Casabe),"(6.64277778, -74.37083333)",120,1984-09-15,,San Bartolome
+24040050,SANTA ISABEL [24040050],Pluviométrica,Activa,Santander,Barichara,"(6.64444444, -73.20277778)",1300,1973-11-15,,San Bartolome
+11110020,ABRIAQUI [11110020],Pluviográfica,Activa,Antioquia,Abriaquí,"(6.6425, -76.075)",1920,1974-12-14 19:00,,0
+23127050,BARREDERO FINCA [23127050],Limnimétrica,Activa,Santander,Puerto Parra,"(6.64555556, -74.06527778)",90,1974-08-15,,Carare
+23125050,CARARE [23125050],Climática Ordinaria,Activa,Santander,Puerto Parra,"(6.64944444, -74.06138889)",168,1974-08-15,,Carare
+24030340,MOLAGAVITA [24030340],Pluviométrica,Activa,Santander,Molagavita,"(6.67166667, -72.81138889)",2150,1958-10-15,,Carare
+27010900,GOMEZ PLATA [27010900],Pluviométrica,Activa,Antioquia,Gómez Plata,"(6.67780556, -75.21980556)",1850,1970-10-15,,Carare
+26220090,GIRALDO [26220090],Pluviométrica,Activa,Antioquia,Giraldo,"(6.68805556, -75.95722222)",10,1970-11-15,,Carare
+23117010,RIO NUEVO [23117010],Limnimétrica,Suspendida,Santander,Cimitarra,"(6.63333333, -74.33333333)",121,1970-08-15,1977-02-15,Magdalena
+23140060,MELITOSA LA [23140060],Pluviométrica,Suspendida,Santander,Simacota,"(6.63333333, -73.8)",140,1984-08-15,1989-06-15,Magdalena
+23100080,SANTA CLARA [23100080],Pluviográfica,Suspendida,Antioquia,Yondó (Casabe),"(6.65, -74.31666667)",100,1984-09-15,2002-03-15,Carare
+27010160,GOMEZ PLATA [27010160],Pluviométrica,Suspendida,Antioquia,Gómez Plata,"(6.67780556, -75.21980556)",1850,1922-01-15,1955-12-15,Carare
+23145020,CARMEN EL [23145020],Climática Ordinaria,Activa,Santander,El Carmen (Santander),"(6.69638889, -73.51)",805,1973-06-15,,Carare
+23107020,LA BODEGA - AUT [23107020],Limnigráfica,Activa,Antioquia,Yondó (Casabe),"(6.73219444, -74.40694444)",149,1974-11-14 19:00,,Regla
+27010880,MONTANITAS [27010880],Pluviométrica,Activa,Antioquia,Santa Rosa De Osos,"(6.70286111, -75.39222222)",2630,1970-10-15,,0
+24030950,MALAGA 2 [24030950],Pluviográfica,Activa,Santander,Málaga,"(6.70638889, -72.72972222)",2237,1973-12-15,,Carare
+56010030,CUPICA [56010030],Pluviométrica,Activa,Chocó,Bahía Solano (Mutis),"(6.70655556, -77.49061111)",2,1997-10-15,,Carare
+24050100,FUENTE LA [24050100],Pluviométrica,Activa,Santander,Zapatoca,"(6.70725, -73.27988889)",815,1973-06-15,,Carare
+23100050,BODEGA LA [23100050],Pluviométrica,Activa,Antioquia,Puerto Berrío,"(6.71583333, -74.41)",165,1992-08-15,,Carare
+26230140,PLACITA LA [26230140],Pluviométrica,Activa,Antioquia,Liborina,"(6.72088889, -75.75805556)",1250,1970-10-15,,Suarez
+11110110,BOQUERON DE TOYO [11110110],Pluviográfica,Suspendida,Antioquia,Giraldo,"(6.69944444, -75.9775)",20,1983-05-15,2011-05-10,Carare
+27010860,NORMANDIA HACIENDA [27010860],Pluviométrica,Suspendida,Antioquia,Yolombó,"(6.7, -75.11666667)",980,1970-10-15,1981-04-15,Carare
+23100060,BARCELONA HACIENDA [23100060],Pluviográfica,Suspendida,Antioquia,Puerto Berrío,"(6.7, -74.4)",140,1984-09-15,1990-08-15,Carare
+24030220,MALAGA 1 [24030220],Pluviométrica,Suspendida,Santander,Málaga,"(6.7, -72.73333333)",2160,1958-02-15,1974-05-15,Carare
+24047010,BURATA [24047010],Limnimétrica,Suspendida,Santander,Barichara,"(6.71666667, -73.26666667)",400,1980-03-15,1995-07-15,Suarez
+26225040,PIUNTI HACIENDA [26225040],Climática Ordinaria,Suspendida,Antioquia,Buriticá,"(6.7295, -75.91297222)",1650,1970-06-15,1970-06-15,Suarez
+38017030,RONCADOR [38017030],Limnigráfica,En Mantenimiento,Vichada,Puerto Carreño,"(5.85802778, -67.57605556)",62,1983-02-14 19:00,,Orinoco
+24030300,CEPITA [24030300],Pluviométrica,Activa,Santander,Cepitá,"(6.75305556, -72.975)",600,1958-08-15,,Chicamocha
+24060050,MESA LA [24060050],Pluviométrica,Activa,Santander,Los Santos,"(6.75916667, -73.09277778)",1460,1973-11-15,,Chicamocha
+11110010,NORMAL SANTA TERESA [11110010],Pluviométrica,Activa,Antioquia,Frontino,"(6.76333333, -76.13361111)",1370,1969-01-15,,Chicamocha
+23140070,DOS BOCAS HACIENDA [23140070],Pluviométrica,Activa,Santander,El Carmen (Santander),"(6.77194444, -73.61638889)",183,1984-08-15,,Chicamocha
+24010710,MONIQUIRA [24010710],Pluviométrica,Activa,Boyacá,Moniquirá,"(5.85216667, -73.57641667)",1764,1974-04-15,,Atrato
+23070020,RIO CLARO [23070020],Pluviográfica,Activa,Antioquia,Sonsón,"(5.85552778, -74.84836111)",449,2009-09-01,,Atrato
+24030160,TASCO [24030160],Pluviométrica,Activa,Boyacá,Tasco,"(5.86035722, -72.78479139)",2486,1957-10-15,,Orinoco
+23070010,CLARO DE LUNA [23070010],Pluviométrica,Activa,Antioquia,Sonsón,"(5.86141667, -74.76202778)",3347,1987-04-15,,Orinoco
+23105020,AMPARO EL [23105020],Climática Principal,Suspendida,Antioquia,Yondó (Casabe),"(6.73333333, -74.4)",150,1984-09-15,1992-08-15,Regla
+11110040,CANASGORDAS [11110040],Pluviométrica,Suspendida,Antioquia,Cañasgordas,"(6.75, -76.03333333)",1200,1966-01-15,1973-12-15,Chicamocha

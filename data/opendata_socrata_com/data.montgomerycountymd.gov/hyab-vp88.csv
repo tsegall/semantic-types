@@ -1,0 +1,4 @@
+{
+  "error" : true,
+  "message" : "There is a problem connecting to ESRI service at https://gis4.montgomerycountymd.gov/arcgis/services/general/senior_ctr/MapServer: The server sent HTTP status code 400: Bad Request"
+}

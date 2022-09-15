@@ -1,0 +1,70 @@
+Town_ID,Town_Name,County,Type,Population,Square_KM,Square_MI,Altitude,Postal_Code,URL,Incorporated_Villages,Clerk_First_Name,Clerk_Last_Name,Mailing_Address,Mailing_City,Mailing_State,Mailing_Zip,Physical_Address,Physical_City,Physical_State,Physical_Zip,Office_Phone,Office_Fax,Clerk_Email,Clerk_Hours,Location 1,Counties
+115,Lincoln,Addison,Town,1214,114,44,971,05443,http://lincolnvermont.org/,NULL,Sally,Ober,62 Quaker Street,Lincoln,VT,05443,62 Quaker Street,Lincoln,VT,05443,802-453-2980,802-453-2975,clerk@lincolnvermont.org,M T Th 8-2; W 8-2 and 4-7 p.m.; and by appt.,"62 Quaker Street
+Lincoln, VT 05443
+(44.10659686200006, -72.99722371699994)",3202
+138,New Haven,Addison,Town,1666,108.2,41.8,454,05472,http://newhavenvt.com/,NULL,Pam,Kingman,78 North Street,New Haven,VT,05472,78 North Street,New Haven,VT,05472,802-453-3516,802-453-7552,newhavenclerk@gmavt.net,M-F 9-3,"78 North Street
+New Haven, VT 05472
+(44.11195767600003, -73.14993721699994)",3202
+150,Panton,Addison,Town,682,57,22,200,05491,http://www.pantonvt.us/,NULL,Susan,Torrey,3176 Jersey Street,Panton,VT,05491,3176 Jersey Street,Panton,VT,05491,802-475-2333,802-475-2785,panton@gmavt.net,M T Th F 8:30-3:30,"3176 Jersey Street
+Panton, VT 05491
+(44.14760196300006, -73.34151399999996)",3202
+240,Weybridge,Addison,Town,824,45.5,17.6,180,05753,http://weybridge.govoffice.com,NULL,Karen,Brisson,1727 Quaker Village Road,Weybridge,VT,05752,1727 Quaker Village Road,Weybridge,VT,05753,802-545-2450,802-545-2624,curavoo@gmavt.net,M T Th F 9-2,"1727 Quaker Village Road
+Weybridge, VT 05753
+(44.06348884700003, -73.21516860399998)",3202
+242,Whiting,Addison,Town,380,35.4,13.7,390,05778,NULL,NULL,Grace,Simonds,29 South Main Street,Whiting,VT,05778,29 South Main Street,Whiting,VT,05778,802-623-7813,802-623-7813,townofwhiting@shoreham.net,M W 9-12 and 4-6; F 9-12; and by appt.,"29 South Main Street
+Whiting, VT 05778
+(43.862040027000035, -73.20105430399997)",3202
+86,Granville,Addison,Town,303,135.3,52.2,950,05747,http://www.granvillevermont.org/,NULL,Kathy,Werner,P.O. Box 66,Granville,VT,05747,4801 VT Route 100,Granville,VT,05747,802-767-4403,802-767-3968,granvilletown@gmavt.net,M-Th 9-3,"4801 VT Route 100
+Granville, VT 05747
+(43.97732697500004, -72.84201826999998)",3202
+220,Waltham,Addison,Town,479,23,8.9,450,05491,NULL,NULL,Mary,Kinson,P.O. Box 175,Vergennes,VT,05491,2053 Maple Street,Waltham,VT,05491,802-877-3641,802-877-3641,Waltham@myfairpoint.net,T F 9-3,"2053 Maple Street
+Waltham, VT 05491
+(44.13082819700003, -73.24508414399997)",3202
+185,Shoreham,Addison,Town,1222,120,46.3,396,05770,http://www.shorehamvt.org,NULL,Amy,Douglas,297 Main Street,Shoreham,VT,05770,297 Main Street,Shoreham,VT,05770,802-897-5841,802-897-2545,shorehamtown@shoreham.net,M T Th F 9-12 and 1-4,"297 Main Street
+Shoreham, VT 05770
+(43.89375197500004, -73.31494699099994)",3202
+168,Ripton,Addison,Town,556,128.3,49.5,1025,05766,http://www.riptonvt.org/,NULL,Sally,Hoyler,P.O. Box 10,Ripton,VT,05766,1311 Route 125,Ripton,VT,05766,802-388-2266,802-388-0012,townclerk@riptonvt.org,M 2-6; T-Th 9-1,"1311 Route 125
+Ripton, VT 05766
+(43.954721437000046, -72.99516290499997)",3202
+130,Monkton,Addison,Town,1759,93.8,36.2,533,05469,http://www.monktonvt.com,NULL,Carmelita,Burrit,P.O. Box 12,Monkton,VT,05469,280 Monkton Ridge,Monkton,VT,05473,802-453-3800,802-453-3612,townclerk@monktonvt.com,M T Th F 8-1; Sat 8:30-12,"280 Monkton Ridge
+Monkton, VT 05473
+(44.253923006000036, -73.12395743199994)",3202
+197,Starksboro,Addison,Town,1898,117.9,45.5,615,05487,http://www.starksboro.org,NULL,Cheryl,Estey,P.O. Box 91,Starksboro,VT,05487,2849 VT Route 116,Starksboro,VT,05487,802-453-2639,802-453-7293,starksboro@madriver.com,M-Th 8:30-4:30,"2849 VT Route 116
+Starksboro, VT 05487
+(44.22554345700007, -73.05705825499996)",3202
+1,Addison,Addison,Town,1393,126.8,49,289,05491,http://www.addisonvt.org/,NULL,Jane,Grace,7099 VT Rte 22A,Addison,VT,05491,66 VT Rte 17W,Addison,VT,05491,802-759-2020,802-759-2233,addisontown@gmavt.net,M-F 8:30-12 and 1:00-4:30,"66 VT Rte 17W
+Addison, VT 05491
+(44.12721733500007, -73.29035910499994)",3202
+149,Orwell,Addison,Town,1185,128.7,49.7,385,05760,http://www.town-of-orwell.org/,NULL,Susan Ann,Arnebold,P.O. Box 32,Orwell,VT,05760,436 Main Street,Orwell,VT,05760,802-948-2032,NULL,tckorwel@sover.net,M T Th 9:30-12 and 1-3:30; F 9:30-12 and 1-6,"436 Main Street
+Orwell, VT 05760
+(43.803497191000076, -73.30140216799998)",3202
+31,Bristol,Addison,Town,3788,109.2,42.2,570,05443,http://www.bristolvt.org/,NULL,Therese,Kirby,P.O. Box 249,Bristol,VT,05443,6 South Street,Bristol,VT,05443,802-453-2486,802-453-5188,bristoltown@gmavt.net,M-F 8-4:30,"6 South Street
+Bristol, VT 05443
+(44.13925734500003, -73.04528775899996)",3202
+92,Hancock,Addison,Town,382,99.6,38.5,912,05748,NULL,NULL,Sara,Deering,P.O. Box 100,Hancock,VT,05748,48 VT Route 125,Hancock,VT,05748,802-767-3660,802-368-7390,hancocktwnclerk@yahoo.com,"M 2-6, T-Th 10-4","48 VT Route 125
+Hancock, VT 05748
+(43.92630785500006, -72.84237210399994)",3218
+29,Bridport,Addison,Town,1235,119.8,46.2,320,05734,NULL,NULL,Valerie,Bourgeois,P.O. Box 27,Bridport,VT,05734,82 Crown Point Road,Bridport,VT,05734,802-758-2483,NULL,bridporttown@gmavt.net,M T F 9-4; W 9-12 and 1-4; Th 9-12,"82 Crown Point Road
+Bridport, VT 05734
+(43.98447448500008, -73.31489095799998)",3202
+213,Vergennes,Addison,City,2741,6.5,2.5,203,05491,http://www.vergennes.org/,NULL,Joan,Devine,P.O. Box 35,Vergennes,VT,05491,120 Main Street,Vergennes,VT,05491,802-877-2841,802-877-1160,clerk@vergennes.org,M-F 8-4:30,"120 Main Street
+Vergennes, VT 05491
+(44.16838567000008, -73.25088357899995)",3202
+82,Goshen,Addison,Town,227,55.4,21.4,1136,05733,http://goshenvt.org/,NULL,Rosemary,McKinnon,50 Carlisle Hill Rd,Goshen,VT,05733,50 Carlisle Hill Rd,Goshen,VT,05733,802-247-6455,802-247-6740,townclerk@goshenvt.org,T 9-1,"50 Carlisle Hill Rd
+Goshen, VT 05733
+(43.84964723600007, -73.02245984099994)",3202
+76,Ferrisburgh,Addison,Town,2657,158.4,61.2,218,05456,http://www.ferrisburghvt.org/,NULL,Chet,Hawkins,P.O. Box 6,Ferrisburgh,VT,05456,3279 Route 7,Ferrisburgh,VT,05456,802-877-3429,802-877-6757,ferrisburghclerk@comcast.net,M-F 8-4,"3279 Route 7
+Ferrisburgh, VT 05456
+(44.207722267000065, -73.24547476799995)",3202
+126,Middlebury,Addison,Town,8183,101.4,39.2,370,05753,http://www.middlebury.govoffice.com/,NULL,Ann,Webster,94 Main Street,Middlebury,VT,05753,94 Main Street,Middlebury,VT,05753,802-388-8100 x211,802-388-4261,awebster@townofmiddlebury.org,M-Th 7:30-5:30,"94 Main Street
+Middlebury, VT 05753
+(44.01111303000005, -73.17051076999996)",3202
+112,Leicester,Addison,Town,974,57,22,440,05733,http://www.leicestervt.org,NULL,Julie,Delphia,44 Schoolhouse Road,Leicester,VT,05733,44 Schoolhouse Road,Leicester,VT,05733,802-247-5961 x3,802-247-6501,leicestervt@comcast.net,M W Th 9-2; and by appt.,"44 Schoolhouse Road
+Leicester, VT 05733
+(43.86630347000005, -73.10876805299995)",3202
+177,Salisbury,Addison,Town,1090,78.1,30.1,340,05769,http://townofsalisbury.org/,NULL,Ann,Dittami,P.O. Box 66,Salisbury,VT,05769,25 Schoolhouse Road,Salisbury,VT,05769,802-352-4228,802-352-9832,town.clerk@comcast.net,M 11-5; T 10-2; Th 12-7,"25 Schoolhouse Road
+Salisbury, VT 05769
+(43.89793360500005, -73.10342722699994)",3202
+54,Cornwall,Addison,Town,1136,74.2,28.6,374,05753,http://cornwallvt.com/,NULL,Susan,Johnson,2629 Route 30,Cornwall,VT,05753,2629 Route 30,Cornwall,VT,05753,802-462-2775,802-462-2606,cornwallvt@shoreham.net,T-F 9-5,"2629 Route 30
+Cornwall, VT 05753
+(43.961303344000044, -73.20959386499999)",3202

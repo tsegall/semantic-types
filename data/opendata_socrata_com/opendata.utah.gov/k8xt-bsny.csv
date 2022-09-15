@@ -1,0 +1,19 @@
+"indicator_id","dimension_list","timeframe","numeric_value","missing_value_flag","confidence_interval_low","confidence_interval_high","standard_error","locale","locale_level","locale_state_fips_code","locale_county_fips_code","locale_county_ssa_code","locale_hrr_code","total","age","sex","race_ethnicity","income_and_poverty_status","educational_attainment","health_insurance_status","sexual_orientation","marital_status","family_type","veteran_status","country_of_birth","disability_status","obesity_status","characteristic_of_school_or_student","other","geography","modifier1","modifier2","modifier3","modifier4","modifier5","numerator","denominator"
+"300065873","Total","2012","16.90",,"16.20","17.60",,"Utah - Salt Lake","County","49","49035",,,"Total",,,,,,,,,,,,,,,,,,,,,,"160925","953681"
+"300065874","Aged 0-18 years","2012","11.00",,"9.80","12.20",,"Utah - Salt Lake","County","49","49035",,,,"Aged 0-18 years",,,,,,,,,,,,,,,,,,,,,"34866","316042"
+"300065875","Aged 18-64 years","2012","19.80",,"18.90","20.70",,"Utah - Salt Lake","County","49","49035",,,,"Aged 18-64 years",,,,,,,,,,,,,,,,,,,,,"128631","651166"
+"300065876","Male","2012","17.70",,"16.70","18.70",,"Utah - Salt Lake","County","49","49035",,,,,"Male",,,,,,,,,,,,,,,,,,,,"85542","482543"
+"300065877","Female","2012","16.00",,"15.00","17.00",,"Utah - Salt Lake","County","49","49035",,,,,"Female",,,,,,,,,,,,,,,,,,,,"75383","471138"
+"177546300","Total","2011","17.20",,"16.40","18.00",,"Utah - Salt Lake","County","49","49035",,,"Total",,,,,,,,,,,,,,,,,,,,,,"161846","943389"
+"177546301","Aged 0-18 years","2011","11.30",,"10.00","12.60",,"Utah - Salt Lake","County","49","49035",,,,"Aged 0-18 years",,,,,,,,,,,,,,,,,,,,,"35588","313889"
+"177546302","Aged 18-64 years","2011","20.00",,"19.00","21.00",,"Utah - Salt Lake","County","49","49035",,,,"Aged 18-64 years",,,,,,,,,,,,,,,,,,,,,"128697","643013"
+"177546303","Male","2011","18.90",,"17.80","20.00",,"Utah - Salt Lake","County","49","49035",,,,,"Male",,,,,,,,,,,,,,,,,,,,"90370","477758"
+"177546304","Female","2011","15.40",,"14.30","16.50",,"Utah - Salt Lake","County","49","49035",,,,,"Female",,,,,,,,,,,,,,,,,,,,"71475","465631"
+"2373577","Total","2010","17.90",,"17.10","18.70",,"Utah - Salt Lake","County","49","49035",,,"Total",,,,,,,,,,,,,,,,,,,,,,,
+"2373578","Aged 0-18 years","2010","11.10",,"9.80","12.40",,"Utah - Salt Lake","County","49","49035",,,,"Aged 0-18 years",,,,,,,,,,,,,,,,,,,,,,
+"2373579","Aged 18-64 years","2010","21.20",,"20.30","22.10",,"Utah - Salt Lake","County","49","49035",,,,"Aged 18-64 years",,,,,,,,,,,,,,,,,,,,,,
+"2373580","Male","2010","19.20",,"18.10","20.30",,"Utah - Salt Lake","County","49","49035",,,,,"Male",,,,,,,,,,,,,,,,,,,,,
+"2373581","Female","2010","16.50",,"15.40","17.60",,"Utah - Salt Lake","County","49","49035",,,,,"Female",,,,,,,,,,,,,,,,,,,,,
+"2378179","Total","2009","17.00",,"16.20","17.80",,"Utah - Salt Lake","County","49","49035",,,"Total",,,,,,,,,,,,,,,,,,,,,,,
+"2381373","Total","2008","16.60",,"15.80","17.40",,"Utah - Salt Lake","County","49","49035",,,"Total",,,,,,,,,,,,,,,,,,,,,,,
+"2384565","Total","2007","16.90",,"15.70","18.10",,"Utah - Salt Lake","County","49","49035",,,"Total",,,,,,,,,,,,,,,,,,,,,,,

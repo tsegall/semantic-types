@@ -1,0 +1,216 @@
+"recid","organizationid","addressline1","addressline2","city","state","zip","phone_numb","shapeid","x","y","addrtype","addrlocat"
+"1","2","59 North Main Street","Suite 200","Barre","VT","05641","802-479-0531","0","-72.5017891768392","44.197774896353","place","house"
+"2","2","109 Professional Drive","Suite 1","Morrisville","VT","05661","802-888-1393","1","-72.5977896022163","44.5712591942266","place","house"
+"5","3","160 Benmont Avenue","90 Benmont Mill","Bennington","VT","05201","802-442-5436","2","-73.2020790530915","42.8838005842596","place","house"
+"6","3","143 Maple Street",,"Rutland","VT","05701","802-786-5990","3","-72.9856267912493","43.6113012643456","place","house"
+"7","4","76 Pearl Street","Suite 201","Essex Junction","VT","05452","802-662-5271","4","-73.1194948","44.4935276","shop","clothes"
+"8","5","82 Maple Street",,"Island Pond","VT","05846","802-748-5182","5","-71.8843181041984","44.8175852945356","place","house"
+"9","5","4 Slapp Hill",,"Hardwick","VT","05843","802-748-5182","6","-72.3607598744373","44.5049252345624","place","house"
+"10","5","481 Summer Street","Suite 101","Saint Johnsbury","VT","05819","802-748-5182","7","-72.0212930774843","44.4223880503131","place","house"
+"13","7","197 West Street",,"Rutland","VT","05701","802-558-6521","8","-72.983085877551","43.6076456326531","place","house"
+"14","8","38 Pleasant Street",,"Springfield","VT","05156","802-642-5119","9","-72.4800876140069","43.2995787346995","place","house"
+"15","9","268 River Street",,"Springfield","VT","05156","802-885-1616","10","-72.4961331600422","43.308126854718","place","house"
+"17","11","20 Gable Place",,"Barre","VT","05641","802-479-1053","11","-72.5076751317829","44.1997082753187","place","house"
+"20","11","Waitsfield United Church of Christ","4335 Main Street","Waitsfield","VT","05763","802-496-6900","12","-72.8233605023146","44.1904996","amenity","place_of_worship"
+"21","12","54 Creek Road",,"Middlebury","VT","05753","802-388-2285","13","-73.1602685071768","44.0034613583296","place","house"
+"22","13","244 South Champlain Street",,"Burlington","VT","05401","802-863-6248","14","-73.2167487577768","44.4727298798109","place","house"
+"23","14","255 South Champlain Street","Suite 9","Burlington","VT","05401","802-660-3451
+802-660-3455 (mobile home project)","15","-73.2169667504495","44.4725098761512","place","house"
+"25","16","Route 2","Saint Joseph's Church","Grand Isle","VT","05458","802-527-7392","16","-73.2923538","44.7225436","boundary","administrative"
+"26","17","53 Main Street",,"Richford","VT","05476","802-524-576","17","-72.6735830133064","44.9938166751948","place","house"
+"27","18","255 South Champlain Street",,"Burlington","VT","05401","802-860-1417
+800-287-7071","18","-73.2169667504495","44.4725098761512","place","house"
+"28","19","5 Lemnah Drive",,"Saint Albans","VT","05478","800-300-7392
+802-527-7392","19","-73.0910101013361","44.8035891391465","place","house"
+"29","20","70 Main Street",,"Newport","VT","05855","802-334-7316
+800-639-4065","20","-72.209039","44.935875","highway","primary"
+"30","21","115 Lincoln Street",,"Saint Johnsbury","VT","05819","802-748-6040
+888-748-6040","21","-72.0000166035797","44.4201322098631","place","house"
+"32","23","7 Mill Street",,"Hardwick","VT","05843","888-748-6040
+802-472-3183","22","-72.3658485320406","44.504345079718","place","house"
+"34","25","70 Main Street",,"Newport","VT","05855","802-334-7316","23","-72.209039","44.935875","highway","primary"
+"35","26","108 Cherry Street",,"Saint Johnsbury","VT","05819","802-274-6334","24","-72.0174420176758","44.4195309008882","place","house"
+"36","27","73 Main Street",,"Fair Haven","VT","05743","802-265-3666","25","-73.2653291390493","43.5930019152073","place","house"
+"37","28","136 Church Street",,"Lyndonville","VT","05851","802-626-3228","26","-72.0024166699747","44.536549266515","place","house"
+"38","29","282 Boardman Street","John V. Craven Community Services Center","Middlebury","VT","05753","802-388-3608","27","-73.133951","44.000517","highway","residential"
+"41","32","55 Sherman Drive",,"Saint Johnsbury","VT","05819","802-748-7526","28","-72.0120554308261","44.4468351972235","place","house"
+"43","34",,,"West Dummerston","VT","05358","802-257-5800","29","-72.6135869","42.928463","place","hamlet"
+"44","35","10 East Allen Street",,"Winooski","VT","05404","802-655-9602","30","-73.1848597","44.4911645","office","company"
+"45","36","15 State Street",,"Montpelier","VT","05601","802-223-1448","31","-72.5757643099654","44.2602786291155","place","house"
+"46","37","1 Railroad Avenue",,"Windsor","VT","05089","802-67-2900","32","-72.590426","43.268003","highway","residential"
+"47","38","5 Perry Street","McFarland State Office Building Suite 200","Barre","VT","05641","802-476-2600 
+802-476-2638 TTY","33","-72.4983770898116","44.1942495169356","place","house"
+"48","38","200 Veterans Memorial Drive","Suite 2","Bennington","VT","05201","802-442-6376
+802-447-2717 TTY","34","-73.1979796798035","42.8879687546196","place","house"
+"49","38","28 Vernon Street","Marlboro College Graduate Center Suite 212","Brattleboro","VT","05301","802-254-4555 
+802-257-2872 TTY","35","-72.550665","42.842215","highway","secondary"
+"50","38","63 Pearl Street",,"Burlington","VT","05401","802-863-7676 
+802-863-7679 TTY","36","-73.2177314409689","44.4802109220069","place","house"
+"52","38","197 Harrel Street",,"Morrisville","VT","05661","802-888-4545
+802-888-2541 TTY","37","-72.5936035033106","44.5687347877031","place","house"
+"53","38","100 Main Street","Emory Hebard State Office Building Suite 210","Newport","VT","05855","802-334-6545
+802-334-3976 TTY","38","-72.2118493592233","44.9350287281553","place","house"
+"54","38","88 Merchants Row","200 Asa Bloomer Building","Rutland","VT","05701","802-786-5837
+802-828-8846 TTY","39","-72.9806580692442","43.6090169966209","place","house"
+"55","38","27 Federal Street","Suite 100","Saint Albans","VT","05478","802-524-6585
+802-524-7987 TTY","40","-73.0854059410951","44.8116487045955","place","house"
+"56","38","1197 Main Street","Suite 1","Saint Johnsbury","VT","05819","802-748-3177
+802-751-3209 TTY","41","-72.0212831","44.4188545","office","company"
+"57","38","56 Main Street","Suite 101","Springfield","VT","05156","802-289-0999
+802-885-1408 TTY","42","-72.4814733125","43.297785125","place","house"
+"58","38","118 Prospect Street","Suite 302","White River Junction","VT","05001","802-295-8805
+802-295-4138 TTY","43","-72.315108","43.651655","highway","residential"
+"59","39","23 Mansfield Avenue",,"Burlington","VT","05401","802-489-7150
+800-649-2424 Toll Free","44","-73.1992463246415","44.4811961","building","yes"
+"60","40","89 Main Street",,"Montpelier","VT","05620","802-828-3302","45","-72.5748159","44.2603885","amenity","restaurant"
+"61","41","14 Baldwin Street","Room 103","Montpelier","VT","05602","802-828-2943","46","-72.5835422026829","44.26298485","office","government"
+"62","42","324 Main Street","Suite 1","Bennington","VT","05201","802-447-2361","47","-73.1990127","42.8793627","amenity","college"
+"63","42","660 Elm Street",,"Montpelier","VT","05601","802-334-4451","48","-72.5740832965186","44.28073655","building","yes"
+"65","42","10 Merchants Row","Suite 223","Middlebury","VT","05753","802-388-3032","49","-73.1680620939878","44.013717220364","place","house"
+"67","42","60 West Street",,"Rutland","VT","05701","802-786-6996","50","-72.9765283682471","43.608326737384","place","house"
+"68","42","142 South Main Street",,"Saint Albans","VT","05478","802-524-6541","51","-73.0883492","44.8043305","amenity","college"
+"69","42","1197 Main Street","Suite 3","Saint Johnsbury","VT","05819","802-748-6673","52","-72.0212831","44.4188545","office","company"
+"70","42","307 South Street","Howard Dean Center","Springfield","VT","05156","802-885-360","53","-72.4781251","43.2806636","amenity","college"
+"72","42","1 Abenaki Way",,"Winooski","VT","05404","802-654-0505","54","-73.1815855968946","44.4912295","amenity","college"
+"74","44","45 Union Street",,"Rutland","VT","05701","802-775-0878 
+800-717-2762 Toll Free","55","-72.9829597654898","43.6056998551874","place","house"
+"75","44","332 Orchard Road",,"Bennington","VT","05201","802-447-7515","56","-73.2024026790882","42.9005818928654","place","house"
+"76","45","91 Buck Drive",,"Westminster","VT","05158","802-722-4575
+800-464-9951 Toll Free","57","-72.447149","43.093573","place","house"
+"77","46","15 Grove Street",,"Brattleboro","VT","05301","802-254-2795","58","-72.5625008121756","42.8546946773852","place","house"
+"78","47","107 Park Street","Suite 2","Springfield","VT","05156","802-885-6153","59","-72.4873831977357","43.2978588803522","place","house"
+"80","49","68 Birge Street","Daly Shoe Building","Brattleboro","VT","05301","802-246-2116","60","-72.565419379549","42.8466995941505","place","house"
+"81","49","56 Main Street","Suite 210","Springfield","VT","05156","802-246-2116","61","-72.4814733125","43.297785125","place","house"
+"82","50","197 West Street",,"Rutland","VT","05701","802-236-0407","62","-72.983085877551","43.6076456326531","place","house"
+"83","51","95 Crescent Street",,"Rutland","VT","05701","802-775-6772","63","-72.9817546329953","43.6156360451426","place","house"
+"84","52","1216 Railroad Street",,"Saint Johnsbury","VT","05819","802-748-8645","64","-72.0173591","44.4286778","amenity","restaurant"
+"85","52","93 East Main Street",,"Newport","VT","05855","802-334-0148","65","-72.201909","44.942804","place","house"
+"86","53","110 Cherry Street","Suite 2-1","Burlington","VT","05401","802-392-0050","66","-73.2139825381204","44.4793445238865","place","house"
+"87","54","11 Lincoln Street","Prouty Federal Building","Essex Junction","VT","05452","802-764-5899","67","-73.1108243","44.4921539","office","government"
+"91","55","48 Elm Street",,"Lyndonville","VT","05851","800-234-0560 Toll Free
+802-535-3554","68","-72.0044867938338","44.5342607852144","place","house"
+"92","56","20 Pine Street","Cathedral of the Immaculate Conception","Burlington","VT","05401","802-951-4290","69","-73.2156969471722","44.4799837852803","place","house"
+"94","57","34 Mechanic Street",,"Keene","NH","03431","603-352-0320","70","-72.2789602777778","42.9364737777778","place","house"
+"95","58","20 West Park Street","Room 316","Lebanon","NH","03766","603-448-3491","71","-72.2522614","43.6420109","highway","primary"
+"96","59","56 Old Farm Road",,"Stowe","VT","05672","802-373-1434
+800-522-4700 24 Hr Hotline","72","-72.69639312999","44.4519420120083","place","house"
+"97","60","33 Parker Road",,"Barre","VT","05641","802-477-4119
+855-855-6181","73","-72.4823517729638","44.175190178189","place","house"
+"98","61","38 Eastwood Drive","Suite 100","South Burlington","VT","05403","802-865-0255
+800-479-6151","74","-73.2031029922682","44.4499208","building","yes"
+"99","62","617 Comstock Road",,"Berlin","VT","05602","802-229-4731
+888-865-2683","75","-72.575475199561","44.2099103996132","place","house"
+"100","63","25 Winooski Falls Way",,"Winooski","VT","05404","802-654-4540
+800-865-8328","76","-73.1852041","44.4904402","amenity","restaurant"
+"101","63","92 North Avenue",,"Burlington","VT","05401","802-865-2003
+800-865-8328","77","-73.22234225","44.48458425","place","house"
+"102","64","481 Summer Street","Suite 203","Saint Johnsbury","VT","05819","802-424-3159","78","-72.0212930774843","44.4223880503131","place","house"
+"103","64","28 Vernon Street","Suite 333","Brattleboro","VT","05301","802-689-3038","79","-72.550665","42.842215","highway","secondary"
+"104","64","87 State Street","Suite 324 Federal Building/Post Office","Montpelier","VT","05601","802-828-6080","80","-72.5776637","44.2608107","amenity","post_office"
+"105","65","149 Church Street","City Hall","Burlington","VT","05401","802-865-7144","81","-73.2125647630457","44.4752674945241","place","house"
+"106","66","88 King Street",,"Burlington","VT","05401","802-861-7394
+877-274-7431","82","-73.2147877089493","44.4748132483955","place","house"
+"107","67","164 Saint Paul Street",,"Burlington","VT","05402","802-854-5743
+800-339-5866","83","-73.213832131259","44.4749252288864","place","house"
+"108","66","13 Lake Street",,"Saint Albans","VT","05478","802-527-2361
+877-274-7431","84","-73.111295","44.812155","highway","secondary"
+"109","68","272 Main Street",,"Vergennes","VT","05491","802-877-2626 Mobile Home Parks & Home Purchase
+802-877-749 Apartments","85","-73.254138","44.167059","place","house"
+"110","69","110 Marble Street","Kazon Building","West Rutland","VT","05777","802-438-2303
+877-205-1147","86","-73.048467","43.595976","place","house"
+"111","70","22 Keith Avenue","Suite 100","Barre","VT","05641","802-476-4493
+802-477-1343 Homeownership Center","87","-72.5021336255652","44.1985026692795","place","house"
+"112","71","244 Union Street",,"Bennington","VT","00501","802-442-934","88","-73.1899825620802","42.8769482848225","place","house"
+"113","72","266 Union Street",,"Bennington","VT","05201",,"89","-73.1888682416841","42.8772278488511","place","house"
+"114","73","125 Barre Street",,"Montpelier","VT","05602","802-229-0920","90","-72.5728225358505","44.2556338002425","place","house"
+"115","74","56 Howe Street","Patch Place Building A","Rutland","VT","05701","802-775-9286","91","-72.981979","43.6043963","place","house"
+"116","75","130 Fisher Pond Road",,"Saint Albans","VT","05478","802-524-6554
+800-834-7793","92","-73.0699864196991","44.802553790593","place","house"
+"118","77","31 The Green",,"Woodstock","VT","05091","802-457-3835","93","-72.518794","43.6244967","boundary","administrative"
+"119","78","86 North Main Street",,"Saint Albans","VT","05478","802-644-8300","94","-73.0831412","44.8131594","place","house"
+"120","79","199 Main Street","Suite 225 Court House Plaza Building","Burlington","VT","05401","802-951-1397
+866-227-7451","95","-73.211166","44.475909","place","house"
+"122","81","30 Washington Street","Suite 1","Barre","VT","05641","802-476-3185","96","-72.4996856153657","44.1964491801475","place","house"
+"124","83","224 Melrose Street",,"Brattleboro","VT","05301","802-254-6071","97","-72.597562","42.853526","place","house"
+"125","84","65 Main Street",,"Burlington","VT","05401","802-864-0538 ext. 207
+802-864-0538 ext. 213","98","-73.216857","44.4756164","office","association"
+"126","85","One Prospect Street",,"Montpelier","VT","05602","802-828-3295","99","-72.575369","44.254641","highway","unclassified"
+"128","85","249 Buttolph Drive",,"Middlebury","VT","05753","802-388-1005","100","-73.1594926734845","44.0128548107212","place","house"
+"129","85","41-71 Platt Street",,"Swanton","VT","05488","802-828-3295","101","-73.1163520880506","44.9172245746966","place","house"
+"130","85","12 Walker Avenue",,"Vergennes","VT","05491","802-828-1045","102","-73.2469898958333","44.170122","place","house"
+"131","86","49 Brigham Street",,"Morrisville","VT","05661","802-888-5714","103","-72.5989822702522","44.5625008706229","place","house"
+"132","87","13 Center Street","2nd Floor","Rutland","VT","05701","800-545-7989 Toll Free
+802-775-3139","104","-72.9791322025673","43.6065924851162","place","house"
+"133","88","5 Tremont Street","Templewood Court Administrative Building","Rutland","VT","05701","802-775-2926 ext. 11","105","-72.9652924357602","43.6142193029049","place","house"
+"134","89","80 Main Street",,"Springfield","VT","05156","802-885-4905","106","-72.4813765625","43.297793625","place","house"
+"135","90","226 Holiday Drive","Suite 20","White River Junction","VT","05001","802-291-7000 ext. 102","107","-72.3327783","43.6416346","office","government"
+"136","91","83 Barlow Street",,"Winooski","VT","05404","802-655-2360","108","-73.1839608830691","44.4924884883918","place","house"
+"137","92","128 Lakeside Avenue","Innovation Center, Second Floor","Burlington","VT","05401","802-859-9308 Information Only   Automated
+800-829-1040   National Taxpayer Assistance Line
+844-545-5640 Toll Free   Appointment Scheduling","109","-73.2173044","44.4620073","amenity","doctors"
+"138","92","1222 Putney Road",,"Brattleboro","VT","05304","844-545-5640 Toll Free   Appointment Scheduling
+800-829-1040 Toll Free   National Taxpayer Assistance Line
+802-257-4825 Information Only   Automated","110","-72.555433564093","42.8870312510019","place","house"
+"139","93","48 Court Street",,"Middlebury","VT","05753","802-388-7189","111","-73.1640155221006","44.0113382147539","place","house"
+"140","94","20 Morrisville Plaza","Suite B TD Bank Building","Morrisville","VT","05661","802-888-3252","112","-72.5931210240981","44.5744674540569","place","house"
+"141","95","412 Farrell Street","Suite 200","South Burlington","VT","05403","802-864-7541","113","-73.2059863959848","44.4503543981251","place","house"
+"142","96","88 Park Street",,"Rutland","VT","05701","802-773-7477","114","-72.9787815133308","43.594621285706","place","house"
+"143","97","1 Holstein Place",,"Brattleboro","VT","05301","802-257-4011","115","-72.55768","42.850436","place","house"
+"144","98",,,"Essex Junction","VT","05453","802-861-0146 Administrative
+802-652-4636 Information & Services","116","-73.1135030784832","44.489086","boundary","administrative"
+"145","99","21 Technology Drive","Suite 4","West Lebanon","NH","03784","603-298-8499","117","-72.3126552847284","43.6234427","highway","residential"
+"146","100","73 Main Street","Number 33","Montpelier","VT","05601","802-613-3989","118","-72.5754530909091","44.2598718181818","place","house"
+"148","103","133 State Street",,"Montpelier","VT","05633","802-828-2505","119","-72.5820353","44.2619059","office","government"
+"150","105","60 Hanover Street",,"Lebanon","NH","03766","603-448-4553","120","-72.248697","43.6484686","highway","primary"
+"151","106","55 Joy Drive",,"South Burlington","VT","05403","802-658-6111","121","-73.1992175577117","44.4507640443438","place","house"
+"152","107","641 Comstock Road","Suite One","Berlin","VT","05602","802-223-4744","122","-72.5756892418049","44.2099582734196","place","house"
+"153","10","5 Perry Street","McFarland Office Building Suite 150","Barre","VT","05641","800-479-6151 Toll Free 24/7
+855-247-3092 Language Interpretation Line","123","-72.4983770898116","44.1942495169356","place","house"
+"154","10","200 Veteran's Memorial Drive","Suite 6","Bennington","VT","05201","800-479-6151 Toll Free 24/7
+855-247-3092 Language Interpretation Line","124","-73.1979796798035","42.8879687546196","place","house"
+"155","10","232 Main Street","2nd Floor","Brattleboro","VT","05301","800-479-6151 Toll Free 24/7
+855-247-3092 Language Interpretation Line","125","-72.5600751020408","42.855812877551","place","house"
+"156","10","119 Pearl Street","John Zampieri State Office Building","Burlington","VT","05401","800-479-6151 Toll Free 24/7
+855-247-3092 Language Interpretation Line","126","-73.2139823157895","44.4803266842105","place","house"
+"157","10","118 Prospect Street","Suite 300","White River Junction","VT","05001","800-479-6151 Toll Free
+855-247-3092 Language Interpretation Line","127","-72.315108","43.651655","highway","residential"
+"159","10","63 Professional Drive","Suite 4","Morrisville","VT","05661","800-479-6151 Toll Free 24/7
+855-247-3092 Language Interpretation Line","128","-72.5972792484062","44.5710360464669","place","house"
+"160","10","100 Main Street","Suite 240","Newport","VT","05855","800-479-6151 Toll Free 24/7
+855-247-3092 Language Interpretation Line","129","-72.2118493592233","44.9350287281553","place","house"
+"161","10","88 Merchants Row","320 Asa Bloomer Building","Rutland","VT","05701","800-479-6151 Toll Free 24/7
+855-247-3092 Language Interpretation Line","130","-72.9806580692442","43.6090169966209","place","house"
+"162","10","27 Federal Street","Suite 300","Saint Albans","VT","05478","800-479-6151 Toll Free 24/7
+855-247-3092 Language Interpretation Line","131","-73.0854059410951","44.8116487045955","place","house"
+"164","10","100 Mineral Street","Suite 201","Springfield","VT","05156","800-479-6151 Toll Free 24/7
+855-247-3092 Language Interpretation Line","132","-72.484513","43.296952","place","house"
+"166","108","60 Hanover Street",,"Lebanon","NH","03766","603-448-4553","133","-72.248697","43.6484686","highway","primary"
+"167","109","329 Harvest Lane","Suite 200","Williston","VT","05495","802-658-4143","134","-73.1151818550684","44.4489371288984","place","house"
+"168","109","590 East Main Street",,"Hyde Park","VT","05655","802-851-8333","135","-72.6057439","44.5885536","craft","brewery"
+"169","109","30 Granite Street",,"Barre","VT","05641","802-477-7800","136","-72.506177","44.1994","place","house"
+"170","109","339 Pine Street",,"Burlington","VT","05401","802-846-4015","137","-73.2158128209485","44.46989865","shop","hardware"
+"171","110","136 North Street",,"Manchester","VT","05254","802-367-1000","138","-73.0714406759049","43.16015485","boundary","administrative"
+"172","110",,,"Montpelier","VT","05601","802-522-8611","139","-72.575684","44.260445","place","city"
+"174","110",,,"Morrisville","VT","05661","802-870-0990
+802-872-8726","140","-72.5923686622929","44.5591997","boundary","administrative"
+"175","110",,,"Middlebury","VT","05753","802-388-0400","141","-73.1633010541542","44.0072736","place","locality"
+"176","110","6 Court Street",,"Rutland","VT","05701","802-747-7440","142","-72.9754978490274","43.607099331437","place","house"
+"177","110",,,"Springfield","VT","05156","802-885-6440","143","-72.482986","43.298698","boundary","administrative"
+"178","110","5 South Main Street","Suite 307 Gate Briggs Building","White River Junction","VT","05001","802-295-1854","144","-72.3188763682101","43.6479545871183","place","house"
+"179","110","459 Portland Street","Suite 2","Saint Johnsbury","VT","05819","802-751-1212","145","-71.997931","44.421714","highway","primary"
+"180","110",,,"Jacksonville","VT","05342","802-348-6608","146","-72.8200719230149","42.79658565","boundary","administrative"
+"181","111","6 Court Street",,"Rutland","VT","05701","802-775-8220","147","-72.9754978490274","43.607099331437","place","house"
+"182","111","79 Court Street","Suite 7","Middlebury","VT","05753","802-388-7044","148","-73.161081","44.007538","place","house"
+"183","112","264 North Winooski Avenue",,"Burlington","VT","05401","800-889-2047 Information & Intake
+800-747-5022 Main Office Administrative","149","-73.2083625514929","44.48713015","office","lawyer"
+"184","112","56 College Street",,"Montpelier","VT","05601","800-889-2047","150","-72.5661797","44.2562811","amenity","school"
+"185","112","57 North Main Street","Suite 2","Rutland","VT","05701","800-889-2047","151","-72.9749308042333","43.625836351013","place","house"
+"186","112","177 Western Avenue","Suite 1","Saint Johnsbury","VT","05819","800-889-2047","152","-72.0231918080808","44.4164480808081","place","house"
+"187","112","56 Main Street","Suite 301","Springfield","VT","05156","800-889-2047","153","-72.4814733125","43.297785125","place","house"
+"188","113","109 State Street","4th Floor","Montpelier","VT","05609","800-642-3191
+802-828-2301","154","-72.5792694","44.261805","office","government"
+"189","114","60 Washington Street","Suite 2","Barre","VT","05641","802-636-0040","155","-72.4988344907478","44.1959652973645","place","house"
+"191","116","5 Green Mountain Drive","PO Box 488","Montpelier","VT","05601","802.828.4000","156","-72.590186850965","44.25849735","office","government"
+"192","117","120 State Street",,"Montpelier","VT","05620","802-828-3491","157","-72.580912","44.2610217","office","government"
+"193","118","89 Main Street",,"Montpelier","VT","05620","802-828-3301","158","-72.5748159","44.2603885","amenity","restaurant"
+"195","120","89 Main Street #16",,"Montpelier","VT","05602","802-229-0341","159","-72.5748159","44.2603885","amenity","restaurant"

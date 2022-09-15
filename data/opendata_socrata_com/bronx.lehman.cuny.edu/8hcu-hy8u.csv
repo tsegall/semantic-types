@@ -1,0 +1,10 @@
+"fid","id","boro","borough","cd","cd_decode","block","lot","college_name","address","facility_t","group_type","subgroup_t","capacity","capacity_t","acreage","prek_8_enr","g9_12_enro","agency_ope","agency_ove","ct2010","tract","council","sd","police_pre","health_are","bbl","longitude","latitude","service_ar","location_1"
+,"12000000000000","2","BX","205","BRONX COMMUNITY DISTRICT 5","3210","92","BRONX COMMUNITY COLLEGE (CUNY)","80 W 181 St","1202","1","13","10740","10"," "," "," ","2","2","251","251","14","10","46","1520","2032100090","-73.908838","40.856816","R","80 W 181 St
+BX, NY 10453
+(40.856816, -73.908838)"
+,"12000000000000","2","BX","207","BRONX COMMUNITY DISTRICT 7","3247","165","HERBERT H LEHMAN COLLEGE (CUNY)","250 Bedford Park Blvd  W","1202","1","13","12115","10"," "," "," ","2","2","409","409","11","10","52","310","2032470170","-73.893157","40.874536","R","250 Bedford Park Blvd W
+BX, NY 10468
+(40.874536, -73.893157)"
+,"12000000000000","2","BX","201","BRONX COMMUNITY DISTRICT 1","2346","29","HOSTOS COMM COLLEGE (CUNY)","475 Grand Concourse","1202","1","13","6499","10"," "," "," ","2","2","63","63","17","7","40","3800","2023460030","-73.928043","40.818119","R","475 Grand Concourse
+BX, NY 10451
+(40.818119, -73.928043)"

@@ -1,0 +1,922 @@
+"issueddate","statusdate","permitnum","originaladdress1","description","permitclassmapped","workclassmapped","currentstatusmapped","applicant","totalsqft","estprojectcost","housingunits","parcelarea","zoning","ward","servicearea","pin","lot","block","plan","quarter","section","township","range","meridian","location","originaladdress2","city","province","postalcode","jurisdiction","permitclass","workclass","currentstatus","applieddate","permityear","permitmonth","permityearlabel","permitmonthlabel","completeddate","permittype","permittypemapped","permittypedesc","permitobjectid","addressobjectid","parcelobjectid","count","buildingtype","latitude","longitude"
+"2022-09-06T00:00:00.000","2022-09-06T00:00:00.000","2022-0746-B","134 HORTON WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Coventry Homes","4175","351944","1",,"R2A","5","Rural","3211763503","35","6","2122874","NW","2","53","22","4","
+,  
+(53.55115897, -113.13590698)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-29T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10630024","253067","10341217","1","Single Detached Dwelling","53.55115897","-113.13590698"
+"2022-07-19T00:00:00.000","2022-08-25T00:00:00.000","2022-0644-B","126 HORTON WY","To Construct a Duplex, 122 & 126","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Coventry Homes","4335","330750","2",,"R2A","5","Rural","3211763307","33","6","2122874","NW","2","53","22","4","
+,  
+(53.55117275, -113.1361702)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-29T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10583864","253065","10341215","1","Single Detached Dwelling","53.55117275","-113.1361702"
+"2022-05-31T00:00:00.000","2022-09-02T00:00:00.000","2022-0441-B","8412 15 ST","Racking Installation","COMMERCIAL","ALTERATIONS","Approved - File Closed","ARPAC","3955","151500","0",,"IM","1","Sherwood Park","2329330401","4","3","0826916","NW","29","52","23","4","
+,  
+(53.5197346, -113.36569085)",,,"AB",,"Strathcona County","110678","111703","151675","2022-05-11T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10504590","83789","4413290","1","Repair Garages","53.5197346","-113.36569085"
+"2021-11-29T00:00:00.000","2022-08-28T00:00:00.000","2021-1100-B","6 HUNDRED ACRE GATE","New Single Family Dwelling.","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Santos Construction","4499","505000","0",,"RE","5","Rural","3211740907","9","4","1723309","NW","2","53","22","4","
+,  
+(53.55848274, -113.13923463)",,,"AB",,"Strathcona County","110682","111706","3083","2021-11-08T00:00:00.000","2021-01-01T00:00:00.000","2021-11-01T00:00:00.000","2021","11",,"1028","Building Permit","NULL","10270375","251016","8315920","1","Single Detached Dwelling","53.55848274","-113.13923463"
+"2022-08-16T00:00:00.000","2022-08-16T00:00:00.000","2022-0705-B","135 CAMPBELL DR","To Construct a Sunroom on an existing lower deck","RESIDENTIAL","ADDITION","In Progress - Inspection","Ideal Sundecks 1979 Ltd.","0","12000","0",,"R1B","2","Sherwood Park","8114075006","75","114","1025222","NE","2","53","23","4","
+,  
+(53.55374833, -113.27980293)",,,"AB",,"Strathcona County","110682","111702","3083","2022-07-21T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10618109","62679","5254900","1","Single Detached Dwelling","53.55374833","-113.27980293"
+"2020-01-15T00:00:00.000","2022-08-18T00:00:00.000","2020-0010-B","983 FIR ST","NULL","COMMERCIAL","ALTERATIONS","Approved - File Closed","McInness, Sean",,"31000","0",,"C2","1","Sherwood Park","7191001002","4B","191","9221550","SE","28","52","23","4","
+,  
+(53.51301308, -113.32602016)",,,"AB",,"Strathcona County","110678","111703","151675","2020-01-06T00:00:00.000","2020-01-01T00:00:00.000",,"2020","0",,"1028","Building Permit","NULL","9369662","18545","5704","1","Car Dealership","53.51301308","-113.32602016"
+"2022-05-10T00:00:00.000","2022-08-28T00:00:00.000","2022-0429-B","347 51101 RNG RD 222","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Schultz, Evan","0","15000","0",,"R2A","7","Rural","1202316191",,"19","0929928","NW","2","51","22","4","
+,  
+(53.37840228, -113.13849646)",,,"AB",,"Strathcona County","110682","111703","151675","2022-05-09T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10500394","61831","4862648","1","Single Detached Dwelling","53.37840228","-113.13849646"
+"2022-05-11T00:00:00.000","2022-08-28T00:00:00.000","2022-0411-B","51263 RNG RD 225","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Urban Pioneer Infill Inc","3632","500000","0",,"AG","6","Rural","1217300001",,,,"NW","17","51","22","4","
+,  
+(53.40742411, -113.22072851)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-06T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10497255","23101","1644","1","Single Detached Dwelling","53.40742411","-113.22072851"
+"2022-05-16T00:00:00.000","2022-08-20T00:00:00.000","2022-0407-B","42 HARVEST CR","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","H2 Homes Ltd","4223","450000","1",,"RE","5","Rural","3211732205","22","3","2122294",,,,,,"
+,  
+(53.56252735, -113.1385872)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-06T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10496342","252877","10257198","1","Single Detached Dwelling","53.56252735","-113.1385872"
+"2022-08-31T00:00:00.000","2022-08-31T00:00:00.000","2022-0835-B","64 MALVERN DR","To Construct a Basement Egress Window","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Williams, Blake","0","6500","0",,"R1A","1","Sherwood Park","7099059003","59","99","7520864","NW","34","52","23","4","
+,  
+(53.54023063, -113.31251794)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-29T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10673624","6054","4230","1","Single Detached Dwelling","53.54023063","-113.31251794"
+"2022-08-23T00:00:00.000","2022-08-23T00:00:00.000","2022-0721-B","540, 3850 SHERWOOD DR","Interior Renovation -  ""Boba Bar"" Cafe","COMMERCIAL","ALTERATIONS","In Progress - Inspection","HERR Design","827","100000","0",,"C1","4","Sherwood Park","8172064215",,"21","1722464","NW","2","53","23","4","
+,  
+(53.55524904, -113.29226021)",,,"AB",,"Strathcona County","110678","111703","3083","2022-07-26T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10622974","227016","8249610","1","Restaurants","53.55524904","-113.29226021"
+"2022-09-09T00:00:00.000","2022-09-09T00:00:00.000","2019-0605-B","3051 84 AV","New Building with Paint Booth","INDUSTRIAL","NEW CONSTRUCTION","In Progress - Inspection","Mitey Titan Industries","227","250000","0",,"IM","1","Sherwood Park","2330715000","5",,"7521400","SW","30","52","23","4","
+,  
+(53.51897858, -113.38876474)",,,"AB",,"Strathcona County","110679","111706","3083","2019-06-27T00:00:00.000","2019-01-01T00:00:00.000","2019-06-01T00:00:00.000","2019","6",,"1028","Building Permit","NULL","9116053","29858","11723","1","Paint, Varnish And Pyroxylin Product Factories","53.51897858","-113.38876474"
+"2022-08-09T00:00:00.000","2022-09-09T00:00:00.000","2022-0555-B","242 52349 RNG RD 233","NULL","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Diamond Contracting","6754","900000","0",,"RCL","6","Rural","2322343001","31",,"4382MC","NW","22","52","23","4","
+,  
+(53.50845827, -113.31519253)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-08T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10548183","19256","11366","1","Single Detached Dwelling","53.50845827","-113.31519253"
+"2022-09-08T00:00:00.000","2022-09-09T00:00:00.000","2021-0137-B","175 52327 RNG RD 233","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","2002995 Alberta Ltd O/A Alair Homes Edmonton","11657","1700000","1",,"RE","6","Rural","2322751707","17","5","1721060","SW","22","52","23","4","
+,  
+(53.50050689, -113.31150512)",,,"AB",,"Strathcona County","110682","111706","151675","2021-02-18T00:00:00.000","2021-01-01T00:00:00.000","2021-01-01T00:00:00.000","2021","1",,"1028","Building Permit","NULL","9883450","250356","7940821","1","Single Detached Dwelling","53.50050689","-113.31150512"
+"2022-08-15T00:00:00.000","2022-08-15T00:00:00.000","2022-0785-B","72, 301 PALISADES WY","Tenant improvement - building envelope repair","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Shamrock Building Services (Not Webactive)","0","70000","4",,"R3","1","Sherwood Park","8530430706",,"7","1224728","NE","3","53","23","4","
+,  
+(53.55564617, -113.29701389)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-11T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10647401","116235","6708197","1","Multi-Family Housing","53.55564617","-113.29701389"
+"2022-06-03T00:00:00.000","2022-08-20T00:00:00.000","2022-0445-B","21571 TWP RD 534","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","CONCEPT HOMES","2793","695410","1",,"RS","5","Rural","3119320608","6","2","1622829","NW","19","53","21","4","
+,  
+(53.59902288, -113.09501328)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-12T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10506567","251939","7699176","1","Single Detached Dwelling","53.59902288","-113.09501328"
+"2022-03-24T00:00:00.000","2022-08-20T00:00:00.000","2022-0190-B","186 RANCHER RD","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Coventry Homes Inc","2035","197635","1",,"ALD","5","Rural","3211764408","44","6","2220391","NE","2","53","22","4","
+,  
+(53.55062167, -113.13531683)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-08T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10410440","253880","10412426","1","Single Detached Dwelling","53.55062167","-113.13531683"
+"2020-07-06T00:00:00.000","2022-08-28T00:00:00.000","2020-0532-B","792 COTTONWOOD AV","Kitchen Renovation","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Pfuetzner, Janette","0","7000","0",,"R1A","3","Sherwood Park","7041027009","27","41","468RS","SE","27","52","23","4","
+,  
+(53.51498451, -113.30248726)",,,"AB",,"Strathcona County","110682","111703","151675","2020-07-03T00:00:00.000","2020-01-01T00:00:00.000","2020-05-01T00:00:00.000","2020","5",,"1028","Building Permit","NULL","9581677","17746","16084","1","Single Detached Dwelling","53.51498451","-113.30248726"
+"2022-07-04T00:00:00.000","2022-08-20T00:00:00.000","2022-0540-B","115 CRESTHAVEN GROVE","New Single Family Dwelling.","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Aacropolis Homes","3005","450000","0",,"R1A","5","Rural","3211723005","30","2","1520861","NW","2","53","22","4","
+,  
+(53.55513197, -113.13765184)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-06T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10543095","193660","7160937","1","Single Detached Dwelling","53.55513197","-113.13765184"
+"2022-05-10T00:00:00.000","2022-08-16T00:00:00.000","2022-0410-B","2020 SHERWOOD DR","Specsavers - Interior alteration","COMMERCIAL","TENANT IMPROVEMENT","Approved - File Closed","Sonroc Group Ltd.","41425","300000","0",,"CITP ""Area SPMMS"",CITP ""Area SPMC"",R3,CITP ""Area SPMR""","2","Sherwood Park","7152001009","1","152","261TR","SW","35","52","23","4","
+,  
+(53.53105119, -113.29499787)",,,"AB",,"Strathcona County","110678","111709","151675","2022-05-06T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10497010","25567","20152","1","Stores","53.53105119","-113.29499787"
+"2020-06-23T00:00:00.000","2022-08-23T00:00:00.000","2020-0483-B","548 SAGE CR","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Jacobs, Darren","0","6500","0",,"R1A","3","Sherwood Park","7047010009","10","47","1557RS",,,,,,"
+,  
+(53.51913021, -113.29766314)",,,"AB",,"Strathcona County","110682","111703","151675","2020-06-22T00:00:00.000","2020-01-01T00:00:00.000","2020-04-01T00:00:00.000","2020","4",,"1028","Building Permit","NULL","9563908","15449","16307","1","Single Detached Dwelling","53.51913021","-113.29766314"
+"2022-03-14T00:00:00.000","2022-09-09T00:00:00.000","2022-0142-B","29 HORTON WY","To Construct a Duplex, #25 & 29","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","1594815 Alberta Ltd.","3422","700000","2",,"R2A","5","Rural","3211770709","7","7","1823495","NW","2","53","22","4","
+,  
+(53.55276598, -113.13834286)",,,"AB",,"Strathcona County","110682","111706","3083","2022-02-23T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10393087","251776","8773410","1","Multi-Family Housing","53.55276598","-113.13834286"
+"2021-10-01T00:00:00.000","2022-09-02T00:00:00.000","2021-0930-B","25 51565 RNG RD 223","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Homes by Design Inovations","9152","1900000","1",,"RS","7","Rural","1234301050","5","1","1020943","NW","34","51","22","4","
+,  
+(53.44969114, -113.16700716)",,,"AB",,"Strathcona County","110682","111706","3083","2021-09-22T00:00:00.000","2021-01-01T00:00:00.000","2021-09-01T00:00:00.000","2021","9",,"1028","Building Permit","NULL","10204602","61955","4956661","1","Single Detached Dwelling","53.44969114","-113.16700716"
+"2021-11-05T00:00:00.000","2022-08-28T00:00:00.000","2021-1092-B","30 52467 RNG RD 214","NULL","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","CAMBELLTON HOMES","4180","525000","0",,"DC38","5","Rural","2128310502","5","1","0628103","NW","28","52","21","4","
+,  
+(53.5249335, -113.03982625)",,,"AB",,"Strathcona County","110682","111706","151675","2021-11-04T00:00:00.000","2021-01-01T00:00:00.000","2021-10-01T00:00:00.000","2021","10",,"1028","Building Permit","NULL","10265851","36260","3532498","1","Single Detached Dwelling","53.5249335","-113.03982625"
+"2022-07-06T00:00:00.000","2022-09-07T00:00:00.000","2022-0655-B","17 NOTTINGHAM BAY","Basement Development & House Reno","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Boychuk, Cheryl",,"60000","0",,"R1A","3","Sherwood Park","7213008008","8","213","9926256",,,,,,"
+,  
+(53.51725644, -113.27172832)",,,"AB",,"Strathcona County","110682","111703","3083","2022-07-05T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10591621","24795","29715","1","Single Detached Dwelling","53.51725644","-113.27172832"
+"2022-08-31T00:00:00.000","2022-08-31T00:00:00.000","2022-0833-B","5096 SUNVIEW DR","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Pasipanodya, Traver","0","16695","0",,"R1C","4","Sherwood Park","8132063004","63","132","0740945","SE","12","53","23","4","
+,  
+(53.55807778, -113.25432548)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-29T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10673237","38852","4001639","1","Single Detached Dwelling","53.55807778","-113.25432548"
+"2022-03-22T00:00:00.000","2022-09-09T00:00:00.000","2022-0169-B","181 RANCHER RD","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Coventry Homes Inc","2982","300000","1",,"ALD","5","Rural","3211785403","54","8","2220391","NE","2","53","22","4","
+,  
+(53.55073141, -113.13471094)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-03T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10404380","253859","10412457","1","Single Detached Dwelling","53.55073141","-113.13471094"
+"2022-03-03T00:00:00.000","2022-08-23T00:00:00.000","2022-0165-B","74 MANOR DR","Kitchen renovation","RESIDENTIAL","ALTERATIONS","Approved - File Closed","SHIGNANSKI CONSTRUCTION INC.","0","5000","0",,"R1A","1","Sherwood Park","7118069009","69","118","3885RS","N","34","52","23","4","
+,  
+(53.53356985, -113.30378595)",,,"AB",,"Strathcona County","110682","111703","151675","2022-03-02T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10402916","9381","18905","1","Single Detached Dwelling","53.53356985","-113.30378595"
+"2022-01-21T00:00:00.000","2022-08-31T00:00:00.000","2021-1249-B","131 HORTON WY","To Construct a Duplex, 127 & 131","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Daytona Homes","4461","44400","2",,"ALD","5","Rural","3211793009","30","9","2122874","NW","2","53","22","4","
+,  
+(53.55146758, -113.1358408)",,,"AB",,"Strathcona County","110682","111706","151675","2021-12-22T00:00:00.000","2021-01-01T00:00:00.000","2021-12-01T00:00:00.000","2021","12",,"1028","Building Permit","NULL","10326085","253053","10341221","1","Multi-Family Housing","53.55146758","-113.1358408"
+"2022-06-08T00:00:00.000","2022-09-02T00:00:00.000","2022-0528-B","84, 2131 OAK ST","Kitchen Renovation","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Lambert Brothers Construction","0","8000","0",,"R3","1","Sherwood Park","7520544003",,"45","8420364",,,,,,"
+,  
+(53.52977871, -113.30290311)",,,"AB",,"Strathcona County","110682","111703","151675","2022-06-02T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10538849","11167","24089","1","Single Detached Dwelling","53.52977871","-113.30290311"
+"2022-08-16T00:00:00.000","2022-08-16T00:00:00.000","2022-0796-B","22 ALLISTON CL","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Derocco, Mike & Daryll","0","40000","0",,"R1C","4","Sherwood Park","8182027008","27","182","1822995","SW","11","53","23","4","
+,  
+(53.56027038, -113.28837816)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-15T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10652069","251673","8719196","1","Single Detached Dwelling","53.56027038","-113.28837816"
+"2022-04-06T00:00:00.000","2022-09-09T00:00:00.000","2022-0273-B","2 HOMESTEAD CL","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Launch Homes Inc.","3355","260000","1",,"R1A","5","Rural","3211736509","65","3","2122874","SW","11","53","22","4","
+,  
+(53.55646356, -113.1365989)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-30T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10441447","253042","10341198","1","Single Detached Dwelling","53.55646356","-113.1365989"
+"2021-09-09T00:00:00.000","2022-09-09T00:00:00.000","2021-0860-B","137 SUMAC LN","Pacesetter Homes Ltd (Sophat Vith)","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Pacesetter Homes Ltd (Sophat Vith)",,"239000","0",,"R1C","4","Sherwood Park","8143076006","76","143","1920191","NE","12","53","23","4","
+,  
+(53.56496951, -113.25466903)",,,"AB",,"Strathcona County","110682","111706","151675","2021-08-30T00:00:00.000","2021-01-01T00:00:00.000","2021-08-01T00:00:00.000","2021","8",,"1028","Building Permit","NULL","10171171","251848","8808727","1","Single Detached Dwelling","53.56496951","-113.25466903"
+"2022-03-04T00:00:00.000","2022-08-28T00:00:00.000","2022-0090-B","117 BIRKSHIRE CR","To Construct a Duplex, 113 & 117","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","SALVI  HOMES LTD","6906","1000000","2",,"C1,HR2,PU,AD,R4","6","Rural","2323104207","4","1","1722978","NE","23","52","23","4","
+,  
+(53.50940863, -113.27607292)",,,"AB",,"Strathcona County","110682","111706","3083","2022-02-04T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10374140","253298","8264329","1","Multi-Family Housing","53.50940863","-113.27607292"
+"2022-07-29T00:00:00.000","2022-09-07T00:00:00.000","2022-0707-B","52215 RNG RD 232","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Modern General Contractors","7260","725000","1",,"RCL","6","Rural","2314702008","B",,"1094MC","SW","14","52","23","4","
+,  
+(53.48592836, -113.29498714)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-22T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10618952","20872","10928","1","Single Detached Dwelling","53.48592836","-113.29498714"
+"2022-05-27T00:00:00.000","2022-08-26T00:00:00.000","2022-0403-B","8, 50 EBONY BLVD","Row Housing 2, 4, 6, 8, 10, 12, 14, 16Building 5","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Cantiro","13250","2650000","8",,"DC69 ""Area II""","4","Sherwood Park","8176008004","8","176","1723604","W","11","53","23","4","
+,  
+(53.56265992, -113.29129929)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-05T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10494653","252060","8354526","1","Multi-Family Housing","53.56265992","-113.29129929"
+"2022-08-29T00:00:00.000","2022-08-31T00:00:00.000","2022-0826-B","110 EDGAR LN","Temporary Construction Site Trailer","COMMERCIAL","RELOCATION","Approved - File Closed","Emerald Place GP Inc.","0","11780","0",,"UV2 ""Area I""","4","Sherwood Park","8155014000","14","155","1524820","NE","11","53","23","4","
+,  
+(53.56624882, -113.27633984)",,,"AB",,"Strathcona County","110678","111707","151675","2022-08-25T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10670154","253362","7430173","1","Offices","53.56624882","-113.27633984"
+"2022-07-27T00:00:00.000","2022-08-31T00:00:00.000","2022-0651-B","94 HORTON WY","To Construct a Duplex, 90 & 94","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","DAYTONA HOMES INC","4386","456500","2",,"R2A","5","Rural","3211762505","25","6","2122874","NW","2","53","22","4","
+,  
+(53.55142215, -113.13712333)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-04T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10589880","253057","10341207","1","Multi-Family Housing","53.55142215","-113.13712333"
+"2022-08-31T00:00:00.000","2022-08-31T00:00:00.000","2022-0843-B","254 53347 RNG RD 215","Solar panel installations","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Action Electrical Ltd.","0","2500","0",,"RCL","5","Rural","3120321009","1","2","8020883","NW","20","53","21","4","
+,  
+(53.59884423, -113.06934387)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-30T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10676756","1451","12284","1","Single Detached Dwelling","53.59884423","-113.06934387"
+"2022-03-02T00:00:00.000","2022-09-02T00:00:00.000","2022-0151-B","145, 50 EBONY BLVD","An 8 unit Row House Building - 131, 133, 135, 137, 139, 141, 143, 145 (Building 1)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Norr Architects Engineers Planners, Christiaan Odinga","15369","1200000","8",,"DC69 ""Area II""","4","Sherwood Park","8522900001",,"I","2021720",,,,,,"
+,  
+(53.56367926, -113.28964996)",,,"AB",,"Strathcona County","110682","111706","3083","2022-02-25T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10396839","252027","9664984","1","Row House - Five Plex","53.56367926","-113.28964996"
+"2021-06-22T00:00:00.000","2022-09-09T00:00:00.000","2021-0643-B","274 CONIFER ST","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Stocks, Bruce","0","6000","0",,"R1A","3","Sherwood Park","7018022009","22","18","4095KS","N","27","52","23","4","
+,  
+(53.52025819, -113.31367166)",,,"AB",,"Strathcona County","110682","111703","151675","2021-06-21T00:00:00.000","2021-01-01T00:00:00.000","2021-06-01T00:00:00.000","2021","6",,"1028","Building Permit","NULL","10064916","15036","15188","1","Single Detached Dwelling","53.52025819","-113.31367166"
+"2022-05-26T00:00:00.000","2022-09-09T00:00:00.000","2022-0288-B","10 HOMESTEAD CL","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Cona Homes","3867","574000","1",,"R1A","5","Rural","3211736705","67","3","2122874","SW","11","53","22","4","
+,  
+(53.5564195, -113.13616153)",,,"AB",,"Strathcona County","110682","111706","3083","2022-04-06T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10451293","253044","10341200","1","Single Detached Dwelling","53.5564195","-113.13616153"
+"2021-09-10T00:00:00.000","2022-09-09T00:00:00.000","2021-0807-B","109 52319 RNG RD 231","Addition to Single Dwelling and Secondary - Addition (9.75m x 13.4m) including Secondary Suite, Porch and Deck","RESIDENTIAL","SECONDARY SUITE","In Progress - Inspection","Purschke, Andrew & Garry","1789","200000","1",,"RCL","6","Rural","2324718002","12","2","7822645","W","24","52","23","4","
+,  
+(53.49835292, -113.26179425)",,,"AB",,"Strathcona County","110682","4205166","3083","2021-08-12T00:00:00.000","2021-01-01T00:00:00.000","2021-08-01T00:00:00.000","2021","8",,"1028","Building Permit","NULL","10147181","20053","11548","1","Secondary Suite","53.49835292","-113.26179425"
+"2022-04-13T00:00:00.000","2022-09-09T00:00:00.000","2022-0277-B","22512 TWP RD 512","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Launch Homes Inc.","5236","620000","1",,"RA","6","Rural","1218503008","1","1","2022225","SE","18","51","22","4","
+,  
+(53.39655152, -113.22468274)",,,"AB",,"Strathcona County","110682","111706","3083","2022-04-01T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10444619","252431","9743512","1","Single Detached Dwelling","53.39655152","-113.22468274"
+"2022-07-07T00:00:00.000","2022-09-01T00:00:00.000","2022-0621-B","972 CONIFER ST","Secondary Suite","RESIDENTIAL","SECONDARY SUITE","In Progress - Inspection","Foote, Kara","0","342000","1",,"R1A","3","Sherwood Park","7003004004","4","3","723KS","SW","27","52","23","4","
+,  
+(53.514602, -113.31293556)",,,"AB",,"Strathcona County","110682","4205166","3083","2022-06-24T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10576831","17994","14964","1","Secondary Suite","53.514602","-113.31293556"
+"2022-02-03T00:00:00.000","2022-09-01T00:00:00.000","2022-0046-B","202 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Jayman Built","3016","580000","1",,"R1C","4","Sherwood Park","8129283005","283","129","2122765",,,,,,"
+,  
+(53.5640758, -113.25001512)",,,"AB",,"Strathcona County","110682","111706","3083","2022-01-19T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10350165","252979","10309952","1","Single Detached Dwelling","53.5640758","-113.25001512"
+"2022-09-07T00:00:00.000","2022-09-07T00:00:00.000","2022-0781-B","511 MEADOWVIEW DR","To Construct a Sunroom","RESIDENTIAL","ADDITION","In Progress - Inspection","Ideal Sundecks 1979 Ltd.","0","32000","0",,"R1A","4","Sherwood Park","8017003003","3","17","9423091","SE","1","53","23","4","
+,  
+(53.54819505, -113.25754311)",,,"AB",,"Strathcona County","110682","111702","3083","2022-08-10T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10646439","4037","7666","1","Single Detached Dwelling","53.54819505","-113.25754311"
+"2022-06-07T00:00:00.000","2022-08-31T00:00:00.000","2022-0542-B","120 HAWKSTONE LANDING","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","Approved - File Closed","George, Joseph","0","4000","0",,"R1A","8","Sherwood Park","7309056008","56","309","0325580","SE","36","52","23","4","
+,  
+(53.52973359, -113.25159309)",,,"AB",,"Strathcona County","110682","111703","151675","2022-06-06T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10543544","29776","2021660","1","Single Detached Dwelling","53.52973359","-113.25159309"
+"2022-07-22T00:00:00.000","2022-09-07T00:00:00.000","2022-0704-B","25 VILLAGE RD","Demolition","RESIDENTIAL","DEMOLITION","In Progress - Inspection","Carriage Signature Homes Inc.","0","22000","0",,"R1A","1","Sherwood Park","7038025008","25","38","1501RS","SW","34","52","23","4","
+,  
+(53.52786908, -113.31710006)",,,"AB",,"Strathcona County","110682","111704","3083","2022-07-21T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10617951","11993","15914","1","Single Detached Dwelling","53.52786908","-113.31710006"
+"2022-01-17T00:00:00.000","2022-09-02T00:00:00.000","2022-0024-B","23146 TWP RD 520","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Audie Benson Estate Homes","8747","3500000","1",,"RA","6","Rural","2302702002",,"1","2572MC","SW","2","52","23","4","
+,  
+(53.4543875, -113.28438186)",,,"AB",,"Strathcona County","110682","111706","3083","2022-01-13T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10343404","21918","10598","1","Single Detached Dwelling","53.4543875","-113.28438186"
+"2021-10-04T00:00:00.000","2022-09-07T00:00:00.000","2021-0881-B","110 EBONY BLVD","Construction of a 6 storey residential building with 125 apartment units connected to a parking garage.  (Building #1)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Deveraux Developments","2060","14925772","119",,"DC69 ""Area II""","4","Sherwood Park","8176008004","8","176","1723604","W","11","53","23","4","
+,  
+(53.56434281, -113.29009718)",,,"AB",,"Strathcona County","110682","111706","3083","2021-09-07T00:00:00.000","2021-01-01T00:00:00.000","2021-08-01T00:00:00.000","2021","8",,"1028","Building Permit","NULL","10181716","252467","8354526","1","Multi-Family Housing","53.56434281","-113.29009718"
+"2021-11-09T00:00:00.000","2022-09-09T00:00:00.000","2021-1059-B","200 53016 RNG RD 222","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Veneto Homes","4563","800000","1",,"RCL","5","Rural","3203512602","26","1","0426287","SE","3","53","22","4","
+,  
+(53.54422955, -113.15159446)",,,"AB",,"Strathcona County","110682","111706","3083","2021-10-28T00:00:00.000","2021-01-01T00:00:00.000","2021-10-01T00:00:00.000","2021","10",,"1028","Building Permit","NULL","10256166","30203","2490381","1","Single Detached Dwelling","53.54422955","-113.15159446"
+"2022-08-26T00:00:00.000","2022-08-26T00:00:00.000","2022-0809-B","125 EDGAR LN","8 Unit Rowhouse,  111, 113, 115, 117, 119, 121, 123, 125, Building 1","RESIDENTIAL","NEW CONSTRUCTION","Plans Examination Completed","Amrit Design Drafting Services","17019","3000000","8",,"UV2 ""Area VII""","4","Sherwood Park","8155010009","10","155","0740040","NE","11","53","23","4","
+,  
+(53.56623764, -113.27453426)",,,"AB",,"Strathcona County","110682","111706","21508","2022-08-18T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10658058","251071","3975326","1","Multi-Family Housing","53.56623764","-113.27453426"
+"2022-03-15T00:00:00.000","2022-09-07T00:00:00.000","2022-0144-B","51233 RNG RD 224","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","1251164 Alberta Ltd.","4884","380000","1",,"AG","7","Rural","1216702009",,"A","2445RS","SW","16","51","22","4","
+,  
+(53.40165202, -113.19609533)",,,"AB",,"Strathcona County","110682","111706","3083","2022-02-24T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10394438","252919","1623","1","Single Detached Dwelling","53.40165202","-113.19609533"
+"2021-05-11T00:00:00.000","2022-09-09T00:00:00.000","2021-0385-B","128 52327 RNG RD 233","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Gurnoor Homes Ltd.","6301","700000","1",,"RE","6","Rural","2322710809","8","1","1721060","SW","22","52","23","4","
+,  
+(53.50175464, -113.31659926)",,,"AB",,"Strathcona County","110682","111706","3083","2021-04-23T00:00:00.000","2021-01-01T00:00:00.000","2021-03-01T00:00:00.000","2021","3",,"1028","Building Permit","NULL","9967692","250367","7940794","1","Single Detached Dwelling","53.50175464","-113.31659926"
+"2021-11-30T00:00:00.000","2022-09-09T00:00:00.000","2021-1111-B","101 FESTIVAL WY","6 Storey Apartment building with underground parkade","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","EFG Architects Inc.","1275","12900000","75",,"CITP ""Area CRC""","1","Sherwood Park","7520825122",,"512","1522089","SE","34","52","23","4","
+,  
+(53.52751461, -113.30214171)",,,"AB",,"Strathcona County","110682","111706","3083","2021-11-12T00:00:00.000","2021-01-01T00:00:00.000","2021-11-01T00:00:00.000","2021","11",,"1028","Building Permit","NULL","10275238","252473","7257601","1","Multi-Family Housing","53.52751461","-113.30214171"
+"2022-07-06T00:00:00.000","2022-08-25T00:00:00.000","2022-0464-B","1095 STONESIDE RD","To Construct a Duplex, 1005 & 1095","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Mattamy Homes","4544","557821","2",,"R6,PC,AD","4","Sherwood Park","3324510109","1","1","1922344","SE","24","53","23","4","
+,  
+(53.59161128, -113.25050453)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-18T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10514594","253926","9213111","1","Multi-Family Housing","53.59161128","-113.25050453"
+"2021-01-07T00:00:00.000","2022-09-09T00:00:00.000","2021-0010-B","927 BIRCH AV","Basement Development","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Klassen, Aaron","984","20000","0",,"R1A","3","Sherwood Park","7006006006","6","6","632KS","SW","27","52","23","4","
+,  
+(53.51375647, -113.31020102)",,,"AB",,"Strathcona County","110682","111703","151675","2021-01-06T00:00:00.000","2021-01-01T00:00:00.000",,"2021","0",,"1028","Building Permit","NULL","9836753","18425","15029","1","Single Detached Dwelling","53.51375647","-113.31020102"
+"2021-11-29T00:00:00.000","2022-09-09T00:00:00.000","2021-1089-B","29 HARVEST CR","New Single Family Dwelling.","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Kanvi Homes","5576","553400","0",,"RE","5","Rural","3211760412","4","6","1723309","NW","2","53","22","4","
+,  
+(53.56141158, -113.14059005)",,,"AB",,"Strathcona County","110682","111706","3083","2021-11-04T00:00:00.000","2021-01-01T00:00:00.000","2021-10-01T00:00:00.000","2021","10",,"1028","Building Permit","NULL","10265593","250999","8315935","1","Single Detached Dwelling","53.56141158","-113.14059005"
+"2022-01-25T00:00:00.000","2022-08-16T00:00:00.000","2022-0013-B","190 52327 RNG RD 233","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","KAIDIAN HOMES","7591","1900000","1",,"RE","6","Rural","2322761008","10","6","2122518","SW","22","52","23","4","
+,  
+(53.49940564, -113.31127942)",,,"AB",,"Strathcona County","110682","111706","3083","2022-01-07T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10337907","252905","10290530","1","Single Detached Dwelling","53.49940564","-113.31127942"
+"2022-06-17T00:00:00.000","2022-08-17T00:00:00.000","2022-0531-B","46 HORTON WY","To Construct a Duplex, 42 & 46","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Cona Homes","6207","815000","0",,"R2A","5","Rural","3211761101","11","6","1823495","NW","2","53","22","4","
+,  
+(53.55224444, -113.13836217)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-02T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10539579","251765","8773398","1","Multi-Family Housing","53.55224444","-113.13836217"
+"2017-02-03T00:00:00.000","2022-08-29T00:00:00.000","2017-0087-B","11 52105 RNG RD 225","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Kahlon, Gurbaljinder","8673","800000","1",,"RCL","6","Rural","2208710207","2","1","0628366","SW","8","52","22","4","
+,  
+(53.46904035, -113.21927388)",,,"AB",,"Strathcona County","110682","111706","151675","2017-01-26T00:00:00.000","2017-01-01T00:00:00.000",,"2017","0",,"1028","Building Permit","NULL","7870976","36265","3543018","1","Single Detached Dwelling","53.46904035","-113.21927388"
+"2022-05-13T00:00:00.000","2022-08-14T00:00:00.000","2022-0446-B","32 MARDALE CR","Home Renovation","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Laakso, Adam","0","125000","0",,"R1A","1","Sherwood Park","7118101000","100","118","3632TR","E","34","52","23","4","
+,  
+(53.53268773, -113.29707951)",,,"AB",,"Strathcona County","110682","111703","3083","2022-05-12T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10506926","9742","18937","1","Single Detached Dwelling","53.53268773","-113.29707951"
+"2022-07-08T00:00:00.000","2022-08-14T00:00:00.000","2022-0666-B","8 IVY CR","Renovation - Fire Restoration","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","DANUK CONSTRUCTION LTD.","0","146000","0",,"R1A","3","Sherwood Park","7039029009","29","39","468RS",,,,,,"
+,  
+(53.51277518, -113.30175462)",,,"AB",,"Strathcona County","110682","111703","3083","2022-07-07T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10597763","18769","15959","1","Single Detached Dwelling","53.51277518","-113.30175462"
+"2022-07-06T00:00:00.000","2022-08-18T00:00:00.000","2022-0645-B","52215 RNG RD 232","Demolition to a single family dwelling","RESIDENTIAL","DEMOLITION","Approved - File Closed","Bhalla, Kamaljit Singh","0","5500","0",,"RCL","6","Rural","2314702008","B",,"1094MC","SW","14","52","23","4","
+,  
+(53.48592836, -113.29498714)",,,"AB",,"Strathcona County","110682","111704","151675","2022-06-30T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10584858","20872","10928","1","Single Detached Dwelling","53.48592836","-113.29498714"
+"2022-08-31T00:00:00.000","2022-08-31T00:00:00.000","2022-0845-B","30 HORTON WY","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Marshall, Patrick","0","14000","0",,"R2A","5","Rural","3211760807","8","6","1823495","NW","2","53","22","4","
+,  
+(53.55248845, -113.13872768)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-31T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10677609","251762","8773395","1","Single Detached Dwelling","53.55248845","-113.13872768"
+"2022-05-31T00:00:00.000","2022-08-31T00:00:00.000","2022-0485-B","123 WILLOW ST","Secondary Suite","RESIDENTIAL","SECONDARY SUITE","In Progress - Inspection","Lucas Friesen, Julia Steem","0","40000","1",,"R1A","3","Sherwood Park","7012025008","25","12","4533KS","SW","27","52","23","4","
+,  
+(53.51669169, -113.31685393)",,,"AB",,"Strathcona County","110682","4205166","3083","2022-05-24T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10523155","16793","3738","1","Secondary Suite","53.51669169","-113.31685393"
+"2017-02-07T00:00:00.000","2022-08-26T00:00:00.000","2017-0088-B","11 52105 RNG RD 225","New Detached Garage - RV Garage","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Kahlon, Gurbaljinder","1036","20000","0",,"RCL","6","Rural","2208710207","2","1","0628366","SW","8","52","22","4","
+,  
+(53.46904035, -113.21927388)",,,"AB",,"Strathcona County","110682","111706","3083","2017-01-26T00:00:00.000","2017-01-01T00:00:00.000",,"2017","0",,"1028","Building Permit","NULL","7871008","36265","3543018","1","Storage Building","53.46904035","-113.21927388"
+"2021-12-02T00:00:00.000","2022-08-22T00:00:00.000","2021-1124-B","10 51025 RNG RD 222","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Hyslop, Dean & Deborah","5261","425000","1",,"RE","7","Rural","1202701002",,"10","0125764","W","2","51","22","4","
+,  
+(53.3742915, -113.14289201)",,,"AB",,"Strathcona County","110682","111706","3083","2021-11-16T00:00:00.000","2021-01-01T00:00:00.000","2021-11-01T00:00:00.000","2021","11",,"1028","Building Permit","NULL","10280828","26965","1192571","1","Single Detached Dwelling","53.3742915","-113.14289201"
+"2021-04-22T00:00:00.000","2022-08-31T00:00:00.000","2021-0302-B","120, 14 SIOUX RD","Tenant Improvement for a cannabis retail store - Cannabis Spot","COMMERCIAL","TENANT IMPROVEMENT","Approved - File Closed","Dhunna, Harpinder Singh","996","60000","0",,"C5","1","Sherwood Park","7000725007","3","4","8222487","NE","33","52","23","4","
+,  
+(53.5348388, -113.32159673)",,,"AB",,"Strathcona County","110678","111709","151675","2021-04-08T00:00:00.000","2021-01-01T00:00:00.000","2021-03-01T00:00:00.000","2021","3",,"1028","Building Permit","NULL","9943017","251395","14922","1","Stores","53.5348388","-113.32159673"
+"2022-02-24T00:00:00.000","2022-08-31T00:00:00.000","2022-0028-B","171 52327 RNG RD 233","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Sahota, Balbir","9349","900000","1",,"RE","6","Rural","2322751805","18","5","1721060","SW","22","52","23","4","
+,  
+(53.50067526, -113.31184135)",,,"AB",,"Strathcona County","110682","111706","3083","2022-01-13T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10343787","250355","7940822","1","Single Detached Dwelling","53.50067526","-113.31184135"
+"2022-03-22T00:00:00.000","2022-08-18T00:00:00.000","2022-0131-B","53361 RNG RD 220","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","CONCEPT HOMES","10032","1060000","1",,"RA","5","Rural","3119320207","2","2","1622829","NW","19","53","21","4","
+,  
+(53.59594056, -113.09785917)",,,"AB",,"Strathcona County","110682","111706","3083","2022-02-18T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10389757","253361","7699172","1","Single Detached Dwelling","53.59594056","-113.09785917"
+"2019-08-02T00:00:00.000","2022-08-29T00:00:00.000","2019-0747-B","22 HIGHLAND CR","Main and Second Floor Renovation","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Haxby, Jason","0","200000","0",,"R1A","8","Sherwood Park","7305006000","6","305","9022032","NE","36","52","23","4","
+,  
+(53.53547431, -113.24883935)",,,"AB",,"Strathcona County","110682","111703","151675","2019-08-01T00:00:00.000","2019-01-01T00:00:00.000","2019-07-01T00:00:00.000","2019","7",,"1028","Building Permit","NULL","9165445","8236","23250","1","Single Detached Dwelling","53.53547431","-113.24883935"
+"2017-05-09T00:00:00.000","2022-09-07T00:00:00.000","2017-0518-B","71 52304 RNG RD 233","Deck","RESIDENTIAL","ADDITION","Approved - File Closed","Supreme Fence and Deck Inc.","0","15397","0",,"RE","6","Rural","2321510325","25","3","9322732","SE","21","52","23","4","
+,  
+(53.49942259, -113.32993565)",,,"AB",,"Strathcona County","110682","111702","151675","2017-05-05T00:00:00.000","2017-01-01T00:00:00.000","2017-05-01T00:00:00.000","2017","5",,"1028","Building Permit","NULL","8035366","20008","11297","1","Single Detached Dwelling","53.49942259","-113.32993565"
+"2022-07-19T00:00:00.000","2022-08-29T00:00:00.000","2022-0642-B","20523A HWY 14","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Reil, Curtis & Tammy","2686","500000","1",,"AG","7","Rural","1007100009",,,,"NE","7","51","20","4","
+,  
+(53.3951201, -112.93348059)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-29T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10583529","254038","1018","1","Single Detached Dwelling","53.3951201","-112.93348059"
+"2022-09-01T00:00:00.000","2022-09-02T00:00:00.000","2022-0848-B","25 52063 RNG RD 232","Demolition","RESIDENTIAL","DEMOLITION","In Progress - Inspection","Carson Built Inc","0","34000","0",,"RA","6","Rural","2302305004","6","1","2643RS","NW","2","52","23","4","
+,  
+(53.46440759, -113.28729221)",,,"AB",,"Strathcona County","110682","111704","3083","2022-09-01T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10679449","21653","10587","1","Single Detached Dwelling","53.46440759","-113.28729221"
+"2022-01-25T00:00:00.000","2022-08-24T00:00:00.000","2021-1264-B","6 BERWICK BAY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Bauch Construction Inc.","4052","490000","1",,"R1B","5","Rural","3211781907","19","8","2022472","NW","2","53","22","4","
+,  
+(53.55322413, -113.13669076)",,,"AB",,"Strathcona County","110682","111706","3083","2021-12-29T00:00:00.000","2021-01-01T00:00:00.000","2021-12-01T00:00:00.000","2021","12",,"1028","Building Permit","NULL","10330101","252438","9776424","1","Single Detached Dwelling","53.55322413","-113.13669076"
+"2022-08-05T00:00:00.000","2022-09-07T00:00:00.000","2022-0748-B","1107 APPLETON CT","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Cummer, Douglas","0","10000","0",,"R1C","4","Sherwood Park","8153024003","24","153","0627920","SE","11","53","23","4","
+,  
+(53.56003547, -113.2788172)",,,"AB",,"Strathcona County","110682","111703","3083","2022-07-29T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10630482","35926","3543052","1","Single Detached Dwelling","53.56003547","-113.2788172"
+"2022-08-29T00:00:00.000","2022-08-29T00:00:00.000","2022-0828-B","2 CHRISTINA WY","Roof top Solar installation",,,"In Progress - Inspection","Orizon Energy","0","24446","0",,"R1B","2","Sherwood Park","8054001004","1","54","0022689","SW","1","53","23","4","
+,  
+(53.54548154, -113.26635637)",,,"AB",,"Strathcona County",,,"3083","2022-08-26T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10671058","24852","30339","1",,"53.54548154","-113.26635637"
+"2021-05-05T00:00:00.000","2022-09-10T00:00:00.000","2021-0403-B","30, 10 SALISBURY WY","7 plex, Units 18, 20, 22, 24, 26, 28, 30 @ 10 Salisbury Way (Building 2)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","PLANWORKS ARCHITECTURE","14340","1085000","0",,"UV4 ""Area 4""","3","Sherwood Park","9403001003","1","4","1120565","N","22","52","23","4","
+,  
+(53.51108045, -113.30843343)",,,"AB",,"Strathcona County","110682","111706","3083","2021-04-28T00:00:00.000","2021-01-01T00:00:00.000","2021-04-01T00:00:00.000","2021","4",,"1028","Building Permit","NULL","9972846","147541","5443127","1","Row House - Five Plex","53.51108045","-113.30843343"
+"2022-01-19T00:00:00.000","2022-09-10T00:00:00.000","2021-1257-B","42 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Pacesetter Homes Ltd - Nolan Hunt-Lee","2057","357180","1",,"R1D","4","Sherwood Park","8129243007","243","129","2122842","NE","12","53","23","4","
+,  
+(53.56626664, -113.24981751)",,,"AB",,"Strathcona County","110682","111706","3083","2021-12-23T00:00:00.000","2021-01-01T00:00:00.000","2021-12-01T00:00:00.000","2021","12",,"1028","Building Permit","NULL","10327993","253019","10339750","1","Single Detached Dwelling","53.56626664","-113.24981751"
+"2022-03-02T00:00:00.000","2022-08-26T00:00:00.000","2022-0126-B","130 EDGAR LN","Footing and Foundation for Parkade under 110, 120, 130 Edgar LaneSeparate building permit required for parkade.","COMMERCIAL","FOUNDATION ONLY","In Progress - Inspection","Emerald Place GP Inc.","10526","1000","0",,"UV2 ""Area I""","4","Sherwood Park","8155014000","14","155","1524820","NE","11","53","23","4","
+,  
+(53.56624882, -113.27633984)",,,"AB",,"Strathcona County","110678","1387475","3083","2022-02-17T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10388283","253362","7430173","1","Storage Garages Including Open Air Parking Garages","53.56624882","-113.27633984"
+"2020-12-18T00:00:00.000","2022-08-29T00:00:00.000","2020-1137-B","25 MILLERS RD","Demolition of Existing Garage and New Detached Garage (add dimensions)","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Murray, Darren & Laura","0","35000","0",,"R1A","1","Sherwood Park","7121001007","1","121","3885RS",,,,,,"
+,  
+(53.53389471, -113.30359626)",,,"AB",,"Strathcona County","110682","111706","151675","2020-12-15T00:00:00.000","2020-01-01T00:00:00.000","2020-11-01T00:00:00.000","2020","11",,"1028","Building Permit","NULL","9820237","9213","19082","1","Storage Building","53.53389471","-113.30359626"
+"2022-06-13T00:00:00.000","2022-08-18T00:00:00.000","2022-0576-B","446 52306 RNG RD 212","Solar panel installations","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Kuby Renewable Energy Ltd.","0","6465","0",,"RCL","7","Rural","2115148005","9","5","7922236","NE","15","52","21","4","
+,  
+(53.49765841, -113.00606357)",,,"AB",,"Strathcona County","110682","111703","151675","2022-06-13T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10554230","19915","5914","1","Single Detached Dwelling","53.49765841","-113.00606357"
+"2022-06-23T00:00:00.000","2022-08-18T00:00:00.000","2022-0616-B","22 MEADOWOOD CR","Remove Load Bearing Wall","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Ready To Go Construction","0","850","0",,"R1A","3","Sherwood Park","7078073009","73","78","3158RS","SW","26","52","23","4","
+,  
+(53.51321193, -113.29018977)",,,"AB",,"Strathcona County","110682","111703","3083","2022-06-23T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10573805","18570","17622","1","Single Detached Dwelling","53.51321193","-113.29018977"
+"2022-06-16T00:00:00.000","2022-08-18T00:00:00.000","2022-0548-B","301 53038 RNG RD 225","New Detached Garage (add dimensions)","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Premier Built Garages","0","71307","0",,"RCL","5","Rural","3206522905","29","2","0120673","SE","6","53","22","4","
+,  
+(53.54278842, -113.23021146)",,,"AB",,"Strathcona County","110682","111706","151675","2022-06-07T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10545661","26192","31029","1","Shops","53.54278842","-113.23021146"
+"2022-09-07T00:00:00.000","2022-09-07T00:00:00.000","2022-0791-B","25 VILLAGE RD","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Carriage Signature Homes Inc.","6479","1661244","1",,"R1A","1","Sherwood Park","7038025008","25","38","1501RS","SW","34","52","23","4","
+,  
+(53.52786908, -113.31710006)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-12T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10648947","11993","15914","1","Single Detached Dwelling","53.52786908","-113.31710006"
+"2022-09-07T00:00:00.000","2022-09-07T00:00:00.000","2022-0860-B","866 BIRCH AV","Basement Development - Bathroom","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Ridgeline Improvements","0","23659","0",,"R1A","3","Sherwood Park","7040017001","17","40","4912NY",,,,,,"
+,  
+(53.51381364, -113.30403572)",,,"AB",,"Strathcona County","110682","111703","3083","2022-09-06T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10686337","18440","16036","1","Single Detached Dwelling","53.51381364","-113.30403572"
+"2022-09-07T00:00:00.000","2022-09-07T00:00:00.000","2022-0851-B","175 52550 RNG RD 222","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Newground Developments","4866","800000","1",,"RCL","5","Rural","2234131106","1A","5","0227017","NE","34","52","22","4","
+,  
+(53.53534636, -113.1588107)",,,"AB",,"Strathcona County","110682","111706","3083","2022-09-01T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10682658","253072","1513219","1","Single Detached Dwelling","53.53534636","-113.1588107"
+"2022-09-07T00:00:00.000","2022-09-07T00:00:00.000","2022-0859-B","289 23248 TWP RD 522","New Detached Garage (add dimensions)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Steinbrenner, Harold & Denise","0","65000","0",,"RCL","6","Rural","2315743001","5","3","8120815","SW","15","52","23","4","
+,  
+(53.48625646, -113.31680171)",,,"AB",,"Strathcona County","110682","111706","3083","2022-09-06T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10686260","20859","11110","1","Storage Building","53.48625646","-113.31680171"
+"2022-05-18T00:00:00.000","2022-08-24T00:00:00.000","2022-0433-B","914 BISON WY","Heartland Housing - Office renovation, new layout, mechanical & electrical.","COMMERCIAL","ALTERATIONS","In Progress - Inspection","TRI-TEC Project Management INC.","1533","250000","0",,"DC66","1","Sherwood Park","8001003108","3","1","1623698","NE","3","53","23","4","
+,  
+(53.54954309, -113.29829946)",,,"AB",,"Strathcona County","110678","111703","3083","2022-05-10T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10502097","62728","7792650","1","Offices","53.54954309","-113.29829946"
+"2019-01-28T00:00:00.000","2022-08-26T00:00:00.000","2019-0050-B","1 52013 RNG RD 215","Addition to Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Murphy Stewart Design","0","160000","0",,"RCL","7","Rural","2105713008","1","2","7521627","SW","5","52","21","4","
+,  
+(53.45578585, -113.07353258)",,,"AB",,"Strathcona County","110682","111706","151675","2019-01-18T00:00:00.000","2019-01-01T00:00:00.000",,"2019","0",,"1028","Building Permit","NULL","8789703","21928","4567","1","Storage Building","53.45578585","-113.07353258"
+"2019-11-06T00:00:00.000","2022-08-18T00:00:00.000","2019-1060-B","983 FIR ST","Park Mazda - Renovation, upgrading certain areas to meet fire and/or building code","INDUSTRIAL","ALTERATIONS","Approved - File Closed","McInness, Sean","2750","10000","0",,"C2","1","Sherwood Park","7191001002","4B","191","9221550","SE","28","52","23","4","
+,  
+(53.51301308, -113.32602016)",,,"AB",,"Strathcona County","110679","111703","151675","2019-11-01T00:00:00.000","2019-01-01T00:00:00.000","2019-10-01T00:00:00.000","2019","10",,"1028","Building Permit","NULL","9306012","18545","5704","1","Repair Garages","53.51301308","-113.32602016"
+"2020-06-09T00:00:00.000","2022-08-18T00:00:00.000","2020-0054-B","174 52327 RNG RD 233","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Golden Homes","10191","950000","1",,"RE","6","Rural","2322760609","6","6","1721060","SW","22","52","23","4","
+,  
+(53.50022773, -113.31205795)",,,"AB",,"Strathcona County","110682","111706","151675","2020-01-22T00:00:00.000","2020-01-01T00:00:00.000",,"2020","0",,"1028","Building Permit","NULL","9388857","250362","7940828","1","Single Detached Dwelling","53.50022773","-113.31205795"
+"2022-06-28T00:00:00.000","2022-09-02T00:00:00.000","2022-0629-B","63 52059 RNG RD 220","Replacing roof trusses with storage loft trusses on garage and interior fire restoration of garage.","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","First General Edmonton","0","61000","0",,"RH","7","Rural","2106338003","16","2","3407KS","W","6","52","21","4","
+,  
+(53.4625919, -113.09055806)",,,"AB",,"Strathcona County","110682","111703","3083","2022-06-27T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10578981","21724","4615","1","Shops","53.4625919","-113.09055806"
+"2021-11-22T00:00:00.000","2022-08-24T00:00:00.000","2021-1071-B","130 EBONY BLVD","Two storey clubhouse with outdoor pool","COMMERCIAL","NEW CONSTRUCTION","In Progress - Inspection","Deveraux Developments","267","965610","0",,"DC69 ""Area II""","4","Sherwood Park","8176008004","8","176","1723604","W","11","53","23","4","
+,  
+(53.56460949, -113.29033005)",,,"AB",,"Strathcona County","110678","111706","3083","2021-11-01T00:00:00.000","2021-01-01T00:00:00.000","2021-10-01T00:00:00.000","2021","10",,"1028","Building Permit","NULL","10260001","252465","8354526","1","Clubs, Residential","53.56460949","-113.29033005"
+"2022-04-12T00:00:00.000","2022-09-09T00:00:00.000","2022-0271-B","1 HOMESTEAD CL","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Launch Homes Inc.","3758","260000","1",,"R1A","5","Rural","3211737106","71","3","2122874","SW","11","53","22","4","
+,  
+(53.55600312, -113.13648399)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-30T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10440410","253048","10341204","1","Single Detached Dwelling","53.55600312","-113.13648399"
+"2022-09-06T00:00:00.000","2022-09-06T00:00:00.000","2022-0800-B","5180 SUNVIEW DR","New Single Detached Dwelling","RESIDENTIAL",,"In Progress - Inspection","Launch Homes Inc.","3686","450000","1",,"R1C","4","Sherwood Park","8132046009","46","132","0740945","SE","12","53","23","4","
+,  
+(53.55973415, -113.25478373)",,,"AB",,"Strathcona County","110682",,"3083","2022-08-16T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10653378","38835","4001614","1",,"53.55973415","-113.25478373"
+"2021-10-08T00:00:00.000","2022-08-19T00:00:00.000","2021-0893-B","53547 RNG RD 211","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Kresanoski, Darin & Daniela","6121","1000000","1",,"AG","5","Rural","3136300005",,,,"NW","36","53","21","4","
+,  
+(53.62263188, -112.97513481)",,,"AB",,"Strathcona County","110682","111706","3083","2021-09-09T00:00:00.000","2021-01-01T00:00:00.000","2021-08-01T00:00:00.000","2021","8",,"1028","Building Permit","NULL","10186157","252861","12552","1","Single Detached Dwelling","53.62263188","-112.97513481"
+"2022-06-02T00:00:00.000","2022-08-24T00:00:00.000","2022-0391-B","96 RANCHER RD","To construct a backyard patio cover approximately 3.66M X 6.92M","RESIDENTIAL","ADDITION","Approved - File Closed","Ideal Sundecks 1979 Ltd.","0","16000","0",,"R2A","5","Rural","3211791308","13","9","2022472","NW","2","53","22","4","
+,  
+(53.55247475, -113.13597137)",,,"AB",,"Strathcona County","110682","111702","151675","2022-05-02T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10487697","252456","9776442","1","Semi-Detached Home (Duplex)","53.55247475","-113.13597137"
+"2022-09-09T00:00:00.000","2022-09-09T00:00:00.000","2022-0864-B","2001 SHERWOOD DR","Temp Tent 20' X 30' to be used September 11 & 12, 2022.","COMMERCIAL","RELOCATION","In Progress - Inspection","Strathcona County - EDT","56","2500","0",,,"1","Sherwood Park","7000702608","6","2","0426527","SE","27","52","23","4","
+,  
+(53.52558343, -113.29688749)",,,"AB",,"Strathcona County","110678","111707","3083","2022-09-07T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10687306","12567","2512006","1","Temporary Tent","53.52558343","-113.29688749"
+"2022-08-31T00:00:00.000","2022-08-31T00:00:00.000","2022-0838-B","10 CURLEW CR","Solar panel installations",,,"In Progress - Inspection","Soltek Roofing and Solar","0","2500","0",,"R1A","3","Sherwood Park","7052009003","9","52","4411MC",,,,,,"
+,  
+(53.52260814, -113.2928072)",,,"AB",,"Strathcona County",,,"3083","2022-08-30T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10675024","14039","16478","1",,"53.52260814","-113.2928072"
+"2022-08-17T00:00:00.000","2022-08-17T00:00:00.000","2022-0718-B","59 HARVEST CR","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","H2 Homes Ltd","0","530000","1",,"RE","5","Rural","3211761113","11","6","2122294",,,,,,"
+,  
+(53.56141024, -113.13698855)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-25T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10622076","252894","10257213","1","Single Detached Dwelling","53.56141024","-113.13698855"
+"2021-12-03T00:00:00.000","2022-08-17T00:00:00.000","2021-1164-B","55 PINE ST","Secondary Suite","RESIDENTIAL","SECONDARY SUITE","Approved - File Closed","Williams , Zachary","0","50000","1",,"R1A","3","Sherwood Park","7031002004","2","31","5661KS","N","27","52","23","4","
+,  
+(53.52299351, -113.29972472)",,,"AB",,"Strathcona County","110682","4205166","151675","2021-11-25T00:00:00.000","2021-01-01T00:00:00.000","2021-11-01T00:00:00.000","2021","11",,"1028","Building Permit","NULL","10293806","13869","15644","1","Secondary Suite","53.52299351","-113.29972472"
+"2022-08-29T00:00:00.000","2022-08-29T00:00:00.000","2022-0722-B","10275 21 ST","Fabric Tent Shelter supported by sea containers","INDUSTRIAL","NEW CONSTRUCTION","In Progress - Inspection","SHAW PIPE PROTECTION LTD","111","25000","0",,"IM","1","Sherwood Park","3306535000","B","4","3029MC","SE","6","53","23","4","
+,  
+(53.54391752, -113.3748386)",,,"AB",,"Strathcona County","110679","111706","3083","2022-07-26T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10623039","25772","13242","1","Storage Building","53.54391752","-113.3748386"
+"2022-09-06T00:00:00.000","2022-09-06T00:00:00.000","2022-0857-B","271 22560 WYE RD","To Construct a New Shed (add dimensions)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","WILSON, JAMES","0","5000","0",,"RCL","6","Rural","2230736007","32",,"874TR","SW","30","52","22","4","
+,  
+(53.51582795, -113.23604702)",,,"AB",,"Strathcona County","110682","111706","3083","2022-09-06T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10684922","16874","10098","1","Storage Building","53.51582795","-113.23604702"
+"2022-06-29T00:00:00.000","2022-08-18T00:00:00.000","2022-0569-B","96 52304 RNG RD 233","To construct an addition to a single dwelling","RESIDENTIAL","ADDITION","In Progress - Inspection","Prasad, Satendra","0","20000","0",,"RE","6","Rural","2321510132","32","1","9322732","SE","21","52","23","4","
+,  
+(53.4975967, -113.33223309)",,,"AB",,"Strathcona County","110682","111702","3083","2022-06-10T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10551381","20174","11255","1","Single Detached Dwelling","53.4975967","-113.33223309"
+"2019-04-05T00:00:00.000","2022-08-18T00:00:00.000","2019-0261-B","78 CHRISTINA WY","Basement Development","RESIDENTIAL","ALTERATIONS","Not Approved - File Closed","Miko, Richard","0","10000","0",,"R1B","2","Sherwood Park","8054016001","16","54","0125173","SW","1","53","23","4","
+,  
+(53.54436755, -113.26795615)",,,"AB",,"Strathcona County","110682","111703","167610","2019-04-05T00:00:00.000","2019-01-01T00:00:00.000","2019-02-01T00:00:00.000","2019","2",,"1028","Building Permit","NULL","8886743","26471","1160666","1","Single Detached Dwelling","53.54436755","-113.26795615"
+"2022-05-20T00:00:00.000","2022-09-09T00:00:00.000","2022-0460-B","145 52039 RNG RD 213","Detached Garage (7.32m x 7.92m)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Recchi, Marvin","0","35000","0",,"RCL","7","Rural","2103312001","11","1","7621765","NW","3","52","21","4","
+,  
+(53.46764268, -113.02238624)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-17T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10513159","21502","4459","1","Single Detached Dwelling","53.46764268","-113.02238624"
+"2022-08-22T00:00:00.000","2022-08-22T00:00:00.000","2022-0812-B","75 CREEKSIDE DR","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Herrmann, Robin","0","30000","0",,"R1B","5","Rural","3211724209","42","2","1520861","NW","2","53","22","4","
+,  
+(53.5543902, -113.13832332)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-19T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10659144","193677","7160949","1","Single Detached Dwelling","53.5543902","-113.13832332"
+"2020-08-20T00:00:00.000","2022-09-02T00:00:00.000","2020-0704-B","362 52477 HWY 21","New Detached Garage (approx. 30' x 46')","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Bhogal , Inderjit","1296","30000","0",,"RCL","6","Rural","2231701348","34","1","0425616","SW","31","52","22","4","
+,  
+(53.52872173, -113.23551873)",,,"AB",,"Strathcona County","110682","111706","151675","2020-08-17T00:00:00.000","2020-01-01T00:00:00.000","2020-07-01T00:00:00.000","2020","7",,"1028","Building Permit","NULL","9660705","30891","2455632","1","Storage Building","53.52872173","-113.23551873"
+"2021-09-02T00:00:00.000","2022-09-06T00:00:00.000","2021-0866-B","14 SUNBURY PL","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","Approved - File Closed","SCHENK, LORI","0","1000","0",,"R1C","4","Sherwood Park","8147003008","3","147","1521457","SE","12","53","23","4","
+,  
+(53.56139268, -113.24970366)",,,"AB",,"Strathcona County","110682","111703","151675","2021-09-01T00:00:00.000","2021-01-01T00:00:00.000","2021-08-01T00:00:00.000","2021","8",,"1028","Building Permit","NULL","10173661","195723","7198382","1","Single Detached Dwelling","53.56139268","-113.24970366"
+"2022-04-26T00:00:00.000","2022-09-09T00:00:00.000","2022-0365-B","6 ROBIN ST","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Leite, Travis","0","4000","0",,"R1A","3","Sherwood Park","7057003001","3","57","2294NY","NW","26","52","23","4","
+,  
+(53.51959195, -113.28578853)",,,"AB",,"Strathcona County","110682","111703","151675","2022-04-26T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10477857","15285","16719","1","Single Detached Dwelling","53.51959195","-113.28578853"
+"2022-05-17T00:00:00.000","2022-08-31T00:00:00.000","2022-0419-B","21 TAYLOR PL","New Single Detached Dwelling","RESIDENTIAL",,"In Progress - Inspection","Launch Homes Inc.","3887","260000","0",,"R1B","5","Rural","3211781205","12","8","1723357","NW","2","53","22","4","
+,  
+(53.55402649, -113.13672162)",,,"AB",,"Strathcona County","110682",,"3083","2022-05-06T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10498011","251043","8315967","1",,"53.55402649","-113.13672162"
+"2022-08-25T00:00:00.000","2022-08-25T00:00:00.000","2022-0774-B","117 CRESTHAVEN GROVE","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","CALIBER MASTER BUILDER","2657","490000","1",,"R1A","5","Rural","3211723103","31","2","1520861","NW","2","53","22","4","
+,  
+(53.55498538, -113.13776661)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-08T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10640721","193661","7160938","1","Single Detached Dwelling","53.55498538","-113.13776661"
+"2022-04-21T00:00:00.000","2022-09-09T00:00:00.000","2022-0269-B","14 HAVEN LINK","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Launch Homes Inc.","3824","330000","1",,"RE","5","Rural","3211751503","15","5","1723309","SW","11","53","22","4","
+,  
+(53.55944106, -113.13826477)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-29T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10439596","251013","8315931","1","Single Detached Dwelling","53.55944106","-113.13826477"
+"2019-10-17T00:00:00.000","2022-08-15T00:00:00.000","2019-1000-B","14 SENTRY WY","Basement Development","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Pegasus Group","814","9900","0",,"R2A","4","Sherwood Park","8129103003","103","129","1820859","NE","12","53","23","4","
+,  
+(53.56500691, -113.25705027)",,,"AB",,"Strathcona County","110682","111703","151675","2019-10-16T00:00:00.000","2019-01-01T00:00:00.000","2019-10-01T00:00:00.000","2019","10",,"1028","Building Permit","NULL","9283333","251128","8425789","1","Single Detached Dwelling","53.56500691","-113.25705027"
+"2022-08-06T00:00:00.000","2022-08-15T00:00:00.000","2022-0706-B","52111 RNG RD 222","Mobile Home Addition","RESIDENTIAL","ADDITION","Approved - File Closed","Kreamer, Kristi","0","5000","0",,"RA","7","Rural","2211701005","1","1","1424933","SW","11","52","22","4","
+,  
+(53.4704594, -113.14486745)",,,"AB",,"Strathcona County","110682","111702","151675","2022-07-22T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10618901","101401","7097648","1","Single Detached Dwelling","53.4704594","-113.14486745"
+"2022-05-10T00:00:00.000","2022-08-25T00:00:00.000","2022-0323-B","56 HARVEST CR","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Launch Homes Inc.","2692","450000","1",,"RE","5","Rural","3211732900","29","3","2122294",,,,,,"
+,  
+(53.56164834, -113.13637669)",,,"AB",,"Strathcona County","110682","111706","3083","2022-04-20T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10467172","252884","10257205","1","Single Detached Dwelling","53.56164834","-113.13637669"
+"2019-03-26T00:00:00.000","2022-08-18T00:00:00.000","2019-0215-B","52236 RNG RD 225","NULL","RESIDENTIAL","ADDITION","Not Approved - File Closed","Park, Min","2380","490000","0",,"AD","6","Rural","2218501204","2","1","1420715","SE","18","52","22","4","
+,  
+(53.48972662, -113.2227615)",,,"AB",,"Strathcona County","110682","111702","167610","2019-03-22T00:00:00.000","2019-01-01T00:00:00.000","2019-02-01T00:00:00.000","2019","2",,"1028","Building Permit","NULL","8868873","7769","6773999","1","Single Detached Dwelling","53.48972662","-113.2227615"
+"2022-03-04T00:00:00.000","2022-08-18T00:00:00.000","2022-0146-B","2 MAIN BLVD","Decommissioning of fueling facility & Demo of gas canopy","COMMERCIAL","DEMOLITION","Approved - File Closed","CTM DESIGN SERVICES LTD","120","50000","0",,"C1","1","Sherwood Park","7114029007","A","114","7620944","NW","34","52","23","4","
+,  
+(53.53743967, -113.31942494)",,,"AB",,"Strathcona County","110678","111704","151675","2022-02-24T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10395523","7573","5227","1","Stores","53.53743967","-113.31942494"
+"2022-08-18T00:00:00.000","2022-08-18T00:00:00.000","2022-0760-B","25 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Pacesetter Homes","2214","467000","1",,"R1C","4","Sherwood Park","8153019010","19","153","2122842",,,,,,"
+,  
+(53.56595856, -113.24997872)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-05T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10637152","253036","10339789","1","Single Detached Dwelling","53.56595856","-113.24997872"
+"2022-09-06T00:00:00.000","2022-09-06T00:00:00.000","2022-0855-B","314 52422 RNG RD 224","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Bruce, Rachel","0","15000","0",,"RCL","6","Rural","2229501305","30","1","0420404","SE","29","52","22","4","
+,  
+(53.51702849, -113.20748387)",,,"AB",,"Strathcona County","110682","111703","3083","2022-09-02T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10683826","29803","2154488","1","Single Detached Dwelling","53.51702849","-113.20748387"
+"2022-03-25T00:00:00.000","2022-08-26T00:00:00.000","2022-0227-B","51323 RNG RD 224","New Detached Garage (28' x 38')","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Johnson, Leslie","0","60000","0",,"RCL","7","Rural","1221706003","6",,"3603RS","SW","21","51","22","4","
+,  
+(53.41416829, -113.19630025)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-17T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10422805","22861","1827","1","Shops","53.41416829","-113.19630025"
+"2022-07-15T00:00:00.000","2022-08-22T00:00:00.000","2022-0675-B","336 52320 RNG RD 231","Addition to Single Dwelling - Additional Living Space and Attached Garage (267.56 sq. m.)","RESIDENTIAL","ADDITION","In Progress - Inspection","SHIGNANSKI CONSTRUCTION INC.","0","28000","0",,,"6","Rural","2323526404","64","2","1520954","SE","23","52","23","4","
+,  
+(53.50094259, -113.27465339)",,,"AB",,"Strathcona County","110682","111702","3083","2022-07-13T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10605184","194485","7161011","1","Single Detached Dwelling","53.50094259","-113.27465339"
+"2022-02-02T00:00:00.000","2022-09-06T00:00:00.000","2022-0041-B","166 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Jayman Built","3604","454000","1",,"R1C","4","Sherwood Park","8129274005","274","129","2122765",,,,,,"
+,  
+(53.56412359, -113.24863146)",,,"AB",,"Strathcona County","110682","111706","3083","2022-01-19T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10348524","252970","10309943","1","Single Detached Dwelling","53.56412359","-113.24863146"
+"2022-08-29T00:00:00.000","2022-08-29T00:00:00.000","2022-0740-B","20335A TWP RD 544","New Single Detached Dwelling - Second dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Jakubowski, Carson","4244","240000","1",,"AG","5","Rural","4021100005",,,,"NE","21","54","20","4","
+,  
+(53.68633445, -112.88749579)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-28T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10627819","254044","13581","1","Single Detached Dwelling","53.68633445","-112.88749579"
+"2021-06-30T00:00:00.000","2022-09-07T00:00:00.000","2021-0623-B","23025C TWP RD 514","$180 OWING, INSULATION, DB - Garden Suite with shop - 30x42","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Jhattu, Kulwant","0","85000","0",,"AG","6","Rural","1324100005",,,,"NE","24","51","23","4","
+,  
+(53.42403794, -113.25382334)",,,"AB",,"Strathcona County","110682","111706","3083","2021-06-16T00:00:00.000","2021-01-01T00:00:00.000","2021-06-01T00:00:00.000","2021","6",,"1028","Building Permit","NULL","10058297","252625","3306","1","Storage Building","53.42403794","-113.25382334"
+"2019-12-23T00:00:00.000","2022-08-17T00:00:00.000","2019-1189-B","51505 RNG RD 215","Replacement of Camp Cabins (4) x (10.97 m x 18.29 m)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Bunting, Don","214","250000","0",,"C6,AG","7","Rural","1132701002",,,,"SW","32","51","21","4","
+,  
+(53.43973966, -113.07307783)",,,"AB",,"Strathcona County","110682","111706","3083","2019-12-20T00:00:00.000","2019-01-01T00:00:00.000","2019-11-01T00:00:00.000","2019","11",,"1028","Building Permit","NULL","9363265","22385","926","1","Dormitories","53.43973966","-113.07307783"
+"2022-07-06T00:00:00.000","2022-08-25T00:00:00.000","2022-0659-B","91 GRANVILLE CR","Deck, removal of existing window and installation of patio doors","RESIDENTIAL","ADDITION","In Progress - Inspection","Vanderzalm, Adrianne","0","12000","0",,"R1A","2","Sherwood Park","7163021004","21","163","675TR",,,,,,"
+,  
+(53.53528224, -113.27492094)",,,"AB",,"Strathcona County","110682","111702","3083","2022-07-06T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10594210","8365","20665","1","Single Detached Dwelling","53.53528224","-113.27492094"
+"2022-01-27T00:00:00.000","2022-09-06T00:00:00.000","2022-0042-B","9 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Jayman Built","2896","568000","1",,"R1C","4","Sherwood Park","8153023011","23","153","2122842",,,,,,"
+,  
+(53.56575767, -113.2505494)",,,"AB",,"Strathcona County","110682","111706","151675","2022-01-19T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10349347","253032","10339793","1","Single Detached Dwelling","53.56575767","-113.2505494"
+"2022-05-05T00:00:00.000","2022-08-18T00:00:00.000","2022-0359-B","119 HORTON WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","DAYTONA HOMES INC","2484","249275","1",,"R1C","5","Rural","3211793303","33","9","2122874","NW","2","53","22","4","
+,  
+(53.55148646, -113.13615184)",,,"AB",,"Strathcona County","110682","111706","3083","2022-04-25T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10475693","253051","10341224","1","Single Detached Dwelling","53.55148646","-113.13615184"
+"2022-08-17T00:00:00.000","2022-08-17T00:00:00.000","2022-0799-B","5180 SUNVIEW DR","Demolition of existing home due to total loss fire","RESIDENTIAL","DEMOLITION","In Progress - Inspection","Launch Homes Inc.","0","14000","0",,"R1C","4","Sherwood Park","8132046009","46","132","0740945","SE","12","53","23","4","
+,  
+(53.55973415, -113.25478373)",,,"AB",,"Strathcona County","110682","111704","3083","2022-08-16T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10653180","38835","4001614","1","Single Detached Dwelling","53.55973415","-113.25478373"
+"2022-06-21T00:00:00.000","2022-08-17T00:00:00.000","2022-0494-B","105 MAPLE CRT","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Four Elements Construction","3996","600000","1",,"R1A","3","Sherwood Park","7022003003","3","22","4420KS","W","27","52","23","4","
+,  
+(53.52219922, -113.3133826)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-26T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10527300","14146","15232","1","Single Detached Dwelling","53.52219922","-113.3133826"
+"2022-08-17T00:00:00.000","2022-08-17T00:00:00.000","2022-0657-B","22165 TWP RD 520","To Construct a Greenhouse","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Swentek, Ian","0","15000","0",,"AG","7","Rural","1235301007",,,,"NW","35","51","22","4","
+,  
+(53.45298945, -113.14163259)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-05T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10592884","22005","3203","1","Single Detached Dwelling","53.45298945","-113.14163259"
+"2022-05-13T00:00:00.000","2022-08-22T00:00:00.000","2022-0358-B","22030 TWP RD 515","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Unguran, Dallas & Jasmine",,"500000","1",,"AG","7","Rural","1236504005","4",,"9423386","SE","36","51","22","4","
+,  
+(53.43964237, -113.10737569)",,,"AB",,"Strathcona County","110682","111706","3083","2022-04-25T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10475608","253889","7720","1","Single Detached Dwelling","53.43964237","-113.10737569"
+"2022-07-07T00:00:00.000","2022-08-15T00:00:00.000","2022-0624-B","54 HARVEST CR","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Launch Homes Inc.","0","450000","1",,"RE","5","Rural","3211732802","28","3","2122294",,,,,,"
+,  
+(53.56195274, -113.13638647)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-24T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10577000","252883","10257204","1","Single Detached Dwelling","53.56195274","-113.13638647"
+"2022-09-08T00:00:00.000","2022-09-08T00:00:00.000","2022-0868-B","84 GLENCOE PL","Renovation","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Burnett, Benda and Charles","0","10000","0",,"R2A","8","Sherwood Park","7287209006","209","287","8921965",,,,,,"
+,  
+(53.53483197, -113.26966373)",,,"AB",,"Strathcona County","110682","111703","3083","2022-09-08T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10688825","8589","22678","1","Single Detached Dwelling","53.53483197","-113.26966373"
+"2022-08-05T00:00:00.000","2022-08-18T00:00:00.000","2022-0735-B","13 51218 RNG RD 214","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Ace Quality Renovation Ltd.","0","72000","0",,"RA","7","Rural","1117507002","F",,"2734MC","SE","17","51","21","4","
+,  
+(53.39880167, -113.05512909)",,,"AB",,"Strathcona County","110682","111703","3083","2022-07-28T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10626663","23306","825","1","Single Detached Dwelling","53.39880167","-113.05512909"
+"2022-08-22T00:00:00.000","2022-08-22T00:00:00.000","2022-0813-B","37 52313 RNG RD 232","Basement Development - re-insulate exterior walls with spray foam insulation and reframe","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Finley, Graeme","0","50000","0",,"RCL","6","Rural","2323738001","37",,"2102KS","SW","23","52","23","4","
+,  
+(53.49853622, -113.29048306)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-19T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10659232","20059","11480","1","Single Detached Dwelling","53.49853622","-113.29048306"
+"2022-08-19T00:00:00.000","2022-08-23T00:00:00.000","2022-0773-B","199 GEORGIAN WY","Temporary 20' x 20' tent with flame resistant PVC for an outdoor handball tournament (not for profit volunteer organization)","COMMERCIAL","RELOCATION","Cancelled","Fisher, Stan C.","0","700","0",,"PR","2","Sherwood Park","7153023002","23","153","5911RS","S","35","52","23","4","
+,  
+(53.53028158, -113.28115053)",,,"AB",,"Strathcona County","110678","111707","1969","2022-08-08T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10640646","9936","20185","1","Temporary Tent","53.53028158","-113.28115053"
+"2020-01-20T00:00:00.000","2022-08-22T00:00:00.000","2020-0046-B","7509 ELLESMERE WY","Basement Development","RESIDENTIAL","ALTERATIONS","Cancelled","Titan Construction (1989) LTD","600","15000","0",,"R2A","4","Sherwood Park","8158061003","61","158","1026673","NE","11","53","23","4","
+,  
+(53.56628433, -113.27820331)",,,"AB",,"Strathcona County","110682","111703","1969","2020-01-17T00:00:00.000","2020-01-01T00:00:00.000",,"2020","0",,"1028","Building Permit","NULL","9384052","63284","5362579","1","Single Detached Dwelling","53.56628433","-113.27820331"
+"2022-06-02T00:00:00.000","2022-08-17T00:00:00.000","2022-0509-B","54464 RNG RD 204","Interior Renovation: Demo of existing walls, reframing, re-insulating","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Ross, Alastair","0","100000","0",,"AG","5","Rural","4029102003","B",,"3818TR","NE","29","54","20","4","
+,  
+(53.69868849, -112.90298011)",,,"AB",,"Strathcona County","110682","111703","3083","2022-05-30T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10532453","754","13598","1","Single Detached Dwelling","53.69868849","-112.90298011"
+"2022-07-28T00:00:00.000","2022-08-17T00:00:00.000","2022-0728-B","22456 TWP RD 530","Demolition","RESIDENTIAL","DEMOLITION","In Progress - Inspection","1279686 Alberta Ltd.","0","50800","0",,"AD","5","Rural","3205700002",,,,"SW","5","53","22","4","
+,  
+(53.54176162, -113.2140029)",,,"AB",,"Strathcona County","110682","111704","3083","2022-07-27T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10624934","3874","12583","1","Single Detached Dwelling","53.54176162","-113.2140029"
+"2021-12-22T00:00:00.000","2022-09-02T00:00:00.000","2021-1197-B","8412 15 ST","Interior Renovations to Existing Facility and Add on New Addition for Commercial Truck Building Expansion","COMMERCIAL","ADDITION","In Progress - Inspection","SCOTT BUILDERS INC","3955","3000000","0",,"IM","1","Sherwood Park","2329330401","4","3","0826916","NW","29","52","23","4","
+,  
+(53.5197346, -113.36569085)",,,"AB",,"Strathcona County","110678","111702","3083","2021-12-08T00:00:00.000","2021-01-01T00:00:00.000","2021-11-01T00:00:00.000","2021","11",,"1028","Building Permit","NULL","10309496","83789","4413290","1","Repair Garages","53.5197346","-113.36569085"
+"2022-08-17T00:00:00.000","2022-08-17T00:00:00.000","2022-0803-B","745 52304 RNG RD 233","Renovation of children's bathroom and ensuite","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Shignanski Construction","0","40000","0",,"RE","6","Rural","2316104297","29","4","0125628","NE","16","52","23","4","
+,  
+(53.49683669, -113.33125492)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-16T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10654315","26722","1199351","1","Single Detached Dwelling","53.49683669","-113.33125492"
+"2022-08-17T00:00:00.000","2022-08-17T00:00:00.000","2022-0772-B","98 52349 RNG RD 222","To Construct an Accessory Development - steel shop used for storage","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Weinberger, Mitchell","0","25000","0",,"RCL","7","Rural","2223159001","9","2","7920565","N","23","52","22","4","
+,  
+(53.50705857, -113.13853634)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-08T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10640565","19201","2292","1","Shops","53.50705857","-113.13853634"
+"2022-01-27T00:00:00.000","2022-08-22T00:00:00.000","2022-0044-B","5 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Jayman Built","2756","446000","1",,"R1C","4","Sherwood Park","8153024019","24","153","2122842",,,,,,"
+,  
+(53.56571095, -113.25068202)",,,"AB",,"Strathcona County","110682","111706","3083","2022-01-19T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10350092","253031","10339794","1","Single Detached Dwelling","53.56571095","-113.25068202"
+"2022-06-29T00:00:00.000","2022-08-22T00:00:00.000","2022-0508-B","505 REGENCY DR","To construct a new deck and 3 season sunroom","RESIDENTIAL","ADDITION","Approved - File Closed","Ideal Sundecks (1979) Ltd","0","55000","0",,"R1A","8","Sherwood Park","7389013000","13","389","9023211","SE","25","52","23","4","
+,  
+(53.51505777, -113.25612217)",,,"AB",,"Strathcona County","110682","111702","151675","2022-05-27T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10530945","17520","23595","1","Single Detached Dwelling","53.51505777","-113.25612217"
+"2022-08-25T00:00:00.000","2022-08-25T00:00:00.000","2022-0819-B","27 ASTER PL","Install a Hot Tub - ground level deck with lockable lid","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Mora, Len & Maureen","0","2000","0",,"R1A","4","Sherwood Park","8007002002","2","7","8922166",,,,,,"
+,  
+(53.54454504, -113.25613349)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-24T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10665280","5049","24654","1","Single Detached Dwelling","53.54454504","-113.25613349"
+"2022-04-11T00:00:00.000","2022-09-01T00:00:00.000","2022-0140-B","2020 SHERWOOD DR","Renovation to Cineplex in Sherwood Park Mall","COMMERCIAL","ALTERATIONS","In Progress - Inspection","Frank Vanbetlehem","41425","2369000","0",,"CITP ""Area SPMMS"",CITP ""Area SPMC"",R3,CITP ""Area SPMR""","2","Sherwood Park","7152001009","1","152","261TR","SW","35","52","23","4","
+,  
+(53.53105119, -113.29499787)",,,"AB",,"Strathcona County","110678","111703","3083","2022-02-23T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10392875","25567","20152","1","Motion Picture Theaters","53.53105119","-113.29499787"
+"2019-02-21T00:00:00.000","2022-08-19T00:00:00.000","2019-0116-B","431 FORREST DR","Basement Development","RESIDENTIAL","ALTERATIONS","Not Approved - File Closed","Sohanpal, Ranbir","1082","25000","0",,"R1B","8","Sherwood Park","7251114009","114","251","0323266",,,,,,"
+,  
+(53.52470042, -113.26163395)",,,"AB",,"Strathcona County","110682","111703","167610","2019-02-20T00:00:00.000","2019-01-01T00:00:00.000","2019-01-01T00:00:00.000","2019","1",,"1028","Building Permit","NULL","8831410","28569","1820827","1","Single Detached Dwelling","53.52470042","-113.26163395"
+"2022-06-20T00:00:00.000","2022-09-02T00:00:00.000","2022-0597-B","568 FOXBORO LOOP","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Moreau, Paul","0","3000","0",,"R1C","8","Sherwood Park","7365078006","78","365","0525679",,,,,,"
+,  
+(53.52354924, -113.25515512)",,,"AB",,"Strathcona County","110682","111703","3083","2022-06-17T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10563920","33481","2964613","1","Single Detached Dwelling","53.52354924","-113.25515512"
+"2021-12-21T00:00:00.000","2022-08-22T00:00:00.000","2021-1207-B","25 52312 RNG RD 225","Garden Suite","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Timber Haus Developments","702","234000","0",,"RCL","6","Rural","2219538002","24","2","5807RS","SE","19","52","22","4","
+,  
+(53.49886729, -113.22426206)",,,"AB",,"Strathcona County","110682","111706","151675","2021-12-09T00:00:00.000","2021-01-01T00:00:00.000","2021-12-01T00:00:00.000","2021","12",,"1028","Building Permit","NULL","10310900","19992","9388","1","Single Detached Dwelling","53.49886729","-113.22426206"
+"2022-04-26T00:00:00.000","2022-08-25T00:00:00.000","2022-0297-B","99 ABERDEEN CR","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Launch Homes Inc.","3670","260000","1",,"R1C","4","Sherwood Park","8174092009","92","174","1923102","SW","11","53","23","4","
+,  
+(53.56102649, -113.2888838)",,,"AB",,"Strathcona County","110682","111706","3083","2022-04-07T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10454246","252157","9306594","1","Single Detached Dwelling","53.56102649","-113.2888838"
+"2021-09-10T00:00:00.000","2022-08-25T00:00:00.000","2021-0762-B","452 52327 RNG RD 233","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Golden Homes C/O 1309312 Alberta LTD","9220","1120000","1",,"RE","6","Rural","2322743807","38","4","1721060","SW","22","52","23","4","
+,  
+(53.50074089, -113.30982151)",,,"AB",,"Strathcona County","110682","111706","3083","2021-07-27T00:00:00.000","2021-01-01T00:00:00.000","2021-07-01T00:00:00.000","2021","7",,"1028","Building Permit","NULL","10128393","250339","7940803","1","Single Detached Dwelling","53.50074089","-113.30982151"
+"2022-03-10T00:00:00.000","2022-09-06T00:00:00.000","2022-0128-B","94 51401 RNG RD 221","New Aircraft Hanger","COMMERCIAL","NEW CONSTRUCTION","In Progress - Inspection","Hollymar Homes Inc.","395","350000","0",,"DC6 ""B""","7","Rural","1225605109",,"5D","1721695","SE","26","51","22","4","
+,  
+(53.42579145, -113.12387893)",,,"AB",,"Strathcona County","110678","111706","3083","2022-02-17T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10388483","173555","8071792","1","Aircraft Hangars","53.42579145","-113.12387893"
+"2022-08-25T00:00:00.000","2022-08-25T00:00:00.000","2022-0753-B","198 RANCHER RD","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Pacesetter Homes","4025","725000","1",,"ALD","5","Rural","3211764702","47","6","2220391","NE","2","53","22","4","
+,  
+(53.55026465, -113.13513247)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-03T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10633283","253883","10412429","1","Single Detached Dwelling","53.55026465","-113.13513247"
+"2022-09-06T00:00:00.000","2022-09-06T00:00:00.000","2022-0856-B","92 MALVERN DR","Renovation","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Esau, Michael","0","30000","0",,"R1A","1","Sherwood Park","7099068004","68","99","7520334",,,,,,"
+,  
+(53.53989601, -113.30838762)",,,"AB",,"Strathcona County","110682","111703","3083","2022-09-02T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10684020","6144","4239","1","Single Detached Dwelling","53.53989601","-113.30838762"
+"2022-06-30T00:00:00.000","2022-09-02T00:00:00.000","2022-0539-B","22512 HWY 14","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","CASABELLA  CONSTRUCTION","7243","1300000","1",,"RA","6","Rural","1231510007","4","2","9924542","SE","31","51","22","4","
+,  
+(53.44386574, -113.22420301)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-03T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10542266","22286","27239","1","Single Detached Dwelling","53.44386574","-113.22420301"
+"2022-08-25T00:00:00.000","2022-08-25T00:00:00.000","2022-0798-B","50, 100 BROADVIEW DR","Tenant Improvement for commercial BBQ retail store, YOU NEED A BBQ.","COMMERCIAL","TENANT IMPROVEMENT","In Progress - Inspection","CK Design Associates","5134","150000","0",,"DC1","1","Sherwood Park","8201004104","4A","201","1120991","SW","3","53","23","4","
+,  
+(53.54343506, -113.31525697)",,,"AB",,"Strathcona County","110678","111709","3083","2022-08-16T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10652994","82990","5443119","1","Stores","53.54343506","-113.31525697"
+"2021-07-23T00:00:00.000","2022-09-06T00:00:00.000","2021-0695-B","420 STREAMBANK AV","New Maintenance Building","COMMERCIAL","NEW CONSTRUCTION","Approved - File Closed","Graham Construction and Engineering LP","1005","4169000","0",,"IM","1","Sherwood Park","3309510814","8A","1","0526261","SE","9","53","23","4","
+,  
+(53.56006606, -113.32808893)",,,"AB",,"Strathcona County","110678","111706","151675","2021-07-08T00:00:00.000","2021-01-01T00:00:00.000","2021-06-01T00:00:00.000","2021","6",,"1028","Building Permit","NULL","10090495","26205","3007954","1","Maintenance Building","53.56006606","-113.32808893"
+"2021-10-27T00:00:00.000","2022-08-26T00:00:00.000","2021-1028-B","278 CREE RD","NULL","COMMERCIAL","ALTERATIONS","In Progress - Inspection","KS.P Architect Inc","2021","450000","0",,"C5","1","Sherwood Park","7000107008",,"7","9524606","NE","33","52","23","4","
+,  
+(53.53947117, -113.32970382)",,,"AB",,"Strathcona County","110678","111703","3083","2021-10-19T00:00:00.000","2021-01-01T00:00:00.000","2021-10-01T00:00:00.000","2021","10",,"1028","Building Permit","NULL","10243096","6578","27495","1","Food Processing","53.53947117","-113.32970382"
+"2022-07-15T00:00:00.000","2022-09-06T00:00:00.000","2022-0680-B","1263 FOXWOOD CR","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","McAuley, Connor","700","15000","0",,"R1C","8","Sherwood Park","7388009009","9","388","1025612","NE","25","52","23","4","
+,  
+(53.52044763, -113.25092764)",,,"AB",,"Strathcona County","110682","111703","3083","2022-07-14T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10606876","63165","5271217","1","Single Detached Dwelling","53.52044763","-113.25092764"
+"2022-05-24T00:00:00.000","2022-08-20T00:00:00.000","2022-0409-B","118 HORTON WY","To Construct a Duplex 114 & 118 Horton Wy","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Coventry Homes","4335","665700","2",,"R2A","5","Rural","3211763102","31","6","2122874","NW","2","53","22","4","
+,  
+(53.55121501, -113.13642486)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-06T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10496835","253063","10341213","1","Multi-Family Housing","53.55121501","-113.13642486"
+"2022-08-19T00:00:00.000","2022-08-19T00:00:00.000","2022-0759-B","55, 100 BROADVIEW DR","Baseline Village Virtual Golf","COMMERCIAL","TENANT IMPROVEMENT","In Progress - Inspection","The Quality Stadium","5134","300000","0",,"DC1","1","Sherwood Park","8201004104","4A","201","1120991","SW","3","53","23","4","
+,  
+(53.54342687, -113.31507269)",,,"AB",,"Strathcona County","110678","111709","3083","2022-08-05T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10636920","202474","5443119","1","Gymnasia","53.54342687","-113.31507269"
+"2022-07-20T00:00:00.000","2022-08-22T00:00:00.000","2022-0686-B","217 52258 RNG RD 231","Renovation","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Hallmark Construction Group Inc.","0","12000","0",,"RCL","6","Rural","2314122206","22","2","9222370","NE","14","52","23","4","
+,  
+(53.49368933, -113.28034581)",,,"AB",,"Strathcona County","110682","111703","3083","2022-07-15T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10608077","20410","10875","1","Single Detached Dwelling","53.49368933","-113.28034581"
+"2021-03-26T00:00:00.000","2022-08-25T00:00:00.000","2021-0264-B","174 51047 RNG RD 221","Renovations","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Line, Brandi","0","20000","0",,"RCL","7","Rural","1201333000","11","2","7821182","NW","1","51","22","4","
+,  
+(53.37779054, -113.11739463)",,,"AB",,"Strathcona County","110682","111703","3083","2021-03-26T00:00:00.000","2021-01-01T00:00:00.000","2021-02-01T00:00:00.000","2021","2",,"1028","Building Permit","NULL","9928040","23941","1224","1","Single Detached Dwelling","53.37779054","-113.11739463"
+"2022-08-25T00:00:00.000","2022-08-25T00:00:00.000","2022-0811-B","1720 106 AV","Univar Solutions - Structural roof components","INDUSTRIAL","ALTERATIONS","In Progress - Inspection","Willowridge Construction","3756","30000","0",,"IH","1","Sherwood Park","3307504005",,"A","4622HW","SE","7","53","23","4","
+,  
+(53.55642898, -113.37069609)",,,"AB",,"Strathcona County","110679","111703","3083","2022-08-19T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10658586","25797","13251","1","Bulk Storage Warehouses For Hazardous Substances","53.55642898","-113.37069609"
+"2022-05-17T00:00:00.000","2022-08-25T00:00:00.000","2022-0451-B","5 EAGLE CRT","Home renovation & cantilever","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Szydlowski, Jacquelyn","0","20000","0",,"R1A","3","Sherwood Park","7059003009","3","59","2294NY","NW","26","52","23","4","
+,  
+(53.52188661, -113.28464732)",,,"AB",,"Strathcona County","110682","111703","151675","2022-05-13T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10509146","14318","16732","1","Single Detached Dwelling","53.52188661","-113.28464732"
+"2022-05-10T00:00:00.000","2022-08-25T00:00:00.000","2022-0380-B","51288 RNG RD 204","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Zbudovskij, Abel & Christine","3672","350000","1",,"AG","7","Rural","1017510109","1","1","0940102","SE","17","51","20","4","
+,  
+(53.40096419, -112.90341824)",,,"AB",,"Strathcona County","110682","111706","3083","2022-04-28T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10483009","253899","4862532","1","Single Detached Dwelling","53.40096419","-112.90341824"
+"2022-05-10T00:00:00.000","2022-09-06T00:00:00.000","2022-0397-B","54472 RNG RD 220","To Construct a Pole Shed: 19.50m x 18.29m","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Mearns, Tony & Wendy","0","233000","0",,"AG","5","Rural","4225110106","1","1","0823817","NE","25","54","22","4","
+,  
+(53.69945317, -113.09969322)",,,"AB",,"Strathcona County","110682","111706","151675","2022-05-04T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10492871","756","4413329","1","Single Detached Dwelling","53.69945317","-113.09969322"
+"2022-08-23T00:00:00.000","2022-08-23T00:00:00.000","2022-0770-B","130, 7000 EMERALD DR","Coco Bubble Tea - #130 - Tenant Improvement","COMMERCIAL","TENANT IMPROVEMENT","In Progress - Inspection","SPAN Architecture Inc","528","110000","0",,"DC72 ""Area I""","4","Sherwood Park","8165003008","3","165","1121650","NE","11","53","23","4","
+,  
+(53.56766431, -113.2827112)",,,"AB",,"Strathcona County","110678","111709","3083","2022-08-08T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10640143","247452","5489159","1","Restaurants","53.56766431","-113.2827112"
+"2022-04-21T00:00:00.000","2022-09-08T00:00:00.000","2022-0331-B","8 MERRYVALE CR","To Construct a New Shed (add dimensions)","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Levitt, Mathew & Kirsten","0","16000","0",,"R1A","1","Sherwood Park","7131004009","4","131","3976RS","NE","34","52","23","4","
+,  
+(53.53732021, -113.30111184)",,,"AB",,"Strathcona County","110682","111706","151675","2022-04-20T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10468008","7574","19400","1","Single Detached Dwelling","53.53732021","-113.30111184"
+"2019-03-14T00:00:00.000","2022-08-19T00:00:00.000","2019-0174-B","85 SUNLAND WY","Basement Development","RESIDENTIAL","ALTERATIONS","Not Approved - File Closed","Seth, Leon","0","4000","0",,"R1C","4","Sherwood Park","8131093003","93","131","1620965","NE","12","53","23","4","
+,  
+(53.5636913, -113.25392182)",,,"AB",,"Strathcona County","110682","111703","167610","2019-03-12T00:00:00.000","2019-01-01T00:00:00.000","2019-01-01T00:00:00.000","2019","1",,"1028","Building Permit","NULL","8854529","220678","7557399","1","Single Detached Dwelling","53.5636913","-113.25392182"
+"2022-04-21T00:00:00.000","2022-09-06T00:00:00.000","2022-0329-B","180 ASHMORE WY","Basement Development","RESIDENTIAL","ALTERATIONS","Approved - File Closed","BSR Ventures Ltd.","0","30000","0",,"R1C","4","Sherwood Park","8163002007","2","163","1420315","SE","11","53","23","4","
+,  
+(53.56072097, -113.28150183)",,,"AB",,"Strathcona County","110682","111703","151675","2022-04-20T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10467628","164377","6762567","1","Single Detached Dwelling","53.56072097","-113.28150183"
+"2022-05-02T00:00:00.000","2022-08-29T00:00:00.000","2022-0239-B","23154 TWP RD 514","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Golden Homes","9518","585000","1",,"RS","6","Rural","1326701155","5","1","2021476","SW","26","51","23","4","
+,  
+(53.42540207, -113.28709478)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-22T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10428485","252425","9625483","1","Single Detached Dwelling","53.42540207","-113.28709478"
+"2022-05-11T00:00:00.000","2022-08-17T00:00:00.000","2022-0436-B","148 ASHMORE WY","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Vayaphanh, Tom","0","15000","0",,"R1C","4","Sherwood Park","8163010000","10","163","1420315","SE","11","53","23","4","
+,  
+(53.55999447, -113.2808832)",,,"AB",,"Strathcona County","110682","111703","3083","2022-05-10T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10502574","164363","6762575","1","Single Detached Dwelling","53.55999447","-113.2808832"
+"2022-03-25T00:00:00.000","2022-09-06T00:00:00.000","2022-0237-B","117 RANCHER RD","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","DAYTONA HOMES INC","2914","242900","1",,"ALD","5","Rural","3211783808","38","8","2220391","NE","2","53","22","4","
+,  
+(53.55239389, -113.13471854)",,,"AB",,"Strathcona County","110682","111706","151675","2022-03-21T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10426914","253843","10412441","1","Single Detached Dwelling","53.55239389","-113.13471854"
+"2022-09-06T00:00:00.000","2022-09-06T00:00:00.000","2022-0684-B","151 LILAC LN","To construct a Pergola attached to existing house","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Ultimate Renovations","0","15000","0",,"R1B","4","Sherwood Park","8012063003","63","12","9322094",,,,,,"
+,  
+(53.54569541, -113.24769531)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-14T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10607079","4709","24921","1","Single Detached Dwelling","53.54569541","-113.24769531"
+"2022-03-01T00:00:00.000","2022-09-06T00:00:00.000","2022-0132-B","62 53025 RNG RD 223","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Kimberley Construction Management Ltd","4532","652431","1",,"RCL","5","Rural","3203720209","20","2","0620633","SW","3","53","22","4","
+,  
+(53.54643921, -113.16382854)",,,"AB",,"Strathcona County","110682","111706","3083","2022-02-22T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10390716","34049","3107773","1","Single Detached Dwelling","53.54643921","-113.16382854"
+"2020-06-16T00:00:00.000","2022-08-17T00:00:00.000","2020-0390-B","49 21215 WYE RD","New Detached Garage","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","KRYSTA, DEAN","0","2000","0",,"RCL","7","Rural","2115503001","4",,"8123097","SE","15","52","21","4","
+,  
+(53.48717368, -113.00888371)",,,"AB",,"Strathcona County","110682","111706","151675","2020-05-28T00:00:00.000","2020-01-01T00:00:00.000","2020-03-01T00:00:00.000","2020","3",,"1028","Building Permit","NULL","9533535","20679","5939","1","Storage Building","53.48717368","-113.00888371"
+"2021-01-11T00:00:00.000","2022-09-09T00:00:00.000","2021-0023-B","113 SUMMERSTONE LN","Basement Development","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Tuck, David","775","20000","0",,"R1C","4","Sherwood Park","8145036007","36","145","1521457","SE","12","53","23","4","
+,  
+(53.55777188, -113.24831544)",,,"AB",,"Strathcona County","110682","111703","151675","2021-01-08T00:00:00.000","2021-01-01T00:00:00.000",,"2021","0",,"1028","Building Permit","NULL","9839082","195693","7198340","1","Single Detached Dwelling","53.55777188","-113.24831544"
+"2022-09-09T00:00:00.000","2022-09-09T00:00:00.000","2022-0880-B","55436 RNG RD 220","Analyzer Shelter (10-BU-80017)","INDUSTRIAL","NEW CONSTRUCTION","Plans Examination Completed","Inter Pipeline Propylene Ltd.","18","2715970","0",,"IH,AG","5","Rural","5225501005",,,,"SE","25","55","22","4","
+,  
+(53.78067754, -113.12528836)",,,"AB",,"Strathcona County","110679","111706","21508","2022-09-08T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10690955","197252","14512","1","Equipment Shelter","53.78067754","-113.12528836"
+"2022-08-29T00:00:00.000","2022-08-29T00:00:00.000","2022-0788-B","22138 TWP RD 510","New Detached Garage (add dimensions)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Nikola Jugovic and Senka Petrec","1200","45000","0",,"RA","7","Rural","1202524003",,"1","7920504","SE","2","51","22","4","
+,  
+(53.36705078, -113.13480519)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-11T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10648200","24168","1255","1","Storage Building","53.36705078","-113.13480519"
+"2022-09-02T00:00:00.000","2022-09-02T00:00:00.000","2022-0795-B","52057 RNG RD 224","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Westergaard, Kyle & Kelsey","4577","500000","1",,"RA","7","Rural","2204320305","3","2","2121665","NW","4","52","22","4","
+,  
+(53.46378285, -113.19584865)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-12T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10650194","252623","10136670","1","Single Detached Dwelling","53.46378285","-113.19584865"
+"2022-08-26T00:00:00.000","2022-08-26T00:00:00.000","2022-0820-B","52144 RNG RD 214","To Construct a New Storage Shed - 54' X 32'","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Ressler, Gerard","0","55000","0",,"RA","7","Rural","2108101308","3",,"9820897","NE","8","52","21","4","
+,  
+(53.47691503, -113.05080957)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-24T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10665946","35703","28481","1","Storage Building","53.47691503","-113.05080957"
+"2021-05-11T00:00:00.000","2022-09-09T00:00:00.000","2021-0210-B","40 51025 RNG RD 222","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Kaur Gosal, Amandeep","4844","450000","1",,"RE","7","Rural","1202704006",,"40","0125764","W","2","51","22","4","
+,  
+(53.3696428, -113.14518001)",,,"AB",,"Strathcona County","110682","111706","3083","2021-03-15T00:00:00.000","2021-01-01T00:00:00.000","2021-02-01T00:00:00.000","2021","2",,"1028","Building Permit","NULL","9910230","26994","1192600","1","Single Detached Dwelling","53.3696428","-113.14518001"
+"2022-03-24T00:00:00.000","2022-08-23T00:00:00.000","2022-0194-B","166 RANCHER RD","New Single Detached Dwelling with attached garage","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Coventry Homes","3312","380000","1",,"ALD","5","Rural","3211763909","39","6","2220391","N","2","53","22","4","
+,  
+(53.55119794, -113.13530828)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-09T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10412227","253875","10412421","1","Single Detached Dwelling","53.55119794","-113.13530828"
+"2022-09-09T00:00:00.000","2022-09-09T00:00:00.000","2022-0874-B","408 MEADOWVIEW TERR","Kitchen Renovation","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Lambert Brothers Construction","0","5000","0",,"R1A","4","Sherwood Park","8019013003","13","19","9622860","NE","1","53","23","4","
+,  
+(53.55000582, -113.2574726)",,,"AB",,"Strathcona County","110682","111703","3083","2022-09-08T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10690177","3503","27630","1","Single Detached Dwelling","53.55000582","-113.2574726"
+"2022-06-22T00:00:00.000","2022-08-17T00:00:00.000","2022-0538-B","162 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Jayman Built","2847","610000","1",,"R1C","4","Sherwood Park","8129273007","273","129","2122765",,,,,,"
+,  
+(53.56421527, -113.24855995)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-03T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10542090","252969","10309942","1","Single Detached Dwelling","53.56421527","-113.24855995"
+"2020-01-10T00:00:00.000","2022-08-17T00:00:00.000","2020-0009-B","14 ABERDEEN CR","Install a Hot Tub","RESIDENTIAL","ADDITION","Not Approved - File Closed","O'Farrell, Karen & Brian","0","10000","0",,"R2A","4","Sherwood Park","8181004003","4","181","1525151","SW","11","53","23","4","
+,  
+(53.55975335, -113.28659544)",,,"AB",,"Strathcona County","110682","111702","167610","2020-01-06T00:00:00.000","2020-01-01T00:00:00.000",,"2020","0",,"1028","Building Permit","NULL","9369132","214168","7460599","1","Swimming Pools, Below Ground","53.55975335","-113.28659544"
+"2022-03-10T00:00:00.000","2022-08-24T00:00:00.000","2022-0188-B","18 COPPICE HILL WY","New Single Detached Dwelling with Attached Garage, Uncovered Deck (3.66m x 7.67m) with Secondary Suite","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Beaton, Amanda and Adam","4721","643529","0",,"R1B","5","Rural","3211726308","63","2","1822674","SW","11","53","22","4","
+,  
+(53.55706957, -113.13953708)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-08T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10410194","251456","8690554","1","Single Detached Dwelling","53.55706957","-113.13953708"
+"2022-09-06T00:00:00.000","2022-09-06T00:00:00.000","2022-0751-B","73 52514 RNG RD 223","To Construct a New Shed (12 x 20)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Taylor, John","0","15000","0",,"RCL","5","Rural","2233534003","8","3","8021417","S","33","52","22","4","
+,  
+(53.52887164, -113.17932676)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-03T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10632869","11010","10312","1","Storage Building","53.52887164","-113.17932676"
+"2022-09-06T00:00:00.000","2022-09-06T00:00:00.000","2022-0850-B","51450 RNG RD 225","Demolition","RESIDENTIAL","DEMOLITION","In Progress - Inspection","Hansen, Colleen","0","7500","0",,"AG","6","Rural","1230101006",,,,"NE","30","51","22","4","
+,  
+(53.43283625, -113.22265246)",,,"AB",,"Strathcona County","110682","111704","3083","2022-09-01T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10682339","22452","3015","1","Single Detached Dwelling","53.43283625","-113.22265246"
+"2022-09-09T00:00:00.000","2022-09-09T00:00:00.000","2022-0872-B","13 HORTON WY","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Singh Gahunia, Charn Paul","1100","20000","0",,"R2A","5","Rural","3211770400","4","7","1720681","NW","2","53","22","4","
+,  
+(53.55309858, -113.13879038)",,,"AB",,"Strathcona County","110682","111703","3083","2022-09-08T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10689696","250321","7909471","1","Single Detached Dwelling","53.55309858","-113.13879038"
+"2022-04-21T00:00:00.000","2022-09-06T00:00:00.000","2022-0332-B","237 51268 RNG RD 204","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Blair, Clinton","0","67000","0",,"RH","7","Rural","1017332006","15","3","4403MC","NW","17","51","20","4","
+,  
+(53.40526585, -112.91953776)",,,"AB",,"Strathcona County","110682","111703","3083","2022-04-20T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10468222","23165","288","1","Single Detached Dwelling","53.40526585","-112.91953776"
+"2022-09-06T00:00:00.000","2022-09-06T00:00:00.000","2021-1057-B","5200 CLOVER BAR RD","Apartment Housing Use-New 6 Storey 112 unit Multi-Family Apartments with underground parkade (Phase I)  Marquis I Apartments","COMMERCIAL","NEW CONSTRUCTION","In Progress - Inspection","Gardner Architecture Inc.","1688","10150000","112",,"UV2 ""Area VI""","4","Sherwood Park","8155015104","15A","155","1620095","E","11","53","23","4","
+,  
+(53.56374706, -113.27310622)",,,"AB",,"Strathcona County","110678","111706","3083","2021-10-27T00:00:00.000","2021-01-01T00:00:00.000","2021-10-01T00:00:00.000","2021","10",,"1028","Building Permit","NULL","10255329","162343","7496350","1","Multi-Family Housing","53.56374706","-113.27310622"
+"2021-07-06T00:00:00.000","2022-08-23T00:00:00.000","2021-0677-B","349 51112 RNG RD 222","Single Detached Dwelling with Attached Garage","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Luckai, Peter","3874","700000","0",,"RCL","7","Rural","1210107007","5","1","7521565","NE","10","51","22","4","
+,  
+(53.39237507, -113.15731047)",,,"AB",,"Strathcona County","110682","111706","3083","2021-06-29T00:00:00.000","2021-01-01T00:00:00.000","2021-06-01T00:00:00.000","2021","6",,"1028","Building Permit","NULL","10077568","23476","1415","1","Single Detached Dwelling","53.39237507","-113.15731047"
+"2022-05-18T00:00:00.000","2022-08-24T00:00:00.000","2022-0247-B","155, 3001 BUCKINGHAM DR","Sherwood Motor Cars Tenant Improvement - vehicle showroom and service shop.","COMMERCIAL","TENANT IMPROVEMENT","In Progress - Inspection","LEXON PROJECTS INC.","13564","950000","0",,"IM","1","Sherwood Park","8000310504","5","1","1323939","NW","3","53","23","4","
+,  
+(53.54931406, -113.3146377)",,,"AB",,"Strathcona County","110678","111709","3083","2022-03-23T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10430380","186763","6655494","1","Car Dealership","53.54931406","-113.3146377"
+"2019-11-04T00:00:00.000","2022-08-17T00:00:00.000","2019-1042-B","16 51401 RNG RD 221","Addition to Aircraft Hangar, #16, (See also 2005-1273-B)Still in progress February 2022.  PB","COMMERCIAL","ADDITION","Not Approved - File Closed","Mockford, Wayne","331","50000","0",,"DC6 ""B""","7","Rural","1225601606",,"16A","1721695","SE","26","51","22","4","
+,  
+(53.4277011, -113.12431087)",,,"AB",,"Strathcona County","110678","111702","167610","2019-10-28T00:00:00.000","2019-01-01T00:00:00.000","2019-10-01T00:00:00.000","2019","10",,"1028","Building Permit","NULL","9299424","28635","8071736","1","Aircraft Hangars","53.4277011","-113.12431087"
+"2022-03-07T00:00:00.000","2022-09-06T00:00:00.000","2022-0177-B","336 BOTHWELL DR","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Herauf, Brad","480","11000","0",,"DC20","1","Sherwood Park","8208041000","41","208","0225555","SE","3","53","23","4","
+,  
+(53.54558548, -113.29905153)",,,"AB",,"Strathcona County","110682","111703","3083","2022-03-04T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10406809","28005","1468410","1","Single Detached Dwelling","53.54558548","-113.29905153"
+"2022-06-21T00:00:00.000","2022-08-25T00:00:00.000","2022-0603-B","205 SAGO COVE","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Smith, Karlee & Zach","0","30000","0",,"R1C","4","Sherwood Park","8151036003","36","151","1820859","NE","12","53","23","4","
+,  
+(53.56706132, -113.25616115)",,,"AB",,"Strathcona County","110682","111703","3083","2022-06-20T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10566494","251235","8427694","1","Single Detached Dwelling","53.56706132","-113.25616115"
+"2022-08-25T00:00:00.000","2022-08-25T00:00:00.000","2022-0806-B","189 CORNWALL RD","To Construct an addition","RESIDENTIAL","ADDITION","In Progress - Inspection","ECS Project Management Inc.","0","130000","0",,"R1C","2","Sherwood Park","8106505003","5","106","0227072",,,,,,"
+,  
+(53.54884653, -113.27314402)",,,"AB",,"Strathcona County","110682","111702","3083","2022-08-17T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10655225","27416","1513193","1","Single Detached Dwelling","53.54884653","-113.27314402"
+"2019-10-01T00:00:00.000","2022-08-23T00:00:00.000","2019-0946-B","150, 8710 15 ST","Lambert Radiation Shielding, Office & Shop - Renewal of 2012-1242-B","COMMERCIAL","TENANT IMPROVEMENT","Approved - File Closed","Lambert Radiation Shielding Ltd.","2787","55000","0",,"IM","1","Sherwood Park","2329337109",,"10","1023719","NW","29","52","23","4","
+,  
+(53.52149929, -113.3666994)",,,"AB",,"Strathcona County","110678","111709","151675","2019-09-30T00:00:00.000","2019-01-01T00:00:00.000","2019-09-01T00:00:00.000","2019","9",,"1028","Building Permit","NULL","9256201","61717","5111734","1","Offices","53.52149929","-113.3666994"
+"2022-07-14T00:00:00.000","2022-08-19T00:00:00.000","2022-0674-B","54371 RNG RD 205","Storage and serving building (3.66m x 3.66m)","COMMERCIAL","NEW CONSTRUCTION","In Progress - Inspection","ELK ISLAND RETREAT LTD.","13","12000","0",,"C6,AG","5","Rural","4020302008","A",,"4305RS","NW","20","54","20","4","
+,  
+(53.68531077, -112.92540579)",,,"AB",,"Strathcona County","110678","111706","3083","2022-07-13T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10604894","794","13578","1","Storage Building","53.68531077","-112.92540579"
+"2021-04-16T00:00:00.000","2022-08-16T00:00:00.000","2021-0337-B","12, 2 ATHABASCAN AV","Hearing Life - Renovation","COMMERCIAL","ALTERATIONS","Approved - File Closed","Avison Young Project Management Services, LP","1147","38749","0",,"C5","1","Sherwood Park","7000369004","17","3","7822600","NE","33","52","23","4","
+,  
+(53.53687477, -113.3209536)",,,"AB",,"Strathcona County","110678","111703","151675","2021-04-15T00:00:00.000","2021-01-01T00:00:00.000","2021-03-01T00:00:00.000","2021","3",,"1028","Building Permit","NULL","9954193","62022","14851","1","Medical Offices","53.53687477","-113.3209536"
+"2022-03-09T00:00:00.000","2022-08-16T00:00:00.000","2022-0185-B","193 52450 RNG RD 222","Interior Renovations of main floor including bathroom & bedroom","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Crawford, Dave","0","18000","0",,"RCL","5","Rural","2227109002","16","1","4196RS","NE","27","52","22","4","
+,  
+(53.52556364, -113.15751694)",,,"AB",,"Strathcona County","110682","111703","3083","2022-03-08T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10409425","12192","9781","1","Single Detached Dwelling","53.52556364","-113.15751694"
+"2022-08-16T00:00:00.000","2022-08-16T00:00:00.000","2022-0797-B","451 DAVENPORT DR","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Querry, Diane & Francois","0","15000","0",,"R1A","4","Sherwood Park","8023050007","50","23","0124704",,,,,,"
+,  
+(53.55260115, -113.25316531)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-16T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10652898","26385","200342","1","Single Detached Dwelling","53.55260115","-113.25316531"
+"2022-08-26T00:00:00.000","2022-08-26T00:00:00.000","2022-0821-B","55436 RNG RD 220","PP Office Building (Building ID: 12-BU-80010) interior building modifications to create more open space.","INDUSTRIAL","ALTERATIONS","In Progress - Inspection","Inter Pipeline Propylene Ltd.","131","100000","0",,"IH,AG","5","Rural","5225501005",,,,"SE","25","55","22","4","
+,  
+(53.78067754, -113.12528836)",,,"AB",,"Strathcona County","110679","111703","3083","2022-08-25T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10666819","197252","14512","1","Offices","53.78067754","-113.12528836"
+"2021-11-29T00:00:00.000","2022-09-06T00:00:00.000","2021-1109-B","233 ANNANDALE CR","New Single Family Dwelling.","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Coventry Homes","0","400000","1",,"R1C","4","Sherwood Park","8173114003","114","173","1822414","SW","11","53","23","4","
+,  
+(53.55729387, -113.28676207)",,,"AB",,"Strathcona County","110682","111706","151675","2021-11-10T00:00:00.000","2021-01-01T00:00:00.000","2021-11-01T00:00:00.000","2021","11",,"1028","Building Permit","NULL","10273977","251363","8680433","1","Single Detached Dwelling","53.55729387","-113.28676207"
+"2022-02-11T00:00:00.000","2022-09-06T00:00:00.000","2022-0070-B","94 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Jayman Built - Connor Regan","2299","465000","1",,"R1D","4","Sherwood Park","8129256009","256","129","2122842",,,,,,"
+,  
+(53.56557607, -113.24851176)",,,"AB",,"Strathcona County","110682","111706","3083","2022-01-31T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10366438","253004","10339763","1","Single Detached Dwelling","53.56557607","-113.24851176"
+"2022-04-08T00:00:00.000","2022-09-06T00:00:00.000","2022-0282-B","54304 RNG RD 213","Greenhouse (3.05m X 7.92m)","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Morgan, Lori & Robert","0","5297","0",,"AG","5","Rural","4121501003","A",,"3978TR","SE","21","54","21","4","
+,  
+(53.67259208, -113.02537023)",,,"AB",,"Strathcona County","110682","111706","151675","2022-04-01T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10446481","835","13913","1","Workshops","53.67259208","-113.02537023"
+"2019-05-08T00:00:00.000","2022-08-23T00:00:00.000","2019-0329-B","21372 TWP RD 510","To construct an addition to a single dwelling","RESIDENTIAL","ADDITION","Not Approved - File Closed","Lupul, Shelly & Pierre Esquirol",,"60000","0",,"AG","7","Rural","1104701006","1","1","7521176","SW","4","51","21","4","
+,  
+(53.36738464, -113.04621705)",,,"AB",,"Strathcona County","110682","111702","167610","2019-04-26T00:00:00.000","2019-01-01T00:00:00.000","2019-03-01T00:00:00.000","2019","3",,"1028","Building Permit","NULL","8913534","24180","513","1","Single Detached Dwelling","53.36738464","-113.04621705"
+"2022-06-27T00:00:00.000","2022-09-09T00:00:00.000","2022-0532-B","21154 TWP RD 542","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Orgill, Pauline","0","600000","1",,"AG","5","Rural","4114704002","D",,"2970TR","SW","14","54","21","4","
+,  
+(53.6579195, -112.99181094)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-02T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10540233","253907","13869","1","Single Detached Dwelling","53.6579195","-112.99181094"
+"2022-08-15T00:00:00.000","2022-08-15T00:00:00.000","2022-0187-B","77 52059 RNG RD 220","New Detached Garage (32' x 31')","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Murray, David","0","50000","0",,"RH","7","Rural","2106345008","7","3","3407KS","W","6","52","21","4","
+,  
+(53.46180836, -113.08878541)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-08T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10410015","21748","4622","1","Shops","53.46180836","-113.08878541"
+"2022-08-30T00:00:00.000","2022-08-30T00:00:00.000","2022-0837-B","216 FOXHAVEN DR","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Miller, Jennifer","0","15000","0",,"R1B","8","Sherwood Park","7325008000","8","325","0124191","SE","36","52","23","4","
+,  
+(53.52824346, -113.25420422)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-30T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10674739","26288","110213","1","Single Detached Dwelling","53.52824346","-113.25420422"
+"2022-08-15T00:00:00.000","2022-08-15T00:00:00.000","2022-0777-B","25 52519 RNG RD 225","New barn/workshop","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Silvester, Bruce","0","250000","0",,"RA","6","Rural","2232708004","R",,"1491RS","SW","32","52","22","4","
+,  
+(53.52924968, -113.2136974)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-09T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10643267","10710","10229","1","Single Detached Dwelling","53.52924968","-113.2136974"
+"2022-02-09T00:00:00.000","2022-08-23T00:00:00.000","2022-0094-B","38, 665 BASELINE RD","Heritage Hills Cannabis House - Tenant Improvement","COMMERCIAL","TENANT IMPROVEMENT","Approved - File Closed","KIG Construction LTD","697","80000","0",,"DC3","8","Sherwood Park","7300054006","54","300","9222868","NW","36","52","23","4","
+,  
+(53.54061049, -113.26109845)",,,"AB",,"Strathcona County","110678","111709","151675","2022-02-07T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10375506","25604","22807","1","Stores","53.54061049","-113.26109845"
+"2022-07-28T00:00:00.000","2022-08-15T00:00:00.000","2022-0732-B","116 FOXTAIL PT","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Stewart, William","0","10000","0",,"R1C","8","Sherwood Park","7366018009","18","366","0525679",,,,,,"
+,  
+(53.52455325, -113.24932511)",,,"AB",,"Strathcona County","110682","111703","151675","2022-07-27T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10626138","33439","2987093","1","Single Detached Dwelling","53.52455325","-113.24932511"
+"2022-08-26T00:00:00.000","2022-08-26T00:00:00.000","2022-0754-B","549 ESTATE DR","Deck",,,"In Progress - Inspection","Nigro Manucci","0","10000","0",,"RE","3","Sherwood Park","9002049006","49","2","8922933","NW","23","52","23","4","
+,  
+(53.50533415, -113.28367766)",,,"AB",,"Strathcona County",,,"3083","2022-08-03T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10633501","19482","26447","1",,"53.50533415","-113.28367766"
+"2019-10-21T00:00:00.000","2022-08-15T00:00:00.000","2019-0997-B","311 RIDGELAND CR","Separate entrance for secondary suite","RESIDENTIAL","ADDITION","Approved - File Closed","Kollmann, Jesse","0","10000","0",,"R1B","8","Sherwood Park","7394051004","51","394","0523979","SE","25","52","23","4","
+,  
+(53.51684837, -113.25041632)",,,"AB",,"Strathcona County","110682","111702","151675","2019-10-16T00:00:00.000","2019-01-01T00:00:00.000","2019-09-01T00:00:00.000","2019","9",,"1028","Building Permit","NULL","9282231","33033","2844218","1","Single Detached Dwelling","53.51684837","-113.25041632"
+"2022-08-15T00:00:00.000","2022-08-15T00:00:00.000","2022-0793-B","142 22106 SOUTH COOKING LAKE RD","New Detached Garage (add dimensions)","RESIDENTIAL",,"In Progress - Inspection","RONNEX GARAGES","0","50000","0",,"R1A","7","Rural","1224759009","11","5","2891KS","SW","24","51","22","4","
+,  
+(53.41127919, -113.12026986)",,,"AB",,"Strathcona County","110682",,"3083","2022-08-12T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10650041","22997","3100596","1",,"53.41127919","-113.12026986"
+"2021-12-22T00:00:00.000","2022-09-01T00:00:00.000","2021-1209-B","1020 SHERWOOD DR","NULL","COMMERCIAL","NEW CONSTRUCTION","In Progress - Inspection","LEDCOR Construction Ltd., Gina Chorna","947","1850000","0",,"C2","3","Sherwood Park","7001016004","16","1","0024946","SW","27","52","23","4","
+,  
+(53.51306087, -113.31944475)",,,"AB",,"Strathcona County","110678","111706","3083","2021-12-09T00:00:00.000","2021-01-01T00:00:00.000","2021-12-01T00:00:00.000","2021","12",,"1028","Building Permit","NULL","10312866","25794","30678","1","Stores","53.51306087","-113.31944475"
+"2022-06-01T00:00:00.000","2022-08-15T00:00:00.000","2022-0517-B","55136 RNG RD 204","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Rietveld, Ben & Mary","5109","500000","1",,"AG","5","Rural","5008510109","1","1","1921641","SE","8","55","20","4","
+,  
+(53.73734078, -112.9270975)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-31T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10534363","253898","9075780","1","Single Detached Dwelling","53.73734078","-112.9270975"
+"2022-06-17T00:00:00.000","2022-08-30T00:00:00.000","2022-0525-B","51514 RNG RD 223","Attached Garage Addition to Single Family Dwelling","RESIDENTIAL","ADDITION","In Progress - Inspection","March, Brandyn","0","160000","0",,"AG","7","Rural","1233506003","F",,"7921577","SE","33","51","22","4","
+,  
+(53.44153842, -113.1732517)",,,"AB",,"Strathcona County","110682","111702","3083","2022-06-01T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10537355","22387","3155","1","Single Detached Dwelling","53.44153842","-113.1732517"
+"2022-08-16T00:00:00.000","2022-08-16T00:00:00.000","2022-0790-B","26 53279 RNG RD 225","Solar panel installations - Shop","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","2083461 Alberta Ltd o/a BLDG Electric","0","34000","0",,"RCL","5","Rural","3217320005","23","1","7620124","NW","17","53","22","4","
+,  
+(53.58418244, -113.21889661)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-12T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10648912","1722","12852","1","Single Detached Dwelling","53.58418244","-113.21889661"
+"2022-08-26T00:00:00.000","2022-08-26T00:00:00.000","2022-0823-B","55436 RNG RD 220","Propane Dehydrogenation Project (IPPL PDH Project) 10-BU-8000 Chemical Waste Storage Building","INDUSTRIAL","NEW CONSTRUCTION","In Progress - Inspection","Inter Pipeline Propylene Ltd.","18","961006","0",,"IH,AG","5","Rural","5225501005",,,,"SE","25","55","22","4","
+,  
+(53.78067754, -113.12528836)",,,"AB",,"Strathcona County","110679","111706","3083","2022-08-25T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10669307","197252","14512","1","Storage Building","53.78067754","-113.12528836"
+"2022-08-09T00:00:00.000","2022-08-23T00:00:00.000","2022-0736-B","12 HIGHWOOD PL","Re-insulate main floor with spray foam","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Moet Developments Ltd","0","45000","0",,"R1A","3","Sherwood Park","7079037003","37","79","3158RS",,,,,,"
+,  
+(53.51419609, -113.2908741)",,,"AB",,"Strathcona County","110682","111703","3083","2022-07-28T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10626942","18103","17670","1","Single Detached Dwelling","53.51419609","-113.2908741"
+"2019-03-20T00:00:00.000","2022-08-19T00:00:00.000","2019-0209-B","86 53271 RNG RD 223","Basement Development","RESIDENTIAL","ALTERATIONS","Not Approved - File Closed","Buse, Michael & Sheena","1268","10000","0",,"RCL","5","Rural","3215302131","3","1","1424062","NW","15","53","22","4","
+,  
+(53.58334377, -113.17035744)",,,"AB",,"Strathcona County","110682","111703","167610","2019-03-20T00:00:00.000","2019-01-01T00:00:00.000","2019-02-01T00:00:00.000","2019","2",,"1028","Building Permit","NULL","8865500","233051","6996729","1","Single Detached Dwelling","53.58334377","-113.17035744"
+"2021-11-05T00:00:00.000","2022-08-15T00:00:00.000","2021-1008-B","125 SUMAC LN","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","PACESETTER HOMES PARTNERSHIP","0","304000","1",,"R1C","4","Sherwood Park","8143073003","73","143","1920191","NE","12","53","23","4","
+,  
+(53.56467186, -113.25466976)",,,"AB",,"Strathcona County","110682","111706","3083","2021-10-15T00:00:00.000","2021-01-01T00:00:00.000","2021-10-01T00:00:00.000","2021","10",,"1028","Building Permit","NULL","10237304","251851","8808724","1","Single Detached Dwelling","53.56467186","-113.25466976"
+"2022-08-31T00:00:00.000","2022-08-31T00:00:00.000","2022-0839-B","66 IVY CR","Solar panel installations","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Soltek Roofing and Solar","0","2500","0",,"R1A","3","Sherwood Park","7039058008","58","39","468RS","SE","27","52","23","4","
+,  
+(53.51389003, -113.29596045)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-30T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10675045","18396","15988","1","Single Detached Dwelling","53.51389003","-113.29596045"
+"2022-08-26T00:00:00.000","2022-08-26T00:00:00.000","2022-0696-B","133 RANCHER RD","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Coventry Homes","2806","550172","1",,"ALD","5","Rural","3211784200","42","8","2220391","NE","2","53","22","4","
+,  
+(53.55200001, -113.13469783)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-20T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10614927","253847","10412445","1","Single Detached Dwelling","53.55200001","-113.13469783"
+"2022-08-25T00:00:00.000","2022-08-26T00:00:00.000","2022-0822-B","53063 RNG RD 215","Demolition - House with Attached Garage","RESIDENTIAL","DEMOLITION","In Progress - Inspection","Walther, Frank","0","10000","0",,"AG","5","Rural","3105301000",,,,"NW","5","53","21","4","
+,  
+(53.55247441, -113.07252773)",,,"AB",,"Strathcona County","110682","111704","3083","2022-08-25T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10667770","2582","27268","1","Single Detached Dwelling","53.55247441","-113.07252773"
+"2022-09-08T00:00:00.000","2022-09-08T00:00:00.000","2022-0861-B","93 NOTTINGHAM PT","Install a Hot Tub","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","LAMBERT, FRED","0","7500","0",,"R1A","3","Sherwood Park","7211121000","121","211","0526029","W","25","52","23","4","
+,  
+(53.51959487, -113.2680379)",,,"AB",,"Strathcona County","110682","111703","3083","2022-09-06T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10686378","33892","2992026","1","Single Detached Dwelling","53.51959487","-113.2680379"
+"2019-03-13T00:00:00.000","2022-08-19T00:00:00.000","2019-0175-B","6005 CAMERON CL","Basement Development","RESIDENTIAL","ALTERATIONS","Not Approved - File Closed","Pouliot, Chris","0","6000","0",,"R1C","2","Sherwood Park","8085052008","52","85","0729078",,,,,,"
+,  
+(53.54614917, -113.27988906)",,,"AB",,"Strathcona County","110682","111703","167610","2019-03-12T00:00:00.000","2019-01-01T00:00:00.000","2019-01-01T00:00:00.000","2019","1",,"1028","Building Permit","NULL","8855544","38490","3950343","1","Single Detached Dwelling","53.54614917","-113.27988906"
+"2022-08-16T00:00:00.000","2022-08-16T00:00:00.000","2022-0786-B","540, 205 FESTIVAL WY","NULL","COMMERCIAL","NEW CONSTRUCTION","In Progress - Inspection","Versatile Developments Corporation","973","42000","0",,"CITP ""Area TM""","1","Sherwood Park","7000702201","2","2","2022870","SE","34","52","23","4","
+,  
+(53.52702793, -113.29617768)",,,"AB",,"Strathcona County","110678","111706","3083","2022-08-11T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10647520","233452","7698094","1","Demising Wall","53.52702793","-113.29617768"
+"2019-01-23T00:00:00.000","2022-08-19T00:00:00.000","2019-0056-B","229 51350 RNG RD 224","Main floor partition walls relocation, stairwell relocation, sunken floor fill, basement insulation, basement development","RESIDENTIAL","ALTERATIONS","Not Approved - File Closed","HOLYROOD CONSTRUCTION LTD.","0","18000","0",,"RCL","6","Rural","1220130007","18","1","7821532","NE","20","51","22","4","
+,  
+(53.42336961, -113.20225611)",,,"AB",,"Strathcona County","110682","111703","167610","2019-01-22T00:00:00.000","2019-01-01T00:00:00.000",,"2019","0",,"1028","Building Permit","NULL","8795065","22576","1691","1","Single Detached Dwelling","53.42336961","-113.20225611"
+"2022-01-21T00:00:00.000","2022-08-23T00:00:00.000","2021-1256-B","110 HORTON WY","To Construct a Duplex, 106 & 110","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Coventry Homes Inc","4391","506630","2",,"R2A","5","Rural","3211762906","29","6","2122874","NW","2","53","22","4","
+,  
+(53.55126678, -113.13667933)",,,"AB",,"Strathcona County","110682","111706","3083","2021-12-23T00:00:00.000","2021-01-01T00:00:00.000","2021-12-01T00:00:00.000","2021","12",,"1028","Building Permit","NULL","10327894","253061","10341211","1","Multi-Family Housing","53.55126678","-113.13667933"
+"2021-12-07T00:00:00.000","2022-08-15T00:00:00.000","2021-1173-B","430, 450 ORDZE RD","Brick and Mortar Law - New Tenant","COMMERCIAL","TENANT IMPROVEMENT","Approved - File Closed","Brick and Mortar Law","1494","90000","0",,"DC19 ""B""","1","Sherwood Park","9500033117",,"11","1923384","NE","21","52","23","4","
+,  
+(53.51007229, -113.33028532)",,,"AB",,"Strathcona County","110678","111709","151675","2021-11-26T00:00:00.000","2021-01-01T00:00:00.000","2021-11-01T00:00:00.000","2021","11",,"1028","Building Permit","NULL","10295926","251806","9350793","1","Offices","53.51007229","-113.33028532"
+"2020-02-11T00:00:00.000","2022-08-16T00:00:00.000","2020-0083-B","50 NOTTINGHAM CR","Basement Development","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Moore, Judy","0","17760","0",,"R1A","3","Sherwood Park","7061176009","176","61","8921472",,,,,,"
+,  
+(53.52558446, -113.28273835)",,,"AB",,"Strathcona County","110682","111703","151675","2020-02-10T00:00:00.000","2020-01-01T00:00:00.000",,"2020","0",,"1028","Building Permit","NULL","9408588","12821","17013","1","Single Detached Dwelling","53.52558446","-113.28273835"
+"2022-08-16T00:00:00.000","2022-08-16T00:00:00.000","2022-0769-B","2000 PREMIER WY","Solar panel installations","COMMERCIAL","ALTERATIONS","In Progress - Inspection","AltaPro Electric","20000","125000","0",,,"1","Sherwood Park","8242009005","9MR","242","9924818","SW","10","53","23","4","
+,  
+(53.55864714, -113.31550439)",,,"AB",,"Strathcona County","110678","111703","3083","2022-08-08T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10640058","25725","29606","1","Solar panel(s)","53.55864714","-113.31550439"
+"2022-08-16T00:00:00.000","2022-08-16T00:00:00.000","2022-0731-B",,"Mobile Home for Office/Community Building","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Parkbridge Lifestyle Communities Inc.","792","128000","1",,"RM","4","Sherwood Park","3312303102","3B",,"0021500","NW","12","53","23","4","
+,  
+(53.56522535, -113.26193413)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-27T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10626009","0","30081","1","Mobile Home","53.56522535","-113.26193413"
+"2019-04-29T00:00:00.000","2022-08-23T00:00:00.000","2019-0322-B","157 52150 RNG RD 221","Installing LVL Beam and Steel ""I"" Beam","RESIDENTIAL","ALTERATIONS","Not Approved - File Closed","Revington Renovations","0","10150","0",,"RCL","7","Rural","2211110008","7","1","7820194","NE","11","52","22","4","
+,  
+(53.47673025, -113.12955579)",,,"AB",,"Strathcona County","110682","111703","167610","2019-04-24T00:00:00.000","2019-01-01T00:00:00.000","2019-03-01T00:00:00.000","2019","3",,"1028","Building Permit","NULL","8909161","21170","8619","1","Single Detached Dwelling","53.47673025","-113.12955579"
+"2019-03-20T00:00:00.000","2022-08-19T00:00:00.000","2019-0208-B","516 FOXBORO LOOP","Basement Development","RESIDENTIAL","ALTERATIONS","Not Approved - File Closed","Ibrahim, Youssef","700","10000","0",,"R1C","8","Sherwood Park","7365091007","91","365","0525679","NE","25","52","23","4","
+,  
+(53.52383519, -113.25324743)",,,"AB",,"Strathcona County","110682","111703","167610","2019-03-20T00:00:00.000","2019-01-01T00:00:00.000","2019-02-01T00:00:00.000","2019","2",,"1028","Building Permit","NULL","8865280","33468","2964626","1","Single Detached Dwelling","53.52383519","-113.25324743"
+"2022-08-10T00:00:00.000","2022-08-15T00:00:00.000","2022-0708-B","52111 RNG RD 222","New Detached Garage (12 x 20) (existing)","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Kreamer, Kristi","0","3500","0",,"RA","7","Rural","2211701005","1","1","1424933","SW","11","52","22","4","
+,  
+(53.4704594, -113.14486745)",,,"AB",,"Strathcona County","110682","111706","151675","2022-07-22T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10619103","101401","7097648","1","Storage Building","53.4704594","-113.14486745"
+"2022-08-19T00:00:00.000","2022-08-19T00:00:00.000","2022-0694-B","35, 1020 SHERWOOD DR","K-Lee Boutique (Fire Rebuild) - Tenant improvements","COMMERCIAL","TENANT IMPROVEMENT","In Progress - Inspection","Lang, Kristen","947","75000","0",,"C2","3","Sherwood Park","7001016004","16","1","0024946","SW","27","52","23","4","
+,  
+(53.51324547, -113.31854876)",,,"AB",,"Strathcona County","110678","111709","3083","2022-07-20T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10614459","62101","30678","1","Stores","53.51324547","-113.31854876"
+"2021-10-27T00:00:00.000","2022-09-01T00:00:00.000","2021-0916-B","98 GRANVILLE CR","Basement Development and Main Floor renovation","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Thiessen, Darrel",,"35000","0",,"R1A","2","Sherwood Park","7174064001","64","174","675TR","NE","35","52","23","4","
+,  
+(53.53469446, -113.27442807)",,,"AB",,"Strathcona County","110682","111703","151675","2021-09-17T00:00:00.000","2021-01-01T00:00:00.000","2021-09-01T00:00:00.000","2021","9",,"1028","Building Permit","NULL","10197339","8705","21252","1","Single Detached Dwelling","53.53469446","-113.27442807"
+"2022-09-01T00:00:00.000","2022-09-01T00:00:00.000","2022-0844-B","290 52249 RNG RD 233","Solar panel installations","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Ridgeline Power Solutions","0","2500","0",,"RCL","6","Rural","2315316109","8","2","9220881","NW","15","52","23","4","
+,  
+(53.49384752, -113.3163738)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-31T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10677456","20351","11016","1","Single Detached Dwelling","53.49384752","-113.3163738"
+"2022-09-01T00:00:00.000","2022-09-01T00:00:00.000","2022-0824-B","11 51401 RNG RD 221","Addition to an existing Aircraft Hanger.","INDUSTRIAL","ADDITION","In Progress - Inspection","Jolivet, Frederic","171","52000","0",,"DC6 ""B""","7","Rural","1225601107",,"11A","1721695","SE","26","51","22","4","
+,  
+(53.42812979, -113.12466567)",,,"AB",,"Strathcona County","110679","111702","3083","2022-08-25T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10670021","28630","8071731","1","Aircraft Hangars","53.42812979","-113.12466567"
+"2017-12-04T00:00:00.000","2022-08-15T00:00:00.000","2017-1357-B","61 AMESBURY WYND","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","BP Final Complete and Rough Grade Pending","Marcson Homes","3675","278880","1",,"R1C","3","Rural","9007032004","32","7","1723054","NE","22","52","23","4","
+,  
+(53.5076953, -113.30458235)",,,"AB",,"Strathcona County","110682","111706","32888","2017-11-24T00:00:00.000","2017-01-01T00:00:00.000",,"2017","13",,"1028","Building Permit","NULL","8304385","250977","8273974","1","Single Detached Dwelling","53.5076953","-113.30458235"
+"2022-07-22T00:00:00.000","2022-08-23T00:00:00.000","2022-0700-B","42 CRANE RD","Renovation","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","ENERGY EFFICIENT HOMES INC.","0","50000","0",,"R1A","3","Sherwood Park","7050021000","21","50","4411MC","NW","26","52","23","4","
+,  
+(53.5202469, -113.29373268)",,,"AB",,"Strathcona County","110682","111703","3083","2022-07-21T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10617253","61644","16397","1","Single Detached Dwelling","53.5202469","-113.29373268"
+"2021-03-30T00:00:00.000","2022-09-08T00:00:00.000","2021-0216-B","10 CIRCLEWOOD DR","New Detached Garage (add dimensions)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Hnatiuk, Travis","0","12000","0",,"R1A","3","Sherwood Park","7075063003","63","75","5081RS","SW","26","52","23","4","
+,  
+(53.5153442, -113.28351822)",,,"AB",,"Strathcona County","110682","111706","3083","2021-03-17T00:00:00.000","2021-01-01T00:00:00.000","2021-02-01T00:00:00.000","2021","2",,"1028","Building Permit","NULL","9912729","17356","17406","1","Storage Building","53.5153442","-113.28351822"
+"2022-06-22T00:00:00.000","2022-08-30T00:00:00.000","2022-0605-B","54, 2131 OAK ST","Basement Development","RESIDENTIAL","ALTERATIONS","Approved - File Closed","RUSSELL, JULIE","0","6000","0",,"R3","1","Sherwood Park","7520558003",,"59","8420364",,,,,,"
+,  
+(53.52920913, -113.30239188)",,,"AB",,"Strathcona County","110682","111703","151675","2022-06-21T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10570391","11460","24103","1","Single Detached Dwelling","53.52920913","-113.30239188"
+"2022-03-18T00:00:00.000","2022-09-08T00:00:00.000","2022-0160-B","121 RANCHER RD","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","DAYTONA HOMES INC","2775","227500","1",,"ALD,PR,PC,AD,PU","5","Rural","3202101004","1A","1","0526143","NE","2","53","22","4","
+,  
+(53.55230446, -113.13471398)",,,"AB",,"Strathcona County","110682","111706","151675","2022-03-01T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10401187","253844","2992031","1","Single Detached Dwelling","53.55230446","-113.13471398"
+"2022-09-08T00:00:00.000","2022-09-08T00:00:00.000","2022-0865-B","27 52343 RNG RD 211","Basement Development",,,"In Progress - Inspection","O'Dell, Michael/Kim","0","13200","0",,"RH","7","Rural","2114736008","2","4","4640KS","W","24","52","21","4","
+,  
+(53.50008598, -112.96852591)",,,"AB",,"Strathcona County",,,"3083","2022-09-07T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10687342","19726","5059","1",,"53.50008598","-112.96852591"
+"2022-06-01T00:00:00.000","2022-09-09T00:00:00.000","2022-0482-B","74 RYBURY CT","New Single Family Dwelling.","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Kimberley Construction Management","3139","548000","0",,"R1C","3","Rural","9007038003","38","7","1822663","NE","22","52","23","4","
+,  
+(53.50705431, -113.30491885)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-24T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10522054","251416","8688655","1","Single Detached Dwelling","53.50705431","-113.30491885"
+"2017-11-16T00:00:00.000","2022-08-15T00:00:00.000","2017-1257-B","186 52327 RNG RD 233","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Metanis Holdings Ltd., Eyman","6418","800000","1",,"RE","6","Rural","2322760903","9","6","1721060","SW","22","52","23","4","
+,  
+(53.49962923, -113.31134489)",,,"AB",,"Strathcona County","110682","111706","151675","2017-10-24T00:00:00.000","2017-01-01T00:00:00.000","2017-12-01T00:00:00.000","2017","12",,"1028","Building Permit","NULL","8261085","250359","7940831","1","Single Detached Dwelling","53.49962923","-113.31134489"
+"2022-08-15T00:00:00.000","2022-08-15T00:00:00.000","2022-0784-B","39, 301 PALISADES WY","Tenant improvement - building envelope repair","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Shamrock Building Services (Not Webactive)","0","70000","3",,"R3","1","Sherwood Park","8530433001",,"30","1224728","NE","3","53","23","4","
+,  
+(53.55495575, -113.29679417)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-11T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10647386","116262","6831667","1","Multi-Family Housing","53.55495575","-113.29679417"
+"2022-06-29T00:00:00.000","2022-08-15T00:00:00.000","2022-0524-B","81 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Pacesetter Homes","4076","684500","1",,"R1C","4","Sherwood Park","8153013013","13","153","2122842","NE","12","53","23","4","
+,  
+(53.56545852, -113.24910094)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-01T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10536873","253007","10339783","1","Single Detached Dwelling","53.56545852","-113.24910094"
+"2022-08-15T00:00:00.000","2022-08-15T00:00:00.000","2022-0794-B","409 22550 TWP RD 522","Basement Development - close-in basement walkout door","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","HILDEBRAND, JIM & VICTORIA","0","10000","0",,"RCL","6","Rural","2218706006","4","1","2224TR","SW","18","52","22","4","
+,  
+(53.48645204, -113.24294348)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-12T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10650099","20841","9067","1","Single Detached Dwelling","53.48645204","-113.24294348"
+"2021-05-18T00:00:00.000","2022-09-09T00:00:00.000","2021-0406-B","132 52327 RNG RD 233","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Unified Investments Corp.","5994","700000","1",,"RE","6","Rural","2322710907","9","1","1721060","SW","22","52","23","4","
+,  
+(53.50160734, -113.31630753)",,,"AB",,"Strathcona County","110682","111706","3083","2021-04-28T00:00:00.000","2021-01-01T00:00:00.000","2021-04-01T00:00:00.000","2021","4",,"1028","Building Permit","NULL","9972996","250368","7940795","1","Single Detached Dwelling","53.50160734","-113.31630753"
+"2022-03-16T00:00:00.000","2022-09-08T00:00:00.000","2022-0167-B","301 52320 RNG RD 231","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Bains, Gurnak","8546","1000000","0",,"RCH","6","Rural","2323524202","42","2","1520954","SE","23","52","23","4","
+,  
+(53.50019568, -113.27342199)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-02T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10403127","194465","7160989","1","Single Detached Dwelling","53.50019568","-113.27342199"
+"2022-07-22T00:00:00.000","2022-09-01T00:00:00.000","2022-0693-B","21557 WYE RD","New Detached Garage (add dimensions)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Taylor, William & Colleen","0","250000","0",,"AG","7","Rural","2119303002","C",,"370RS","NW","19","52","21","4","
+,  
+(53.51113506, -113.09102995)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-19T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10613184","18738","6045","1","Storage Building","53.51113506","-113.09102995"
+"2022-03-15T00:00:00.000","2022-09-08T00:00:00.000","2022-0129-B","35 51401 RNG RD 221","Aircraft Hanger","COMMERCIAL","NEW CONSTRUCTION","In Progress - Inspection","Hollymar Homes Inc.","395","350000","0",,"DC6 ""B""","7","Rural","1225603906",,"35A","1721695","SE","26","51","22","4","
+,  
+(53.4268818, -113.12271308)",,,"AB",,"Strathcona County","110678","111706","3083","2022-02-17T00:00:00.000","2022-01-01T00:00:00.000","2022-01-01T00:00:00.000","2022","1",,"1028","Building Permit","NULL","10388695","28654","8071755","1","Aircraft Hangars","53.4268818","-113.12271308"
+"2022-01-11T00:00:00.000","2022-09-08T00:00:00.000","2021-1253-B","179 52327 RNG RD 233","New Single Detached Dwelling & Secondary Suite","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Carson Built Inc","5532","1200000","1",,"RE","6","Rural","2322751600","16","5","1721060","SW","22","52","23","4","
+,  
+(53.50029115, -113.31119958)",,,"AB",,"Strathcona County","110682","111706","3083","2021-12-22T00:00:00.000","2021-01-01T00:00:00.000","2021-12-01T00:00:00.000","2021","12",,"1028","Building Permit","NULL","10326931","250357","7940820","1","Single Detached Dwelling","53.50029115","-113.31119958"
+"2022-09-08T00:00:00.000","2022-09-08T00:00:00.000","2022-0831-B","25 53046 RNG RD 222","New Detached Garage (24' x 42')","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Roppo, Michele","0","50000","0",,"RCL","5","Rural","3203108000","3","1","4336RS","NE","3","53","22","4","
+,  
+(53.54902184, -113.15320935)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-29T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10672956","3561","2585","1","Shops","53.54902184","-113.15320935"
+"2022-04-06T00:00:00.000","2022-09-09T00:00:00.000","2022-0250-B","161 RANCHER RD","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","DAYTONA HOMES INC","1897","238700","1",,"ALD","5","Rural","3211784904","49","8","2220391","NE","2","53","22","4","
+,  
+(53.55130019, -113.1347185)",,,"AB",,"Strathcona County","110682","111706","3083","2022-03-24T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10433128","253854","10412452","1","Single Detached Dwelling","53.55130019","-113.1347185"
+"2022-08-09T00:00:00.000","2022-08-24T00:00:00.000","2022-0776-B","29 SUMAC LN","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","1610611 Alberta Ltd.","0","46000","0",,"R1C","4","Sherwood Park","8143049003","49","143","1620965","NE","12","53","23","4","
+,  
+(53.56319816, -113.2562839)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-08T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10640842","220604","7557407","1","Single Detached Dwelling","53.56319816","-113.2562839"
+"2021-10-01T00:00:00.000","2022-09-08T00:00:00.000","2021-0806-B","54450 RNG RD 204","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Erickson, George & Kerri","4761","425000","1",,"AG","5","Rural","4029104009","D",,"3818TR","NE","29","54","20","4","
+,  
+(53.69506849, -112.90298866)",,,"AB",,"Strathcona County","110682","111706","3083","2021-08-12T00:00:00.000","2021-01-01T00:00:00.000","2021-08-01T00:00:00.000","2021","8",,"1028","Building Permit","NULL","10147021","763","13600","1","Single Detached Dwelling","53.69506849","-112.90298866"
+"2022-05-26T00:00:00.000","2022-09-08T00:00:00.000","2022-0443-B","828, 8005 EMERALD DR","Raymond James Ltd. - Tenant Improvement","COMMERCIAL","TENANT IMPROVEMENT","Approved - File Closed","SEAGATE CONTRACT MANAGEMENT","1527","135000","0",,"UV2 ""Area VII""","4","Sherwood Park","8155008008",,"2","1022195","NE","11","53","23","4","
+,  
+(53.56579429, -113.27392825)",,,"AB",,"Strathcona County","110678","111709","151675","2022-05-11T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10505573","200873","4999165","1","Offices","53.56579429","-113.27392825"
+"2022-08-29T00:00:00.000","2022-09-08T00:00:00.000","2022-0814-B","254 52258 RNG RD 231","To Construct a Sunroom","RESIDENTIAL","ADDITION","Approved - File Closed","SCHMIDT, GERARD & DIANNE","0","9500","0",,"RCL","6","Rural","2314110906","9","1","9222370","NE","14","52","23","4","
+,  
+(53.49425204, -113.27649211)",,,"AB",,"Strathcona County","110682","111702","151675","2022-08-22T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10660840","20361","10843","1","Single Detached Dwelling","53.49425204","-113.27649211"
+"2022-05-18T00:00:00.000","2022-09-08T00:00:00.000","2022-0367-B","1415 90 AV","Renovation ""Group D"" and expansion into Bay #1 - main floor & second floor offices.","INDUSTRIAL","ALTERATIONS","Approved - File Closed","Goldbar Contractors Inc.","2307","19000","0",,"IM","1","Sherwood Park","2329321106","11","2","0926453","NW","29","52","23","4","
+,  
+(53.52299199, -113.36309014)",,,"AB",,"Strathcona County","110679","111703","151675","2022-04-26T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10478624","62054","4632369","1","Offices","53.52299199","-113.36309014"
+"2022-08-26T00:00:00.000","2022-09-08T00:00:00.000","2022-0827-B","565 VICTORIA CRT","To Construct a New Shed (10' x 12')","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Irving, Chad and Sarah","0","11000","0",,"R1A","1","Sherwood Park","7184025000","25","184","7923141","SE","28","52","23","4","
+,  
+(53.51851274, -113.32833506)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-26T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10670376","15873","21642","1","Storage Building","53.51851274","-113.32833506"
+"2022-05-25T00:00:00.000","2022-08-30T00:00:00.000","2022-0413-B","118 BARBURY CL","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Launch Homes Inc.","2531","260000","1",,"UV4 ""Area 5""","3","Sherwood Park","9008020009","20","8","1620820","NE","22","52","23","4","
+,  
+(53.50898058, -113.30088477)",,,"AB",,"Strathcona County","110682","111706","3083","2022-05-06T00:00:00.000","2022-01-01T00:00:00.000","2022-04-01T00:00:00.000","2022","4",,"1028","Building Permit","NULL","10497403","220252","7544330","1","Single Detached Dwelling","53.50898058","-113.30088477"
+"2022-07-12T00:00:00.000","2022-08-26T00:00:00.000","2022-0619-B","229 52117 RNG RD 220","New Detached Garage (36'x40' Garage W/ 12'x36' carport)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","KJOSNESS, Ken","0","85000","0",,"RCL","7","Rural","2107710002","8","1","7821020","SW","7","52","21","4","
+,  
+(53.47209475, -113.08807054)",,,"AB",,"Strathcona County","110682","111706","3083","2022-06-24T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10576317","21333","4728","1","Storage Building","53.47209475","-113.08807054"
+"2021-10-19T00:00:00.000","2022-09-09T00:00:00.000","2021-1022-B","10 TAYLOR PL","Basement Development","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Penner, Brandon","780","20000","0",,"R1C","5","Rural","3211780305","3","8","1723357","NW","2","53","22","4","
+,  
+(53.55401566, -113.13759386)",,,"AB",,"Strathcona County","110682","111703","151675","2021-10-18T00:00:00.000","2021-01-01T00:00:00.000","2021-10-01T00:00:00.000","2021","10",,"1028","Building Permit","NULL","10240063","251036","8315958","1","Single Detached Dwelling","53.55401566","-113.13759386"
+"2019-04-11T00:00:00.000","2022-08-30T00:00:00.000","2019-0285-B","22 HIGHLAND CR","NULL","RESIDENTIAL","ALTERATIONS","Cancelled","1853491 Alberta Ltd. o/a Alair Homes","0","180000","0",,"R1A","8","Sherwood Park","7305006000","6","305","9022032","NE","36","52","23","4","
+,  
+(53.53547431, -113.24883935)",,,"AB",,"Strathcona County","110682","111703","1969","2019-04-11T00:00:00.000","2019-01-01T00:00:00.000","2019-02-01T00:00:00.000","2019","2",,"1028","Building Permit","NULL","8895264","8236","23250","1","Single Detached Dwelling","53.53547431","-113.24883935"
+"2022-02-24T00:00:00.000","2022-08-24T00:00:00.000","2022-0049-B","14 SEDUM WY","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Jayman Built - Connor Regan","3064","577000","1",,"R1C","4","Sherwood Park","8129236003","236","129","2122842",,,,,,"
+,  
+(53.56609882, -113.25073507)",,,"AB",,"Strathcona County","110682","111706","3083","2022-01-20T00:00:00.000","2022-01-01T00:00:00.000",,"2022","0",,"1028","Building Permit","NULL","10351867","253026","10339743","1","Single Detached Dwelling","53.56609882","-113.25073507"
+"2022-08-30T00:00:00.000","2022-08-30T00:00:00.000","2022-0834-B","158 52470 RNG RD 221","To Install a Wood Burning Fireplace.","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","FREY, WAYNE","0","1200","0",,"RCL","5","Rural","2226102008","3","1","7520322","NE","26","52","22","4","
+,  
+(53.52089798, -113.13405519)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-29T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10673351","14332","2397","1","Single Detached Dwelling","53.52089798","-113.13405519"
+"2022-06-28T00:00:00.000","2022-09-08T00:00:00.000","2022-0628-B","198 MEADOWVIEW DR","Renovation - Basement and 2nd Floor","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","KBM Precision Renovations","0","85000","0",,"R1A","4","Sherwood Park","8012128003","128","12","9322094",,,,,,"
+,  
+(53.54749556, -113.25302579)",,,"AB",,"Strathcona County","110682","111703","3083","2022-06-27T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10578533","4213","24941","1","Single Detached Dwelling","53.54749556","-113.25302579"
+"2022-09-08T00:00:00.000","2022-09-08T00:00:00.000","2022-0866-B","16 CRANE RD","Basement Development",,,"In Progress - Inspection","Soroka, Ryne","0","6000","0",,"R1A","3","Sherwood Park","7050008007","8","50","4411MC","NW","26","52","23","4","
+,  
+(53.5220767, -113.2950371)",,,"AB",,"Strathcona County",,,"3083","2022-09-07T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10687615","14312","16384","1",,"53.5220767","-113.2950371"
+"2022-04-21T00:00:00.000","2022-08-30T00:00:00.000","2022-0334-B","23, 15 RITCHIE WY","Basement Development","RESIDENTIAL","ALTERATIONS","Approved - File Closed","Burpee, Robbie","0","20000","0",,"R3","8","Sherwood Park","7520642301",,"23","9321136","SW","25","52","23","4","
+,  
+(53.51527756, -113.27009093)",,,"AB",,"Strathcona County","110682","111703","151675","2022-04-20T00:00:00.000","2022-01-01T00:00:00.000","2022-03-01T00:00:00.000","2022","3",,"1028","Building Permit","NULL","10468357","17472","24321","1","Single Detached Dwelling","53.51527756","-113.27009093"
+"2020-12-23T00:00:00.000","2022-09-09T00:00:00.000","2020-1160-B","65 GALVESTON AV","Main Floor Bathroom Renovation","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Buckmaster, Glenn","0","7000","0",,"R1A","2","Sherwood Park","7147058007","58","147","5909RS",,,,,,"
+,  
+(53.53230871, -113.28954673)",,,"AB",,"Strathcona County","110682","111703","3083","2020-12-22T00:00:00.000","2020-01-01T00:00:00.000","2020-11-01T00:00:00.000","2020","11",,"1028","Building Permit","NULL","9826787","9863","19975","1","Single Detached Dwelling","53.53230871","-113.28954673"
+"2022-04-20T00:00:00.000","2022-09-08T00:00:00.000","2022-0290-B","185 RANCHER RD","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Coventry Homes Inc","4183","594000","1",,"ALD","5","Rural","3211785501","55","8","2220391","NE","2","53","22","4","
+,  
+(53.55060775, -113.13470707)",,,"AB",,"Strathcona County","110682","111706","3083","2022-04-06T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10452035","253860","10412458","1","Single Detached Dwelling","53.55060775","-113.13470707"
+"2022-08-15T00:00:00.000","2022-08-15T00:00:00.000","2022-0792-B","1114 SANDSTONE BLVD","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Eros, Kyle","0","15000","0",,"R1C","4","Sherwood Park","8129076001","76","129","1620965","NE","12","53","23","4","
+,  
+(53.56351564, -113.2581152)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-12T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10649825","220593","7557448","1","Single Detached Dwelling","53.56351564","-113.2581152"
+"2022-08-15T00:00:00.000","2022-08-15T00:00:00.000","2022-0782-B","26, 301 PALISADES WY","Tenant improvement - building envelope repair","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Shamrock Building Services (Not Webactive)","0","70000","3",,"R3","1","Sherwood Park","8530434806",,"48","1224728","NE","3","53","23","4","
+,  
+(53.55462469, -113.29698389)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-11T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10647169","116213","7097684","1","Multi-Family Housing","53.55462469","-113.29698389"
+"2021-12-09T00:00:00.000","2022-09-08T00:00:00.000","2021-1159-B","49 52225 RNG RD 232","Garden Suite","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Sidhu Homes","0","200000","0",,"RCL","6","Rural","2314712106","21",,"8520716","SW","14","52","23","4","
+,  
+(53.48700896, -113.29002671)",,,"AB",,"Strathcona County","110682","111706","3083","2021-11-25T00:00:00.000","2021-01-01T00:00:00.000","2021-11-01T00:00:00.000","2021","11",,"1028","Building Permit","NULL","10292718","20820","10952","1","Storage Building","53.48700896","-113.29002671"
+"2022-08-16T00:00:00.000","2022-08-16T00:00:00.000","2022-0789-B","26 53279 RNG RD 225","Solar panel installations - Dwelling","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","2083461 Alberta Ltd o/a BLDG Electric","0","17000","0",,"RCL","5","Rural","3217320005","23","1","7620124","NW","17","53","22","4","
+,  
+(53.58418244, -113.21889661)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-12T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10648883","1722","12852","1","Single Detached Dwelling","53.58418244","-113.21889661"
+"2022-08-08T00:00:00.000","2022-09-09T00:00:00.000","2022-0761-B","22 DEWBERRY PL","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Sterling, Jordan","0","4000","0",,"R1A","4","Sherwood Park","8001032005","12","1","8821942","SE","1","53","23","4","
+,  
+(53.54154657, -113.25682006)",,,"AB",,"Strathcona County","110682","111703","3083","2022-08-05T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10637287","5559","24358","1","Single Detached Dwelling","53.54154657","-113.25682006"
+"2020-05-28T00:00:00.000","2022-09-08T00:00:00.000","2020-0344-B","1048 PARKER DR","To Construct a Sunroom","RESIDENTIAL","ADDITION","Approved - File Closed","Polednik, Marianne & Elden, James","0","35000","0",,"R1A","1","Sherwood Park","7112009001","9","112","1961RS",,,,,,"
+,  
+(53.52525617, -113.33221026)",,,"AB",,"Strathcona County","110682","111702","151675","2020-05-15T00:00:00.000","2020-01-01T00:00:00.000","2020-03-01T00:00:00.000","2020","3",,"1028","Building Permit","NULL","9518074","13075","18727","1","Single Detached Dwelling","53.52525617","-113.33221026"
+"2022-08-30T00:00:00.000","2022-08-30T00:00:00.000","2022-0832-B","210 SEDUM WY","Demolition - Single Dwelling","RESIDENTIAL","DEMOLITION","In Progress - Inspection","Pacesetter Homes Ltd. - Krizel Vargas","0","20000","0",,"R1C","4","Sherwood Park","8129285001","285","129","2122765",,,,,,"
+,  
+(53.56407486, -113.25033962)",,,"AB",,"Strathcona County","110682","111704","3083","2022-08-29T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10673194","252981","10309954","1","Single Detached Dwelling","53.56407486","-113.25033962"
+"2020-11-09T00:00:00.000","2022-08-30T00:00:00.000","2020-1003-B","145 53046 RNG RD 222","Detached Shop 40' x 60'","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","Bunting, Don","0","125000","0",,"RCL","5","Rural","3203118009","13","1","4336RS","NE","3","53","22","4","
+,  
+(53.55430787, -113.15845203)",,,"AB",,"Strathcona County","110682","111706","151675","2020-10-30T00:00:00.000","2020-01-01T00:00:00.000","2020-10-01T00:00:00.000","2020","10",,"1028","Building Permit","NULL","9766364","2238","2595","1","Single Detached Dwelling","53.55430787","-113.15845203"
+"2022-09-02T00:00:00.000","2022-09-08T00:00:00.000","2022-0853-B","317 ANNANDALE CR","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","Martin, David","0","20000","0",,"R1C","4","Sherwood Park","8173059003","59","173","1822414","SW","11","53","23","4","
+,  
+(53.55719059, -113.28898393)",,,"AB",,"Strathcona County","110682","111703","3083","2022-09-02T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10683204","251335","8680405","1","Single Detached Dwelling","53.55719059","-113.28898393"
+"2021-06-14T00:00:00.000","2022-08-30T00:00:00.000","2021-0605-B","13 HARVEST CR","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","FEARON, BRIAN & DEBBIE","4069","736000","1",,"RE","5","Rural","3211750104","1","5","1520890","SW","11","53","22","4","
+,  
+(53.55965992, -113.14056423)",,,"AB",,"Strathcona County","110682","111706","151675","2021-06-11T00:00:00.000","2021-01-01T00:00:00.000","2021-06-01T00:00:00.000","2021","6",,"1028","Building Permit","NULL","10052657","194064","7160967","1","Single Detached Dwelling","53.55965992","-113.14056423"
+"2022-09-09T00:00:00.000","2022-09-09T00:00:00.000","2022-0747-B","521 52327 RNG RD 233","New Single Detached Dwelling - 4933 sqft 2-storey house with 4 car garage, walkout basement, basement development, and decks.","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Sandhu, Jaswant","0","1200000","1",,"RE","6","Rural","2322745304","53","4","2122518","SW","22","52","23","4","
+,  
+(53.49872945, -113.3104546)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-29T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10630283","252914","10290525","1","Single Detached Dwelling","53.49872945","-113.3104546"
+"2022-09-08T00:00:00.000","2022-09-09T00:00:00.000","2019-0935-B","61 52465 RNG RD 213","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","Approved - File Closed","BAKER, PETER","4500","370000","1",,"RCL","7","Rural","2127306005","6","1","8121529","SW","34","52","21","4","
+,  
+(53.52068144, -113.02351872)",,,"AB",,"Strathcona County","110682","111706","151675","2019-09-27T00:00:00.000","2019-01-01T00:00:00.000","2019-09-01T00:00:00.000","2019","9",,"1028","Building Permit","NULL","9252861","13954","7781","1","Single Detached Dwelling","53.52068144","-113.02351872"
+"2021-01-27T00:00:00.000","2022-08-16T00:00:00.000","2020-1091-B","20 CHALLENGER CR","""Silent Aire Limited Partnership"" - Tenant improvements","INDUSTRIAL","TENANT IMPROVEMENT","Approved - File Closed","Voshell Architecture and Design, Inc","3698","330000","0",,"IM","4","Sherwood Park","3314712101","21","1","0422540","SW","14","53","23","4","
+,  
+(53.57824719, -113.29350997)",,,"AB",,"Strathcona County","110679","111709","151675","2020-11-26T00:00:00.000","2020-01-01T00:00:00.000","2020-10-01T00:00:00.000","2020","10",,"1028","Building Permit","NULL","9796967","30877","2212020","1","Offices","53.57824719","-113.29350997"
+"2022-08-16T00:00:00.000","2022-08-16T00:00:00.000","2022-0649-B","84 CLEARWATER LN","To Construct a Sunroom","RESIDENTIAL","ADDITION","In Progress - Inspection","Permitech","0","8000","0",,"DC41","2","Sherwood Park","8067021001","21","67","0524808","SE","2","53","23","4","
+,  
+(53.5447933, -113.27870801)",,,"AB",,"Strathcona County","110682","111702","3083","2022-06-30T00:00:00.000","2022-01-01T00:00:00.000","2022-06-01T00:00:00.000","2022","6",,"1028","Building Permit","NULL","10586192","33333","2915314","1","Single Detached Dwelling","53.5447933","-113.27870801"
+"2022-08-05T00:00:00.000","2022-09-08T00:00:00.000","2022-0717-B","6 HAYFIELD GROVE","New Single Detached Dwelling","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","H2 Homes Ltd","4156","580000","1",,"RE","5","Rural","3211760619","6","6","1723309","SW","11","53","22","4","
+,  
+(53.56145345, -113.13938597)",,,"AB",,"Strathcona County","110682","111706","3083","2022-07-25T00:00:00.000","2022-01-01T00:00:00.000","2022-07-01T00:00:00.000","2022","7",,"1028","Building Permit","NULL","10622048","251007","8315937","1","Single Detached Dwelling","53.56145345","-113.13938597"
+"2022-08-30T00:00:00.000","2022-08-30T00:00:00.000","2022-0805-B","101 GRAHAM CRT","New Detached Garage (add dimensions)","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Sarchuk, Wayne","728","30000","0",,"R1A","2","Sherwood Park","7135015001","15","135","5558RS","NW","35","52","23","4","
+,  
+(53.5404561, -113.2903503)",,,"AB",,"Strathcona County","110682","111706","3083","2022-08-17T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10655139","5840","19487","1","Workshops","53.5404561","-113.2903503"
+"2021-10-25T00:00:00.000","2022-08-16T00:00:00.000","2021-1040-B","23 NEWCASTLE RD","Basement Development","RESIDENTIAL","ALTERATIONS","In Progress - Inspection","FOOTE, Mark","0","8500","0",,"R1B","3","Sherwood Park","7218046009","46","218","0224537","SE","26","52","23","4","
+,  
+(53.5138028, -113.2789785)",,,"AB",,"Strathcona County","110682","111703","3083","2021-10-25T00:00:00.000","2021-01-01T00:00:00.000","2021-10-01T00:00:00.000","2021","10",,"1028","Building Permit","NULL","10249698","27524","1408796","1","Single Detached Dwelling","53.5138028","-113.2789785"
+"2022-06-17T00:00:00.000","2022-09-08T00:00:00.000","2022-0537-B","1009 HEARTHSTONE BLVD","Temporary Residential Sales Center","COMMERCIAL","NEW CONSTRUCTION","In Progress - Inspection","Mattamy (Sherwood Park) Limited / Mattamy Homes","195","250000","0",,"R6,PC,AD","4","Sherwood Park","3324510109","1","1","1922344","SE","24","53","23","4","
+,  
+(53.5912791, -113.25045491)",,,"AB",,"Strathcona County","110678","111706","3083","2022-06-03T00:00:00.000","2022-01-01T00:00:00.000","2022-05-01T00:00:00.000","2022","5",,"1028","Building Permit","NULL","10542054","253900","9213111","1","Offices","53.5912791","-113.25045491"
+"2021-12-03T00:00:00.000","2022-08-30T00:00:00.000","2021-1158-B","49 52225 RNG RD 232","New Single Detached Dwelling with Secondary Suite","RESIDENTIAL","NEW CONSTRUCTION","In Progress - Inspection","Sidhu Homes","13316","1300000","1",,"RCL","6","Rural","2314712106","21",,"8520716","SW","14","52","23","4","
+,  
+(53.48700896, -113.29002671)",,,"AB",,"Strathcona County","110682","111706","3083","2021-11-25T00:00:00.000","2021-01-01T00:00:00.000","2021-11-01T00:00:00.000","2021","11",,"1028","Building Permit","NULL","10292631","20820","10952","1","Single Detached Dwelling","53.48700896","-113.29002671"
+"2022-04-11T00:00:00.000","2022-08-17T00:00:00.000","2022-0263-B","500, 7000 EMERALD DR","?Blowers & Grafton? ? Tenant Improvement","COMMERCIAL","TENANT IMPROVEMENT","In Progress - Inspection","Aminzadah, Samim","564","500000","0",,"DC72 ""Area I""","4","Sherwood Park","8165003008","3","165","1121650","NE","11","53","23","4","
+,  
+(53.56814759, -113.28154385)",,,"AB",,"Strathcona County","110678","111709","3083","2022-03-29T00:00:00.000","2022-01-01T00:00:00.000","2022-02-01T00:00:00.000","2022","2",,"1028","Building Permit","NULL","10438290","70641","5489159","1","Restaurants","53.56814759","-113.28154385"
+"2021-12-21T00:00:00.000","2022-08-17T00:00:00.000","2021-1244-B","425 CHURCHILL CR","Basement Development","RESIDENTIAL","ALTERATIONS","Approved - File Closed","CWC Developments Ltd.","0","60000","0",,"R1C","2","Sherwood Park","8118011004","11","118","1124934","SE","11","53","23","4","
+,  
+(53.55612851, -113.27966597)",,,"AB",,"Strathcona County","110682","111703","151675","2021-12-20T00:00:00.000","2021-01-01T00:00:00.000","2021-12-01T00:00:00.000","2021","12",,"1028","Building Permit","NULL","10322975","80686","5889972","1","Single Detached Dwelling","53.55612851","-113.27966597"
+"2022-09-01T00:00:00.000","2022-09-01T00:00:00.000","2022-0807-B","51 KASKA RD","NULL","COMMERCIAL","ALTERATIONS","In Progress - Inspection","Naylor Architect","213","120000","0",,"C5","1","Sherwood Park","7000380001","10","3","7822632","NE","33","52","23","4","
+,  
+(53.53899857, -113.32153142)",,,"AB",,"Strathcona County","110678","111703","3083","2022-08-17T00:00:00.000","2022-01-01T00:00:00.000","2022-08-01T00:00:00.000","2022","8",,"1028","Building Permit","NULL","10655456","6692","14860","1","Restaurants","53.53899857","-113.32153142"

@@ -1,0 +1,4 @@
+{
+  "error" : true,
+  "message" : "There is a problem connecting to ESRI service at https://gis1.hartford.gov/arcgis/services/HartfordFamilyResourcesInventoryForSocrata/MapServer: The server sent HTTP status code 499: null"
+}

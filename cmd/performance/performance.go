@@ -42,6 +42,7 @@ func main() {
 	boring := mapset.NewSet[string]()
 	boring.Add("BLANK")
 	boring.Add("BLANKORNULL")
+	boring.Add("GROUPING")
 	boring.Add("SIGNED")
 	boring.Add("SIGNED,GROUPING")
 	boring.Add("SIGNED_TRAILING")

@@ -1,0 +1,1001 @@
+"unique_key","account","opendate","complaint_type","descriptor","zip","borough","city","council_dist","community_board","closedate"
+"NYCC06533570","NYCC06","2022-09-12T00:00:00.000","Parks","Parks Permits and Applications","10023","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC46514662","NYCC46","2022-09-12T00:00:00.000","Finance","SCHE","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-12T00:00:00.000"
+"NYCC14511353","NYCC14","2022-09-12T00:00:00.000","Economy/Jobs","Workforce Dev./Training","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-12T00:00:00.000"
+"NYCC45507686","NYCC45","2022-09-12T00:00:00.000","Housing and Buildings","Emergency Repairs","11210","Brooklyn","Brooklyn","NYCC45","17 Brooklyn",
+"NYCC38511603","NYCC38","2022-09-12T00:00:00.000","Housing and Buildings","NYCHA Misc.",,,,," ",
+"NYCC06533561","NYCC06","2022-09-12T00:00:00.000","Economy/Jobs","Seeking Employment","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533575","NYCC06","2022-09-12T00:00:00.000","Cultural Affairs","Community Based Organization",,,"New York",," ",
+"NYCC12501884","NYCC12","2022-09-12T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","10475","Bronx","Bronx","NYCC12","10 Bronx",
+"NYCC50535985","NYCC50","2022-09-12T00:00:00.000","Transportation","Street Markings","10314","Staten Island","Staten Island","NYCC50","01 Staten Island",
+"NYCC05553336","NYCC05","2022-09-12T00:00:00.000","Health",,"10075","Manhattan","New York","NYCC05","08 Manhattan",
+"NYCC10511093","NYCC10","2022-09-12T00:00:00.000","Finance","SCRIE","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-12T00:00:00.000"
+"NYCC14511356","NYCC14","2022-09-12T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,,"Bronx",,,"2022-09-12T00:00:00.000"
+"NYCC16502924","NYCC16","2022-09-12T00:00:00.000","Housing and Buildings",,"10456","Bronx","Bronx","NYCC17","01 Bronx",
+"NYCC06533576","NYCC06","2022-09-12T00:00:00.000","General Welfare","Homeless Shelter - DHS","10025","Manhattan","New York","NYCC07","07 Manhattan","2022-09-12T00:00:00.000"
+"NYCC38511607","NYCC38","2022-09-12T00:00:00.000","Consumer Affairs","Home Improvement Issues","11220","Brooklyn","Brooklyn","NYCC38","07 Brooklyn",
+"NYCC38511596","NYCC38","2022-09-12T00:00:00.000","General Welfare","Food Stamps",,,,," ","2022-09-12T00:00:00.000"
+"NYCC14511355","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","NYCHA Annual Inspection","10468","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC48530287","NYCC48","2022-09-12T00:00:00.000","Housing and Buildings","Carbon Monoxide And/",,,,," ","2022-09-12T00:00:00.000"
+"NYCC48530284","NYCC48","2022-09-12T00:00:00.000","Education","Student Transportation","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC14511347","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","10452","Bronx","Bronx","NYCC14","04 Bronx",
+"NYCC43510056","NYCC43","2022-09-12T00:00:00.000","Parks","Dead Tree Removal","11209",,"Brooklyn",," ","2022-09-12T00:00:00.000"
+"NYCC06533558","NYCC06","2022-09-12T00:00:00.000",,,"10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC38511599","NYCC38","2022-09-12T00:00:00.000","General Welfare","Child Support",,,"Brooklyn",," ","2022-09-12T00:00:00.000"
+"NYCC46514665","NYCC46","2022-09-12T00:00:00.000","Parks","Park Maintenance","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC02530484","NYCC02","2022-09-12T00:00:00.000","Legal Services","Housing","10010","Manhattan","New York","NYCC02","06 Manhattan",
+"NYCC19511426","NYCC19","2022-09-12T00:00:00.000","Housing and Buildings",,"11362","Queens","Little Neck","NYCC23","11 Queens",
+"NYCC48530288","NYCC48","2022-09-12T00:00:00.000","Quality of Life","Noise - Other","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC47507878","NYCC47","2022-09-12T00:00:00.000","Immigration",,"11223","Brooklyn","Brooklyn","NYCC47","13 Brooklyn",
+"NYCC38511605","NYCC38","2022-09-12T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance",,,,," ",
+"NYCC45507687","NYCC45","2022-09-12T00:00:00.000","Immigration","Visas","11234","Brooklyn","Brooklyn","NYCC45","18 Brooklyn",
+"NYCC48530283","NYCC48","2022-09-12T00:00:00.000",,,"11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn",
+"NYCC23519186","NYCC23","2022-09-12T00:00:00.000","Environment","Open Hydrants","11362","Queens","Little Neck","NYCC23","11 Queens",
+"NYCC06533569","NYCC06","2022-09-12T00:00:00.000","Parks","Park Maintenance",,,"New York",," ",
+"NYCC38511592","NYCC38","2022-09-12T00:00:00.000","Transportation",,"11232","Brooklyn","Brooklyn","NYCC38","07 Brooklyn",
+"NYCC06533578","NYCC06","2022-09-12T00:00:00.000","Housing and Buildings","Maintenance","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533574","NYCC06","2022-09-12T00:00:00.000","Housing and Buildings","Cell Phone Towers",,,,," ",
+"NYCC46514661","NYCC46","2022-09-12T00:00:00.000",,,"11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC06533557","NYCC06","2022-09-12T00:00:00.000","Health",,"10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533568","NYCC06","2022-09-12T00:00:00.000","Finance","DRIE","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC48530282","NYCC48","2022-09-12T00:00:00.000","Sanitation","Illegal Dumping","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC50535978","NYCC50","2022-09-12T00:00:00.000","Parks","Park Maintenance","10314","Staten Island","Staten Island","NYCC50","01 Staten Island",
+"NYCC49512653","NYCC49","2022-09-12T00:00:00.000","Transportation",,"10303","Staten Island","Staten Island","NYCC49","01 Staten Island",
+"NYCC23519185","NYCC23","2022-09-12T00:00:00.000","Education","School Safety","11364","Queens","Oakland Gardens","NYCC23","11 Queens",
+"NYCC49512656","NYCC49","2022-09-12T00:00:00.000","Public Safety",,"10469","Bronx","Bronx","NYCC12","12 Bronx",
+"NYCC03555353","NYCC03","2022-09-12T00:00:00.000","Health",,"10011","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC14511348","NYCC14","2022-09-12T00:00:00.000","General Welfare","SSI and Social Security","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC10511091","NYCC10","2022-09-12T00:00:00.000","Housing and Buildings","NYCHA Misc.","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-12T00:00:00.000"
+"NYCC46514663","NYCC46","2022-09-12T00:00:00.000","Transportation","Speed Bump Request","11234",,"Brooklyn",," ",
+"NYCC06533567","NYCC06","2022-09-12T00:00:00.000","Finance","SCRIE","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-12T00:00:00.000"
+"NYCC23519190","NYCC23","2022-09-12T00:00:00.000","Public Safety",,"11364","Queens","Oakland Gardens","NYCC23","11 Queens",
+"NYCC38511595","NYCC38","2022-09-12T00:00:00.000","Immigration","U.S. Citizenship",,,"Bronx",," ","2022-09-12T00:00:00.000"
+"NYCC08508699","NYCC08","2022-09-12T00:00:00.000","General Welfare","Food Stamps","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC14511354","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","Rental Arrears","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC14511350","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","NYCHA New Application","10452","Bronx","Bronx","NYCC14","04 Bronx",
+"NYCC13509816","NYCC13","2022-09-12T00:00:00.000","Please choose an issue...",,"10456","Bronx","Bronx","NYCC16","04 Bronx",
+"NYCC38511598","NYCC38","2022-09-12T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,"2022-09-12T00:00:00.000"
+"NYCC27504289","NYCC27","2022-09-12T00:00:00.000","Utilities","Verizon","11412","Queens","Saint Albans","NYCC27","12 Queens",
+"NYCC38511604","NYCC38","2022-09-12T00:00:00.000","Economy/Jobs","Seeking Employment",,,,," ",
+"NYCC03555351","NYCC03","2022-09-12T00:00:00.000","Quality of Life","Adult Establishment","10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC32502723","NYCC32","2022-09-12T00:00:00.000","Economy/Jobs",,"11416",,"Queens",," ",
+"NYCC07508799","NYCC07","2022-09-12T00:00:00.000","Utilities","Con Edison","10031","Manhattan","New York","NYCC07","09 Manhattan",
+"NYCC45507685","NYCC45","2022-09-12T00:00:00.000","General Welfare","Public Assistance","11234","Brooklyn","Brooklyn","NYCC45","18 Brooklyn",
+"NYCC07508798","NYCC07","2022-09-12T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10031","Manhattan","New York","NYCC07","09 Manhattan","2022-09-12T00:00:00.000"
+"NYCC50535981","NYCC50","2022-09-12T00:00:00.000","General Welfare","Food Stamps","10305","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC08508695","NYCC08","2022-09-12T00:00:00.000","General Welfare","Food Stamps","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC14511351","NYCC14","2022-09-12T00:00:00.000","General Welfare","SSI and Social Security","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-09-12T00:00:00.000"
+"NYCC38511597","NYCC38","2022-09-12T00:00:00.000","General Welfare","SSI and Social Security",,,,," ","2022-09-12T00:00:00.000"
+"NYCC06533559","NYCC06","2022-09-12T00:00:00.000",,,,,"Ny",," ",
+"NYCC06533571","NYCC06","2022-09-12T00:00:00.000","Finance","SCRIE","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC50535984","NYCC50","2022-09-12T00:00:00.000","Utilities","Con Edison","10306","Staten Island","Staten Island","NYCC50","03 Staten Island","2022-09-12T00:00:00.000"
+"NYCC03555355","NYCC03","2022-09-12T00:00:00.000","Housing and Buildings",,"10014","Manhattan","New York","NYCC03","02 Manhattan",
+"NYCC08508698","NYCC08","2022-09-12T00:00:00.000","Transportation","Metrocard: Reduced Fare","10029","Manhattan","New York","NYCC08","11 Manhattan","2022-09-12T00:00:00.000"
+"NYCC48530286","NYCC48","2022-09-12T00:00:00.000","Housing and Buildings","Emergency Repairs","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn",
+"NYCC38511593","NYCC38","2022-09-12T00:00:00.000","Transportation",,"11232","Brooklyn","Brooklyn","NYCC38","07 Brooklyn",
+"NYCC14511357","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10463","Bronx","Bronx","NYCC11","08 Bronx",
+"NYCC06533555","NYCC06","2022-09-12T00:00:00.000","Housing and Buildings","Neighbor Dispute","10023","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC46514664","NYCC46","2022-09-12T00:00:00.000","Parks","Tree Planting/Pruning","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC19511427","NYCC19","2022-09-12T00:00:00.000","Economy/Jobs",,"11363",,"Queens",," ",
+"NYCC08508697","NYCC08","2022-09-12T00:00:00.000","Housing and Buildings","Rent Overcharges","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC21513122","NYCC21","2022-09-12T00:00:00.000","Public Safety",,"11369","Queens","East Elmhurst","NYCC21","03 Queens",
+"NYCC10511094","NYCC10","2022-09-12T00:00:00.000","Governmental Operations",,"10033","Manhattan","New York","NYCC10","12 Manhattan",
+"NYCC30513685","NYCC30","2022-09-12T00:00:00.000","Economy/Jobs",,"11378",,"Queens",," ",
+"NYCC10511088","NYCC10","2022-09-12T00:00:00.000","Civil Service and Labor","Employee Benefits and Retirement","10034","Manhattan","New York","NYCC10","12 Manhattan","2022-09-12T00:00:00.000"
+"NYCC10511089","NYCC10","2022-09-12T00:00:00.000","Housing and Buildings","Section 8","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-12T00:00:00.000"
+"NYCC23519188","NYCC23","2022-09-12T00:00:00.000","Utilities","Verizon","11423","Queens","Hollis","NYCC23","08 Queens",
+"NYCC49512654","NYCC49","2022-09-12T00:00:00.000","Public Safety",,"10469","Bronx","Bronx","NYCC12","12 Bronx",
+"NYCC14511344","NYCC14","2022-09-12T00:00:00.000","General Welfare","Public Assistance","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-12T00:00:00.000"
+"NYCC02530481","NYCC02","2022-09-12T00:00:00.000","Education","Student Transportation","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-12T00:00:00.000"
+"NYCC14511358","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","NYCHA New Application","10452","Bronx","Bronx","NYCC14","04 Bronx",
+"NYCC14511345","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","NYCHA New Application","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-09-12T00:00:00.000"
+"NYCC03555352","NYCC03","2022-09-12T00:00:00.000","Transportation",,"10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC23519189","NYCC23","2022-09-12T00:00:00.000","Education","Parent Involvement","11004","Queens","Glen Oaks","NYCC23","13 Queens",
+"NYCC50535980","NYCC50","2022-09-12T00:00:00.000","Civil Service and Labor","Employee Benefits and Retirement","10304","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC05553337","NYCC05","2022-09-12T00:00:00.000","Youth Services",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC32502724","NYCC32","2022-09-12T00:00:00.000","Aging",,"11414","Queens","Howard Beach","NYCC32","10 Queens",
+"NYCC02530485","NYCC02","2022-09-12T00:00:00.000","Public Safety","Police Precinct","10016","Manhattan","New York","NYCC02","05 Manhattan",
+"NYCC06533562","NYCC06","2022-09-12T00:00:00.000","Public Safety",,,,"Unknown","NYCC"," ",
+"NYCC10511092","NYCC10","2022-09-12T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-12T00:00:00.000"
+"NYCC27504288","NYCC27","2022-09-12T00:00:00.000","Housing and Buildings","Maintenance","11429","Queens","Queens Village","NYCC27","13 Queens",
+"NYCC06533556","NYCC06","2022-09-12T00:00:00.000",,,"10023","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC44522685","NYCC44","2022-09-12T00:00:00.000","Consumer Complaints",,"11230","Brooklyn","Brooklyn","NYCC44","14 Brooklyn",
+"NYCC14511343","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","Tenant Harassment","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC10511090","NYCC10","2022-09-12T00:00:00.000","Housing and Buildings","Section 8","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-12T00:00:00.000"
+"NYCC06533560","NYCC06","2022-09-12T00:00:00.000","Sanitation","E-WASTE","10023","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC48530289","NYCC48","2022-09-12T00:00:00.000","Housing and Buildings",,"11235",,"Brooklyn",," ",
+"NYCC50535983","NYCC50","2022-09-12T00:00:00.000","Parks","Dead Tree Removal","10314",,"Staten Island",," ",
+"NYCC50535982","NYCC50","2022-09-12T00:00:00.000","Parks","Tree Planting/Pruning","10314",,"Staten Island",," ",
+"NYCC51505969","NYCC51","2022-09-12T00:00:00.000","Education","Student Transportation","10312","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC30513686","NYCC30","2022-09-12T00:00:00.000","Education",,"11377","Queens","Woodside","NYCC30","02 Queens",
+"NYCC48530285","NYCC48","2022-09-12T00:00:00.000","Parks","Tree Planting/Pruning","11230","Brooklyn","Brooklyn","NYCC44","14 Brooklyn",
+"NYCC12501885","NYCC12","2022-09-12T00:00:00.000","Parks","Tree Planting/Pruning","10466","Bronx","Bronx","NYCC12","12 Bronx","2022-09-12T00:00:00.000"
+"NYCC03555350","NYCC03","2022-09-12T00:00:00.000","Education","School Zone","10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC14511346","NYCC14","2022-09-12T00:00:00.000","General Welfare","Food Stamps","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC51505972","NYCC51","2022-09-12T00:00:00.000","Transportation","Pedestrian Safety",,,"Staten Island",," ",
+"NYCC41501967","NYCC41","2022-09-12T00:00:00.000","Aging",,"11233","Brooklyn","Brooklyn","NYCC41","16 Brooklyn",
+"NYCC14511342","NYCC14","2022-09-12T00:00:00.000","General Welfare","Food Stamps","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-09-12T00:00:00.000"
+"NYCC03555349","NYCC03","2022-09-12T00:00:00.000","Housing and Buildings",,"10014","Manhattan","New York","NYCC03","02 Manhattan",
+"NYCC12501883","NYCC12","2022-09-12T00:00:00.000","Public Safety","Disorderly Group","10475","Bronx","Bronx","NYCC12","12 Bronx",
+"NYCC08508700","NYCC08","2022-09-12T00:00:00.000","Housing and Buildings","Rent Overcharges","10035","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC45507688","NYCC45","2022-09-12T00:00:00.000","Land Use and Zoning","CO-NAMING","11580",,"Valley Stream","NYCC"," ",
+"NYCC06533563","NYCC06","2022-09-12T00:00:00.000","Housing and Buildings","Unsanitary Condition","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC08508694","NYCC08","2022-09-12T00:00:00.000","General Welfare","Food Stamps","10035","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC51505973","NYCC51","2022-09-12T00:00:00.000","Transportation","Access-A-Ride","10309","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC51505971","NYCC51","2022-09-12T00:00:00.000","Transportation","Street Resurfacing","10308","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC27504290","NYCC27","2022-09-12T00:00:00.000","Finance","Budget Requests","11434","Queens","Jamaica","NYCC28","12 Queens",
+"NYCC49512655","NYCC49","2022-09-12T00:00:00.000","Housing and Buildings",,"10304","Staten Island","Staten Island","NYCC49","01 Staten Island",
+"NYCC50535979","NYCC50","2022-09-12T00:00:00.000","Transportation","Street Resurfacing","10306","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC51505970","NYCC51","2022-09-12T00:00:00.000","Transportation","Street Resurfacing","10308","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC38511600","NYCC38","2022-09-12T00:00:00.000","Parks","Park Maintenance",,,,," ","2022-09-12T00:00:00.000"
+"NYCC36502688","NYCC36","2022-09-12T00:00:00.000","Housing and Buildings",,"11216","Brooklyn","Brooklyn","NYCC36","03 Brooklyn",
+"NYCC14511349","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","Rent Stabilization","10468","Bronx","Bronx","NYCC14","07 Bronx",
+"NYCC14511352","NYCC14","2022-09-12T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-12T00:00:00.000"
+"NYCC03555356","NYCC03","2022-09-12T00:00:00.000","Transportation",,"10001","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC13509815","NYCC13","2022-09-11T00:00:00.000","Education",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC19511425","NYCC19","2022-09-11T00:00:00.000","Youth Services",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC21513119","NYCC21","2022-09-11T00:00:00.000","Housing and Buildings",,"11369","Queens","East Elmhurst","NYCC22","03 Queens",
+"NYCC42502501","NYCC42","2022-09-11T00:00:00.000","Parks",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC18502560","NYCC18","2022-09-11T00:00:00.000","Housing and Buildings",,"10458",,"Bronx",," ",
+"NYCC21513121","NYCC21","2022-09-11T00:00:00.000","Public Safety",,"11368",,"Corona",," ",
+"NYCC03555343","NYCC03","2022-09-11T00:00:00.000","Sanitation","E-Waste Pickups","10009","Manhattan","New York","NYCC04","06 Manhattan","2022-09-12T00:00:00.000"
+"NYCC27504287","NYCC27","2022-09-11T00:00:00.000","Housing and Buildings",,"10009",,"New York",," ",
+"NYCC21513118","NYCC21","2022-09-11T00:00:00.000","Public Safety",,"11362","Queens","Little Neck","NYCC23","11 Queens",
+"NYCC06533577","NYCC06","2022-09-11T00:00:00.000","Consumer Affairs","False Advertising","10025","Manhattan","New York","NYCC06","07 Manhattan","2022-09-12T00:00:00.000"
+"NYCC21513120","NYCC21","2022-09-11T00:00:00.000","Environment",,"11370",,"East Elmhurst",," ",
+"NYCC31504636","NYCC31","2022-09-11T00:00:00.000","General Welfare",,"11434","Queens","Jamaica","NYCC31","13 Queens",
+"NYCC20506339","NYCC20","2022-09-11T00:00:00.000","Environment",,"11365","Queens","Fresh Meadows","NYCC24","08 Queens",
+"NYCC03555344","NYCC03","2022-09-11T00:00:00.000","Economy/Jobs",,"10014","Manhattan","New York","NYCC03","02 Manhattan",
+"NYCC48530281","NYCC48","2022-09-11T00:00:00.000","Public Safety",,"11224","Brooklyn","Brooklyn","NYCC48","13 Brooklyn",
+"NYCC41501966","NYCC41","2022-09-10T00:00:00.000","Sanitation",,"11221","Brooklyn","Brooklyn","NYCC41","03 Brooklyn",
+"NYCC03555338","NYCC03","2022-09-10T00:00:00.000","Health",,"10011","Manhattan","New York","NYCC03","05 Manhattan",
+"NYCC12501882","NYCC12","2022-09-10T00:00:00.000","Utilities",,"10469","Bronx","Bronx","NYCC12","12 Bronx",
+"NYCC18502559","NYCC18","2022-09-10T00:00:00.000","Land Use and Zoning",,"10473",,"Bronx",," ",
+"NYCC19511423","NYCC19","2022-09-10T00:00:00.000","Transportation",,"11361","Queens","Bayside","NYCC19","11 Queens",
+"NYCC48530280","NYCC48","2022-09-10T00:00:00.000","Sanitation","Dirty Sidewalk","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC21513117","NYCC21","2022-09-10T00:00:00.000","Health",,"11368","Queens","Corona","NYCC21","04 Queens",
+"NYCC03555339","NYCC03","2022-09-10T00:00:00.000","Youth Services",,"11211","Brooklyn","Brooklyn","NYCC34","01 Brooklyn",
+"NYCC09503690","NYCC09","2022-09-10T00:00:00.000","Housing and Buildings",,"10031","Manhattan","New York","NYCC09","09 Manhattan",
+"NYCC48530276","NYCC48","2022-09-09T00:00:00.000","Immigration","UKRAINE WAR",,,,," ","2022-09-09T00:00:00.000"
+"NYCC13509814","NYCC13","2022-09-09T00:00:00.000","Housing and Buildings",,"10466","Bronx","Bronx","NYCC12","12 Bronx",
+"NYCC46514657","NYCC46","2022-09-09T00:00:00.000","Education","Higher Education: Admissions","10039","Manhattan","New York","NYCC09","10 Manhattan",
+"NYCC32502722","NYCC32","2022-09-09T00:00:00.000","Please choose an issue...",,"11420",,"Ozone Park Oueen",," ",
+"NYCC48530267","NYCC48","2022-09-09T00:00:00.000","Immigration","UKRAINE WAR","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn",
+"NYCC46514654","NYCC46","2022-09-09T00:00:00.000","Sanitation","Street Cleaning",,,"Brooklyn",," ",
+"NYCC51505967","NYCC51","2022-09-09T00:00:00.000","Education","Student Transportation","10312",,"Staten Island",," ",
+"NYCC48530274","NYCC48","2022-09-09T00:00:00.000","Sanitation","Dirty Sidewalk","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC18502557","NYCC18","2022-09-09T00:00:00.000","Sanitation",,"10460","Bronx","Bronx","NYCC18","09 Bronx",
+"NYCC18502558","NYCC18","2022-09-09T00:00:00.000","Public Safety",,"10460","Bronx","Bronx","NYCC18","09 Bronx",
+"NYCC46514659","NYCC46","2022-09-09T00:00:00.000","Sanitation",,"11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC48530278","NYCC48","2022-09-09T00:00:00.000",,,"11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC20506338","NYCC20","2022-09-09T00:00:00.000","Public Safety",,"11354","Queens","Flushing","NYCC20","07 Queens",
+"NYCC35504924","NYCC35","2022-09-09T00:00:00.000","General Welfare",,"11238","Brooklyn","Brooklyn","NYCC35","02 Brooklyn",
+"NYCC48530275","NYCC48","2022-09-09T00:00:00.000","Parks","Community Garden","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC36502687","NYCC36","2022-09-09T00:00:00.000","Health",,"11216","Brooklyn","Brooklyn","NYCC36","08 Brooklyn",
+"NYCC51505968","NYCC51","2022-09-09T00:00:00.000","Education","Student Transportation","10312","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC32502721","NYCC32","2022-09-09T00:00:00.000","COVID-19",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC43510055","NYCC43","2022-09-09T00:00:00.000","COVID-19","Schools","11209","Brooklyn","Brooklyn","NYCC43","10 Brooklyn",
+"NYCC13509810","NYCC13","2022-09-09T00:00:00.000","Finance","SCRIE","10467","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC23519184","NYCC23","2022-09-09T00:00:00.000","Health","Disability Services",,"Queens","Hollis",,,
+"NYCC29509220","NYCC29","2022-09-09T00:00:00.000","Governmental Operations",,"11375","Queens","Forest Hills","NYCC29","06 Queens",
+"NYCC46514651","NYCC46","2022-09-09T00:00:00.000","Sanitation","Illegal Dumping","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC48530273","NYCC48","2022-09-09T00:00:00.000","Education","Bullying",,,,," ",
+"NYCC10511086","NYCC10","2022-09-09T00:00:00.000","Finance","SCRIE","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-09T00:00:00.000"
+"NYCC48530277","NYCC48","2022-09-09T00:00:00.000","Immigration","Green Card","11230","Brooklyn","Brooklyn","NYCC48","14 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC02530477","NYCC02","2022-09-09T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,,"East Elmhurst",,,
+"NYCC50535976","NYCC50","2022-09-09T00:00:00.000","Public Safety","Illegal Parking","10306","Staten Island","Staten Island","NYCC50","03 Staten Island",
+"NYCC48530279","NYCC48","2022-09-09T00:00:00.000","Parks",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC48530270","NYCC48","2022-09-09T00:00:00.000","Transportation","Ponding","11230","Brooklyn","Brooklyn","NYCC48","14 Brooklyn",
+"NYCC24502058","NYCC24","2022-09-09T00:00:00.000","Health",,"11366","Queens","Fresh Meadows","NYCC24","08 Queens",
+"NYCC14511338","NYCC14","2022-09-09T00:00:00.000","Housing and Buildings",,"10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC02530473","NYCC02","2022-09-09T00:00:00.000","Sanitation","Litter","10003","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC02530467","NYCC02","2022-09-09T00:00:00.000","Sanitation","Litter Basket Requests","10016","Manhattan","New York","NYCC02","06 Manhattan",
+"NYCC50535977","NYCC50","2022-09-09T00:00:00.000","Governmental Operations","311 Call Center","10306","Staten Island","Staten Island","NYCC50","02 Staten Island","2022-09-09T00:00:00.000"
+"NYCC14511339","NYCC14","2022-09-09T00:00:00.000","Housing and Buildings",,"10468","Bronx","Bronx","NYCC14","07 Bronx",
+"NYCC10511087","NYCC10","2022-09-09T00:00:00.000","Housing and Buildings","SRO","10034","Manhattan","New York","NYCC10","12 Manhattan","2022-09-09T00:00:00.000"
+"NYCC08508689","NYCC08","2022-09-09T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC14511341","NYCC14","2022-09-09T00:00:00.000","General Welfare","Food Pantry","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC37506344","NYCC37","2022-09-09T00:00:00.000","Public Safety","Home Robbery / Theft","11208","Brooklyn","Brooklyn","NYCC37","05 Brooklyn",
+"NYCC02530468","NYCC02","2022-09-09T00:00:00.000","Transportation","Sidewalks","10016","Manhattan","New York","NYCC02","06 Manhattan",
+"NYCC48530269","NYCC48","2022-09-09T00:00:00.000","Education","TUITION","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC06533553","NYCC06","2022-09-09T00:00:00.000","Education","School Registration/Placement","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC27504285","NYCC27","2022-09-09T00:00:00.000","Governmental Operations",,"11429","Queens","Queens Village","NYCC27","13 Queens",
+"NYCC14511340","NYCC14","2022-09-09T00:00:00.000","General Welfare","Food Stamps","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC46514660","NYCC46","2022-09-09T00:00:00.000","Environment","SEWER MAIN BREAK","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC13509812","NYCC13","2022-09-09T00:00:00.000","Immigration","U.S. Citizenship",,,,," ","2022-09-09T00:00:00.000"
+"NYCC27504286","NYCC27","2022-09-09T00:00:00.000","Public Safety","Drug Activity","11435","Queens","Jamaica","NYCC27","12 Queens",
+"NYCC07508796","NYCC07","2022-09-09T00:00:00.000","Housing and Buildings",,"11379","Queens","Middle Village","NYCC30","05 Queens",
+"NYCC02530465","NYCC02","2022-09-09T00:00:00.000","Health","Rats/Rodents","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC07508795","NYCC07","2022-09-09T00:00:00.000","Legal Services","Housing","10031","Manhattan","New York","NYCC07","09 Manhattan","2022-09-09T00:00:00.000"
+"NYCC02530478","NYCC02","2022-09-09T00:00:00.000","Housing and Buildings","Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC08508692","NYCC08","2022-09-09T00:00:00.000","General Welfare","Food Stamps","10454","Manhattan","Bronx","NYCC08","01 Manhattan",
+"NYCC02530469","NYCC02","2022-09-09T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,,,,,
+"NYCC48530272","NYCC48","2022-09-09T00:00:00.000","Immigration","Green Card","11230","Brooklyn","Brooklyn","NYCC44","14 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC23519183","NYCC23","2022-09-09T00:00:00.000",,,"11364","Queens","Oakland Gardens","NYCC23","11 Queens",
+"NYCC13509813","NYCC13","2022-09-09T00:00:00.000",,,,,,," ",
+"NYCC13509809","NYCC13","2022-09-09T00:00:00.000",,,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC03555333","NYCC03","2022-09-09T00:00:00.000","Transportation","Bicycles","10019","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC36502686","NYCC36","2022-09-09T00:00:00.000","Cultural Affairs",,"11216","Brooklyn","Brooklyn","NYCC36","08 Brooklyn",
+"NYCC06533550","NYCC06","2022-09-09T00:00:00.000","General Welfare","Food Stamps","10025","Manhattan","New York","NYCC07","07 Manhattan","2022-09-12T00:00:00.000"
+"NYCC46514652","NYCC46","2022-09-09T00:00:00.000","Immigration","Literary Services for Immigrants","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC02530472","NYCC02","2022-09-09T00:00:00.000","Civil Service and Labor","Employee Benefits and Retirement",,,,," ",
+"NYCC48530266","NYCC48","2022-09-09T00:00:00.000","COVID-19","VACCINE",,,,," ","2022-09-09T00:00:00.000"
+"NYCC02530476","NYCC02","2022-09-09T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC02530471","NYCC02","2022-09-09T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC08508693","NYCC08","2022-09-09T00:00:00.000","Housing and Buildings","Neighbor Dispute","10454",,,," ",
+"NYCC48530271","NYCC48","2022-09-09T00:00:00.000","Immigration","UKRAINE WAR","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC02530474","NYCC02","2022-09-09T00:00:00.000","Education","School Choice","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC03555332","NYCC03","2022-09-09T00:00:00.000","Please choose an issue...",,"10001","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC46514656","NYCC46","2022-09-09T00:00:00.000","Education","Health and Fitness","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC21513116","NYCC21","2022-09-09T00:00:00.000","Health",,"11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC14511336","NYCC14","2022-09-09T00:00:00.000","Immigration","City Services and Benefits","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-09T00:00:00.000"
+"NYCC06533552","NYCC06","2022-09-09T00:00:00.000","Housing and Buildings","Construction General","10023","Manhattan","New York","NYCC06","07 Manhattan","2022-09-09T00:00:00.000"
+"NYCC08508691","NYCC08","2022-09-09T00:00:00.000","Aging",,"10454",,,," ",
+"NYCC39513503","NYCC39","2022-09-09T00:00:00.000","Environment",,"11217","Brooklyn","Brooklyn","NYCC39","06 Brooklyn",
+"NYCC08508690","NYCC08","2022-09-09T00:00:00.000","Quality of Life","Noise - Other","10451","Manhattan","Bronx","NYCC08","04 Manhattan",
+"NYCC37506343","NYCC37","2022-09-09T00:00:00.000","Housing and Buildings",,"11237",,"Brooklyn","NYCC"," ",
+"NYCC37506342","NYCC37","2022-09-09T00:00:00.000",,,,,,," ",
+"NYCC07508797","NYCC07","2022-09-09T00:00:00.000","Parks","PARK FACILITIES","10031","Manhattan","New York","NYCC07","09 Manhattan","2022-09-09T00:00:00.000"
+"NYCC14511337","NYCC14","2022-09-09T00:00:00.000","Housing and Buildings","PARKING","10468","Bronx","Bronx","NYCC14","07 Bronx",
+"NYCC38511591","NYCC38","2022-09-09T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,"2022-09-09T00:00:00.000"
+"NYCC29509219","NYCC29","2022-09-09T00:00:00.000","Health",,"11375","Queens","Forest Hills","NYCC29","06 Queens",
+"NYCC46514658","NYCC46","2022-09-09T00:00:00.000","Utilities","National Grid","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC46514653","NYCC46","2022-09-09T00:00:00.000","Economy/Jobs","Resume Assistance","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC06533580","NYCC06","2022-09-09T00:00:00.000","Sanitation","Street Cleaning","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC46514655","NYCC46","2022-09-09T00:00:00.000","Education","School Registration/Placement","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC09503689","NYCC09","2022-09-09T00:00:00.000","Housing and Buildings",,"10037","Manhattan","New York","NYCC09","11 Manhattan",
+"NYCC48530268","NYCC48","2022-09-09T00:00:00.000","Housing and Buildings","Section 8","11224","Brooklyn","Brooklyn","NYCC48","13 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC28507776","NYCC28","2022-09-09T00:00:00.000","Transportation",,"10314","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC02530457","NYCC02","2022-09-08T00:00:00.000","General Welfare","SSI and Social Security","10002","Manhattan","New York","NYCC01","03 Manhattan",
+"NYCC02530459","NYCC02","2022-09-08T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC35504923","NYCC35","2022-09-08T00:00:00.000","Governmental Operations",,"11238","Brooklyn","Brooklyn","NYCC35","02 Brooklyn",
+"NYCC27504282","NYCC27","2022-09-08T00:00:00.000","Aging","Senior Centers","11434","Queens","Jamaica","NYCC27","12 Queens","2022-09-08T00:00:00.000"
+"NYCC05553335","NYCC05","2022-09-08T00:00:00.000","Education",,"11201","Brooklyn","Brooklyn","NYCC33","02 Brooklyn",
+"NYCC06533539","NYCC06","2022-09-08T00:00:00.000","General Welfare","Homeless Encampment","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC14511325","NYCC14","2022-09-08T00:00:00.000","Housing and Buildings","Rental Arrears","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC46514647","NYCC46","2022-09-08T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","11236",,"Brooklyn",," ",
+"NYCC02530460","NYCC02","2022-09-08T00:00:00.000",,,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC06533525","NYCC06","2022-09-08T00:00:00.000","Sanitation","SPECIAL WASTE DISPOSAL","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC51505964","NYCC51","2022-09-08T00:00:00.000","Parks","Tree Planting/Pruning","10312","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC06533543","NYCC06","2022-09-08T00:00:00.000","Transportation","Traffic Enforcement","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC50535975","NYCC50","2022-09-08T00:00:00.000","Governmental Operations","311 Call Center","10306","Staten Island","Staten Island","NYCC50","03 Staten Island","2022-09-08T00:00:00.000"
+"NYCC10511075","NYCC10","2022-09-08T00:00:00.000","Finance","SCRIE","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-08T00:00:00.000"
+"NYCC06533528","NYCC06","2022-09-08T00:00:00.000","Finance","Property Tax Bill","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533551","NYCC06","2022-09-08T00:00:00.000","Finance","SCRIE","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-09T00:00:00.000"
+"NYCC27504284","NYCC27","2022-09-08T00:00:00.000","Housing and Buildings","Section 8","11435",,"Jamaica",," ",
+"NYCC06533524","NYCC06","2022-09-08T00:00:00.000","Sanitation","SPECIAL WASTE DISPOSAL","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC48530258","NYCC48","2022-09-08T00:00:00.000","Sanitation","Lot Cleaning","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC48530263","NYCC48","2022-09-08T00:00:00.000","Environment","Water and Sewage Bills","10306","Staten Island","Staten Island","NYCC51","03 Staten Island","2022-09-09T00:00:00.000"
+"NYCC06533546","NYCC06","2022-09-08T00:00:00.000","Transportation","Parking Restrictions","10023","Manhattan","New York","NYCC06","07 Manhattan","2022-09-08T00:00:00.000"
+"NYCC10511076","NYCC10","2022-09-08T00:00:00.000","Housing and Buildings","NYCHA New Application","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-08T00:00:00.000"
+"NYCC14511324","NYCC14","2022-09-08T00:00:00.000","General Welfare","Public Assistance","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-08T00:00:00.000"
+"NYCC10511080","NYCC10","2022-09-08T00:00:00.000","Housing and Buildings","NYCHA Misc.","10033","Manhattan","New York","NYCC10","12 Manhattan",
+"NYCC14511319","NYCC14","2022-09-08T00:00:00.000","General Welfare","Public Assistance","10460","Bronx","Bronx","NYCC17","06 Bronx","2022-09-08T00:00:00.000"
+"NYCC23519181","NYCC23","2022-09-08T00:00:00.000","Housing and Buildings","Rent Stabilization","11001","Queens","Floral Park","NYCC23","13 Queens",
+"NYCC50535974","NYCC50","2022-09-08T00:00:00.000","Public Safety","Drag Racing","10314","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC23519178","NYCC23","2022-09-08T00:00:00.000","Parks","Playground/Park Hours","11426","Queens","Bellerose","NYCC23","13 Queens",
+"NYCC03555323","NYCC03","2022-09-08T00:00:00.000","Public Safety","Drug Activity",,,,," ",
+"NYCC29509217","NYCC29","2022-09-08T00:00:00.000","COVID-19",,"11375","Queens","Forest Hills","NYCC29","06 Queens",
+"NYCC13509796","NYCC13","2022-09-08T00:00:00.000",,,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC37506337","NYCC37","2022-09-08T00:00:00.000","Housing and Buildings",,"11207",,"Brooklyn",," ",
+"NYCC14511321","NYCC14","2022-09-08T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-08T00:00:00.000"
+"NYCC46514648","NYCC46","2022-09-08T00:00:00.000","Parks","Park Maintenance","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC13509808","NYCC13","2022-09-08T00:00:00.000","Housing and Buildings",,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC36502685","NYCC36","2022-09-08T00:00:00.000","Housing and Buildings",,"11221","Brooklyn","Brooklyn","NYCC34","04 Brooklyn",
+"NYCC05553333","NYCC05","2022-09-08T00:00:00.000","Environment",,"10028","Manhattan","New York","NYCC05","08 Manhattan",
+"NYCC13509797","NYCC13","2022-09-08T00:00:00.000",,,,,,," ",
+"NYCC51505966","NYCC51","2022-09-08T00:00:00.000","Sanitation","Lot Cleaning","10312","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC46514646","NYCC46","2022-09-08T00:00:00.000","Environment","Sewer Backups","11229","Brooklyn","Brooklyn","NYCC46","15 Brooklyn",
+"NYCC13509802","NYCC13","2022-09-08T00:00:00.000","Governmental Operations","Meeting Request",,,,," ",
+"NYCC23519177","NYCC23","2022-09-08T00:00:00.000","Civil Service and Labor","Employee Benefits and Retirement","11365","Queens","Fresh Meadows","NYCC23","08 Queens",
+"NYCC38511584","NYCC38","2022-09-08T00:00:00.000","Economy/Jobs","Seeking Employment",,,,," ",
+"NYCC14511328","NYCC14","2022-09-08T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10452","Bronx","Bronx","NYCC16","04 Bronx",
+"NYCC09503687","NYCC09","2022-09-08T00:00:00.000","Housing and Buildings",,"10030","Manhattan","New York","NYCC09","10 Manhattan",
+"NYCC13509793","NYCC13","2022-09-08T00:00:00.000","Land Use and Zoning",,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC10511081","NYCC10","2022-09-08T00:00:00.000","Finance","SCRIE","10040","Manhattan","New York","NYCC10","12 Manhattan",
+"NYCC05553334","NYCC05","2022-09-08T00:00:00.000","Environment",,"10028","Manhattan","New York","NYCC05","08 Manhattan",
+"NYCC14511331","NYCC14","2022-09-08T00:00:00.000","General Welfare",,"10468","Bronx","Bronx","NYCC11","07 Bronx",
+"NYCC35504922","NYCC35","2022-09-08T00:00:00.000","Consumer Complaints",,"11238","Brooklyn","Brooklyn","NYCC35","02 Brooklyn",
+"NYCC37506339","NYCC37","2022-09-08T00:00:00.000","CIVIL AND HUMAN RIGHTS",,"11208",,"790 Eldert Lane,",," ",
+"NYCC02530458","NYCC02","2022-09-08T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC02530462","NYCC02","2022-09-08T00:00:00.000","Housing and Buildings","Rent Stabilization","10003","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC48530255","NYCC48","2022-09-08T00:00:00.000","Finance","SCRIE","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC10511084","NYCC10","2022-09-08T00:00:00.000","Housing and Buildings","Succession Rights","10034","Manhattan","New York","NYCC10","12 Manhattan","2022-09-08T00:00:00.000"
+"NYCC14511329","NYCC14","2022-09-08T00:00:00.000","Housing and Buildings","Section 8","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-08T00:00:00.000"
+"NYCC32502720","NYCC32","2022-09-08T00:00:00.000","Environment",,"11417","Queens","Ozone Park","NYCC32","10 Queens",
+"NYCC10511077","NYCC10","2022-09-08T00:00:00.000","Housing and Buildings","Senior Housing","10040",,"New York",," ","2022-09-08T00:00:00.000"
+"NYCC06533537","NYCC06","2022-09-08T00:00:00.000","General Welfare","Homeless Encampment",,,"Unknown","NYCC"," ",
+"NYCC48530261","NYCC48","2022-09-08T00:00:00.000","Transportation","Sidewalks","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC46514650","NYCC46","2022-09-08T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC48530256","NYCC48","2022-09-08T00:00:00.000",,,"11230","Brooklyn","Brooklyn","NYCC48","14 Brooklyn",
+"NYCC48530257","NYCC48","2022-09-08T00:00:00.000","Parks","Park Maintenance",,,,," ","2022-09-09T00:00:00.000"
+"NYCC48530252","NYCC48","2022-09-08T00:00:00.000",,,"11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn",
+"NYCC06533530","NYCC06","2022-09-08T00:00:00.000","Housing and Buildings","Rental Arrears","10023","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533538","NYCC06","2022-09-08T00:00:00.000","Parks",,"10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC45507684","NYCC45","2022-09-08T00:00:00.000","Immigration","Visas",,,,," ",
+"NYCC48530262","NYCC48","2022-09-08T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,"2022-09-08T00:00:00.000"
+"NYCC09503688","NYCC09","2022-09-08T00:00:00.000","Housing and Buildings",,"10030","Manhattan","New York","NYCC09","10 Manhattan",
+"NYCC06533526","NYCC06","2022-09-08T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC09503686","NYCC09","2022-09-08T00:00:00.000","Housing and Buildings",,"10030","Manhattan","New York","NYCC09","10 Manhattan",
+"NYCC48530250","NYCC48","2022-09-08T00:00:00.000","Sanitation","Missed Collection","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC38511590","NYCC38","2022-09-08T00:00:00.000","Governmental Operations","DMV",,,,," ","2022-09-08T00:00:00.000"
+"NYCC02530464","NYCC02","2022-09-08T00:00:00.000","Health","Immunization Walk - In Clinics","10010","Manhattan","New York","NYCC02","06 Manhattan",
+"NYCC48530254","NYCC48","2022-09-08T00:00:00.000","Housing and Buildings","Carbon Monoxide And/","11230","Brooklyn","Brooklyn","NYCC44","14 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC48530253","NYCC48","2022-09-08T00:00:00.000","Housing and Buildings","Maintenance","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC48530248","NYCC48","2022-09-08T00:00:00.000","Housing and Buildings","Maintenance",,,"Brooklyn",," ","2022-09-08T00:00:00.000"
+"NYCC48530251","NYCC48","2022-09-08T00:00:00.000","Sanitation","Illegal Dumping","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC21513115","NYCC21","2022-09-08T00:00:00.000","Education",,"11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC48530260","NYCC48","2022-09-08T00:00:00.000","Public Safety","CCRB","11230","Brooklyn","Brooklyn","NYCC48","14 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC02530463","NYCC02","2022-09-08T00:00:00.000","Quality of Life",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC06533535","NYCC06","2022-09-08T00:00:00.000","MENTAL HEALTH-DISABILITY-",,,,,," ",
+"NYCC48530259","NYCC48","2022-09-08T00:00:00.000","Transportation","Street Lights","11224","Brooklyn","Brooklyn","NYCC48","13 Brooklyn",
+"NYCC47507873","NYCC47","2022-09-08T00:00:00.000","Education",,"11228","Brooklyn","Brooklyn","NYCC43","10 Brooklyn",
+"NYCC03555325","NYCC03","2022-09-08T00:00:00.000","Consumer Complaints",,"10014","Manhattan","New York","NYCC03","02 Manhattan",
+"NYCC13509800","NYCC13","2022-09-08T00:00:00.000",,,"10467","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC14511322","NYCC14","2022-09-08T00:00:00.000","Housing and Buildings","Unsanitary Condition","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC10511078","NYCC10","2022-09-08T00:00:00.000","Housing and Buildings","Section 8","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-08T00:00:00.000"
+"NYCC46514649","NYCC46","2022-09-08T00:00:00.000","Finance","Tax Exemption","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC48530264","NYCC48","2022-09-08T00:00:00.000","Finance","Budget Allocation Issue","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC36502684","NYCC36","2022-09-08T00:00:00.000","Utilities",,"11216","Brooklyn","Brooklyn","NYCC36","03 Brooklyn",
+"NYCC47507876","NYCC47","2022-09-08T00:00:00.000","Housing and Buildings","Senior Housing","11214","Brooklyn","Brooklyn","NYCC47","13 Brooklyn",
+"NYCC07508791","NYCC07","2022-09-08T00:00:00.000","Housing and Buildings","Building Maintenance","10025","Manhattan","New York","NYCC07","07 Manhattan","2022-09-08T00:00:00.000"
+"NYCC07508790","NYCC07","2022-09-08T00:00:00.000","Housing and Buildings","Lease Issue","10031",,"New York",," ","2022-09-08T00:00:00.000"
+"NYCC02530461","NYCC02","2022-09-08T00:00:00.000","Legal Services","Consumer Affairs","10003","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC07508789","NYCC07","2022-09-08T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10032","Manhattan","New York","NYCC07","12 Manhattan","2022-09-08T00:00:00.000"
+"NYCC14511320","NYCC14","2022-09-08T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-08T00:00:00.000"
+"NYCC46514644","NYCC46","2022-09-08T00:00:00.000","Transportation","Road Median","11210","Brooklyn","Brooklyn","NYCC45","14 Brooklyn",
+"NYCC13509807","NYCC13","2022-09-08T00:00:00.000","Parks","Tree Planting/Pruning","10469","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC03555321","NYCC03","2022-09-08T00:00:00.000","Quality of Life","Panhandling","10018","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC46514645","NYCC46","2022-09-08T00:00:00.000","Finance","SCHE","11229","Brooklyn","Brooklyn","NYCC46","15 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC06533522","NYCC06","2022-09-08T00:00:00.000","Economy/Jobs","Business Assistance","10001","Manhattan","New York","NYCC04","05 Manhattan",
+"NYCC23519180","NYCC23","2022-09-08T00:00:00.000","Education","Teacher Termination","11427","Queens","Queens Village","NYCC23","13 Queens",
+"NYCC07508787","NYCC07","2022-09-08T00:00:00.000","Immigration","U.S. Citizenship","10031","Manhattan","New York","NYCC07","09 Manhattan","2022-09-08T00:00:00.000"
+"NYCC39513502","NYCC39","2022-09-08T00:00:00.000","General Welfare",,"11215","Brooklyn","Brooklyn","NYCC39","06 Brooklyn",
+"NYCC23519179","NYCC23","2022-09-08T00:00:00.000","Environment","Air Quality","11426","Queens","Bellerose","NYCC23","13 Queens",
+"NYCC14511334","NYCC14","2022-09-08T00:00:00.000","Governmental Operations","Jury Duty","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-08T00:00:00.000"
+"NYCC10511079","NYCC10","2022-09-08T00:00:00.000","Civil Service and Labor","Job Requirements","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-08T00:00:00.000"
+"NYCC03555330","NYCC03","2022-09-08T00:00:00.000","Sanitation",,"10011","Manhattan","New York","NYCC03","05 Manhattan",
+"NYCC14511335","NYCC14","2022-09-08T00:00:00.000","Housing and Buildings","NYCHA Annual Inspection","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-08T00:00:00.000"
+"NYCC23519182","NYCC23","2022-09-08T00:00:00.000","General Welfare","Public Assistance","11364","Queens","Oakland Gardens","NYCC23","11 Queens","2022-09-08T00:00:00.000"
+"NYCC14511318","NYCC14","2022-09-08T00:00:00.000","Finance","SCRIE","10453",,"Bronx","NYCC"," ","2022-09-09T00:00:00.000"
+"NYCC03555324","NYCC03","2022-09-08T00:00:00.000","Utilities","Con Edison","10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC08508688","NYCC08","2022-09-08T00:00:00.000","General Welfare","Food Stamps","10029","Manhattan","New York","NYCC08","11 Manhattan","2022-09-08T00:00:00.000"
+"NYCC06533532","NYCC06","2022-09-08T00:00:00.000","Sanitation","SPECIAL WASTE DISPOSAL","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC07508784","NYCC07","2022-09-08T00:00:00.000","Legal Services","Housing",,,,," ","2022-09-08T00:00:00.000"
+"NYCC06533523","NYCC06","2022-09-08T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533529","NYCC06","2022-09-08T00:00:00.000","Sanitation","SPECIAL WASTE DISPOSAL","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC38511589","NYCC38","2022-09-08T00:00:00.000","Transportation","Street Lights","1123","Brooklyn","Brooklyn","NYCC38","06 Brooklyn",
+"NYCC37506338","NYCC37","2022-09-08T00:00:00.000","Housing and Buildings","Section 8","11208","Brooklyn","Brooklyn","NYCC37","05 Brooklyn",
+"NYCC37506336","NYCC37","2022-09-08T00:00:00.000","Transportation","Bus Shelter/Stop","11207",,"Brooklyn",," ",
+"NYCC10511083","NYCC10","2022-09-08T00:00:00.000","Finance","SCRIE","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-08T00:00:00.000"
+"NYCC06533540","NYCC06","2022-09-08T00:00:00.000","Housing and Buildings","Rental Arrears","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC14511327","NYCC14","2022-09-08T00:00:00.000","Economy/Jobs","Workforce Dev./Training","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-09-08T00:00:00.000"
+"NYCC38511585","NYCC38","2022-09-08T00:00:00.000","Housing and Buildings","NYCHA New Application",,,,," ",
+"NYCC38511586","NYCC38","2022-09-08T00:00:00.000","Immigration","U.S. Citizenship","11220","Brooklyn","Brooklyn","NYCC38","07 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC03555329","NYCC03","2022-09-08T00:00:00.000","Public Safety",,"10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC03555322","NYCC03","2022-09-08T00:00:00.000","Public Safety","Gangs/Youth Crimes","10018","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC14511330","NYCC14","2022-09-08T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10452","Bronx","Bronx","NYCC16","04 Bronx",
+"NYCC38511588","NYCC38","2022-09-08T00:00:00.000","Immigration","U.S. Citizenship",,,,," ","2022-09-08T00:00:00.000"
+"NYCC06533533","NYCC06","2022-09-08T00:00:00.000","Sanitation","SPECIAL WASTE DISPOSAL",,,,," ",
+"NYCC14511332","NYCC14","2022-09-08T00:00:00.000","General Welfare","Medicaid",,"Bronx","Bronx",,,
+"NYCC48530249","NYCC48","2022-09-08T00:00:00.000","Governmental Operations","Meeting Request",,,,," ","2022-09-08T00:00:00.000"
+"NYCC27504283","NYCC27","2022-09-08T00:00:00.000",,,"11412","Queens","Saint Albans","NYCC27","12 Queens",
+"NYCC06533536","NYCC06","2022-09-08T00:00:00.000","Public Safety","Disorderly Group","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC14511323","NYCC14","2022-09-08T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10463","Bronx","Bronx","NYCC14","08 Bronx","2022-09-08T00:00:00.000"
+"NYCC48530265","NYCC48","2022-09-08T00:00:00.000",,,"11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn",
+"NYCC06533541","NYCC06","2022-09-08T00:00:00.000","Housing and Buildings",,"10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533521","NYCC06","2022-09-08T00:00:00.000","Consumer Affairs","Insurance","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533527","NYCC06","2022-09-08T00:00:00.000","Housing and Buildings","NYCHA Transfers","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533542","NYCC06","2022-09-08T00:00:00.000","Consumer Affairs","Street Vendor","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC38511582","NYCC38","2022-09-08T00:00:00.000","General Welfare","Medicaid",,"Brooklyn","Brooklyn",,,"2022-09-08T00:00:00.000"
+"NYCC09503685","NYCC09","2022-09-08T00:00:00.000","Housing and Buildings",,"10030","Manhattan","New York","NYCC09","10 Manhattan",
+"NYCC47507875","NYCC47","2022-09-08T00:00:00.000",,,"11223","Brooklyn","Brooklyn","NYCC47","15 Brooklyn",
+"NYCC14511333","NYCC14","2022-09-08T00:00:00.000","General Welfare","SSI and Social Security","10452","Bronx","Bronx","NYCC16","04 Bronx","2022-09-09T00:00:00.000"
+"NYCC10511082","NYCC10","2022-09-08T00:00:00.000","General Welfare","Food Stamps","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-08T00:00:00.000"
+"NYCC10511085","NYCC10","2022-09-08T00:00:00.000","General Welfare","Public Assistance","10034","Manhattan","New York","NYCC10","12 Manhattan","2022-09-08T00:00:00.000"
+"NYCC38511581","NYCC38","2022-09-08T00:00:00.000","General Welfare","Food Stamps",,,"Brooklyn",," ","2022-09-08T00:00:00.000"
+"NYCC37506341","NYCC37","2022-09-08T00:00:00.000","Housing and Buildings","NYCHA Transfers","11221","Brooklyn","Brooklyn","NYCC37","04 Brooklyn",
+"NYCC51505965","NYCC51","2022-09-08T00:00:00.000","General Welfare","Food Stamps","10022","Manhattan","New York","NYCC05","06 Manhattan",
+"NYCC38511583","NYCC38","2022-09-08T00:00:00.000","Economy/Jobs","Unemployment Insuran","10301","Staten Island","Staten Island","NYCC49","01 Staten Island","2022-09-08T00:00:00.000"
+"NYCC06533531","NYCC06","2022-09-08T00:00:00.000","Housing and Buildings","Rent Increases","10023","Manhattan","New York","NYCC06","07 Manhattan","2022-09-08T00:00:00.000"
+"NYCC13509795","NYCC13","2022-09-08T00:00:00.000",,,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC08508687","NYCC08","2022-09-08T00:00:00.000","General Welfare","Food Stamps","10029","Manhattan","New York","NYCC08","11 Manhattan","2022-09-08T00:00:00.000"
+"NYCC14511326","NYCC14","2022-09-08T00:00:00.000","General Welfare","Food Stamps","10463","Bronx","Bronx","NYCC14","08 Bronx",
+"NYCC06533534","NYCC06","2022-09-08T00:00:00.000","Sanitation","SPECIAL WASTE DISPOSAL","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC14511317","NYCC14","2022-09-07T00:00:00.000","Immigration","Translation Services","10453",,"Bronx",," ","2022-09-07T00:00:00.000"
+"NYCC38511574","NYCC38","2022-09-07T00:00:00.000","Economy/Jobs","Workforce Dev./Training",,,,," ","2022-09-07T00:00:00.000"
+"NYCC10511066","NYCC10","2022-09-07T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC14511315","NYCC14","2022-09-07T00:00:00.000","General Welfare","Food Stamps","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-09-09T00:00:00.000"
+"NYCC03555316","NYCC03","2022-09-07T00:00:00.000","Sanitation","Illegal Dumping","10011","Manhattan","New York","NYCC03","04 Manhattan","2022-09-07T00:00:00.000"
+"NYCC38511577","NYCC38","2022-09-07T00:00:00.000","Immigration","U.S. Citizenship","11220","Brooklyn","Brooklyn","NYCC38","07 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC03555313","NYCC03","2022-09-07T00:00:00.000","Housing and Buildings",,"10019","Manhattan","New York","NYCC06","04 Manhattan",
+"NYCC51505959","NYCC51","2022-09-07T00:00:00.000","Transportation","Traffic Signals","10312","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC51505962","NYCC51","2022-09-07T00:00:00.000",,,,,"Staten Island",," ",
+"NYCC06533519","NYCC06","2022-09-07T00:00:00.000","Housing and Buildings","Rental Arrears","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC14511312","NYCC14","2022-09-07T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC48530242","NYCC48","2022-09-07T00:00:00.000","General Welfare","Food Stamps","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn","2022-09-12T00:00:00.000"
+"NYCC10511073","NYCC10","2022-09-07T00:00:00.000","General Welfare","Medicaid",,"Manhattan","New York",,,
+"NYCC06533520","NYCC06","2022-09-07T00:00:00.000","Aging","Senior Centers","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC10511074","NYCC10","2022-09-07T00:00:00.000","General Welfare","Medicaid",,"Manhattan","New York",,,
+"NYCC14511310","NYCC14","2022-09-07T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC14511313","NYCC14","2022-09-07T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-09T00:00:00.000"
+"NYCC06533514","NYCC06","2022-09-07T00:00:00.000","Housing and Buildings","Building Maintenance","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-07T00:00:00.000"
+"NYCC51505961","NYCC51","2022-09-07T00:00:00.000","Health","Rats/Rodents","10309","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC06533513","NYCC06","2022-09-07T00:00:00.000","Housing and Buildings","Repair Assistance","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC03555314","NYCC03","2022-09-07T00:00:00.000","Environment",,"10011","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC10511067","NYCC10","2022-09-07T00:00:00.000","Housing and Buildings","Rental Arrears","10032","Manhattan","New York","NYCC07","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC46514637","NYCC46","2022-09-07T00:00:00.000","General Welfare","Food Stamps","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-12T00:00:00.000"
+"NYCC06533515","NYCC06","2022-09-07T00:00:00.000","Housing and Buildings","Lease Issue","10025","Manhattan","New York","NYCC07","07 Manhattan","2022-09-07T00:00:00.000"
+"NYCC03555317","NYCC03","2022-09-07T00:00:00.000","Health","Asthma",,,,," ",
+"NYCC46514642","NYCC46","2022-09-07T00:00:00.000","Housing and Buildings","HPD Housing Lottery",,,"Brooklyn",," ","2022-09-07T00:00:00.000"
+"NYCC46514643","NYCC46","2022-09-07T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment",,,,," ","2022-09-07T00:00:00.000"
+"NYCC03555311","NYCC03","2022-09-07T00:00:00.000","Public Safety",,"10011","Manhattan","New York","NYCC03","02 Manhattan",
+"NYCC38511579","NYCC38","2022-09-07T00:00:00.000","Consumer Affairs","Predatory Lending",,,,," ",
+"NYCC06533516","NYCC06","2022-09-07T00:00:00.000","Housing and Buildings","Supportive Housing","10023","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC46514640","NYCC46","2022-09-07T00:00:00.000","Public Safety","Abandoned Vehicle","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC10511065","NYCC10","2022-09-07T00:00:00.000","General Welfare","Public Assistance","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC14511308","NYCC14","2022-09-07T00:00:00.000","Immigration","Green Card","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-07T00:00:00.000"
+"NYCC06533512","NYCC06","2022-09-07T00:00:00.000","Cultural Affairs","Museums","10003","Manhattan","New York","NYCC02","03 Manhattan","2022-09-07T00:00:00.000"
+"NYCC46514639","NYCC46","2022-09-07T00:00:00.000","Immigration","Literary Services for Immigrants","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC10511069","NYCC10","2022-09-07T00:00:00.000","Housing and Buildings","Senior Housing","10032","Manhattan","New York","NYCC10","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC10511072","NYCC10","2022-09-07T00:00:00.000","General Welfare","Public Assistance","10034",,"New York",," ","2022-09-07T00:00:00.000"
+"NYCC06533517","NYCC06","2022-09-07T00:00:00.000","Housing and Buildings","Lease Issue","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-07T00:00:00.000"
+"NYCC23519172","NYCC23","2022-09-07T00:00:00.000","Transportation","Pedestrian Safety","11427","Queens","Queens Village","NYCC23","11 Queens",
+"NYCC03555319","NYCC03","2022-09-07T00:00:00.000","Housing and Buildings",,"10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC46514635","NYCC46","2022-09-07T00:00:00.000","Immigration","U.S. Citizenship","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC02530448","NYCC02","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC51505960","NYCC51","2022-09-07T00:00:00.000","Education","Student Transportation","10308","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC23519174","NYCC23","2022-09-07T00:00:00.000","Public Safety","Justice System",,,"Fresh Meadows",," ","2022-09-07T00:00:00.000"
+"NYCC46514622","NYCC46","2022-09-07T00:00:00.000","Transportation","Street Resurfacing",,,,," ",
+"NYCC10511070","NYCC10","2022-09-07T00:00:00.000","Housing and Buildings","Lease Issue","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC10511071","NYCC10","2022-09-07T00:00:00.000","General Welfare","Food Stamps","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC50535970","NYCC50","2022-09-07T00:00:00.000","Parks","Park Maintenance","10306","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC46514633","NYCC46","2022-09-07T00:00:00.000","Land Use and Zoning","Zoning","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC10511064","NYCC10","2022-09-07T00:00:00.000","Housing and Buildings","Lease Issue","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC27504280","NYCC27","2022-09-07T00:00:00.000","Finance","Property Tax Bill","11434","Queens","Jamaica","NYCC27","12 Queens",
+"NYCC38511580","NYCC38","2022-09-07T00:00:00.000",,,,,,," ",
+"NYCC03555318","NYCC03","2022-09-07T00:00:00.000","General Welfare",,"10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC14511309","NYCC14","2022-09-07T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-07T00:00:00.000"
+"NYCC46514638","NYCC46","2022-09-07T00:00:00.000","Sanitation","Street Cleaning",,,,," ","2022-09-08T00:00:00.000"
+"NYCC24502057","NYCC24","2022-09-07T00:00:00.000","Transportation",,"11366","Queens","Fresh Meadows","NYCC24","08 Queens",
+"NYCC23519176","NYCC23","2022-09-07T00:00:00.000",,,"11427","Queens","Queens Village","NYCC23","11 Queens",
+"NYCC38511573","NYCC38","2022-09-07T00:00:00.000","Governmental Operations","IDNYC",,,,," ","2022-09-07T00:00:00.000"
+"NYCC37506334","NYCC37","2022-09-07T00:00:00.000","Housing and Buildings",,"11233","Brooklyn","Brooklyn","NYCC37","16 Brooklyn",
+"NYCC50535969","NYCC50","2022-09-07T00:00:00.000","Economy/Jobs","Business Assistance","10312","Staten Island","Staten Island","NYCC51","03 Staten Island","2022-09-07T00:00:00.000"
+"NYCC50535971","NYCC50","2022-09-07T00:00:00.000","General Welfare","Homeless Shelter - DHS","10308","Staten Island","Staten Island","NYCC51","03 Staten Island","2022-09-07T00:00:00.000"
+"NYCC46514628","NYCC46","2022-09-07T00:00:00.000","Immigration","U.S. Citizenship","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC46514627","NYCC46","2022-09-07T00:00:00.000","Immigration","U.S. Citizenship","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC48530247","NYCC48","2022-09-07T00:00:00.000","Environment","Rain Barrel",,,,," ","2022-09-07T00:00:00.000"
+"NYCC46514624","NYCC46","2022-09-07T00:00:00.000","Immigration","U.S. Citizenship","11212","Brooklyn","Brooklyn","NYCC41","17 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC46514623","NYCC46","2022-09-07T00:00:00.000","Immigration","U.S. Citizenship","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC46514634","NYCC46","2022-09-07T00:00:00.000","Land Use and Zoning","Zoning","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC46514629","NYCC46","2022-09-07T00:00:00.000","Immigration","U.S. Citizenship","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC46514636","NYCC46","2022-09-07T00:00:00.000","Quality of Life","Noise- Street/Sidewalk","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC46514630","NYCC46","2022-09-07T00:00:00.000","Land Use and Zoning","Zoning","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC13509782","NYCC13","2022-09-07T00:00:00.000",,,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC48530245","NYCC48","2022-09-07T00:00:00.000","Housing and Buildings","Carbon Monoxide And/","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC48530246","NYCC48","2022-09-07T00:00:00.000","Transportation","Metrocard: Reduced Fare","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC14511311","NYCC14","2022-09-07T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-07T00:00:00.000"
+"NYCC48530240","NYCC48","2022-09-07T00:00:00.000","Housing and Buildings","Section 8","11223","Brooklyn","Brooklyn","NYCC47","15 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC48530241","NYCC48","2022-09-07T00:00:00.000","Public Safety","Illegal Parking","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC02530452","NYCC02","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC02530453","NYCC02","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC02530450","NYCC02","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC03555312","NYCC03","2022-09-07T00:00:00.000","Transportation","Parking Permits","10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC35504920","NYCC35","2022-09-07T00:00:00.000","Sanitation",,"11238","Brooklyn","Brooklyn","NYCC35","08 Brooklyn",
+"NYCC48530243","NYCC48","2022-09-07T00:00:00.000",,,,,,," ",
+"NYCC02530451","NYCC02","2022-09-07T00:00:00.000","Environment","Water Quality","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-08T00:00:00.000"
+"NYCC46514626","NYCC46","2022-09-07T00:00:00.000","Immigration","U.S. Citizenship","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC42502499","NYCC42","2022-09-07T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","11207","Brooklyn","Brooklyn","NYCC42","05 Brooklyn",
+"NYCC02530455","NYCC02","2022-09-07T00:00:00.000","Finance","Enhanced STAR","10016","Manhattan","New York","NYCC02","06 Manhattan","2022-09-12T00:00:00.000"
+"NYCC46514631","NYCC46","2022-09-07T00:00:00.000","Land Use and Zoning","Zoning","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC42502498","NYCC42","2022-09-07T00:00:00.000","Housing and Buildings","Repair Assistance","11207","Brooklyn","Brooklyn","NYCC42","05 Brooklyn",
+"NYCC33504863","NYCC33","2022-09-07T00:00:00.000","Education",,"11217","Brooklyn","Brooklyn","NYCC33","02 Brooklyn",
+"NYCC02530449","NYCC02","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10002",,"New York",," ","2022-09-07T00:00:00.000"
+"NYCC10511068","NYCC10","2022-09-07T00:00:00.000","General Welfare","Public Assistance","10032","Manhattan","New York","NYCC07","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC14511316","NYCC14","2022-09-07T00:00:00.000","Housing and Buildings","Repair Assistance","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC02530456","NYCC02","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Misc.","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC06533511","NYCC06","2022-09-07T00:00:00.000","Governmental Operations","Voting Information","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC38511578","NYCC38","2022-09-07T00:00:00.000","General Welfare","Public Assistance",,,,," ","2022-09-07T00:00:00.000"
+"NYCC07508780","NYCC07","2022-09-07T00:00:00.000","Quality of Life","Noise- Street/Sidewalk","10031","Manhattan","New York","NYCC07","09 Manhattan",
+"NYCC07508782","NYCC07","2022-09-07T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,,"New York",,,"2022-09-08T00:00:00.000"
+"NYCC07508778","NYCC07","2022-09-07T00:00:00.000","Aging",,"10025","Manhattan","New York","NYCC07","09 Manhattan",
+"NYCC46514641","NYCC46","2022-09-07T00:00:00.000","Housing and Buildings","HPD Housing Lottery",,,"Brooklyn",," ","2022-09-07T00:00:00.000"
+"NYCC07508779","NYCC07","2022-09-07T00:00:00.000","Housing and Buildings","Rent Increases","10025",,"New York",," ",
+"NYCC02530443","NYCC02","2022-09-07T00:00:00.000","Quality of Life","Noise - Other","10003","Manhattan","New York","NYCC02","02 Manhattan","2022-09-09T00:00:00.000"
+"NYCC21513114","NYCC21","2022-09-07T00:00:00.000","Transportation",,"11372","Queens","Jackson Heights","NYCC21","03 Queens",
+"NYCC07508777","NYCC07","2022-09-07T00:00:00.000","Housing and Buildings","Rent Increases","10032","Manhattan","New York","NYCC07","12 Manhattan",
+"NYCC38511576","NYCC38","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance",,,,," ",
+"NYCC08508684","NYCC08","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10029","Manhattan","New York","NYCC08","11 Manhattan","2022-09-08T00:00:00.000"
+"NYCC08508685","NYCC08","2022-09-07T00:00:00.000","Housing and Buildings","Succession Rights","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC14511314","NYCC14","2022-09-07T00:00:00.000","Governmental Operations","DMV","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-09-07T00:00:00.000"
+"NYCC48530244","NYCC48","2022-09-07T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,"2022-09-07T00:00:00.000"
+"NYCC02530454","NYCC02","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Misc.","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-12T00:00:00.000"
+"NYCC07508773","NYCC07","2022-09-07T00:00:00.000","Economy/Jobs","Unemployment Insuran","10031","Manhattan","New York","NYCC07","09 Manhattan","2022-09-07T00:00:00.000"
+"NYCC07508775","NYCC07","2022-09-07T00:00:00.000","Transportation",,,,,," ",
+"NYCC29509216","NYCC29","2022-09-07T00:00:00.000","Sanitation","Litter","11375","Queens","Forest Hills","NYCC29","06 Queens",
+"NYCC08508683","NYCC08","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC46514632","NYCC46","2022-09-07T00:00:00.000","Land Use and Zoning","Zoning","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC08508686","NYCC08","2022-09-07T00:00:00.000","Housing and Buildings","NYCHA Annual Inspection","10029","Manhattan","New York","NYCC08","11 Manhattan","2022-09-07T00:00:00.000"
+"NYCC42502500","NYCC42","2022-09-07T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","11236","Brooklyn","Brooklyn","NYCC42","17 Brooklyn",
+"NYCC06533518","NYCC06","2022-09-07T00:00:00.000","Housing and Buildings","Building Maintenance","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC03555320","NYCC03","2022-09-07T00:00:00.000","Transportation","Street Event Permits","10011","Manhattan","New York","NYCC03","04 Manhattan","2022-09-09T00:00:00.000"
+"NYCC29509215","NYCC29","2022-09-07T00:00:00.000","Quality of Life","Noise- Street/Sidewalk","11375","Queens","Forest Hills","NYCC29","06 Queens",
+"NYCC46514625","NYCC46","2022-09-07T00:00:00.000","Immigration","U.S. Citizenship","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC07508776","NYCC07","2022-09-07T00:00:00.000","Legal Services","Housing","10032","Manhattan","New York","NYCC07","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC27504279","NYCC27","2022-09-07T00:00:00.000","Housing and Buildings","Foreclosure","11412","Queens","Saint Albans","NYCC27","12 Queens",
+"NYCC25512835","NYCC25","2022-09-06T00:00:00.000","Sanitation",,"11377",,"Woodside",," ",
+"NYCC08508672","NYCC08","2022-09-06T00:00:00.000","General Welfare","Family Court","10035","Manhattan","New York","NYCC08","11 Manhattan","2022-09-06T00:00:00.000"
+"NYCC08508673","NYCC08","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Misc.","10454","Manhattan","Bronx","NYCC08","01 Manhattan",
+"NYCC25512836","NYCC25","2022-09-06T00:00:00.000","Governmental Operations",,"11372","Queens","Jackson Heights","NYCC25","03 Queens",
+"NYCC08508674","NYCC08","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10454","Manhattan","Bronx","NYCC08","01 Manhattan",
+"NYCC25512834","NYCC25","2022-09-06T00:00:00.000","Sanitation",,"11377",,"Woodside",," ",
+"NYCC28507774","NYCC28","2022-09-06T00:00:00.000","Governmental Operations",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC51505957","NYCC51","2022-09-06T00:00:00.000","Health","Birth Certificates","10309","Staten Island","Staten Island","NYCC51","03 Staten Island","2022-09-06T00:00:00.000"
+"NYCC02530429","NYCC02","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Misc.","10002","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC08508677","NYCC08","2022-09-06T00:00:00.000","General Welfare","Medicaid",,"Manhattan","New York",,,"2022-09-06T00:00:00.000"
+"NYCC38511572","NYCC38","2022-09-06T00:00:00.000","Parks","Park Maintenance",,,"Brooklyn",," ",
+"NYCC48530230","NYCC48","2022-09-06T00:00:00.000","Finance","Property Tax Bill","11230","Brooklyn","Brooklyn","NYCC48","14 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC05553332","NYCC05","2022-09-06T00:00:00.000","Aging",,"10029","Manhattan","New York","NYCC09","11 Manhattan",
+"NYCC37506332","NYCC37","2022-09-06T00:00:00.000","Finance","Budget Allocation Issue","11208","Brooklyn","Brooklyn","NYCC37","05 Brooklyn",
+"NYCC12501881","NYCC12","2022-09-06T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10466","Bronx","Bronx","NYCC12","12 Bronx",
+"NYCC48530228","NYCC48","2022-09-06T00:00:00.000","Finance","Property Tax Bill","11230","Brooklyn","Brooklyn","NYCC48","14 Brooklyn",
+"NYCC48530229","NYCC48","2022-09-06T00:00:00.000","Parks","Tree Planting/Pruning","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC51505958","NYCC51","2022-09-06T00:00:00.000","Health","Rats/Rodents","10312","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC14511306","NYCC14","2022-09-06T00:00:00.000","Housing and Buildings","Abandoned Building","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-12T00:00:00.000"
+"NYCC14511307","NYCC14","2022-09-06T00:00:00.000","Housing and Buildings","Repair Assistance","10468","Bronx","Bronx","NYCC14","07 Bronx",
+"NYCC23519171","NYCC23","2022-09-06T00:00:00.000",,,"11364","Queens","Oakland Gardens","NYCC23","11 Queens",
+"NYCC14511303","NYCC14","2022-09-06T00:00:00.000","Consumer Affairs","Street Vendor","10468","Bronx","Bronx","NYCC14","08 Bronx",
+"NYCC14511304","NYCC14","2022-09-06T00:00:00.000","Immigration","Translation Services","10453","Bronx","Bronx","NYCC14","05 Bronx",
+"NYCC14511305","NYCC14","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Misc.","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-06T00:00:00.000"
+"NYCC19511422","NYCC19","2022-09-06T00:00:00.000","Housing and Buildings",,"11358","Queens","Flushing","NYCC19","07 Queens",
+"NYCC14511302","NYCC14","2022-09-06T00:00:00.000","General Welfare","Public Assistance","10468","Bronx","Bronx","NYCC14","08 Bronx","2022-09-06T00:00:00.000"
+"NYCC02530432","NYCC02","2022-09-06T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC10511061","NYCC10","2022-09-06T00:00:00.000","COVID-19",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC10511059","NYCC10","2022-09-06T00:00:00.000","Housing and Buildings","Senior Housing","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-06T00:00:00.000"
+"NYCC14511298","NYCC14","2022-09-06T00:00:00.000","Housing and Buildings","HPD Housing Lottery","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-09-06T00:00:00.000"
+"NYCC10511063","NYCC10","2022-09-06T00:00:00.000","General Welfare","Food Stamps","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-07T00:00:00.000"
+"NYCC10511062","NYCC10","2022-09-06T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10034","Manhattan","New York","NYCC10","12 Manhattan","2022-09-06T00:00:00.000"
+"NYCC13509780","NYCC13","2022-09-06T00:00:00.000",,,"10469","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC13509779","NYCC13","2022-09-06T00:00:00.000",,,"10469","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC38511568","NYCC38","2022-09-06T00:00:00.000","Housing and Buildings","HPD Housing Lottery",,,,," ","2022-09-06T00:00:00.000"
+"NYCC14511299","NYCC14","2022-09-06T00:00:00.000","Housing and Buildings","Lease Issue","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-09-06T00:00:00.000"
+"NYCC13509778","NYCC13","2022-09-06T00:00:00.000",,,"10461","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC06533505","NYCC06","2022-09-06T00:00:00.000","Finance","Parking Violation","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533502","NYCC06","2022-09-06T00:00:00.000","Housing and Buildings","Building Maintenance","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-07T00:00:00.000"
+"NYCC14511301","NYCC14","2022-09-06T00:00:00.000","Housing and Buildings","Section 8","10467","Bronx","Bronx","NYCC11","07 Bronx",
+"NYCC06533508","NYCC06","2022-09-06T00:00:00.000","Transportation","Bicycles","10025","Manhattan","New York","NYCC06","07 Manhattan","2022-09-06T00:00:00.000"
+"NYCC48530231","NYCC48","2022-09-06T00:00:00.000",,,"11230","Brooklyn","Brooklyn","NYCC48","14 Brooklyn",
+"NYCC08508679","NYCC08","2022-09-06T00:00:00.000",,,"10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC23519170","NYCC23","2022-09-06T00:00:00.000","Sanitation","Dirty Sidewalk",,,,," ","2022-09-12T00:00:00.000"
+"NYCC46514617","NYCC46","2022-09-06T00:00:00.000","Immigration","U.S. Citizenship","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC50535964","NYCC50","2022-09-06T00:00:00.000","Sanitation","Missed Collection","10305","Staten Island","Staten Island","NYCC49","01 Staten Island",
+"NYCC33504862","NYCC33","2022-09-06T00:00:00.000","Parks",,"11211","Brooklyn","Brooklyn","NYCC33","01 Brooklyn",
+"NYCC22505497","NYCC22","2022-09-06T00:00:00.000","Parks",,"11105","Queens","Astoria","NYCC22","01 Queens",
+"NYCC48530223","NYCC48","2022-09-06T00:00:00.000","Parks","Park Maintenance","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC27504275","NYCC27","2022-09-06T00:00:00.000",,,"11411","Queens","Cambria Heights","NYCC27","13 Queens",
+"NYCC23519166","NYCC23","2022-09-06T00:00:00.000","Health","INSECTS","11426","Queens","Bellerose","NYCC23","13 Queens",
+"NYCC46514621","NYCC46","2022-09-06T00:00:00.000","Immigration","Literary Services for Immigrants","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC06533504","NYCC06","2022-09-06T00:00:00.000","Aging","Senior Centers","10023","Manhattan","New York","NYCC06","07 Manhattan","2022-09-07T00:00:00.000"
+"NYCC48530224","NYCC48","2022-09-06T00:00:00.000","Housing and Buildings","Bed Bugs","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-12T00:00:00.000"
+"NYCC27504278","NYCC27","2022-09-06T00:00:00.000","Housing and Buildings","Construction General","11412","Queens","Saint Albans","NYCC27","12 Queens",
+"NYCC13509781","NYCC13","2022-09-06T00:00:00.000","Education","Pre-K","10465","Bronx","Bronx","NYCC13","10 Bronx","2022-09-06T00:00:00.000"
+"NYCC03555305","NYCC03","2022-09-06T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","10001","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC50535965","NYCC50","2022-09-06T00:00:00.000","Environment","Catch Basins","10314","Staten Island","Staten Island","NYCC50","01 Staten Island",
+"NYCC27504276","NYCC27","2022-09-06T00:00:00.000","Housing and Buildings","Section 8","11412","Queens","Saint Albans","NYCC27","12 Queens",
+"NYCC46514618","NYCC46","2022-09-06T00:00:00.000",,,"11234","Brooklyn","Brooklyn","NYCC45","18 Brooklyn",
+"NYCC46514615","NYCC46","2022-09-06T00:00:00.000","Transportation","Traffic Signals","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC38511566","NYCC38","2022-09-06T00:00:00.000","Legal Services","Immigration","11220","Brooklyn","Brooklyn","NYCC38","07 Brooklyn",
+"NYCC03555303","NYCC03","2022-09-06T00:00:00.000","Transportation","Carriage Horses","10036","Manhattan","New York","NYCC03","04 Manhattan","2022-09-06T00:00:00.000"
+"NYCC46514613","NYCC46","2022-09-06T00:00:00.000","Public Safety","Abandoned Vehicle","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC46514620","NYCC46","2022-09-06T00:00:00.000","Transportation","Access-A-Ride",,,"Brooklyn",," ","2022-09-07T00:00:00.000"
+"NYCC46514614","NYCC46","2022-09-06T00:00:00.000","Quality of Life","Noise - Residential","11234",,"Brooklyn",," ","2022-09-09T00:00:00.000"
+"NYCC46514619","NYCC46","2022-09-06T00:00:00.000","Health","Birth Certificates","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC06533503","NYCC06","2022-09-06T00:00:00.000","Governmental Operations","DMV","10025","Manhattan","New York","NYCC06","07 Manhattan","2022-09-06T00:00:00.000"
+"NYCC43510051","NYCC43","2022-09-06T00:00:00.000","Parks","Tree Planting/Pruning",,,,," ",
+"NYCC43510052","NYCC43","2022-09-06T00:00:00.000","Parks","Dead Tree Removal","11209","Brooklyn","Brooklyn","NYCC43","10 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC50535966","NYCC50","2022-09-06T00:00:00.000","Public Safety","Community Policing","10314","Staten Island","Staten Island","NYCC50","02 Staten Island","2022-09-07T00:00:00.000"
+"NYCC43510054","NYCC43","2022-09-06T00:00:00.000","General Welfare","Food Stamps","11209","Brooklyn","Brooklyn","NYCC43","10 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC27504277","NYCC27","2022-09-06T00:00:00.000","Housing and Buildings","Repair Assistance","11433","Queens","Jamaica","NYCC27","12 Queens",
+"NYCC23519167","NYCC23","2022-09-06T00:00:00.000","Parks","Playground/Park Hours","11364","Queens","Oakland Gardens","NYCC23","11 Queens",
+"NYCC48530225","NYCC48","2022-09-06T00:00:00.000","Utilities","Con Edison","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC10511060","NYCC10","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA New Application","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-06T00:00:00.000"
+"NYCC03555300","NYCC03","2022-09-06T00:00:00.000","Governmental Operations","Volunteer","10011","Manhattan","New York","NYCC03","02 Manhattan","2022-09-06T00:00:00.000"
+"NYCC03555301","NYCC03","2022-09-06T00:00:00.000","Transportation","Driving Instructor","10025","Manhattan","New York","NYCC06","07 Manhattan","2022-09-06T00:00:00.000"
+"NYCC02530439","NYCC02","2022-09-06T00:00:00.000","Transportation","Bicycles","10003","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC03555306","NYCC03","2022-09-06T00:00:00.000","Public Safety","Loitering","10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC48530226","NYCC48","2022-09-06T00:00:00.000","Utilities","Lifeline","11229","Brooklyn","Brooklyn","NYCC46","15 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC32502719","NYCC32","2022-09-06T00:00:00.000","Transportation",,"11694","Queens","Rockaway Park","NYCC32","14 Queens",
+"NYCC35504919","NYCC35","2022-09-06T00:00:00.000","Housing and Buildings",,"11385","Queens","Ridgewood","NYCC30","05 Queens",
+"NYCC06533500","NYCC06","2022-09-06T00:00:00.000","Housing and Buildings","Eviction","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-06T00:00:00.000"
+"NYCC09503683","NYCC09","2022-09-06T00:00:00.000","Aging",,"10029","Manhattan","New York","NYCC09","11 Manhattan",
+"NYCC10511057","NYCC10","2022-09-06T00:00:00.000","Housing and Buildings","Rent Reductions","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-06T00:00:00.000"
+"NYCC38511565","NYCC38","2022-09-06T00:00:00.000","General Welfare","Food Stamps",,,,," ","2022-09-06T00:00:00.000"
+"NYCC02530440","NYCC02","2022-09-06T00:00:00.000","Transportation","Bicycles","10010","Manhattan","New York","NYCC02","06 Manhattan","2022-09-08T00:00:00.000"
+"NYCC08508671","NYCC08","2022-09-06T00:00:00.000","General Welfare","Medicaid",,"Manhattan","New York",,,"2022-09-06T00:00:00.000"
+"NYCC47507872","NYCC47","2022-09-06T00:00:00.000","Environment","Noise Level Measuring Request","11224",,"Brooklyn",," ","2022-09-06T00:00:00.000"
+"NYCC38511564","NYCC38","2022-09-06T00:00:00.000","General Welfare","Public Assistance",,,,," ","2022-09-06T00:00:00.000"
+"NYCC50535967","NYCC50","2022-09-06T00:00:00.000","Parks","Tree Planting/Pruning","10306","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC02530435","NYCC02","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC02530441","NYCC02","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-09T00:00:00.000"
+"NYCC14511296","NYCC14","2022-09-06T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","10458","Bronx","Bronx","NYCC15","05 Bronx","2022-09-06T00:00:00.000"
+"NYCC23519168","NYCC23","2022-09-06T00:00:00.000",,,"11423",,"Queens Village",," ",
+"NYCC06533506","NYCC06","2022-09-06T00:00:00.000","Environment",,,,,," ",
+"NYCC02530442","NYCC02","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-12T00:00:00.000"
+"NYCC06533501","NYCC06","2022-09-06T00:00:00.000","Utilities","Con Edison","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-06T00:00:00.000"
+"NYCC50535963","NYCC50","2022-09-06T00:00:00.000","Transportation","Pot Holes","10314","Staten Island","Staten Island","NYCC50","02 Staten Island","2022-09-12T00:00:00.000"
+"NYCC31504634","NYCC31","2022-09-06T00:00:00.000","Public Safety",,"11691","Queens","Far Rockaway","NYCC31","14 Queens",
+"NYCC39513500","NYCC39","2022-09-06T00:00:00.000","Housing and Buildings",,"11215","Brooklyn","Brooklyn","NYCC39","06 Brooklyn",
+"NYCC31504633","NYCC31","2022-09-06T00:00:00.000","Economy/Jobs",,"11413","Queens","Springfield Gardens","NYCC31","13 Queens",
+"NYCC31504632","NYCC31","2022-09-06T00:00:00.000","Public Safety",,"11691","Queens","Far Rockaway","NYCC31","14 Queens",
+"NYCC48530237","NYCC48","2022-09-06T00:00:00.000","Public Safety","Illegal Parking",,,,," ",
+"NYCC31504635","NYCC31","2022-09-06T00:00:00.000","Public Safety",,"11691","Queens","Far Rockaway","NYCC31","14 Queens",
+"NYCC48530238","NYCC48","2022-09-06T00:00:00.000","Parks","Tree Sidewalk Prog","11210","Brooklyn","Brooklyn","NYCC48","14 Brooklyn",
+"NYCC08508675","NYCC08","2022-09-06T00:00:00.000","General Welfare","Social Security Disability","10029","Manhattan","New York","NYCC08","11 Manhattan","2022-09-06T00:00:00.000"
+"NYCC21513113","NYCC21","2022-09-06T00:00:00.000","Immigration",,"11378","Queens","Maspeth","NYCC30","05 Queens",
+"NYCC02530437","NYCC02","2022-09-06T00:00:00.000","Sanitation","Dirty Sidewalk","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-12T00:00:00.000"
+"NYCC06533498","NYCC06","2022-09-06T00:00:00.000","Finance","SCRIE","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-07T00:00:00.000"
+"NYCC10511055","NYCC10","2022-09-06T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-06T00:00:00.000"
+"NYCC47507870","NYCC47","2022-09-06T00:00:00.000","Housing and Buildings","Senior Housing","11204","Brooklyn","Brooklyn","NYCC47","11 Brooklyn",
+"NYCC48530236","NYCC48","2022-09-06T00:00:00.000","Public Safety","Abandoned Vehicle","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC21513112","NYCC21","2022-09-06T00:00:00.000","Please choose an issue...",,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC06533493","NYCC06","2022-09-06T00:00:00.000","Housing and Buildings","Accessibility","10016","Manhattan","New York","NYCC02","06 Manhattan","2022-09-07T00:00:00.000"
+"NYCC07508768","NYCC07","2022-09-06T00:00:00.000","General Welfare","Letter of Support","10031",,"New York","NYCC"," ",
+"NYCC07508766","NYCC07","2022-09-06T00:00:00.000","Legal Services","Housing","10031","Manhattan","New York","NYCC07","09 Manhattan","2022-09-06T00:00:00.000"
+"NYCC48530233","NYCC48","2022-09-06T00:00:00.000","Housing and Buildings","Building Maintenance","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC07508765","NYCC07","2022-09-06T00:00:00.000","General Welfare","Homeless Encampment","10025","Manhattan","New York","NYCC07","09 Manhattan","2022-09-06T00:00:00.000"
+"NYCC07508764","NYCC07","2022-09-06T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10031","Manhattan","New York","NYCC07","09 Manhattan",
+"NYCC07508767","NYCC07","2022-09-06T00:00:00.000","General Welfare","Letter of Support","10031","Manhattan","New York","NYCC07","09 Manhattan",
+"NYCC06533494","NYCC06","2022-09-06T00:00:00.000","Housing and Buildings","Eviction","10027","Manhattan","New York","NYCC09","10 Manhattan","2022-09-07T00:00:00.000"
+"NYCC06533492","NYCC06","2022-09-06T00:00:00.000","Housing and Buildings","Senior Housing","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC48530234","NYCC48","2022-09-06T00:00:00.000","General Welfare","Public Assistance","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC23519169","NYCC23","2022-09-06T00:00:00.000","Parks","Playground/Park Hours","11426","Queens","Bellerose","NYCC23","13 Queens",
+"NYCC14511297","NYCC14","2022-09-06T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-09-06T00:00:00.000"
+"NYCC06533488","NYCC06","2022-09-06T00:00:00.000","Legal Services",,,,,," ",
+"NYCC48530239","NYCC48","2022-09-06T00:00:00.000","Public Safety","Abandoned Vehicle","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC47507871","NYCC47","2022-09-06T00:00:00.000","Sanitation","Litter Baskets","11235","Brooklyn","Brooklyn","NYCC47","13 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC08508682","NYCC08","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC06533489","NYCC06","2022-09-06T00:00:00.000","Transportation","Traffic Enforcement","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533507","NYCC06","2022-09-06T00:00:00.000","Transportation","Traffic Enforcement","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC10511056","NYCC10","2022-09-06T00:00:00.000","General Welfare","Public Assistance","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-06T00:00:00.000"
+"NYCC02530438","NYCC02","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10002","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC48530227","NYCC48","2022-09-06T00:00:00.000","Transportation","Parking Restrictions",,,,," ","2022-09-08T00:00:00.000"
+"NYCC10511058","NYCC10","2022-09-06T00:00:00.000","General Welfare","Public Assistance","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-06T00:00:00.000"
+"NYCC06533495","NYCC06","2022-09-06T00:00:00.000","Quality of Life","Noise - Bar/Restaurant","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC48530232","NYCC48","2022-09-06T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,"2022-09-06T00:00:00.000"
+"NYCC02530434","NYCC02","2022-09-06T00:00:00.000","Transportation","Sidewalks","10016","Manhattan","New York","NYCC02","06 Manhattan",
+"NYCC06533499","NYCC06","2022-09-06T00:00:00.000","Legal Services","Housing","10025","Manhattan","New York","NYCC07","07 Manhattan","2022-09-06T00:00:00.000"
+"NYCC06533491","NYCC06","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Misc.","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC03555308","NYCC03","2022-09-06T00:00:00.000","Public Safety",,"10014","Manhattan","New York","NYCC03","02 Manhattan",
+"NYCC08508680","NYCC08","2022-09-06T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC48530235","NYCC48","2022-09-06T00:00:00.000","Immigration","UKRAINE WAR","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC38511562","NYCC38","2022-09-06T00:00:00.000","Education","Transfers","11231","Brooklyn","Brooklyn","NYCC38","06 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC38511561","NYCC38","2022-09-05T00:00:00.000","Utilities",,"11215","Brooklyn","Brooklyn","NYCC38","07 Brooklyn",
+"NYCC03555297","NYCC03","2022-09-05T00:00:00.000","Land Use and Zoning","Zoning","10011","Manhattan","New York","NYCC03","04 Manhattan","2022-09-06T00:00:00.000"
+"NYCC22505496","NYCC22","2022-09-05T00:00:00.000","Health",,"11102","Queens","Astoria","NYCC22","01 Queens",
+"NYCC28507773","NYCC28","2022-09-05T00:00:00.000","Parks",,"10030","Manhattan","New York","NYCC09","10 Manhattan",
+"NYCC47507869","NYCC47","2022-09-05T00:00:00.000","Consumer Complaints",,"11214","Brooklyn","Brooklyn","NYCC47","11 Brooklyn",
+"NYCC10511054","NYCC10","2022-09-05T00:00:00.000","Public Safety",,"10040","Manhattan","New York","NYCC10","12 Manhattan",
+"NYCC18502556","NYCC18","2022-09-05T00:00:00.000","Economy/Jobs",,"10473","Bronx","Bronx","NYCC18","09 Bronx",
+"NYCC03555288","NYCC03","2022-09-04T00:00:00.000","Housing and Buildings",,"10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC03555290","NYCC03","2022-09-04T00:00:00.000","Environment",,"10011","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC03555293","NYCC03","2022-09-04T00:00:00.000","Sanitation",,"10036","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC03555294","NYCC03","2022-09-04T00:00:00.000","Land Use and Zoning",,"10011","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC48530222","NYCC48","2022-09-04T00:00:00.000","Parks","Private Use of Public Space","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-04T00:00:00.000"
+"NYCC23519165","NYCC23","2022-09-04T00:00:00.000","Public Safety","Police Precinct","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-06T00:00:00.000"
+"NYCC28507772","NYCC28","2022-09-04T00:00:00.000","General Welfare",,"11434","Queens","Jamaica","NYCC28","12 Queens",
+"NYCC29509210","NYCC29","2022-09-04T00:00:00.000","General Welfare","Public Assistance","11415","Queens","Kew Gardens","NYCC29","09 Queens",
+"NYCC48530220","NYCC48","2022-09-03T00:00:00.000","Public Safety","Illegal Parking",,,"Brooklyn",," ","2022-09-03T00:00:00.000"
+"NYCC48530221","NYCC48","2022-09-03T00:00:00.000","Health","Disability Services",,,,,,"2022-09-03T00:00:00.000"
+"NYCC03555287","NYCC03","2022-09-03T00:00:00.000","Public Safety","Police Precinct","10011","Manhattan","New York","NYCC01","02 Manhattan","2022-09-06T00:00:00.000"
+"NYCC10511052","NYCC10","2022-09-03T00:00:00.000","Governmental Operations",,"10007","Manhattan","New York","NYCC01","01 Manhattan",
+"NYCC10511053","NYCC10","2022-09-03T00:00:00.000","Governmental Operations",,"10007","Manhattan","New York","NYCC01","01 Manhattan",
+"NYCC41501965","NYCC41","2022-09-03T00:00:00.000","Parks",,"10019","Manhattan","New York","NYCC04","05 Manhattan",
+"NYCC48530219","NYCC48","2022-09-03T00:00:00.000","Sanitation","Dirty Sidewalk","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-03T00:00:00.000"
+"NYCC07508762","NYCC07","2022-09-03T00:00:00.000","Public Safety",,"10031",,"Nyc",," ",
+"NYCC06533483","NYCC06","2022-09-02T00:00:00.000","General Welfare","Medicaid",,"Manhattan","New York",,,
+"NYCC02530417","NYCC02","2022-09-02T00:00:00.000","Sanitation","Recycling","10016","Manhattan","New York","NYCC02","06 Manhattan",
+"NYCC02530425","NYCC02","2022-09-02T00:00:00.000","Public Safety","Community Policing","10009",,"New York",," ",
+"NYCC02530426","NYCC02","2022-09-02T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-08T00:00:00.000"
+"NYCC48530218","NYCC48","2022-09-02T00:00:00.000","Cultural Affairs","Theaters","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-04T00:00:00.000"
+"NYCC06533482","NYCC06","2022-09-02T00:00:00.000",,,"10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC02530427","NYCC02","2022-09-02T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC06533484","NYCC06","2022-09-02T00:00:00.000","Finance","SCRIE",,,,," ",
+"NYCC37506331","NYCC37","2022-09-02T00:00:00.000","Public Safety",,"11207","Brooklyn","Brooklyn","NYCC37","05 Brooklyn",
+"NYCC10511051","NYCC10","2022-09-02T00:00:00.000","General Welfare","Public Assistance","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-02T00:00:00.000"
+"NYCC38511560","NYCC38","2022-09-02T00:00:00.000","Governmental Operations","Voting Information","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-06T00:00:00.000"
+"NYCC38511554","NYCC38","2022-09-02T00:00:00.000","Housing and Buildings","Senior Housing",,,,," ","2022-09-02T00:00:00.000"
+"NYCC02530418","NYCC02","2022-09-02T00:00:00.000","Education","School Registration/Placement","10708",,"Yonkers","NYCC"," ","2022-09-02T00:00:00.000"
+"NYCC38511559","NYCC38","2022-09-02T00:00:00.000","Quality of Life","Panhandling","11232","Brooklyn","Brooklyn","NYCC38","07 Brooklyn","2022-09-02T00:00:00.000"
+"NYCC38511553","NYCC38","2022-09-02T00:00:00.000","Housing and Buildings","HPD Housing Lottery",,,,," ","2022-09-02T00:00:00.000"
+"NYCC38511558","NYCC38","2022-09-02T00:00:00.000","General Welfare","Medicaid",,"Brooklyn","Brooklyn",,,"2022-09-02T00:00:00.000"
+"NYCC06533474","NYCC06","2022-09-02T00:00:00.000","Land Use and Zoning","Zoning","10025","Manhattan","New York","NYCC06","07 Manhattan","2022-09-02T00:00:00.000"
+"NYCC06533478","NYCC06","2022-09-02T00:00:00.000","Health","Rats/Rodents","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-02T00:00:00.000"
+"NYCC06533485","NYCC06","2022-09-02T00:00:00.000","Housing and Buildings","NYCHA Misc.","10024",,"New York",," ",
+"NYCC12501879","NYCC12","2022-09-02T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10466","Bronx","Bronx","NYCC12","12 Bronx",
+"NYCC36502683","NYCC36","2022-09-02T00:00:00.000","Housing and Buildings",,"11221",,"Brooklyn",," ",
+"NYCC06533472","NYCC06","2022-09-02T00:00:00.000","Health","Hospital Facility or Clinic","10025","Manhattan","New York","NYCC07","09 Manhattan","2022-09-02T00:00:00.000"
+"NYCC03555285","NYCC03","2022-09-02T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","10011","Manhattan","New York","NYCC03","04 Manhattan","2022-09-06T00:00:00.000"
+"NYCC03555286","NYCC03","2022-09-02T00:00:00.000","Public Safety",,"10019","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC02530422","NYCC02","2022-09-02T00:00:00.000","Housing and Buildings","Scaffolding","10016","Manhattan","New York","NYCC04","06 Manhattan",
+"NYCC51505956","NYCC51","2022-09-02T00:00:00.000","Utilities","Con Edison","10308","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC24502056","NYCC24","2022-09-02T00:00:00.000","Housing and Buildings",,"11365",,"Flushing",," ",
+"NYCC19511421","NYCC19","2022-09-02T00:00:00.000","Public Safety",,"11357","Queens","Whitestone","NYCC19","07 Queens",
+"NYCC45507683","NYCC45","2022-09-02T00:00:00.000","Immigration","Passport",,,,," ",
+"NYCC45507679","NYCC45","2022-09-02T00:00:00.000","Finance","Property Tax Bill","11203","Brooklyn","Brooklyn","NYCC45","17 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC45507680","NYCC45","2022-09-02T00:00:00.000",,,"11210",,,," ",
+"NYCC45507678","NYCC45","2022-09-02T00:00:00.000","Housing and Buildings","Senior Housing","11226","Brooklyn","Brooklyn","NYCC40","17 Brooklyn",
+"NYCC13509776","NYCC13","2022-09-02T00:00:00.000",,,"10462","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC45507677","NYCC45","2022-09-02T00:00:00.000",,,"11210","Brooklyn","Brooklyn","NYCC45","14 Brooklyn",
+"NYCC45507681","NYCC45","2022-09-02T00:00:00.000","Immigration",,"11226","Brooklyn","Brooklyn","NYCC45","17 Brooklyn",
+"NYCC45507675","NYCC45","2022-09-02T00:00:00.000",,,,,,," ",
+"NYCC13509774","NYCC13","2022-09-02T00:00:00.000",,,"10461","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC06533487","NYCC06","2022-09-02T00:00:00.000","Housing and Buildings","Eviction","10031","Manhattan","New York","NYCC07","09 Manhattan","2022-09-02T00:00:00.000"
+"NYCC38511552","NYCC38","2022-09-02T00:00:00.000","Immigration","U.S. Citizenship","11220","Brooklyn","Brooklyn","NYCC38","07 Brooklyn","2022-09-02T00:00:00.000"
+"NYCC45507682","NYCC45","2022-09-02T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,
+"NYCC13509773","NYCC13","2022-09-02T00:00:00.000","Environment","Street Flooding","10453","Bronx","Bronx","NYCC14","05 Bronx","2022-09-02T00:00:00.000"
+"NYCC13509772","NYCC13","2022-09-02T00:00:00.000",,,"10462","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC02530423","NYCC02","2022-09-02T00:00:00.000","Education","CUNY - Transfer Credit Issue","10002","Manhattan","New York","NYCC02","03 Manhattan","2022-09-12T00:00:00.000"
+"NYCC45507676","NYCC45","2022-09-02T00:00:00.000","Immigration",,,,,," ",
+"NYCC13509775","NYCC13","2022-09-02T00:00:00.000",,,"10462","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC02530419","NYCC02","2022-09-02T00:00:00.000","Health","Hospital Facility or Clinic","10003","Manhattan","New York","NYCC02","03 Manhattan","2022-09-02T00:00:00.000"
+"NYCC14511293","NYCC14","2022-09-02T00:00:00.000","Youth Services","Disconnected Youth","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-09T00:00:00.000"
+"NYCC14511294","NYCC14","2022-09-02T00:00:00.000","Housing and Buildings","Repair Assistance","10468","Bronx","Bronx","NYCC14","07 Bronx",
+"NYCC06533477","NYCC06","2022-09-02T00:00:00.000","Education","Curriculum","10025","Manhattan","New York","NYCC07","07 Manhattan",
+"NYCC14511295","NYCC14","2022-09-02T00:00:00.000","Aging",,"10468","Bronx","Bronx","NYCC14","07 Bronx",
+"NYCC46514611","NYCC46","2022-09-02T00:00:00.000","Parks","Tree Planting/Pruning","11229","Brooklyn","Brooklyn","NYCC46","15 Brooklyn",
+"NYCC46514608","NYCC46","2022-09-02T00:00:00.000","General Welfare","Social Security Disability","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-02T00:00:00.000"
+"NYCC48530215","NYCC48","2022-09-02T00:00:00.000","Housing and Buildings","Carbon Monoxide And/",,,"Brooklyn",," ","2022-09-02T00:00:00.000"
+"NYCC46514609","NYCC46","2022-09-02T00:00:00.000","Housing and Buildings","Maintenance","11229",,"Brooklyn",," ",
+"NYCC46514612","NYCC46","2022-09-02T00:00:00.000","Economy/Jobs","Unemployment Insuran","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-02T00:00:00.000"
+"NYCC46514603","NYCC46","2022-09-02T00:00:00.000","Finance","Property Tax Rebate","11229","Brooklyn","Brooklyn","NYCC46","15 Brooklyn",
+"NYCC23519163","NYCC23","2022-09-02T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","11426","Queens","Bellerose","NYCC23","13 Queens",
+"NYCC04507604","NYCC04","2022-09-02T00:00:00.000","Health",,"10065","Manhattan","New York","NYCC04","08 Manhattan",
+"NYCC23519162","NYCC23","2022-09-02T00:00:00.000","Public Safety","Illegal Parking","11366","Queens","Fresh Meadows","NYCC23","08 Queens",
+"NYCC46514604","NYCC46","2022-09-02T00:00:00.000","Housing and Buildings",,"11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC18502555","NYCC18","2022-09-02T00:00:00.000","COVID-19",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC46514605","NYCC46","2022-09-02T00:00:00.000","Parks","Park Maintenance",,,"Brooklyn",," ","2022-09-09T00:00:00.000"
+"NYCC50535960","NYCC50","2022-09-02T00:00:00.000","Education","Transfers","10304","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC46514606","NYCC46","2022-09-02T00:00:00.000","Parks","Park Maintenance","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC13509768","NYCC13","2022-09-02T00:00:00.000",,,,,,," ",
+"NYCC50535962","NYCC50","2022-09-02T00:00:00.000","Public Safety","Drag Racing","10314","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC23519164","NYCC23","2022-09-02T00:00:00.000","Finance","SCRIE","11365","Queens","Fresh Meadows","NYCC23","08 Queens",
+"NYCC06533476","NYCC06","2022-09-02T00:00:00.000","General Welfare","Medicaid",,"Manhattan","New York",,,
+"NYCC46514607","NYCC46","2022-09-02T00:00:00.000","Sanitation","Street Cleaning","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-02T00:00:00.000"
+"NYCC48530216","NYCC48","2022-09-02T00:00:00.000","Transportation","Sidewalks","11210","Brooklyn","Brooklyn","NYCC48","14 Brooklyn","2022-09-02T00:00:00.000"
+"NYCC23519161","NYCC23","2022-09-02T00:00:00.000","Parks","Playground/Park Hours","11364","Queens","Oakland Gardens","NYCC23","11 Queens",
+"NYCC23519160","NYCC23","2022-09-02T00:00:00.000","Finance","Property Tax Rebate","11364","Queens","Oakland Gardens","NYCC23","11 Queens",
+"NYCC50535959","NYCC50","2022-09-02T00:00:00.000","Education","Transfers","10304","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC06533481","NYCC06","2022-09-02T00:00:00.000","Housing and Buildings","Lease Issue","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-02T00:00:00.000"
+"NYCC06533496","NYCC06","2022-09-02T00:00:00.000","General Welfare","Food Stamps","10023","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC20506337","NYCC20","2022-09-02T00:00:00.000","Environment",,"11413","Queens","Laurelton","NYCC31","13 Queens",
+"NYCC13509770","NYCC13","2022-09-02T00:00:00.000",,,"10462","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC02530421","NYCC02","2022-09-02T00:00:00.000","Public Safety","Home Robbery / Theft","10002","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC48530217","NYCC48","2022-09-02T00:00:00.000","Sanitation","Recycling","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC23519159","NYCC23","2022-09-02T00:00:00.000","Public Safety","Illegal Parking","11040",,"New Hyde Park",," ",
+"NYCC50535968","NYCC50","2022-09-02T00:00:00.000","General Welfare","Public Assistance","10304","Staten Island","Staten Island","NYCC49","01 Staten Island","2022-09-06T00:00:00.000"
+"NYCC10511048","NYCC10","2022-09-01T00:00:00.000","Housing and Buildings","Rental Arrears","10031","Manhattan","New York","NYCC07","09 Manhattan","2022-09-01T00:00:00.000"
+"NYCC10511049","NYCC10","2022-09-01T00:00:00.000","Youth Services",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC49512652","NYCC49","2022-09-01T00:00:00.000","Public Safety",,"10303","Staten Island","Staten Island","NYCC49","01 Staten Island",
+"NYCC37506330","NYCC37","2022-09-01T00:00:00.000","Health","Rats/Rodents","11233","Brooklyn","Brooklyn","NYCC37","16 Brooklyn",
+"NYCC37506329","NYCC37","2022-09-01T00:00:00.000","General Welfare",,"11207",,"Brooklyn",," ",
+"NYCC10511050","NYCC10","2022-09-01T00:00:00.000","Finance","SCRIE","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-01T00:00:00.000"
+"NYCC37506328","NYCC37","2022-09-01T00:00:00.000","Housing and Buildings",,"11221","Brooklyn","Brooklyn","NYCC37","04 Brooklyn",
+"NYCC10511045","NYCC10","2022-09-01T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-01T00:00:00.000"
+"NYCC10511042","NYCC10","2022-09-01T00:00:00.000","Housing and Buildings","Senior Housing",,,,," ","2022-09-01T00:00:00.000"
+"NYCC05553329","NYCC05","2022-09-01T00:00:00.000","Youth Services",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC10511046","NYCC10","2022-09-01T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10040","Manhattan","New York","NYCC10","12 Manhattan","2022-09-01T00:00:00.000"
+"NYCC10511041","NYCC10","2022-09-01T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-01T00:00:00.000"
+"NYCC10511043","NYCC10","2022-09-01T00:00:00.000","Housing and Buildings","NYCHA Misc.","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-09-01T00:00:00.000"
+"NYCC12501877","NYCC12","2022-09-01T00:00:00.000","Please choose an issue...",,"10475","Bronx","Bronx","NYCC12","10 Bronx",
+"NYCC10511040","NYCC10","2022-09-01T00:00:00.000","Housing and Buildings","Lease Issue","10032","Manhattan","New York","NYCC10","12 Manhattan","2022-09-01T00:00:00.000"
+"NYCC02530416","NYCC02","2022-09-01T00:00:00.000","Public Safety","Illegal Parking","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn","2022-09-12T00:00:00.000"
+"NYCC37506325","NYCC37","2022-09-01T00:00:00.000","Housing and Buildings","Tenant Harassment","11233","Brooklyn","Brooklyn","NYCC37","16 Brooklyn",
+"NYCC51505954","NYCC51","2022-09-01T00:00:00.000","Health","Birth Certificates","10312","Staten Island","Staten Island","NYCC51","03 Staten Island","2022-09-07T00:00:00.000"
+"NYCC38511547","NYCC38","2022-09-01T00:00:00.000","Education","Transfers",,,,," ","2022-09-02T00:00:00.000"
+"NYCC51505955","NYCC51","2022-09-01T00:00:00.000","Sanitation","Litter",,,"Staten Island",," ","2022-09-01T00:00:00.000"
+"NYCC06533468","NYCC06","2022-09-01T00:00:00.000","Housing and Buildings","Gas","10023","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC38511548","NYCC38","2022-09-01T00:00:00.000","Civil Service and Labor","Workplace Conditions",,,,," ",
+"NYCC51505953","NYCC51","2022-09-01T00:00:00.000","Finance","Property Tax Rebate","10312","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC06533469","NYCC06","2022-09-01T00:00:00.000","Housing and Buildings","Accessibility","10025","Manhattan","New York","NYCC06","07 Manhattan","2022-09-01T00:00:00.000"
+"NYCC02530414","NYCC02","2022-09-01T00:00:00.000","Housing and Buildings","Repair Assistance","10033","Manhattan","New York","NYCC10","12 Manhattan",
+"NYCC38511551","NYCC38","2022-09-01T00:00:00.000",,,,,"Brooklyn",," ",
+"NYCC38511546","NYCC38","2022-09-01T00:00:00.000","Housing and Buildings","HPD Housing Lottery","11220","Brooklyn","Brooklyn","NYCC38","07 Brooklyn","2022-09-01T00:00:00.000"
+"NYCC45507672","NYCC45","2022-09-01T00:00:00.000","MENTAL HEALTH-DISABILITY-",,"11230","Brooklyn","Brooklyn","NYCC45","14 Brooklyn",
+"NYCC45507673","NYCC45","2022-09-01T00:00:00.000","Legal Services",,,,,," ",
+"NYCC06533471","NYCC06","2022-09-01T00:00:00.000","Housing and Buildings","Building Maintenance","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC45507671","NYCC45","2022-09-01T00:00:00.000","Legal Services",,"11230","Brooklyn","Brooklyn","NYCC45","14 Brooklyn",
+"NYCC45507674","NYCC45","2022-09-01T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,,,,,
+"NYCC02530412","NYCC02","2022-09-01T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-01T00:00:00.000"
+"NYCC02530415","NYCC02","2022-09-01T00:00:00.000","Public Safety","Identity Theft","10016","Manhattan","New York","NYCC02","06 Manhattan","2022-09-09T00:00:00.000"
+"NYCC16502923","NYCC16","2022-09-01T00:00:00.000","Education",,"10451","Bronx","Bronx","NYCC17","01 Bronx",
+"NYCC13509756","NYCC13","2022-09-01T00:00:00.000",,,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC03555280","NYCC03","2022-09-01T00:00:00.000","Housing and Buildings",,"10014","Manhattan","New York","NYCC03","02 Manhattan",
+"NYCC13509755","NYCC13","2022-09-01T00:00:00.000",,,"10461","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC48530213","NYCC48","2022-09-01T00:00:00.000","Sanitation","Dirty Sidewalk",,,,," ","2022-09-04T00:00:00.000"
+"NYCC34519569","NYCC34","2022-09-01T00:00:00.000","Parks",,"11221","Brooklyn","Brooklyn","NYCC34","04 Brooklyn",
+"NYCC48530212","NYCC48","2022-09-01T00:00:00.000","General Welfare","Public Assistance","11224","Brooklyn","Brooklyn","NYCC48","13 Brooklyn","2022-09-01T00:00:00.000"
+"NYCC48530214","NYCC48","2022-09-01T00:00:00.000","Parks",,"11229","Brooklyn","Brooklyn","NYCC46","15 Brooklyn",
+"NYCC13509765","NYCC13","2022-09-01T00:00:00.000",,,,,"Bronx","NYCC"," ",
+"NYCC44522684","NYCC44","2022-09-01T00:00:00.000","Public Safety",,"11219","Brooklyn","Brooklyn","NYCC38","11 Brooklyn",
+"NYCC01513235","NYCC01","2022-09-01T00:00:00.000","Economy/Jobs","Unemployment Insuran","10002","Manhattan","New York","NYCC01","03 Manhattan","2022-09-01T00:00:00.000"
+"NYCC01513236","NYCC01","2022-09-01T00:00:00.000","MENTAL HEALTH-DISABILITY-",,,,,," ",
+"NYCC03555281","NYCC03","2022-09-01T00:00:00.000","Land Use and Zoning","Zoning","10001","Manhattan","New York","NYCC03","04 Manhattan","2022-09-06T00:00:00.000"
+"NYCC27504274","NYCC27","2022-09-01T00:00:00.000","Public Safety","NYPD Personnel","11413","Queens","Laurelton","NYCC31","13 Queens","2022-09-01T00:00:00.000"
+"NYCC13509766","NYCC13","2022-09-01T00:00:00.000","Public Safety",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC13509754","NYCC13","2022-09-01T00:00:00.000",,,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC09503681","NYCC09","2022-09-01T00:00:00.000","Transportation",,"10035","Manhattan","New York","NYCC09","11 Manhattan",
+"NYCC03555283","NYCC03","2022-09-01T00:00:00.000","Public Safety","Drug Activity","10001","Manhattan","New York","NYCC04","05 Manhattan","2022-09-08T00:00:00.000"
+"NYCC09503682","NYCC09","2022-09-01T00:00:00.000","Parks",,"10030","Manhattan","New York","NYCC09","10 Manhattan",
+"NYCC48530209","NYCC48","2022-09-01T00:00:00.000","Education","School Choice",,,,," ","2022-09-06T00:00:00.000"
+"NYCC48530210","NYCC48","2022-09-01T00:00:00.000","Immigration","UKRAINE WAR","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC13509749","NYCC13","2022-09-01T00:00:00.000",,,"10462","Bronx","Bronx","NYCC13","11 Bronx",
+"NYCC46514599","NYCC46","2022-09-01T00:00:00.000","Public Safety","Home Robbery / Theft","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-01T00:00:00.000"
+"NYCC46514600","NYCC46","2022-09-01T00:00:00.000","General Welfare","FEPS - Family Eviction Prevention Subsidy","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC46514602","NYCC46","2022-09-01T00:00:00.000","Finance","Tax Exemption","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-02T00:00:00.000"
+"NYCC48530211","NYCC48","2022-09-01T00:00:00.000","Education","Special Education","11230","Brooklyn","Brooklyn","NYCC48","14 Brooklyn","2022-09-08T00:00:00.000"
+"NYCC13509748","NYCC13","2022-09-01T00:00:00.000",,,"10461","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC46514601","NYCC46","2022-09-01T00:00:00.000","Education","Teacher Termination","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-01T00:00:00.000"
+"NYCC13509750","NYCC13","2022-09-01T00:00:00.000",,,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC13509753","NYCC13","2022-09-01T00:00:00.000",,,"10465","Bronx","Bronx","NYCC13","10 Bronx",
+"NYCC46514597","NYCC46","2022-09-01T00:00:00.000","Transportation","Pedestrian Safety","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-01T00:00:00.000"
+"NYCC50535958","NYCC50","2022-09-01T00:00:00.000","Public Safety","Community Policing","10310","Staten Island","Staten Island","NYCC49","01 Staten Island","2022-09-01T00:00:00.000"
+"NYCC46514596","NYCC46","2022-09-01T00:00:00.000","Immigration","U.S. Citizenship","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-01T00:00:00.000"
+"NYCC46514598","NYCC46","2022-09-01T00:00:00.000","Utilities","National Grid","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC40516031","NYCC40","2022-09-01T00:00:00.000","Youth Services",,"10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC46514595","NYCC46","2022-09-01T00:00:00.000","Immigration","U.S. Citizenship","11210","Brooklyn","Brooklyn","NYCC45","14 Brooklyn","2022-09-01T00:00:00.000"
+"NYCC23519153","NYCC23","2022-09-01T00:00:00.000",,,"11427","Queens","Queens Village","NYCC23","11 Queens",
+"NYCC23519152","NYCC23","2022-09-01T00:00:00.000","Parks","Tree Planting/Pruning","11364","Queens","Oakland Gardens","NYCC23","11 Queens",
+"NYCC23519154","NYCC23","2022-09-01T00:00:00.000","Quality of Life","Noise - Other","11426","Queens","Bellerose","NYCC23","13 Queens",
+"NYCC23519151","NYCC23","2022-09-01T00:00:00.000","Parks","Tree Sidewalk Prog","11364","Queens","Bayside Hills","NYCC23","11 Queens",
+"NYCC23519155","NYCC23","2022-09-01T00:00:00.000","Parks","Tree Sidewalk Prog","11426","Queens","Bellerose","NYCC23","13 Queens",
+"NYCC39513499","NYCC39","2022-09-01T00:00:00.000","Housing and Buildings",,"11215","Brooklyn","Brooklyn","NYCC39","06 Brooklyn",
+"NYCC23519156","NYCC23","2022-09-01T00:00:00.000","Public Safety","Abandoned Vehicle","11426","Queens","Bellerose","NYCC23","13 Queens","2022-09-07T00:00:00.000"
+"NYCC50535954","NYCC50","2022-09-01T00:00:00.000","Environment","Noise Level Measuring Request",,,,," ","2022-09-02T00:00:00.000"
+"NYCC23519157","NYCC23","2022-09-01T00:00:00.000","Transportation","Curb Condition","11427","Queens","Queens Village","NYCC23","13 Queens","2022-09-02T00:00:00.000"
+"NYCC50535955","NYCC50","2022-09-01T00:00:00.000","Health","Insects",,,,," ","2022-09-01T00:00:00.000"
+"NYCC02530411","NYCC02","2022-09-01T00:00:00.000","Economy/Jobs","Seeking Employment","10016","Manhattan","New York","NYCC02","06 Manhattan",
+"NYCC03555284","NYCC03","2022-09-01T00:00:00.000","Transportation","Bicycles","10036","Manhattan","New York","NYCC03","05 Manhattan","2022-09-08T00:00:00.000"
+"NYCC50535953","NYCC50","2022-09-01T00:00:00.000","Utilities","National Grid","10314","Staten Island","Staten Island","NYCC50","02 Staten Island","2022-09-02T00:00:00.000"
+"NYCC23519158","NYCC23","2022-09-01T00:00:00.000","Governmental Operations","Form Letter","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-02T00:00:00.000"
+"NYCC50535956","NYCC50","2022-09-01T00:00:00.000","Transportation","Street Signs","10314","Staten Island","Staten Island","NYCC50","01 Staten Island",
+"NYCC50535952","NYCC50","2022-09-01T00:00:00.000","Governmental Operations","311 Call Center","10309","Staten Island","Staten Island","NYCC51","03 Staten Island","2022-09-01T00:00:00.000"
+"NYCC10511044","NYCC10","2022-09-01T00:00:00.000","Housing and Buildings","Section 8","10032","Manhattan","New York","NYCC10","12 Manhattan","2022-09-01T00:00:00.000"
+"NYCC50535957","NYCC50","2022-09-01T00:00:00.000","Transportation","Traffic Signals","10314","Staten Island","Staten Island","NYCC50","01 Staten Island",
+"NYCC46514594","NYCC46","2022-09-01T00:00:00.000","Immigration","U.S. Citizenship","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-01T00:00:00.000"
+"NYCC37506327","NYCC37","2022-09-01T00:00:00.000","Utilities","Con Edison","11237",,"Brooklyn","NYCC"," ",
+"NYCC08508667","NYCC08","2022-08-31T00:00:00.000","Public Safety",,"10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC08508663","NYCC08","2022-08-31T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Manhattan","New York",,,"2022-08-31T00:00:00.000"
+"NYCC48530202","NYCC48","2022-08-31T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,,"Brooklyn",,,"2022-08-31T00:00:00.000"
+"NYCC08508664","NYCC08","2022-08-31T00:00:00.000","Housing and Buildings","Supportive Housing","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC08508662","NYCC08","2022-08-31T00:00:00.000","General Welfare","Medicaid",,"Manhattan","New York",,,"2022-08-31T00:00:00.000"
+"NYCC48530201","NYCC48","2022-08-31T00:00:00.000","Immigration","Passport","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-08-31T00:00:00.000"
+"NYCC48530203","NYCC48","2022-08-31T00:00:00.000",,,"11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC08508665","NYCC08","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Misc.","10035","Manhattan","New York","NYCC08","11 Manhattan","2022-09-06T00:00:00.000"
+"NYCC48530204","NYCC48","2022-08-31T00:00:00.000","Finance","Budget Allocation Issue",,,,," ","2022-08-31T00:00:00.000"
+"NYCC28507767","NYCC28","2022-08-31T00:00:00.000","Please choose an issue...",,"10458","Bronx","Bronx","NYCC15","07 Bronx",
+"NYCC08508666","NYCC08","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Misc.","10035","Manhattan","New York","NYCC08","11 Manhattan","2022-08-31T00:00:00.000"
+"NYCC28507768","NYCC28","2022-08-31T00:00:00.000","Education",,"10458","Bronx","Bronx","NYCC15","07 Bronx",
+"NYCC08508661","NYCC08","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Misc.","10035","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC48530207","NYCC48","2022-08-31T00:00:00.000",,,"11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC02530407","NYCC02","2022-08-31T00:00:00.000","Public Safety","Corrections","10032","Manhattan","New York","NYCC10","12 Manhattan","2022-09-09T00:00:00.000"
+"NYCC20506336","NYCC20","2022-08-31T00:00:00.000","Health",,"11354","Queens","Flushing","NYCC20","07 Queens",
+"NYCC48530200","NYCC48","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Misc.","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn",
+"NYCC37506320","NYCC37","2022-08-31T00:00:00.000","Housing and Buildings","Section 8","11207","Brooklyn","Brooklyn","NYCC37","05 Brooklyn","2022-09-09T00:00:00.000"
+"NYCC08508659","NYCC08","2022-08-31T00:00:00.000","Housing and Buildings","ONE SHOT DEAL","10029","Manhattan","New York","NYCC08","11 Manhattan","2022-08-31T00:00:00.000"
+"NYCC48530195","NYCC48","2022-08-31T00:00:00.000","Sanitation","Missed Collection","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn","2022-09-07T00:00:00.000"
+"NYCC37506321","NYCC37","2022-08-31T00:00:00.000","Education",,"11208","Brooklyn","Brooklyn","NYCC37","05 Brooklyn",
+"NYCC10511037","NYCC10","2022-08-31T00:00:00.000","General Welfare","Public Assistance","10468","Bronx","Bronx","NYCC14","07 Bronx","2022-08-31T00:00:00.000"
+"NYCC48530193","NYCC48","2022-08-31T00:00:00.000","Finance","Budget Allocation Issue",,,,," ","2022-08-31T00:00:00.000"
+"NYCC48530196","NYCC48","2022-08-31T00:00:00.000","Sanitation","Litter","11235",,"Brooklyn",," ",
+"NYCC08508658","NYCC08","2022-08-31T00:00:00.000","General Welfare","Food Stamps","10454",,,," ","2022-09-06T00:00:00.000"
+"NYCC48530197","NYCC48","2022-08-31T00:00:00.000",,,"11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn",
+"NYCC37506322","NYCC37","2022-08-31T00:00:00.000",,,,,,," ",
+"NYCC10511038","NYCC10","2022-08-31T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10034","Manhattan","New York","NYCC10","12 Manhattan","2022-08-31T00:00:00.000"
+"NYCC48530192","NYCC48","2022-08-31T00:00:00.000",,,,,,," ",
+"NYCC37506323","NYCC37","2022-08-31T00:00:00.000","Housing and Buildings","HPD Housing Lottery",,,,," ",
+"NYCC28507766","NYCC28","2022-08-31T00:00:00.000","Education",,"10458","Bronx","Bronx","NYCC15","07 Bronx",
+"NYCC10511036","NYCC10","2022-08-31T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10034","Manhattan","New York","NYCC10","12 Manhattan","2022-08-31T00:00:00.000"
+"NYCC48530191","NYCC48","2022-08-31T00:00:00.000","General Welfare","SSI and Social Security","11235","Brooklyn","Brooklyn","NYCC48","13 Brooklyn","2022-08-31T00:00:00.000"
+"NYCC48530198","NYCC48","2022-08-31T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,"2022-08-31T00:00:00.000"
+"NYCC10511039","NYCC10","2022-08-31T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10033","Manhattan","New York","NYCC10","12 Manhattan","2022-08-31T00:00:00.000"
+"NYCC48530199","NYCC48","2022-08-31T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,"2022-08-31T00:00:00.000"
+"NYCC02530401","NYCC02","2022-08-31T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Manhattan","New York",,,"2022-08-31T00:00:00.000"
+"NYCC08508660","NYCC08","2022-08-31T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues","10029","Manhattan","New York","NYCC09","11 Manhattan","2022-08-31T00:00:00.000"
+"NYCC48530206","NYCC48","2022-08-31T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,"2022-09-08T00:00:00.000"
+"NYCC02530408","NYCC02","2022-08-31T00:00:00.000","General Welfare","Homeless Encampment","10003","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC28507769","NYCC28","2022-08-31T00:00:00.000","Please choose an issue...",,"10458","Bronx","Bronx","NYCC15","07 Bronx",
+"NYCC06533462","NYCC06","2022-08-31T00:00:00.000","General Welfare","Food Stamps","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-06T00:00:00.000"
+"NYCC06533463","NYCC06","2022-08-31T00:00:00.000","Aging","Medicare and Medicare Part D",,,,,,"2022-09-06T00:00:00.000"
+"NYCC06533466","NYCC06","2022-08-31T00:00:00.000","Housing and Buildings","Gas","10025","Manhattan","New York","NYCC07","07 Manhattan",
+"NYCC10511032","NYCC10","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Misc.","10034","Manhattan","New York","NYCC10","12 Manhattan","2022-08-31T00:00:00.000"
+"NYCC38511544","NYCC38","2022-08-31T00:00:00.000","Consumer Affairs","Insurance",,,"Bklyn",," ","2022-08-31T00:00:00.000"
+"NYCC38511545","NYCC38","2022-08-31T00:00:00.000","Transportation","Speed Bump Request","11220","Brooklyn","Brooklyn","NYCC38","07 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC10511033","NYCC10","2022-08-31T00:00:00.000","Finance","SCRIE","10002","Manhattan","New York","NYCC01","03 Manhattan","2022-08-31T00:00:00.000"
+"NYCC38511543","NYCC38","2022-08-31T00:00:00.000","General Welfare","Public Assistance","11232","Brooklyn","Brooklyn","NYCC38","07 Brooklyn","2022-08-31T00:00:00.000"
+"NYCC51505951","NYCC51","2022-08-31T00:00:00.000","Transportation","Street Resurfacing","10314","Staten Island","Staten Island","NYCC50","01 Staten Island","2022-08-31T00:00:00.000"
+"NYCC38511541","NYCC38","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Misc.",,,,," ","2022-08-31T00:00:00.000"
+"NYCC38511542","NYCC38","2022-08-31T00:00:00.000","Housing and Buildings","Landlord/Managing Agent Issues",,,,," ",
+"NYCC51505952","NYCC51","2022-08-31T00:00:00.000","Finance","Property Tax Rebate","10312","Staten Island","Staten Island","NYCC51","03 Staten Island",
+"NYCC28507770","NYCC28","2022-08-31T00:00:00.000","Education",,"10458","Bronx","Bronx","NYCC15","07 Bronx",
+"NYCC02530409","NYCC02","2022-08-31T00:00:00.000","Housing and Buildings","Repair Assistance","10016","Manhattan","New York","NYCC02","06 Manhattan",
+"NYCC10511034","NYCC10","2022-08-31T00:00:00.000","Governmental Operations",,"10033",,"New York",," ",
+"NYCC02530406","NYCC02","2022-08-31T00:00:00.000","Transportation","Street Event Permits","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC02530402","NYCC02","2022-08-31T00:00:00.000","Aging","Elder Abuse",,"Manhattan","New York",,,
+"NYCC06533458","NYCC06","2022-08-31T00:00:00.000","Civil Service and Labor","Employee Benefits and Retirement","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533450","NYCC06","2022-08-31T00:00:00.000","Parks","Off-Leash Hours (Dog)","10024","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533451","NYCC06","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Misc.","10024",,"New York, NY",," ",
+"NYCC03555279","NYCC03","2022-08-31T00:00:00.000","General Welfare",,"10012","Manhattan","New York","NYCC01","02 Manhattan",
+"NYCC06533452","NYCC06","2022-08-31T00:00:00.000","General Welfare","Food Pantry","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC02530398","NYCC02","2022-08-31T00:00:00.000","Transportation","Bicycles","10009","Manhattan","New York","NYCC04","06 Manhattan",
+"NYCC10511035","NYCC10","2022-08-31T00:00:00.000","Housing and Buildings","Senior Housing","10033",,"New York",," ","2022-08-31T00:00:00.000"
+"NYCC06533453","NYCC06","2022-08-31T00:00:00.000","Transportation","Bicycles","10023","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC06533447","NYCC06","2022-08-31T00:00:00.000","Governmental Operations","Volunteer","10023","Manhattan","New York","NYCC06","07 Manhattan","2022-09-06T00:00:00.000"
+"NYCC06533444","NYCC06","2022-08-31T00:00:00.000","Housing and Buildings","Senior Housing","10024","Manhattan","New York","NYCC06","07 Manhattan","2022-09-06T00:00:00.000"
+"NYCC27504273","NYCC27","2022-08-31T00:00:00.000","Transportation","Speed Bump Request","11433",,,," ",
+"NYCC28507771","NYCC28","2022-08-31T00:00:00.000","Public Safety","Prostitution","11433",,"Jamaica","NYCC"," ",
+"NYCC27504270","NYCC27","2022-08-31T00:00:00.000","Transportation","Sidewalks",,,,," ",
+"NYCC27504271","NYCC27","2022-08-31T00:00:00.000","Housing and Buildings","Repair Assistance",,,,," ",
+"NYCC27504267","NYCC27","2022-08-31T00:00:00.000","Housing and Buildings","Section 8","11423","Queens","Hollis","NYCC23","12 Queens","2022-08-31T00:00:00.000"
+"NYCC09503679","NYCC09","2022-08-31T00:00:00.000","Parks",,"10451",,"New York",," ",
+"NYCC09503680","NYCC09","2022-08-31T00:00:00.000","Parks",,"10451",,"New York",," ",
+"NYCC04507603","NYCC04","2022-08-31T00:00:00.000","Public Safety",,"10009","Manhattan","New York","NYCC04","06 Manhattan",
+"NYCC02530403","NYCC02","2022-08-31T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","10002","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC27504268","NYCC27","2022-08-31T00:00:00.000","Environment","Water and Sewage Bills","11432","Queens","Jamaica","NYCC27","12 Queens",
+"NYCC27504269","NYCC27","2022-08-31T00:00:00.000","Transportation","Station Maintenance","11433","Queens","Jamaica","NYCC27","12 Queens",
+"NYCC13509745","NYCC13","2022-08-31T00:00:00.000","Public Safety","Domestic Violence",,"Bronx","Bronx",,,"2022-09-01T00:00:00.000"
+"NYCC03555277","NYCC03","2022-08-31T00:00:00.000","Governmental Operations",,"10011","Manhattan","New York","NYCC03","02 Manhattan",
+"NYCC08508655","NYCC08","2022-08-31T00:00:00.000","Education","School Lottery","10455","Manhattan","Bronx","NYCC08","01 Manhattan","2022-09-06T00:00:00.000"
+"NYCC08508654","NYCC08","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10454","Manhattan","Bronx","NYCC08","01 Manhattan","2022-09-06T00:00:00.000"
+"NYCC06533443","NYCC06","2022-08-31T00:00:00.000","Public Safety","Disorderly Group","10025","Manhattan","New York","NYCC06","07 Manhattan",
+"NYCC02530410","NYCC02","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC13509747","NYCC13","2022-08-31T00:00:00.000","Transportation","Stop Sign","10462","Bronx","Bronx","NYCC13","11 Bronx","2022-09-02T00:00:00.000"
+"NYCC02530399","NYCC02","2022-08-31T00:00:00.000","Transportation","Bicycles","10009","Manhattan","New York","NYCC02","03 Manhattan","2022-09-09T00:00:00.000"
+"NYCC08508657","NYCC08","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Misc.","10454","Manhattan","Bronx","NYCC08","01 Manhattan","2022-09-06T00:00:00.000"
+"NYCC46514590","NYCC46","2022-08-31T00:00:00.000","Legal Services","Consumer Affairs","11203","Brooklyn","Brooklyn","NYCC40","17 Brooklyn","2022-08-31T00:00:00.000"
+"NYCC46514592","NYCC46","2022-08-31T00:00:00.000","Transportation","Bridge","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC08508656","NYCC08","2022-08-31T00:00:00.000","General Welfare","Food Stamps","10454","Manhattan","Bronx","NYCC08","01 Manhattan","2022-09-06T00:00:00.000"
+"NYCC37506319","NYCC37","2022-08-31T00:00:00.000","Health","Rats/Rodents","11208","Brooklyn","Brooklyn","NYCC37","05 Brooklyn",
+"NYCC37506318","NYCC37","2022-08-31T00:00:00.000","Housing and Buildings",,"11221","Brooklyn","Brooklyn","NYCC37","04 Brooklyn",
+"NYCC47507867","NYCC47","2022-08-31T00:00:00.000","Parks","Park Maintenance","11214",,"BrooklynNY",," ",
+"NYCC23519149","NYCC23","2022-08-31T00:00:00.000","Parks","Tree Planting/Pruning","11004","Queens","Glen Oaks","NYCC23","13 Queens",
+"NYCC39513498","NYCC39","2022-08-31T00:00:00.000","Public Safety",,"11218","Brooklyn","Brooklyn","NYCC39","12 Brooklyn",
+"NYCC23519148","NYCC23","2022-08-31T00:00:00.000","Parks","Tree Planting/Pruning","11004","Queens","Glen Oaks","NYCC23","13 Queens",
+"NYCC46514588","NYCC46","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Misc.","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-09-06T00:00:00.000"
+"NYCC46514589","NYCC46","2022-08-31T00:00:00.000","Utilities","Con Edison","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC46514585","NYCC46","2022-08-31T00:00:00.000","Finance","Middle Class STAR","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-08-31T00:00:00.000"
+"NYCC02530400","NYCC02","2022-08-31T00:00:00.000","General Welfare","Home Attendants","10010","Manhattan","New York","NYCC02","06 Manhattan","2022-09-12T00:00:00.000"
+"NYCC46514586","NYCC46","2022-08-31T00:00:00.000","Housing and Buildings","Abandoned Building","11229","Brooklyn","Brooklyn","NYCC46","15 Brooklyn",
+"NYCC46514593","NYCC46","2022-08-31T00:00:00.000","Transportation","Bicycles",,,"Brooklyn",," ",
+"NYCC48530208","NYCC48","2022-08-31T00:00:00.000","Housing and Buildings","Seeking an affordable housing/apartment","11235","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-08-31T00:00:00.000"
+"NYCC50535951","NYCC50","2022-08-31T00:00:00.000","Transportation","Speed Bump Request","10306","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC46514587","NYCC46","2022-08-31T00:00:00.000","Parks","Tree Planting/Pruning","11234","Brooklyn","Brooklyn","NYCC46","18 Brooklyn","2022-08-31T00:00:00.000"
+"NYCC50535945","NYCC50","2022-08-31T00:00:00.000","Governmental Operations","311 Call Center","10305","Staten Island","Staten Island","NYCC50","02 Staten Island","2022-09-12T00:00:00.000"
+"NYCC50535943","NYCC50","2022-08-31T00:00:00.000","General Welfare","Public Assistance",,,,," ","2022-08-31T00:00:00.000"
+"NYCC50535944","NYCC50","2022-08-31T00:00:00.000","General Welfare","Public Assistance","10314","Staten Island","Staten Island","NYCC50","02 Staten Island","2022-08-31T00:00:00.000"
+"NYCC50535946","NYCC50","2022-08-31T00:00:00.000","Parks","Tree Planting/Pruning","10306","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC02530405","NYCC02","2022-08-31T00:00:00.000","Housing and Buildings","NYCHA Building Maintenance","10002","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC50535942","NYCC50","2022-08-31T00:00:00.000","Sanitation","E-Waste Pickups","10305","Staten Island","Staten Island","NYCC50","02 Staten Island","2022-08-31T00:00:00.000"
+"NYCC50535948","NYCC50","2022-08-31T00:00:00.000","Transportation","Speed Bump Request","10306","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC46514583","NYCC46","2022-08-31T00:00:00.000","Utilities","Verizon","11236","Brooklyn","Brooklyn","NYCC46","18 Brooklyn",
+"NYCC50535949","NYCC50","2022-08-31T00:00:00.000","Transportation","Speed Bump Request","10306","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC29509208","NYCC29","2022-08-31T00:00:00.000","Housing and Buildings","Rent Reductions","11375","Queens","Forest Hills","NYCC29","06 Queens","2022-08-31T00:00:00.000"
+"NYCC03555276","NYCC03","2022-08-31T00:00:00.000","Public Safety","Drug Activity","10001","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC50535940","NYCC50","2022-08-31T00:00:00.000","General Welfare","Child Support","10314","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC03555275","NYCC03","2022-08-31T00:00:00.000","Consumer Complaints",,"10001","Manhattan","New York","NYCC03","04 Manhattan",
+"NYCC46514584","NYCC46","2022-08-31T00:00:00.000","Recovery and Resiliency","Built it Back","11229","Brooklyn","Brooklyn","NYCC46","15 Brooklyn",
+"NYCC50535941","NYCC50","2022-08-31T00:00:00.000","Sanitation","E-Waste Pickups","10314","Staten Island","Staten Island","NYCC50","01 Staten Island","2022-08-31T00:00:00.000"
+"NYCC50535950","NYCC50","2022-08-31T00:00:00.000","Transportation","Speed Bump Request","10306","Staten Island","Staten Island","NYCC50","02 Staten Island",
+"NYCC02530391","NYCC02","2022-08-30T00:00:00.000","Housing and Buildings","Section 8","10010","Manhattan","New York","NYCC02","06 Manhattan","2022-09-12T00:00:00.000"
+"NYCC02530389","NYCC02","2022-08-30T00:00:00.000","Education","School Registration/Placement","10009","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC02530392","NYCC02","2022-08-30T00:00:00.000","Housing and Buildings","NYCHA Eviction","10002","Manhattan","New York","NYCC02","03 Manhattan",
+"NYCC37506317","NYCC37","2022-08-30T00:00:00.000","Health","Birth Certificates","11208",,"Brooklyn","NYCC"," ",
+"NYCC37506316","NYCC37","2022-08-30T00:00:00.000","Housing and Buildings",,"11233","Brooklyn","Brooklyn","NYCC37","16 Brooklyn",
+"NYCC28507764","NYCC28","2022-08-30T00:00:00.000","General Welfare",,"11361","Queens","Bayside","NYCC19","11 Queens",
+"NYCC28507765","NYCC28","2022-08-30T00:00:00.000","General Welfare",,"11361","Queens","Bayside","NYCC19","11 Queens",
+"NYCC48530188","NYCC48","2022-08-30T00:00:00.000","Transportation","Street Event Permits",,,,," ","2022-09-01T00:00:00.000"
+"NYCC08508652","NYCC08","2022-08-30T00:00:00.000","Housing and Buildings","NYCHA Misc.","10029","Manhattan","New York","NYCC08","11 Manhattan","2022-08-30T00:00:00.000"
+"NYCC48530189","NYCC48","2022-08-30T00:00:00.000","Housing and Buildings","Construction General","11229","Brooklyn","Brooklyn","NYCC48","15 Brooklyn","2022-08-31T00:00:00.000"
+"NYCC48530190","NYCC48","2022-08-30T00:00:00.000","Legal Services","Misc (Wills/Court Docs/etc.)",,"Brooklyn","Brooklyn",,,"2022-09-02T00:00:00.000"
+"NYCC08508651","NYCC08","2022-08-30T00:00:00.000","Housing and Buildings","NYCHA Transfers","10029","Manhattan","New York","NYCC08","11 Manhattan",
+"NYCC08508653","NYCC08","2022-08-30T00:00:00.000","General Welfare","Food Stamps","10029","Manhattan","New York","NYCC08","11 Manhattan",

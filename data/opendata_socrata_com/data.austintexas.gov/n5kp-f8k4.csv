@@ -1,0 +1,1001 @@
+"event","timestamp","date_time","errors","updated","created","deleted","not_processed","response_message"
+"signal_status_update","1515100085","2018-01-04T15:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515099965","2018-01-04T15:06:05.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515099906","2018-01-04T15:05:06.000","0","0","0","0",,
+"signal_status_update","1515099842","2018-01-04T15:04:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515099722","2018-01-04T15:02:02.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515099606","2018-01-04T15:00:06.000","0","0","0","0",,
+"signal_status_update","1515099606","2018-01-04T15:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515099485","2018-01-04T14:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515099364","2018-01-04T14:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515099243","2018-01-04T14:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515099123","2018-01-04T14:52:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515099008","2018-01-04T14:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515099008","2018-01-04T14:50:08.000","0","7","0","0",,
+"signal_status_update","1515098884","2018-01-04T14:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515098764","2018-01-04T14:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515098643","2018-01-04T14:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515098523","2018-01-04T14:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515098406","2018-01-04T14:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515098284","2018-01-04T14:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515098165","2018-01-04T14:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515098106","2018-01-04T14:35:06.000","0","0","0","0",,
+"signal_status_update","1515098043","2018-01-04T14:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515097922","2018-01-04T14:32:02.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515097806","2018-01-04T14:30:06.000","0","0","0","0",,
+"signal_status_update","1515097806","2018-01-04T14:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515097684","2018-01-04T14:28:04.000","0","0","0","1",,
+"signal_status_update","1515097565","2018-01-04T14:26:05.000","0","0","1","0",,
+"signal_status_update","1515097443","2018-01-04T14:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515097323","2018-01-04T14:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515097208","2018-01-04T14:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515097084","2018-01-04T14:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515096965","2018-01-04T14:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515096904","2018-01-04T14:15:04.000","0","0","0","0",,
+"signal_status_update","1515096842","2018-01-04T14:14:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515096722","2018-01-04T14:12:02.000","0","0","0","1",,
+"signal_request_master_list","1515096607","2018-01-04T14:10:07.000","0","741","0","0",,
+"signal_status_update","1515096607","2018-01-04T14:10:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515096484","2018-01-04T14:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515096365","2018-01-04T14:06:05.000","0","0","1","0",,
+"travel_sensors_update","1515096307","2018-01-04T14:05:07.000","0","0","0","0",,
+"signal_status_update","1515096243","2018-01-04T14:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515096123","2018-01-04T14:02:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515096007","2018-01-04T14:00:07.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515096007","2018-01-04T14:00:07.000","0","0","1","0",,
+"signal_status_update","1515095885","2018-01-04T13:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515095765","2018-01-04T13:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515095642","2018-01-04T13:54:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515095522","2018-01-04T13:52:02.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515095409","2018-01-04T13:50:09.000","0","2","2","0",,
+"signal_status_update","1515095409","2018-01-04T13:50:09.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515095284","2018-01-04T13:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515095164","2018-01-04T13:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515095043","2018-01-04T13:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515094923","2018-01-04T13:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515094806","2018-01-04T13:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515094684","2018-01-04T13:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515094564","2018-01-04T13:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515094507","2018-01-04T13:35:07.000","0","0","0","0",,
+"signal_status_update","1515094442","2018-01-04T13:34:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515094323","2018-01-04T13:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515094206","2018-01-04T13:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515094206","2018-01-04T13:30:06.000","0","0","0","0",,
+"signal_status_update","1515094085","2018-01-04T13:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515093965","2018-01-04T13:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515093842","2018-01-04T13:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515093722","2018-01-04T13:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515093608","2018-01-04T13:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515093485","2018-01-04T13:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515093365","2018-01-04T13:16:05.000","0","0","0","1",,
+"signals_update","1515093304","2018-01-04T13:15:04.000","0","0","0","0",,
+"signal_status_update","1515093242","2018-01-04T13:14:02.000","0","0","1","0",,
+"signal_status_update","1515093123","2018-01-04T13:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515093007","2018-01-04T13:10:07.000","0","741","0","0",,
+"signal_status_update","1515093007","2018-01-04T13:10:07.000","0","0","0","2",,
+"signal_status_update","1515092884","2018-01-04T13:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515092765","2018-01-04T13:06:05.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515092707","2018-01-04T13:05:07.000","0","0","0","0",,
+"signal_status_update","1515092643","2018-01-04T13:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515092523","2018-01-04T13:02:03.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515092407","2018-01-04T13:00:07.000","0","0","0","0",,
+"signal_status_update","1515092407","2018-01-04T13:00:07.000","0","0","0","1",,
+"signal_status_update","1515092285","2018-01-04T12:58:05.000","0","0","1","0",,
+"signal_status_update","1515092165","2018-01-04T12:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515092043","2018-01-04T12:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515091923","2018-01-04T12:52:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515091808","2018-01-04T12:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515091808","2018-01-04T12:50:08.000","0","1","1","0",,
+"signal_status_update","1515091684","2018-01-04T12:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515091564","2018-01-04T12:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515091443","2018-01-04T12:44:03.000","0","0","0","1",,
+"signal_status_update","1515091322","2018-01-04T12:42:02.000","0","0","1","0",,
+"signal_status_update","1515091207","2018-01-04T12:40:07.000","0","0","0","1",,
+"signal_status_update","1515091084","2018-01-04T12:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515090965","2018-01-04T12:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515090906","2018-01-04T12:35:06.000","0","0","0","0",,
+"signal_status_update","1515090843","2018-01-04T12:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515090722","2018-01-04T12:32:02.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515090606","2018-01-04T12:30:06.000","0","0","0","0",,
+"signal_status_update","1515090606","2018-01-04T12:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515090485","2018-01-04T12:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515090364","2018-01-04T12:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515090243","2018-01-04T12:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515090123","2018-01-04T12:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515090008","2018-01-04T12:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515089884","2018-01-04T12:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515089765","2018-01-04T12:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515089704","2018-01-04T12:15:04.000","0","0","0","0",,
+"signal_status_update","1515089643","2018-01-04T12:14:03.000","0","0","0","1",,
+"signal_status_update","1515089522","2018-01-04T12:12:02.000","0","0","1","0",,
+"signal_request_master_list","1515089406","2018-01-04T12:10:06.000","0","741","0","0",,
+"signal_status_update","1515089406","2018-01-04T12:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515089285","2018-01-04T12:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515089164","2018-01-04T12:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515089106","2018-01-04T12:05:06.000","0","0","0","0",,
+"signal_status_update","1515089043","2018-01-04T12:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515088923","2018-01-04T12:02:03.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515088807","2018-01-04T12:00:07.000","0","0","0","0",,
+"signal_status_update","1515088807","2018-01-04T12:00:07.000","0","0","0","1",,
+"signal_status_update","1515088685","2018-01-04T11:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515088564","2018-01-04T11:56:04.000","0","1","0","0",,
+"signal_status_update","1515088443","2018-01-04T11:54:03.000","0","0","1","0",,
+"signal_status_update","1515088322","2018-01-04T11:52:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515088208","2018-01-04T11:50:08.000","0","0","18","0",,
+"work_orders_update","1515088208","2018-01-04T11:50:08.000","0","0","3","0",,
+"signal_status_update","1515088085","2018-01-04T11:48:05.000","0","0","0","18",,
+"signal_status_update","1515087965","2018-01-04T11:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515087843","2018-01-04T11:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515087722","2018-01-04T11:42:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515087607","2018-01-04T11:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515087484","2018-01-04T11:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515087365","2018-01-04T11:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515087306","2018-01-04T11:35:06.000","0","0","0","0",,
+"signal_status_update","1515087243","2018-01-04T11:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515087123","2018-01-04T11:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515087006","2018-01-04T11:30:06.000","0","0","0","0",,
+"signal_status_update","1515087006","2018-01-04T11:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515086885","2018-01-04T11:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515086765","2018-01-04T11:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515086643","2018-01-04T11:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515086523","2018-01-04T11:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515086408","2018-01-04T11:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515086285","2018-01-04T11:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515086164","2018-01-04T11:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515086104","2018-01-04T11:15:04.000","0","1","0","0",,
+"signal_status_update","1515086043","2018-01-04T11:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515085923","2018-01-04T11:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515085806","2018-01-04T11:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515085806","2018-01-04T11:10:06.000","0","741","0","0",,
+"signal_status_update","1515085684","2018-01-04T11:08:04.000","0","0","0","1",,
+"signal_status_update","1515085565","2018-01-04T11:06:05.000","0","0","1","0",,
+"travel_sensors_update","1515085506","2018-01-04T11:05:06.000","0","0","0","0",,
+"signal_status_update","1515085443","2018-01-04T11:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515085323","2018-01-04T11:02:03.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515085207","2018-01-04T11:00:07.000","0","0","0","0",,
+"signal_status_update","1515085206","2018-01-04T11:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515085084","2018-01-04T10:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515084965","2018-01-04T10:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515084843","2018-01-04T10:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515084723","2018-01-04T10:52:03.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515084608","2018-01-04T10:50:08.000","0","2","4","0",,
+"signal_status_update","1515084608","2018-01-04T10:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515084485","2018-01-04T10:48:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515084365","2018-01-04T10:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515084243","2018-01-04T10:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515084123","2018-01-04T10:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515084007","2018-01-04T10:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515083885","2018-01-04T10:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515083765","2018-01-04T10:36:05.000","0","0","0","1",,
+"pole_attachments_update","1515083706","2018-01-04T10:35:06.000","0","0","0","0",,
+"signal_status_update","1515083642","2018-01-04T10:34:02.000","0","0","1","0",,
+"signal_status_update","1515083523","2018-01-04T10:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515083406","2018-01-04T10:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515083406","2018-01-04T10:30:06.000","0","0","0","0",,
+"signal_status_update","1515083285","2018-01-04T10:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515083165","2018-01-04T10:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515083043","2018-01-04T10:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515082922","2018-01-04T10:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515082808","2018-01-04T10:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515082685","2018-01-04T10:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515082565","2018-01-04T10:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515082505","2018-01-04T10:15:05.000","0","0","0","0",,
+"signal_status_update","1515082443","2018-01-04T10:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515082322","2018-01-04T10:12:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515082206","2018-01-04T10:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515082206","2018-01-04T10:10:06.000","0","739","0","0",,
+"signal_status_update","1515082085","2018-01-04T10:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515081964","2018-01-04T10:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515081906","2018-01-04T10:05:06.000","0","0","0","0",,
+"signal_status_update","1515081842","2018-01-04T10:04:02.000","0","0","0","1",,
+"signal_status_update","1515081723","2018-01-04T10:02:03.000","0","0","1","0",,
+"cameras_update","1515081606","2018-01-04T10:00:06.000","0","0","0","0",,
+"signal_status_update","1515081606","2018-01-04T10:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515081484","2018-01-04T09:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515081364","2018-01-04T09:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515081243","2018-01-04T09:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515081123","2018-01-04T09:52:03.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515081008","2018-01-04T09:50:08.000","0","1","2","0",,
+"signal_status_update","1515081008","2018-01-04T09:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515080885","2018-01-04T09:48:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515080764","2018-01-04T09:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515080643","2018-01-04T09:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515080522","2018-01-04T09:42:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515080407","2018-01-04T09:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515080285","2018-01-04T09:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515080165","2018-01-04T09:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515080106","2018-01-04T09:35:06.000","0","0","0","0",,
+"signal_status_update","1515080043","2018-01-04T09:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515079923","2018-01-04T09:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515079806","2018-01-04T09:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515079806","2018-01-04T09:30:06.000","0","0","0","0",,
+"signal_status_update","1515079685","2018-01-04T09:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515079564","2018-01-04T09:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515079442","2018-01-04T09:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515079322","2018-01-04T09:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515079208","2018-01-04T09:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515079084","2018-01-04T09:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515078964","2018-01-04T09:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515078905","2018-01-04T09:15:05.000","0","0","0","0",,
+"signal_status_update","1515078843","2018-01-04T09:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515078722","2018-01-04T09:12:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515078606","2018-01-04T09:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515078606","2018-01-04T09:10:06.000","0","739","0","0",,
+"signal_status_update","1515078484","2018-01-04T09:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515078364","2018-01-04T09:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515078306","2018-01-04T09:05:06.000","0","0","0","0",,
+"signal_status_update","1515078243","2018-01-04T09:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515078122","2018-01-04T09:02:02.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515078006","2018-01-04T09:00:06.000","0","0","0","0",,
+"signal_status_update","1515078006","2018-01-04T09:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515077885","2018-01-04T08:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515077764","2018-01-04T08:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515077643","2018-01-04T08:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515077523","2018-01-04T08:52:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515077408","2018-01-04T08:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515077408","2018-01-04T08:50:08.000","0","4","1","0",,
+"signal_status_update","1515077284","2018-01-04T08:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515077165","2018-01-04T08:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515077042","2018-01-04T08:44:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515076923","2018-01-04T08:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515076807","2018-01-04T08:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515076685","2018-01-04T08:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515076564","2018-01-04T08:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515076506","2018-01-04T08:35:06.000","0","0","0","0",,
+"signal_status_update","1515076443","2018-01-04T08:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515076323","2018-01-04T08:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515076206","2018-01-04T08:30:06.000","0","0","0","0",,
+"signal_status_update","1515076206","2018-01-04T08:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515076085","2018-01-04T08:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515075964","2018-01-04T08:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515075842","2018-01-04T08:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515075722","2018-01-04T08:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515075608","2018-01-04T08:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515075485","2018-01-04T08:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515075364","2018-01-04T08:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515075305","2018-01-04T08:15:05.000","0","0","0","0",,
+"signal_status_update","1515075243","2018-01-04T08:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515075123","2018-01-04T08:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515075006","2018-01-04T08:10:06.000","0","739","0","0",,
+"signal_status_update","1515075006","2018-01-04T08:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515074885","2018-01-04T08:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515074764","2018-01-04T08:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515074706","2018-01-04T08:05:06.000","0","0","0","0",,
+"signal_status_update","1515074643","2018-01-04T08:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515074523","2018-01-04T08:02:03.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515074407","2018-01-04T08:00:07.000","0","0","0","0",,
+"signal_status_update","1515074407","2018-01-04T08:00:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515074284","2018-01-04T07:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515074164","2018-01-04T07:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515074042","2018-01-04T07:54:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515073922","2018-01-04T07:52:02.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515073808","2018-01-04T07:50:08.000","0","5","0","0",,
+"signal_status_update","1515073808","2018-01-04T07:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515073685","2018-01-04T07:48:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515073564","2018-01-04T07:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515073442","2018-01-04T07:44:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515073322","2018-01-04T07:42:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515073206","2018-01-04T07:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515073084","2018-01-04T07:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515072964","2018-01-04T07:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515072906","2018-01-04T07:35:06.000","0","0","0","0",,
+"signal_status_update","1515072843","2018-01-04T07:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515072723","2018-01-04T07:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515072606","2018-01-04T07:30:06.000","0","0","0","0",,
+"signal_status_update","1515072606","2018-01-04T07:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515072485","2018-01-04T07:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515072364","2018-01-04T07:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515072243","2018-01-04T07:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515072122","2018-01-04T07:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515072008","2018-01-04T07:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515071885","2018-01-04T07:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515071765","2018-01-04T07:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515071704","2018-01-04T07:15:04.000","0","0","0","0",,
+"signal_status_update","1515071643","2018-01-04T07:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515071522","2018-01-04T07:12:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515071407","2018-01-04T07:10:07.000","0","0","0","10",,
+"signal_request_master_list","1515071407","2018-01-04T07:10:07.000","0","739","0","0",,
+"signal_status_update","1515071284","2018-01-04T07:08:04.000","0","0","10","0",,
+"signal_status_update","1515071165","2018-01-04T07:06:05.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515071106","2018-01-04T07:05:06.000","0","0","0","0",,
+"signal_status_update","1515071043","2018-01-04T07:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515070923","2018-01-04T07:02:03.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515070806","2018-01-04T07:00:06.000","0","0","0","0",,
+"signal_status_update","1515070806","2018-01-04T07:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515070684","2018-01-04T06:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515070564","2018-01-04T06:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515070443","2018-01-04T06:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515070323","2018-01-04T06:52:03.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515070208","2018-01-04T06:50:08.000","0","1","3","0",,
+"signal_status_update","1515070208","2018-01-04T06:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515070084","2018-01-04T06:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515069964","2018-01-04T06:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515069843","2018-01-04T06:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515069722","2018-01-04T06:42:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515069607","2018-01-04T06:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515069485","2018-01-04T06:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515069365","2018-01-04T06:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515069306","2018-01-04T06:35:06.000","0","0","0","0",,
+"signal_status_update","1515069243","2018-01-04T06:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515069123","2018-01-04T06:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515069006","2018-01-04T06:30:06.000","0","0","0","0",,
+"signal_status_update","1515069006","2018-01-04T06:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515068884","2018-01-04T06:28:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515068765","2018-01-04T06:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515068642","2018-01-04T06:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515068522","2018-01-04T06:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515068408","2018-01-04T06:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515068285","2018-01-04T06:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515068164","2018-01-04T06:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515068104","2018-01-04T06:15:04.000","0","1","0","0",,
+"signal_status_update","1515068043","2018-01-04T06:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515067923","2018-01-04T06:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515067807","2018-01-04T06:10:07.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515067807","2018-01-04T06:10:07.000","0","739","0","0",,
+"signal_status_update","1515067685","2018-01-04T06:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515067565","2018-01-04T06:06:05.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515067506","2018-01-04T06:05:06.000","0","0","0","0",,
+"signal_status_update","1515067443","2018-01-04T06:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515067322","2018-01-04T06:02:02.000","0","0","0","25",,
+"signal_status_update","1515067207","2018-01-04T06:00:07.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515067207","2018-01-04T06:00:07.000","0","0","0","0",,
+"signal_status_update","1515067084","2018-01-04T05:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515066964","2018-01-04T05:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515066843","2018-01-04T05:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515066722","2018-01-04T05:52:02.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515066608","2018-01-04T05:50:08.000","0","0","0","0",,
+"signal_status_update","1515066608","2018-01-04T05:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515066484","2018-01-04T05:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515066365","2018-01-04T05:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515066242","2018-01-04T05:44:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515066123","2018-01-04T05:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515066006","2018-01-04T05:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515065885","2018-01-04T05:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515065764","2018-01-04T05:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515065706","2018-01-04T05:35:06.000","0","0","0","0",,
+"signal_status_update","1515065643","2018-01-04T05:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515065522","2018-01-04T05:32:02.000","0","0","0","1",,
+"signal_status_update","1515065406","2018-01-04T05:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515065406","2018-01-04T05:30:06.000","0","0","0","0",,
+"signal_status_update","1515065284","2018-01-04T05:28:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515065164","2018-01-04T05:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515065043","2018-01-04T05:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515064922","2018-01-04T05:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515064808","2018-01-04T05:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515064685","2018-01-04T05:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515064565","2018-01-04T05:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515064504","2018-01-04T05:15:04.000","0","0","0","0",,
+"signal_status_update","1515064443","2018-01-04T05:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515064323","2018-01-04T05:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515064206","2018-01-04T05:10:06.000","0","739","0","0",,
+"signal_status_update","1515064206","2018-01-04T05:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515064084","2018-01-04T05:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515063964","2018-01-04T05:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515063906","2018-01-04T05:05:06.000","0","0","0","0",,
+"signal_status_update","1515063843","2018-01-04T05:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515063723","2018-01-04T05:02:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515063606","2018-01-04T05:00:06.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515063606","2018-01-04T05:00:06.000","0","0","0","0",,
+"signal_status_update","1515063484","2018-01-04T04:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515063365","2018-01-04T04:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515063243","2018-01-04T04:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515063123","2018-01-04T04:52:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515063008","2018-01-04T04:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515063008","2018-01-04T04:50:08.000","0","0","0","0",,
+"signal_status_update","1515062885","2018-01-04T04:48:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515062764","2018-01-04T04:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515062643","2018-01-04T04:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515062523","2018-01-04T04:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515062407","2018-01-04T04:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515062284","2018-01-04T04:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515062165","2018-01-04T04:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515062109","2018-01-04T04:35:09.000","0","0","0","0",,
+"signal_status_update","1515062042","2018-01-04T04:34:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515061923","2018-01-04T04:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515061806","2018-01-04T04:30:06.000","0","0","0","0",,
+"signal_status_update","1515061806","2018-01-04T04:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515061684","2018-01-04T04:28:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515061564","2018-01-04T04:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515061442","2018-01-04T04:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515061322","2018-01-04T04:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515061208","2018-01-04T04:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515061084","2018-01-04T04:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515060965","2018-01-04T04:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515060906","2018-01-04T04:15:06.000","0","2","0","0",,
+"signal_status_update","1515060843","2018-01-04T04:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515060723","2018-01-04T04:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515060606","2018-01-04T04:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515060606","2018-01-04T04:10:06.000","0","739","0","0",,
+"signal_status_update","1515060485","2018-01-04T04:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515060364","2018-01-04T04:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515060308","2018-01-04T04:05:08.000","0","1","0","0",,
+"signal_status_update","1515060243","2018-01-04T04:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515060125","2018-01-04T04:02:05.000","0","0","44","0",,
+"cameras_update","1515060006","2018-01-04T04:00:06.000","0","2","0","0",,
+"signal_status_update","1515060006","2018-01-04T04:00:06.000","0","0","0","44",,
+"signal_status_update","1515059884","2018-01-04T03:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515059768","2018-01-04T03:56:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515059644","2018-01-04T03:54:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515059525","2018-01-04T03:52:05.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515059412","2018-01-04T03:50:12.000","0","0","0","0",,
+"signal_status_update","1515059412","2018-01-04T03:50:12.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515059285","2018-01-04T03:48:05.000","0","0","0","1",,
+"signal_status_update","1515059164","2018-01-04T03:46:04.000","0","0","1","0",,
+"signal_status_update","1515059043","2018-01-04T03:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515058922","2018-01-04T03:42:02.000","0","0","0","1",,
+"signal_status_update","1515058808","2018-01-04T03:40:08.000","0","0","1","1",,
+"signal_status_update","1515058684","2018-01-04T03:38:04.000","0","0","1","1",,
+"signal_status_update","1515058565","2018-01-04T03:36:05.000","0","0","1","0",,
+"pole_attachments_update","1515058508","2018-01-04T03:35:08.000","0","0","0","0",,
+"signal_status_update","1515058443","2018-01-04T03:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515058323","2018-01-04T03:32:03.000","0","0","0","1",,
+"signal_retiming_update","1515058208","2018-01-04T03:30:08.000","0","0","0","0",,
+"signal_status_update","1515058208","2018-01-04T03:30:08.000","0","0","1","1",,
+"signal_status_update","1515058085","2018-01-04T03:28:05.000","0","0","1","1",,
+"signal_status_update","1515057965","2018-01-04T03:26:05.000","0","0","1","0",,
+"signal_status_update","1515057843","2018-01-04T03:24:03.000","0","0","0","1",,
+"signal_status_update","1515057723","2018-01-04T03:22:03.000","0","0","1","0",,
+"signal_status_update","1515057610","2018-01-04T03:20:10.000","0","0","0","1",,
+"signal_status_update","1515057485","2018-01-04T03:18:05.000","0","0","1","0",,
+"signal_status_update","1515057365","2018-01-04T03:16:05.000","0","0","0","0",,"No signal status change detected"
+"hazard_flashers_update","1515057306","2018-01-04T03:15:06.000","0","0","0","0",,
+"signals_update","1515057306","2018-01-04T03:15:06.000","0","0","0","0",,
+"signal_status_update","1515057243","2018-01-04T03:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515057123","2018-01-04T03:12:03.000","0","0","0","0",,"No signal status change detected"
+"dms_update","1515057008","2018-01-04T03:10:08.000","0","11","0","0",,
+"signal_status_update","1515057008","2018-01-04T03:10:08.000","0","1","0","0",,
+"signal_request_master_list","1515057008","2018-01-04T03:10:08.000","0","739","0","0",,
+"signal_status_update","1515056885","2018-01-04T03:08:05.000","0","1","0","1",,
+"signal_status_update","1515056765","2018-01-04T03:06:05.000","0","0","1","0",,
+"cabinets_update","1515056708","2018-01-04T03:05:08.000","0","0","0","0",,
+"travel_sensors_update","1515056708","2018-01-04T03:05:08.000","0","0","0","0",,
+"signal_status_update","1515056643","2018-01-04T03:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515056523","2018-01-04T03:02:03.000","0","0","2","1",,
+"cameras_update","1515056408","2018-01-04T03:00:08.000","0","0","0","0",,
+"signal_status_update","1515056408","2018-01-04T03:00:08.000","0","0","1","0",,
+"signal_status_update","1515056284","2018-01-04T02:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515056164","2018-01-04T02:56:04.000","0","0","0","1",,
+"signal_status_update","1515056045","2018-01-04T02:54:05.000","0","1","1","0",,
+"signal_status_update","1515055925","2018-01-04T02:52:05.000","0","1","0","0",,
+"work_orders_update","1515055812","2018-01-04T02:50:12.000","0","0","0","0",,
+"signal_status_update","1515055812","2018-01-04T02:50:12.000","0","0","0","1",,
+"traffic_reports_update","1515055812","2018-01-04T02:50:12.000","0","4921","110","36",,
+"signal_status_update","1515055685","2018-01-04T02:48:05.000","0","0","1","0",,
+"signal_status_update","1515055565","2018-01-04T02:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515055443","2018-01-04T02:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515055322","2018-01-04T02:42:02.000","0","0","0","1",,
+"signal_status_update","1515055209","2018-01-04T02:40:09.000","0","0","1","0",,
+"signal_status_update","1515055085","2018-01-04T02:38:05.000","0","0","0","1",,
+"signal_status_update","1515054964","2018-01-04T02:36:04.000","0","0","1","0",,
+"timed_corridors_update","1515054908","2018-01-04T02:35:08.000","0","0","0","0",,
+"pole_attachments_update","1515054908","2018-01-04T02:35:08.000","0","0","0","0",,
+"signal_status_update","1515054843","2018-01-04T02:34:03.000","0","0","0","1",,
+"signal_status_update","1515054722","2018-01-04T02:32:02.000","0","0","1","1",,
+"signal_status_update","1515054607","2018-01-04T02:30:07.000","0","0","1","1",,
+"signal_retiming_update","1515054607","2018-01-04T02:30:07.000","0","0","0","0",,
+"signal_status_update","1515054484","2018-01-04T02:28:04.000","0","0","1","1",,
+"signal_status_update","1515054365","2018-01-04T02:26:05.000","0","0","1","1",,
+"signal_status_update","1515054243","2018-01-04T02:24:03.000","0","0","1","1",,
+"signal_status_update","1515054123","2018-01-04T02:22:03.000","0","0","1","1",,
+"signal_status_update","1515054010","2018-01-04T02:20:10.000","0","0","1","1",,
+"signal_status_update","1515053885","2018-01-04T02:18:05.000","0","1","1","0",,
+"signal_status_update","1515053765","2018-01-04T02:16:05.000","0","1","0","0",,
+"travel_sensors_update","1515053706","2018-01-04T02:15:06.000","0","0","0","0",,
+"signals_update","1515053706","2018-01-04T02:15:06.000","0","0","0","0",,
+"signal_status_update","1515053642","2018-01-04T02:14:02.000","0","0","0","1",,
+"signal_status_update","1515053522","2018-01-04T02:12:02.000","0","0","1","0",,
+"detectors_update","1515053408","2018-01-04T02:10:08.000","0","0","2","0",,
+"signal_status_update","1515053408","2018-01-04T02:10:08.000","0","0","0","1",,
+"signal_request_master_list","1515053408","2018-01-04T02:10:08.000","0","739","0","0",,
+"signal_status_update","1515053284","2018-01-04T02:08:04.000","0","0","1","1",,
+"signal_status_update","1515053165","2018-01-04T02:06:05.000","0","0","1","0",,
+"travel_sensors_update","1515053107","2018-01-04T02:05:07.000","0","0","0","0",,
+"quote_of_the_week_update","1515053107","2018-01-04T02:05:07.000","0","0","0","0",,
+"signal_status_update","1515053043","2018-01-04T02:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515052922","2018-01-04T02:02:02.000","0","0","1","0",,
+"cameras_update","1515052808","2018-01-04T02:00:08.000","0","0","0","0",,
+"atd_visitor_log_update","1515052808","2018-01-04T02:00:08.000","0","0","0","0",,
+"signal_status_update","1515052808","2018-01-04T02:00:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515052685","2018-01-04T01:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515052565","2018-01-04T01:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515052442","2018-01-04T01:54:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515052323","2018-01-04T01:52:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515052208","2018-01-04T01:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515052208","2018-01-04T01:50:08.000","0","0","0","0",,
+"signal_status_update","1515052084","2018-01-04T01:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515051965","2018-01-04T01:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515051842","2018-01-04T01:44:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515051723","2018-01-04T01:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515051606","2018-01-04T01:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515051485","2018-01-04T01:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515051364","2018-01-04T01:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515051306","2018-01-04T01:35:06.000","0","0","0","0",,
+"signal_status_update","1515051243","2018-01-04T01:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515051123","2018-01-04T01:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515051006","2018-01-04T01:30:06.000","0","0","0","0",,
+"signal_status_update","1515051006","2018-01-04T01:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515050885","2018-01-04T01:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515050764","2018-01-04T01:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515050643","2018-01-04T01:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515050523","2018-01-04T01:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515050408","2018-01-04T01:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515050285","2018-01-04T01:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515050165","2018-01-04T01:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515050105","2018-01-04T01:15:05.000","0","0","0","0",,
+"signal_status_update","1515050042","2018-01-04T01:14:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515049922","2018-01-04T01:12:02.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515049806","2018-01-04T01:10:06.000","0","739","0","0",,
+"signal_status_update","1515049806","2018-01-04T01:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515049684","2018-01-04T01:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515049564","2018-01-04T01:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515049506","2018-01-04T01:05:06.000","0","0","0","0",,
+"signal_status_update","1515049443","2018-01-04T01:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515049323","2018-01-04T01:02:03.000","0","0","5","0",,
+"signal_status_update","1515049207","2018-01-04T01:00:07.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515049207","2018-01-04T01:00:07.000","0","0","0","0",,
+"signal_status_update","1515049084","2018-01-04T00:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515048965","2018-01-04T00:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515048843","2018-01-04T00:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515048723","2018-01-04T00:52:03.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515048608","2018-01-04T00:50:08.000","0","0","0","0",,
+"signal_status_update","1515048608","2018-01-04T00:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515048485","2018-01-04T00:48:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515048364","2018-01-04T00:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515048243","2018-01-04T00:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515048122","2018-01-04T00:42:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515048006","2018-01-04T00:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515047885","2018-01-04T00:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515047764","2018-01-04T00:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515047706","2018-01-04T00:35:06.000","0","0","0","0",,
+"signal_status_update","1515047643","2018-01-04T00:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515047522","2018-01-04T00:32:02.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515047407","2018-01-04T00:30:07.000","0","0","0","0",,
+"signal_status_update","1515047407","2018-01-04T00:30:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515047285","2018-01-04T00:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515047165","2018-01-04T00:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515047043","2018-01-04T00:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515046922","2018-01-04T00:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515046807","2018-01-04T00:20:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515046684","2018-01-04T00:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515046564","2018-01-04T00:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515046504","2018-01-04T00:15:04.000","0","0","0","0",,
+"signal_status_update","1515046443","2018-01-04T00:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515046323","2018-01-04T00:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515046206","2018-01-04T00:10:06.000","0","739","0","0",,
+"signal_status_update","1515046206","2018-01-04T00:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515046085","2018-01-04T00:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515045965","2018-01-04T00:06:05.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515045907","2018-01-04T00:05:07.000","0","0","0","0",,
+"signal_status_update","1515045843","2018-01-04T00:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515045723","2018-01-04T00:02:03.000","0","0","11","0",,
+"signal_status_update","1515045606","2018-01-04T00:00:06.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515045606","2018-01-04T00:00:06.000","0","0","0","0",,
+"signal_status_update","1515045485","2018-01-03T23:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515045365","2018-01-03T23:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515045243","2018-01-03T23:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515045122","2018-01-03T23:52:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515045008","2018-01-03T23:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515045008","2018-01-03T23:50:08.000","0","0","0","0",,
+"signal_status_update","1515044884","2018-01-03T23:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515044764","2018-01-03T23:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515044642","2018-01-03T23:44:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515044523","2018-01-03T23:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515044407","2018-01-03T23:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515044285","2018-01-03T23:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515044165","2018-01-03T23:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515044106","2018-01-03T23:35:06.000","0","0","0","0",,
+"signal_status_update","1515044042","2018-01-03T23:34:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515043923","2018-01-03T23:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515043806","2018-01-03T23:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515043806","2018-01-03T23:30:06.000","0","0","0","0",,
+"signal_status_update","1515043685","2018-01-03T23:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515043564","2018-01-03T23:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515043442","2018-01-03T23:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515043323","2018-01-03T23:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515043208","2018-01-03T23:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515043084","2018-01-03T23:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515042964","2018-01-03T23:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515042904","2018-01-03T23:15:04.000","0","0","0","0",,
+"signal_status_update","1515042842","2018-01-03T23:14:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515042723","2018-01-03T23:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515042607","2018-01-03T23:10:07.000","0","739","0","0",,
+"signal_status_update","1515042607","2018-01-03T23:10:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515042484","2018-01-03T23:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515042364","2018-01-03T23:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515042307","2018-01-03T23:05:07.000","0","0","0","0",,
+"signal_status_update","1515042243","2018-01-03T23:04:03.000","0","0","1","0",,
+"signal_status_update","1515042123","2018-01-03T23:02:03.000","0","0","6","0",,
+"cameras_update","1515042006","2018-01-03T23:00:06.000","0","0","0","0",,
+"signal_status_update","1515042006","2018-01-03T23:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515041885","2018-01-03T22:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515041764","2018-01-03T22:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515041643","2018-01-03T22:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515041523","2018-01-03T22:52:03.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515041408","2018-01-03T22:50:08.000","0","0","0","0",,
+"signal_status_update","1515041408","2018-01-03T22:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515041284","2018-01-03T22:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515041164","2018-01-03T22:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515041043","2018-01-03T22:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515040923","2018-01-03T22:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515040807","2018-01-03T22:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515040684","2018-01-03T22:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515040565","2018-01-03T22:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515040506","2018-01-03T22:35:06.000","0","0","0","0",,
+"signal_status_update","1515040443","2018-01-03T22:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515040322","2018-01-03T22:32:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515040206","2018-01-03T22:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515040206","2018-01-03T22:30:06.000","0","0","0","0",,
+"signal_status_update","1515040084","2018-01-03T22:28:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515039964","2018-01-03T22:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515039842","2018-01-03T22:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515039723","2018-01-03T22:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515039608","2018-01-03T22:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515039484","2018-01-03T22:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515039364","2018-01-03T22:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515039304","2018-01-03T22:15:04.000","0","0","0","0",,
+"signal_status_update","1515039243","2018-01-03T22:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515039122","2018-01-03T22:12:02.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515039007","2018-01-03T22:10:07.000","0","739","0","0",,
+"signal_status_update","1515039007","2018-01-03T22:10:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515038885","2018-01-03T22:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515038764","2018-01-03T22:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515038707","2018-01-03T22:05:07.000","0","0","0","0",,
+"signal_status_update","1515038642","2018-01-03T22:04:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515038522","2018-01-03T22:02:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515038407","2018-01-03T22:00:07.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515038407","2018-01-03T22:00:07.000","0","0","0","0",,
+"signal_status_update","1515038285","2018-01-03T21:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515038165","2018-01-03T21:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515038042","2018-01-03T21:54:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515037923","2018-01-03T21:52:03.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515037808","2018-01-03T21:50:08.000","0","0","0","0",,
+"signal_status_update","1515037808","2018-01-03T21:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515037684","2018-01-03T21:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515037565","2018-01-03T21:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515037443","2018-01-03T21:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515037322","2018-01-03T21:42:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515037207","2018-01-03T21:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515037085","2018-01-03T21:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515036965","2018-01-03T21:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515036907","2018-01-03T21:35:07.000","0","0","0","0",,
+"signal_status_update","1515036843","2018-01-03T21:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515036722","2018-01-03T21:32:02.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515036606","2018-01-03T21:30:06.000","0","0","0","0",,
+"signal_status_update","1515036606","2018-01-03T21:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515036485","2018-01-03T21:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515036364","2018-01-03T21:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515036242","2018-01-03T21:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515036123","2018-01-03T21:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515036008","2018-01-03T21:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515035884","2018-01-03T21:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515035765","2018-01-03T21:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515035705","2018-01-03T21:15:05.000","0","0","0","0",,
+"signal_status_update","1515035643","2018-01-03T21:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515035523","2018-01-03T21:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515035406","2018-01-03T21:10:06.000","0","739","0","0",,
+"signal_status_update","1515035406","2018-01-03T21:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515035284","2018-01-03T21:08:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515035107","2018-01-03T21:05:07.000","0","0","0","0",,
+"signal_status_update","1515035043","2018-01-03T21:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515034922","2018-01-03T21:02:02.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515034806","2018-01-03T21:00:06.000","0","0","0","0",,
+"signal_status_update","1515034806","2018-01-03T21:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515034684","2018-01-03T20:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515034564","2018-01-03T20:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515034443","2018-01-03T20:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515034322","2018-01-03T20:52:02.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515034208","2018-01-03T20:50:08.000","0","1","0","0",,
+"signal_status_update","1515034208","2018-01-03T20:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515034085","2018-01-03T20:48:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515033964","2018-01-03T20:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515033843","2018-01-03T20:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515033722","2018-01-03T20:42:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515033606","2018-01-03T20:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515033484","2018-01-03T20:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515033365","2018-01-03T20:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515033306","2018-01-03T20:35:06.000","0","0","0","0",,
+"signal_status_update","1515033243","2018-01-03T20:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515033123","2018-01-03T20:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515033006","2018-01-03T20:30:06.000","0","0","0","0",,
+"signal_status_update","1515033006","2018-01-03T20:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515032885","2018-01-03T20:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515032764","2018-01-03T20:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515032642","2018-01-03T20:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515032522","2018-01-03T20:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515032408","2018-01-03T20:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515032284","2018-01-03T20:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515032165","2018-01-03T20:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515032105","2018-01-03T20:15:05.000","0","0","0","0",,
+"signal_status_update","1515032042","2018-01-03T20:14:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515031922","2018-01-03T20:12:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515031806","2018-01-03T20:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515031806","2018-01-03T20:10:06.000","0","739","0","0",,
+"signal_status_update","1515031684","2018-01-03T20:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515031565","2018-01-03T20:06:05.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515031506","2018-01-03T20:05:06.000","0","0","0","0",,
+"signal_status_update","1515031443","2018-01-03T20:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515031323","2018-01-03T20:02:03.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515031207","2018-01-03T20:00:07.000","0","0","0","0",,
+"signal_status_update","1515031207","2018-01-03T20:00:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515031084","2018-01-03T19:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515030965","2018-01-03T19:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515030843","2018-01-03T19:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515030723","2018-01-03T19:52:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515030608","2018-01-03T19:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515030608","2018-01-03T19:50:08.000","0","0","0","0",,
+"signal_status_update","1515030484","2018-01-03T19:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515030365","2018-01-03T19:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515030242","2018-01-03T19:44:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515030123","2018-01-03T19:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515030007","2018-01-03T19:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515029884","2018-01-03T19:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515029765","2018-01-03T19:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515029706","2018-01-03T19:35:06.000","0","0","0","0",,
+"signal_status_update","1515029643","2018-01-03T19:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515029522","2018-01-03T19:32:02.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515029406","2018-01-03T19:30:06.000","0","0","0","0",,
+"signal_status_update","1515029406","2018-01-03T19:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515029285","2018-01-03T19:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515029165","2018-01-03T19:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515029043","2018-01-03T19:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515028923","2018-01-03T19:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515028808","2018-01-03T19:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515028685","2018-01-03T19:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515028565","2018-01-03T19:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515028505","2018-01-03T19:15:05.000","0","0","0","0",,
+"signal_status_update","1515028442","2018-01-03T19:14:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515028323","2018-01-03T19:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515028206","2018-01-03T19:10:06.000","0","739","0","0",,
+"signal_status_update","1515028206","2018-01-03T19:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515028085","2018-01-03T19:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515027964","2018-01-03T19:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515027906","2018-01-03T19:05:06.000","0","0","0","0",,
+"signal_status_update","1515027843","2018-01-03T19:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515027723","2018-01-03T19:02:03.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515027606","2018-01-03T19:00:06.000","0","0","0","0",,
+"signal_status_update","1515027606","2018-01-03T19:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515027485","2018-01-03T18:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515027364","2018-01-03T18:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515027243","2018-01-03T18:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515027123","2018-01-03T18:52:03.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515027008","2018-01-03T18:50:08.000","0","0","1","0",,
+"signal_status_update","1515027008","2018-01-03T18:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515026884","2018-01-03T18:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515026765","2018-01-03T18:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515026642","2018-01-03T18:44:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515026523","2018-01-03T18:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515026407","2018-01-03T18:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515026284","2018-01-03T18:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515026164","2018-01-03T18:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515026106","2018-01-03T18:35:06.000","0","0","0","0",,
+"signal_status_update","1515026042","2018-01-03T18:34:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515025923","2018-01-03T18:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515025806","2018-01-03T18:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515025806","2018-01-03T18:30:06.000","0","0","0","0",,
+"signal_status_update","1515025685","2018-01-03T18:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515025565","2018-01-03T18:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515025443","2018-01-03T18:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515025323","2018-01-03T18:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515025208","2018-01-03T18:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515025084","2018-01-03T18:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515024965","2018-01-03T18:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515024905","2018-01-03T18:15:05.000","0","0","0","0",,
+"signal_status_update","1515024842","2018-01-03T18:14:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515024723","2018-01-03T18:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515024606","2018-01-03T18:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515024606","2018-01-03T18:10:06.000","0","739","0","0",,
+"signal_status_update","1515024484","2018-01-03T18:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515024365","2018-01-03T18:06:05.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515024306","2018-01-03T18:05:06.000","0","0","0","0",,
+"signal_status_update","1515024243","2018-01-03T18:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515024122","2018-01-03T18:02:02.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515024006","2018-01-03T18:00:06.000","0","0","0","0",,
+"signal_status_update","1515024006","2018-01-03T18:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515023885","2018-01-03T17:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515023765","2018-01-03T17:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515023642","2018-01-03T17:54:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515023523","2018-01-03T17:52:03.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515023408","2018-01-03T17:50:08.000","0","0","0","0",,
+"signal_status_update","1515023408","2018-01-03T17:50:08.000","0","0","0","16",,
+"signal_status_update","1515023284","2018-01-03T17:48:04.000","0","0","16","0",,
+"signal_status_update","1515023165","2018-01-03T17:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515023042","2018-01-03T17:44:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515022922","2018-01-03T17:42:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515022806","2018-01-03T17:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515022685","2018-01-03T17:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515022564","2018-01-03T17:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515022506","2018-01-03T17:35:06.000","0","0","0","0",,
+"signal_status_update","1515022443","2018-01-03T17:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515022322","2018-01-03T17:32:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515022206","2018-01-03T17:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515022206","2018-01-03T17:30:06.000","0","0","0","0",,
+"signal_status_update","1515022084","2018-01-03T17:28:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515021964","2018-01-03T17:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515021843","2018-01-03T17:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515021723","2018-01-03T17:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515021609","2018-01-03T17:20:09.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515021484","2018-01-03T17:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515021365","2018-01-03T17:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515021304","2018-01-03T17:15:04.000","0","0","0","0",,
+"signal_status_update","1515021243","2018-01-03T17:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515021122","2018-01-03T17:12:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515021006","2018-01-03T17:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515021006","2018-01-03T17:10:06.000","0","739","0","0",,
+"signal_status_update","1515020884","2018-01-03T17:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515020764","2018-01-03T17:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515020706","2018-01-03T17:05:06.000","0","0","0","0",,
+"signal_status_update","1515020642","2018-01-03T17:04:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515020523","2018-01-03T17:02:03.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515020407","2018-01-03T17:00:07.000","0","0","0","0",,
+"signal_status_update","1515020407","2018-01-03T17:00:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515020284","2018-01-03T16:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515020165","2018-01-03T16:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515020043","2018-01-03T16:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515019923","2018-01-03T16:52:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515019808","2018-01-03T16:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515019808","2018-01-03T16:50:08.000","0","0","0","0",,
+"signal_status_update","1515019684","2018-01-03T16:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515019564","2018-01-03T16:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515019443","2018-01-03T16:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515019323","2018-01-03T16:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515019207","2018-01-03T16:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515019084","2018-01-03T16:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515018964","2018-01-03T16:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515018906","2018-01-03T16:35:06.000","0","0","0","0",,
+"signal_status_update","1515018843","2018-01-03T16:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515018723","2018-01-03T16:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515018606","2018-01-03T16:30:06.000","0","0","0","0",,
+"signal_status_update","1515018606","2018-01-03T16:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515018485","2018-01-03T16:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515018364","2018-01-03T16:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515018243","2018-01-03T16:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515018123","2018-01-03T16:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515018008","2018-01-03T16:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515017885","2018-01-03T16:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515017765","2018-01-03T16:16:05.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515017704","2018-01-03T16:15:04.000","0","0","0","0",,
+"signal_status_update","1515017643","2018-01-03T16:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515017522","2018-01-03T16:12:02.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515017406","2018-01-03T16:10:06.000","0","739","0","0",,
+"signal_status_update","1515017406","2018-01-03T16:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515017285","2018-01-03T16:08:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515017164","2018-01-03T16:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515017106","2018-01-03T16:05:06.000","0","0","0","0",,
+"signal_status_update","1515017043","2018-01-03T16:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515016923","2018-01-03T16:02:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515016806","2018-01-03T16:00:06.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515016806","2018-01-03T16:00:06.000","0","0","0","0",,
+"signal_status_update","1515016685","2018-01-03T15:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515016564","2018-01-03T15:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515016443","2018-01-03T15:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515016323","2018-01-03T15:52:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515016208","2018-01-03T15:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515016208","2018-01-03T15:50:08.000","0","2","0","0",,
+"signal_status_update","1515016084","2018-01-03T15:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515015964","2018-01-03T15:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515015843","2018-01-03T15:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515015723","2018-01-03T15:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515015606","2018-01-03T15:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515015484","2018-01-03T15:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515015364","2018-01-03T15:36:04.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515015306","2018-01-03T15:35:06.000","0","0","0","0",,
+"signal_status_update","1515015243","2018-01-03T15:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515015122","2018-01-03T15:32:02.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515015007","2018-01-03T15:30:07.000","0","0","0","0",,
+"signal_status_update","1515015006","2018-01-03T15:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515014885","2018-01-03T15:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515014765","2018-01-03T15:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515014642","2018-01-03T15:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515014522","2018-01-03T15:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515014407","2018-01-03T15:20:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515014285","2018-01-03T15:18:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515014164","2018-01-03T15:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515014104","2018-01-03T15:15:04.000","0","4","0","0",,
+"signal_status_update","1515014043","2018-01-03T15:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515013923","2018-01-03T15:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515013806","2018-01-03T15:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515013806","2018-01-03T15:10:06.000","0","739","0","0",,
+"signal_status_update","1515013684","2018-01-03T15:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515013564","2018-01-03T15:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515013506","2018-01-03T15:05:06.000","0","0","0","0",,
+"signal_status_update","1515013443","2018-01-03T15:04:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515013322","2018-01-03T15:02:02.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515013206","2018-01-03T15:00:06.000","0","0","0","0",,
+"signal_status_update","1515013206","2018-01-03T15:00:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515013085","2018-01-03T14:58:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515012964","2018-01-03T14:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515012842","2018-01-03T14:54:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515012722","2018-01-03T14:52:02.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515012608","2018-01-03T14:50:08.000","0","6","2","0",,
+"signal_status_update","1515012608","2018-01-03T14:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515012484","2018-01-03T14:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515012364","2018-01-03T14:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515012242","2018-01-03T14:44:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515012122","2018-01-03T14:42:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515012007","2018-01-03T14:40:07.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515011884","2018-01-03T14:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515011764","2018-01-03T14:36:04.000","0","0","0","5",,
+"pole_attachments_update","1515011706","2018-01-03T14:35:06.000","0","0","0","0",,
+"signal_status_update","1515011642","2018-01-03T14:34:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515011522","2018-01-03T14:32:02.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515011406","2018-01-03T14:30:06.000","0","0","0","0",,
+"signal_status_update","1515011406","2018-01-03T14:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515011284","2018-01-03T14:28:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515011165","2018-01-03T14:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515011042","2018-01-03T14:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515010922","2018-01-03T14:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515010808","2018-01-03T14:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515010684","2018-01-03T14:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515010564","2018-01-03T14:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515010505","2018-01-03T14:15:05.000","0","0","0","0",,
+"signal_status_update","1515010443","2018-01-03T14:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515010322","2018-01-03T14:12:02.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515010206","2018-01-03T14:10:06.000","0","739","0","0",,
+"signal_status_update","1515010206","2018-01-03T14:10:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515010084","2018-01-03T14:08:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515009964","2018-01-03T14:06:04.000","0","0","0","0",,"No signal status change detected"
+"travel_sensors_update","1515009906","2018-01-03T14:05:06.000","0","0","0","0",,
+"signal_status_update","1515009842","2018-01-03T14:04:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515009722","2018-01-03T14:02:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515009606","2018-01-03T14:00:06.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515009606","2018-01-03T14:00:06.000","0","0","0","0",,
+"signal_status_update","1515009484","2018-01-03T13:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515009364","2018-01-03T13:56:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515009243","2018-01-03T13:54:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515009123","2018-01-03T13:52:03.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515009008","2018-01-03T13:50:08.000","0","5","0","0",,
+"signal_status_update","1515009008","2018-01-03T13:50:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515008884","2018-01-03T13:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515008765","2018-01-03T13:46:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515008643","2018-01-03T13:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515008523","2018-01-03T13:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515008406","2018-01-03T13:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515008284","2018-01-03T13:38:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515008165","2018-01-03T13:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515008106","2018-01-03T13:35:06.000","0","0","0","0",,
+"signal_status_update","1515008043","2018-01-03T13:34:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515007923","2018-01-03T13:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515007806","2018-01-03T13:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515007806","2018-01-03T13:30:06.000","0","0","0","0",,
+"signal_status_update","1515007685","2018-01-03T13:28:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515007564","2018-01-03T13:26:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515007443","2018-01-03T13:24:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515007323","2018-01-03T13:22:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515007208","2018-01-03T13:20:08.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515007084","2018-01-03T13:18:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515006964","2018-01-03T13:16:04.000","0","0","0","0",,"No signal status change detected"
+"signals_update","1515006905","2018-01-03T13:15:05.000","0","0","0","0",,
+"signal_status_update","1515006843","2018-01-03T13:14:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515006723","2018-01-03T13:12:03.000","0","0","0","0",,"No signal status change detected"
+"signal_request_master_list","1515006606","2018-01-03T13:10:06.000","0","739","0","0",,
+"signal_status_update","1515006606","2018-01-03T13:10:06.000","0","0","0","1",,
+"signal_status_update","1515006485","2018-01-03T13:08:05.000","0","1","0","0",,
+"signal_status_update","1515006364","2018-01-03T13:06:04.000","0","1","0","0",,
+"travel_sensors_update","1515006307","2018-01-03T13:05:07.000","0","0","0","0",,
+"signal_status_update","1515006242","2018-01-03T13:04:02.000","0","0","1","0",,
+"signal_status_update","1515006123","2018-01-03T13:02:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515006007","2018-01-03T13:00:07.000","0","0","0","0",,"No signal status change detected"
+"cameras_update","1515006007","2018-01-03T13:00:07.000","0","0","0","0",,
+"signal_status_update","1515005884","2018-01-03T12:58:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515005765","2018-01-03T12:56:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515005642","2018-01-03T12:54:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515005522","2018-01-03T12:52:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515005408","2018-01-03T12:50:08.000","0","0","0","0",,"No signal status change detected"
+"work_orders_update","1515005408","2018-01-03T12:50:08.000","0","6","5","0",,
+"signal_status_update","1515005284","2018-01-03T12:48:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515005164","2018-01-03T12:46:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515005043","2018-01-03T12:44:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515004923","2018-01-03T12:42:03.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515004806","2018-01-03T12:40:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515004685","2018-01-03T12:38:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515004565","2018-01-03T12:36:05.000","0","0","0","0",,"No signal status change detected"
+"pole_attachments_update","1515004507","2018-01-03T12:35:07.000","0","0","0","0",,
+"signal_status_update","1515004442","2018-01-03T12:34:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515004323","2018-01-03T12:32:03.000","0","0","0","0",,"No signal status change detected"
+"signal_retiming_update","1515004206","2018-01-03T12:30:06.000","0","0","0","0",,
+"signal_status_update","1515004206","2018-01-03T12:30:06.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515004084","2018-01-03T12:28:04.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515003965","2018-01-03T12:26:05.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515003842","2018-01-03T12:24:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515003722","2018-01-03T12:22:02.000","0","0","0","0",,"No signal status change detected"
+"signal_status_update","1515003607","2018-01-03T12:20:07.000","0","0","0","0",,"No signal status change detected"

@@ -1,0 +1,757 @@
+Town_ID,Town_Name,County,Type,Population,Square_KM,Square_MI,Altitude,Postal_Code,URL,Incorporated_Villages,Clerk_First_Name,Clerk_Last_Name,Mailing_Address,Mailing_City,Mailing_State,Mailing_Zip,Physical_Address,Physical_City,Physical_State,Physical_Zip,Office_Phone,Office_Fax,Clerk_Email,Clerk_Hours,Location 1,Counties
+8,Avery's Gore,Essex,NULL,0,45.6,17.6,2251,05907,,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"NULL
+NULL, NULL NULL",
+36,Buels Gore,Chittenden,NULL,12,13.1,5.1,1165,05487,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"NULL
+NULL, NULL NULL",
+75,Ferdinand,Essex,Town,33,137.9,53,1275,05905,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"NULL
+NULL, NULL NULL",
+84,Granby,Essex,Town,86,101.2,39.1,1500,05840,NULL,NULL,Nellie,Noble,P.O. Box 56,Granby,VT,05840,9005 Granby Road,Granby,VT,05840,802-328-3611,802-328-2200,granby@wildblue.net,By appointment only,"9005 Granby Road
+Granby, VT 05840
+(44.57000543100003, -71.75836059899996)",903
+59,Derby,Orleans,Town,4604,149.2,57.6,1011,05829,http://derbyvt.org/,"Derby Center, Derby Line",Nicole,Daigle,P.O. Box 25,Derby,VT,05829,124 Main St,Derby,VT,05829,802-766-4906,802-766-2027,derbytownclerk@derbyvt.org,M-Th 7-5,"124 Main St
+Derby, VT 05829
+(44.95234521200007, -72.13141298799997)",3215
+47,Chelsea,Orange,Town,1250,103.4,39.9,840,05038,http://www.chelseavt.org/,NULL,Karen,Lathrop,P.O. Box 266,Chelsea,VT,05038,296 VT Route 110,Chelsea,VT,05038,802-685-4460,802-685-4460,town.clerk@chelseavt.us,"M 8:30-2:30 and 4:15-6, T-F 8:30-2:30","296 VT Route 110
+Chelsea, VT 05038
+(43.98917243200003, -72.44766364599997)",3207
+124,Marshfield,Washington,Town,1496,112.4,43.4,850,05658,http://www.town.marshfield.vt.us,Marshfield,Bobbi,Brimblecombe,"122 School Street, Room 1",Marshfield,VT,05658,"122 School Street, Room 1",Marshfield,VT,05658,802-426-3305,802-426-3045,clerk@town.marshfield.vt.us,T-F 8-12 and 12:30-4,"122 School Street, Room 1
+Marshfield, VT 05658
+(44.34900123600005, -72.35406494699998)",905
+115,Lincoln,Addison,Town,1214,114,44,971,05443,http://lincolnvermont.org/,NULL,Sally,Ober,62 Quaker Street,Lincoln,VT,05443,62 Quaker Street,Lincoln,VT,05443,802-453-2980,802-453-2975,clerk@lincolnvermont.org,M T Th 8-2; W 8-2 and 4-7 p.m.; and by appt.,"62 Quaker Street
+Lincoln, VT 05443
+(44.10659686200006, -72.99722371699994)",3202
+7,Averill,Essex,Town,8,98.6,38.1,1744,05901,,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"NULL
+NULL, NULL NULL",
+138,New Haven,Addison,Town,1666,108.2,41.8,454,05472,http://newhavenvt.com/,NULL,Pam,Kingman,78 North Street,New Haven,VT,05472,78 North Street,New Haven,VT,05472,802-453-3516,802-453-7552,newhavenclerk@gmavt.net,M-F 9-3,"78 North Street
+New Haven, VT 05472
+(44.11195767600003, -73.14993721699994)",3202
+245,Williston,Chittenden,Town,1650,79.5,30.7,501,05495,http://town.williston.vt.us,NULL,Deb,Beckett,7900 Williston Road,Williston,VT,05495,7900 Williston Road,Williston,VT,05495,802-878-5121,802-764-1140,beckettd@willistontown.com,M-F 8:30-5,"7900 Williston Road
+Williston, VT 05495
+(44.438451721000035, -73.07290673899996)",3204
+150,Panton,Addison,Town,682,57,22,200,05491,http://www.pantonvt.us/,NULL,Susan,Torrey,3176 Jersey Street,Panton,VT,05491,3176 Jersey Street,Panton,VT,05491,802-475-2333,802-475-2785,panton@gmavt.net,M T Th F 8:30-3:30,"3176 Jersey Street
+Panton, VT 05491
+(44.14760196300006, -73.34151399999996)",3202
+68,Enosburgh,Franklin,Town,2788,126.2,48.7,422,05450,http://www.enosburghvermont.org/,Enosburgh Falls,Billie Jo,Draper,P.O. Box 465,Enosburgh Falls,VT,05450,239 Main Street,Enosburgh Falls,VT,05450,802-933-4421,802-933-4832,enostown@myfairpoint.net,M-F 8-4,"239 Main Street
+Enosburgh Falls, VT 05450
+(44.905954346000044, -72.80579283399999)",3205
+114,Lewis,Essex,Town,0,102.7,39.7,1711,05903,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"NULL
+NULL, NULL NULL",
+102,Ira,Rutland,Town,455,55.2,21.3,830,05777,http://www.townofira.com/,NULL,Candace,Slack,P.O. Box 870,West Rutland,VT,05777,53 West Road,Ira,VT,05777,802-235-2745,802-235-1045,iraclerk@vermontel.com,M 9:30-2:30; T 2:15-7:15,"53 West Road
+Ira, VT 05777
+(43.534719633000066, -73.06636998599998)",3216
+237,Westminster,Windham,Town,3210,119.4,46.1,314,05158,http://westminster.govoffice.com/,"North Westminster, Westminster",Doreen,Woodward,P.O. Box 147,Westminster,VT,05158,3651 US Route 5,Westminster,VT,05158,802-722-4091,802-722-9816,dwoodward@westminstervt.org,M-F 8:30-4,"3651 US Route 5
+Westminster, VT 05158
+(43.068661733000056, -72.45769195499997)",3217
+128,Middletown Springs,Rutland,Town,823,59.2,22.8,850,05757,http://middletownsprings.vt.gov/,NULL,Laura,Castle,P.O. Box 1232,Middletown Springs,VT,05757,10 Park Avenue,Middletown Springs,VT,05757,802-235-2220,802-235-2076,middletown@vermontel.net,M T 9-12 and 1-4; F 12-4; Sat 9-12; and by appt.,"10 Park Avenue
+Middletown Springs, VT 05757
+(43.486047014000064, -73.11795980499994)",3216
+37,Burke,Caledonia,Town,1571,88.2,34.1,900,05871,http://www.burkevermont.org/,West Burke,Priscilla,Aldrich,212 School St,West Burke,VT,05871,212 School St,West Burke,VT,05871,802-467-3717,802-467-8623,burke@burkevermont.org,M-F 8-4 ,"212 School St
+West Burke, VT 05871
+(44.64535544300003, -71.97954915899999)",3203
+210,Troy,Orleans,Town,1564,93.4,36.1,764,05859,http://www.troyvt.org/,North Troy,Terri,Medley,142 Main Street,North Troy,VT,05859,142 Main Street,North Troy,VT,05859,802-988-2663,802-988-4692,townoftroy@comcast.net,M-Th 9-12 and 1-5,"142 Main Street
+North Troy, VT 05859
+(44.99533569400006, -72.40498888899998)",3215
+240,Weybridge,Addison,Town,824,45.5,17.6,180,05753,http://weybridge.govoffice.com,NULL,Karen,Brisson,1727 Quaker Village Road,Weybridge,VT,05752,1727 Quaker Village Road,Weybridge,VT,05753,802-545-2450,802-545-2624,curavoo@gmavt.net,M T Th F 9-2,"1727 Quaker Village Road
+Weybridge, VT 05753
+(44.06348884700003, -73.21516860399998)",3202
+160,Pownal,Bennington,Town,3560,121,46.7,385,05261,http://www.pownal.org/TownOffice/TownOffice.html,NULL,Karen,Burrington,P.O. Box 411,Pownal,VT,05261,467 Center Street,Pownal,VT,05261,802-823-7757,802-823-0116,powclerk@sover.net,M W Th F 9-2; T 9-4; and by appt.,"467 Center Street
+Pownal, VT 05261
+(42.79550175600008, -73.22400502799997)",902
+229,Weathersfield,Windsor,Town,2788,114.4,44.2,412,05030,http://www.weathersfield.org/,Perkinsville,Flo-Ann,Dango,P.O. Box 550,Ascutney,VT,05030,5259 US Route 5,Ascutney,VT,05030,802-674-9500,802-674-2117,tclerk@weathersfield.org,M-W 9-5; Th 9-5:30; and by appt.,"5259 US Route 5
+Ascutney, VT 05030
+(43.406729462000044, -72.40751666499995)",3218
+40,Calais,Washington,Town,1529,99.9,38.6,777,05650,http://www.calaisvermont.gov,NULL,Eva,Morse,3120 Pekin Brook Road,East Calais,VT,05650,3120 Pekin Brook Road,Calais,VT,05650,802-456-8720,NULL,calais.townclerk@gmail.com,M T Th 8-5; Sat 8-12,"3120 Pekin Brook Road
+Calais, VT 05650
+(44.36394402600007, -72.47096278499998)",905
+236,Westford,Chittenden,Town,2086,101.8,39.3,464,05494,http://westfordvt.us/,NULL,Nanette,Rogers,1713 VT Route 128,Westford,VT,05494,1713 VT Route 128,Westford,VT,05494,802-878-4587,802-879-6503,townclerk@westfordvt.us,M-F 8:30-4:30 (July & August close at 1 on Fri),"1713 VT Route 128
+Westford, VT 05494
+(44.61201647300004, -73.01100039799996)",3204
+242,Whiting,Addison,Town,380,35.4,13.7,390,05778,NULL,NULL,Grace,Simonds,29 South Main Street,Whiting,VT,05778,29 South Main Street,Whiting,VT,05778,802-623-7813,802-623-7813,townofwhiting@shoreham.net,M W 9-12 and 4-6; F 9-12; and by appt.,"29 South Main Street
+Whiting, VT 05778
+(43.862040027000035, -73.20105430399997)",3202
+58,Danville,Caledonia,Town,2211,158.4,61.2,1341,05828,http://www.danvillevt.com/,NULL,Wendy,Somers,P.O. Box 183,Danville,VT,05828,36 Route 2 W,Danville,VT,05828,802-684-3352,802-684-9606,danvtc36@yahoo.com,M-F 8-4,"36 Route 2 W
+Danville, VT 05828
+(44.41148717400006, -72.14087091799996)",3203
+137,Mount Tabor,Rutland,Town,203,113.4,43.8,1670,05739,NULL,NULL,William,Basso II,P.O. Box 245,Mount Tabor,VT,05739,522 Brooklyn Road,Mount Tabor,VT,05739,802-293-5282,802-293-5287,mttabor@vermontel.net,T W 9-12; and by appt.,"522 Brooklyn Road
+Mount Tabor, VT 05739
+(43.35042344400006, -72.98333987299998)",3216
+108,Johnson,Lamoille,Town,3274,116.8,45.1,516,05656,http://townofjohnson.com/,Johnson,Rosemary,Audibert,P.O. Box 383,Johnson,VT,05656,293 Lower Main West,Johnson,VT,05656,802-635-2611,802-635-2393,raudibert@townofjohnson.com,M-F 7:30-4,"293 Lower Main West
+Johnson, VT 05656
+(44.636411432000045, -72.68473180199999)",904
+71,Fairfax,Franklin,Town,3765,104.9,40.5,349,05454,NULL,NULL,Deborah,Woodward,P.O. Box 27,Fairfax,VT,05454,67 Hunt St,Fairfax,VT,05454,802-849-6111 x2,802-849-6276,fairfaxtownclerk@live.com,M 9-4 and 6-8 p.m.; T-F 9-4,"67 Hunt St
+Fairfax, VT 05454
+(44.66298650700003, -73.01211004599998)",3205
+55,Coventry,Orleans,Town,1014,71.7,27.7,718,05825,NULL,NULL,Cynthia,Diaz,P.O. Box 104,Coventry,VT,05825,168 Main Street,Coventry,VT,05825,802-754-2288,802-754-6274,covtc@hotmail.com,M T Th F 8-12; W 4-7pm; 3rd Sat 9-2,"168 Main Street
+Coventry, VT 05825
+(44.86657342800004, -72.26410068699994)",3215
+215,Vershire,Orange,Town,629,94.6,36.5,1200,05079,http://vershirevt.org/,NULL,Gene,Craft,6894 VT Route 113,Vershire,VT,05079,6894 VT Route 113,Vershire,VT,05079,802-685-2227,802-685-2224,clerk-treasurer@vershirevt.org,T-Th 9-4; 1st Sat 10-12,"6894 VT Route 113
+Vershire, VT 05079
+(43.97035682200004, -72.32325293099996)",3207
+212,Underhill,Chittenden,Town,2980,133.1,51.4,706,05490,http://www.underhillvt.gov,NULL,Sherri,Morin,P.O. Box 32,Underhill Center,VT,05490,12 Pleasant Valley Road,Underhill,VT,05489,802-899-4434 x101,802-899-2137,underhillclerk@comcast.net,M-F 8-4,"12 Pleasant Valley Road
+Underhill, VT 05489
+(44.507752253000035, -72.89882461099995)",3204
+14,Barre,Washington,Town,7602,79.5,30.7,760,05678,http://www.barretown.org/,NULL,Donna,Kelty,P.O. Box 124,Websterville,VT,05678,149 Websterville Road,Websterville,VT,05678,802-479-9391,802-479-9332,dkelty@barretown.org,M-F 8-4:30,"149 Websterville Road
+Websterville, VT 05678
+(44.16049573200007, -72.46999599599997)",905
+122,Manchester,Bennington,Town,4180,109.5,42.3,700,05255,http://www.manchester-vt.gov/,Manchester,Linda,Spence,P.O. Box 830,Manchester Center,VT,05255,6039 Main Street,Manchester Center,VT,05255,802-362-1315,802-362-1315,l.spence@manchester-vt.gov,M T Th F 8:30-1 and 2-4:30; W 10-6,"6039 Main Street
+Manchester Center, VT 05255
+(43.18863508100003, -73.04316662099995)",902
+175,Rutland,Rutland,Town,4038,50,19.3,540,05736,http://www.rutlandtown.com/,NULL,Marie,Hyjek,P.O. Box 225,Center Rutland,VT,05736,181 Business Route 4,Center Rutland,VT,05736,802-773-2528 x5,802-773-7295,mkh@rutlandtown.com,M-F 8-4:30,"181 Business Route 4
+Center Rutland, VT 05736
+(43.60437532100008, -73.00825116299995)",3216
+39,Cabot,Washington,Town,1213,99.8,38.5,1076,05647,http://www.cabotvt.us/,Cabot,Tara,Rogerson,P.O. Box 36,Cabot,VT,05647,3084 Main Street,Cabot,VT,05647,802-563-2279,802-563-2423,tcocabot@fairpoint.net,M-Th 9-5,"3084 Main Street
+Cabot, VT 05647
+(44.402326533000064, -72.31120928099995)",905
+238,Westmore,Orleans,Town,306,97,37.5,1170,05860,http://www.westmoreonline.org/main/,NULL,Greg,Gallagher,54 Hinton Hill Road,Orleans,VT,05860,54 Hinton Hill Road,Orleans,VT,05860,802-525-3007,802-525-1131,clerk@westmoreonline.org,M-Th 8:30-4; and by appt.,"54 Hinton Hill Road
+Orleans, VT 05860
+(44.771593677000055, -72.05397619399997)",3215
+86,Granville,Addison,Town,303,135.3,52.2,950,05747,http://www.granvillevermont.org/,NULL,Kathy,Werner,P.O. Box 66,Granville,VT,05747,4801 VT Route 100,Granville,VT,05747,802-767-4403,802-767-3968,granvilletown@gmavt.net,M-Th 9-3,"4801 VT Route 100
+Granville, VT 05747
+(43.97732697500004, -72.84201826999998)",3202
+20,Berlin,Washington,Town,2864,95.6,36.5,589,05602,http://www.berlinvt.org/,NULL,Rosemary,Morse,108 Shed Road,Berlin,VT,05602,108 Shed Road,Berlin,VT,05602,802-229-9298,802-229-9530,townclerk@berlinvt.org,M-Th 8:30-3:30,"108 Shed Road
+Berlin, VT 05602
+(44.21193270400005, -72.57813421199995)",905
+220,Waltham,Addison,Town,479,23,8.9,450,05491,NULL,NULL,Mary,Kinson,P.O. Box 175,Vergennes,VT,05491,2053 Maple Street,Waltham,VT,05491,802-877-3641,802-877-3641,Waltham@myfairpoint.net,T F 9-3,"2053 Maple Street
+Waltham, VT 05491
+(44.13082819700003, -73.24508414399997)",3202
+88,Groton,Caledonia,Town,876,142.4,55,773,05046,http://www.grotonvt.com/,Groton,Linda,Nunn,1476 Scott Highway,Groton,VT,05046,1476 Scott Highway,Groton,VT,05046,802-584-3276,802-584-3276,grotonclerk@fairpoint.net,M T Th 8:30-12:30 and 1-5; W F 8:30-12:30,"1476 Scott Highway
+Groton, VT 05046
+(44.21120561500004, -72.19749174099996)",3203
+226,Waterbury,Washington,Town,4915,128.8,49.7,425,05676,http://www.waterburyvt.com/,Waterbury,Carla,Lawrence,51 South Main Street,Waterbury,VT,05676,51 South Main Street,Waterbury,VT,05676,802-244-8447,802-244-1014,clawrence@waterburyvt.com,M-F 8-4:30,"51 South Main Street
+Waterbury, VT 05676
+(44.336376836000056, -72.75504288599996)",905
+116,Londonderry,Windham,Town,1709,92.9,35.9,1100,05155,http://www.londonderryvt.org,NULL,James,Twitchell,P.O. Box 118,South Londonderry,VT,05155,100 Old School Street,South Londonderry,VT,05155,802-824-3356,802-824-4259,londontown@vermontel.net,T-F 9-3; Sat. 9-12,"100 Old School Street
+South Londonderry, VT 05155
+(43.19092229100005, -72.81074534199996)",3217
+185,Shoreham,Addison,Town,1222,120,46.3,396,05770,http://www.shorehamvt.org,NULL,Amy,Douglas,297 Main Street,Shoreham,VT,05770,297 Main Street,Shoreham,VT,05770,802-897-5841,802-897-2545,shorehamtown@shoreham.net,M T Th F 9-12 and 1-4,"297 Main Street
+Shoreham, VT 05770
+(43.89375197500004, -73.31494699099994)",3202
+62,Dummerston,Windham,Town,1915,79.8,30.8,756,05346,http://www.dummerston.org,NULL,Pamela,McFadden,1523 Middle Road,East Dummerston,VT,05346,1523 Middle Road,East Dummerston,VT,05346,802-257-1496,802-257-4671,townclerk@dummerston.org,M T Th F 9-3; W 11-5,"1523 Middle Road
+East Dummerston, VT 05346
+(42.93627261900008, -72.57177822499995)",3217
+72,Fairfield,Franklin,Town,1800,177.5,68.5,500,05455,http://fairfieldvermont.us/,NULL,Amanda,Forbes,P.O. Box 5,Fairfield,VT,05455,25 North Rd,Fairfield,VT,05455,802-827-3261,802-827-3653,amanda@fairfieldvermont.us,M T Th F 8-3; W 10:30-5:30,"25 North Rd
+Fairfield, VT 05455
+(44.80210955700005, -72.94502304599996)",3205
+16,Belvidere,Lamoille,Town,294,83.2,32.1,720,05442,NULL,NULL,Shirley,Brown,3996 VT Route 109,Belvidere,VT,05442,3996 VT Route 109,Belvidere,VT,05442,802-644-6621,802-644-6621,beltc@pshift.net,T-Th 8:30-3:30,"3996 VT Route 109
+Belvidere, VT 05442
+(44.74949435700006, -72.69298686199994)",904
+103,Irasburg,Orleans,Town,1077,105.1,40.6,814,05845,http://www.irasburgvt.com/,NULL,Danielle,Ingalls,P.O. Box 51,Irasburg,VT,05845,161 Route 58 East,Irasburg,VT,05845,802-754-2242,802-754-2242,irasburgtc@comcast.net,M-Th 9-3,"161 Route 58 East
+Irasburg, VT 05845
+(44.80329640700006, -72.27638386799998)",3215
+168,Ripton,Addison,Town,556,128.3,49.5,1025,05766,http://www.riptonvt.org/,NULL,Sally,Hoyler,P.O. Box 10,Ripton,VT,05766,1311 Route 125,Ripton,VT,05766,802-388-2266,802-388-0012,townclerk@riptonvt.org,M 2-6; T-Th 9-1,"1311 Route 125
+Ripton, VT 05766
+(43.954721437000046, -72.99516290499997)",3202
+206,Thetford,Orange,Town,2617,114.4,44.2,600,05075,http://www.thetfordvermont.us/,NULL,Tracy,Borst,P.O. Box 126,Thetford Center,VT,05075,3910 VT Route 113,Thetford Center,VT,05075,802-785-2922,802-785-2031,townclerk@thetfordvermont.us,"M 6-8 p.m., T-Th 8-4; F 8-12 (Oct-May 1 only)","3910 VT Route 113
+Thetford Center, VT 05075
+(43.83137319900004, -72.24718735199997)",3207
+152,Peacham,Caledonia,Town,665,123.5,47.7,1310,05862,http://www.peacham.net,NULL,Bruce,Lafferty,P.O. Box 244,Peacham,VT,05862,79 Church Street,Peacham,VT,05862,802-592-3218,802-592-3218,townclerk@peacham.net,M T Th F 8:30-12:30; W 8:30-12:30 and 3-6:30,"79 Church Street
+Peacham, VT 05862
+(44.327795793000064, -72.17124160899994)",3203
+51,Colchester,Chittenden,Town,16986,151.9,58.6,274,05446,http://www.colchestervt.gov/,NULL,Karen,Richard,P.O. Box 55,Colchester,VT,05446,781 Blakely Road,Colchester,VT,05446,802 264-5520,802 264-5503,krichard@colchestervt.gov,M-F 8-4,"781 Blakely Road
+Colchester, VT 05446
+(44.53593760200005, -73.20628011099996)",3204
+25,Braintree,Orange,Town,1194,99.3,38.3,777,05060,http://www.braintreevt.com,NULL,Richard,Liebert,932 VT Route 12A,Braintree,VT,05060,932 VT Route 12A,Braintree,VT,05060,802-728-9787,802-728-9787,braintreetownclerk@comcast.net,T 9-12 and 1-5; W Th 9-12 and 1-4; and by appt.,"932 VT Route 12A
+Braintree, VT 05060
+(43.931226484000035, -72.68949072599997)",3207
+90,Guilford,Windham,Town,2046,103.5,40,400,05301,http://www.guilfordschool.org/,NULL,Joe,Hunt,236 School Road,Guilford,VT,05301,236 School Road,Guilford,VT,05301,802-254-6857,802-257-5764,guilfordtc@yahoo.com,"M 9-6, T Th 9-4; W 9-12; F by appt only","236 School Road
+Guilford, VT 05301
+(42.79913725500006, -72.62379337899995)",3217
+119,Lunenburg,Essex,Town,1328,117.5,45.4,1172,05906,NULL,NULL,Patricia,Scott,P.O. Box 54,Lunenburg,VT,05906,9 West Main Street,Lunenburg,VT,05906,802-892-5959,802-892-5100,lunenburg01@live.com,M-Th 8-12 and 1-3; F 8-12,"9 West Main Street
+Lunenburg, VT 05906
+(44.46317162200006, -71.68266951099997)",903
+85,Grand Isle,Grand Isle,Town,1955,91,35.1,160,05458,http://www.grandislevt.org,NULL,Cheryl,Vantine,P.O. Box 49,Grand Isle,VT,05458,9 Hyde Road,Grand Isle,VT,05458,802-372-8830,802-372-8815,clerk@town.grand-isle.vt.us,M W Th F 8:30-3:30; T 8:30-3:30 and 5-7 p.m.; Sat. 10-12,"9 Hyde Road
+Grand Isle, VT 05458
+(44.722292148000065, -73.29524758099996)",3206
+159,Poultney,Rutland,Town,3633,116,44.8,430,05764,NULL,Poultney,Patricia,McCoy,"9 Main Street, Suite 2",Poultney,VT,05764,"9 Main Street, Suite 2",Poultney,VT,05764,802-287-5761,NULL,poultneytownclerk@comcast.net,M-F 8:30-12:30 and 1:30-4,"9 Main Street, Suite 2
+Poultney, VT 05764
+(43.516952364000076, -73.23302205799996)",3216
+189,South Hero,Grand Isle,Town,1696,123,47.5,240,05486,http://www.southherovt.org/,NULL,Sharon,Roy,P.O. Box 175,South Hero,VT,05486,333 US Route 2,South Hero,VT,05486,802-372-5552,802-372-3809,southherotc@aol.com,M-W 8:30-12 and 1-4:30; Th 8:30-12 and 1-5,"333 US Route 2
+South Hero, VT 05486
+(44.64545223500005, -73.30617812599996)",3206
+78,Franklin,Franklin,Town,1268,105.6,40.8,452,05457,http://www.franklinvermont.com,NULL,Lisa,Larivee,P.O. Box 82,Franklin,VT,05457,5167 Main St,Franklin,VT,05457,802-285-2101,802-285-2181,townoff@franklinvt.net,M T F 8:30-3:30; W 8:30-12; Th 8:30-6,"5167 Main St
+Franklin, VT 05457
+(44.98158321100004, -72.91561220499995)",3205
+205,Swanton,Franklin,Town,6203,159.7,61.7,155,05488,http://www.swantonvermont.org/,Swanton,Doris,Raleigh,P.O. Box 711,Swanton,VT,05488,1 Academy Street,Swanton,VT,05488,802-868-4421,802-868-4957,townclerk@swantonvermont.org,M-Th 7-5,"1 Academy Street
+Swanton, VT 05488
+(44.91732275900006, -73.12442295399995)",3205
+233,West Rutland,Rutland,Town,2535,46.6,18,500,05777,http://www.westrutlandtown.com/,NULL,Jayne,Pratt,35 Marble Street,West Rutland,VT,05777,35 Marble Street,West Rutland,VT,05777,802-438-2204,802-438-5133,crwener@westrutlandtown.com,M-Th 9-12 and 1-4; and by appt.,"35 Marble Street
+West Rutland, VT 05777
+(43.59484315800006, -73.04807160899998)",3216
+243,Whitingham,Windham,Town,1298,101.8,39.3,1650,05342,,Jacksonville,Almira,Ackus,P.O. Box 529,Jacksonville,VT,05342,2948 VT Route 100,Jacksonville,VT,05342,802-368-7887,802-368-7519,whitinghamtownclerk@yahoo.com,M T Th F 9-2; W 9-2 and 5-7 p.m.; 1st Sat. 9-12,"2948 VT Route 100
+Jacksonville, VT 05342
+(42.79867864700003, -72.82274520399994)",3217
+148,Orange,Orange,Town,965,101,39,1500,05649,http://www.orangevt.org/,NULL,Rita,Bisson,P.O. Box 233,East Barre,VT,05649,392 US Route 302,Orange,VT,05649,802-479-2673,802-479-2673,kfelch@orangevt.org,M-F 8-12 and 1-4,"392 US Route 302
+Orange, VT 05649
+(44.148353273000055, -72.40110697099993)",3207
+187,Somerset,Windham,Town,5,72.9,28.1,2000,05356,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"NULL
+NULL, NULL NULL",
+194,St. Johnsbury,Caledonia,Town,7571,95.2,36.8,697,05819,http://www.stjtown.com/,NULL,Sandra,Grenier,"1187 Main Street, Suite 2",St Johnsbury,VT,05819,"1187 Main Street, Suite 2",St Johnsbury,VT,05819,802-748-4331,802-748-1265,townclerk@stjvt.com,M-F 8-5; May 15-Sept 15 M-F 7-4,"1187 Main Street, Suite 2
+St Johnsbury, VT 05819
+(44.41871198100006, -72.02098751799997)",3203
+93,Hardwick,Caledonia,Town,3174,100.7,38.9,861,05843,http://hardwickvt.org/,NULL,Alberta,Miller,P.O. Box 523,Hardwick,VT,05843,20 Church St,Hardwick,VT,05843,802-472-5971,802-472-3793,hardwicktc@vtlink.net,M-Th 8-4:30; F 8-4,"20 Church St
+Hardwick, VT 05843
+(44.50574382600007, -72.36468552799994)",3203
+171,Roxbury,Washington,Town,576,108.3,41.8,1007,05669,http://www.roxbury.govoffice2.com,NULL,Tammy,Legacy,P.O. Box 53,Roxbury,VT,05669,1664 Roxbury Road,Roxbury,VT,05669,802-485-7840,802-485-9160,townrox@tds.net,T-F 9-12 and 1-4,"1664 Roxbury Road
+Roxbury, VT 05669
+(44.09111941300006, -72.73387662199997)",905
+244,Williamstown,Orange,Town,3225,104.5,40.3,870,05679,http://www.williamstownvt.org/,NULL,Deborah,Palmer,P.O. Box 646,Williamstown,VT,05679,2470 VT Route 14,Williamstown,VT,05679,802-433-5455,802-433-2160,clerk@williamstownvt.org,M-F 8-4:30,"2470 VT Route 14
+Williamstown, VT 05679
+(44.120635707000076, -72.54118752599999)",3207
+79,Georgia,Franklin,Town,4375,117,45.2,385,05478,http://townofgeorgia.com/,NULL,Laurie,Broe,47 Town Common Road North,St. Albans,VT,05478,47 Town Common Road North,Georgia,VT,05478,802-524-3524,802-524-3543,georgia_clerk@comcast.net,M-F 8-4,"47 Town Common Road North
+Georgia, VT 05478
+(44.72935794000006, -73.11672225499996)",3205
+96,Highgate,Franklin,Town,3397,155.1,59.9,308,05459,http://www.highgatevt.org,NULL,Tom,Racine,P.O. Box 189,Highgate,VT,05459,2996 VT Route 78,Highgate,VT,05459,802-868-4697,802-868-3064,hgtownclerk@gmail.com,M-F 8:30-12 and 1:00-4:30,"2996 VT Route 78
+Highgate, VT 05459
+(44.93834268300003, -73.04710484399999)",3205
+158,Pomfret,Windsor,Town,997,102.2,39.5,1333,05067,http://pomfretvt.us/,NULL,Lynne,Leavitt,5218 Pomfret Road,North Pomfret,VT,05053,5218 Pomfret Road,North Pomfret,VT,05053,802-457-3861,NULL,clerk@pomfretvt.us,M W F 8:30-2:30,"5218 Pomfret Road
+North Pomfret, VT 05053
+(43.70570534400008, -72.51491196499995)",3218
+9,Bakersfield,Franklin,Town,1215,115.6,44.6,726,05441,NULL,NULL,Katherine,Westcom,P.O. Box 203,Bakersfield,VT,05441,40 East Bakersfield Road,Bakersfield,VT,05441,802-827-4495,802-827-3106,townclerk_bakersfield@comcast.net,M-F 9-12  ,"40 East Bakersfield Road
+Bakersfield, VT 05441
+(44.781961909000074, -72.80083571799997)",3205
+5,Arlington,Bennington,Town,2397,109.9,42.4,691,05250,http://www.arlingtonvt.org/,NULL,Robin,Wilcox,P.O. Box 304,Arlington,VT,05250,3828 VT Route 7A,Arlington,VT,05250,802-375-2332,802-375-2332,Townclerk@arlingtonvt.org,M-F 9-2,"3828 VT Route 7A
+Arlington, VT 05250
+(43.07386659000008, -73.15426705299996)",902
+166,Richford,Franklin,Town,2321,112.1,43.3,477,05476,http://www.richfordvt.com,NULL,Gary,Snider,P.O. Box 236,Richford,VT,05476,94 Main Street,Richford,VT,05476,802-848-7751,802-848-7752,townclerk@richfordvt.org,M-F 8:30-4,"94 Main Street
+Richford, VT 05476
+(44.99461667000003, -72.67323087799997)",3205
+130,Monkton,Addison,Town,1759,93.8,36.2,533,05469,http://www.monktonvt.com,NULL,Carmelita,Burrit,P.O. Box 12,Monkton,VT,05469,280 Monkton Ridge,Monkton,VT,05473,802-453-3800,802-453-3612,townclerk@monktonvt.com,M T Th F 8-1; Sat 8:30-12,"280 Monkton Ridge
+Monkton, VT 05473
+(44.253923006000036, -73.12395743199994)",3202
+12,Barnet,Caledonia,Town,1690,112.9,43.6,452,05821,http://www.barnetvt.org,NULL,Benjamin,Heisholt,P.O. Box 15,Barnet,VT,05821,1742 US Route 5 South,Barnet,VT,05821,802-633-2256,802-633-4315,townclerk@barnetvt.org,M-F 9-12 and 1-4:30,"1742 US Route 5 South
+Barnet, VT 05821
+(44.29720295900006, -72.04836395099994)",485
+70,Fair Haven,Rutland,Town,2928,47,18,400,05743,http://www.fairhavenvt.org/,NULL,Suzanne,Dechame,3 North Park Place,Fair Haven,VT,05743,3 North Park Place,Fair Haven,VT,05743,802-265-3610 x4,802 -265-3176,sdclerk@comcast.net,M-F 8-4,"3 North Park Place
+Fair Haven, VT 05743
+(43.594894400000044, -73.26614163699998)",3216
+174,Rutland,Rutland,City,17292,19.8,7.6,540,05702,http://rutland.govoffice.com/,NULL,Henry,Heck,P.O. Box 969,Rutland,VT,05701,1 Strongs Avenue,Rutland,VT,05701,802-773-1800,802-773-1846,henryh@rutlandcity.com,M-F 8:30-5,"1 Strongs Avenue
+Rutland, VT 05701
+(43.60533532300008, -72.97862253199997)",3216
+127,Middlesex,Washington,Town,1729,103.2,39.9,560,05602,http://middlesexvermont.org/,NULL,Cindy,Carlson,5 Church Street,Middlesex,VT,05602,5 Church Street,Middlesex,VT,05602,802-223-5915,802-223-1298,middlesxtwnclrk@comcast.net,M-Th 8:30-12 and 1-4:30; F 8:30-12:30,"5 Church Street
+Middlesex, VT 05602
+(44.29258667000005, -72.67959032099998)",905
+44,Cavendish,Windsor,Town,1470,102.8,39.7,920,05142,http://www.cavendishvt.com/,NULL,Jane,Pixley,P.O. Box 126,Cavendish,VT,05142,37 High St,Cavendish,VT,05142,802-226-7291,802-226-7290,j.pixley@comcast.net,M T Th F 9-12 and 1-4:30; W 9-12 and 1-6,"37 High St
+Cavendish, VT 05142
+(43.38280025900008, -72.60750587499996)",3218
+56,Craftsbury,Orleans,Town,1136,102.9,39.7,904,05826,http://www.townofcraftsbury.com/,NULL,Yvette,Brown,P.O. Box 55,Craftsbury,VT,05826,85 South Craftsbury Rd,Craftsbury,VT,05826,802-586-2823,802-586-2323,craftsbury@gmail.com,T-F 8:30-4; and by appt.,"85 South Craftsbury Rd
+Craftsbury, VT 05826
+(44.634973384000034, -72.37206013199994)",3215
+197,Starksboro,Addison,Town,1898,117.9,45.5,615,05487,http://www.starksboro.org,NULL,Cheryl,Estey,P.O. Box 91,Starksboro,VT,05487,2849 VT Route 116,Starksboro,VT,05487,802-453-2639,802-453-7293,starksboro@madriver.com,M-Th 8:30-4:30,"2849 VT Route 116
+Starksboro, VT 05487
+(44.22554345700007, -73.05705825499996)",3202
+101,Hyde Park,Lamoille,Town,2847,101,39,671,05655,http://www.hydeparkvt.com,Hyde Park,Kimberly,Moulton,P.O. Box 98,Hyde Park,VT,05655,344 Vermont Route 15 W,Hyde Park,VT,05655,802-888-2300,802-888-6878,kim@hydeparkvt.com,M-F 8-4,"344 Vermont Route 15 W
+Hyde Park, VT 05655
+(44.59797772300004, -72.62332666299994)",904
+216,Victory,Essex,Town,97,111.4,43,1100,05858,NULL,NULL,Ruth,Neborsky,P.O. Box 609,North Concord,VT,05858,102 Radar Road,Victory,VT,05858,802-328-2400,NULL,townofvictory@wildblue.net,Th 9-4; and by appt.,"102 Radar Road
+Victory, VT 05858
+(44.57629688900005, -71.78482851199993)",903
+63,Duxbury,Washington,Town,1289,111.6,43.1,550,05676,http://www.duxburyvermont.org/,NULL,J Kenneth,Scott,5421 VT Route 100,Duxbury,VT,05676,5421 VT Route 100,Duxbury,VT,05676,802-244-6660,802-244-5442,duxbury1@myfairpoint.net,M 8-4; T Th F 7:30-3:30; W 10-6,"5421 VT Route 100
+Duxbury, VT 05676
+(44.319559283000046, -72.75936739999997)",905
+184,Sheldon,Franklin,Town,1990,101.8,39.3,374,05483,NULL,NULL,Paulette,Bocash,P.O. Box 66,Sheldon,VT,05483,1640 Main Street,Sheldon,VT,05483,802-933-2524,802-933-4951,tc@sheldonvt.com,M 8-6; T W F 8-3; Th 8:30-3,"1640 Main Street
+Sheldon, VT 05483
+(44.88064217200008, -72.94634816999996)",3205
+252,Woodbury,Washington,Town,809,101.3,39.1,1164,05681,http://woodburyvt.org/,NULL,Marcia,McGlynn,P.O. Box 10,Woodbury,VT,05681,1672 Route 14,Woodbury,VT,05681,802-456-7051,802-456-8834,woodburyclerk@comcast.net,M 9-1 and 6-8 p.m.; T-Th 9-1,"1672 Route 14
+Woodbury, VT 05681
+(44.41465350500005, -72.41791873899996)",905
+10,Baltimore,Windsor,Town,250,12.1,4.7,1067,05143,http://www.baltimorevt.org,NULL,Debby,Bean,1902 Baltimore Road,Baltimore,VT,05143,1902 Baltimore Road,Baltimore,VT,05143,802-263-5274,802-263-5274,baltimorevt@tds.net,W 4-6pm; Th 9-11; and by appt.,"1902 Baltimore Road
+Baltimore, VT 05143
+(43.36174000400007, -72.57146480499995)",3218
+2,Albany,Orleans,Town,840,100.2,38.7,956,05820,,Albany,Debra Ann,Geoffroy,P.O. Box 284,Albany,VT,05820,827 Main Street,Albany,VT,05820,802-755-6100,NULL,albany@gaw.com,T Th 9-4; W 9-7,"827 Main Street
+Albany, VT 05820
+(44.731394022000075, -72.37951769999995)",3215
+234,West Windsor,Windsor,Town,1067,64,24.7,689,05037,http://www.westwindsorvt.govoffice2.com/,NULL,Cathy,Archibald,P.O. Box 6,Brownsville,VT,05037,22 Brownsville-Hartland Road,West Windsor,VT,05089,802-484-7212,802-484-3518,west.windsor.townclerk@valley.net,M-F 9-12 and 1:30-4:30,"22 Brownsville-Hartland Road
+West Windsor, VT 05089
+(43.468175934000044, -72.47112942199993)",3218
+248,Windsor,Windsor,Town,3756,51.2,19.8,362,05089,http://www.windsorvt.org/,NULL,Sandra,Micka,P.O. Box 47,Windsor,VT,05089,29 Union Street,Windsor,VT,05089,802-674-5610,802-674-1017,smicka@windsorvt.org,M-Th 8-5; F 8-12,"29 Union Street
+Windsor, VT 05089
+(43.47730349900007, -72.39220432299999)",3218
+199,Stowe,Lamoille,Town,4339,188.4,72.7,723,05672,http://www.townofstowevt.org/,NULL,Alison,Kaiser,P.O. Box 248,Stowe,VT,05672,67 Main Street,Stowe,VT,05672,802-253-6133,802-253-6143,akaiser@townofstowevermont.org,M-F 8-4:30,"67 Main Street
+Stowe, VT 05672
+(44.465426638000054, -72.68596935299996)",904
+129,Milton,Chittenden,Town,9479,157.7,60.9,320,05468,http://miltonvt.org/,NULL,John,Cushing,P.O. Box 18,Milton,VT,05468,43 Bombardier Road,Milton,VT,05468,802-893-7344,802-893-1005,Jcushing@town.milton.vt.us,M-F 8-5,"43 Bombardier Road
+Milton, VT 05468
+(44.61954317800007, -73.12379956999996)",3204
+227,Waterford,Caledonia,Town,1104,102.9,39.7,816,05848,NULL,NULL,Joanne,Jurentkuff,PO Box 56,Lower Waterford,VT,05848,532 Maple Street,Waterford,VT,05848,802-748-2122,802-748-8196,townofwaterford@gmail.com,M Th F 8:30-3:30; T 12-6,"532 Maple Street
+Waterford, VT 05848
+(44.42088626800006, -72.01803227099998)",3203
+1,Addison,Addison,Town,1393,126.8,49,289,05491,http://www.addisonvt.org/,NULL,Jane,Grace,7099 VT Rte 22A,Addison,VT,05491,66 VT Rte 17W,Addison,VT,05491,802-759-2020,802-759-2233,addisontown@gmavt.net,M-F 8:30-12 and 1:00-4:30,"66 VT Rte 17W
+Addison, VT 05491
+(44.12721733500007, -73.29035910499994)",3202
+230,Wells,Rutland,Town,1121,60.5,23.4,502,05774,http://wellsvt.com/,NULL,Nora,Sargent,P.O. Box 585,Wells,VT,05774,108 Route 30,Wells,VT,05774,802-645-0486,802-645-0464,wellstownclerk@comcast.net,M W Th 7:30-3:30; T 11-6; and by appt.,"108 Route 30
+Wells, VT 05774
+(43.416915750000044, -73.21217902199999)",3216
+95,Hartland,Windsor,Town,3223,117,45.2,587,05048,http://www.hartland.govoffice.com,NULL,Clyde,Jenne,P.O. Box 349,Hartland,VT,05048,1 Quechee Road,Hartland,VT,05048,802-436-2444,802-436-2464,hardlandvtclerk@vermontel.net,M-F 7-5; and by appt.,"1 Quechee Road
+Hartland, VT 05048
+(43.54124016000003, -72.39926435299998)",3218
+6,Athens,Windham,Town,340,33.9,13.1,980,05143,,NULL,Darlene,Wyman,56 Brookline Road,Athens,VT,05143,56 Brookline Road,Athens,VT,05143,802-869-3370,802-869-3370,townofathens@hotmail.com,M 9-1 or by appt.,"56 Brookline Road
+Athens, VT 05143
+(43.12467069500008, -72.56895513499995)",3217
+251,Wolcott,Lamoille,Town,1456,101.5,39.2,720,05680,http://www.wolcottvt.org/,NULL,Linda,Martin,P.O. Box 100,Wolcott,VT,05680,28 Railroad Street,Wolcott,VT,05680,802-888-2746,802-888-2669,wolcott@pshift.com,T 8-6; W-F 8-4,"28 Railroad Street
+Wolcott, VT 05680
+(44.558676381000055, -72.46972660599994)",904
+217,Waitsfield,Washington,Town,1659,69.7,26.9,800,05673,http://www.waitsfieldvt.us/,NULL,Jennifer,Peterson,9 Bridge Street,Waitsfield,VT,05673,9 Bridge Street,Waitsfield,VT,05673,802-496-2218,802-496-9284,waitsfld@madriver.com,M-F 8-4:30,"9 Bridge Street
+Waitsfield, VT 05673
+(44.190034741000034, -72.82409452599995)",905
+183,Shelburne,Chittenden,Town,6944,116.3,44.9,148,05482,http://www.shelburnevt.org/,NULL,Colleen,Haag,P.O. Box 88,Shelburne,VT,05482,5420 Shelburne Road,Shelburne,VT,05482,802-985-5116,802-985-9550,chaag@shelburnevt.org,M-F 8:30-5:30,"5420 Shelburne Road
+Shelburne, VT 05482
+(44.37835215800004, -73.22845441299995)",3204
+231,West Fairlee,Orange,Town,726,59.1,22.8,752,05083,http://www.westfairleevt.com,NULL,Rhonda,Cook,870 Route 113,West Fairlee,VT,05083,870 Route 113,West Fairlee,VT,05083,802-333-9696,802-333-9611,westfairleetc@hotmail.com,M-W 9:30-12 and 1-3:30,"870 Route 113
+West Fairlee, VT 05083
+(43.90970301200008, -72.26280307499997)",3207
+30,Brighton,Essex,Town,1260,138.3,53.4,1280,05846,http://brightonvt.org/,NULL,Lucille,Stevens,P.O. Box 377,Island Pond,VT,05846,49 Mill Street Ext 1,Island Pond,VT,05846,802-723-4405,802-723-4405,brightonclerk@comcast.net,M-F 8-3:30,"49 Mill Street Ext 1
+Island Pond, VT 05846
+(44.81414720500004, -71.88029876699994)",903
+232,West Haven,Rutland,Town,278,73.8,28.5,380,05743,NULL,NULL,Carol,Richards,2919 Main Road,West Haven,VT,05743,2919 Main Road,West Haven,VT,05743,802-265-4880,802-265-3828,westhaven@myfairpoint.net,M W 1-3:30; and by special appt.,"2919 Main Road
+West Haven, VT 05743
+(43.65192259000003, -73.33884185899996)",3216
+48,Chester,Windsor,Town,3044,144.9,55.9,623,05143,http://www.chester.govoffice.com,NULL,Deborah,Aldrich,P.O. Box 370,Chester,VT,05143,556 Elm Street,Chester,VT,05143,802-875-2173,802-875-2237,tcchester@vermontel.net,M-F 8-5,"556 Elm Street
+Chester, VT 05143
+(43.268322212000044, -72.58936089299993)",3218
+149,Orwell,Addison,Town,1185,128.7,49.7,385,05760,http://www.town-of-orwell.org/,NULL,Susan Ann,Arnebold,P.O. Box 32,Orwell,VT,05760,436 Main Street,Orwell,VT,05760,802-948-2032,NULL,tckorwel@sover.net,M T Th 9:30-12 and 1-3:30; F 9:30-12 and 1-6,"436 Main Street
+Orwell, VT 05760
+(43.803497191000076, -73.30140216799998)",3202
+255,Worcester,Washington,Town,902,100.6,38.8,780,05682,http://www.worcestervt.org/,NULL,Sandra,Ferver,P.O. Box 161,Worcester,VT,05682,20 Worcester Village Road,Worcester,VT,05682,802-223-6942 x1,802-229-5216,worcesterclerk@comcast.net,M 8:30-12; T-Th 8:30-12 and 1-4:30,"20 Worcester Village Road
+Worcester, VT 05682
+(44.372371815000065, -72.55042413899997)",905
+153,Peru,Bennington,Town,416,96.8,37.4,1660,05152,NULL,NULL,Margaret,Cobb,P.O. Box 127,Peru,VT,05152,402 Main Street,Peru,VT,05152,802-824-3065,802-824-5596,perutown@myfairpoint.net,T Th 8:30-4,"402 Main Street
+Peru, VT 05152
+(43.22917459000007, -72.90070628799998)",902
+53,Corinth,Orange,Town,1461,125.8,48.6,1000,05039,http://www.corinthvt.org/,NULL,Nancy,Ertle,P.O. Box 461,Corinth,VT,05039,1387 Cookeville Rd,Corinth,VT,05039,802-439-5850,802-439-5850,corino@tops-tele.com,"M 8-4; T 8-6, Th 9-3; 1st Sat. 10-12","1387 Cookeville Rd
+Corinth, VT 05039
+(44.023903277000045, -72.28985535199996)",3207
+50,Clarendon,Rutland,Town,2811,81.7,31.6,600,05759,http://www.clarendonvt.org,NULL,Joyce,Pedone,P.O. Box 30,Clarendon,VT,05759,279 Middle Rd,Clarendon,VT,05759,802-775-4274,802-775-4274,clarendonclerk@comcast.net,M-Th 10-4,"279 Middle Rd
+Clarendon, VT 05759
+(43.51756549900006, -72.97120656999994)",3216
+24,Bradford,Orange,Town,2619,77.4,29.9,425,05033,http://www.bradford-vt.us/,NULL,Marianne,McClure,P.O. Box 339,Bradford,VT,05033,172 North Main Street,Bradford,VT,05033,802 222-4727,802 222-3520,clerk@bradford-vt.us,M-Th 9-4:30; F 9-12,"172 North Main Street
+Bradford, VT 05033
+(43.99766705300004, -72.12644895799997)",3207
+147,Norwich,Washington,Town,3544,116.1,44.8,531,05055,http://www.norwich.vt.us/,NULL,Bonnie,Munday,P.O. Box 376,Norwich,VT,05055,300 Main Street,Norwich,VT,05055,802-649-1419  x103,802-649-0123,clerk@norwich.vt.us,M-F 8:30-4:30,"300 Main Street
+Norwich, VT 05055
+(43.71385773800006, -72.30828363799998)",3218
+105,Jamaica,Windham,Town,946,128.1,49.5,688,05343,http://www.jamaicavermont.org/,NULL,Pat,Meulemans,P.O. Box 173,Jamaica,VT,05343,28 Town Office Road,Jamaica,VT,05343,802-874-4681,802-874-4681,jamaicatownclerk@svcable.net,M-Th 9-4,"28 Town Office Road
+Jamaica, VT 05343
+(43.09982923600006, -72.77927339699994)",3217
+65,East Montpelier,Washington,Town,2578,83.2,32.1,727,05651,http://eastmontpeliervt.org,NULL,Teresa,Conti,P.O. Box 157,East Montpelier,VT,05651,40 Kelton Road,East Montpelier,VT,05651,802-223-3313,802-223-4467,eastmonttct@comcast.net,M-Th 9-5; F 9-12,"40 Kelton Road
+East Montpelier, VT 05651
+(44.27291606700004, -72.48571775299996)",905
+31,Bristol,Addison,Town,3788,109.2,42.2,570,05443,http://www.bristolvt.org/,NULL,Therese,Kirby,P.O. Box 249,Bristol,VT,05443,6 South Street,Bristol,VT,05443,802-453-2486,802-453-5188,bristoltown@gmavt.net,M-F 8-4:30,"6 South Street
+Bristol, VT 05443
+(44.13925734500003, -73.04528775899996)",3202
+141,Newfane,Windham,Town,1680,104.6,40.4,536,05345,http://www.newfanevt.com/,Newfane,Gloria,Cristelli,P.O. Box 36,Newfane,VT,05345,555 VT Route 30,Newfane,VT,05345,802-365-7772 x10,802-365-7692,tclerknewfane@svcable.net,M-Th 8-6; and by appt.,"555 VT Route 30
+Newfane, VT 05345
+(42.983678645000055, -72.65588557899997)",3217
+151,Pawlet,Rutland,Town,1394,111.1,42.9,690,05761,http://pawlet.vt.gov/,NULL,Debra,Hawkins,P.O. Box 128,Pawlet,VT,05761,122 School Street,Pawlet,VT,05761,802-325-3309,802-325-6109,pawletclerk@vermontel.net,M W 8:30-3:30; T 11-6; Th 9-12,"122 School Street
+Pawlet, VT 05761
+(43.34553661700005, -73.17893049299994)",3216
+179,Searsburg,Bennington,Town,96,55.9,21.6,1734,05363,NULL,NULL,Josephine,Kilbride,P.O. Box 157,Wilmington,VT,05363,18 Town Garage Road,Searsburg,VT,05363,802-464-8081,802-464-8081,josiekil@yahoo.com,M 8-4; T F 8-12,"18 Town Garage Road
+Searsburg, VT 05363
+(42.89570192800005, -72.97756809399993)",902
+241,Wheelock,Caledonia,Town,811,103.1,39.8,790,05851,NULL,NULL,Doug,Reid,P.O. Box 1328,Wheelock,VT,05851,1192 Route 122,Wheelock,VT,05851,802-626-9094,802-626-9094,wheelocktown@gmail.com,"M&Th 8:30a-4:00p, W 10:30a-6:00p","1192 Route 122
+Wheelock, VT 05851
+(44.587344968000025, -72.08282472099995)",3203
+23,Bolton,Chittenden,Town,971,110.8,42.8,342,05676,http://www.boltonvt.com/,NULL,Deborah,La Riviere,3045 Roosevelt Highway,Waterbury,VT,05676,3045 Roosevelt Highway,Bolton,VT,05676,802-434-5075 x222,802-434-6404,Deborah@townofboltonvt.com,M-Th 8-4,"3045 Roosevelt Highway
+Bolton, VT 05676
+(44.342138687000045, -72.76712919699997)",905
+22,Bloomfield,Essex,Town,261,104.7,40.4,261,05905,NULL,NULL,Paulette,Routhier,P.O. Box 336,North Stratford,NH,05905,27 Schoolhouse Rd,Bloomfield,VT,05905,802-962-5191,802-962-5191,townofbloomfieldvt@gmail.com,T Th 9-3; and by appt.,"27 Schoolhouse Rd
+Bloomfield, VT 05905
+(44.75444542000008, -71.62863210299997)",484
+155,Pittsford,Rutland,Town,3140,112.8,43.5,560,05763,http://www.town.pittsford.vt.us,NULL,Helen,McKinlay,P.O. Box 10,Pittsford,VT,05763,426 Plains Road,Pittsford,VT,05763,802-483-6500 x13,802-483-6612,mckinlay1@myfairpoint.net,M-W 8-4:30; Th 8-6; F 8-3; and by appt.,"426 Plains Road
+Pittsford, VT 05763
+(43.715677191000054, -73.02842750799994)",3216
+223,Warren,Washington,Town,1681,103.8,40.1,893,05674,http://www.warrenvt.org,NULL,Reta,Goss,P.O. Box 337,Warren,VT,05674,42 Cemetery Road,Warren,VT,05674,802-496-2709,802-496-2418,clerk@warrenvt.org,M-F 9-4:30,"42 Cemetery Road
+Warren, VT 05674
+(44.11320174200006, -72.85526490199999)",905
+98,Holland,Orleans,Town,588,99,38.2,1405,05830,NULL,NULL,Diane,Judd,120 School Road,Derby Line,VT,05830,120 School Road,Holland,VT,05830,802-895-4440,802-895-4440,holland1805@hotmail.com,M T Th 8-4:30,"120 School Road
+Holland, VT 05830
+(44.97441717000004, -72.01340319899998)",3215
+209,Townshend,Windham,Town,1149,110.8,42.8,547,05353,http://www.townshendvt.net/,Townshend,Anita,Bean,P.O. Box 223,Townshend,VT,05353,2006 VT Route 30,Townshend,VT,05353,802-365-7300,802-365-7309,tnclk@svcable.net,M T F 9-4; W 8-4,"2006 VT Route 30
+Townshend, VT 05353
+(43.045672559000025, -72.66711917499998)",3217
+57,Danby,Rutland,Town,1292,107.6,41.5,790,05739,NULL,NULL,Janice,Arnold,P.O. Bo 231,Danby,VT,05739,130 Brook Road,Danby,VT,05739,802-293-5136,802-293-5311,danbytownclerk@vermontel.net,M-Th 9-12 and 1-4,"130 Brook Road
+Danby, VT 05739
+(43.34642617800006, -72.99899707899993)",3216
+253,Woodford,Bennington,Town,414,123.3,47.6,2215,05201,http://woodfordvt.org/town-government,NULL,Ron,Higgins,1391 VT Route 9,Woodford,VT,05201,1391 VT Route 9,Woodford,VT,05201,802-442-4895,802-442-4816,info@woodfordvt.org,M W F 8:30-11 and 12:30-4; T Th 8:30-4; Sat 9-12 at tax and election time; and by appt.,"1391 VT Route 9
+Woodford, VT 05201
+(42.89648663200006, -73.13023275899997)",902
+113,Lemington,Essex,Town,107,91.3,35.3,1015,05903,NULL,NULL,Lucie,Daley,2549 River Road,Lemington,VT,05903,2549 River Road,Lemington,VT,05903,802-277-4814,802-277-4091,lemitown@myfairpoint.net,W 3:30-6:30,"2549 River Road
+Lemington, VT 05903
+(44.83999680000005, -71.55656389999996)",484
+203,Sunderland,Bennington,Town,850,118.2,45.6,659,05252,http://www.sunderlandvt.org/,NULL,Rose,Keough,P.O. Box 295,East Arlington,VT,05252,181 South Road,Sunderland,VT,05252,802-375-6106,802-375-6106,town@sunderlandvt.org,M T Th 8-2; W 8-12 and 6-8 p.m.; Fri by appt.,"181 South Road
+Sunderland, VT 05252
+(43.05538629400007, -73.13114306199998)",902
+52,Concord,Essex,Town,1196,138.5,53.5,860,05824,http://www.concordvt.us/,NULL,Donna,Berry,P.O. Box 317,Concord,VT,05824,374 Main Street,Concord,VT,05824,802-695-2220,802-695-2552,townclerk@conclerk.com,M Th F 9-3; T 12-6,"374 Main Street
+Concord, VT 05824
+(44.42872185300007, -71.88803263299997)",903
+32,Brookfield,Orange,Town,1222,107.9,41.7,1325,05036,http://www.brookfieldvt.org/,NULL,Jane,Woodruff,P.O. Box 463,Brookfield,VT,05036,40 Ralph Road,Brookfield,VT,05036,802-276-3352,802-376-3926,Btownhall@aol.com,T-Th 8:30-12 and 1-4:30,"40 Ralph Road
+Brookfield, VT 05036
+(44.043227124000055, -72.60283798099994)",3207
+120,Lyndon,Caledonia,Town,5448,103.1,39.8,720,05851,http://www.lyndonvt.org/,Lyndonville,Lisa,Barrett,P.O. Box 167,Lyndonville,VT,05851,119 Park Avenue,Lyndonville,VT,05851,802-626-5785,802-626-1265,ltc@kingcon.com,M-F 7:30-4:30,"119 Park Avenue
+Lyndonville, VT 05851
+(44.53578727000007, -72.00636966999997)",3203
+111,Landgrove,Bennington,Town,144,23.6,9.1,1360,05148,http://landgrove.vermont.gov,NULL,Chrystal,Cleary,88 Landgrove Road,Londonderry,VT,05148,88 Landgrove Road,Landgrove,VT,05148,802-824-3716,802-824-3716,townoflandgrove@gmail.com,Th 9-1; and by appt.,"88 Landgrove Road
+Landgrove, VT 05148
+(43.266207775000055, -72.85749226299998)",902
+92,Hancock,Addison,Town,382,99.6,38.5,912,05748,NULL,NULL,Sara,Deering,P.O. Box 100,Hancock,VT,05748,48 VT Route 125,Hancock,VT,05748,802-767-3660,802-368-7390,hancocktwnclerk@yahoo.com,"M 2-6, T-Th 10-4","48 VT Route 125
+Hancock, VT 05748
+(43.92630785500006, -72.84237210399994)",3218
+107,Jericho,Chittenden,Town,5015,91.8,35.4,560,05465,http://www.jerichovt.gov/,Jericho,Jessica,Alexander,P.O. Box 67,Jericho,VT,05465,67 Vermont Route 15,Jericho,VT,05465,802-899-4936 x1,802-899-5549,jerichovermont@yahoo.com,M-Th 8-4; F 8-3,"67 Vermont Route 15
+Jericho, VT 05465
+(44.50550574500005, -72.99610604899993)",3204
+247,Windham,Windham,Town,328,67.6,26.1,1967,05359,http://windhamvt.info/,NULL,Alison,Trowbridge,5976 Windham Hill Road,Windham,VT,05359,5976 Windham Hill Road,Windham,VT,05359,802-874-4211,802-874-4144,Windham.town@gmail.com,"Mon 12:00 to 6:00, Tue 845 to 45, & Thu 12:00 to 3:00","5976 Windham Hill Road
+Windham, VT 05359
+(43.16597884600003, -72.72584406499993)",3217
+204,Sutton,Caledonia,Town,1001,99.4,38.4,1152,05867,NULL,NULL,Dorreen,Devenger,P.O. Box 106,Sutton,VT,05867,167 Underpass Road,Sutton,VT,05867,802-467-3377,802-467-1052,duffyogden@yahoo.com,M T Th F 9-5; W 9-12:30,"167 Underpass Road
+Sutton, VT 05867
+(44.63476943000006, -72.02817660399995)",3203
+19,Berkshire,Franklin,Town,1388,109.3,42.2,750,05450,NULL,NULL,Virginia,Messier,4454 Watertower Road,Enosburg,VT,05450,4454 Watertower Road,Bershire,VT,05450,802-933-2335,802-933-5913,townclerk@berkshirevt.com,M T 8-5; W Th 9-4,"4454 Watertower Road
+Bershire, VT 05450
+(44.97198239900007, -72.77415232799996)",3205
+133,Moretown,Washington,Town,1653,104.2,40.2,500,05660,http://www.moretownvt.org/,NULL,Cherilyn,Lamson,P.O. Box 666,Moretown,VT,05660,994 Route 100B,Moretown,VT,05660,802-496-3645,802-329-2221,townclerk@moretownvt.net,M-Th 7-2:45,"994 Route 100B
+Moretown, VT 05660
+(44.24853608900003, -72.76249123599996)",905
+140,Newbury,Orange,Town,1955,166.9,64.4,418,05051,,"Newbury, Wells River",Susan,Underwood,P.O. Box 126,Newbury,VT,05051,4982 Main Street S,Newbury,VT,05051,802-866-5521,802-866-5301,clerk@newburyvt.org,M W Th F 8:30-2:30; T 8:30-6,"4982 Main Street S
+Newbury, VT 05051
+(44.07928432700004, -72.05770728199997)",3207
+67,Elmore,Lamoille,Town,849,102.6,39.6,1154,05657,http://www.elmorevt.org/,NULL,Sharon,Draper,P.O. Box 123,Lake Elmore,VT,05657,1175 VT Route 12,Elmore,VT,05657,802-888-2637,802-888-2637,mccorkill@aol.com,T-Th 9-3; and by appt.,"1175 VT Route 12
+Elmore, VT 05657
+(44.54084822800007, -72.52340418399996)",904
+254,Woodstock,Windsor,Town,3232,115.6,44.6,705,05091,http://www.townofwoodstock.org,Woodstock,Jerome,Morgan,31 The Green,Woodstock,VT,05091,31 The Green,Woodstock,VT,05091,802-457-3611,802-457-2329,jay@townofwoodstock.org,M-F 8-12 and 1-4:30,"31 The Green
+Woodstock, VT 05091
+(43.623448678000045, -72.52084402899999)",3218
+109,Killington,Rutland,Town,1095,121.4,46.9,1240,05751,http://www.killingtontown.com/,NULL,Lucrecia,Wonsor,P.O. Box 429,Killington,VT,05751,2706 River Road,Killington,VT,05751,802-422-3243,802-422-3030,lucrecia@town.killington.vt.us,M-F 9-3,"2706 River Road
+Killington, VT 05751
+(43.67529893100004, -72.77942632199995)",3216
+42,Canaan,Essex,Town,1078,86.4,33.4,1042,05903,http://www.canaanvt.org/,NULL,Linda,Hikel,P.O. Box 159,Canaan,VT,05903,318 Christian Hill,Canaan,VT,05903,802-266-3370,802-266-8253,nlabrecque@canaanschools.org,M-F 9-3,"318 Christian Hill
+Canaan, VT 05903
+(44.99928341200007, -71.53354926399999)",903
+29,Bridport,Addison,Town,1235,119.8,46.2,320,05734,NULL,NULL,Valerie,Bourgeois,P.O. Box 27,Bridport,VT,05734,82 Crown Point Road,Bridport,VT,05734,802-758-2483,NULL,bridporttown@gmavt.net,M T F 9-4; W 9-12 and 1-4; Th 9-12,"82 Crown Point Road
+Bridport, VT 05734
+(43.98447448500008, -73.31489095799998)",3202
+222,Warner's Grant,Essex,NULL,0,8.2,3.2,1285,05907,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"NULL
+NULL, NULL NULL",
+182,Sheffield,Caledonia,Town,727,84.9,32.8,907,05866,http://sheffieldvt.org,NULL,William,St. Peter,P.O. Box 165,Sheffield,VT,05866,37 Dane Road,Sheffield,VT,05866,802-626-8862,802-626-0424,townclerk@sheffieldvt.org,M-W-F 9-3pm & W 5-8 pm,"37 Dane Road
+Sheffield, VT 05866
+(44.600242458000025, -72.11664764899996)",3203
+249,Winhall,Bennington,Town,702,114,44,1293,05340,http://www.winhall.org/,NULL,Elizabeth,Jenks,P.O. Box 389,Bondville,VT,05340,3 River Road,Bondville,VT,05340,802-297-2122,802-297-2582,winclerk@comcast.net,M-Th 9-12; and by appt.,"3 River Road
+Bondville, VT 05340
+(43.16946949800007, -72.91855698399996)",902
+139,Newark,Caledonia,Town,470,96.3,37.2,1738,05871,NULL,NULL,Joan,Bicknell,1336 Newark Street,Newark,VT,05871,1336 Newark Street,Newark,VT,05871,802-467-3336,NULL,tclerknewark@kingcon.com,M W Th 9-4,"1336 Newark Street
+Newark, VT 05871
+(44.68792188600003, -71.95154179699995)",3203
+38,Burlington,Chittenden,City,38889,40.1,15.1,201,05401,http://www.ci.burlington.vt.us/,NULL,Jonathan,Leopold,149 Church Street,Burlington,VT,05401,149 Church Street,Burlington,VT,05401,802-865-7019,802-865-7014,sschrader@burlingtonvt.gov,M-F 8-4:30,"149 Church Street
+Burlington, VT 05401
+(44.47631570100003, -73.21253909699993)",3204
+193,St. George,Chittenden,Town,698,9.3,3.6,643,05495,http://www.stgeorgevt.com/,NULL,Barbara,Young,1 Barber Road,St George,VT,05495,1 Barber Road,St George,VT,05495,802-482-5272,802-482-5548,stgeorgevtclerk@comcast.net,M W F 8-12; T 9-12; Th 9-12 and 4:30-6:30,"1 Barber Road
+St George, VT 05495
+(44.37894212600003, -73.12669064499994)",3204
+118,Ludlow,Windsor,Town,2449,92.5,35.7,1067,05149,http://www.ludlow.vt.us/,Ludlow,Ulla,Cook,P.O. Box 307,Ludlow,VT,05149,37 Depot Street,Ludlow,VT,05149,802-228-3232,802-228-8399,treasure@ludlow.vt.us,M-F 8:30-4:30,"37 Depot Street
+Ludlow, VT 05149
+(43.395678160000045, -72.70106885399997)",3218
+66,Eden,Lamoille,Town,1152,166.5,64.3,1111,05653,http://www.edenvt.org/,NULL,Candace,Vear,71 Old Schoolhouse Road,Eden Mills,VT,05653,71 Old Schoolhouse Road,Eden Mills,VT,05653,802-635-2528,802-635-1724,cveareden@myfairpoint.net,M-Th 8-4,"71 Old Schoolhouse Road
+Eden Mills, VT 05653
+(44.71065525400007, -72.53798525599996)",904
+154,Pittsfield,Rutland,Town,427,51.9,20.1,892,05762,http://www.pittsfieldvt.org,NULL,Patricia,Haskins,P.O. Box 556,Pittsfield,VT,05762,56 Village Green,Pittsfield,VT,05762,802-746-8170,NULL,townofpittsfield@myfairpoint.net,T 12-6; W Th 9-3,"56 Village Green
+Pittsfield, VT 05762
+(43.770874898000045, -72.81253799999996)",3216
+191,St. Albans,Franklin,City,7650,5.3,2,388,05478,http://www.stalbansvt.com/,NULL,Susan,Krupp,P.O. Box 867,St Albans,VT,05478,100 North Main Street,St Albans,VT,05478,802-524-1500 x264,802-524-1516,s.krupp@stalbansvt.com,M-F 7:30-4,"100 North Main Street
+St Albans, VT 05478
+(44.81326594900003, -73.08302838199995)",3205
+74,Fayston,Washington,Town,1141,94.5,36.5,1209,05660,http://www.faystonvt.com/,NULL,Virginia,Vasseur,866 North Fayston Rd,North Fayston,VT,05660,866 North Fayston Rd,Fayston,VT,05660,802-496-2454,802-496-9850,faystontc@madriver.com,M-Th 9-3:30; F 9-3,"866 North Fayston Rd
+Fayston, VT 05660
+(44.23176577900006, -72.80006023199996)",905
+207,Tinmouth,Rutland,Town,567,73.6,28.4,1263,05773,http://www.tinmouthvt.org/,NULL,Gail,Fallar,515 North End Road,Tinmouth,VT,05773,9 Mountain View Road,Tinmouth,VT,05773,802-446-2498,802-446-2498,tinmouthtown@vermontel.net,M Th 8-12 and 1-5; most Sat. 9-12,"9 Mountain View Road
+Tinmouth, VT 05773
+(43.448203774000035, -73.05046374599993)",3216
+186,Shrewsbury,Rutland,Town,1108,130,50.2,1640,05738,http://www.shrewsburyvt.org,NULL,Mark,Goodwin,9823 Cold River Road,Shrewsbury,VT,05738,9823 Cold River Road,Shrewsbury,VT,05738,802-492-3511,802-492-3511,shrewsburyclerk@vermontel.net,M-Th 8:30-3; and by appt.,"9823 Cold River Road
+Shrewsbury, VT 05738
+(43.52928638900005, -72.82839253799995)",3216
+125,Mendon,Rutland,Town,1028,98.7,38.1,1020,05701,http://www.mendonvt.org,NULL,Jeff,Bradley,34 US Route 4,Mendon,VT,05701,34 US Route 4,Mendon,VT,05701,802-775-1662,802-773-9682,mendonclerk@comcast.net,M-Th 8-5,"34 US Route 4
+Mendon, VT 05701
+(43.605843710000045, -72.97170868299997)",3216
+11,Barnard,Windsor,Town,958,126.6,48.9,1334,05031,NULL,NULL,Diane,Rainey,P.O. Box 274,Barnard,VT,05031,115 North Road,Barnard,VT,05031,802-234-9211,NULL,barnardto@gmail.com,M-W 8-3:30,"115 North Road
+Barnard, VT 05031
+(43.729839886000036, -72.61797550799997)",3218
+117,Lowell,Orleans,Town,738,145.2,56.1,996,05847,NULL,NULL,Nanette,Bonneau,2170 VT Route 100,Lowell,VT,05847,2170 VT Route 100,Lowell,VT,05847,802-744-6559,802-744-2357,kclinger@lowelltown.org,M Th 9-2:30,"2170 VT Route 100
+Lowell, VT 05847
+(44.80598122400005, -72.44741590599995)",3215
+165,Readsboro,Bennington,Town,809,94.5,36.5,1205,05350,https://readsborovt.org/,NULL,Annette,Caruso,P.O. Box 102,Readsboro,VT,05350,301 Phelps Lane,Readsboro,VT,05350,802-423-5405,802-423-5423,clerk@readsborovt.org,M-F 9-3,"301 Phelps Lane
+Readsboro, VT 05350
+(42.77140644100007, -72.94067318199995)",902
+213,Vergennes,Addison,City,2741,6.5,2.5,203,05491,http://www.vergennes.org/,NULL,Joan,Devine,P.O. Box 35,Vergennes,VT,05491,120 Main Street,Vergennes,VT,05491,802-877-2841,802-877-1160,clerk@vergennes.org,M-F 8-4:30,"120 Main Street
+Vergennes, VT 05491
+(44.16838567000008, -73.25088357899995)",3202
+4,Andover,Windsor,Town,496,74.5,28.8,1000,05143,,NULL,Linda,Bargfrede,953 Weston-Andover Road,Andover,VT,05143,953 Weston-Andover Road,Andover,VT,05143,802-875-2765,802-875-6646,clerk@vermontel.net,M T Th F 9-1; W 11-3,"953 Weston-Andover Road
+Andover, VT 05143
+(43.27790228300006, -72.69929203499998)",3218
+135,Morristown,Lamoille,Town,5139,133.7,51.6,675,05661,http://www.morristownvt.org/,Morrisville,Mary Ann,Wilson,P.O. Box 748,Morrisville,VT,05661,43 Portland Street,Morrisville,VT,05661,802-888-6370,802-888-6375,mawilson@morristownvt.org,M T Th F 8:30-4:30; W 8:30-12:30,"43 Portland Street
+Morrisville, VT 05661
+(44.56234967000006, -72.59852959999995)",904
+188,South Burlington,Chittenden,City,15814,76.7,29.6,310,05403,http://www.sburl.com/,NULL,Donna,Kinville,575 Dorset Street,South Burlington,VT,05403,575 Dorset Street,South Burlington,VT,05403,802-846-4105,NULL,dkinville@sburl.com,M-F 8-4:30,"575 Dorset Street
+South Burlington, VT 05403
+(44.45410316400006, -73.17893855899996)",3204
+134,Morgan,Orleans,Town,669,87.7,33.9,1384,05853,http://www.town.morgan-vt.org/,NULL,Tammy Lee,Morin,P.O. Box 45,Morgan,VT,05853,41 Meade Hill Road,Morgan,VT,05853,802-895-2927,802-895-4204,tmorganvt@comcast.net,M Th 8-4; T W 8-3,"41 Meade Hill Road
+Morgan, VT 05853
+(44.91397307500006, -72.01453473899994)",3215
+170,Rockingham,Windham,Town,5309,109.6,42.3,320,05101,http://www.rockbf.org/,"Bellows Falls, Saxtons River",Doreen,Aldrich,P.O. Box 339,Bellows Falls,VT,05101,7 The Square,Bellows Falls,VT,05101,802-463-4336,802-463-1228,daldrich@rockbf.org,M-F 8:30-4:30,"7 The Square
+Bellows Falls, VT 05101
+(43.134082524000064, -72.44428882299997)",3217
+196,Stannard,Caledonia,Town,185,32.5,12.5,1700,05842,NULL,NULL,Connie,Withers,P.O. Box 94,Greensboro Bend,VT,05842,615 Stannard Mountain Road,Stannard,VT,05842,802-533-2577,NULL,townofstanndard@myfairpoint.net,W 8-12,"615 Stannard Mountain Road
+Stannard, VT 05842
+(44.542526966000025, -72.21302449999996)",3203
+218,Walden,Caledonia,Town,782,101.1,39,1830,05873,NULL,NULL,Lina,Smith,12 VT Route 215,West Danville,VT,05873,12 VT Route 215,Walden,VT,05873,802-563-2220,802-563-3008,waldentc@pivot.net,M-W 9-4; Th 9-5,"12 VT Route 215
+Walden, VT 05873
+(44.452079758000025, -72.25680544799997)",3203
+104,Isle La Motte,Grand Isle,Town,488,43.1,16.7,210,05463,http://www.islelamotte.us/,NULL,Betsy,Howland,P.O. Box 250,Isle La Motte,VT,05463,2272 Main Street,Isle La Motte,VT,05463,802-928-3434,802-928-3002,islemott@fairpoint.net,T Th 7:30-3:30; W F 1-5; Sat 8-12,"2272 Main Street
+Isle La Motte, VT 05463
+(44.877888218000066, -73.33840860099997)",3206
+28,Bridgewater,Windsor,Town,980,128.3,49.6,820,05034,NULL,NULL,Nancy,Robinson,7335 US Route 4,Bridgewater,VT,05034,7335 US Route 4,Bridgewater,VT,05034,802-672-3334,802-672-5395,twnbridg@comcast.net,M-Th 8-4,"7335 US Route 4
+Bridgewater, VT 05034
+(43.58764183400007, -72.62410647999997)",3218
+49,Chittenden,Rutland,Town,1182,192.2,74.2,1100,05737,http://www.chittendenvt.org/,NULL,Roberta,Janoski,P.O. Box 89,Chittenden,VT,05737,337 Holden Rd,Chittenden,VT,05737,802-483-6647,802-483-2504,chittendenvt@comcast.net,M T Th F 1:30-5; W 1:30-7,"337 Holden Rd
+Chittenden, VT 05737
+(43.70721713800003, -72.95096421099998)",3216
+145,Northfield,Washington,Town,5791,113.3,43.7,735,05663,http://www.northfield-vt.gov/,Northfield,Kim,Pombar,51 South Main Street,Northfield,VT,05663,51 South Main Street,Northfield,VT,05663,802-485-5421,802-485-8426,kpedley@northfield.vt.us,M-F 8-4:30,"51 South Main Street
+Northfield, VT 05663
+(44.14802715500008, -72.65627274599996)",905
+94,Hartford,Windsor,Town,10367,118.9,45.9,371,05001,http://www.hartford-vt.org/,NULL,Mary,Hill,171 Bridge Street,White River Junction,VT,05001,171 Bridge Street,White River Junction,VT,05001,802-295-2785,802-295-6382,mhill@hartford-vt.org,M-F 8-5,"171 Bridge Street
+White River Junction, VT 05001
+(43.651401759000066, -72.31768164799996)",3218
+35,Brunswick,Essex,Town,107,67.3,26,1000,05905,NULL,NULL,Sharon,Graham,944 VT Route 102,Brunswick,VT,05905,944 VT Route 102,Brunswick,VT,05905,802-962-5514,802-962-5522,bruns321@sover.net,Th 4-6; or by appt.,"944 VT Route 102
+Brunswick, VT 05905
+(44.73669258800004, -71.63283055099998)",903
+34,Brownington,Orleans,Town,885,73.6,28.4,1025,05860,NULL,NULL,Cheryl,Perry,P.O. Box 66,Orleans,VT,05860,622 Schoolhouse Road,Brownington,VT,05860,802-754-8401,802-754-8401,browningtontc@comcast.net,M W Th 9-4; and by appt.,"622 Schoolhouse Road
+Brownington, VT 05860
+(44.819556256000055, -72.13470160099996)",3215
+156,Plainfield,Washington,Town,1286,54.5,21.1,780,05667,http://www.plainfieldvt.us/,NULL,Linda,Wells,P.O. Box 217,Plainfield,VT,05667,149 Main Street,Plainfield,VT,05667,802-454-8461,802-454-8467,plainfieldtc@gmail.com,M W F 7:30-12 and 12:30-4,"149 Main Street
+Plainfield, VT 05667
+(44.27788602600003, -72.42845671899994)",905
+106,Jay,Orleans,Town,426,88,34,922,05859,http://www.jayvt.com/,NULL,Tara,Morse,1036 VT Route 242,Jay,VT,05859,1036 VT Route 242,Jay,VT,05859,802-988-2996,802-988-2996,townofjay@comcast.net,M-Th 7-4,"1036 VT Route 242
+Jay, VT 05859
+(44.94797691200006, -72.43838662499996)",3215
+176,Ryegate,Caledonia,Town,1150,95.3,36.8,1060,05042,http://www.ryegatevt.org/,South Ryegate,Marsha,Nelson,P.O. Box 332,Ryegate,VT,05042,18 South Bayley-Hazen Road,Ryegate,VT,05402,802-584-3880,802-584-3880,ryegateclerk@yahoo.com,M-W 1-5; F 9-1,"18 South Bayley-Hazen Road
+Ryegate, VT 05402
+(44.208274852000045, -72.10356325499998)",3203
+200,Strafford,Orange,Town,1045,114.8,44.3,930,05072,http://www.townofstraffordvt.com/,NULL,Lisa,Kendall,P.O. Box 27,Strafford,VT,05072,227 Justin Morrill Highway,Strafford,VT,05072,802-765-4411,802-765-9621,townclerk@straffordvt.org,M-Th 7:30-4:30,"227 Justin Morrill Highway
+Strafford, VT 05072
+(43.877935680000064, -72.38246585999997)",3207
+144,North Hero,Grand Isle,Town,810,120.6,46.6,116,05474,http://www.northherovt.com,NULL,Pete,Johnson,P.O. Box 38,North Hero,VT,05474,6441 US Route 2,North Hero,VT,05474,802-372-6926,802-372-3806,townclerk@northherovt.com,"M T Th 8-4:30, W F 8-12; Sat 8-12","6441 US Route 2
+North Hero, VT 05474
+(44.85010324700005, -73.26274977699995)",3206
+83,Grafton,Windham,Town,649,99.5,38.4,860,05146,http://www.graftonvermont.org,NULL,Kimberly,Record,P.O. Box 180,Grafton,VT,05146,117 Main Street,Grafton,VT,05146,802-843-2419,802-843-6100,gtclerk@vermontel.net,M T Th F 9-12 and 1-4,"117 Main Street
+Grafton, VT 05146
+(43.17253533000007, -72.60849798999999)",3217
+208,Topsham,Orange,Town,1142,126.9,49,1284,05076,http://www.topshamvt.org/,NULL,Cynthia,Flannigan,P.O. Box 69,Topsham,VT,05076,6 Harts Road,Topsham,VT,05076,802-439-5505,802-439-5505,topsham@tops-tele.com,M 1-6; T Th F 9-4,"6 Harts Road
+Topsham, VT 05076
+(44.12131150100004, -72.23183089199995)",3207
+198,Stockbridge,Windsor,Town,674,119.6,46.2,734,05772,NULL,NULL,Catherine,Brown,P.O. Box 39,Stockbridge,VT,05772,1722 VT Route 100,Stockbridge,VT,05772,802-746-8400,802-746-8400,townofstockbridge@myfairpoint.net,T-Th 8-4:30; F 8-12,"1722 VT Route 100
+Stockbridge, VT 05772
+(43.77565345900007, -72.76530165099996)",3218
+246,Wilmington,Windham,Town,2225,106.9,41.3,1580,05363,http://www.wilmingtonvermont.us/,NULL,Susan,Haughwout,P.O. Box 217,Wilmington,VT,05363,2 East Main Street,Wimington,VT,05363,802-464-5836,802-464-1238,wilmclrk@sover.net,M-W 8:30-12 and 1-4; Th F 8:30-4,"2 East Main Street
+Wimington, VT 05363
+(42.868162393000034, -72.87069049899998)",3217
+41,Cambridge,Lamoille,Town,3186,164.9,63.7,454,05464,http://www.townofcambridgevt.org/,"Cambridge, Jeffersonville",Jane,Porter,P.O. Box 127,Jeffersonville,VT,05464,"85 Church St, Suite 201",Jeffersonville,VT,05464,802-644-2251,802-644-8248,jane.cto@myfairpoint.net,M-F 8-4,"85 Church St, Suite 201
+Jeffersonville, VT 05464
+(44.64385171500004, -72.83130204899999)",904
+163,Randolph,Orange,Town,4853,124.1,47.9,694,05060,http://randolphvt.govoffice2.com/,NULL,Joyce,Mazzucco,Drawer B,Randolph,VT,05060,7 Summer Street,Randolph,VT,05060,802-728-5433 x11,802-728-5818,clerk@randolphvt.org,M-F 8-4:30,"7 Summer Street
+Randolph, VT 05060
+(43.92366060100005, -72.66682534299997)",3207
+82,Goshen,Addison,Town,227,55.4,21.4,1136,05733,http://goshenvt.org/,NULL,Rosemary,McKinnon,50 Carlisle Hill Rd,Goshen,VT,05733,50 Carlisle Hill Rd,Goshen,VT,05733,802-247-6455,802-247-6740,townclerk@goshenvt.org,T 9-1,"50 Carlisle Hill Rd
+Goshen, VT 05733
+(43.84964723600007, -73.02245984099994)",3202
+61,Dover,Windham,Town,1410,91.4,35.3,1860,05356,http://www.doververmont.com/,NULL,Andy,McLean,P.O. Box 527,West Dover,VT,05356,102 Route 100,West Dover,VT,05356,802-464-5100,802-464-8721,dvrclerk@sover.net,M-F 9-5,"102 Route 100
+West Dover, VT 05356
+(42.93726242900004, -72.84979156299994)",3217
+219,Wallingford,Rutland,Town,2274,112.5,43.4,620,05773,http://www.wallingfordvt.com/,NULL,Joyce,Barbieri,75 School Street,Wallingford,VT,05773,73 School Street,Wallingford,VT,05773,802-446-2336,802-446-3174,townclerk@wallingfordvt.com,M-Th 8-4:30; F 8-12,"73 School Street
+Wallingford, VT 05773
+(43.47149454700008, -72.97585288399995)",3216
+239,Weston,Windsor,Town,630,91.1,35.2,1300,05161,http://westonvt.org/,NULL,Jean,DeCell,P.O. Box 98,Weston,VT,05161,12 Lawrence Hill Road,Weston,VT,05161,802-824-6645,802-824-4121,clerk@westonvt.org,M-F 8-1  ,"12 Lawrence Hill Road
+Weston, VT 05161
+(43.291442747000076, -72.79400844799994)",3218
+190,Springfield,Windsor,Town,9078,128.1,49.5,410,05156,http://www.springfieldvt.govoffice2.com/,NULL,Meredith,Kelley,96 Main Street,Springfield,VT,05156,96 Main Street,Springfield,VT,05156,802-885-2104,802-885-1617,tosclerk@vermontel.net,M-F 8-4:30,"96 Main Street
+Springfield, VT 05156
+(43.29674670000003, -72.48156147299994)",3218
+178,Sandgate,Bennington,Town,353,109.3,42.2,766,05250,http://www.sandgatevermont.org/,NULL,Marjorie,Peff,3266 Sandgate Road,Sandgate,VT,05250,3266 Sandgate Road,Sandgate,VT,05250,802-375-9075,802-375-8350,sandgateclerk@live.com,M&W 9:30-12:30; and by appt.,"3266 Sandgate Road
+Sandgate, VT 05250
+(43.14817839700004, -73.19843747199997)",902
+17,Bennington,Bennington,Town,15737,110.1,42.5,750,05201,http://www.bennington.com/,"North Bennington, Old Bennington",Timothy,Corcoran,205 South Street,Bennington,VT,05201,205 South Street,Bennington,VT,05201,802 442-1043,802 442-1068,tcorcoran@benningtonvt.org,M-F 8-5,"205 South Street
+Bennington, VT 05201
+(42.88214731900007, -73.19132773899997)",902
+142,Newport,Orleans,City,5005,19.7,7.6,722,05855,http://www.newportvermont.org/,NULL,James,Johnson,222 Main Street,Newport,VT,05855,222 Main Street,Newport,VT,05855,802-334-2112,802-334-5632,newportcityclerkjim@comcast.net,M-F 8-4:30,"222 Main Street
+Newport, VT 05855
+(44.93533638000008, -72.21073952499995)",3215
+18,Benson,Rutland,Town,1039,117.8,45.5,420,05731,http://www.benson-vt.com,NULL,Daphne,Bartholomew,P.O. Box 163,Benson,VT,05731,2760 Stage Road,Benson,VT,05731,802-537-2611,802-537-2612,townclerk@benson-vt.com,M-Th 8-12 and 1-4:30,"2760 Stage Road
+Benson, VT 05731
+(43.70902208900003, -73.31027414799996)",3216
+110,Kirby,Caledonia,Town,456,63.3,24.4,1260,05851,http://kirbyvermont.org/,NULL,Wanda,Grant,346 Town Hall Road,Lyndonville,VT,05851,346 Town Hall Road,Kirby,VT,05851,802-626-9386,802-626-9386,kirbytc@kingcon.com,T Th 8-3,"346 Town Hall Road
+Kirby, VT 05851
+(44.522406974000035, -71.93845187599999)",3203
+214,Vernon,Windham,Town,2141,51.8,20,280,05354,http://www.vernon-vt.org/,NULL,Sandra,Harris,567 Governor Hunt Road,Vernon,VT,05354,567 Governor Hunt Road,Vernon,VT,05354,802-257-0292,802-254-3561,s.harris@vernon-vt.org,M-Th 7-5,"567 Governor Hunt Road
+Vernon, VT 05354
+(42.78016493500007, -72.52158828599994)",3217
+64,East Haven,Essex,Town,301,96.9,37.4,1020,05837,NULL,NULL,Franklin,Higgins,P.O. Box 10,East Haven,VT,05837,64 Community Building Road,East Haven,VT,05837,802-467-3772,NULL,tclerk1790@kingcon.com,T 1-6; Th 8-1; and by appt.,"64 Community Building Road
+East Haven, VT 05837
+(44.64002498800005, -71.89147334599994)",903
+43,Castleton,Rutland,Town,4367,109.7,42.4,439,05735,http://www.bsi-vt.com/castleton/,NULL,Katy,Thornblade,P.O. Box 727,Castleton,VT,05735,556 Main Street,Castleton,VT,05735,802-468-2212 x214,802-468-5482,casclerk@shoreham.net,M T Th 8:30-12:30 and 1:30-5; W 8:30-12:30 and 1:30-6,"556 Main Street
+Castleton, VT 05735
+(43.61202598500006, -73.17677687799994)",3216
+76,Ferrisburgh,Addison,Town,2657,158.4,61.2,218,05456,http://www.ferrisburghvt.org/,NULL,Chet,Hawkins,P.O. Box 6,Ferrisburgh,VT,05456,3279 Route 7,Ferrisburgh,VT,05456,802-877-3429,802-877-6757,ferrisburghclerk@comcast.net,M-F 8-4,"3279 Route 7
+Ferrisburgh, VT 05456
+(44.207722267000065, -73.24547476799995)",3202
+202,Sudbury,Rutland,Town,583,57.5,22.2,572,05733,NULL,NULL,Steve,Sgorbati,36 Blacksmith Lane,Sudbury,VT,05733,36 Blacksmith Lane,Sudbury,VT,05733,802-623-7296,802-623-7296,NULL,M 9-4; W 7-9 p.m.; F 9-3; and by appt.,"36 Blacksmith Lane
+Sudbury, VT 05733
+(43.79969351500006, -73.20490292499994)",3216
+167,Richmond,Chittenden,Town,4090,83.7,32.3,319,05477,http://www.richmondvt.com/home.php,NULL,Linda,Parent,P.O. Box 285,Richmond,VT,05477,203 Bridge Street,Richmond,VT,05477,802-434-2221,802-434-5570,townclerk@richmondvt.com,M 8-5; T-Th 8-4; F 8-12,"203 Bridge Street
+Richmond, VT 05477
+(44.40289691300006, -72.99539850299993)",3204
+97,Hinesburg,Chittenden,Town,4340,103.9,40.1,241,05461,http://www.hinesburg.org/,NULL,Melissa,Ross,P.O. Box 133,Hinesburg,VT,05461,10632 Route 116,Hinesburg,VT,05461,802-482-2281,802-482-5404,hinesburgclerk@gmavt.net,M T Th F 8-4; W 10-6,"10632 Route 116
+Hinesburg, VT 05461
+(44.32935252600004, -73.11036742099998)",3204
+15,Barton,Orleans,Town,2780,116.3,44.9,931,05822,http://sites.google.com/site/townofbarton/,"Barton, Orleans",Grace,Mason,34 Main St,Barton,VT,05822,34 Main St,Barton,VT,05822,802-525-6222,802-525-8856,bartontown@comcast.net,M-Th 7:30-4; F 7:30-12,"34 Main St
+Barton, VT 05822
+(44.746124793000035, -72.17473647999998)",3215
+201,Stratton,Windham,Town,136,121.5,46.9,1880,05360,http://townofstrattonvt.com/,NULL,Kent,Young,9 West Jamaica Road,Stratton,VT,05360,9 West Jamaica Road,Stratton,VT,05360,802-896-6184,802-896-6330,townclerk@townofstrattonvt.com,M-Th 9-3,"9 West Jamaica Road
+Stratton, VT 05360
+(43.042935889000034, -72.90888864099998)",3217
+126,Middlebury,Addison,Town,8183,101.4,39.2,370,05753,http://www.middlebury.govoffice.com/,NULL,Ann,Webster,94 Main Street,Middlebury,VT,05753,94 Main Street,Middlebury,VT,05753,802-388-8100 x211,802-388-4261,awebster@townofmiddlebury.org,M-Th 7:30-5:30,"94 Main Street
+Middlebury, VT 05753
+(44.01111303000005, -73.17051076999996)",3202
+146,Norton,Essex,Town,214,102,39.4,1252,05907,NULL,NULL,Gina,Vigneault,12 VT Route 114 E,Norton,VT,05907,12 VT Route 114 E,Norton,VT,05907,802-822-9935,802-822-9965,townofnorton@myfairpoint.net,M 2-4; T 10-4; Last Sat. 10-12,"12 VT Route 114 E
+Norton, VT 05907
+(45.00920340600004, -71.79522900799998)",903
+224,Warren's Gore,Essex,NULL,10,30,11.6,1789,05907,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"NULL
+NULL, NULL NULL",
+211,Tunbridge,Orange,Town,1309,115.9,44.8,600,05077,http://www.tunbridgevt.com/,NULL,Wendy,McCullough,P.O. Box 6,Tunbridge,VT,05077,271 VT Route 110,Tunbridge,VT,05077,802-889-5521,802-889-3744,townclerk@tunbridge.biz,M 8:30-12 and 1-4; T W 8-12 and 1-4; Th 8-11 and 1-4; Fri 9-12 (Nov-April); and by appt.,"271 VT Route 110
+Tunbridge, VT 05077
+(43.887470886000074, -72.49410521299995)",3207
+112,Leicester,Addison,Town,974,57,22,440,05733,http://www.leicestervt.org,NULL,Julie,Delphia,44 Schoolhouse Road,Leicester,VT,05733,44 Schoolhouse Road,Leicester,VT,05733,802-247-5961 x3,802-247-6501,leicestervt@comcast.net,M W Th 9-2; and by appt.,"44 Schoolhouse Road
+Leicester, VT 05733
+(43.86630347000005, -73.10876805299995)",3202
+172,Royalton,Windsor,Town,2603,106,40.9,513,05068,http://www.royaltonvt.com,NULL,Leanna,Stickney,P.O. Box 680,South Royalton,VT,05068,23 Alexander Place #1,South Royalton,VT,05068,802-763-7207,802-763-7207,royalclerk@bluemoo.net,M-Th 8-3,"23 Alexander Place #1
+South Royalton, VT 05068
+(43.81810467300005, -72.51966397599995)",3218
+73,Fairlee,Orange,Town,967,55,21.2,430,05045,http://www.fairleevt.org/,NULL,Georgette,Wolf-Ludwig,P.O. Box 95,Fairlee,VT,05045,75 Town Common,Fairlee,VT,05045,802-333-4363,802-333-9214,townclerk@fairleevt.org,M-Th 8:30-3:30; and by appt.,"75 Town Common
+Fairlee, VT 05045
+(43.908164716000044, -72.14220410799999)",3207
+87,Greensboro,Orleans,Town,770,102,39.4,1463,05841,http://www.greensborovt.org/,NULL,Bridget,Collier,P.O. Box 119,Greensboro,VT,05841,81 Lauredon Ave,Greensboro,VT,05841,802-533-2911,802-533-2191,brideyvt@yahoo.com,T-F 9-12 and 1-4:30,"81 Lauredon Ave
+Greensboro, VT 05841
+(44.57923636000004, -72.29503124499996)",3215
+91,Halifax,Windham,Town,782,103.1,39.8,1590,05358,http://www.halifaxvermont.com,NULL,Patricia,Dow,P.O. Box 127,West Halifax,VT,05358,246 Branch Road,West Halifax,VT,05358,802-368-7390,802-368-7390,townclerk@halifaxvermont.com,M T F 9-4; Sat 9-12,"246 Branch Road
+West Halifax, VT 05358
+(42.78329222800005, -72.76840359399995)",3217
+177,Salisbury,Addison,Town,1090,78.1,30.1,340,05769,http://townofsalisbury.org/,NULL,Ann,Dittami,P.O. Box 66,Salisbury,VT,05769,25 Schoolhouse Road,Salisbury,VT,05769,802-352-4228,802-352-9832,town.clerk@comcast.net,M 11-5; T 10-2; Th 12-7,"25 Schoolhouse Road
+Salisbury, VT 05769
+(43.89793360500005, -73.10342722699994)",3202
+21,Bethel,Windsor,Town,1968,117.7,45.5,573,05032,http://www.bethelvt.govoffice3.com/,NULL,Jean,Burnham,P.O. Box 404,Bethel,VT,05032,134 South Main Street,Bethel,VT,05032,802-234-9722,802-234-6840,betheltownclerk@comcast.net,M Th 8-12:30 and 1-4; T F 8-12,"134 South Main Street
+Bethel, VT 05032
+(43.82694958900004, -72.62954672199999)",3218
+132,Montpelier,Washington,City,8035,26.6,10.3,523,05602,http://www.montpelier-vt.org/,NULL,Charlotte,Hoyt,39 Main Street,Montpelier,VT,05602,39 Main Street,Montpelier,VT,05602,802-223-9500,802-223-9523,jodum@montpelier-vt.org,M-F 8-4:30,"39 Main Street
+Montpelier, VT 05602
+(44.259478157000046, -72.57581697299997)",905
+100,Huntington,Chittenden,Town,1861,98.8,38.1,623,05462,http://huntingtonvt.org/,NULL,Heidi,Racht,4930 Main Road,Huntington,VT,05462,4930 Main Road,Huntington,VT,05462,802-434-2032,NULL,huntingtonclerk@gmavt.net,M 7-7; T-Th 8-3,"4930 Main Road
+Huntington, VT 05462
+(44.29537749700006, -72.96616396099995)",3204
+221,Wardsboro,Windham,Town,854,75.8,29.3,1090,05355,NULL,NULL,Jacqueline,Bedard,P.O. Box 48,Wardsboro,VT,05355,71 Main Street,Wardsboro,VT,05355,802-896-6055,802-896-1000,wardsborotownoffice@myfairpoint.net,M-Th 9-12 and 1-4:30,"71 Main Street
+Wardsboro, VT 05355
+(43.041754801000025, -72.78991784799996)",3217
+192,St. Albans,Franklin,Town,5086,156.8,60.6,180,05481,http://www.stalbanstown.com,NULL,Anna,Bourdon,P.O. Box 37,St Albans Bay,VT,05481,579 Lake Road,St Albans Bay,VT,05478,802-524-2415,802-524-9609,stalbtwn@comcast.net,M-F 8-4,"579 Lake Road
+St Albans Bay, VT 05478
+(44.80856461700006, -73.13875517199995)",3205
+235,Westfield,Orleans,Town,503,104.1,40.2,825,05874,NULL,NULL,Connie,LaPlume,38 School Street,Westfield,VT,05874,38 School Street,Westfield,VT,05874,802-744-2484,802-744-6224,townofwestfield@comcast.net,M-Th 8-4,"38 School Street
+Westfield, VT 05874
+(44.89021648100004, -72.42949100999994)",3215
+157,Plymouth,Windsor,Town,555,126.1,48.7,1217,05056,http://www.plymouthvt.org,NULL,Rachel,Lynds,68 Town Office Road,Plymouth,VT,05056,68 Town Office Road,Plymouth,VT,05056,802-672-3655,802-672-5466,clerk@plymouthvt.org,M-Th 8-4:30,"68 Town Office Road
+Plymouth, VT 05056
+(43.53430803300006, -72.74255445599994)",3218
+81,Glover,Orange,Town,966,100,38.6,945,05839,http://townofglover.com/,NULL,Donna,Sweeney,51 Bean Hill,Glover,VT,05839,51 Bean Hill,Glover,VT,05839,802-525-6227,802-525-4115,glovertc@comcast.net,M-Th 8-4,"51 Bean Hill
+Glover, VT 05839
+(44.70721223600003, -72.18799809199999)",3215
+46,Charlotte,Chittenden,Town,3569,130.6,50.4,110,05445,http://www.charlottevt.org/,NULL,Mary,Mead,P.O. Box 119,Charlotte,VT,05445,159 Ferry Road,Charlotte,VT,05445,802-425-3071,802-425-4241,mary@townofcharlotte.com,M-F 8-4,"159 Ferry Road
+Charlotte, VT 05445
+(44.31100243800006, -73.24973705799994)",3204
+161,Proctor,Rutland,Town,1877,19.7,7.6,500,05765,http://proctorvermont.com/,NULL,Mary,Dahlin,45 Main Street,Proctor,VT,05765,45 Main Street,Proctor,VT,05765,802-459-3333,802-459-2356,info@proctorvermont.com,M-F 8-4,"45 Main Street
+Proctor, VT 05765
+(43.662240223000026, -73.03579005099994)",3216
+13,Barre,Washington,City,9291,10.4,4,609,05641,http://www.barrecity.org/,NULL,Carolyn,Dawes,P.O. Box 418,Barre,VT,05641,"6 North Main Street, Suite 6",Barre,VT,05641,802-476-0242,802-476-0264,cdawes@barrecity.org,M-F 7:30-4:30,"6 North Main Street, Suite 6
+Barre, VT 05641
+(44.196939214000054, -72.50152590699997)",905
+3,Alburgh,Grand Isle,Town,1952,126.4,48.8,124,05440,http://www.alburghvt.org/,Alburgh,Carol,Cleland,1 North Main Street,Alburgh,VT,05440,1 North Main Street,Alburgh,VT,05440,802-796-3468,802-796-3939,townofalburgh@fairpoint.net,M-F 9-12 and 1-5,"1 North Main Street
+Alburgh, VT 05440
+(44.97688881500005, -73.29997769799996)",3206
+89,Guildhall,Essex,Town,268,84.7,32.7,874,05905,http://www.guildhallvt.org/,NULL,Sam,Swope,P.O. Box 10,Guildhall,VT,05905,13 Courthouse Drive,Guildhall,VT,05905,802-676-3797,802-676-3518,townclerk@guildhallvt.org,T 9-6; Th 9-12,"13 Courthouse Drive
+Guildhall, VT 05905
+(44.56496765500003, -71.56181704199997)",903
+121,Maidstone,Essex,Town,105,82.3,31.8,893,05905,http://www.maidstone-vt.org/,NULL,Susan,Irwin,P.O. Box 118,Guildhall,VT,05905,508 VT Route 102,Maidstone,VT,05905,802-676-3210,802-676-3210,maidstonetownclerk@gmail.com,M Th 9-12; and by appt.,"508 VT Route 102
+Maidstone, VT 05905
+(44.57760357700005, -71.55485725999995)",484
+80,Glastenbury,Bennington,Town,16,115.2,44.5,1200,05262,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"NULL
+NULL, NULL NULL",
+228,Waterville,Lamoille,Town,697,42.5,16.4,394,05492,NULL,NULL,Nancy,LaRose,P.O. Box 31,Waterville,VT,05492,850 VT Route 109,Waterville,VT,05492,802-644-8865,802-644-8865,townofwaterville@myfairpoint.net,M T Th 9-1:30,"850 VT Route 109
+Waterville, VT 05492
+(44.69390949700005, -72.76637357099997)",904
+123,Marlboro,Windham,Town,978,105.3,40.7,1736,05344,http://www.marlboro.vt.us,NULL,Nora,Wilson,P.O. Box E,Marlboro,VT,05344,510 South Road,Marlboro,VT,05344,802-254-2181,802-257-2447,marlborotownclerk@gmail.com,M W Th 9-4,"510 South Road
+Marlboro, VT 05344
+(42.87078849100004, -72.97079520699998)",902
+225,Washington,Orange,Town,1047,100.7,38.9,1260,05675,NULL,NULL,Carol,Davis,2895 VT Route 110,Washington,VT,05675,2894 VT Route 110,Washington,VT,05675,802-883-2218,802-883-2218,washingtontownclerk@gmail.com,M T 8:30-4:30; W Th by appt.,"2894 VT Route 110
+Washington, VT 05675
+(44.10873495300007, -72.43369419499999)",3207
+173,Rupert,Bennington,Town,704,115.5,44.6,824,05776,NULL,NULL,Andrea,Lenhardt,P.O. Box 140,West Rupert,VT,05776,187 East Street,West Rupert,VT,05776,802-394-7728,802-394-2524,rupert187@myfairpoint.net,M 11-7; T W 12-5; Th 8:30-3:30,"187 East Street
+West Rupert, VT 05776
+(43.230877460000045, -73.21982662999994)",902
+162,Putney,Windham,Town,2634,69.4,26.8,580,05346,http://www.putneyvt.org,NULL,Anita,Coomes,PO Box 233,Putney,VT,05346,127 Main Street,Putney,VT,05346,802-387-5862,802-387-4708,putneytc@putneyvt.org,M Th F 9-2; W 9-2 and 7-9 p.m.; Sat 9-12,"127 Main Street
+Putney, VT 05346
+(42.97462631900004, -72.52177725999996)",3217
+169,Rochester,Windsor,Town,1171,145.6,56.2,878,05767,http://www.rochestervermont.org/,NULL,Joanne,McDonnell,P.O. Box 238,Rochester,VT,05767,67 School Street,Rochester,VT,05767,802-767-3631,802-767-6028,rochestertown@comcast.net,T-F 8-4,"67 School Street
+Rochester, VT 05767
+(43.87554707400005, -72.80709260799995)",3218
+45,Charleston,Orleans,Town,895,100,38.6,1196,05872,http://www.charlestonvt.org/,NULL,Jeannine,Bennett,5063 VT Route 105,West Charleston,VT,05872,5063 VT Route 105,West Charleston,VT,05872,802-895-2814,802-895-2814,townofcharlestonvt@comcastnet,M T Th 8-3,"5063 VT Route 105
+West Charleston, VT 05872
+(44.849769355000035, -72.02480003599999)",3215
+69,Essex,Chittenden,Town,18626,101.8,39.3,492,05452,http://www.essex.org/,Essex Junction,Cheryl,Moomey,81 Main Street,Essex Junction,VT,05452,81 Main Street,Essex Junction,VT,05452,802-879-0413,802-878-1353,cmoomey@essex.org,M-F 7:30-4:30,"81 Main Street
+Essex Junction, VT 05452
+(44.49411384600006, -73.10513606099994)",3204
+131,Montgomery,Franklin,Town,992,147,56.7,492,05471,http://www.montgomeryvt.us/,NULL,Renee,Patterson,P.O. Box 356,Montgomery Center,VT,05471,98 Main Street,Montgomery Center,VT,05471,802-326-4719,802-326-5053,montgomerytc@fairpoint.net,M 8-12 and 1-6; T Th F 8-12 and 1-4,"98 Main Street
+Montgomery Center, VT 05471
+(44.878284603000054, -72.60946590599997)",3205
+164,Reading,Windsor,Town,707,107.9,41.7,754,05062,http://www.readingvt.govoffice.com/,NULL,Barbara,Acuna,P.O. Box 72,Reading,VT,05062,799 Route 106,Reading,VT,05062,802-484-7250,802-484-7250,readingvermont@comcast.net,M-Th 9-5,"799 Route 106
+Reading, VT 05062
+(43.455555332000074, -72.53714754699996)",3218
+60,Dorset,Bennington,Town,2036,123.9,47.9,802,05253,http://www.dorsetvt.org/,NULL,Sandra,Pinsonault,P.O. Box 24,East Dorset,VT,05253,112 Mad Tom Road,East Dorset,VT,05253,802-362-1178 x2,802-362-5156,dorsetclerk@gmail.com,M-Th 8:30-3:30; F 8-12; and by appt.,"112 Mad Tom Road
+East Dorset, VT 05253
+(43.23945179200007, -73.00790421699998)",902
+33,Brookline,Windham,Town,467,33.4,12.9,570,05345,http://www.brooklinevt.com,NULL,Penny,Harrington,P.O. Box 403,Newfane,VT,05345,736 Grassy Brook Road,Brookline,VT,05345,802-365-4648,802-365-4092,brook763@comcast.net,T Th 9-2; 1st Sat. 9-12,"736 Grassy Brook Road
+Brookline, VT 05345
+(43.02210364100006, -72.60399658399996)",3217
+99,Hubbardton,Rutland,Town,752,74.7,28.9,480,05735,http://hubbardtonvt.com/,NULL,Margaret,Vittum,1831 Monument Hill Road,Castleton,VT,05735,1831 Monument Hill Road,Hubbardton,VT,05735,802-273-2951,802-273-3729,clrkhubb@shoreham.net,M W F 9-2,"1831 Monument Hill Road
+Hubbardton, VT 05735
+(43.717184375000045, -73.15850629799996)",3216
+143,Newport,Orleans,Town,1511,112.6,43.5,792,05857,NULL,NULL,Denise,Daigle,P.O. Box 85,Newport Center,VT,05857,102 Vance Hill Road,Newport Center,VT,05857,802-334-6442,802-334-6442,nctownclerk@comcast.net,M-Th 7-4:30,"102 Vance Hill Road
+Newport Center, VT 05857
+(44.95150289400004, -72.30470925999998)",3215
+26,Brandon,Rutland,Town,3917,104.1,40.2,421,05733,http://www.town.brandon.vt.us/,NULL,William,Dick,49 Center Street,Brandon,VT,05733,49 Center Street,Brandon,VT,05733,802-247-5721,802-247-5481,wadick@sover.net,M-F 8:30-4,"49 Center Street
+Brandon, VT 05733
+(43.799554089000026, -73.08901333399996)",3216
+181,Sharon,Windsor,Town,1411,103.8,40.1,500,05065,http://sharonvt.net/,NULL,Debra,St. Peter,P.O. Box 250,Sharon,VT,05065,69 VT Route 132,Sharon,VT,05605,802-763-8268 x101,802-763-7392,clerk@sharonvt.net,M-Th 7-4:30,"69 VT Route 132
+Sharon, VT 05605
+(43.78478891900005, -72.45365533599994)",3218
+195,Stamford,Bennington,Town,813,102.6,39.6,1131,05352,http://www.stamfordvt.org/,NULL,Nancy,Bushika,986 Main Road,Stamford,VT,05352,986 Main Road,Stamford,VT,05352,802-694-1361,802-694-1636,stamfdvt@live.com,T W 10-4; Th 11-4 and 7-9 p.m.; F 11-4,"986 Main Road
+Stamford, VT 05352
+(42.75501062300003, -73.06813513999998)",902
+180,Shaftsbury,Bennington,Town,3767,111.8,43.2,833,05262,http://www.shaftsbury.net/,NULL,Judith,Stratton,P.O. Box 409,Shaftsbury,VT,05262,61 Buck Hill Road,Shaftsbury,VT,05262,802-442-4038,802-442-0955,shaftsburyclerk@comcast.net,M 9-5; T-F 9-3,"61 Buck Hill Road
+Shaftsbury, VT 05262
+(42.946296318000066, -73.20983008199994)",902
+136,Mount Holly,Rutland,Town,1241,128.4,49.6,1540,05758,http://www.mounthollyvt.org/,NULL,Susan,Covalla,P.O. Box 248,Mount Holly,VT,05758,50 School Street,Mount Holly,VT,05758,802-259-2391,802-259-2391,mthollytc@yahoo.com,M-Th 8:30-4,"50 School Street
+Mount Holly, VT 05758
+(43.446281267000074, -72.82497677699996)",3216
+77,Fletcher,Franklin,Town,1179,98.4,38,628,05444,http://fletchervt.net/,NULL,Elaine,Sweet,215 Cambridge Rd,Cambridge,VT,05444,215 Cambridge Rd,Fletcher,VT,05444,802-849-6616,802-849-2500,townfletcher@surfglobal.net,M 8-3:30 and 6:30-8:30 pm; T-Th 8-3:30,"215 Cambridge Rd
+Fletcher, VT 05444
+(44.68303621100006, -72.91016882599996)",3205
+250,Winooski,Chittenden,City,6561,3.9,1.5,200,05404,http://www.winooskivt.org/,NULL,Carol,Barrett,27 West Allen Street,Winooski,VT,05405,27 West Allen Street,Winooski,VT,05405,802-655-6419,802-655-6414,cjbarrett@winooskivt.org,M 8-8 p.m.; T-Th 8-4; F 8-12,"27 West Allen Street
+Winooski, VT 05405
+(44.491441112000075, -73.18777316899997)",3204
+54,Cornwall,Addison,Town,1136,74.2,28.6,374,05753,http://cornwallvt.com/,NULL,Susan,Johnson,2629 Route 30,Cornwall,VT,05753,2629 Route 30,Cornwall,VT,05753,802-462-2775,802-462-2606,cornwallvt@shoreham.net,T-F 9-5,"2629 Route 30
+Cornwall, VT 05753
+(43.961303344000044, -73.20959386499999)",3202
+27,Brattleboro,Windham,Town,12005,84,32.4,310,05301,http://www.brattleboro.org/,NULL,Annette,Cappy,"230 Main Street, Suite 108",Brattleboro,VT,05301,"230 Main Street, Suite 108",Brattleboro,VT,05301,802-251-8157,802-257-2312,townclerk@brattleboro.org,M-F 8:30-5,"230 Main Street, Suite 108
+Brattleboro, VT 05301
+(42.85567396300007, -72.56004569199996)",3217

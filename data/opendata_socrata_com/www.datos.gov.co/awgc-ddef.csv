@@ -1,0 +1,269 @@
+Codigo,Nombre,Categoria,Estado,Departamento,Municipio,Ubicación,Altitud,Fecha_instalacion,Fecha_suspension,Corriente
+23195240,AGUACHICA - AUT [23195240],Agrometeorológica,Activa,Cesar,Aguachica,"(8.12341667, -73.57986111)",103,2005-08-19,,Cauca
+28035070,GUATAPURI - AUT [28035070],Climática Principal,Suspendida,Cesar,Valledupar,"(10.73213889, -73.39241667)",1315,2006-02-25 19:00,2018-11-06 5:25,0
+23217080,GAMARRA - AUT [23217080],Limnigráfica,Activa,Cesar,Gamarra,"(8.28428611, -73.75338889)",40,2011-12-12,,Magdalena
+28025120,SERRANIA DEL PERIJA  - AUT [28025120],Climática Principal,Activa,Cesar,Agustín Codazzi,"(10.02908333, -73.04619444)",2256,2006-12-19 19:00,,0
+28015110,MANAURE - AUT [28015110],Climática Principal,Suspendida,Cesar,Manaure Balcón Del Cesar,"(10.36533333, -72.99763889)",1918,2005-08-17,2006-05-15,Magdalena
+28035060,FEDEARROZ - AUT [28035060],Climática Principal,Activa,Cesar,Valledupar,"(10.46361111, -73.24805556)",184,2005-08-16,,Cauca
+28025130,LA LOMA CARBONES - AUT [28025130],Climática Principal,Activa,Cesar,El Paso,"(9.64061111, -73.52394444)",60,2010-03-01 19:00,,0
+25025330,COLEGIO AGROPECUARIO PAILITAS  - AUT [25025330],Climática Principal,Activa,Cesar,Pailitas,"(8.95422222, -73.63008333)",50,1987-09-14 19:00,,0
+28010130,SARACHUI [28010130],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.78333333, -73.4)",1560,1968-04-15,1990-05-15,Sevilla
+23197410,HOYO EL [23197410],Limnimétrica,Activa,Cesar,San Alberto,"(7.68472222, -73.50888889)",77,1974-08-15,,San Alberto
+23195140,LLANA LA [23195140],Climática Ordinaria,Suspendida,Cesar,San Alberto,"(7.73333333, -73.53333333)",120,1974-09-15,1995-05-15,Man
+25020200,PAILITAS [25020200],Pluviométrica,Suspendida,Cesar,Pailitas,"(8.95, -73.63333333)",74,1960-02-15,1989-05-15,Cno Violo
+25025290,ARGENTINA LA [25025290],Climática Ordinaria,Suspendida,Cesar,Pailitas,"(8.96666667, -73.63333333)",75,1984-11-15,1987-09-15,Cno Mono
+25020660,ZAPATOZA [25020660],Pluviométrica,Activa,Cesar,Curumaní,"(9.00975, -73.75402778)",90,1972-09-15,,Catatumbo
+23190500,SAN ALBERTO [23190500],Pluviométrica,Activa,Cesar,San Alberto,"(7.75972222, -73.38833333)",134,1971-05-15,,Sinu
+23190810,PLANES LOS [23190810],Pluviométrica,Activa,Cesar,San Alberto,"(7.81261111, -73.32144444)",650,1984-11-15,,Man
+25020670,RAYA LA [25020670],Pluviométrica,Activa,Cesar,Pailitas,"(9.05027778, -73.55972222)",500,1972-09-15,,San Jorge
+25027720,BARRANCONES [25027720],Limnigráfica,Activa,Cesar,Chimichagua,"(9.13391667, -73.77280556)",32,1974-01-15,,Cga. Zapatosa
+23190110,LIBANO EL [23190110],Pluviométrica,Activa,Cesar,San Alberto,"(7.83805556, -73.42805556)",164,1976-12-15,,Zulia
+25020270,SALOA [25020270],Pluviométrica,Activa,Cesar,Chimichagua,"(9.19316667, -73.73130556)",90,1963-04-15,,Cno Lobita
+25027140,SALOA [25027140],Limnimétrica,Activa,Cesar,Chimichagua,"(9.19319444, -73.7325)",28,1963-04-15,,Magdalena
+25021580,CURUMANI D C [25021580],Pluviométrica,Suspendida,Cesar,Curumaní,"(9.18333333, -73.53333333)",100,1979-11-15,1996-08-15,Cno Lobita
+25027080,GRACIAS A DIOS HACIENDA [25027080],Limnimétrica,Activa,Cesar,Curumaní,"(9.19447222, -73.57652778)",46,1963-07-15,,Animito
+25020250,CURUMANI [25020250],Pluviométrica,Activa,Cesar,Curumaní,"(9.19719444, -73.54194444)",100,1963-03-15,,Sinu
+28037030,PUENTE SALGUERO  - AUT [28037030],Limnigráfica,Activa,Cesar,Valledupar,"(10.38411111, -73.23247222)",113,1962-12-14 19:00,,Cesar
+25020920,PRIMAVERA LA [25020920],Pluviométrica,Suspendida,Cesar,Curumaní,"(9.21666667, -73.41666667)",500,1972-09-14 19:00,2019-07-02 6:35,0
+28027160,ISLANDIA [28027160],Limnimétrica,Suspendida,Cesar,El Paso,"(9.63252778, -73.63572222)",45,1974-11-14 19:00,2019-07-02 6:40,Calenturitas
+23190520,DORADA LA [23190520],Pluviométrica,Activa,Cesar,San Martín (Cesar),"(7.99555556, -73.43972222)",271,1971-10-15,,Currulao
+23190710,BARRANCA LEBRIJA [23190710],Pluviométrica,Activa,Cesar,Aguachica,"(8.01183333, -73.72444444)",50,1983-09-15,,Cauca
+25021240,CHIMICHAGUA [25021240],Pluviométrica,Activa,Cesar,Chimichagua,"(9.26008333, -73.80986111)",138,1972-07-15,,Canal Rio Frio
+25025250,CHIRIGUANA [25025250],Climática Ordinaria,Activa,Cesar,Chiriguaná,"(9.36102778, -73.59338889)",40,1973-06-15,,Bzo De Loba
+25025050,CHIRIGUANA [25025050],Climática Ordinaria,Suspendida,Cesar,Chiriguaná,"(9.36102778, -73.59338889)",40,1932-01-15,1935-08-15,Bzo De Loba
+28025080,SOCOMBA [28025080],Climática Principal,Suspendida,Cesar,Becerrill,"(9.68666667, -73.24055556)",170,1976-12-14 19:00,2019-07-02 6:41,0
+28017050,REPOSO EL [28017050],Limnigráfica,Suspendida,Cesar,Valledupar,"(10.52719444, -73.33636111)",350,1958-03-14 19:00,2019-07-02 6:41,Guatapuri
+25020260,RINCONHONDO [25020260],Pluviométrica,Activa,Cesar,Chiriguaná,"(9.39702778, -73.48802778)",100,1963-03-15,,Canal Zumallero
+25020240,CANAL EL [25020240],Pluviométrica,Activa,Cesar,Chimichagua,"(9.41047222, -73.89041667)",70,1963-03-15,,Lago Caracol
+25020690,POPONTE [25020690],Pluviométrica,Activa,Cesar,Curumaní,"(9.42327778, -73.41094444)",500,1972-09-15,,Bzo Mompos
+25020220,ASTREA [25020220],Pluviométrica,Activa,Cesar,Astrea,"(9.49294444, -73.97288889)",50,1962-04-15,,Lago Mulas
+25021650,YUCAL EL [25021650],Pluviométrica,Activa,Cesar,Astrea,"(9.55738889, -73.87619444)",40,1984-11-15,,Ay Pechelin
+25020230,JAGUA LA [25020230],Pluviométrica,Activa,Cesar,La Jagua De Ibirico,"(9.56216667, -73.33947222)",170,1963-08-15,,Ay Pechelin
+25027590,CAIMANCITO [25027590],Limnimétrica,Suspendida,Cesar,Astrea,"(9.57113889, -73.79472222)",40,1974-07-14 19:00,2019-07-02 6:40,Cesar
+25020280,LOMA LA [25020280],Pluviométrica,Activa,Cesar,El Paso,"(9.60652778, -73.61197222)",30,1963-10-15,,Lago La Divisa
+28045040,GUAIRA LA HACIENDA [28045040],Climática Principal,Suspendida,Cesar,El Paso,"(9.61666667, -73.8)",50,1987-09-15,1994-07-15,Lago La Divisa
+23190580,SAN DANIEL HACIENDA [23190580],Pluviométrica,Activa,Cesar,Río De Oro,"(8.08875, -73.61877778)",75,1979-11-15,,Canal Zulia
+23190480,ANGELES LOS [23190480],Pluviométrica,Activa,Cesar,Río De Oro,"(8.09888889, -73.5075)",228,1971-05-15,,Canal Zulia
+28037090,PUENTE CANOAS  - AUT [28037090],Limnimétrica,Activa,Cesar,El Paso,"(9.64633333, -73.65183333)",45,1965-04-14 19:00,,Cesar
+28040350,PASO EL   [28040350],Pluviométrica,Activa,Cesar,El Paso,"(9.65697222, -73.74369444)",30,1972-08-15,,Cesar
+28027050,BECERRIL [28027050],Limnimétrica,Activa,Cesar,Becerrill,"(9.68661111, -73.27919444)",106,1963-06-15,,Maracas
+28040310,MOLINO EL [28040310],Pluviométrica,Suspendida,Cesar,El Paso,"(9.77605556, -73.74341667)",110,1972-08-15,2016-01-06,Lago La Pelona
+28020420,SAN GABRIEL [28020420],Pluviométrica,Activa,Cesar,San Diego,"(9.84461111, -73.54769444)",70,1972-09-15,,Casacara
+28020080,PLAYAS LAS HACIENDA [28020080],Pluviométrica,Activa,Cesar,Agustín Codazzi,"(9.84808333, -73.46219444)",60,1959-08-15,,Casacara
+28025090,CENTENARIO HACIENDA [28025090],Climática Ordinaria,Activa,Cesar,Agustín Codazzi,"(9.85025, -73.26547222)",100,1976-12-15,,Ay Morena
+28020600,RETORNO EL [28020600],Pluviométrica,Activa,Cesar,Agustín Codazzi,"(9.85472222, -73.35716667)",150,1979-02-15,,Ay Morena
+28027010,CASACARA [28027010],Limnimétrica,Suspendida,Cesar,Agustín Codazzi,"(9.83333333, -73.28333333)",50,1962-07-15,1971-10-15,Casacara
+28020470,NUEVO MUNDO DC HACIENDA [28020470],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.83333333, -73.26666667)",120,1979-11-15,1988-09-15,Casacara
+28030200,NUEVO HORIZONTE [28030200],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.45, -73.23333333)",195,1971-05-15,1975-08-15,Ariguani
+23197380,LOMA CORREDOR [23197380],Limnimétrica,Suspendida,Cesar,Aguachica,"(8.11666667, -73.78333333)",101,1971-07-15,1981-01-15,Lebrija
+23197280,PRADERA [23197280],Limnimétrica,Suspendida,Cesar,Aguachica,"(8.11666667, -73.58333333)",150,1987-07-15,1997-07-15,Quebrada Guaduas
+23210010,PUERTO MOSQUITO [23210010],Pluviométrica,Activa,Cesar,Gamarra,"(8.185, -73.75527778)",90,1960-02-15,,Canal Floresta
+23217070,YEGUERITA 2 [23217070],Limnimétrica,Activa,Cesar,Aguachica,"(8.36305556, -73.5725)",245,1999-08-15,,Quebrada Buturama
+16050270,LAGUNA LA [16050270],Pluviométrica,Suspendida,Cesar,Río De Oro,"(8.33333333, -73.35)",1500,1985-03-15,2002-04-15,Bzo Morales
+28035040,GUAYMARAL [28035040],Climática Ordinaria,Activa,Cesar,Valledupar,"(9.90491667, -73.64752778)",50,1972-08-15,,Magdalena
+28027040,SANTA TERESA [28027040],Limnimétrica,Activa,Cesar,Becerrill,"(9.91594444, -73.28369444)",80,1962-11-15,,Sicarare
+28020440,SANTA TERESA HACIENDA [28020440],Pluviométrica,Activa,Cesar,Agustín Codazzi,"(9.91702778, -73.28613889)",80,1959-04-15,,Sicarare
+28020260,VILLA AMINTA HACIENDA [28020260],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.88333333, -73.35)",80,1962-09-15,1971-10-15,Canal Principal
+28040290,BOSCONIA [28040290],Pluviométrica,Suspendida,Cesar,Bosconia,"(9.9, -73.85)",100,1968-12-15,1972-02-15,Ay Matuya
+28030070,GUAIMARAL [28030070],Pluviométrica,Suspendida,Cesar,Valledupar,"(9.9, -73.65)",50,1963-01-15,1972-10-15,Ay Matuya
+28020350,EUROPA 8 [28020350],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.91666667, -73.31666667)",85,1969-01-15,1972-05-15,Sicarare
+28040070,PALMARIGUANI [28040070],Pluviométrica,Activa,Cesar,Bosconia,"(9.93008333, -73.95488889)",80,1963-01-15,,Emb Ay Matuya
+28020310,BOGOTANA LA [28020310],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.1, -73.15)",200,1968-09-15,2004-08-15,Mulatos
+28045020,ALGARROBO [28045020],Climática Ordinaria,Suspendida,Cesar,El Copey,"(10.15, -74.06666667)",60,1964-02-15,1987-04-15,Mulatos
+28030170,PUERTO RICO [28030170],Pluviométrica,Suspendida,Cesar,San Diego,"(10.15, -73.18333333)",160,1972-09-15,1977-09-15,Mulatos
+28020590,LETICIA [28020590],Pluviométrica,Activa,Cesar,San Diego,"(10.15238889, -73.22172222)",140,1979-01-15,,Mulatos
+28027020,MATILDE LA [28027020],Limnimétrica,Activa,Cesar,San Diego,"(10.16561111, -73.25833333)",114,1962-07-15,,Jobo
+28020410,SAN BENITO [28020410],Pluviométrica,Activa,Cesar,San Diego,"(10.18416667, -73.31702778)",150,1972-09-15,,Diluvio
+28010070,VILLA MARLENE [28010070],Pluviométrica,Activa,Cesar,Valledupar,"(10.1855, -73.46711111)",120,1987-01-15,,Cienaga Del Tambo
+28037040,MARIANGOLA [28037040],Limnigráfica,Activa,Cesar,Valledupar,"(10.18741667, -73.58519444)",90,1963-01-15,,Mariangola
+28035010,VILLA ROSA [28035010],Climática Ordinaria,Activa,Cesar,Valledupar,"(10.19066667, -73.54738889)",70,1968-03-15,,Mariangola
+28047030,ALGARROBO [28047030],Limnimétrica,Activa,Cesar,El Copey,"(10.19344444, -74.04691667)",107,1963-02-15,,Ariguani
+28037050,DILUVIO HACIENDA [28037050],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.16666667, -73.63333333)",88,1968-11-15,1973-06-15,Diluvio
+28030060,MARIA ANGOLA [28030060],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.16666667, -73.6)",80,1963-01-15,1972-02-15,Diluvio
+25021640,SANTA ISABEL [25021640],Pluviométrica,Activa,Cesar,Pelaya,"(8.71275, -73.70255556)",40,1984-11-15,,Cauca
+28040170,CUEVAS LAS [28040170],Pluviográfica,Suspendida,Cesar,Pueblo Bello,"(10.46666667, -73.56666667)",1260,1963-06-15,1996-02-15,Cga. Guajaro
+28010020,DESCANSO EL [28010020],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.48011111, -73.23719444)",160,1986-04-14 19:00,2019-07-02 6:41,0
+28040230,JARDIN DE ROSITA [28040230],Pluviométrica,Suspendida,Cesar,El Copey,"(10.2, -73.98333333)",125,1966-01-15,1972-01-15,Ariguani
+28017100,BOCATOMA [28017100],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.5, -73.28333333)",225,1970-09-15,1981-11-15,Guatapuri
+28017130,BOCATOMA [28017130],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.5, -73.26666667)",250,1984-10-15,1987-03-15,Canal Luisierra
+28037130,PUENTE CARRETERA [28037130],Limnigráfica,Activa,Cesar,Valledupar,"(10.15752778, -73.62477778)",80,1972-10-14 19:00,,Diluvio
+28017060,EMPODUPAR [28017060],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.51666667, -73.3)",300,1984-10-15,1987-03-15,Canal Acueducto
+29060090,SAN SEBASTIAN DE [29060090],Pluviométrica,Activa,Cesar,Pueblo Bello,"(10.56330556, -73.60380556)",20,1968-05-15,,Cesar
+28017090,PUENTE MOSCA [28017090],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.55, -73.08333333)",50,1970-08-15,1977-07-15,Cesar
+28017120,ARIGUANI HACIENDA - AUT [28017120],Limnigráfica,Suspendida,Cesar,Valledupar,"(10.57419444, -73.397)",550,1980-12-15,2010-09-29,Guatapuri
+23217030,EL CONTENTO [23217030],Limnimétrica,Activa,Cesar,Gamarra,"(8.22233333, -73.77341667)",42,1974-07-15,,Magdalena
+25027890,PUENTE CARRETERA [25027890],Limnimétrica,Activa,Cesar,Chiriguaná,"(9.34233333, -73.49088889)",120,1978-09-14 19:00,,Animegrande
+23215030,AGUAS CLARAS [23215030],Pluviométrica,Activa,Cesar,Aguachica,"(8.22888889, -73.60277778)",208,1973-09-15,,0
+28047040,PUENTE CARRETERA [28047040],Limnigráfica,Activa,Cesar,El Copey,"(10.271, -73.97266667)",151,1963-02-14 19:00,,Ariguanicito
+23210130,TOTUMAL [23210130],Pluviométrica,Activa,Cesar,Aguachica,"(8.24944444, -73.58)",250,1973-10-15,,Cano Barro
+28025060,EUROPA LA [28025060],Climática Ordinaria,Suspendida,Cesar,Agustín Codazzi,"(9.93333333, -73.35)",180,1969-03-15,1976-12-15,Canal Principal
+28020500,CENTENARIO HACIENDA [28020500],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.93333333, -73.26666667)",110,1962-09-15,1977-01-15,Canal Principal
+28040040,LUMAR HACIENDA [28040040],Pluviométrica,Suspendida,Cesar,Valledupar,"(9.95, -73.38333333)",80,1958-01-15,1974-04-15,Canal Principal
+28040180,CARRETOS LOS [28040180],Pluviométrica,Suspendida,Cesar,Bosconia,"(9.96666667, -73.83333333)",130,1963-08-15,1976-01-15,Ay Corral
+23210120,VEGA LA [23210120],Pluviométrica,Activa,Cesar,La Gloria,"(8.53191667, -73.64147222)",166,1973-09-15,,Nuevo Presidente
+28010090,PATILLAL [28010090],Pluviométrica,Activa,Cesar,Valledupar,"(10.70386111, -73.21161111)",450,1962-12-14 19:00,,0
+28017150,CHEMESQUEMENA [28017150],Limnimétrica,Activa,Cesar,Valledupar,"(10.71222222, -73.40222222)",1160,2014-10-01,,Guatapuri
+28040030,BOSCONIA [28040030],Pluviométrica,Activa,Cesar,Bosconia,"(9.97575, -73.88175)",130,1979-11-15,,Ay Corral
+28040210,CHIMILAIMA 3 [28040210],Pluviométrica,Suspendida,Cesar,Bosconia,"(9.96666667, -73.8)",75,1965-07-15,1974-06-15,Ay Corral
+28040220,CHIMILAIMA 4 [28040220],Pluviométrica,Suspendida,Cesar,Bosconia,"(9.98333333, -73.86666667)",90,1965-09-15,1974-01-15,Ay Piquinine
+28040400,PALMASOLA [28040400],Pluviométrica,Suspendida,Cesar,Bosconia,"(9.97741667, -73.88930556)",50,1984-06-14 19:00,2019-07-02 6:42,0
+28025070,MOTILONIA CODAZZI [28025070],Agrometeorológica,Activa,Cesar,Agustín Codazzi,"(10.00180556, -73.24938889)",180,1956-01-15,,Ay Paso En Medio
+28040250,DONA VILA HACIENDA [28040250],Pluviométrica,Suspendida,Cesar,Bosconia,"(10.0, -73.83333333)",160,1967-09-15,1988-05-15,Ay Paso En Medio
+28037020,CONVENCION HACIENDA [28037020],Limnimétrica,Activa,Cesar,Valledupar,"(10.26783333, -73.41713889)",104,1962-12-15,,Los Clavos
+28025020,RINCON EL [28025020],Climática Ordinaria,Activa,Cesar,San Diego,"(10.27138889, -73.13138889)",350,1964-02-15,,Ariguanicito
+28010370,PARIS DE FRANCIA [28010370],Pluviométrica,Activa,Cesar,Valledupar,"(10.30708333, -73.32544444)",180,1971-11-15,,Canal Del Dique
+28030030,CONVENCION HACIENDA [28030030],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.28333333, -73.43333333)",80,1961-04-15,1972-01-15,Canal Del Dique
+28030090,SANTA MARTA HACIENDA [28030090],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.3, -73.35)",150,1963-09-15,1974-03-15,Canal Del Dique
+28030220,SAN ANGEL [28030220],Pluviométrica,Activa,Cesar,Valledupar,"(10.34705556, -73.44413889)",244,1983-06-15,,Ariguani
+28037010,PUENTE CALLAO [28037010],Limnimétrica,Activa,Cesar,Valledupar,"(10.36288889, -73.31736111)",120,1962-12-15,,Azucarabuena
+28035020,CALLAO EL [28035020],Climática Ordinaria,Activa,Cesar,Valledupar,"(10.36305556, -73.31944444)",110,1968-03-15,,Azucarabuena
+28025030,SAN DIEGO [28025030],Climática Ordinaria,Suspendida,Cesar,La Paz (Cesar),"(10.35, -73.18333333)",165,1964-05-15,1978-05-15,Canal Aduccion
+28020300,BELLA PAZ LA [28020300],Pluviométrica,Suspendida,Cesar,La Paz (Cesar),"(10.35, -73.1)",500,1967-02-15,1971-10-15,Canal Aduccion
+28025040,SAN JOSE D ORIENTE [28025040],Climática Ordinaria,Suspendida,Cesar,La Paz (Cesar),"(10.35, -73.05)",850,1975-08-15,1998-05-15,Canal Aduccion
+28030100,DESCANSO EL [28030100],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.36666667, -73.5)",225,1963-01-15,1972-07-15,Canal Del Dique
+23217040,AGUAS CLARAS [23217040],Limnimétrica,Suspendida,Cesar,Aguachica,"(8.26666667, -73.6)",120,1987-04-15,1995-03-15,Quebrada Aguas Claras
+16050060,RIO DE ORO [16050060],Pluviométrica,Activa,Cesar,Río De Oro,"(8.29305556, -73.38833333)",1200,1976-08-15,,Cno Carate
+23210150,AGUAS CLARAS D C [23210150],Pluviométrica,Suspendida,Cesar,Aguachica,"(8.3, -73.61666667)",200,1979-11-15,1981-07-15,Cauca
+23217050,YEGUERITA [23217050],Limnimétrica,Suspendida,Cesar,Aguachica,"(8.3, -73.58333333)",240,1987-04-15,1998-11-15,Quebrada Buturama
+23210160,GAMARRA [23210160],Pluviométrica,Activa,Cesar,Gamarra,"(8.32666667, -73.73777778)",150,1979-08-14 19:00,,0
+28020150,ESPERANZA LA HACIENDA [28020150],Pluviométrica,Activa,Cesar,Valledupar,"(10.02997222, -73.66883333)",60,1961-05-15,,Magdalena
+23217020,GAMARRA [23217020],Limnimétrica,Suspendida,Cesar,Gamarra,"(8.32136111, -73.74622222)",3985,2009-12-30,2014-08-28,Magdalena
+28030050,VENADOS LOS [28030050],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.01666667, -73.7)",75,1963-01-15,1972-01-15,Magdalena
+25020090,TAMALAMEQUE [25020090],Pluviométrica,Activa,Cesar,Tamalameque,"(8.86038889, -73.81544444)",20,1960-02-15,,Cga. Los Cerritos
+25021590,TAMALAMEQUE D C [25021590],Pluviométrica,Suspendida,Cesar,Tamalameque,"(8.86666667, -73.81666667)",33,1979-11-15,1998-06-15,Bzo De Loba
+28017110,MINA LA [28017110],Limnigráfica,Activa,Cesar,Valledupar,"(10.68672222, -73.26983333)",429,1969-12-15,,Badillo
+28010360,ATANQUEZ [28010360],Pluviométrica,Activa,Cesar,Valledupar,"(10.69733333, -73.35305556)",800,1959-04-15,,Badillo
+28015050,CAMPOALEGRE [28015050],Climática Ordinaria,Suspendida,Cesar,Valledupar,"(10.65, -73.13333333)",190,1968-03-15,1975-05-15,Tucurinca
+28015080,BADILLO [28015080],Climática Ordinaria,Suspendida,Cesar,Valledupar,"(10.66666667, -73.15)",210,1975-07-15,1977-11-15,Tucurinca
+28010260,MINAS LAS [28010260],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.68333333, -73.28333333)",515,1971-01-15,1975-10-15,Tucurinca
+28040270,MANATURE HACIENDA [28040270],Pluviométrica,Activa,Cesar,Bosconia,"(10.03511111, -73.78852778)",150,1968-09-15,,Ay Hondo
+28020460,CODAZZI DC [28020460],Pluviométrica,Activa,Cesar,Agustín Codazzi,"(10.04463889, -73.24338889)",90,1979-11-15,,Cno Correa
+28025010,LIBANO EL HACIENDA [28025010],Agrometeorológica,Suspendida,Cesar,Agustín Codazzi,"(10.03333333, -73.25)",180,1961-01-15,1972-07-15,Ay Hondo
+28020580,LIBANO EL [28020580],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.03333333, -73.25)",180,1971-01-15,1972-07-15,Ay Hondo
+28037060,CANTACLARO [28037060],Limnigráfica,Activa,Cesar,Valledupar,"(10.08847222, -73.73280556)",120,1963-03-15,,Garupal
+28030190,CARACOLI [28030190],Pluviométrica,Activa,Cesar,Valledupar,"(10.08869444, -73.73172222)",220,1972-07-15,,Garupal
+28027030,FLORES LAS [28027030],Limnimétrica,Activa,Cesar,La Paz (Cesar),"(10.09652778, -73.24352778)",112,1962-10-15,,Magiriaimo
+28040060,PAVAS LAS [28040060],Pluviométrica,Suspendida,Cesar,Bosconia,"(10.06666667, -73.88333333)",150,1963-01-15,1992-07-15,Cno El Arrastre
+28040200,CHIMILAIMA [28040200],Pluviométrica,Suspendida,Cesar,Bosconia,"(10.06666667, -73.76666667)",120,1962-08-15,1996-12-15,Cno El Arrastre
+28030010,CARACOLI 1 [28030010],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.06666667, -73.75)",122,1958-02-15,1973-01-15,Cno El Arrastre
+23217060,LA GLORIA[23217060],Limnimétrica,Activa,Cesar,La Gloria,"(8.61383333, -73.80163889)",36,1988-10-15,,Magdalena
+23215050,MATA LA [23215050],Pluviométrica,Activa,Cesar,La Gloria,"(8.61444444, -73.63638889)",163,1983-09-15,,0
+23210020,GLORIA LA [23210020],Pluviométrica,Activa,Cesar,La Gloria,"(8.63055556, -73.80416667)",40,1995-05-15,,San Juan D Uraba
+28010040,MANAURE [28010040],Pluviométrica,Activa,Cesar,Manaure Balcón Del Cesar,"(10.39138889, -73.02527778)",740,1975-09-15,,Mar Caribe
+23215040,BELLA CRUZ [23215040],Climática Ordinaria,Suspendida,Cesar,La Gloria,"(8.63333333, -73.63333333)",140,1974-10-15,1983-09-15,San Juan D Uraba
+28030160,BELLACLARA HACIENDA [28030160],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.38333333, -73.43333333)",330,1972-08-15,1978-02-15,Cga. El Sudan
+28010410,ALTAMIRA [28010410],Pluviométrica,Suspendida,Cesar,Manaure Balcón Del Cesar,"(10.38333333, -72.9)",2700,1980-06-15,1981-08-15,Cga. El Sudan
+28040010,PUEBLO BELLO [28040010],Pluviométrica,Activa,Cesar,Pueblo Bello,"(10.41463889, -73.58502778)",10,1963-01-15,,Canal Del Dique
+28047020,PUEBLO BELLO [28047020],Limnigráfica,Activa,Cesar,Pueblo Bello,"(10.41984722, -73.58883333)",1125,1963-01-15,,Ariguani
+28017040,NUEVO PRADO [28017040],Limnimétrica,Suspendida,Cesar,Manaure Balcón Del Cesar,"(10.4, -73.1)",480,1964-06-15,1978-10-15,Manaure
+25020650,TERROR EL HACIENDA [25020650],Pluviométrica,Activa,Cesar,Chimichagua,"(8.93877778, -73.56022222)",250,1972-09-15,,Sinu
+2802500079,Caracoli,Climática Principal,Activa,Cesar,Valledupar,"(10.08869444, -73.73166667)",120,2016-12-22 19:00,,0
+23215060,LA GLORIA [23215060],Climática Ordinaria,Suspendida,Cesar,La Gloria,"(8.61527778, -73.80055556)",35,1995-05-15,2018-06-19 10:35,0
+2804500076,PALMARITO - AUT [2804500076],Climática Principal,Activa,Cesar,Pueblo Bello,"(10.41519444, -73.64355556)",977,2017-04-29 19:00,,0
+28045030,SANSAIMO HACIENDA [28045030],Agrometeorológica,Suspendida,Cesar,El Paso,"(9.58333333, -73.78333333)",50,1983-10-15,1986-06-15,Cesar
+28020230,LLANOS LOS [28020230],Pluviométrica,Suspendida,Cesar,Becerrill,"(9.73333333, -73.3)",100,1962-09-15,2010-10-15,Maracas
+28040120,GRANJA LA-EL COPEY [28040120],Pluviométrica,Suspendida,Cesar,El Copey,"(10.16666667, -73.9)",250,1963-01-15,1972-01-15,Jobo
+28015030,CICOLAC [28015030],Climática Principal,Suspendida,Cesar,Valledupar,"(10.48333333, -73.26666667)",180,1964-01-15,1988-05-15,Cga. Guajaro
+28040110,CARACOLICITO [28040110],Pluviométrica,Suspendida,Cesar,El Copey,"(10.2, -73.96666667)",150,1963-01-15,1972-01-15,Ariguani
+28010140,VILLA CARMELITA [28010140],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.53333333, -73.3)",450,1968-09-15,2004-08-15,Guatapuri
+28010110,DONACHUI [28010110],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.71666667, -73.46666667)",1240,1966-04-15,1985-11-15,Guatapuri
+28047080,BELLEZA LA [28047080],Limnimétrica,Suspendida,Cesar,El Copey,"(10.33333333, -73.95)",250,1982-06-15,1992-09-15,Ariguani
+28025502,AEROPUERTO ALFONSO LOPEZ - [28025502],Sinóptica Principal,Activa,Cesar,Valledupar,"(10.43616667, -73.24766667)",138,2016-06-30 19:00,,0
+2805500075,CURUMANÍ - AUT [2805500075],Climática Principal,Activa,Cesar,Curumaní,"(9.23813889, -73.51291667)",67,2016-12-22 19:00,,0
+2801700088,CHEMESQUEMENA - AUT   [2801700088],Limnigráfica,Activa,Cesar,Valledupar,"(10.71211111, -73.43116667)",1102,2017-02-13,,Guatapuri
+28020010,IFA  [28020010],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.05, -73.23333333)",120,1950-01-15,1967-11-15,Canal Del Dique
+28020200,BACHAN HDA  [28020200],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.01666667, -73.38333333)",75,1962-01-15,1964-12-15,Canal Del Dique
+28020060,RECUERDO EL HDA  [28020060],Pluviométrica,Suspendida,Cesar,La Paz (Cesar),"(10.03333333, -73.45)",60,1959-07-15,1963-11-15,Canal Del Dique
+28020190,DELICIAS LAS  [28020190],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.03333333, -73.25)",120,1962-01-15,1965-03-15,Canal Del Dique
+28020430,UCRANIA HDA  [28020430],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.03333333, -73.28333333)",95,1958-01-15,1975-09-15,Canal Del Dique
+28020550,CODAZZI  [28020550],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.03333333, -73.23333333)",125,1968-09-15,1970-09-15,Canal Del Dique
+28020070,CERRITO EL HDA  [28020070],Pluviométrica,Suspendida,Cesar,La Paz (Cesar),"(10.05, -73.4)",70,1959-07-15,1966-07-15,Canal Del Dique
+28020220,MACANAL  [28020220],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.05, -73.33333333)",95,1962-04-15,1966-01-15,Canal Del Dique
+28020560,SOCOMBA  [28020560],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.05, -73.26666667)",180,1972-02-15,1975-07-15,Canal Del Dique
+28020090,LAGUNILLA HDA  [28020090],Pluviométrica,Suspendida,Cesar,La Paz (Cesar),"(10.06666667, -73.36666667)",90,1962-10-15,1966-01-15,Canal Del Dique
+23190190,ANGELES LOS  [23190190],Pluviométrica,Suspendida,Cesar,Río De Oro,"(8.08333333, -73.48333333)",180,1959-10-15,1966-11-15,Pamplonita
+23210060,PORVENIR EL HDA  [23210060],Pluviométrica,Suspendida,Cesar,Aguachica,"(8.18333333, -73.65)",100,1965-01-15,1966-05-15,Cga. San Lorenzo
+23215020,APTO GAMARRA  [23215020],Climática Ordinaria,Suspendida,Cesar,Aguachica,"(8.25, -73.58333333)",175,1953-12-15,1964-01-15,Tejo
+23210030,AGUACHICA  [23210030],Pluviométrica,Suspendida,Cesar,Aguachica,"(8.31666667, -73.63333333)",162,1959-10-15,1966-12-15,Tejo
+23217010,GAMARRA  [23217010],Limnimétrica,Suspendida,Cesar,Gamarra,"(8.31666667, -73.75)",35,1934-01-15,1956-04-15,Magdalena
+23215010,GAMARRA  [23215010],Climática Ordinaria,Suspendida,Cesar,Gamarra,"(8.33333333, -73.75)",50,1931-07-15,1985-10-15,Magdalena
+23210080,CATATUMBO HDA  [23210080],Pluviométrica,Suspendida,Cesar,Gamarra,"(8.35, -73.66666667)",150,1965-01-15,1966-12-15,Magdalena
+23210100,PALLARES  [23210100],Pluviométrica,Suspendida,Cesar,Gamarra,"(8.4, -73.65)",100,1965-08-15,1966-05-15,Cauca
+25020100,ARBOLEDAS  [25020100],Pluviométrica,Suspendida,Cesar,Tamalameque,"(8.73333333, -73.73333333)",46,1944-06-15,1945-07-15,Cno Mojana
+25020300,TAGOAGE HDA  [25020300],Pluviométrica,Suspendida,Cesar,Pailitas,"(8.96666667, -73.65)",75,1965-11-15,1968-12-15,Cauca
+25027430,BARRANCONES  [25027430],Limnimétrica,Suspendida,Cesar,Chimichagua,"(9.13333333, -73.78333333)",32,1965-07-15,1968-09-15,Cga. Zapatosa
+28040390,PASO EL  [28040390],Pluviométrica,Suspendida,Cesar,Chiriguaná,"(9.41666667, -73.71666667)",600,1950-01-15,1952-12-15,Qda Mulas
+28027150,PTE CARRETERA  [28027150],Limnimétrica,Suspendida,Cesar,Agustín Codazzi,"(9.58333333, -73.31666667)",132,1964-05-15,1964-06-15,Ay Tocuy
+28027140,PTE CESAR CALENTUR  [28027140],Limnimétrica,Suspendida,Cesar,Chiriguaná,"(9.6, -73.68333333)",50,1963-07-15,1968-08-15,Cesar
+28020210,BECERRIL  [28020210],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.68333333, -73.26666667)",150,1962-03-15,1966-12-15,Cesar
+28025110,LOMA LA  [28025110],Climática Ordinaria,Activa,Cesar,El Paso,"(9.68333333, -73.51666667)",70,1991-02-15,,Cesar
+28020360,PLATANAL  [28020360],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.71666667, -73.41666667)",40,1969-08-15,1969-11-15,Cesar
+28020240,ANGELES LOS  [28020240],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.78333333, -73.4)",70,1962-09-15,1969-07-15,Magdalena
+28020340,COMIENZO EL  [28020340],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.8, -73.33333333)",75,1969-06-15,1973-12-15,Magdalena
+28020290,BEGONA 24  [28020290],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.81666667, -73.33333333)",75,1969-06-15,1975-06-15,Magdalena
+28020330,CAMP BEGONA  [28020330],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.81666667, -73.31666667)",80,1969-06-15,1972-09-15,Magdalena
+28020170,STA RITA HDA  [28020170],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.83333333, -73.23333333)",150,1961-06-15,1961-07-15,Qda Platanal
+28020050,WALKIRIAS HDA  [28020050],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.85, -73.5)",60,1959-05-15,1967-03-15,Qda Platanal
+28020280,SICARARE HDA  [28020280],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.85, -73.35)",75,1962-09-15,1968-10-15,Qda Platanal
+28020320,MONTE CARMELO  [28020320],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.86666667, -73.25)",73,1969-04-15,1971-05-15,Qda Platanal
+28020380,SABANA LA  [28020380],Pluviométrica,Suspendida,Cesar,La Paz (Cesar),"(9.9, -73.48333333)",60,1970-05-15,1970-12-15,Qda Platanal
+28020020,LORENA HDA  [28020020],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.91666667, -73.41666667)",100,1956-06-15,1965-03-15,Qda Platanal
+28020030,EUROPA 8  [28020030],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.91666667, -73.31666667)",80,1958-01-15,1965-01-15,Qda Platanal
+28020120,TAMACA HDA  [28020120],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.95, -73.21666667)",100,1961-01-15,1962-01-15,Qda Platanal
+28020270,ESTANCIA LA  [28020270],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.88333333, -73.41666667)",80,1963-01-15,1965-12-15,Qda Platanal
+28020370,MONTECARLO  [28020370],Pluviométrica,Suspendida,Cesar,La Paz (Cesar),"(9.88333333, -73.51666667)",100,1970-01-15,1970-07-15,Qda Platanal
+28027090,ESPERANZA LA  [28027090],Limnimétrica,Suspendida,Cesar,Agustín Codazzi,"(10.1, -73.15)",75,1970-07-15,1970-09-15,Magiriaimo
+28020570,CASA TABLA  [28020570],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.95, -73.28333333)",100,1971-10-15,1973-12-15,De Oro
+28027120,PTE CARRETERA  [28027120],Limnimétrica,Suspendida,Cesar,Agustín Codazzi,"(9.95, -73.21666667)",132,1963-10-15,1963-12-15,Pernambuco
+28040190,GOMEZ LOS HDA  [28040190],Pluviométrica,Suspendida,Cesar,Valledupar,"(9.96666667, -73.91666667)",70,1962-07-15,1967-12-15,Pernambuco
+28020130,ILUSIONES LAS HDA  [28020130],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.0, -73.16666667)",600,1961-04-15,1961-08-15,Pernambuco
+28020140,NIDO EL HDA  [28020140],Pluviométrica,Suspendida,Cesar,La Paz (Cesar),"(10.0, -73.46666667)",100,1961-05-15,1961-12-15,Pernambuco
+28020510,DANUBIO EL HDA  [28020510],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.0, -73.16666667)",220,1962-03-15,1965-03-15,Pernambuco
+28030080,CHIMILAIMA 2  [28030080],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.0, -73.75)",11,1963-08-15,1968-08-15,Pernambuco
+28030040,BERLIN HDA  [28030040],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.1, -73.43333333)",75,1962-03-15,1967-02-15,Guejar
+28047070,COPEY EL  [28047070],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.15, -73.96666667)",169,1963-11-15,1966-12-15,Ay El Copey
+28020390,POZO AZUL  [28020390],Pluviométrica,Suspendida,Cesar,La Paz (Cesar),"(10.16666667, -73.2)",200,1970-06-15,1974-06-15,Canal Del Dique
+28035050,TOCO EL  [28035050],Climática Ordinaria,Suspendida,Cesar,La Paz (Cesar),"(10.18333333, -73.35)",150,1964-09-15,1966-12-15,Canal Del Dique
+28037120,PTE CARRETERA  [28037120],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.23333333, -73.46666667)",169,1962-12-15,1963-05-15,Aguas Blancas
+28037110,PTE CARRETERA  [28037110],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.25, -73.45)",169,1962-12-15,1966-05-15,Sambapalo
+28025100,LAGUNA LA  [28025100],Climática Ordinaria,Suspendida,Cesar,La Paz (Cesar),"(10.26666667, -73.06666667)",1500,1962-01-15,1975-08-15,Sambapalo
+28040050,RIO BRANCO  [28040050],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.26666667, -73.86666667)",700,1960-01-15,1961-01-15,Sambapalo
+28040380,RIO BAMBUCO  [28040380],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.26666667, -73.86666667)",180,1960-01-15,1960-12-15,Sambapalo
+28030110,CAIMAN EL  [28030110],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.3, -73.33333333)",100,1970-04-15,1970-12-15,Canal Del Dique
+28027100,SAN DIEGO  [28027100],Limnimétrica,Suspendida,Cesar,La Paz (Cesar),"(10.33333333, -73.18333333)",157,1962-12-15,1964-09-15,Chiriaimo
+28027110,SAN VICENTE  [28027110],Limnimétrica,Suspendida,Cesar,La Paz (Cesar),"(10.33333333, -73.18333333)",157,1964-09-15,1966-05-15,Chiriaimo
+28045010,PUEBLO BELLO  [28045010],Climática Ordinaria,Activa,Cesar,Valledupar,"(10.36666667, -73.63333333)",1000,1954-02-15,,Chiriaimo
+28030020,BABILONIA HDA  [28030020],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.35, -73.41666667)",60,1958-05-15,1960-07-15,Chiriaimo
+28030120,OASIS EL  [28030120],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.35, -73.45)",300,1970-05-15,1972-08-15,Chiriaimo
+28010180,PTE EL  [28010180],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.36666667, -73.45)",265,1970-06-15,1970-07-15,Chiriaimo
+28030180,VILLA MERCY  [28030180],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.36666667, -73.31666667)",100,1968-04-15,1971-08-15,Chiriaimo
+28010030,MANAURE R MEJIA  [28010030],Pluviográfica,Suspendida,Cesar,La Paz (Cesar),"(10.38333333, -73.05)",720,1952-12-15,1971-06-15,Chiriaimo
+28037100,SOCORRO EL  [28037100],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.4, -73.31666667)",169,1965-05-15,1967-08-15,Azucarbuena
+28027070,POZO NUEVO  [28027070],Limnimétrica,Suspendida,Cesar,La Paz (Cesar),"(10.43333333, -73.2)",125,1969-01-15,1970-08-15,Cesar
+28010080,AGUAS BLANCAS  [28010080],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.46666667, -73.25)",170,1960-01-15,1960-12-15,Cno Caiman
+28010320,VALLEDUPAR MOP  [28010320],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.46666667, -73.25)",200,1959-09-15,1972-06-15,Cno Caiman
+28015010,VALLEDUPAR-IFA  [28015010],Climática Ordinaria,Suspendida,Cesar,Valledupar,"(10.46666667, -73.23333333)",250,1933-01-15,1950-07-15,Cno Caiman
+28040370,COLONIAS CHIMILA  [28040370],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.46666667, -73.28333333)",170,1968-04-15,1969-06-15,Cno Caiman
+28010400,OASIS 2  [28010400],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.48333333, -73.26666667)",200,1970-06-15,1971-06-15,Cno Caiman
+28017010,RINCON EL  [28017010],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.5, -73.25)",260,1958-03-15,1967-03-15,Guatapuri
+28020530,PTE CALLAO  [28020530],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.51666667, -73.3)",150,1968-04-15,1970-03-15,Fundacion
+28017020,VALERIO  [28017020],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.53333333, -73.33333333)",350,1959-12-15,1963-05-15,Guatapuri
+28010220,RAICES LAS  [28010220],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.55, -73.18333333)",200,1970-09-15,1975-11-15,Guatapuri
+28017030,GLORIA LA  [28017030],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.61666667, -73.23333333)",225,1962-12-15,1969-02-15,Seco
+28010100,VALLEDUPAR-CVM  [28010100],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.48333333, -73.25)",200,1931-09-15,1964-12-15,Cno Caiman
+28010190,OASIS 1 EL  [28010190],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.48333333, -73.25)",175,1970-06-15,1970-07-15,Cno Caiman
+28025501,LA JAGUA DE IBIRICO  - AUT  [28025501],Climática Principal,Suspendida,Cesar,La Jagua De Ibirico,"(9.53305556, -73.18033056)",1648,2013-05-21 19:00,2019-08-21 7:05,0
+28045501,PUEBLO BELLO  - AUT  [28045501],Climática Principal,Activa,Cesar,Pueblo Bello,"(10.42166667, -73.57471944)",1134,2013-05-23 19:00,,0
+28020520,GUADALAJARA HDA  [28020520],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.01666667, -73.18333333)",210,1962-01-15,1965-03-15,Canal Del Dique
+28020180,ANTIOQUIA HDA  [28020180],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.03333333, -73.21666667)",200,1961-06-15,1967-03-15,Canal Del Dique
+23210050,TARAPACA  [23210050],Pluviométrica,Suspendida,Cesar,Aguachica,"(8.18333333, -73.68333333)",70,1965-01-15,1966-08-15,Cga. San Lorenzo
+23210040,LUCHA LA HDA  [23210040],Pluviométrica,Suspendida,Cesar,Aguachica,"(8.2, -73.66666667)",80,1964-01-15,1966-11-15,Tejo
+25027440,PTE CARRETERA  [25027440],Limnimétrica,Suspendida,Cesar,Curumaní,"(9.35, -73.5)",62,1964-06-15,1964-08-15,Qda Mulas
+28027130,PTE CASACARA  [28027130],Limnimétrica,Suspendida,Cesar,Agustín Codazzi,"(9.81666667, -73.25)",132,1963-10-15,1967-04-15,Qda Platanal
+28020110,CONCORDIA LA HDA  [28020110],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.93333333, -73.26666667)",500,1961-01-15,1961-12-15,Qda Platanal
+28020160,IBERIA HDA  [28020160],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(9.95, -73.2)",200,1961-05-15,1966-07-15,Qda Platanal
+28020490,CERRO EL HDA  [28020490],Pluviométrica,Suspendida,Cesar,Agustín Codazzi,"(10.0, -73.46666667)",105,1961-05-15,1961-09-15,Pernambuco
+28020100,DIAMANTE EL HDA  [28020100],Pluviométrica,Suspendida,Cesar,La Paz (Cesar),"(10.15, -73.26666667)",125,1960-04-15,1966-07-15,Ay Toro
+28047060,CARACOLICITO  [28047060],Limnimétrica,Suspendida,Cesar,Valledupar,"(10.18333333, -73.96666667)",169,1963-11-15,1966-12-15,Ay Caracolicito
+28040240,CHIMILA C A CARACO  [28040240],Pluviométrica,Suspendida,Cesar,Valledupar,"(10.33333333, -73.86666667)",500,1967-05-15,1969-09-15,Chiriaimo
+28015040,GUATAPURI  [28015040],Climática Ordinaria,Suspendida,Cesar,Valledupar,"(10.55, -73.36666667)",150,1964-10-15,1967-09-15,Guatapuri

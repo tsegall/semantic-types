@@ -1,0 +1,1001 @@
+"dec_well_number","well_location","street_name","town","county","dec_region","well_depth_feet_bgs","depth_to_bedrock_feet_bgs","depth_to_groundwater_feet","cased_depth_feet_bgs","screened","yield_test_average_discharge","driller_registration_number","latitude","longitude","georeference"
+"A1253","Rt 156","Rt 156","Voorheesville","Albany","4",,,,"96","N","5","NYRD10236",,,
+"A833","Jarvis Rd","Jarvis Rd","Ravena","Albany","4","320",,,"40","N",,"NYRD10054",,,
+"AG949","Sienk Rd","Sienk Rd","Angelica","Allegany","9","110",,,"98.5","N","12","NYRD10535",,,
+"BM1375","2223 Rt 79, Ouaquaga","Rt 79","Colesville","Broome","7","140",,"133","73","N",,"NYRD10113",,,
+"BM2236","83 North St","North St","Triangle","Broome","7","165","10",,"18","N","5","NYRD10454",,,
+"CL1481","Gokey Rd, Mooers","Gokey Rd","Mooers","Clinton","5","98",,"19","19","N",,"NYRD10033",,,
+"CM1659","3123 Rt 60, Elmira","Rt 60","Elmira","Chemung","8","105","-999","95",,"N","9","NYRD10405",,,
+"CN1706","Co Rt 7, Mcdonough","Co Rt 7","Mc Donough","Chenango","7","240",,,"118","N","20","NYRD10067",,,
+"CT1841","Rt 16, Yorkshire","Rt 16","Yorkshire","Cattaraugus","9","130",,,"80","N","0","NYRD10408",,,
+"CU1249","Rt 430","Rt 430","Ellery","Chautauqua","9","82","19","71","25.70000076","N","16","NYRD10089",,,
+"CL566","120 Cannon Rd, Saranac","Cannon Rd","Saranac","Clinton","5","149",,,"35","N","10","NYRD10087",,,
+"CB2918","Cemetary Rd, Clermont","Cemetery Rd","Clermont","Columbia","4","240",,"20","18","N",,"NYRD10001",,,
+"D1898","Stone Line Rd","Stone Line Rd","Roxbury","Delaware","4","275",,,"28.5","N","3","NYRD10020",,,
+"CU3276","3540 Fluvanna Townline Rd","Fluvanna Townline Rd","Ellicott","Chautauqua","9","150","118","118","118","N","15","NYRD10050",,,
+"C2280","5711 Carr Rd, Willet","Carr Rd","Willet","Cortland","7","170","18","54","8.5","N","15","NYRD10169",,,
+"CU3903","3549 Lake St, Jamestown","Lake St","Ellicott","Chautauqua","9","24","-999","24","24","N","10","NYRD10050",,,
+"CY1510","1451 Onionville Rd, Sterling","Onionville Rd","Sterling","Cayuga","7","28","22",,"22","Y","20","NYRD10235",,,
+"CL775","24 Parson Rd, Peru","Parson Rd","Peru","Clinton","5","304",,"60","120","N","4","NYRD10030",,,
+"CY745","N/A","N/A","Ledyard","Cayuga","7","200",,,,"N",,"NYRD10372","42.77972222","-76.67761111","POINT (-76.67761111 42.77972222)"
+"CY801","Fire Lane 6","Fire Lane 6","Genoa","Cayuga","7",,,,"10","N","10.5","NYRD10555",,,
+"CY963","986 West Genesee St, Auburn","West Genesee St","Aurelius","Cayuga","7","119",,"40","49","N","4","NYRD10340",,,
+"D1903","Reed Rd, Hobart","Reed Rd","Hobart","Delaware","4","507",,,"60","N","8","NYRD10016",,,
+"D1923","Cole Rd, Sidney","Cole Rd","Sidney","Delaware","4","340",,,"60","N","5","NYRD10067",,,
+"D2534","788 Perch Lake Rd, Andes","Perch Lake Rd","Andes","Delaware","4","557","-999","67","40","N","5","NYRD10016",,,
+"D2702","Covered Bridge Rd, Unadilla","Covered Bridge Rd","Sidney","Delaware","4","240","211",,"220","N",,"NYRD10067",,,
+"DU3658","Lot 3 Pine Brook Drive","Pine Brook Dr","Beekman","Dutchess","3","305",,"12","35","N","30","NYRD01695",,,
+"DU5455","1512 Rt 52, Wingdale","Rt 52","Amenia","Dutchess","3","230",,,"81","N","30","NYRD01695",,,
+"DU5881","Lisa Ln And Rt 82, East Fishkill","Lisa Ln","East Fishkill","Dutchess","3","85",,,"85","N","30","NYRD01695",,,
+"DU6120","Davis Rd, Dover","Davis Rd","Dover","Dutchess","3","255",,,"41","N","20","NYRD01695",,,
+"DU6984","Lot 2, 959 Hollow Rd, Clinton Corner","Hollow Rd","Clinton","Dutchess","3","355",,,"41","N","20","NYRD01695",,,
+"DU7573","Mill Rd, Northeast","Mill Rd","Northeast","Dutchess","3","505",,,"41","N","3","NYRD01695",,,
+"DU8019","Didell Rd","Didell Rd","La Grange","Dutchess","3","605","26","40","40","N","10","NYRD01695",,,
+"DU8226","South Cross Rd, Lot 2","South Cross Rd","La Grange","Dutchess","3","503","25","60","38","N","5","NYRD10155",,,
+"DU9114","6448 Rt 55, Dover","Rt 55","Dover","Dutchess","3","805","5",,"40","N","0","NYRD01695",,,
+"DU9192","38 Rt 9, Fishkill","Rt 9","Fishkill","Dutchess","3","405","170","47","200","N","40","NYRD01695",,,
+"DU9689","3665 Rt 44, Millbrook","Rt 44","Millbrook","Dutchess","3","500","50","20","58","N","1.75","NYRD10200",,,
+"E1277","Stearns Rd","Stearns Rd","North Collins","Erie","9","60","10","20","10","N","30","NYRD10050",,,
+"E1538","Hunn Rd","Hunn Rd","Boston","Erie","9","125",,,"91.75","N","12","NYRD10050",,,
+"E2403","751 Cain Rd, Angola","Cain Rd","Evans","Erie","9","55",,,"9.5","N","2","NYRD10050",,,
+"E3284","2407 Main Rd, Silver Creek","Main Rd","Sheridan","Chautauqua","9","60","18","27","19","N","10","NYRD10408",,,
+"E3412","Humphries Rd","Humphries Rd","Holland","Erie","9","75","18","20","18.5","N","4","NYRD10050",,,
+"E4244","3728 Langford Rd,","Langford Rd","North Collins","Erie","9","68","25","27","25","N","5","NYRD10009",,,
+"E4333","1612 Two Rod Rd, Alden","Two Rod Rd","Alden","Erie","9","15","16","8","14.63000011","N","10","NYRD10009",,,
+"E4418","11451 Kieffer Rd, Alden","Kieffer Rd","Alden","Erie","9","40","38",,"38","N","15","NYRD10009",,,
+"EX1441","1447 County Rd 10, Westport","Co Rd 10","Lewis","Essex","5","520",,,"84","N","0.75","NYRD10037",,,
+"EX1491","Black Point Rd, Ticonderoga","Black Point Rd","Ticonderoga","Essex","5","705","54","2","60","N","0.5","NYRD10030",,,
+"EX1796","154 St Rt 9","St Rt 9","Schroon","Essex","5","503","39","20","58","N","6","NYRD10030",,,
+"EX396","Rt 9n","Rt 9n","Crown Point","Essex","5","305","30","20","28","N","5","NYRD10181",,,
+"EX856","1953 South Rd, Moriah","South Rd","Moriah","Essex","5","305",,"25","20","N","6","NYRD10030",,,
+"EX998","286 St Rt 9n, Ticonderoga","St Rt 9n","Ticonderoga","Essex","5","505",,"15","59","N","3","NYRD10030",,,
+"F1272","West Rd","West Rd","Moira","Franklin","5","85","58","7","60.29999924","N","70","NYRD10033",,,
+"F1334","9108 St Rt 3, Vermontville","St Rt 3","Franklin","Franklin","5","280","189",,"191","N","18","NYRD10037",,,
+"F1947","17 Co Rt 18, Lake Clear","Co Rt 18","Harrietstown","Franklin","5","741","237",,"238","N",,"NYRD10037",,,
+"F745","N/A","N/A","Bombay","Franklin","5","44",,"7",,"N",,"NYRD10213","44.95316667","-74.672","POINT (-74.672 44.95316667)"
+"FU1049","Rt 29, Dolgeville","Rt 29","Oppenheim","Fulton","5","253",,,"251","N","20","NYRD10101",,,
+"FU1199","Rt 331, St Johnsville","Rt 331","Oppenheim","Fulton","5","98",,,"34","N","12","NYRD10101",,,
+"FU1474","114 Apple Ln, Broadalbin","Apple Ln","Broadalbin","Fulton","5","60","50","60","58","N","6","NYRD10830",,,
+"FU1549","131 Delaney Rd","Delaney Rd","Mayfield","Fulton","5","113",,,"111","N","7","NYRD10101",,,
+"FU1792","139 Haydens Haven Ln","Haydens Haven Ln","Northampton","Fulton","5","142","52","5","52.5","N","15","NYRD10002",,,
+"FU1829","Rt 107, Perth","Rt 107","Perth","Fulton","5","109","64","21","63","N","7.5","NYRD10101",,,
+"FU1969","Hegal Rd, Johnstown","Hegal Rd","Johnstown","Fulton","5","132","80",,"79","N","8","NYRD10101",,,
+"G1205","Rt 23b, Cairo","Rt 23b","Cairo","Greene","4","120",,"42","20","N","10","NYRD10054",,,
+"G1608","Rt 23, Cairo","Rt 23","Cairo","Greene","4","320",,,"42","N",,"NYRD10124",,,
+"G1912","Sky Hill Rd, Windham","Sky Hill Rd","Windham","Greene","4","507",,"40","50","N","3","NYRD10016",,,
+"G2293","Rt 145","Rt 145","Durham","Greene","4","567",,"15","40","N","5","NYRD10076",,,
+"G2344","20 Banta Rd, Cairo","Banta Rd","Cairo","Greene","4","400",,,"21","N",,"NYRD10124",,,
+"G2515","Vinning Rd, Windham","Vinning Rd","Windham","Greene","4","260",,"108","34","N","15","NYRD10054",,,
+"G2578","Co Rt 13","Co Rt 13","Lexington","Greene","4","170",,,"44","N","10","NYRD10020",,,
+"G2602","Dorso Ave","Dorso Ave","Durham","Greene","4","700",,,"18","N","1.5","NYRD10124",,,
+"G2759","165 Mill St","Mill St","Windham","Greene","4","500",,,"58","N","5","NYRD10124",,,
+"G3041","Rt 42, Westkill","Rt 42","Lexington","Greene","4","220","150",,"153","N","15","NYRD10016",,,
+"G3766","2343 Rt 23c, Jewett","Rt 23c","Jewett","Greene","4","200","107",,"118","N","30","NYRD10016",,,
+"G3955","Overlook Dr, Hunter","Overlook Dr","Hunter","Greene","4","500","145",,"158","N","5","NYRD10016",,,
+"GS1124","Rt 77, Basom","Rt 77","Alabama","Genesee","8",,"25",,"25","N","50","NYRD10009",,,
+"GS1291","Moag Rd, Pavilion","Moag Rd","Pavilion","Genesee","8","80","54","10","54","N","1","NYRD10009",,,
+"GS390","Rt 98, Elba","Rt 98","Elba","Genesee","8","150",,,"47.20000076","N","30","NYRD10009",,,
+"GS421","Rt 98","Rt 98","Elba","Genesee","8","40","28",,"31","N","300","NYRD10009",,,
+"GS747","Lot 1, Ellicott Street Rd","Ellicott St Rd","Batavia","Genesee","8","96","64","62","64","N","1","NYRD10274",,,
+"H358","Rt 30, Wells","Rt 30","Wells","Hamilton","5","340",,,"22","N","1.5","NYRD10002",,,
+"HE1103","Creek Rd","Creek Rd","Mohawk","Herkimer","6","180",,,"50","N",,"NYRD10062",,,
+"HE1819","Avery Rd, Ilion","Avery Rd","Frankfort","Herkimer","6","80","5","70","18.5","N","7","NYRD10062",,,
+"HE1895","247 Beacon Rd","Beacon Rd","Herkimer","Herkimer","6","70","3","20","18.5","N","5","NYRD10062",,,
+"HE2066","Castle Rd, Fairfield","Castle Rd","Fairfield","Herkimer","6","150","16",,"19","N","0.5","NYRD10101",,,
+"HE2144","279 Frog City Rd, Fort Plain","Frog Coty Rd","Stark","Herkimer","6","160","3",,"20","N","0","NYRD10062",,,
+"HE2282","472 Brockway Rd, Frankfort","Crockway Rd","Frankfort","Herkimer","6","70","8","8","18.5","N","8","NYRD10062",,,
+"HE2870","Davis Rd, Little Falls","Davis Rd","Fairfield","Herkimer","6","150","15","6","19","N","2.5","NYRD10101",,,
+"HE826","Bebu Rd, Ilion","Bebu Rd","Ilion","Herkimer","6","180",,"160","20","N","12","NYRD10062",,,
+"HE877","674 St Hwy 29a , Salisbury Center","St Hwy 29a","Salisbury","Herkimer","6","90",,"84","63","N","10","NYRD10101",,,
+"J2013","Heart Rd, Depauville","Heart Rd","Clayton","Jefferson","6","230","3","60","20","N","6","NYRD10470",,,
+"J2025","7858 Us Rt 11, Adams","Us Rt 11","Adams","Jefferson","6","240","228","60","228","N","30","NYRD10470",,,
+"J2602","27096 St Rt 37, Watertown","St Rt 37","Pamelia","Jefferson","6","150","10","130","18","N",,"NYRD10478",,,
+"J530","County Rt 23","Co Rt 23","Antwerp","Jefferson","6","85",,"80","28","N","5","NYRD10406",,,
+"J803","Rt 179","Rt 179","Lyme","Jefferson","6","65","7","9","19","N","7","NYRD10432",,,
+"LV1017","Presbyterian Rd","Presbyterian Rd","Mount Morris","Livingston","8",,,,"27","N",,"NYRD10070",,,
+"LV1121","Tabor Corners Rd","Tabor Corners Rd","Springwater","Livingston","8",,,,,"N","5","NYRD10792",,,
+"LV1694","1987 Rt 20a, Leicester","Rt 20a","Leicester","Livingston","8","62","20","37","18","N","4","NYRD10009",,,
+"LV1728","10 Depot Rd, Dansville","Depot Rd","North Dansville","Livingston","8","200","2",,"50","N","20","NYRD10024",,,
+"LV980","Rt 15, Consesus","Rt 15","Conesus","Livingston","8","150",,"50","30","N","2","NYRD10256",,,
+"M1492","Goff And Nl Butler","North Butler Rd","Smithfield","Madison","7",,,,,"N",,"NYRD10006",,,
+"M1657","546 W Cottage Lane","West Cottage Ln","De Ruyter","Madison","7","90","-999","10","80","N","10","NYRD10821",,,
+"M2347","439 Frank Rd, Lake Marine","Frank Rd","Madison","Madison","7","200","28","8","25.5","N","10","NYRD10013",,,
+"MO1462","Root Rd","Root Rd","Sweden","Monroe","8","30",,,"6","N","1.5","NYRD10009",,,
+"MO1948","4287 Clover St, Honeoye Falls","Clover St","Honeoye Falls","Monroe","8","103",,,"100","N",,"NYRD10070",,,
+"MT1524","Rt 30a, Glen","Rt 30a","Glen","Montgomery","4","74","8",,"19","N","6","NYRD10101",,,
+"MT792","St Rt 5, Florida","St Rt 5","Florida","Montgomery","4","246",,"40","246","N","25","NYRD10030",,,
+"O10237","4 Abbe Ct, Goshen, Lot 2","Abbe Ct","Goshen","Orange","3","300","5","62","48.5","N","20","NYRD10012",,,
+"O10378","Sands Rd, Wallkill","Sand Rd","Wallkill","Orange","3","240","28","0","48","N","10","NYRD10252",,,
+"O11218","911 Rt 32, Highland Mills","Rt 32","Woodbury","Orange","3","686","30","18","39","N","50","NYRD10239",,,
+"O11615","320 Mount Airy Rd, New Windsor, Well 2","Mount Airy Rd","New Windsor","Orange","3","305",,,"110","N","30","NYRD10151",,,
+"O2461","Charlotte Ln","Charlotte Ln","Mount Hope","Orange","3","240",,"15","45","N",,"NYRD10012",,,
+"O2568","Dosen Rd","Dosen Rd","Wallkill","Orange","3","135","25","10","35","N","30","NYRD10151",,,
+"O2657","Mt View Estates Lot 10","Eskew Ct","Crawford","Orange","3","125",,"115","40","N","20","NYRD10109",,,
+"O4314","Chester St","Chester St","Chester","Orange","3","355",,"100","40","N","8","NYRD10137",,,
+"O4560","Richardson Ct","Richardson Ct","Crawford","Orange","3","120",,"6","40","N","12","NYRD10252",,,
+"O5413","17 Duby Ln, Newburgh","Duby Ln","Newburgh","Orange","3","350",,"40","60","N","5","NYRD10239",,,
+"O5494","Libolt Rd, Wallkill","Libolt Rd","Wallkill","Orange","3","240",,,"50","N","20","NYRD10252",,,
+"O5760","Co Rt 1, Lot 12","Co Rt 1","Minisink","Orange","3","155",,"30","40","N","25","NYRD10137",,,
+"O5807","Amelia Estates, Bullville Rd, Lot 8","Bullville Rd","Crawford","Orange","3","160",,,"66","N","7.5","NYRD10252",,,
+"O5842","Mallory Ln, Crawford","Mallory Ln","Crawford","Orange","3","208",,,"40","N","11","NYRD10252",,,
+"O5972","Wood Rd","Wood Rd","Minisink","Orange","3","360",,,"40","N","5","NYRD10365",,,
+"O6911","Mountain Rd, Well 2","Mountain Rd","Greenville","Orange","3","520",,"8","40","N","20","NYRD10365",,,
+"O6962","83 Mine Rd, Fort Montgomery","Mine Rd","Highlands","Orange","3","690",,"86","39","N","5","NYRD10239",,,
+"O8905","911 Rt 17a, Greenwood Lake","Rt 17a","Warwick","Orange","3","220","8","18","18.5","N","20","NYRD10365",,,
+"O9015","Hill Top Trail","Hilltop Trail","Goshen","Orange","3","500","8","10","38.5","N","7","NYRD10252",,,
+"OE1621","Boody Hill Rd","Boody Hill Rd","Steuben","Oneida","6","324",,,"20","N",,"NYRD10013",,,
+"OE1778","Larson Rd, Cassville","Larson Rd","Paris","Oneida","6","180",,"60","45","N","5","NYRD10062",,,
+"OE1850","Rt 46","Rt 46","Verona","Oneida","6","72",,"9","10","N","1","NYRD10424",,,
+"OE2190","Lake Rd,forestpoint","Lake Rd","Forestport","Oneida","6","160",,"31","20","N",,"NYRD10219",,,
+"OE2511","N/A","N/A","Lee","Oneida","6","84",,"32","84","N",,"NYRD10098","43.3015","-75.4535","POINT (-75.4535 43.3015)"
+"OE3208","Ball Rd, Frankfort","Ball Rd","Frankfort","Herkimer","6","110","60","100","58","Y","15","NYRD10062",,,
+"OE3246","Clark Rd,","Clark Rd","Bridgewater","Oneida","6","70","47","11","45","N","8","NYRD10101",,,
+"OE3442","W Ava Rd","West Ava Rd","Ava","Oneida","6","220","105","50","103","N",,"NYRD10013",,,
+"OG1281","Stevens Rd","Stevens Rd","Edmeston","Otsego","4","128",,,"74.5","N","15","NYRD10020",,,
+"OG1652","Buck Rd, Fly Creek","Buck Rd","Otsego","Otsego","4","251",,,"114.5","N","6","NYRD10159",,,
+"OG1678","Mill Creek Rd, Otego","Mill Creek Rd","Otego","Otsego","4",,,,"231","N","15","NYRD10067",,,
+"OG1868","Co Rt 29","Co Rt 29","Pittsfield","Otsego","4","260","80","22","88.5","N","6","NYRD10067",,,
+"OG2155","150 Blood Mills Rd, Mount Vision","Blood Mills Rd","Laurens","Otsego","4","162","162",,"158.5","N","10","NYRD10067",,,
+"OG2265","98 Lake Rd, Milford","Lake Rd","Milford","Otsego","4","220","160",,"178","N","8","NYRD10067",,,
+"OG2306","185 Buck Rd, Fly Creek","Buck Rd","Otsego","Otsego","4","220","115",,"120","N","10","NYRD10067",,,
+"OG2718","200 Maples Rd, Hartwick","Maples Rd","Hartwick","Otsego","4","280","239",,"243","N","20","NYRD10067",,,
+"OG2980","2274 St Hwy 166, Cooperstown","St Hwy 166","Middlefield","Otsego","4","84","-999",,"82","N","20","NYRD10067",,,
+"OT1936","Co Rt 32","Co Rt 32","Bristol","Ontario","8","122",,,"73.5","N","1.799999952","NYRD10248",,,
+"OT2046","Rice Rd","Rice Rd","East Bloomfield","Ontario","8","88","-999",,"84","Y","5","NYRD10024",,,
+"OT2157","Devel Rd","Devel Rd","Canandaigua","Ontario","8","198",,"40","56","N","5","NYRD10180",,,
+"OT2198","Co Rd 1","Co Rd 1","Gorham","Ontario","8","105","35","101","33","N","10","NYRD10180",,,
+"OT2326","4230 Allens Hill Rd, Honeoye","Allens Hill Rd","Richmond","Ontario","8","90","60",,"58.70000076","N","6","NYRD10248",,,
+"OT2906","4425 Allens Hills Rd, Hemlock","Allens Hills Rd","Richmond","Ontario","8","80","24","36","78","N","8","NYRD10009",,,
+"OW2275","1000 Co Rt 23a, Constantia","Co Rt 23a","Constantia","Oswego","7","48","-999","15","38","Y","10","NYRD10142",,,
+"OW2431","32 Silk Rd, Fulton","Silk Rd","Volney","Oswego","7","50","47",,,"N","200","NYRD10235",,,
+"OW2446","5256 St Rt 49, Palermo","St Rt 49","Palermo","Oswego","7","35","25",,,"N","30","NYRD10235",,,
+"OW2628","478 Towsley Rd, Pulaski","Towsley Rd","Pulaski","Oswego","7","50","22","0","21.29999924","N","150","NYRD10230",,,
+"OW686","Co Rt 30","Co Rt 30","Williamstown","Oswego","7","50","35","18","35","N","20","NYRD10465",,,
+"P2649","Slokan Rd, Mahopac","Slokan Rd","Carmel","Putnam","3","600",,,"40","N","6","NYRD10261",,,
+"P2692","Pine Dr, Brewster","Pine Dr","Brewster","Putnam","3","305",,,"110","N","12","NYRD01695",,,
+"P2709","Lot 6, Sagamore Dr, S Sagamore Estate, Kent","Sagamore Dr","Kent","Putnam","3","645",,,"40","N","3","NYRD01695",,,
+"RE1405","Parker Rd, W Sand Lake","Parker Rd","Sand Lake","Rensselaer","4","502",,"80","200","N",,"NYRD10005",,,
+"RE1972","Miller Rd","Miller Rd","Schodack","Rensselaer","4","360","15","51","39","N","5","NYRD10055",,,
+"RE2410","Ny Rt 40 And Mahr Rd, Melrose","St Rt 40","Schaghticoke","Rensselaer","4","86",,"10","40","N","8","NYRD10017",,,
+"RE2803","Lot 8 Bittig Rd","Bittig Rd","Sand Lake","Rensselaer","4","380",,"20",,"N","8","NYRD10055",,,
+"RE3000","County Rt 50, Nassau","Co Rt 50","Nassau","Rensselaer","4","502",,"66","158","N","8","NYRD10005",,,
+"RE3218","Rt 40","Rt 40","Schaghticoke","Rensselaer","4","103",,"20","38","N","10","NYRD10017",,,
+"RE3482","3232 Rt 150","Rt 150","Schodack","Rensselaer","4","200",,"20","38.5","N","6","NYRD10001",,,
+"RE6400","Rt 22, Berlin","Rt 22","Berlin","Rensselaer","4","45",,"19","41","Y","30","NYRD10055",,,
+"SA1740","West Mountain Rd","West Mountain Rd","Corinth","Saratoga","5","260","26","0","33","N","30","NYRD10002",,,
+"SA1799","Rt 9n","Rt 9n","Corinth","Saratoga","5","420","146",,"144","N","2","NYRD10119",,,
+"SA2143","West Milton Rd","West Milton Rd","Milton","Saratoga","5","320",,,"166","N","15","NYRD10002",,,
+"SA2291","South Shore Rd","South Shore Rd","Edinburg","Saratoga","5","107","-999","0","107","N","20","NYRD10002",,,
+"SA4245","S Shore Rd, Day","South Shore Rd","Day","Saratoga","5","260",,,"20","N","20","NYRD10119",,,
+"SA4753","Lot 53, Cuyler St, Day","Cuyler St","Day","Saratoga","5","285","32","30","40","N","20","NYRD10030",,,
+"SA5232","15 State St","State St","Hadley","Saratoga","5","300",,"63","120","N",,"NYRD10253",,,
+"SA7708","557 Colebrook Rd, Gansevoort","Colebrook Rd","Wilton","Saratoga","5","60","-999",,"48.5","Y","4","NYRD10119",,,
+"SA7991","Backwoods Rd, Corinth","Backwoods Rd","Corinth","Saratoga","5","402","13","0","17.5","N","3.5","NYRD10002",,,
+"SA8333","19 Schuyler Way, North Gansevoort","Schuyler Way","Northumberland","Saratoga","5","420","83",,"82","N","7","NYRD10119",,,
+"SA8376","Cowles Rd, Corinth","Cowles Rd","Corinth","Saratoga","5","136","-999",,"134.5","N","15","NYRD10119",,,
+"SA9105","203 Parker Rd, Hadley","Parker Rd","Hadley","Saratoga","5","300","14",,"18","N","20","NYRD10119",,,
+"SA9480","146 Ernst Rd, Wilton","Ernst Rd","Wilton","Saratoga","5","220",,,"32","N","20","NYRD10119",,,
+"SB2192","Co Rt 8","Co Rt 8","Rathbone","Steuben","8","240",,"140","38","N","8","NYRD10773",,,
+"SB2403","Hornby Rd","Hornby Rd","Corning","Steuben","8",,,,"102","N",,"NYRD10827",,,
+"SB2724","Ellison Rd, Lot 16","Ellison Rd","Corning","Steuben","8","171","60","40","18.5","N","15","NYRD10330",,,
+"SB2780","8680 Co Rt 16","Co Rt 16","Bath","Steuben","8",,,,,"N",,"NYRD10070",,,
+"SB3710","10304 Co Rd 76, Pulteney","Co Rd 76","Pulteney","Steuben","8","140","15",,"19.5","N","6","NYRD10024",,,
+"SN1044","Rt 159, Mariaville","Rt 159","Duanesburg","Schenectady","4","139",,"19","20","N","7","NYRD10027",,,
+"SO1297","Dyer Rd","Dyer Rd","Jefferson","Schoharie","4","195",,,"74","N","20","NYRD10020",,,
+"SO1470","Todd Rd","Todd Rd","Gilboa","Schoharie","4","300",,,"124","N","5","NYRD10020",,,
+"SO1593","Hubbard Rd, Gilboa","Hubbard Rd","Gilboa","Schoharie","4","507",,,"40","N","4","NYRD10016",,,
+"SO1669","Brown Mills Ln","Brown Mills Ln","Cobleskill","Schoharie","4","192",,,"192","N","12","NYRD10020",,,
+"SO1772","Cornell Rd, Gilboa","Cornell Rd","Gilboa","Schoharie","4","407",,"15","38","N","15","NYRD10016",,,
+"SO1862","Ridge Rd","Ridge Rd","Middleburgh","Schoharie","4","427","31",,"40","N","12","NYRD10016",,,
+"SO902","Moxley St","Moxley St","Jefferson","Schoharie","4","85",,,"58","N","20","NYRD10020",,,
+"SO986","Sanitarium Rd, Esperance","Sanitarium Rd","Esperance","Schoharie","4","169",,"14","40","N","20","NYRD10027",,,
+"ST1838","Co Rt 47","Co Rt 47","Stockholm","St Lawrence","6","100","54","4","54","N",,"NYRD10093",,,
+"ST2044","Sh 56","St Hwy 56","Colton","St Lawrence","6","183","18","25","20.5","N","8","NYRD10093",,,
+"ST2473","Co Rt 27","Co Rt 27","Canton","St Lawrence","6","127","32","9","34","N","12","NYRD10093",,,
+"ST3282","Haig Rd, Massena","Haig Rd","Massena","St Lawrence","6","78",,"1","58.5","N","15","NYRD10093",,,
+"ST4249","3504 Co Rt 27, Russell","Co Rt 27","Clare","St Lawrence","6","130","11",,"16","N","5","NYRD10131",,,
+"ST4339","Scotch Bush Rd","Scotch Bush Rd","Oswegatchie","St Lawrence","6","73","25","0","25","N","20","NYRD10237",,,
+"SV1107","Shirely Ln","Shirley Ln","Mamakating","Sullivan","3","217",,,"70","N","6","NYRD10252",,,
+"SV1557","244 Rt 62, Wurtsboro","Rt 62","Mamakating","Sullivan","3","220",,"90","40","N","15","NYRD10490",,,
+"SV2102","Elbert Rd, Mamakating","Elbert Rd","Mamakating","Sullivan","3","520",,,"38.5","N","20","NYRD10252",,,
+"SV2242","Finkle Rd, Mamakating","Finkle Rd","Mamakating","Sullivan","3","220",,,"178.5","N","10","NYRD10252",,,
+"SV2530","Holmes Rd, Thompson","Holmes Rd","Thompson","Sullivan","3","480",,,"48","N","20","NYRD10252",,,
+"SV2671","43 Serenity Drive","Serenity Dr","Delaware","Sullivan","3","500",,,"48.5","N","15","NYRD10252",,,
+"SV3248","270 Budd Rd","Budd Rd","Fallsburg","Sullivan","3","500","40","45","48","N","7","NYRD10252",,,
+"SV3462","Molls Brook Rd","Molls Brook Rd","Neversink","Sullivan","3","305","13","40","21","N","10","NYRD10151",,,
+"SV3842","Cantrell Rd","Cantrell Rd","Thompson","Sullivan","3","500","30","50","48.5","N","15","NYRD10252",,,
+"SV4274","35 Hilltop Tr, Wurtsboro","Hilltop Tr","Mamakating","Sullivan","3","345",,,"40","N","7","NYRD10111",,,
+"SY1672","Rt 14, Monterey","Rt 14","Orange","Schuyler","8","60","53","55","51","N","10","NYRD10384",,,
+"SY1734","Crout Ln, Watkins Glen","Crout Ln","Dix","Schuyler","8","45","-999","41","41","N","8","NYRD10079",,,
+"SY1916","3009 Pearl St, Beaver Dams","Pearl St","Dix","Schuyler","8","190",,"30",,"N","1","NYRD10330",,,
+"SY2095","3596 Lamoka Lake Rd, Bradford","Lamoka Lake Rd","Tyrone","Schuyler","8","60","-999",,"56","N","20","NYRD10024",,,
+"TM1343","1375 Level Green Rd, Brooktondale","Level Green Rd","Caroline","Tompkins","7","170",,"38","20","N","8","NYRD10150",,,
+"TM1444","Comfort Rd Ithaca 1-1-24 2","Comfort Rd","Ithaca","Tompkins","7","201",,,"30","N","4","NYRD10307",,,
+"TM1525","Hollister Rd/hurd Rd","Hollister Rd","Ithaca","Tompkins","7","87",,,"38","N","7","NYRD10489",,,
+"TM3312","Peruville Rd, Freeville","Peruville Rd","Freeville","Tompkins","7","56","30",,"29","Y","20","NYRD10235",,,
+"TM3618","557 Scofield Rd, Groton","Scofield Rd","Groton","Tompkins","7","100","29","20","27.5","N","7","NYRD10080",,,
+"TM3773","Slaterville Rd, Ithaca","Slaterville Rd","Caroline","Tompkins","7","240","22",,"20.5","N","1.5","NYRD10080",,,
+"TM3912","Caswell Rd, Lot 18, Freeville","Caswell Rd","Freeville","Tompkins","7","300","223",,"223","N","3","NYRD10967",,,
+"TM3940","723 Iradell Rd, Trumansburg","Iradell Rd","Enfield","Tompkins","7","60","16",,"18","N","10","NYRD10024",,,
+"U10071","55 West Shore Dr, Esopus","West Shore Dr","Esopus","Ulster","3","280","30","41","40","N","5","NYRD01695",,,
+"U2766","Mack's Lane, Lloyd","Macks Ln","Lloyd","Ulster","3","310",,,"40","N","10","NYRD10252",,,
+"U2870","Lewis Hollow Rd, Woodstock","Lewis Hollow Rd","Woodstock","Ulster","3","200",,,"20","N",,"NYRD10273",,,
+"U3258","Jones Rd, T/0 Shawangunk, Walker Valley","Jones Rd","Shawangunk","Ulster","3","220",,,"180","N","80","NYRD10252",,,
+"U3294","Kelder Rd, Olive Bridge","Kelder Rd","Saugerties","Ulster","3","380",,"180","101","N",,"NYRD10124",,,
+"U3614","Rt 44/55","Rt 44/55","Gardiner","Ulster","3","140",,,"40","N","15","NYRD10252",,,
+"U3726","Rt 32, Esopus","Rt 32","Esopus","Ulster","3","180",,,"40","N","7","NYRD10252",,,
+"U3875","Rt 208, New Paltz","Rt 208","New Paltz","Ulster","3","235","32",,"39","N","11","NYRD10252",,,
+"U5315","Braden Rd, Wawarsing","Braden Rd","Wawarsing","Ulster","3","505",,,"40","N","12","NYRD10151",,,
+"U5557","Well 3, Blue Point Rd, Lloyd","Blue Point Rd","Lloyd","Ulster","3","300",,,"40","N","8","NYRD10252",,,
+"U5664","Cranberry Rd, Wawarsing","Cranberry Rd","Wawarsing","Ulster","3","380",,,"80","N","6","NYRD10252",,,
+"U7358","Old Post Rd","Old Post Rd","Esopus","Ulster","3","460","12","40","37.5","N","2","NYRD10252",,,
+"U7601","Rt 209, Ellenville","Rt 209","Wawarsing","Ulster","3","290","65","10","58.5","N","7","NYRD10252",,,
+"U7640","369 Buck Rd","Buck Rd","Marbletown","Ulster","3","220","15","30","38.5","N","15","NYRD10252",,,
+"U8343","181 Esopus Creek Rd, Saugerties","Esopus Creek Rd","Saugerties","Ulster","3","130","-999","20","118","N",,"NYRD10124",,,
+"U8951","40 Lisora Ln, Kerhonksen","Lisora Ln","Rochester","Ulster","3","130",,,"65","N","20","NYRD10151",,,
+"U9191","Farmers Tpk, Gardiner, Shop","Farmers Tpk","Gardiner","Ulster","3","300","42","40","58","N","5","NYRD10252",,,
+"U9323","10 Caston Rd, Greenfield Park","Caston Rd","Wawarsing","Ulster","3","480",,,"22","N","2","NYRD10151",,,
+"U9861","174 Hudson Ln, Ulster Park","Hudson Ln","Esopus","Ulster","3","505","6","40","40","N","0.100000001","NYRD01695",,,
+"W1111","Keys Rd, Salem","Keys Rd","Jackson","Washington","5","102",,"20","44","N","10","NYRD10017",,,
+"W1344","Co Rt 48, Argyle","Co Rt 48","Argyle","Washington","5","150","12","30","27","N","20","NYRD10562",,,
+"W1465","Pike Brook Rd, Clemons","Pike Brook Rd","Dresden","Washington","5","284",,"20","30","N","25","NYRD10030",,,
+"W3893","Beckett Rd, Whitehall","Beckett Rd","Whitehall","Washington","5","425","28","30","33","N","5","NYRD10030",,,
+"W4286","334 Geer Rd, Hudson Falls","Geer Rd","Kingsbury","Washington","5","240",,,,"N","10","NYRD10119",,,
+"W4910","3377 St Rt 4, Hudson Falls","St Rt 4","Kingsbury","Washington","5","220","36",,"38","N","20","NYRD10119",,,
+"WE5359","As Above","Sun Valley Heights Rd","North Salem","Westchester","3","230",,,"41","N","12","NYRD01695",,,
+"WE5410","Hilltop Dr, North Salem","Hilltop Dr","North Salem","Westchester","3","245",,,"32","N","30","NYRD10105",,,
+"WE5552","Rt 22","Rt 22","North Castle","Westchester","3","345",,,"130","N","20","NYRD10318",,,
+"WE6155","35 Salem Rd","Salem Rd","Pound Ridge","Westchester","3","305","8",,"50","N","60","NYRD01695",,,
+"WE6199","446 Long Ridge Rd","Long Ridge Rd","Bedford","Westchester","3","905","9",,"30","N","2","NYRD01695",,,
+"WE6402","1 Westerly Rd, Ossining","Westerly Rd","Ossining","Westchester","3","32",,"10","19.5","Y","5","NYRD01843",,,
+"WE6719","Test Well 11","Whippoorwill Rd","North Castle","Westchester","3","665","17",,"49.5","N","0.75","NYRD10318",,,
+"WN1275","12168 Smith Rd, Butler","Smith Rd","Butler","Wayne","8","75","32","30","31","N","6","NYRD10340",,,
+"WN1298","2429 Gannett Rd, Lyons","Gannett Rd","Galen","Wayne","8","196","158","100","158.5","N","30","NYRD10340",,,
+"WO1169","Pattridge Rd, Castile,","Pattridge Rd","Castile","Wyoming","9","140",,"40","20","N",,"NYRD10009",,,
+"WO1619","5691 Rt 20a, Warsaw","Rt 20a","Warsaw","Wyoming","9","50","50","50","48.29999924","N","15","NYRD10009",,,
+"WO1836","2556 Creek Rd, Sheldon","Creek Rd","Sheldon","Wyoming","9","98","28","28","28.5","N","2.5","NYRD10050",,,
+"WO700","Northwood Rd Arcade","Northwoods Rd","Arcade","Wyoming","9","120",,,"49","N","5","NYRD10009",,,
+"WO963","3823 Hollow Rd, Orangeville","Hollow Rd","Orangeville","Wyoming","9","71",,"6","69.09999847","N","20","NYRD10408",,,
+"WR1323","125 Murray Rd, Stony Creek","Murray Rd","Stony Creek","Warren","5","665",,"60","20","N","5","NYRD10030",,,
+"WR1503","Mud St, Thurman","Mud St","Thurman","Warren","5","605",,"30","41","N","1","NYRD10030",,,
+"WR2429","323 Johnson Rd, Adirondack","Johnson Rd","Horicon","Warren","5","463","5",,"18","N","2.5","NYRD10255",,,
+"WR478","Lot 8 109 Indian Dr,bolton","Indian Dr","Bolton","Warren","5","460",,,"20","N","20","NYRD10119",,,
+"WR568","Haviland Rd","Haviland Rd","Queensbury","Warren","5","220",,,"217","N","10","NYRD10119",,,
+"WR674","Lane Rd, Olmstedville","Lane Rd","Chester","Warren","5","263","13",,"18","N","15","NYRD10119",,,
+"DU4946","St Pauls Rd","St Pauls Rd","Milan","Dutchess","3","450",,"25","30","N","5","NYRD10025",,,
+"DU6532","N/A","N/A","Clinton","Dutchess","3","205",,"40","43","N","6","NYRD10025","41.8915","-73.84319444","POINT (-73.84319444 41.8915)"
+"CN1105","Haven Rd, Oxford","Haven Rd","Oxford","Chenango","7","249","152","65","173","N","4","NYRD10081","42.44394444","-75.54822222","POINT (-75.54822222 42.44394444)"
+"AG1473","N/A","N/A","Andover","Allegany","9","136",,"68","36.20000076","N","20","NYRD10043","42.15066667","-77.821","POINT (-77.821 42.15066667)"
+"CB2858","838 Co Rt 6, Germantown","Co Rt 6","Germantown","Columbia","4","302",,"95","38","N","50","NYRD10005","42.08555556","-73.85197222","POINT (-73.85197222 42.08555556)"
+"D3397","475 Palmer Hill Rd, Meridale","Palmer Hill Rd","Meredith","Delaware","4","427","75",,"83","N","4","NYRD10016",,,
+"A1757","N/A","N/A","Westerlo","Albany","4","151",,"29","40","N","5","NYRD10040","42.55","-74.01883333","POINT (-74.01883333 42.55)"
+"CM1945","1348 Catlin Hill Rd, Beaver Dams","Catlin Hill Rd","Catlin","Chemung","8","150","15","40","18.5","N","20","NYRD10330",,,
+"CU3070","11548 Center Rd, Dunkirk","Center Rd","Sheridan","Chautauqua","9","60",,"6","20","N","5","NYRD10408","42.50144444","-79.23619444","POINT (-79.23619444 42.50144444)"
+"CY370","6070 Dresserville Rd, Moravia","Dresserville Rd","Moravia","Cayuga","7","49",,"22","36","N","20","NYRD10080","42.71722222","-76.34555556","POINT (-76.34555556 42.71722222)"
+"CT1600","N/A","N/A","Humphrey","Cattaraugus","9","70",,,"60","N",,"NYRD10091","42.24197222","-78.52586111","POINT (-78.52586111 42.24197222)"
+"DU5605","55 Augusta Dr, Hopewell Jct","Augusta Dr","East Fishkill","Dutchess","3","285",,,"263","N","30","NYRD10105",,,
+"DU7331","1135 Duell Rd, Stanfordville","Duell Rd","Stanford","Dutchess","3","630",,"122","190","N","7","NYRD10061","41.86483333","-73.68588889","POINT (-73.68588889 41.86483333)"
+"CU1930","Rt 5","Rt 5","Ripley","Chautauqua","9","65",,,"12.5","N","17","NYRD10050",,,
+"CT3504","6720 Hencoop Rd Ellicottville","Hencoop Rd","Ellicottville","Cattaraugus","9","140","55",,"58.5","N","15","NYRD10091",,,
+"CT1512","N/A","N/A","Little Valley","Cattaraugus","9",,,,"50","N",,"NYRD10091","42.22972222","-78.71822222","POINT (-78.71822222 42.22972222)"
+"A2033","909 Helderberg Trail, East Berne","Helderberg Trail","Berne","Albany","4","179",,"64","119","N","8","NYRD10027","42.61611111","-74.07619444","POINT (-74.07619444 42.61611111)"
+"A1078","N/A","N/A","Rensselaerville","Albany","4",,,,"122","N","1.5","NYRD10133","42.49447222","-74.11405556","POINT (-74.11405556 42.49447222)"
+"CB5178","N/A","N/A","Ancram","Columbia","4","505","1","30","18.5","N","10","NYRD10061","42.06541667","-73.54241667","POINT (-73.54241667 42.06541667)"
+"D785","Launt Hollow Rd, Hamden","Launt Hollow Rd","Hamden","Delaware","4","265",,"60","20","N","4","NYRD10238","42.29847222","-75.26483333","POINT (-75.26483333 42.29847222)"
+"CT1334","N/A","N/A","Franklinville","Cattaraugus","9","122",,"84","40","N","3","NYRD10134","42.28155556","-78.40438889","POINT (-78.40438889 42.28155556)"
+"CY840","St Rt 176, Cato","St Rt 176","Cato","Cayuga","7","124","38","15","37","N","2","NYRD10230","43.16930556","-76.51952778","POINT (-76.51952778 43.16930556)"
+"D3675","1803 Chamberlain Brook Rd, Walton","Chamberlain Brook Rd","Walton","Delaware","4","348","23","60","39","N","5","NYRD10178","42.13983333","-75.27013889","POINT (-75.27013889 42.13983333)"
+"D1076","N/A","N/A","Sidney","Delaware","4","160",,"140","80","N","6","NYRD10238","42.26130556","-75.21169444","POINT (-75.21169444 42.26130556)"
+"CN3006","1943 St Hwy 80, Smyrna","St Hwy 80","Smyrna","Chenango","7","185","15","24","19.5","N","6","NYRD10238","42.68961111","-75.58333333","POINT (-75.58333333 42.68961111)"
+"BM3161","960 Underwood Rd, Vestal","Underwood Rd","Vestal","Broome","7","225","3",,"38.5","N","7","NYRD10999","42.00713889","-76.01175","POINT (-76.01175 42.00713889)"
+"C1015","Taylor Valley Rd","Taylor Valley Rd","Truxton","Cortland","7","198",,"30","67","N","7","NYRD10080","42.66416667","-75.997","POINT (-75.997 42.66416667)"
+"CB1524","N/A","N/A","Claverack","Columbia","4","405",,"20","21","N","2","NYRD10010","42.26530556","-73.61125","POINT (-73.61125 42.26530556)"
+"BM3457","857 Dunbar Rd, Windsor","Dunbar Rd","Windsor","Broome","7","297","16","50","179","N","15","NYRD10178","42.08838889","-75.69652778","POINT (-75.69652778 42.08838889)"
+"CU1178","4781 Hunt Rd","Hunt Rd","North Harmony","Chautauqua","9","88","-999","25","88","N","10","NYRD10203","42.08891667","-79.36916667","POINT (-79.36916667 42.08891667)"
+"CU2270","Charlotte Center Rd, Sinclairville","Charlotte Center Rd","Charlotte","Chautauqua","9","45","20","25","25","N","20","NYRD10203","42.29555556","-79.23727778","POINT (-79.23727778 42.29555556)"
+"CN2016","Wackaford Rd, Oxford","Wackaford Rd","Oxford","Chenango","7","197","15","75","19","N","10","NYRD10110","42.42580556","-75.58108333","POINT (-75.58108333 42.42580556)"
+"CB4243","159 Pratt Hill Rd, Ghent","Pratt Hill Rd","Ghent","Columbia","4","485","12",,"19","N","3","NYRD10010","42.30722222","-73.55958333","POINT (-73.55958333 42.30722222)"
+"CL2032","N/A","N/A","Champlain","Clinton","5","125","20","6","33.5","N","10","NYRD10181","44.95194444","-73.52886111","POINT (-73.52886111 44.95194444)"
+"D2595","Big Red Kill Rd","Big Red Kill Rd","Middletown","Delaware","4","197","69","30","79","N","25","NYRD10178","42.19588889","-74.55130556","POINT (-74.55130556 42.19588889)"
+"CL786","1803 Peaseville Rd, Schuyler Falls","Peaseville Rd","Black Brook","Clinton","5","200",,"20","22","N","15","NYRD10579","44.57736111","-73.72686111","POINT (-73.72686111 44.57736111)"
+"CU3878","5325 Herrick Rd Gerry","Herrick Rd","Gerry","Chautauqua","9","140","40",,"40.5","N","8","NYRD10091","42.23113889","-79.20827778","POINT (-79.20827778 42.23113889)"
+"CT2959","N/A","N/A","Allegany","Cattaraugus","9","38","-999","20","38","N","20","NYRD10269","42.082","-78.49816667","POINT (-78.49816667 42.082)"
+"AG1512","8583 Lynch Rd, Caneadea","Lynch Rd","Caneadea","Allegany","9",,,,"56.5","N","20","NYRD10082","42.37436111","-78.18969444","POINT (-78.18969444 42.37436111)"
+"CB2264","246 Holm Rd, Hillsdale","Holm Rd","Hillsdale","Columbia","4","260","4","30","142","N","5","NYRD10055","42.2075","-73.48583333","POINT (-73.48583333 42.2075)"
+"D2777","Erpf Rd, Arkville","Erpf Rd","Middletown","Delaware","4","67","-999","0","24","N","15","NYRD10178","42.14016667","-74.60336111","POINT (-74.60336111 42.14016667)"
+"AG2419","6124 St Rt 21, Alfred Station","St Rt 21","Alfred","Allegany","9","202",,,"37","N",,"NYRD10043","42.26597222","-77.75994444","POINT (-77.75994444 42.26597222)"
+"CM1606","40 Yellow Rock Ln, Horseheads","Yellow Rock Ln","Horseheads","Chemung","8","198","30","190","34","N","6","NYRD10162","42.21119444","-76.88713889","POINT (-76.88713889 42.21119444)"
+"CB2780","N/A","N/A","Hudson","Columbia","4","160",,"28","66.5","N","15","NYRD10590","42.15544444","-73.74402778","POINT (-73.74402778 42.15544444)"
+"BM3217","Rt 7, Port Crane","Rt 7","Fenton","Broome","7","150","40","50","38","N","10","NYRD10439","42.16169444","-75.83555556","POINT (-75.83555556 42.16169444)"
+"CU2278","5690 Leet Ave, Dewittville","Leet Ave","Chautauqua","Chautauqua","9","122","12",,"12.30000019","N","10","NYRD10084","42.23913889","-79.45975","POINT (-79.45975 42.23913889)"
+"A2485","361 Helderberg Trail, East Berne","Helderberg Trail","Berne","Albany","4","279","181","59","189","N","5","NYRD10027","42.6025","-74.035","POINT (-74.035 42.6025)"
+"D3207","Sweet Pea Dr, Treadwell","Sweet Pea Dr","Franklin","Delaware","4","245","220","120","218","N","8","NYRD10439","42.3215","-75.03002778","POINT (-75.03002778 42.3215)"
+"D1896","N/A","N/A","Roxbury","Delaware","4","398",,,"28.5","N","3","NYRD10178","42.27983333","-74.62752778","POINT (-74.62752778 42.27983333)"
+"A915","Wolf Hill Rd, Voorheesville","Wolf Hill Rd","New Scotland","Albany","4","235","11","35","18.5","N","10","NYRD10186","42.598","-73.98988889","POINT (-73.98988889 42.598)"
+"CN2854","118 North Tyner Rd, Oxford","North Tyner Rd","Oxford","Chenango","7","140","20","0",,"N","40","NYRD10230","42.2555","-75.3945","POINT (-75.3945 42.2555)"
+"CU3900","N/A","N/A","Charlotte","Chautauqua","9","70","16",,"18.5","N","20","NYRD10084","42.26780556","-79.21836111","POINT (-79.21836111 42.26780556)"
+"BM3298","N/A","N/A","Maine","Broome","7","28","-999","14","28","N","10","NYRD10007","42.18947222","-76.04127778","POINT (-76.04127778 42.18947222)"
+"BM3486","N/A","N/A","Deposit","Broome","7","400","15","90","38","N","7","NYRD10250","42.07833333","-75.42888889","POINT (-75.42888889 42.07833333)"
+"DU3899","Taconic Oaks, Lot 4, Barrett Hill Rd, East Fishkill","Barrett Hill Rd","East Fishkill","Dutchess","3","143",,,"20","N","15","NYRD10155","41.55925","-73.77316667","POINT (-73.77316667 41.55925)"
+"A2189","Lawson Lake Rd And Derbyshire Rd","Derbyshire Rd","New Scotland","Albany","4","220","2","85","39","N","12","NYRD10186","42.55183333","-73.95916667","POINT (-73.95916667 42.55183333)"
+"CB4298","223 School House Rd, Claverack","Schoolhouse Rd","Claverack","Columbia","4","605","100","145","127","N","3","NYRD10010","42.19491667","-73.73072222","POINT (-73.73072222 42.19491667)"
+"AG2207","4887 Gleason Rd, Hunt","Gleason Rd","Granger","Allegany","9","40","27","2","38","N","10","NYRD10440","42.5135","-78.00522222","POINT (-78.00522222 42.5135)"
+"CB1449","130 Vandenberg Rd, Canaan","Vandenburg Rd","Canaan","Columbia","4","640","0","250","28","N","5","NYRD10055","42.39702778","-73.42811111","POINT (-73.42811111 42.39702778)"
+"CT1985","N/A","N/A","Randolph","Cattaraugus","9","141",,,"141","N",,"NYRD10091","42.12394444","-78.99761111","POINT (-78.99761111 42.12394444)"
+"CN1877","N/A","N/A","Sherburne","Chenango","7","198",,"6","18.5","N","7","NYRD10088","42.70313889","-75.52469444","POINT (-75.52469444 42.70313889)"
+"CU1357","Carpenter-pringle Rd, Ashville","Carpenter Pringle Rd","North Harmony","Chautauqua","9","46",,"14","46","N","22","NYRD10089","42.14894444","-79.42508333","POINT (-79.42508333 42.14894444)"
+"D1736","745 Abe Boice Rd, Trout Creek","Abe Boice Rd","Tompkins","Delaware","4","485",,"480","130","N","2","NYRD10238","42.22125","-75.23161111","POINT (-75.23161111 42.22125)"
+"CB4323","225 Carpenter Rd, Ghent","Carpenter Rd","Ghent","Columbia","4","245","11","12","24","N","3","NYRD10351","42.26377778","-73.64708333","POINT (-73.64708333 42.26377778)"
+"CB3415","20 Triform Rd, Hudson","Triform Rd","Hudson","Columbia","4","340","10","10","58.5","N","7","NYRD10001","42.165","-73.73683333","POINT (-73.73683333 42.165)"
+"DU6764","Montage At East Fishkill, Site 2, East Fishkill","N/A","East Fishkill","Dutchess","3","380",,,"51","N","150","NYRD10105","41.56166667","-73.75833333","POINT (-73.75833333 41.56166667)"
+"AG1999","Rt 275, Wirt","Rt 275","Wirt","Allegany","9","55","49","50","47","N","15","NYRD10269","42.14683333","-78.12816667","POINT (-78.12816667 42.14683333)"
+"CU4012","3160 Straight Rd, Fredonia","Straight Rd","Fredonia","Chautauqua","9","95","35","35","33","N","1","NYRD10925","42.43611111","-79.2675","POINT (-79.2675 42.43611111)"
+"CL916","Town Line Rd, Saranac, Well 1","Town Line Rd","Saranac","Clinton","5","430","425","40","425","N","20","NYRD10579",,,
+"CN2897","647 Polkville Hill Rd, Norwich","Polkville Hill Rd","Norwich","Chenango","7","222","58","46","70","N","10","NYRD10081","42.49638889","-75.46527778","POINT (-75.46527778 42.49638889)"
+"DU6976","Dutchess Park Knolls, Lot 36, East Fishkill","N/A","East Fishkill","Dutchess","3","210",,,"201","N","7","NYRD10105","41.56566667","-73.80083333","POINT (-73.80083333 41.56566667)"
+"D1205","N/A","N/A","Harpersfield","Delaware","4","253",,"50","80","N","5","NYRD10258","42.41669444","-74.71508333","POINT (-74.71508333 42.41669444)"
+"D2531","1156 Dick Mason Rd, Delhi","Dick Mason Rd","Delhi","Delaware","4","580","29","140","30","N","8","NYRD10067","42.28888889","-74.94605556","POINT (-74.94605556 42.28888889)"
+"C1311","3194 Rt 11, Mcgraw","Rt 11","Cortlandville","Cortland","7","300","20","20","24.5","N","4","NYRD10080","42.561","-76.11583333","POINT (-76.11583333 42.561)"
+"DU10075","235 Middle Rd, Red Hook","Middle Rd","Red Hook","Dutchess","3","85","68","30","73","N","10","NYRD10010","41.97761111","-73.89238889","POINT (-73.89238889 41.97761111)"
+"DU7013","90 Dorn Rd, Beekman","Dorn Rd","Beekman","Dutchess","3","305","12",,"30","N","60","NYRD01695","41.63513889","-73.7025","POINT (-73.7025 41.63513889)"
+"CM1169","N/A","N/A","Horseheads","Chemung","8","50",,"11","50","N","5","NYRD10391","42.19272222","-76.79811111","POINT (-76.79811111 42.19272222)"
+"DU4718","Lot 1 Cooper Rd Extension, Carrington Const Subd","Cooper Rd Ext","Union Vale","Dutchess","3","705",,,"21","N","2","NYRD01695",,,
+"AG906","N/A","N/A","Angelica","Allegany","9","96",,"56","30.5","N","3.5","NYRD10082","42.33677778","-77.97947222","POINT (-77.97947222 42.33677778)"
+"DU5886","South Shank Dr, Lot 11, Washington","South Shank Dr","Washington","Dutchess","3","78",,"15","78","N","30","NYRD10155",,,
+"CL1002","N/A","N/A","Champlain","Clinton","5","70","51","20","52","N","12","NYRD10220","44.80083333","-73.3745","POINT (-73.3745 44.80083333)"
+"BM1260","1183 Colesville Rd, Binghamton","Colesville Rd","Colesville","Broome","7","240","70","130","78","N",,"NYRD10113","42.13958333","-75.74738889","POINT (-75.74738889 42.13958333)"
+"CN2722","N/A","N/A","Mc Donough","Chenango","7","262","194","110","193","N","5","NYRD10081","42.51386111","-75.72019444","POINT (-75.72019444 42.51386111)"
+"CU2342","2770 Straight Rd, Fredonia","Straight Rd","Sheridan","Chautauqua","9","73",,,"22.5","N","4","NYRD10050","42.43533333","-79.24163889","POINT (-79.24163889 42.43533333)"
+"A831","Tan Hollow Rd, Westerlo","Tan Hollow Rd","Westerlo","Albany","4","250","90","40","246.5","N","10","NYRD10186","42.52805556","-73.99777778","POINT (-73.99777778 42.52805556)"
+"D3428","N/A","N/A","Masonville","Delaware","4","205","51","45","52","N","7","NYRD10238","42.19561111","-75.274","POINT (-75.274 42.19561111)"
+"CB2869","N/A","N/A","Claverack","Columbia","4","325",,"80","58","N","10","NYRD10010","42.24586111","-73.69772222","POINT (-73.69772222 42.24586111)"
+"DU3415","Terra 5 Associates, Lot 3, Rombout Rd","Rombout Rd","La Grange","Dutchess","3","503",,,"20","N","0.5","NYRD10155",,,
+"DU6874","20 Cider Mill Court, Pleasant Valley","Cider Mill Ct","Pleasant Valley","Dutchess","3","402",,"65","48","N","8","NYRD10005","41.75241667","-73.78261111","POINT (-73.78261111 41.75241667)"
+"D1246","Scotch Valley Ranch Rd","Scotch Valley Ranch Rd","Stamford","Delaware","4","190","8","95","18.70000076","N","6","NYRD10039","42.329","-74.65216667","POINT (-74.65216667 42.329)"
+"D942","Well 2","N/A","Tompkins","Delaware","4","465",,"300","149","N","21","NYRD10238","42.06791667","-75.12369444","POINT (-75.12369444 42.06791667)"
+"CT1158","1432 Windfall Rd, Olean","Windfall Rd","Portville","Cattaraugus","9","90","45","69","60","N",,"NYRD10134","42.10475","-78.38519444","POINT (-78.38519444 42.10475)"
+"DU6519","75 North Farm, Dover","N/A","Dover","Dutchess","3","205",,,"128","N","20","NYRD01695","41.74188889","-73.56133333","POINT (-73.56133333 41.74188889)"
+"A2678","667 Bozenkill Rd, Altamont","Bozenkill Rd","Knox","Albany","4","400","173",,"179","N","0","NYRD10027",,,
+"CU1603","N/A","N/A","Bemus Point","Chautauqua","9","115",,,"60","N",,"NYRD10091","42.0925","-79.23344444","POINT (-79.23344444 42.0925)"
+"CT4342","4795 Rt 219, Great Valley","Rt 219","Great Valley","Cattaraugus","9","47","-999","18","45.5","N","15","NYRD10876","42.20452778","-78.64530556","POINT (-78.64530556 42.20452778)"
+"DU4689","Cooper Rd, Millerton","Cooper Rd","Millerton","Dutchess","3","610",,"110","20","N","2","NYRD10061","41.91166667","-73.55083333","POINT (-73.55083333 41.91166667)"
+"DU4167","Moccasin View Rd, Wappinger, Lot 2","Moccasin View Rd","Wappinger","Dutchess","3","683",,,"60","N","2.5","NYRD10155","41.55613889","-73.86666667","POINT (-73.86666667 41.55613889)"
+"BM1275","N/A","N/A","Kirkwood","Broome","7","160",,"47","70","N","8","NYRD10245","42.13138889","-75.81036111","POINT (-75.81036111 42.13138889)"
+"AG1803","N/A","N/A","Almond","Allegany","9","150","129","80","130.5","N","20","NYRD10294","42.33372222","-77.80602778","POINT (-77.80602778 42.33372222)"
+"CU3573","Beach Hill Rd","Beach Hill Rd","Chautauqua","Chautauqua","9","180","20",,"22.20000076","N","3","NYRD10091","42.28919444","-79.44288889","POINT (-79.44288889 42.28919444)"
+"CU1949","2416 Mezzio Rd, Forestville","Mezzio Rd","Sheridan","Chautauqua","9","90",,,"10","N","12","NYRD10050","42.45316667","-79.21975","POINT (-79.21975 42.45316667)"
+"CB3234","Fischer Rd, Kinderhook","Fischer Rd","Kinderhook","Columbia","4","140","64","30","62.5","N","25","NYRD10001","42.37716667","-73.68916667","POINT (-73.68916667 42.37716667)"
+"CN2228","1513 Co Hwy 24, Columbus","Co Hwy 24","Columbus","Chenango","7","300","105",,"103","N","10","NYRD10067","42.72272222","-75.37933333","POINT (-75.37933333 42.72272222)"
+"CB3701","154 Church Ave, Germantown","Church Ave","Germantown","Columbia","4","425","14","20","200","N","2.5","NYRD10010","42.12286111","-73.88191667","POINT (-73.88191667 42.12286111)"
+"A1943","Rt 351, Rensselaerville","Rt 351","Rensselaerville","Albany","4","200",,"63","-0.5","N","6","NYRD10525","42.47322222","-74.10741667","POINT (-74.10741667 42.47322222)"
+"CB1522","White Mills Rd Chatham Center","White Mills Rd","Chatham","Columbia","4","200",,"30","20","N","12","NYRD10055",,,
+"D3377","2221 Co Hwy 23, Walton","Co Hwy 23","Walton","Delaware","4","248","15","0","59","N","5","NYRD10178","42.21933333","-75.14777778","POINT (-75.14777778 42.21933333)"
+"CY695","Parcell Rd, Sennett","Parcel Rd","Sennett","Cayuga","7","99","63",,"62","N","30","NYRD10230","42.96338889","-76.49144444","POINT (-76.49144444 42.96338889)"
+"CT1380","N/A","N/A","East Otto","Cattaraugus","9",,,,"57","N","20","NYRD10134","42.36136111","-78.78386111","POINT (-78.78386111 42.36136111)"
+"CT3613","1542 Lillibridge Rd, Portville","Lillibridge Rd","Portville","Cattaraugus","9","130","58","91","79.80000305","N","10","NYRD10438",,,
+"CT1468","N/A","N/A","Ischua","Cattaraugus","9","95",,"52","40","N","8","NYRD10086","42.1995","-78.43019444","POINT (-78.43019444 42.1995)"
+"CN2539","N/A","N/A","Greene","Chenango","7","135","25","45","23","N","8","NYRD10439","42.34522222","-75.75552778","POINT (-75.75552778 42.34522222)"
+"D1633","N/A","N/A","Bovina","Delaware","4","507",,"160","20","N","4","NYRD10016","42.27311111","-74.79861111","POINT (-74.79861111 42.27311111)"
+"DU5559","13 Cove Rd, Hyde Park","Cove Rd","Hyde Park","Dutchess","3","610","117","40","144","N","5","NYRD10061","41.87347222","-73.92186111","POINT (-73.92186111 41.87347222)"
+"CB3203","N/A","N/A","Taghkanic","Columbia","4","305","90",,"96","N","2","NYRD10010","42.12530556","-73.72413889","POINT (-73.72413889 42.12530556)"
+"D2431","106 Little Redkill Rd, Fleischmanns","Little Redkill Rd","Fleischmanns","Delaware","4","246","4",,"38.5","N","10","NYRD10178","42.15786111","-74.53158333","POINT (-74.53158333 42.15786111)"
+"CT3272","5335 Martin Rd, Great Valley","Martin Rd","Great Valley","Cattaraugus","9","25","-999","10","23","N","12","NYRD10408","42.22691667","-78.63230556","POINT (-78.63230556 42.22691667)"
+"BM1707","N/A","N/A","Colesville","Broome","7","200",,"135","140","N",,"NYRD10439","42.14055556","-75.7695","POINT (-75.7695 42.14055556)"
+"CT2784","3816 Roszyk Hill Rd, Machias","Roszyk Hill Rd","Machias","Cattaraugus","9","140","60","31.29999924","63.40000153","N","15","NYRD10091","42.41663889","-78.52075","POINT (-78.52075 42.41663889)"
+"CB1947","N/A","N/A","Hillsdale","Columbia","4","405",,"20","21","N","10","NYRD10010","42.19572222","-73.49963889","POINT (-73.49963889 42.19572222)"
+"CT3053","12622 Wardtown Rd, Perrysburg","Wardtown Rd","Perrysburg","Cattaraugus","9","65","16","17","16.5","N","2","NYRD10050","42.51225","-79.04111111","POINT (-79.04111111 42.51225)"
+"CL887","Davidson Rd, Mooers Forks","Davidson Rd","Mooers","Clinton","5","72","48","11","67","N","150","NYRD10033",,,
+"D2568","11 Hobart Hill Rd, South Kortright","Hobart Hill Rd","Kortright","Delaware","4","200","30","50","33.5","N","5","NYRD10039","42.39166667","-74.66816667","POINT (-74.66816667 42.39166667)"
+"BM1573","200 Commercial Dr, Johnson City","Commercial Dr","Maine","Broome","7","520","110","320","120","N",,"NYRD10113","42.19977778","-75.97491667","POINT (-75.97491667 42.19977778)"
+"DU5699","Lot 23, Pine Plains","N/A","Pine Plains","Dutchess","3","410",,"3","50","N","25","NYRD10061","41.99655556","-73.72127778","POINT (-73.72127778 41.99655556)"
+"D2872","N/A","N/A","Roxbury","Delaware","4","397","5","100","19","N",,"NYRD10178","42.26819444","-74.58938889","POINT (-74.58938889 42.26819444)"
+"CU2624","5284 Morris Rd, Chautauqua","Morris Rd","Chautauqua","Chautauqua","9","120","63","10","63.5","N","20","NYRD10050",,,
+"B214","620 Truxton St, Bronx","Truxton St","Bronx","Bronx","2","807","115","6","114","N","6","NYRD01695","40.81175","-73.8925","POINT (-73.8925 40.81175)"
+"DU4016","265 Stone Church Rd, Rhinebeck","Stone Church Rd","Rhinebeck","Dutchess","3","100",,"30","50","N","5","NYRD10005",,,
+"D3711","224 Champlain Rd, Jefferson","Champlain Rd","Jefferson","Delaware","4","260","10",,"28","N","12","NYRD10067",,,
+"AG1152","N/A","N/A","Wellsville","Allegany","9","93",,"3","93","N","20","NYRD10043","42.14166667","-77.88611111","POINT (-77.88611111 42.14166667)"
+"CT2782","3808 Roszyk Hill Rd, Machias","Roszyk Hill Rd","Machias","Cattaraugus","9","120","70",,"69.80000305","N","15","NYRD10091","42.41708333","-78.52","POINT (-78.52 42.41708333)"
+"BM3201","N/A","N/A","Union","Broome","7","120","97","30","96","N","15","NYRD10452","42.13427778","-76.01861111","POINT (-76.01861111 42.13427778)"
+"D746","Bush Ridge, Fleischmanns","N/A","Fleischmanns","Delaware","4","297","13",,"30","N","12","NYRD10178","42.172","-74.49483333","POINT (-74.49483333 42.172)"
+"CL1601","40 Lakeland Drive, Champlain","Lakeland Dr","Champlain","Clinton","5","150",,,"27","N","10","NYRD10037","44.936","-73.36283333","POINT (-73.36283333 44.936)"
+"A2500","697 Middle Rd, Knox","Middle Rd","Knox","Albany","4","365","18","80","39","N","8","NYRD10351","42.68536111","-74.15375","POINT (-74.15375 42.68536111)"
+"CN1918","N/A","N/A","Bainbridge","Chenango","7","128","40","120","38.5","N","5","NYRD10238","42.34772222","-75.44469444","POINT (-75.44469444 42.34772222)"
+"CB4949","4919 Crow Hill Rd, Spencertown","Crow Hill Rd","Austerlitz","Columbia","4","1005","3",,"18","N","0.25","NYRD10351","42.30386111","-73.54758333","POINT (-73.54758333 42.30386111)"
+"CM1228","N/A","N/A","Erin","Chemung","8","180",,"70","18","N","10","NYRD10056","42.13419444","-76.66977778","POINT (-76.66977778 42.13419444)"
+"DU6807","23 Tower Hill Rd, Pawling","Tower Hill Rd","Pawling","Dutchess","3","155",,,"21","N","100","NYRD01695","41.53025","-73.53572222","POINT (-73.53572222 41.53025)"
+"A975","Curry Rd Ext","Curry Rd Ext","Guilderland","Albany","4","40",,"7.5","30","Y","14","NYRD10231","42.75805556","-73.92683333","POINT (-73.92683333 42.75805556)"
+"DU3511","Lakeview Dr, Lot 7, Millbrook","Lakeview Dr","Millbrook","Dutchess","3","705",,,"42","N","5","NYRD10105",,,
+"CT2925","9842 Mosher Rd, South Dayton","Mosher Rd","Dayton","Cattaraugus","9","20","-999",,"18.5","N","50","NYRD10084","42.429","-79.04555556","POINT (-79.04555556 42.429)"
+"CY515","Rt 90 /5/20, Aureliws","Rt 90","Aurelius","Cayuga","7","115",,"70","32","N",,"NYRD10340","42.96119444","-76.73002778","POINT (-76.73002778 42.96119444)"
+"CM885","N/A","N/A","Erin","Chemung","8","139",,,"80","N","20","NYRD10104","42.20230556","-76.66208333","POINT (-76.66208333 42.20230556)"
+"D2383","12957 St Hwy 30,","St Hwy 30","Colchester","Delaware","4","100","-999","10","98.5","N","25","NYRD10250","42.05866667","-75.01166667","POINT (-75.01166667 42.05866667)"
+"CT1825","Bunker Hill Rd, Cold Spring","Bunker Hill Rd","Cold Spring","Cattaraugus","9","96","-999","71","85","N",,"NYRD10091","42.11375","-78.88552778","POINT (-78.88552778 42.11375)"
+"AG1401","8770c Barber Rd, Rushford","Barber Rd","Rushford","Allegany","9","140",,"60","84","N","7","NYRD10408","42.3625","-78.2295","POINT (-78.2295 42.3625)"
+"C2115","2322 South Cortland Virgil Rd, Cortland","South Cortland Virgil Rd","Virgil","Cortland","7","220","21","150","19.5","N","20","NYRD10080","42.52","-76.20111111","POINT (-76.20111111 42.52)"
+"DU7353","N/A","N/A","Milan","Dutchess","3","300","45","30","58.5","N","8","NYRD10025","41.76575","-73.78688889","POINT (-73.78688889 41.76575)"
+"BM3250","N/A","N/A","Colesville","Broome","7","262","28","15","40","N","6","NYRD10081","42.16130556","-75.74011111","POINT (-75.74011111 42.16130556)"
+"CM1286","N/A","N/A","Van Etten","Chemung","8","123",,"53","43","N","17","NYRD10838","42.44580556","-76.99469444","POINT (-76.99469444 42.44580556)"
+"D1373","N/A","N/A","Middletown","Delaware","4","497",,"297","30","N","2","NYRD10178","42.24416667","-74.689","POINT (-74.689 42.24416667)"
+"CB3496","N/A","N/A","Austerlitz","Columbia","4","505","50",,"54","N","0.330000013","NYRD10010","42.34983333","-73.53577778","POINT (-73.53577778 42.34983333)"
+"CU1230","12224 Hanford Rd, Silver Creek","Hanford Rd","Hanover","Chautauqua","9","55","-999","0","55","N","10","NYRD10050","42.53633333","-79.14147222","POINT (-79.14147222 42.53633333)"
+"D1231","Peaks Brook Rd, Delhi","Peaks Brook Rd","Delhi","Delaware","4","108",,"23","46","N","10","NYRD10159","42.28233333","-74.9635","POINT (-74.9635 42.28233333)"
+"AG987","Cty Rt 4","Co Rt 4","Granger","Allegany","9","60","28","31","40.90000153","N","10","NYRD10082","42.45161111","-78.06758333","POINT (-78.06758333 42.45161111)"
+"D2621","Lew Beach Rd, Andes","Lew Beach Rd","Andes","Delaware","4","180","38",,"50","N","20","NYRD10016",,,
+"DU7558","231 Ressoque Rd, East Fishkill","Ressoque Rd","East Fishkill","Dutchess","3","120","20",,"40","N","30","NYRD01695","41.50988889","-73.71586111","POINT (-73.71586111 41.50988889)"
+"A2580","4237 River Rd, Latham","River Rd","Colonie","Albany","4","362","120","60","118","N","3","NYRD10005","42.78033333","-73.78986111","POINT (-73.78986111 42.78033333)"
+"CN1801","Well A","N/A","Afton","Chenango","7","307","303","25","301.5","N","40","NYRD10238","42.23980556","-75.49630556","POINT (-75.49630556 42.23980556)"
+"CB1583","Mcnamee Rd Canaan","Mcnamee Rd","Canaan","Columbia","4","600","164",,"168","N","0.25","NYRD10055","42.40008333","-73.41802778","POINT (-73.41802778 42.40008333)"
+"D3647","N/A","N/A","Hancock","Delaware","4","420","48","107","58.5","N","6","NYRD10298","42.04213889","-75.30116667","POINT (-75.30116667 42.04213889)"
+"CU3584","4899 Van Buren Rd, Pomfret","Van Buren Rd","Pomfret","Chautauqua","9","50","26",,"26.5","N","20","NYRD10050","42.44516667","-79.37963889","POINT (-79.37963889 42.44516667)"
+"CB4990","320 Viewmont Rd, Germantown","Viewmont Rd","Germantown","Columbia","4","300","10","70","18","N","20","NYRD10005","42.12222222","-73.87","POINT (-73.87 42.12222222)"
+"CN2706","Benedict Rd","Benedict Rd","Afton","Chenango","7","200","160","95","158.5","N","7","NYRD10439","42.30572222","-75.58316667","POINT (-75.58316667 42.30572222)"
+"D774","N/A","N/A","Roxbury","Delaware","4","597",,"175","20","N","6","NYRD10178","42.32466667","-74.56816667","POINT (-74.56816667 42.32466667)"
+"BM3139","N/A","N/A","Conklin","Broome","7","129","37","45","41","N","14","NYRD10007","42.04094444","-76.82905556","POINT (-76.82905556 42.04094444)"
+"C1635","N/A","N/A","Cortlandville","Cortland","7","298","18","70","19","N","3","NYRD10110","42.59258333","-76.12763889","POINT (-76.12763889 42.59258333)"
+"A1739","Cross Rd, East Berne","Cross Rd","Berne","Albany","4","402",,"150","58","N","1","NYRD10005","42.56111111","-74.16652778","POINT (-74.16652778 42.56111111)"
+"DU6734","375 Bog Hollow Rd, Wassaic","Bog Hollow Rd","Amenia","Dutchess","3","305",,,"20","N","45","NYRD01695","41.771","-73.51466667","POINT (-73.51466667 41.771)"
+"D2360","Mc Culley Heights, Davenport","Mcculley Heights","Davenport","Delaware","4","340","4",,"28.5","N","5","NYRD10067",,,
+"CU1695","5550 Berry Rd, Fredonia","Berry Rd","Fredonia","Chautauqua","9",,,,"13","N","2","NYRD10518","42.43683333","-79.41741667","POINT (-79.41741667 42.43683333)"
+"CM1950","101 Short Hills Dr, Horseheads","Short Hills Dr","Horseheads","Chemung","8","58","-999",,"58","N","30","NYRD10024",,,
+"CU2836","N/A","N/A","Clymer","Chautauqua","9","85",,,"71","N","20","NYRD10084","42.02161111","-79.61291667","POINT (-79.61291667 42.02161111)"
+"D974","16668 St Hwy 206, Walten","St Hwy 206","Walton","Delaware","4","398","29",,"38.5","N","2","NYRD10178","42.185","-75.14983333","POINT (-75.14983333 42.185)"
+"CB2403","345 Wiltsie Bridge Rd, Ancram","Wiltsie Bridge Rd","Ancram","Columbia","4","320",,"20","20","N","6","NYRD10001","42.06272222","-73.58830556","POINT (-73.58830556 42.06272222)"
+"D2766","821 Stonehouse Rd, Kortright","Stonehouse Rd","Kortright","Delaware","4","270","45","185","43.5","N","30","NYRD10039","42.43","-74.80527778","POINT (-74.80527778 42.43)"
+"D1703","N/A","N/A","Middletown","Delaware","4","398",,,"38.5","N","10","NYRD10178","42.1805","-74.63","POINT (-74.63 42.1805)"
+"AG916","N/A","N/A","Belfast","Allegany","9","79",,"37","79","N","15","NYRD10082","42.34875","-78.07755556","POINT (-78.07755556 42.34875)"
+"CT828","7420 Peters Rd","Peters Rd","Ashford","Cattaraugus","9","36","-999","15","34.5","N","7","NYRD10050","42.45880556","-78.72088889","POINT (-78.72088889 42.45880556)"
+"DU5818","N/A","N/A","Red Hook","Dutchess","3","42",,"28","42","N","18","NYRD10025","41.99605556","-73.85297222","POINT (-73.85297222 41.99605556)"
+"D3601","1935 Mcarthur Hill Rd, Bloomville","Mcarthur Hill Rd","Kortright","Delaware","4","298","3","30","29","N","4","NYRD10178","42.37902778","-74.76219444","POINT (-74.76219444 42.37902778)"
+"CT3106","Horn Hill, Well 3","Horn Hill","Ellicottville","Cattaraugus","9","260","35",,"50.70000076","N",,"NYRD10091",,,
+"CT3929","3718 Bakerstand Rd, Franklinville","Bakerstand Rd","Franklinville","Cattaraugus","9","120","52","35","50","N","15","NYRD10408","42.33736111","-78.50930556","POINT (-78.50930556 42.33736111)"
+"D3409","160 Murad Rd, Margaretville","Murad Rd","Margaretville","Delaware","4","280","18","25","35","N","3","NYRD10178","42.17944444","-74.60111111","POINT (-74.60111111 42.17944444)"
+"BM2658","N/A","N/A","Fenton","Broome","7","85","85","25","83","N","15","NYRD10439","42.16552778","-75.83883333","POINT (-75.83883333 42.16552778)"
+"CB4745","16 Co Rt 8, Ancramdale","Co Rt 8","Ancram","Columbia","4","45","-999",,"39","N","10","NYRD10010","42.01736111","-73.5915","POINT (-73.5915 42.01736111)"
+"C1655","N/A","N/A","Cortlandville","Cortland","7","40","-999","10","39","N","30","NYRD10110","42.59277778","-76.11719444","POINT (-76.11719444 42.59277778)"
+"CU1351","Shadtside Rd","Co Rd 30","Busti","Chautauqua","9","100",,"26","41.25","N","12","NYRD10089","42.06255556","-79.31388889","POINT (-79.31388889 42.06255556)"
+"CM1568","144 Greenridge Dr, Horseheads","Greenridge Dr","Horseheads","Chemung","8","52","-999","36","51.5","N","13","NYRD10096","42.19422222","-76.82544444","POINT (-76.82544444 42.19422222)"
+"CT1253","6763 South Center Rd, Lyndon","South Center Rd","Lyndon","Cattaraugus","9","100",,"40","70","N","10","NYRD10408","42.29508333","-78.35397222","POINT (-78.35397222 42.29508333)"
+"CB3755","531 Rt 32, Valatie","Rt 32","Chatham","Columbia","4","300","29","10","29","N","10","NYRD10002","42.47625","-73.63830556","POINT (-73.63830556 42.47625)"
+"BM3351","1453 Caldwell Hill Rd, Lisle","Caldwell Hill Rd","Lisle","Broome","7","125","97","15","8","N","14","NYRD10169",,,
+"CT3698","10577 Mckinstry Rd, Delevan","Mckinstry Rd","Delevan","Cattaraugus","9","103","-999","38","101","N","10","NYRD10408","42.46375","-78.50966667","POINT (-78.50966667 42.46375)"
+"CY1873","103 Fire Lane 19, Moravia","Fire Ln 19","Moravia","Cayuga","7","110","20","8","19.29999924","N","1","NYRD10230","42.4835","-76.29188889","POINT (-76.29188889 42.4835)"
+"C2268","5212 Piety Hill Rd, Cincinnatus","Piety Hill Rd","Cincinnatus","Cortland","7","200","41","50","39.5","N","6","NYRD10080","42.53222222","-75.93194444","POINT (-75.93194444 42.53222222)"
+"D1808","N/A","N/A","Colchester","Delaware","4","598",,,"30","N","20","NYRD10178","42.0355","-74.88783333","POINT (-74.88783333 42.0355)"
+"CU1541","312 Frew Run, Frewsburg","Frew Run","Carroll","Chautauqua","9","194",,"185","178","N",,"NYRD10203","42.03591667","-79.08236111","POINT (-79.08236111 42.03591667)"
+"CU2058","N/A","N/A","Ellery","Chautauqua","9","75",,"65","68","N","25","NYRD10203","42.12397222","-79.32630556","POINT (-79.32630556 42.12397222)"
+"CT1749","N/A","N/A","East Otto","Cattaraugus","9","92",,"26","60","N","15","NYRD10134","42.43805556","-78.7675","POINT (-78.7675 42.43805556)"
+"AG1976","N/A","N/A","Rushford","Allegany","9",,"-999",,"24.5","N","15","NYRD10082","42.39305556","-78.25330556","POINT (-78.25330556 42.39305556)"
+"CN1262","281 Robinson Rd, Bainbridge","Robinson Rd","Bainbridge","Chenango","7","360",,"170","29","N","10","NYRD10080","42.38527778","-75.44666667","POINT (-75.44666667 42.38527778)"
+"CT3324","475 White House Rd, Portville","White House Rd","Portville","Cattaraugus","9",,"-999","20","55","N","10","NYRD10269","42.02666667","-78.33233333","POINT (-78.33233333 42.02666667)"
+"CT2255","11397 Van Gilder Rd, Delevan","Van Gilder Rd","Yorkshire","Cattaraugus","9","140","105","0","118","N","100","NYRD10408","42.49277778","-78.52427778","POINT (-78.52427778 42.49277778)"
+"BM1154","1425 Mill Rd, Binghamton","Mill Rd","Binghamton","Broome","7","500","1",,"28.5","N","3","NYRD10113","42.07116667","-75.88833333","POINT (-75.88833333 42.07116667)"
+"C1399","1027 Bennie Rd","Bennie Rd","Cortlandville","Cortland","7","140","70","30","73.5","N","30","NYRD10080","42.56663889","-76.20655556","POINT (-76.20655556 42.56663889)"
+"D3747","222 Hog Mountain Circle, Fleishmanns","Hog Mountain Circle","Fleischmanns","Delaware","4","397","23",,"49","N","6","NYRD10178","42.17427778","-74.57741667","POINT (-74.57741667 42.17427778)"
+"A2176","1231 Cedar Grove Rd, Selkirk","Cedar Grove Rd","New Scotland","Albany","4","410","10","30","22","N","0.5","NYRD10186","42.53580556","-73.90730556","POINT (-73.90730556 42.53580556)"
+"C1126","N/A","N/A","Homer","Cortland","7","280",,"12","27","N","20","NYRD10059","42.66666667","-76.24361111","POINT (-76.24361111 42.66666667)"
+"CM1024","1636 Pennsylvania Ave, Pine City","Pennsylvania Ave","Southport","Chemung","8","90","-999","20","88.5","N","30","NYRD10036","42.02644444","-76.884","POINT (-76.884 42.02644444)"
+"A2643","268 Jarvis Rd North, Ravena","Jarvis Rd","Ravena","Albany","4","322","1","32","18","N","5","NYRD10005","42.50333333","-73.84508333","POINT (-73.84508333 42.50333333)"
+"CY1302","1166 Rt 41a, Cortland","Rt 41a","Summerhill","Cayuga","7","100","31","12","29.5","N","10","NYRD10080","42.67347222","-76.27002778","POINT (-76.27002778 42.67347222)"
+"CM1050","797 Veteran Hill Rd, Horseheads","Veteran Hill Rd","Veteran","Chemung","8","215","49",,"58.5","N","9.5","NYRD10036","42.23766667","-76.7795","POINT (-76.7795 42.23766667)"
+"DU4995","Well 2","N/A","East Fishkill","Dutchess","3",,,,"70","N",,"NYRD10118","41.55433333","-73.74188889","POINT (-73.74188889 41.55433333)"
+"CB1410","393 Maple Dr East Chatham","Maple Dr","Canaan","Columbia","4","400","14","35","28.5","N","3.5","NYRD10055","42.404","-73.47733333","POINT (-73.47733333 42.404)"
+"CY792","2616 Manrow Rd, Auburn","Manrow Rd","Sennett","Cayuga","7","121","104","27","105","N","60","NYRD10110","42.99383333","-76.56777778","POINT (-76.56777778 42.99383333)"
+"DU6626","N/A","N/A","Milan","Dutchess","3","165",,"23","25","N","10","NYRD10025","41.95363889","-73.76022222","POINT (-73.76022222 41.95363889)"
+"CM1090","Latta Brooke Rd, Latta Brooke Industrial Park, Horseheads","Latta Brooke Rd","Horseheads","Chemung","8","248","153",,"144","N",,"NYRD10183","42.14733333","-76.80633333","POINT (-76.80633333 42.14733333)"
+"CB2631","N/A","N/A","Claverack","Columbia","4","345",,,"30","N","5","NYRD10010","42.24266667","-73.73344444","POINT (-73.73344444 42.24266667)"
+"CU2361","10071 Miller Rd, Fredonia","Miller Rd","Pomfret","Chautauqua","9","50",,"8","10.5","N","2","NYRD10518","42.43805556","-79.27666667","POINT (-79.27666667 42.43805556)"
+"D3101","Well 1","Rt 10","Delhi","Delaware","4","118","120","26.21999931","123.5999985","Y","1000","NYRD10233","42.24055556","-74.96477778","POINT (-74.96477778 42.24055556)"
+"CT2815","N/A","N/A","Olean","Cattaraugus","9","53","-999",,"53","N","15","NYRD10269","42.11216667","-78.41666667","POINT (-78.41666667 42.11216667)"
+"CL2242","N/A","N/A","Schuyler Falls","Clinton","5","303","54","9","54","N","5","NYRD10179","44.51472222","-73.76611111","POINT (-73.76611111 44.51472222)"
+"CU3417","N/A","N/A","Ellery","Chautauqua","9","34","-999","7","34","N","12","NYRD10091","42.11972222","-79.30844444","POINT (-79.30844444 42.11972222)"
+"CU2545","3928 Fluvanna-townline Rd, Jamestown, Ellicott","Fluvanna Townline Rd","Ellicott","Chautauqua","9","85",,"30","23.5","N","20","NYRD10050","42.16797222","-79.29316667","POINT (-79.29316667 42.16797222)"
+"A1435","Old Stage Rd","Old Stage Rd","Knox","Albany","4","458",,"67.5","40","N","5","NYRD10027",,,
+"DU7288","Lot 2, 3056 Rt 82, Verbank","Rt 82","Union Vale","Dutchess","3","505",,,"15","N","5","NYRD10155","41.72041667","-73.74036111","POINT (-73.74036111 41.72041667)"
+"D2638","South Montgomery Hollow, Roxbury","South Montgomery Hollow","Roxbury","Delaware","4","598","33",,"48.5","N","2","NYRD10178","42.29919444","-74.53469444","POINT (-74.53469444 42.29919444)"
+"BM2628","N/A","N/A","Colesville","Broome","7","180","20","45","18.70000076","N","10","NYRD10439","42.19536111","-75.70194444","POINT (-75.70194444 42.19536111)"
+"CB3565","53 Main St, Lebanon Springs","Main St","New Lebanon","Columbia","4","250","20",,"79","N","6","NYRD10055","42.47838889","-73.36858333","POINT (-73.36858333 42.47838889)"
+"CB4487","170 White Birch Rd, Hudson","White Birch Rd","Livingston","Columbia","4","345","10","0","20","N","15","NYRD10010","42.19194444","-73.82902778","POINT (-73.82902778 42.19194444)"
+"DU7239","184 Rt 216, Stormville","Rt 216","East Fishkill","Dutchess","3","220",,,"60","N","5","NYRD10261","41.57061111","-73.74766667","POINT (-73.74766667 41.57061111)"
+"AG2124","N/A","N/A","Wellsville","Allegany","9","73","43","22","53","N","25","NYRD10043","42.08919444","-78.06961111","POINT (-78.06961111 42.08919444)"
+"A2533","Picard Rd, Lot 5","Picard Rd","New Scotland","Albany","4","89","-999","12.5","89","N","10","NYRD10027","42.6325","-73.96861111","POINT (-73.96861111 42.6325)"
+"CL413","N/A","N/A","Beekmantown","Clinton","5","175",,,"10","N","10","NYRD10212","44.79388889","-73.49416667","POINT (-73.49416667 44.79388889)"
+"BM2033","N/A","N/A","Binghamton","Broome","7","349",,"100","70","N","5","NYRD10081","42.17333333","-75.90958333","POINT (-75.90958333 42.17333333)"
+"CU3269","N/A","N/A","Clymer","Chautauqua","9","62","35",,"33.5","N","50","NYRD10084","42.05408333","-79.6155","POINT (-79.6155 42.05408333)"
+"A1161","N/A","N/A","Westerlo","Albany","4",,,,"41","N","5","NYRD10133","42.54069444","-74.09730556","POINT (-74.09730556 42.54069444)"
+"D2738","306 Peters Rd, Stamford","Peters Rd","Harpersfield","Delaware","4","300","50","125","58.5","N","3","NYRD10039","42.37383333","-74.65733333","POINT (-74.65733333 42.37383333)"
+"CL540","724 Standish Rd, Saranac","Standish Rd","Saranac","Clinton","5","99",,,"50","N","15","NYRD10087","44.6145","-73.89772222","POINT (-73.89772222 44.6145)"
+"C1931","Lot 3, Song Lake View, Tully","Song Lake View","Preble","Cortland","7","49","-999","18","49","N","15","NYRD10613","42.766","-76.1485","POINT (-76.1485 42.766)"
+"CU4713","4825 Chautauqua Ave, Ellery","Chautauqua Ave","Ellery","Chautauqua","9","36","-999","22",,"N","4","NYRD10050","42.19955556","-79.42391667","POINT (-79.42391667 42.19955556)"
+"CL426","N/A","N/A","Beekmantown","Clinton","5","330",,"2","20","N","4","NYRD10179","44.77722222","-73.47722222","POINT (-73.47722222 44.77722222)"
+"C1601","Midlum Spur Rd, Cuyler","Midlum Spur Rd","Cuyler","Cortland","7","198","20","21","28.5","N","3","NYRD10088","42.71844444","-75.92852778","POINT (-75.92852778 42.71844444)"
+"CT2817","6720 Foxturn Rd, Conewango","Foxturn Rd","Leon","Cattaraugus","9","25","-999","13","25","N","5","NYRD10050","42.29130556","-79.01613889","POINT (-79.01613889 42.29130556)"
+"D1414","Lower Meeker Hollow Rd","Lower Meeker Hollow Rd","Roxbury","Delaware","4","160",,,"45","N","5","NYRD10020",,,
+"CL1728","North Star Rd, Mooers","North Star Rd","Mooers","Clinton","5","124","15","7","21","N","23","NYRD10033",,,
+"CL2244","Fournier Rd, Plattsburgh","Fournier Rd","Beekmantown","Clinton","5","102","30",,"33","N","20","NYRD10182","44.78930556","-73.45547222","POINT (-73.45547222 44.78930556)"
+"AG2277","7394 Haskins Rd, Belfast","Haskins Rd","Belfast","Allegany","9","100","48","65","49","N","6","NYRD10269","42.32283333","-78.19166667","POINT (-78.19166667 42.32283333)"
+"CL2735","59 Union Falls Rd, Ausable Forks","Union Falls Rd","Black Brook","Clinton","5","420","145",,"145","N","21","NYRD10037","44.51605556","-73.86825","POINT (-73.86825 44.51605556)"
+"CM1839","3056 Robinson Rd, Wellsburg","Robinson Rd","Ashland","Chemung","8","116","21","51","25","N","7","NYRD10405","42.00302778","-76.70091667","POINT (-76.70091667 42.00302778)"
+"AG1086","N Almond Valley Rd","North Almond Valley Rd","Birdsall","Allegany","9","155",,,"40","N",,"NYRD10070","42.36502778","-77.82869444","POINT (-77.82869444 42.36502778)"
+"A2348","Copeland Hill Rd And Co Rt 396","Copeland Hill Rd","Coeymans","Albany","4","305","7","40","39","N","15","NYRD10525",,,
+"CB4585","346 Craryville Rd, Hillsdale","Craryville Rd","Hillsdale","Columbia","4","87",,,"81","N","8","NYRD10351","42.17563889","-73.58222222","POINT (-73.58222222 42.17563889)"
+"CB4707","66 Crow Hill Rd, Hillsdale","Crow Hill Rd","Hillsdale","Columbia","4","245","8",,"19","N","5","NYRD10351","42.11483333","-73.63413889","POINT (-73.63413889 42.11483333)"
+"DU4531","21 Mt View Dr, Pleasant Valley","Mountainview Dr","La Grange","Dutchess","3","505",,,"101","N","5","NYRD01695","41.69444444","-73.81986111","POINT (-73.81986111 41.69444444)"
+"CL1571","N/A","N/A","Peru","Clinton","5","85",,"15","34","N","10","NYRD10761","44.52527778","-73.6025","POINT (-73.6025 44.52527778)"
+"A2326","Well 3, Bullock Rd, Slingerlands","Bullock Rd","New Scotland","Albany","4","300","52",,"54.5","N","2.099999905","NYRD10002","42.61711111","-73.91986111","POINT (-73.91986111 42.61711111)"
+"DU7606","Lot 8","N/A","Beekman","Dutchess","3","140","28","20","59","N","10","NYRD10751","41.63016667","-73.67388889","POINT (-73.67388889 41.63016667)"
+"AG1627","7814 Stone Spring Rd, Hume","Stone Spring Rd","Hume","Allegany","9","46",,"27","46","N","20","NYRD10082","42.50358333","-78.18008333","POINT (-78.18008333 42.50358333)"
+"DU7262","Lot 4, Test Well 1, Tompkins Rd, Unionvale","Tompkins Rd","Union Vale","Dutchess","3","680",,,"23","N","0.5","NYRD01695",,,
+"AG1638","10 Hancock Rd, Centerville","Hancock Rd","Centerville","Allegany","9","68",,"41","47.5","N","12","NYRD10082","42.47291667","-78.23486111","POINT (-78.23486111 42.47291667)"
+"CB2077","3608 Rt 203, Valatie","Rt 203","Valatie","Columbia","4","182",,"20","38","N","4","NYRD10001","42.44083333","-73.64722222","POINT (-73.64722222 42.44083333)"
+"BM1719","N/A","N/A","Fenton","Broome","7","135",,"15","40","N","10","NYRD10439","42.22569444","-75.79055556","POINT (-75.79055556 42.22569444)"
+"AG2454","7889 Peavy Rd, Angelica","Peavy Rd","Angelica","Allegany","9","110","94","50","94.5","N","12","NYRD10082","42.34361111","-78.04261111","POINT (-78.04261111 42.34361111)"
+"BM1162","Kales Hill Rd","Kales Hill Rd","Triangle","Broome","7","223","71","61","71","N","8","NYRD10110","42.34775","-75.93916667","POINT (-75.93916667 42.34775)"
+"CT2132","N/A","N/A","Ellicottville","Cattaraugus","9","92",,"55","38","N","20","NYRD10134","42.30222222","-78.64836111","POINT (-78.64836111 42.30222222)"
+"BM1577","Twining Rd, Maine","Twining Rd","Johnson City","Broome","7","155",,"25","8.25","N","10","NYRD10169",,,
+"CM1705","24 Gunderman Rd, Elmira","Gunderman Rd","Elmira","Chemung","8","212","23","138","21.5","N","15","NYRD10096","42.0615","-76.462","POINT (-76.462 42.0615)"
+"CY1047","N/A","N/A","Moravia","Cayuga","7","200","70",,"32","N","0","NYRD10372","42.76713889","-76.45461111","POINT (-76.45461111 42.76713889)"
+"CB4094","Prach Rd","Prach Rd","Claverack","Columbia","4","305","51","15","61","N","18","NYRD10010","42.22102778","-73.62877778","POINT (-73.62877778 42.22102778)"
+"CT2616","Lot 12, Creekridge Rd, Ellicottville","Creek Ridge Rd","Ellicottville","Cattaraugus","9","160",,"60","60","N",,"NYRD10009",,,
+"CN2341","122 Bundy Rd, New Berlin","Bundy Rd","New Lisbon","Otsego","4","260","110",,"110","N",,"NYRD10067","42.63966667","-75.20566667","POINT (-75.20566667 42.63966667)"
+"D3730","Rathbun Rd And Houghtaling Hollow Rd, East Meredith","Rathbun Rd","Davenport","Delaware","4","280","48",,"58","N","20","NYRD10067","42.40833333","-74.93708333","POINT (-74.93708333 42.40833333)"
+"DU7479","N/A","N/A","Beekman","Dutchess","3","325",,"80","310","N","30","NYRD10121","41.59761111","-73.68013889","POINT (-73.68013889 41.59761111)"
+"AG2757","6001 Billings Hill Rd, Scio","Billings Hill Rd","Scio","Allegany","9","130",,"75","29","N",,"NYRD10043","42.2055","-78.12863889","POINT (-78.12863889 42.2055)"
+"CB3960","Dahlgren Rd, Kinderhook","Dahlgren Rd","Kinderhook","Columbia","4","105","103","0","100","Y","100","NYRD10055","42.43691667","-73.71186111","POINT (-73.71186111 42.43691667)"
+"DU4413","76 Christine Ct","Christine Ct","East Fishkill","Dutchess","3","305",,,,"N","8","NYRD01695",,,
+"CN1289","Rt 80, Sherburne","Rt 80","Sherburne","Chenango","7","70","-999",,"68","N","3","NYRD10521",,,
+"DU7204","N/A","N/A","Amenia","Dutchess","3","805",,"78","21","N","6","NYRD10194","41.85513889","-73.58858333","POINT (-73.58858333 41.85513889)"
+"A1891","8 Jani Ln, Voorheesville","Jani Ln","New Scotland","Albany","4","133","-999","83.5","133","N","25","NYRD10027","42.66397222","-73.94377778","POINT (-73.94377778 42.66397222)"
+"BM1042","Thorn Hill Rd","Thorn Hill Rd","Colesville","Broome","7","190","60","55","58.5","N","13","NYRD10439","42.14502778","-75.547","POINT (-75.547 42.14502778)"
+"C1064","6054 Rt 281","Rt 281","Homer","Cortland","7","28",,"12","28","N","12","NYRD10080","42.69833333","-76.16216667","POINT (-76.16216667 42.69833333)"
+"BM1593","281 Bull Creek Rd","Bull Creek Rd","Barker","Broome","7","135",,"26","78","N","9","NYRD10647",,,
+"CT1114","9397 Forty Rd, Cattaraugus","Forty Rd","Otto","Cattaraugus","9","72","22","23","38","N",,"NYRD10134","42.41772222","-78.84766667","POINT (-78.84766667 42.41772222)"
+"CU1308","N/A","N/A","Mayville","Chautauqua","9","52",,"10","52","N","30","NYRD10203","42.19138889","-79.44833333","POINT (-79.44833333 42.19138889)"
+"CB4196","1354 Co Rt 7, Ancram","Co Rt 7","Ancram","Columbia","4","300","53","40","58.5","N","2","NYRD10001","42.05258333","-73.63363889","POINT (-73.63363889 42.05258333)"
+"DU6906","South Parliament Rd, Well 1, Union Vale","South Parliament Rd","Union Vale","Dutchess","3","270",,,"51","N","40","NYRD10105","41.65983333","-73.72433333","POINT (-73.72433333 41.65983333)"
+"CN2641","N/A","N/A","Afton","Chenango","7","120","40","6","38","N","10","NYRD10439","42.26297222","-75.57691667","POINT (-75.57691667 42.26297222)"
+"DU7294","90 Old Rt 52, East Fishkill","Old Rt 52","East Fishkill","Dutchess","3","205",,,"63","N","30","NYRD01695","41.56869444","-73.74363889","POINT (-73.74363889 41.56869444)"
+"CB5138","205 Viewmont Rd, Germantown","Viewmont Rd","Germantown","Columbia","4","430",,"20","40","N","4","NYRD10351","42.11277778","-73.86969444","POINT (-73.86969444 42.11277778)"
+"AG1680","7057 Mt Monroe Rd, Cuba","Mount Monroe Rd","New Hudson","Allegany","9","120","12","86","21.5","N","10","NYRD10082","42.30805556","-78.28383333","POINT (-78.28383333 42.30805556)"
+"CB4981","880 Carlson Rd, Craryville","Carlson Rd","Claverack","Columbia","4","105","45","40","65","N","20","NYRD10010","42.20788889","-73.62738889","POINT (-73.62738889 42.20788889)"
+"CT3066","N/A","N/A","Leon","Cattaraugus","9","180","120",,"118.3000031","N",,"NYRD10091","42.27227778","-78.95011111","POINT (-78.95011111 42.27227778)"
+"DU7081","10 Orchard Place, Hopewell Junction","Orchard Pl","East Fishkill","Dutchess","3","305",,,"50","N","3","NYRD01695","41.58230556","-73.80752778","POINT (-73.80752778 41.58230556)"
+"A1119","N/A","N/A","Berne","Albany","4","120",,,"43","N","10","NYRD10133","42.59722222","-74.01480556","POINT (-74.01480556 42.59722222)"
+"AG1674","N/A","N/A","Cuba","Allegany","9","38",,"25","38","N","15","NYRD10269","42.2415","-78.308","POINT (-78.308 42.2415)"
+"CB3356","Pioneer Dr, Copake, Lot 2","Pioneer Dr","Copake","Columbia","4","340","90","20","98.5","N","4","NYRD10001","42.0995","-73.58883333","POINT (-73.58883333 42.0995)"
+"AG2406","N/A","N/A","Bolivar","Allegany","9","125","82","90","86","N","8","NYRD10269","42.04919444","-78.13944444","POINT (-78.13944444 42.04919444)"
+"D3663","Rt 10, Stamford","Rt 10","Stamford","Delaware","4","398","15",,"29","N","30","NYRD10178","42.43277778","-74.59322222","POINT (-74.59322222 42.43277778)"
+"AG1417","Co Rt 26","Co Rt 26","Belfast","Allegany","9","130",,"30","130","N","5","NYRD10377",,,
+"BM2022","4279 St Rt 26, Whitney Point","St Rt 26","Whitney Point","Broome","7","80",,"9","9","N","6","NYRD10169",,,
+"CY874","3193 Oak Hill Rd, Moravia","Oak Hill Rd","Moravia","Cayuga","7","120","45","40","45.5","N","12","NYRD10080","42.77113889","-76.42627778","POINT (-76.42627778 42.77113889)"
+"D3510","20 Co Rd 18, Delhi","Co Rd 18","Delhi","Delaware","4","500","15",,"119","N","1","NYRD10178","42.28838889","-74.90030556","POINT (-74.90030556 42.28838889)"
+"DU6264","470 Sharon Station Rd, Millerton","Sharon Station Rd","Northeast","Dutchess","3","310",,"31","40","N","12","NYRD10061","41.88422222","-73.5135","POINT (-73.5135 41.88422222)"
+"CL377","N/A","N/A","Dannemora","Clinton","5","330",,"25","30","N","3","NYRD10179","44.74166667","-73.81444444","POINT (-73.81444444 44.74166667)"
+"BM3386","1749-1875 Rt 12, Binghamton","Rt 12","Chenango","Broome","7","125","94",,"94","N","20","NYRD10967","42.19383333","-75.87586111","POINT (-75.87586111 42.19383333)"
+"D3568","547 Wilcox Rd, Harpersfield","Wilcox Rd","Harpersfield","Delaware","4","348","348","75","19","N","5","NYRD10178","42.44366667","-74.68605556","POINT (-74.68605556 42.44366667)"
+"CU1802","5030 Luce Rd, Ellery","Luce Rd","Ellery","Chautauqua","9","100","68","20","66","N","30","NYRD10203","42.21980556","-79.38772222","POINT (-79.38772222 42.21980556)"
+"CY664","5622 Ensenore Rd, Auburn","Ensenore Rd","Scipio","Cayuga","7","33",,"6","33","N","20","NYRD10340",,,
+"CT3263","903 Parkside Dr, Limestone","Parkside Dr","Limestone","Cattaraugus","9","101","-999","30","99","N","7","NYRD10408","42.04172222","-78.64269444","POINT (-78.64269444 42.04172222)"
+"CT2285","N/A","N/A","Allegany","Cattaraugus","9","40","-999",,"40","N","10","NYRD10269","42.09666667","-78.50883333","POINT (-78.50883333 42.09666667)"
+"AG1440","N/A","N/A","Alfred","Allegany","9","135",,"48","107","N","18","NYRD10043","42.25233333","-77.751","POINT (-77.751 42.25233333)"
+"D2448","Well 1","N/A","Colchester","Delaware","4","80",,,"78.5","N","50","NYRD10178","42.05880556","-75.01219444","POINT (-75.01219444 42.05880556)"
+"A2627","00 Bullock Rd, Slingerlands","Bullock Rd","New Scotland","Albany","4","200","133","60","133","Y","2.900000095","NYRD10002","42.61805556","-73.92138889","POINT (-73.92138889 42.61805556)"
+"CU1754","982 Wheelock Rd, Kennedy","Wheelock Rd","Poland","Chautauqua","9","97","-999","5","97","N","25","NYRD10203","42.15211111","-79.11486111","POINT (-79.11486111 42.15211111)"
+"CB2040","159 Tunnel Hill Rd, Canaan","Tunnel Hill Rd","Canaan","Columbia","4","602",,"60","40","N","6","NYRD10005","42.38091667","-73.44602778","POINT (-73.44602778 42.38091667)"
+"D2285","Ed Wright Rd","Ed Wright Rd","Hamden","Delaware","4","175","23",,"22.5","N","10","NYRD10020",,,
+"CM1650","719 Ridge Rd, Horseheads","Ridge Rd","Veteran","Chemung","8","160","15",,"24","N","15","NYRD10024","42.23075","-76.80686111","POINT (-76.80686111 42.23075)"
+"BM2119","299 Kattleville Rd, Kattellville","Kattleville Rd","Chenango","Broome","7","118","-999",,"116.5","N","30","NYRD10245","42.19436111","-75.86041667","POINT (-75.86041667 42.19436111)"
+"AG1329","Rozuk Rd, Genesee","Rozuk Rd","Genesee","Allegany","9","167",,,"51","N","24","NYRD10535",,,
+"DU7440","Pleasant Ridge Subd, Lot 27, 55 Valley View Rd, Pleasant Valley","Valley View Rd","Pleasant Valley","Dutchess","3","403","4","30","18","N","5","NYRD10155","41.75977778","-73.7975","POINT (-73.7975 41.75977778)"
+"DU5672","N/A","N/A","East Fishkill","Dutchess","3","300",,"19","50","N","15","NYRD10194","41.53219444","-73.7395","POINT (-73.7395 41.53219444)"
+"BM2681","N/A","N/A","Chenango","Broome","7","140","20","30","18","N","12","NYRD10439","42.17344444","-75.92030556","POINT (-75.92030556 42.17344444)"
+"DU3462","Germond Rd Clinton","Germond Rd","Clinton","Dutchess","3","325",,"30","32","N","6","NYRD10105",,,
+"D3634","1020 Fuller Hill Rd, Colchester","Fuller Hill Rd","Colchester","Delaware","4","448","7","150","19","N","2.5","NYRD10178","42.01680556","-74.99966667","POINT (-74.99966667 42.01680556)"
+"CB2369","371 Rt 23b, Claverack","Rt 23b","Claverack","Columbia","4","140","130","35","132","N","10","NYRD10010","42.23180556","-73.75083333","POINT (-73.75083333 42.23180556)"
+"CT3301","Breed Run, Salamanca","Breed Run","Salamanca","Cattaraugus","9",,"135","87.59999847","133.5","N","2","NYRD10091","42.13069444","-78.76169444","POINT (-78.76169444 42.13069444)"
+"CL551","N/A","N/A","Schuyler Falls","Clinton","5","365",,"5","81","N","2","NYRD10179","44.63277778","-73.52527778","POINT (-73.52527778 44.63277778)"
+"D3174","848 Crystal Meadows, Colchester","Crystal Meadows","Colchester","Delaware","4","248","13","75","19","N","8","NYRD10178","42.09380556","-74.97325","POINT (-74.97325 42.09380556)"
+"CN2803","N/A","N/A","Georgetown","Chenango","7","60","22","8","22","N","10","NYRD10521","42.70330556","-75.74363889","POINT (-75.74363889 42.70330556)"
+"CB4498","161 Angel Hill Rd, Chatham","Angel Hill Rd","Chatham","Columbia","4","505","10",,"20","N","3","NYRD10351","42.33194444","-73.57055556","POINT (-73.57055556 42.33194444)"
+"CU3991","12048 Gordon Garrow Rd","Gordon Garrow Rd","Hanover","Chautauqua","9","60","20","15","18","N","4","NYRD10408","42.52613889","-79.06661111","POINT (-79.06661111 42.52613889)"
+"CB2163","N/A","N/A","Livingston","Columbia","4","325",,"20","21","N","5.5","NYRD10010","42.05844444","-73.79755556","POINT (-73.79755556 42.05844444)"
+"CT3183","N/A","N/A","Great Valley","Cattaraugus","9","28","-999",,"28","N","15","NYRD10091","42.21344444","-78.63611111","POINT (-78.63611111 42.21344444)"
+"C1783","Dutch Hill Spur Rd, Cincinnatus","Dutch Hill Spur Rd","Cincinnatus","Cortland","7","247","7","100","19","N","3","NYRD10110","42.52391667","-75.95319444","POINT (-75.95319444 42.52391667)"
+"CL1319","5347 Rt 374, Ellenberg","Rt 374","Ellenburg","Clinton","5","105","45","105","78.5","N","15","NYRD10181","44.7985","-73.99922222","POINT (-73.99922222 44.7985)"
+"CT2311","N/A","N/A","Freedom","Cattaraugus","9","70",,"40","38","N","8","NYRD10082","42.45277778","-78.40297222","POINT (-78.40297222 42.45277778)"
+"CB1739","25 Rt 28a, Valatie","Rt 28a","Kinderhook","Columbia","4","300",,"10","29","N","1","NYRD10001","42.43833333","-73.6605","POINT (-73.6605 42.43833333)"
+"C1104","N/A","N/A","Cincinnatus","Cortland","7","398",,"70","88.5","N","2","NYRD10088","42.59788889","-75.95780556","POINT (-75.95780556 42.59788889)"
+"A881","N/A","N/A","Guilderland","Albany","4","18",,"11","5","Y","12","NYRD10201","42.74302778","-73.93677778","POINT (-73.93677778 42.74302778)"
+"C1470","Rt 11 South, Marathon","Rt 11","Marathon","Cortland","7","120",,"17","10","N","12","NYRD10169","42.42697222","-76.02372222","POINT (-76.02372222 42.42697222)"
+"D3176","New Rd, Harpersfield","New Rd","Harpersfield","Delaware","4","273","67","60","79","N","50","NYRD10178","42.45044444","-74.70125","POINT (-74.70125 42.45044444)"
+"AG2159","Zimmer Rd, Richburg","Zimmer Rd","Wirt","Allegany","9","152","8",,"38","N","18","NYRD10043","42.11575","-78.08688889","POINT (-78.08688889 42.11575)"
+"CM1321","23 Pine Forest Drive","Pine Forest Dr","Big Flats","Chemung","8","180",,,,"N","6","NYRD10024","42.19755556","-76.89708333","POINT (-76.89708333 42.19755556)"
+"CN2054","Marvin Rd, Smithville Flats","Marvin Rd","Smithville","Chenango","7","150","15",,"23","N","5","NYRD10454",,,
+"CB2515","N/A","N/A","Claverack","Columbia","4","285",,,"40","N","6","NYRD10010","42.25658333","-73.68705556","POINT (-73.68705556 42.25658333)"
+"CN2490","938 Co Rd 35, Guilford","Co Rd 35","Guilford","Chenango","7","224","46","41","60","N","10","NYRD10081","42.41063889","-75.51941667","POINT (-75.51941667 42.41063889)"
+"CM1834","18 Riverwwod Dr Big Flat","Riverwood Dr","Big Flats","Chemung","8","50","-999","30","48.5","N","7","NYRD10330","42.08716667","-76.88358333","POINT (-76.88358333 42.08716667)"
+"CB1870","Rt 66 Ghent","Rt 66","Ghent","Columbia","4","260",,"40","20","N","6","NYRD10055",,,
+"CL1300","N/A","N/A","Black Brook","Clinton","5","160",,"11","117","N",,"NYRD10761","44.49305556","-73.7125","POINT (-73.7125 44.49305556)"
+"CT1840","9999 Skyline Dr, Machias","Skyline Dr","Machias","Cattaraugus","9","160",,"100","29","N","5","NYRD10408","42.435","-78.47116667","POINT (-78.47116667 42.435)"
+"AG1378","N/A","N/A","New Hudson","Allegany","9","165",,"110","32","N","8","NYRD10269","42.28422222","-78.28794444","POINT (-78.28794444 42.28422222)"
+"BM2823","N/A","N/A","Colesville","Broome","7","150","20","60","18.5","N","8","NYRD10439","42.15961111","-75.62136111","POINT (-75.62136111 42.15961111)"
+"CN1606","N/A","N/A","Oxford","Chenango","7","199",,"122","39","N","8","NYRD10081","42.42172222","-75.60102778","POINT (-75.60102778 42.42172222)"
+"BM1353","Preston Dr, Glen Aubrey","Preston Dr","Nanticoke","Broome","7","120","11","72","9.25","N","5","NYRD10169","42.25752778","-76.01633333","POINT (-76.01633333 42.25752778)"
+"CY1751","2523 Mosher Rd, Scipio Center","Mohser Rd","Scipio","Cayuga","7","98","29","10","29","N","8","NYRD10372","42.82461111","-76.57319444","POINT (-76.57319444 42.82461111)"
+"CU4301","N/A","N/A","Clymer","Chautauqua","9","115","92",,"92.5","N","3","NYRD10084","42.0745","-79.57283333","POINT (-79.57283333 42.0745)"
+"D1627","N/A","N/A","Walton","Delaware","4","300",,,"38.5","N","20","NYRD10178","42.21505556","-75.19711111","POINT (-75.19711111 42.21505556)"
+"CL1492","N/A","N/A","Chazy","Clinton","5","105",,"10","19","N","8","NYRD10761","44.95133333","-73.438","POINT (-73.438 44.95133333)"
+"CT3427","9384 New Albion Rd, Cattaraugus","New Albion Rd","Cattaraugus","Cattaraugus","9","80","50",,"50.29999924","N","10","NYRD10091","42.27172222","-78.84886111","POINT (-78.84886111 42.27172222)"
+"CN1822","N/A","N/A","New Berlin","Chenango","7","175",,"10","38","N","2","NYRD10521","42.59386111","-75.34030556","POINT (-75.34030556 42.59386111)"
+"BM2898","121 Shaffer Rd, Chenango Forks","Shaffer Rd","Greene","Broome","7","174","26","20","30","N","10","NYRD10081","42.25869444","-75.75513889","POINT (-75.75513889 42.25869444)"
+"CB2917","N/A","N/A","Claverack","Columbia","4","365",,,,"N","7","NYRD10010","42.21519444","-73.70025","POINT (-73.70025 42.21519444)"
+"CB2308","Well 1","N/A","Claverack","Columbia","4","325",,"30","35","N","5","NYRD10010","42.23513889","-73.72941667","POINT (-73.72941667 42.23513889)"
+"CB3954","3 Columbia Dr, Niverville","Columbia Dr","Kinderhook","Columbia","4","138","138","40","112.5","N","10","NYRD10001","42.44297222","-73.66080556","POINT (-73.66080556 42.44297222)"
+"C2265","2720 Clute Rd, Virgil","Clute Rd","Virgil","Cortland","7","220","48","45","46.5","N","2","NYRD10080","42.53777778","-76.12833333","POINT (-76.12833333 42.53777778)"
+"AG3098","Independence Hill Rd, Andover","Independence Hill Rd","Andover","Allegany","9","223","16","127","28","N","6.5","NYRD10043","42.08477778","-77.47141667","POINT (-77.47141667 42.08477778)"
+"CT2167","N/A","N/A","Dayton","Cattaraugus","9","85",,"25","20","N",,"NYRD10091","42.43175","-79.00275","POINT (-79.00275 42.43175)"
+"CL2067","Plank Rd, Ellenburg","Plank Rd","Ellenburg","Clinton","5","183","11","30","19","N","12","NYRD10179","44.86611111","-73.78638889","POINT (-73.78638889 44.86611111)"
+"CB1604","202 Moore Rd, Germantown","Moore Rd","Clermont","Columbia","4","450","8","20","19","N","3","NYRD10025","42.07619444","-73.87011111","POINT (-73.87011111 42.07619444)"
+"CY342","Well 2","N/A","Brutus","Cayuga","7","60",,"14","30","N",,"NYRD10189","43.05361111","-76.57694444","POINT (-76.57694444 43.05361111)"
+"DU3545","Barts Way, Lot 7, Barts Farm Subd, Pleasant Valley","Barts Way","Pleasant Valley","Dutchess","3","545","16","5","30","N","5","NYRD10105","41.78911111","-73.80230556","POINT (-73.80230556 41.78911111)"
+"CU2065","Well 2","N/A","Perrysburg","Cattaraugus","9","40",,"20","12","N","0.5","NYRD10203","42.50058333","-79.04483333","POINT (-79.04483333 42.50058333)"
+"CU4299","3184 Dutch Hollow Rd, Bemus Point","Dutch Hollow Rd","Ellery","Chautauqua","9","85","-999","33","85","N","15","NYRD10270","42.13377778","-79.31341667","POINT (-79.31341667 42.13377778)"
+"CT2974","6132 Rt 219/417, Carrolton","Rt 219/417","Carrollton","Cattaraugus","9","107","107","62","105","N","10","NYRD10408","42.12266667","-78.65386111","POINT (-78.65386111 42.12266667)"
+"CL1293","17 Arno Rd, Ellenburg Center","Arno Rd","Ellenburg","Clinton","5","148",,"11","20","N","80","NYRD10033","44.87122222","-73.86488889","POINT (-73.86488889 44.87122222)"
+"CU1329","24 King Rd, Forestville","King Rd","Hanover","Chautauqua","9","70","5","20","15","N",,"NYRD10203","42.50333333","-79.06166667","POINT (-79.06166667 42.50333333)"
+"CY1172","N/A","N/A","Venice","Cayuga","7","200","50","70","48.5","N","2","NYRD10372","42.67427778","-76.61547222","POINT (-76.61547222 42.67427778)"
+"BM1110","90 Montrose Dr, Corbettsville","Montrose Dr","Conklin","Broome","7","320",,"290","72","N",,"NYRD10113",,,
+"AG1030","Co Rd 49","Co Rd 49","Caneadea","Allegany","9","34","-999","20","34","N","10","NYRD10463","42.37997222","-78.15963889","POINT (-78.15963889 42.37997222)"
+"DU3702","N/A","N/A","La Grange","Dutchess","3","165",,"10","21","N","20","NYRD10121","41.64616667","-73.82247222","POINT (-73.82247222 41.64616667)"
+"DU7433","8 Trinity Way, Lagrange","Trinity Way","La Grange","Dutchess","3","255","3",,"20","N","15","NYRD01695",,,
+"AG2815","5664 Tuckers Corner, Belmont","Tuckers Corner","Amity","Allegany","9","101","-999","30","99","N",,"NYRD10043","42.231","-78.05761111","POINT (-78.05761111 42.231)"
+"AG1286","Wolf Creek Rd, Clarksville","Wolf Creek Rd","Clarksville","Allegany","9","110",,"70","71","N","15","NYRD10408",,,
+"CT3853","11903 Hurd Rd, Perrysburg","Hurd Rd","Perrysburg","Cattaraugus","9","60","11","10","9","N","2.5","NYRD10408","42.48438889","-78.99869444","POINT (-78.99869444 42.48438889)"
+"CU3406","N/A","N/A","Ellington","Chautauqua","9","135","50","60","48.70000076","N","5","NYRD10925","42.22586111","-79.12291667","POINT (-79.12291667 42.22586111)"
+"DU7481","21 Romca Rd, La Grange","Romca Rd","East Fishkill","Dutchess","3","185","65","30","51","N","20","NYRD10105","41.6575","-73.87","POINT (-73.87 41.6575)"
+"CU3040","N/A","N/A","Ellery","Chautauqua","9","120","20",,"38","N",,"NYRD10091","42.17183333","-79.33372222","POINT (-79.33372222 42.17183333)"
+"CB4788","1800 Co Rt 11, Craryville","Co Rt 11","Taghkanic","Columbia","4","430","42","30","50","N","1.5","NYRD10061","42.211","-73.63111111","POINT (-73.63111111 42.211)"
+"AG1585","N/A","N/A","Friendship","Allegany","9","95",,"33","40","N","12","NYRD10043","42.12963889","-78.14194444","POINT (-78.14194444 42.12963889)"
+"CL2592","Rt 9, Peru","Rt 9","Peru","Clinton","5","500","14","21","19","N","3","NYRD10179","44.6","-73.43944444","POINT (-73.43944444 44.6)"
+"DU6548","Lot 36, Blueberry Ridge Subd, Unionvale","N/A","Union Vale","Dutchess","3","403",,"15","19","N","7","NYRD10063","41.64011111","-73.63158333","POINT (-73.63158333 41.64011111)"
+"C1798","4854 Eldridge Rd, Willet","Eldridge Rd","Willet","Cortland","7","149","125",,"124","N","10","NYRD10081","42.48091667","-75.95588889","POINT (-75.95588889 42.48091667)"
+"DU4581","Phillips Rd, East Fishkill, Site 2","Phillips Rd","East Fishkill","Dutchess","3","405",,,"55","N","150","NYRD10105",,,
+"CN1957","197 Twin Bridges Rd, Oxford","Twin Bridges Rd","Oxford","Chenango","7","173",,"15","173","N","10","NYRD10067","42.3765","-75.63858333","POINT (-75.63858333 42.3765)"
+"CL2309","Robenson Rd, Plattsburgh","Robenson Rd","Plattsburgh","Clinton","5","205","130","30","39.5","N","20","NYRD10181","44.71155556","-73.54730556","POINT (-73.54730556 44.71155556)"
+"D1980","N/A","N/A","Hancock","Delaware","4","120",,"2","120","N","20","NYRD10298","42.00116667","-75.263","POINT (-75.263 42.00116667)"
+"CU1474","Ncco Rt Building, North Gale St","North Gale St","Westfield","Chautauqua","9","52",,,"29.5","N","23","NYRD10050","42.32569444","-79.59016667","POINT (-79.59016667 42.32569444)"
+"AG970","N/A","N/A","Canaseraga","Allegany","9","135",,"85","21","N","15","NYRD10294","42.44844444","-77.79908333","POINT (-77.79908333 42.44844444)"
+"CT1362","N/A","N/A","East Otto","Cattaraugus","9",,,,"110","N",,"NYRD10091","42.37155556","-78.77816667","POINT (-78.77816667 42.37155556)"
+"BM1238","N/A","N/A","Binghamton","Broome","7","300",,"60","53","N","7","NYRD10245","42.03711111","-75.88266667","POINT (-75.88266667 42.03711111)"
+"A1571","Pleasant Valley Rd","Pleasant Valley Rd","Knox","Albany","4",,,,"40","N","5","NYRD10027",,,
+"CU4624","7887 Freeman Rd, Sherman","Freeman Rd","Sherman","Chautauqua","9","133","16",,"17.5","N","3","NYRD10084","42.14936111","-79.57388889","POINT (-79.57388889 42.14936111)"
+"BM2107","360 Hardie Rd, Conklin","Hardie Rd","Conklin","Broome","7","80","36","12","43","N","12","NYRD10245","42.07919444","-75.83072222","POINT (-75.83072222 42.07919444)"
+"AG826","N/A","N/A","Amity","Allegany","9","93",,"8","93","N","10","NYRD10043","42.24027778","-78.01805556","POINT (-78.01805556 42.24027778)"
+"CL333","N/A","N/A","Peru","Clinton","5","120",,"15","120","N","15","NYRD10179","44.58555556","-73.58","POINT (-73.58 44.58555556)"
+"A802","Townline Rd, Rensselaerville","Townline Rd","Rensselaerville","Albany","4","275","92","87","100.5","N","5","NYRD10040","42.5035","-74.11216667","POINT (-74.11216667 42.5035)"
+"DU6382","Creekside Rd, Lot 8, Crooked Oak Subd","Creekside Rd","East Fishkill","Dutchess","3","165","30","40","62","N","7","NYRD10105","41.575","-73.79666667","POINT (-73.79666667 41.575)"
+"C1982","7470 Keith Rd, Truxton","Keith Rd","Cuyler","Cortland","7","200","26","14","24.5","N","2","NYRD10080","42.76763889","-75.94861111","POINT (-75.94861111 42.76763889)"
+"CT1640","N/A","N/A","Ellicottville","Cattaraugus","9","132",,"60","40","N","5","NYRD10134","42.29166667","-78.62788889","POINT (-78.62788889 42.29166667)"
+"A2260","Wood Rd, Rensselaerville","Wood Rd","Rensselaerville","Albany","4","168","38","42","41","N","10","NYRD10525","42.53322222","-74.17641667","POINT (-74.17641667 42.53322222)"
+"D3129","Hunter Ln, Downsville","Hunter Ln","Colchester","Delaware","4","248","17","50","32","N","10","NYRD10178","42.11216667","-74.93561111","POINT (-74.93561111 42.11216667)"
+"CN2673","Goodwin Ln, Oxford","Goodwin Ln","Oxford","Chenango","7","195","92","25","95","N","10","NYRD10178","42.43880556","-75.50702778","POINT (-75.50702778 42.43880556)"
+"CB4917","Snyderville Rd, Elizaville","Snyderville Rd","Gallatin","Columbia","4","305","4",,"18","N","12","NYRD10010","42.06930556","-73.77088889","POINT (-73.77088889 42.06930556)"
+"CU1068","2241 Rt 83, Forestville","Rt 83","Arkwright","Chautauqua","9","125","73","15","73","N","6","NYRD10143","42.39541667","-79.20688889","POINT (-79.20688889 42.39541667)"
+"D2827","Rt 28 And Honest Brook Rd, Delhi","Rt 28","Delhi","Delaware","4","427","45",,"58","N","1","NYRD10016",,,
+"CT1727","N/A","N/A","Franklinville","Cattaraugus","9","60",,"19","37.58000183","N","30","NYRD10082","42.39583333","-78.40233333","POINT (-78.40233333 42.39583333)"
+"CB4593","101 Maple Ln, Copake Falls","Maple Ln","Copake","Columbia","4","530","22","5","38.5","N","5","NYRD10061","42.118","-73.52252778","POINT (-73.52252778 42.118)"
+"CM1599","14 Clark Hollow Rd, Pine City","Clark Hollow Rd","Southport","Chemung","8","118","47","114","48","N","6","NYRD10162","42.02438889","-76.92038889","POINT (-76.92038889 42.02438889)"
+"D1267","Wheat Hill Rd","Wheat Hill Rd","Sidney","Delaware","4","325",,"320","20","N","4","NYRD10238",,,
+"CL383","178 Liberty Pole Rd Churubusco","Liberty Pole Rd","Clinton","Clinton","5","156",,"155","156","N","30","NYRD10033","44.99097222","-73.91997222","POINT (-73.91997222 44.99097222)"
+"DU6418","Brush Hill Rd, Union Vale","Brush Hill Rd","Union Vale","Dutchess","3","505",,"60","71","N","10","NYRD10105","41.71383333","-73.66","POINT (-73.66 41.71383333)"
+"CU4202","3667 Luce Rd, Cassadaga","Luce Rd","Stockton","Chautauqua","9","21","-999","13","21","N","20","NYRD10050","42.31188889","-79.30069444","POINT (-79.30069444 42.31188889)"
+"DU4305","85 Dorn Rd, Lagrangeville","Dorn Rd","Beekman","Dutchess","3","360","15","0","31","N","7","NYRD10105","41.6365","-73.70291667","POINT (-73.70291667 41.6365)"
+"CN2838","448 Quarry Rd, Oxford","Quarry Rd","Oxford","Chenango","7","280","30",,"38","N","8","NYRD10067",,,
+"CU3697","N/A","N/A","North Harmony","Chautauqua","9","130","20",,"25.5","N","15","NYRD10084","42.16311111","-79.43005556","POINT (-79.43005556 42.16311111)"
+"CN2512","6067 Co Rd 32, Norwich","Co Rd 32","Norwich","Chenango","7","262","-999",,"58","N","15","NYRD10067",,,
+"A1412","Lot 3, Knox Cave Rd","Knox Cave Rd","Knox","Albany","4","218",,"42.65999985","40","N","5","NYRD10027",,,
+"AG3111","9005 Buffalo St, Rushford","Cuffalo St","Rushford","Allegany","9","113","-999","11","113","N","15","NYRD10082","42.39258333","-78.25380556","POINT (-78.25380556 42.39258333)"
+"BM1914","79 Ingram Hill Rd, Binghamton","Ingram Hill Rd","Binghamton","Broome","7","260","140",,"138.5","N",,"NYRD10113",,,
+"CU3253","12825 Gusensey Rd","Gusensey Rd","South Valley","Cattaraugus","9","120","43",,"41.29999924","N",,"NYRD10091","42.01463889","-79.04969444","POINT (-79.04969444 42.01463889)"
+"CT3774","6775 Snyder Rd, Lyndon","Snyder Rd","Lyndon","Cattaraugus","9","80","6","51","27.79999924","N","12","NYRD10082",,,
+"BM1064","N/A","N/A","Triangle","Broome","7","156","70",,"68.30000305","N","2","NYRD10230","42.39972222","-75.91616667","POINT (-75.91616667 42.39972222)"
+"D3218","N/A","N/A","Masonville","Delaware","4","305","150","65","118","N","6","NYRD10238","42.19336111","-75.33697222","POINT (-75.33697222 42.19336111)"
+"CL837","Perrys Mills Rd","Perrys Mills Rd","Champlain","Clinton","5","49","20","7","24","N","100","NYRD10033",,,
+"CU1026","5395 Rt 380, Sinclairville","Rt 380","Ellery","Chautauqua","9","65","14","14.5","14.5","N","35","NYRD10050","42.23611111","-79.30813889","POINT (-79.30813889 42.23611111)"
+"DU4042","N/A","N/A","Red Hook","Dutchess","3","398","33","75","48.5","N","5","NYRD10178","42.02166667","-73.882","POINT (-73.882 42.02166667)"
+"CU3866","9865 Rt 474 Clymer","Rt 474","Clymer","Chautauqua","9","71","35",,"27.70000076","N","7","NYRD10091","42.02347222","-79.702","POINT (-79.702 42.02347222)"
+"CB3814","7 Metz Rd, Ghent","Metz Rd","Ghent","Columbia","4","245","14",,"18","N","3","NYRD10010","42.30675","-73.64694444","POINT (-73.64694444 42.30675)"
+"CB3467","82 Mercer Mountain Rd, Canaan","Mercer Mountain Rd","Canaan","Columbia","4","430","2","28","22","N","1.5","NYRD10055","42.36955556","-73.47452778","POINT (-73.47452778 42.36955556)"
+"CB4734","1830 Rt 9, Germantown","Rt 9","Clermont","Columbia","4","45","-999",,"39","N","12","NYRD10010","42.08794444","-73.82227778","POINT (-73.82227778 42.08794444)"
+"DU5687","53 Turkey Run Lot 2, Beekman","N/A","Beekman","Dutchess","3","205",,,"82","N","13","NYRD10105","41.61516667","-73.75694444","POINT (-73.75694444 41.61516667)"
+"CN1566","8087 St Rt 12, Sherburne","St Rt 12","Sherburne","Chenango","7","137","119","26","121","N","8","NYRD10611","42.66944444","-75.49472222","POINT (-75.49472222 42.66944444)"
+"CL2389","Rand Hill Rd","Rand Hill Rd","Plattsburgh","Clinton","5","82","-999",,"80","N","2","NYRD10182","44.72719444","-73.57716667","POINT (-73.57716667 44.72719444)"
+"CU1457","Bellville Bemus Pt","N/A","Bemus Point","Chautauqua","9","75",,"10","25","N","12","NYRD10203","42.14566667","-79.44647222","POINT (-79.44647222 42.14566667)"
+"CL1639","208 Barney Downs Rd, Peru","Barney Downs Rd","Peru","Clinton","5","205","178","50","178","N","7","NYRD10030","44.57611111","-73.56633333","POINT (-73.56633333 44.57611111)"
+"CL2096","Well 2","N/A","Chazy","Clinton","5","245","22","4","24","N","50","NYRD10761","44.8695","-73.55533333","POINT (-73.55533333 44.8695)"
+"CT1577","N/A","N/A","Great Valley","Cattaraugus","9","21",,,"21","N",,"NYRD10091","42.24947222","-78.64247222","POINT (-78.64247222 42.24947222)"
+"DU5860","Frances Ct, Hyde Park","Frances Ct","Hyde Park","Dutchess","3","240",,,"60","N","10","NYRD10252",,,
+"A988","167 Feura Bush Unionville Rd,","Feura Bush Unionville Rd","New Scotland","Albany","4","250",,"60","30","N",,"NYRD10186","42.58316667","-73.8965","POINT (-73.8965 42.58316667)"
+"D732","Fuller Hollow Rd, Hamden","Fuller Hollow Rd","Hamden","Delaware","4",,,,,"N",,"NYRD10016","42.15472222","-74.98261111","POINT (-74.98261111 42.15472222)"
+"CN2319","N/A","N/A","Norwich","Chenango","7","224","-999",,"224","N","10","NYRD10081","42.62747222","-75.53577778","POINT (-75.53577778 42.62747222)"
+"CN2368","180 Flat Iron Rd, Smryna","Flat Iron Rd","Smyrna","Chenango","7","58","-999",,"58","N","10","NYRD10067",,,
+"CN1947","480 County Rd 22, Earlville","Co Rd 22","Smyrna","Chenango","7","173","8","70","99","N","10","NYRD10110","42.72130556","-75.57402778","POINT (-75.57402778 42.72130556)"
+"DU5080","356 Leetown Rd, Stormville","Leetown Rd","East Fishkill","Dutchess","3","185",,,"52","N","20","NYRD10105","41.51622222","-73.73872222","POINT (-73.73872222 41.51622222)"
+"C1160","N/A","N/A","Homer","Cortland","7","240",,"60","174","N","67","NYRD10189","42.62472222","-76.18416667","POINT (-76.18416667 42.62472222)"
+"CT1755","N/A","N/A","Carrollton","Cattaraugus","9","56",,"3","50","N","20","NYRD10134","42.03494444","-78.63180556","POINT (-78.63180556 42.03494444)"
+"CL1656","1904 Miner Farm Rd, West Chazy","Miner Farm Rd","Chazy","Clinton","5","110","20",,"23.79999924","N","28","NYRD10033","44.89808333","-73.54444444","POINT (-73.54444444 44.89808333)"
+"C1912","2487 Rt 221, Marathon","Rt 2321","Lapeer","Cortland","7","60","-999","25","60","N","20","NYRD10080","42.42433333","-76.10983333","POINT (-76.10983333 42.42433333)"
+"D3799","Beaver Mountain Rd, Deposit","Beaver Mountain Rd","Deposit","Delaware","4","297","72","60","89","N","40","NYRD10178","42.00038889","-75.35525","POINT (-75.35525 42.00038889)"
+"CN1923","1940 Co Rt 10, Preston","Co Rt 10","Preston","Chenango","7","200",,,"78.5","N","8","NYRD10165","42.53369444","-75.62433333","POINT (-75.62433333 42.53369444)"
+"CB4859","73 Archbridge Rd, Ghent","Archbridge Rd","Ghent","Columbia","4","45","-999",,"39","Y","30","NYRD10351","42.28080556","-73.64877778","POINT (-73.64877778 42.28080556)"
+"AG2855","10433 County Rd 16, Swain","Co Rd 16","Grove","Allegany","9","86","55","40",,"N",,"NYRD10043","42.75838889","-78.55902778","POINT (-78.55902778 42.75838889)"
+"CN1340","N/A","N/A","Bainbridge","Chenango","7","245",,"100","165","N","8","NYRD10439","42.26802778","-75.513","POINT (-75.513 42.26802778)"
+"D2046","96 Campbell Brook Rd, Downsville","Campbell Brook Rd","Colchester","Delaware","4","33",,"21","30","N","6","NYRD10067","42.04472222","-75.02025","POINT (-75.02025 42.04472222)"
+"CT3964","9143 East Otto Springville Rd, East Otto","East Otto Springville Rd","East Otto","Cattaraugus","9","37","-999","8","35","N","4","NYRD10091","42.40308333","-78.75522222","POINT (-78.75522222 42.40308333)"
+"DU4273","N/A","N/A","La Grange","Dutchess","3","505",,"31","51","N","2.5","NYRD10071","41.67222222","-73.85416667","POINT (-73.85416667 41.67222222)"
+"D2073","N/A","N/A","Deposit","Delaware","4","300","30","160","18.5","N","7","NYRD10245","42.06061111","-75.36427778","POINT (-75.36427778 42.06061111)"
+"AG2572","Trail 3, Rushford","Trail 3","Rushford","Allegany","9","180","53","54","53","N","40","NYRD10082","42.37344444","-78.20063889","POINT (-78.20063889 42.37344444)"
+"CT2787","3900 Roszyk Hill Rd, Machias","Roszyk Hill Rd","Machias","Cattaraugus","9","140","35",,"60.25","N","15","NYRD10091","42.41555556","-78.52436111","POINT (-78.52436111 42.41555556)"
+"D1856","Fish Brook Rd","Fish Brook Rd","Tompkins","Delaware","4","496","0",,"18.5","N","3","NYRD10178","42.11488889","-75.22527778","POINT (-75.22527778 42.11488889)"
+"CB2109","N/A","N/A","Germantown","Columbia","4","345",,"20","34","N","5","NYRD10010","42.08255556","-73.82933333","POINT (-73.82933333 42.08255556)"
+"CM1751","19 Veteran Hill Rd, Horseheads","Veteran Hill Rd","Horseheads","Chemung","8","49","-999","28","49","N","30","NYRD10096","42.19144444","-76.80280556","POINT (-76.80280556 42.19144444)"
+"DU6673","36 Prout Ln, East Fishkill","Prout Ln","East Fishkill","Dutchess","3","305",,,"20","N","15","NYRD01695","41.53211111","-73.70991667","POINT (-73.70991667 41.53211111)"
+"CT3402","1709 Gargoyle Rd, Allegany","Gargoyle Rd","Allegany","Cattaraugus","9","44","-999",,"42","N","15","NYRD10269","42.07283333","-78.46966667","POINT (-78.46966667 42.07283333)"
+"DU7031","15 Windy Hill Rd, Holmes","Windy Hill Rd","East Fishkill","Dutchess","3","225",,,"71","N","7","NYRD10105","41.51533333","-73.74866667","POINT (-73.74866667 41.51533333)"
+"CB4538","35 Underhill Rd, Hillsdale","Underhill Rd","Hillsdale","Columbia","4","630","15","15","19","N","1.5","NYRD10061","42.17202778","-73.5215","POINT (-73.5215 42.17202778)"
+"CB2327","N/A","N/A","Clermont","Columbia","4","234",,"30","20","N","8","NYRD10025","42.08030556","-73.83830556","POINT (-73.83830556 42.08030556)"
+"CB2755","153 Stonewall Rd, Austerlitz","Stonewall Rd","Austerlitz","Columbia","4","510",,"30","20","N","6","NYRD10055","42.32494444","-73.50022222","POINT (-73.50022222 42.32494444)"
+"CB4061","198 New Forge Rd, Ancram","New Forge Rd","Ancram","Columbia","4","485","100","100","123","N","6","NYRD10010","42.09541667","-73.66475","POINT (-73.66475 42.09541667)"
+"CU2019","Bonita Dr","Bonita Dr","Ellicott","Chautauqua","9","90",,"89.5","90","N","5","NYRD10089","42.1155","-79.28125","POINT (-79.28125 42.1155)"
+"DU5497","50 Schribner Rd, Millerton","Schribner Rd","Northeast","Dutchess","3","610",,,"160","N","10","NYRD10061","41.93988889","-73.56752778","POINT (-73.56752778 41.93988889)"
+"CU4162","5100 Waterman Rd, Dewittville","Waterman Rd","Stockton","Chautauqua","9","145","74","74","74.5","N","4","NYRD10050",,,
+"CY493","Swamp Rd","Swamp Rd","Sennett","Cayuga","7","397",,"310","75","N","20","NYRD10110","42.94355556","-76.49019444","POINT (-76.49019444 42.94355556)"
+"D3239","Ridge Rd","Ridge Rd","Hamden","Delaware","4","290","1",,"18.5","N","10","NYRD10020",,,
+"AG1761","11807 St Rt 19a, Portageville","St Rt 19a","Hume","Allegany","9","20","-999","9","19.79999924","N","15","NYRD10082","42.51325","-78.05677778","POINT (-78.05677778 42.51325)"
+"D2624","2916 Houghtaling Hollow Rd, East Meredith","Houghtaling Hollow Rd","Meredith","Delaware","4","150","66","63","61.5","N","25","NYRD10159","42.39283333","-74.9515","POINT (-74.9515 42.39283333)"
+"CB3252","232 Cty Rt 7a, Copake","Co Rt 7a","Copake","Columbia","4","145",,"15","135","N","40","NYRD10061","42.10652778","-73.54527778","POINT (-73.54527778 42.10652778)"
+"AG2264","5363 Co Rt 31, Scio","Co Rt 31","Amity","Allegany","9","138","65","68","68","N","19","NYRD10043","42.20202778","-78.02702778","POINT (-78.02702778 42.20202778)"
+"CU2390","Serenity Acres Subd, Rt 394, Chautaugua","Rt 394","Chautauqua","Chautauqua","9","53",,,,"N",,"NYRD10050","42.22336111","-79.48475","POINT (-79.48475 42.22336111)"
+"CU3603","1872 Park Rd, Clymer","Park Rd","Clymer","Chautauqua","9","103","14",,"18.5","N",,"NYRD10084","42.08147222","-79.64658333","POINT (-79.64658333 42.08147222)"
+"CN1415","N/A","N/A","Oxford","Chenango","7","99",,"12","32","N","15","NYRD10081","42.47127778","-75.58797222","POINT (-75.58797222 42.47127778)"
+"A2397","107 Bullock Rd, Slingerlands","Bullock Rd","New Scotland","Albany","4","405","120",,"129.8000031","N","0","NYRD10525","42.62277778","-73.92166667","POINT (-73.92166667 42.62277778)"
+"CT2559","N/A","N/A","Olean","Cattaraugus","9","187",,,"186","N","15","NYRD10269","42.08888889","-78.39261111","POINT (-78.39261111 42.08888889)"
+"CB1850","Cty Rt 13, Rayville","Co Rt 13","Chatham","Columbia","4","280",,"50","70","N","15","NYRD10055",,,
+"CN2544","Serenity Dr","Serenity Dr","North Norwich","Chenango","7","204","24","32","22","N","10","NYRD10013","42.34077778","-75.29005556","POINT (-75.29005556 42.34077778)"
+"DU4852","122 Hobbs Lane, Lot 4","Hobbs Ln","Stanford","Dutchess","3","605","130","70","151","N","3","NYRD10105","41.85561111","-73.76066667","POINT (-73.76066667 41.85561111)"
+"CU2812","N/A","N/A","Ellery","Chautauqua","9","125",,,"7","N","2","NYRD10084","42.18797222","-79.40722222","POINT (-79.40722222 42.18797222)"
+"A1985","55 Picard Rd, Voorheesville","Picard Rd","Voorheesville","Albany","4","112",,"46","105","Y","12","NYRD10031","42.63552778","-73.97088889","POINT (-73.97088889 42.63552778)"
+"CU3219","N/A","N/A","Randolph","Cattaraugus","9","120","45",,"49.29999924","N","15","NYRD10091","42.10830556","-79.04686111","POINT (-79.04686111 42.10830556)"
+"CL1346","1399 Hardscrabble Rd, Cadyville","Hardscrabble Rd","Plattsburgh","Clinton","5","220",,"216","118.5","N","10","NYRD10181","44.64802778","-73.71805556","POINT (-73.71805556 44.64802778)"
+"CL2302","N/A","N/A","Schuyler Falls","Clinton","5","100","-999","20","98","N","15","NYRD10182","44.62258333","-73.56161111","POINT (-73.56161111 44.62258333)"
+"CU1651","6187 Douglas Rd Westfield","Douglas Rd","Westfield","Chautauqua","9",,,,"9","N","5","NYRD10518","42.27044444","-79.63016667","POINT (-79.63016667 42.27044444)"
+"CU3281","9185 Creek Rd, Forestville","Creek Rd","Forestville","Chautauqua","9","73","-999","43","71","N","6","NYRD10408","42.39991667","-79.20588889","POINT (-79.20588889 42.39991667)"
+"CY1686","1437 Fire Lane J, Summerhill","Fire Lane J","Summerhill","Cayuga","7","60","-999","25","58.5","N","30","NYRD10080","42.67583333","-76.29861111","POINT (-76.29861111 42.67583333)"
+"CB4141","16 Heather Lane, Canaan","Heather Ln","Canaan","Columbia","4","405","10","30","20","N","10","NYRD10010","42.35797222","-73.46919444","POINT (-73.46919444 42.35797222)"
+"CU1600","Co Rd 22, Sherman","Co Rd 22","Chautauqua","Chautauqua","9","66",,"15","63","N","5","NYRD10334","42.20747222","-79.58511111","POINT (-79.58511111 42.20747222)"
+"BM2888","N/A","N/A","Vestal","Broome","7","200","105",,,"N","40","NYRD10668","42.04916667","-75.96888889","POINT (-75.96888889 42.04916667)"
+"C1525","N/A","N/A","Preble","Cortland","7","57",,"8","56","N","18","NYRD10110","42.75497222","-76.13219444","POINT (-76.13219444 42.75497222)"
+"BM1253","12 Jackson Heights Rd","Jackson Heights Rd","Barker","Broome","7","440","160","213","160","N","2","NYRD10169","42.24022222","-75.92572222","POINT (-75.92572222 42.24022222)"
+"CL1430","Old Hawkeye Rd, Black Brook","Old Hawkeye Rd","Black Brook","Clinton","5","255","26",,"33","N","12","NYRD10212","44.50833333","-73.88333333","POINT (-73.88333333 44.50833333)"
+"A2052","93 Koonz Rd, Voorheesville","Koonz Rd","New Scotland","Albany","4","69",,"40","67","N","15","NYRD10027","42.65852778","-73.95652778","POINT (-73.95652778 42.65852778)"
+"AG2311","5472 Little Rd, Cuba","Little Rd","Cuba","Allegany","9","73","54","37","54","N","8","NYRD10082","42.23830556","-78.27988889","POINT (-78.27988889 42.23830556)"
+"CB3783","410 Church St, Gallatin","Church St","Gallatin","Columbia","4","310","5","2","19","N","1","NYRD10061","42.04277778","-73.74472222","POINT (-73.74472222 42.04277778)"
+"D924","Champlin Rd","Champlin Rd","Harpersfield","Delaware","4","150","48","100","48.5","N","7","NYRD10039","42.4955","-74.69533333","POINT (-74.69533333 42.4955)"
+"D1437","Ew-4i","N/A","Sidney","Delaware","4","89",,,"69","Y",,"NYRD01663","42.30225","-75.41163889","POINT (-75.41163889 42.30225)"
+"CY543","Rt 38, Victory","Rt 38","Victory","Cayuga","7","113","82","15","81","N","4","NYRD10230","43.24661111","-76.64611111","POINT (-76.64611111 43.24661111)"
+"D3315","Tweedie Rd, Hancock","Tweedie Rd","Hancock","Delaware","4","200","25","50","85","N","6","NYRD10178","41.98966667","-75.05347222","POINT (-75.05347222 41.98966667)"
+"CL923","2551 St Rt 3, Cadyville","St Rt 3","Saranac","Clinton","5","62","-999","0","61.5","N","12","NYRD10182","44.68738889","-73.67061111","POINT (-73.67061111 44.68738889)"
+"CY1794","N/A","N/A","Ledyard","Cayuga","7","200","92","100","91.30000305","N","20","NYRD10230","42.47072222","-76.37997222","POINT (-76.37997222 42.47072222)"
+"CT2464","N/A","N/A","Randolph","Cattaraugus","9","365","35",,"40","N","20","NYRD10084","42.13930556","-78.96744444","POINT (-78.96744444 42.13930556)"
+"BM1384","N/A","N/A","Colesville","Broome","7","145",,"35","25","N","6","NYRD10439","42.22397222","-75.70566667","POINT (-75.70566667 42.22397222)"
+"CB2569","N/A","N/A","Ghent","Columbia","4",,,,"40","N","10","NYRD10010","42.29033333","-73.6525","POINT (-73.6525 42.29033333)"
+"CB5079","34 Miller Rd, Ancram","Miller Rd","Ancram","Columbia","4","405",,,,"N","1","NYRD10351","42.12444444","-73.69313889","POINT (-73.69313889 42.12444444)"
+"AG2898","9781 Podonque Rd, Houghton","Podonque Rd","Caneadea","Allegany","9","120",,"70","18","N","10","NYRD10408","42.39972222","-78.23305556","POINT (-78.23305556 42.39972222)"
+"CN2634","153 East Shore Ln, Mc Donough","East Shore Ln","Mc Donough","Chenango","7","222","125","52","129","N","7","NYRD10081","42.51486111","-75.77230556","POINT (-75.77230556 42.51486111)"
+"CT3787","11294 Bixby Hill Rd, Freedom","Bixby Hill Rd","Freedom","Cattaraugus","9","200","125","68","125","N","6","NYRD10408","42.49163889","-78.43202778","POINT (-78.43202778 42.49163889)"
+"AG723","Russell Hill Rd","Russell Hill Rd","Caneadea","Allegany","9","78","18","25","30","N",,"NYRD10082","42.37211111","-78.17813889","POINT (-78.17813889 42.37211111)"
+"CY2012","232 Firelane 17, Cato","Fire Ln 27","Cato","Cayuga","7","60","40","0","39.29999924","N","50","NYRD10230","43.85","-75.309","POINT (-75.309 43.85)"
+"CU3104","3035 East Main Rd, Dunkirk","East Main Rd","Sheridan","Chautauqua","9","57","24","24","23.5","N","20","NYRD10050",,,
+"CT1559","N/A","N/A","Great Valley","Cattaraugus","9","100",,,"55","N",,"NYRD10091","42.09630556","-79.03694444","POINT (-79.03694444 42.09630556)"
+"CU1633","N/A","N/A","Westfield","Chautauqua","9","165",,"155","85","N","5","NYRD10084","42.31319444","-79.53619444","POINT (-79.53619444 42.31319444)"
+"CN1039","Thunder Lake Rd","Thunder Lake Rd","Greene","Chenango","7","224","20","20","29","N","4","NYRD10081","42.26966667","-75.72933333","POINT (-75.72933333 42.26966667)"
+"A1396","N/A","N/A","Guilderland","Albany","4","23","-999","9.909999847","15","Y","10","NYRD10201","42.74630556","-73.93691667","POINT (-73.93691667 42.74630556)"
+"DU5911","181 Travis Rd, Hyde Park","Travis Rd","Pleasant Valley","Dutchess","3","403",,"260","40","N",,"NYRD10063","41.78530556","-73.83888889","POINT (-73.83888889 41.78530556)"
+"A1738","1227 Thatcher Park Rd, East Berne","Thatcher Park Rd","Berne","Albany","4","322",,"90","38","N","2.5","NYRD10005","42.64452778","-74.16647222","POINT (-74.16647222 42.64452778)"
+"BM1014","N/A","N/A","Windsor","Broome","7","138","16","12","18","N","15","NYRD10250","42.11080556","-75.75594444","POINT (-75.75594444 42.11080556)"
+"A2183","77 Rt 405, Greenville","Rt 405","Westerlo","Albany","4","200","4","52","39","N","10","NYRD10054","42.43991667","-74.00794444","POINT (-74.00794444 42.43991667)"
+"A1299","1104 Co Rt 402, Rensselaerville","Co Rt 402","Rensselaerville","Albany","4","260","208",,"212","N","7","NYRD10133","42.46402778","-74.10105556","POINT (-74.10105556 42.46402778)"
+"CL1269","797 Sunset Rd, Upper Chateaugay Lake","Sunset Rd","Dannemora","Clinton","5","400","84","25","96","N","4","NYRD10579","44.74505556","-73.94994444","POINT (-73.94994444 44.74505556)"
+"CU3744","10241 Creek Rd, Forestville","Creek Rd","Hanover","Chautauqua","9","20","-999",,"18.5","N","30","NYRD10084",,,
+"CT1165","N/A","N/A","Allegany","Cattaraugus","9","160",,"96","64","N","105","NYRD10438","42.20194444","-78.33416667","POINT (-78.33416667 42.20194444)"
+"CB1835","Sawmill Rd, Germantown","Sawmill Rd","Germantown","Columbia","4","502",,"80","60","N","2.5","NYRD10005","42.54433333","-73.66461111","POINT (-73.66461111 42.54433333)"
+"D3077","N/A","N/A","Franklin","Delaware","4","147","92","15","90","N","20","NYRD10238","42.30447222","-75.13405556","POINT (-75.13405556 42.30447222)"
+"CT3214","6093 Witch Hollow Rd, Ellicottville","Witch Hollow Rd","Ellicottville","Cattaraugus","9","183","18","101","40.5","N","12","NYRD10876","42.267","-78.63388889","POINT (-78.63388889 42.267)"
+"CB1228","Brookbound Ln","Brookbound Ln","Claverack","Columbia","4","267","28","30","31","N","10","NYRD10010",,,
+"D1454","550 Co Hwy 18 Delhi","Co Hwy 18","Delhi","Delaware","4","93",,"28","30","N","25","NYRD10159","42.295","-74.898","POINT (-74.898 42.295)"
+"CT2001","1306 Flanigan Hill Rd, Hinsdale","Flanigan Hill Rd","Hinsdale","Cattaraugus","9","140",,"115","46.09999847","N","5","NYRD10408",,,
+"CU2687","5484 Berry Rd, Fredonia","Berry Rd","Portland","Chautauqua","9","50",,"17","13.5","N","4","NYRD10050","42.43561111","-79.41313889","POINT (-79.41313889 42.43561111)"
+"DU3642","Briarwood Subd Lot 20, Briarwood Lane Northeast","Briarwood Ln","Northeast","Dutchess","3","603",,,"20","N","1","NYRD10155",,,
+"CT2662","3764 Bryant Hill Rd, Franklinville","Bryant Hill Rd","Franklinville","Cattaraugus","9","50","12","12","19.29999924","N","30","NYRD10082","42.32913889","-78.50802778","POINT (-78.50802778 42.32913889)"
+"BM3166","Scouten Hill Rd, Windsor","Scouten Hill Rd","Windsor","Broome","7","140","20","20","18.70000076","N","6","NYRD10439","42.02516667","-75.65463889","POINT (-75.65463889 42.02516667)"
+"C1527","N/A","N/A","Homer","Cortland","7","30",,"15","28.5","N",,"NYRD10618","42.69897222","-76.24127778","POINT (-76.24127778 42.69897222)"
+"CB4834","305 Wire Rd, Germantown","Wire Rd","Livingston","Columbia","4","145","-999",,"121","N","20","NYRD10010","42.15030556","-73.83438889","POINT (-73.83438889 42.15030556)"
+"CB2510","1425 Rt 21, Ghent","Rt 21","Ghent","Columbia","4","320",,"10","68","N","5","NYRD10055","42.33336111","-73.62288889","POINT (-73.62288889 42.33336111)"
+"AG1815","N/A","N/A","Angelica","Allegany","9","110","20",,"24","N","8","NYRD10269","42.33616667","-77.981","POINT (-77.981 42.33616667)"
+"CB1980","High Bridge Rd, Chatham","High Bridge Rd","Chatham","Columbia","4","422",,"80","40","N","10","NYRD10005","42.38802778","-73.59961111","POINT (-73.59961111 42.38802778)"
+"AG2813","3725 Gillis Hill Rd, Birdsall","Gillis Hill Rd","Birdsall","Allegany","9","107","16",,"21","N",,"NYRD10043","42.39311111","-77.94197222","POINT (-77.94197222 42.39311111)"
+"CB2748","N/A","N/A","Ghent","Columbia","4","165",,"30","36","N","15","NYRD10010","42.28055556","-73.65772222","POINT (-73.65772222 42.28055556)"
+"CU2581","5333 Ramsey Rd, Ashville","Ramsey Rd","North Harmony","Chautauqua","9","105","12",,"14.5","N","10","NYRD10084","42.13933333","-79.40333333","POINT (-79.40333333 42.13933333)"
+"DU6863","33 Frost Rd, Rhinebeck","Frost Rd","Rhinebeck","Dutchess","3","250",,,"51","N","80","NYRD10105","41.88333333","-73.8655","POINT (-73.8655 41.88333333)"
+"CU3197","7335 Nazareth Rd, Clymer","Nazareth Rd","Clymer","Chautauqua","9","68","-999","68","66","N","20","NYRD10009","42.01422222","-79.53672222","POINT (-79.53672222 42.01422222)"
+"CB4455","501 Taghkanic Rd, Elizaville","Taghkanic Rd","Taghkanic","Columbia","4","365","10",,"39","N","10","NYRD10010","42.11147222","-73.75475","POINT (-73.75475 42.11147222)"
+"CT3399","N/A","N/A","Ellington","Chautauqua","9","38","36",,"20.5","N","8","NYRD10091","42.25055556","-79.07144444","POINT (-79.07144444 42.25055556)"
+"CM906","4125 Rt 34","Rt 34","Van Etten","Chemung","8","58","-999","28","58","N","20","NYRD10056","42.20083333","-76.55213889","POINT (-76.55213889 42.20083333)"
+"CL586","N/A","N/A","Peru","Clinton","5","280",,,"81","N","2","NYRD10179","44.62555556","-73.52638889","POINT (-73.52638889 44.62555556)"
+"CT4333","1909 Wilson Rd, Franklinville","Wilson Rd","Franklinville","Cattaraugus","9","120","104","60","102","N","10","NYRD10408","42.34255556","-78.41033333","POINT (-78.41033333 42.34255556)"
+"CT861","Tough Hill Rd","Tough Hill Rd","Mansfield","Cattaraugus","9","83","32","36","41","N","15","NYRD10134","42.34038889","-78.69747222","POINT (-78.69747222 42.34038889)"
+"CN2304","N/A","N/A","Barker","Broome","7","160","60","35","58","N","10","NYRD10439","42.28541667","-75.84911111","POINT (-75.84911111 42.28541667)"
+"AG1174","4590 Byrne Rd Wellsville","Byrne Rd","Alma","Allegany","9","250",,,"20","N",,"NYRD10070","42.08563889","-77.99044444","POINT (-77.99044444 42.08563889)"
+"CU1982","7590 Brownell Rd, Clymer","Brownell Rd","Clymer","Chautauqua","9","125","66","25","66","N","2.5","NYRD10203","42.03380556","-79.57611111","POINT (-79.57611111 42.03380556)"
+"CT1593","N/A","N/A","Allegany","Cattaraugus","9","125",,"50","61","N","20","NYRD10086","42.13291667","-78.46594444","POINT (-78.46594444 42.13291667)"
+"CB4038","28 Knitt Rd, Hudson","Knitt Rd","Stockport","Columbia","4","105","48","45","58","N","1.799999952","NYRD10010","42.32713889","-73.73613889","POINT (-73.73613889 42.32713889)"
+"A2034","N/A","N/A","Rensselaerville","Albany","4","200","92","84","103","N","8","NYRD10040","42.42566667","-74.20516667","POINT (-74.20516667 42.42566667)"
+"CN2613","582 Co Rd 7, Mc Donough","Co Rd 7","Mc Donough","Chenango","7","98","90",,"91","N","10","NYRD10067",,,
+"CU4180","27 Cherry Creek-leon Rd, Cherry Creek","Cherry Creek Leon Rd","Cherry Creek","Chautauqua","9","400","-999","0","278","N","3","NYRD10091",,,
+"AG1105","Well 4, Rt 305, Part Of Lot 32","Rt 305","Clarksville","Allegany","9","260",,,"41","N","24","NYRD10535",,,
+"CT2112","N/A","N/A","Little Valley","Cattaraugus","9","120",,,"45","N",,"NYRD10091","42.20622222","-78.84672222","POINT (-78.84672222 42.20622222)"
+"CT1501","N/A","N/A","Great Valley","Cattaraugus","9","110",,,,"N",,"NYRD10091","42.17727778","-78.59258333","POINT (-78.59258333 42.17727778)"
+"AG3009","1630 Casey Rd, Wellsville","Casey Rd","Wellsville","Allegany","9","140","28","90","26","N","5","NYRD10408","42.071","-77.82380556","POINT (-77.82380556 42.071)"
+"C2135","Pease Hill Rd, Cuyler","Pease Hill Rd","Cuyler","Cortland","7","190","85","80","8","N","12","NYRD10944","42.71483333","-75.96275","POINT (-75.96275 42.71483333)"
+"CU3708","10526 Creek Rd, Forestville","Creek Rd","Forestville","Chautauqua","9","40","28","17","28","N","3","NYRD10408","42.46069444","-79.18386111","POINT (-79.18386111 42.46069444)"
+"DU5591","Rt 199, Milan","Rt 199","Milan","Dutchess","3","707",,,"20","N",,"NYRD10076","41.97405556","-73.80777778","POINT (-73.80777778 41.97405556)"
+"CU2668","6015 Douglas Rd","Douglas Rd","Westfield","Chautauqua","9","60","17","60","17","N","2","NYRD10203","42.26191667","-79.61613889","POINT (-79.61613889 42.26191667)"
+"DU5634","N/A","N/A","Clinton","Dutchess","3","127",,"30","20","N","15","NYRD10076","41.89733333","-73.77933333","POINT (-73.77933333 41.89733333)"
+"CN1102","Sprague Rd And Rt 41n, Afton","Sprague Rd","Afton","Chenango","7","150",,"24","40","N","15","NYRD10288",,,
+"DU3846","N/A","N/A","Rhinebeck","Dutchess","3","65",,"10","60","N",,"NYRD10010","41.9545","-73.84316667","POINT (-73.84316667 41.9545)"
+"CN1580","8463 St Hwy 12, Sherburne","St Hwy 12","Sherburne","Chenango","7","166","163",,"161","N","20","NYRD10067","42.69513889","-75.49986111","POINT (-75.49986111 42.69513889)"
+"CM1927","27 Hibbard Rd, Big Flats","Hibbard Rd","Big Flats","Chemung","8","70","-999","11","70","N","6","NYRD10330",,,
+"CY1761","11187 St Rt 90, Locke","St Rt 90","Locke","Cayuga","7","111","8","14","8","N","10","NYRD10453","42.65961111","-76.46961111","POINT (-76.46961111 42.65961111)"
+"BM2052","Palmer Hill Rd, Binghamton","Palmer Hill Rd","Binghamton","Broome","7","160","10","55","9.25","N","10","NYRD10169",,,
+"CB1274","Boston Corners Rd","Boston Corners Rd","Ancram","Columbia","4","58","-999","8","56","N","10","NYRD10005",,,
+"CT3605","7286 Ellicottville Maples Rd, Little Valley","Ellicottville Maples Rd","Little Valley","Cattaraugus","9","71","-999","0","69","N","50","NYRD10408","42.3135","-78.72783333","POINT (-78.72783333 42.3135)"
+"CU1840","Fredonia Stockton Rd","Fredonia Stockton Rd","Pomfret","Chautauqua","9","53",,,"11.75","N","10","NYRD10084","42.41013889","-79.31419444","POINT (-79.31419444 42.41013889)"
+"A2476","660 Altamont Voorheesville Rd","Altamont Voorheesville Rd","Guilderland","Albany","4","59","-999",,"59","N","5","NYRD10027","42.66416667","-73.99694444","POINT (-73.99694444 42.66416667)"
+"AG896","N/A","N/A","Alma","Allegany","9","70",,"21","38.65999985","N","8","NYRD10043","42.08388889","-78.06444444","POINT (-78.06444444 42.08388889)"
+"CT1742","Rt 219, Great Valley","Rt 219","Great Valley","Cattaraugus","9","32",,,"31","N",,"NYRD10091","42.24991667","-78.64736111","POINT (-78.64736111 42.24991667)"
+"CB3049","4 Dogwood Dr, Hudson","Dogwood Dr","Greenport","Columbia","4","540",,"70","38","N","6","NYRD10055",,,
+"CY899","Indian Field Rd, Genoa","Indian Field Rd","Genoa","Cayuga","7","80",,"75","44","N","30","NYRD10453","42.67052778","-76.54788889","POINT (-76.54788889 42.67052778)"
+"CB3992","Island Dr, Copake","Island Dr","Copake","Columbia","4","505","12","60","18","N","1","NYRD10010","42.14791667","-73.59863889","POINT (-73.59863889 42.14791667)"
+"CB5166","Rt 9 And Rt 9h, Livingston","Rt 9","Livingston","Columbia","4","405","48",,"63","N","10","NYRD10351","42.17958333","-73.75830556","POINT (-73.75830556 42.17958333)"
+"CU2040","N/A","N/A","Gerry","Chautauqua","9","150",,"50","20","N","1.5","NYRD10203","42.18591667","-79.23308333","POINT (-79.23308333 42.18591667)"
+"CB5093","Crow Hill Rd, Hillsdale, Container Well","Crow Hill Rd","Taghkanic","Columbia","4","405","0",,"18","N","45","NYRD10351","42.12344444","-73.63319444","POINT (-73.63319444 42.12344444)"
+"CU2470","Harmon Hill Rd, Portland","Harmon Hill Rd","Pomfret","Chautauqua","9","107",,,"11","N","3","NYRD10084","42.38486111","-79.39811111","POINT (-79.39811111 42.38486111)"
+"CU4652","6908 Beech Hill Rd, Dewittville","Beech Hill Rd","Mayville","Chautauqua","9","95","60","56.70000076","64.80000305","N","12","NYRD10091","42.30138889","-79.44094444","POINT (-79.44094444 42.30138889)"
+"CL2677","Woods Falls Rd, Mooers","Woods Falls Rd","Mooers","Clinton","5","65","10","0","13","N","30","NYRD10182","44.91919444","-73.55494444","POINT (-73.55494444 44.91919444)"
+"CM1330","125 Mill St","Mill St","Horseheads","Chemung","8","160",,,"121.5","N","2","NYRD10024","42.17263889","-76.73661111","POINT (-76.73661111 42.17263889)"
+"D2118","N/A","N/A","Roxbury","Delaware","4","598","5",,"118.5","N","5","NYRD10178","42.26605556","-74.54097222","POINT (-74.54097222 42.26605556)"
+"CL562","87 Super Rd, Saranac","Super Rd","Saranac","Clinton","5","543",,"465","125","N","2","NYRD10030","44.641","-73.74163889","POINT (-73.74163889 44.641)"
+"AG861","N/A","N/A","New Hudson","Allegany","9","140",,"33","70","N","6","NYRD10269","42.298","-78.22361111","POINT (-78.22361111 42.298)"
+"C1681","5390 Rt 11, Homer","Rt 11","Homer","Cortland","7","30","-999","7","28.5","N","10","NYRD10080","42.66705556","-76.16602778","POINT (-76.16602778 42.66705556)"
+"CN2650","847 W Co Rt 24, Sherburne, Well 1","Co Rt 24","Sherburne","Chenango","7","125","53","60","52","N","3","NYRD10110","42.72311111","-75.43402778","POINT (-75.43402778 42.72311111)"
+"AG2168","Eymer Rd, Amity","Eymer Rd","Amity","Allegany","9","110","5","85","28.79999924","N","12","NYRD10082","42.18661111","-78.04513889","POINT (-78.04513889 42.18661111)"
+"CL1910","66 Deutsch Dr, Peru","Deutsch Dr","Peru","Clinton","5","325","10","80","17","N","0.125","NYRD10181","44.52452778","-73.51933333","POINT (-73.51933333 44.52452778)"
+"BM3452","4485 Murphy Rd, Binghamton","Murphy Rd","Conklin","Broome","7","222","114","15","121","N","5","NYRD10081","42.05138889","-75.85166667","POINT (-75.85166667 42.05138889)"
+"AG2960","8618 Coon Hollow, Lot 10, Genesee","Coon Hollow Rd","Genesee","Allegany","9","140","10","60","50","N","24","NYRD10535",,,
+"CY412","Jorlemon Rd, Weedsport","Jorlemon Rd","Cato","Cayuga","7","153","103","130","102.3000031","N","7","NYRD10230","43.09666667","-76.54713889","POINT (-76.54713889 43.09666667)"
+"BM3475","Glendenning Rd, Colesville","Glendenning Rd","Colesville","Broome","7","145","30","40","28.70000076","N","10","NYRD10439","42.23777778","-75.67586111","POINT (-75.67586111 42.23777778)"
+"DU5328","175 Charwill Rd, Stanfordville","Charwill Dr","Stanford","Dutchess","3","605",,,"31","N","2","NYRD01695","41.89972222","-73.76094444","POINT (-73.76094444 41.89972222)"
+"AG1959","1546 Terbury Rd, Alfred Station","Terbury Rd","Alfred","Allegany","9","115","24","60","26.5","N","20","NYRD10294","42.26716667","-77.81083333","POINT (-77.81083333 42.26716667)"
+"C1560","1047 Rt 90, Cortland","Rt 90","Homer","Cortland","7","200","10","100","26.5","N","6","NYRD10080","42.63994444","-76.20638889","POINT (-76.20638889 42.63994444)"
+"CN1212","N/A","N/A","Bainbridge","Chenango","7","100",,,"10","N","30","NYRD10439","42.28852778","-75.48894444","POINT (-75.48894444 42.28852778)"
+"A1617","Helderberg Rd","Helderberg Rd","Knox","Albany","4","158",,"35","38.5","N","15","NYRD10027",,,
+"CB2181","N/A","N/A","Stockport","Columbia","4","265",,"60","120","N","15","NYRD10010","42.21194444","-73.74894444","POINT (-73.74894444 42.21194444)"
+"DU5318","Browns Pond Rd, Clinton","Browns Pond Rd","Clinton","Dutchess","3","250",,"30","40","N","60","NYRD10061","41.8665","-73.87644444","POINT (-73.87644444 41.8665)"
+"D3549","39564 St Rt 23, Grand Gorge","St Rt 23","Roxbury","Delaware","4","320","117",,"123","N","6","NYRD10016","42.34316667","-74.46161111","POINT (-74.46161111 42.34316667)"
+"AG1117","Old State Rd, Allen","Old State Rd","Allen","Allegany","9","60","40","32","43.5","N","10","NYRD10440","42.41002778","-77.97152778","POINT (-77.97152778 42.41002778)"
+"AG1852","N/A","N/A","Birdsall","Allegany","9","95","30","50","32.5","N","15","NYRD10294","42.35027778","-77.87863889","POINT (-77.87863889 42.35027778)"
+"D2221","Easy St, Davenport","Easy St","Davenport","Delaware","4","240",,,"30","N","7","NYRD10067",,,
+"C1764","4707 Telephone Rd, Cincinnatus","Telephone Rd","Cincinnatus","Cortland","7","180","21","60","19.5","N","3","NYRD10080","42.58388889","-75.96230556","POINT (-75.96230556 42.58388889)"
+"DU4708","Lot 30","N/A","Union Vale","Dutchess","3","345",,"14","61","N","50","NYRD10071","41.67361111","-73.72416667","POINT (-73.72416667 41.67361111)"
+"AG1777","N/A","N/A","Wirt","Allegany","9","175",,"130","170","N","10","NYRD10269","42.16213889","-78.14819444","POINT (-78.14819444 42.16213889)"
+"CY306","166 Krystyna Ln","Krystyna Ln","Cato","Cayuga","7","45","18","11","30","N","30","NYRD10110","43.10886111","-76.48169444","POINT (-76.48169444 43.10886111)"
+"AG1833","N/A","N/A","Wellsville","Allegany","9","270",,"170","23","N","9","NYRD10043","42.1555","-77.92","POINT (-77.92 42.1555)"
+"CU2829","Center Rd, Arkwright","Center Rd","Arkwright","Chautauqua","9","100","42","35","55.90000153","N","10","NYRD10408","42.41477778","-79.23833333","POINT (-79.23833333 42.41477778)"
+"DU6638","N/A","N/A","Pleasant Valley","Dutchess","3","275",,,"20","N","5","NYRD10025","41.75994444","-73.84677778","POINT (-73.84677778 41.75994444)"
+"CN2105","N/A","N/A","Afton","Chenango","7","90","-999","10","88.30000305","N","20","NYRD10439","42.20363889","-75.53572222","POINT (-75.53572222 42.20363889)"
+"BM1001","N/A","N/A","Triangle","Broome","7","160",,,"61","N","1.5","NYRD10230","42.39783333","-75.92797222","POINT (-75.92797222 42.39783333)"
+"CL1029","N/A","N/A","Dannemora","Clinton","5","205","94","15","104","N","10","NYRD10179","44.73472222","-73.95861111","POINT (-73.95861111 44.73472222)"
+"CU3239","6903 Webster Rd, Westfield","Webster Rd","Portland","Chautauqua","9","65","15","20","14.5","N","1.799999952","NYRD10050","42.35477778","-79.50861111","POINT (-79.50861111 42.35477778)"
+"CB2228","N/A","N/A","Gallatin","Columbia","4","305",,"5","82","N","10","NYRD10010","42.04647222","-73.78786111","POINT (-73.78786111 42.04647222)"
+"CN1004","German Hollow Rd, Mc Donough","German Hollow Rd","German","Chenango","7","174","75","2","88","N","15","NYRD10081","42.45408333","-75.81363889","POINT (-75.81363889 42.45408333)"
+"D1942","Chipmunk Hollow Rd, Walton, Well 2","Chipmunk Hollow Rd","Walton","Delaware","4","180",,,"44","N","20","NYRD10067",,,
+"CL2343","Indian Point Way, Chazy Lake","Indian Point Way","Chazy","Clinton","5","164","18","12","23","N","12","NYRD10179","44.74666667","-73.83361111","POINT (-73.83361111 44.74666667)"
+"DU4821","Moadock Rd, Millerton","Moadock Rd","Northeast","Dutchess","3","425","3","15","29","N","12","NYRD10061","41.90166667","-73.59388889","POINT (-73.59388889 41.90166667)"
+"CT2403","N/A","N/A","Ischua","Cattaraugus","9","75","-999","40","74.33000183","N","15","NYRD10269","42.23783333","-78.30933333","POINT (-78.30933333 42.23783333)"
+"D2363","N/A","N/A","Sidney","Delaware","4","204","40","20","18.5","N","4","NYRD10238","42.30919444","-75.26272222","POINT (-75.26272222 42.30919444)"
+"CB3355","Chrysler Pond Rd, Copake","Chrysler Pond Rd","Copake","Columbia","4","320","20","20","28.5","N","5","NYRD10001","42.109","-73.60783333","POINT (-73.60783333 42.109)"
+"CU3764","6755 S Portage Rd, Westfield","South Portage Rd","Westfield","Chautauqua","9","120","93",,"94.5","N","1","NYRD10084","42.29569444","-79.56044444","POINT (-79.56044444 42.29569444)"
+"CB3110","Fairview Ave, Livingston","Fairview Ave","Livingston","Columbia","4","600",,"95","33","N",,"NYRD10005","42.06508333","-73.79530556","POINT (-73.79530556 42.06508333)"
+"D1188","6150 Dunk Hill Rd, Walton","Dunk Hill Rd","Franklin","Delaware","4","120",,"98","40","N",,"NYRD10113","42.2715","-75.08661111","POINT (-75.08661111 42.2715)"
+"CT3313","N/A","N/A","Otto","Cattaraugus","9","90","55",,"53.40000153","N","15","NYRD10091","42.33969444","-78.72283333","POINT (-78.72283333 42.33969444)"
+"DU10182","410 Sepaco Center St, Rhinebeck","Sepaco Center St","Rhinebeck","Dutchess","3","455","110","15","109","N","10","NYRD10025","41.95647222","-73.84313889","POINT (-73.84313889 41.95647222)"
+"A2238","82 French Mills Rd, Guilderland","French Mills Rd","Guilderland","Albany","4","75","-999","19.20000076","75","N","10","NYRD10027","42.71669444","-73.95083333","POINT (-73.95083333 42.71669444)"
+"CY1783","Gunn Rd, Genoa","Gunn Rd","Genoa","Cayuga","7","80","20",,"19.29999924","N","40","NYRD10230","42.41191667","-76.32366667","POINT (-76.32366667 42.41191667)"
+"DU5993","N/A","N/A","Hyde Park","Dutchess","3","215",,"20","20","N","8","NYRD10025","41.74630556","-73.91188889","POINT (-73.91188889 41.74630556)"
+"CL455","N/A","N/A","Schuyler Falls","Clinton","5","225",,"20","106","N","5","NYRD10179","44.63444444","-73.53138889","POINT (-73.53138889 44.63444444)"
+"A2110","Long Rd","Long Rd","Berne","Albany","4","137","-999","25.20000076","136","N","12","NYRD10027","42.61075","-74.05905556","POINT (-74.05905556 42.61075)"
+"D1423","Bell Hill, Delhi","N/A","Delhi","Delaware","4","202",,,"16","N","7","NYRD10159","42.28066667","-74.945","POINT (-74.945 42.28066667)"
+"AG1268","Co Rt 10 Scio","Vandermark Rd/co Rt 10","Ward","Allegany","9","48","-999","5","48","N","20","NYRD10043","42.19694444","-77.89472222","POINT (-77.89472222 42.19694444)"
+"A1558","Bethlehem Industrial Park","N/A","Coeymans","Albany","4","500",,"106","277.1000061","N","0.5","NYRD10002","42.52013889","-73.81063889","POINT (-73.81063889 42.52013889)"
+"CU2235","8913 Barber Rd, Westfield","Barber Rd","Westfield","Chautauqua","9","60",,,"30","N","33","NYRD10050","42.28988889","-79.63936111","POINT (-79.63936111 42.28988889)"
+"DU6824","Hilltop Manor Subd, Lot 4, East Fishkill","N/A","East Fishkill","Dutchess","3","305",,,"51","N","10","NYRD10105","41.58066667","-73.78783333","POINT (-73.78783333 41.58066667)"
+"CL2566","N/A","N/A","Ellenburg","Clinton","5","230","-999",,"120","N","25","NYRD10212","44.77827778","-73.95747222","POINT (-73.95747222 44.77827778)"
+"CB2491","Pheasant Lane Off Rt 28, Valatie, Well 3","Pheasant Ln","Kinderhook","Columbia","4","102",,"10","52","N","10","NYRD10001","42.44666667","-73.68027778","POINT (-73.68027778 42.44666667)"
+"AG1916","7967 Co Rd 1, Lot 14, Wirt","Co Rd 1","Wirt","Allegany","9",,"-999",,,"N","24","NYRD10535",,,
+"CU2782","Wait Corners Rd","Wait Corners Rd","Sherman","Chautauqua","9","114",,"21","42","N","20","NYRD10089","42.10344444","-79.55638889","POINT (-79.55638889 42.10344444)"
+"DU6923","Farmview Estates, Old Rt 22, Amenia","Old Rt 22","Amenia","Dutchess","3","310",,,"143","N","7","NYRD10105","41.82166667","-73.5535","POINT (-73.5535 41.82166667)"
+"BM2765","N/A","N/A","Colesville","Broome","7","140","20","40","18.70000076","N","10","NYRD10439","42.17047222","-75.58355556","POINT (-75.58355556 42.17047222)"
+"C1352","Rt 281, Preble","Rt 281","Preble","Cortland","7","42",,"15.89999962","42","N","100","NYRD10110","42.75738889","-76.13194444","POINT (-76.13194444 42.75738889)"
+"CY1717","10538 Rt 90, Genoa","Rt 90","Genoa","Cayuga","7","50","25","42","27","N","10","NYRD10453","42.66844444","-76.50336111","POINT (-76.50336111 42.66844444)"
+"AG2870","7220 Spring Rd, Hume","Spring Rd","Hume","Allegany","9","78","-999","27","78","N","20","NYRD10082","42.49538889","-78.14533333","POINT (-78.14533333 42.49538889)"
+"CL793","N/A","N/A","Saranac","Clinton","5","350",,,"143","N","1.5","NYRD10212","44.43933333","-73.75966667","POINT (-73.75966667 44.43933333)"
+"C1404","Lot 2, Blue Creek Rd, Cortlandville","Blue Creek Rd","Cortlandville","Cortland","7","280","32",,"34.5","N","10","NYRD10080","42.61427778","-76.22063889","POINT (-76.22063889 42.61427778)"
+"BM1053","N/A","N/A","Barker","Broome","7","195",,"30","10","N","10","NYRD10439","42.29111111","-75.85030556","POINT (-75.85030556 42.29111111)"
+"CU1119","7495 Farrington Hollow Rd, Cherry Creek","Farrington Hollow Rd","Cherry Creek","Chautauqua","9","97","-999","73","97","N","6","NYRD10018","42.31833333","-79.15694444","POINT (-79.15694444 42.31833333)"
+"DU4364","Lot 1, Mcfarlane Rd, Wappingers Falls","Mcfarlane Rd","Wappinger","Dutchess","3","155","5","38","20","N","15","NYRD01695","41.57194444","-73.90136111","POINT (-73.90136111 41.57194444)"
+"CY888","N/A","N/A","Genoa","Cayuga","7","46",,"40","31.79999924","N","7","NYRD10372","42.63","-76.47919444","POINT (-76.47919444 42.63)"
+"CU1544","N/A","N/A","Jamestown","Chautauqua","9","145",,"135","67","N","3","NYRD10203","42.08208333","-79.34577778","POINT (-79.34577778 42.08208333)"
+"DU3923","27 Fishkill Hook Rd, Hopewell Junction","Fishkill Hook Rd","East Fishkill","Dutchess","3","505",,,"62","N","0.050000001","NYRD10105","41.53833333","-73.84763889","POINT (-73.84763889 41.53833333)"
+"CB4401","601 Spook Rock Rd, Hudson","Spook Rock Rd","Greenport","Columbia","4","120","-999","12","119","N","75","NYRD10351","42.20072222","-73.75316667","POINT (-73.75316667 42.20072222)"
+"CB5106","Co Rt 11, Hillsdale","Co Rt 11","Claverack","Columbia","4","60","-999","12","55","Y","100","NYRD10351","42.23622222","-73.63","POINT (-73.63 42.23622222)"
+"DU7186","Landsbrook Meadows, Lot 1, Beekman","N/A","Beekman","Dutchess","3","250",,,"120","N","50","NYRD10105","41.61116667","-73.75166667","POINT (-73.75166667 41.61116667)"
+"C1300","Cuyler Hill Rd","Cuyler Hill Rd","Cuyler","Cortland","7","280","24","95","25.5","N","6","NYRD10080","42.70683333","-75.92066667","POINT (-75.92066667 42.70683333)"
+"C2098","4256 Rt 41, Mc Graw","Rt 41","Cortlandville","Cortland","7","148",,,"40","N","1","NYRD10088","42.90011111","-75.50916667","POINT (-75.50916667 42.90011111)"
+"A1273","56 Indian Hill Rd, Feura Bush","Indian Hill Rd","Coeymans","Albany","4","153",,"33","40","N","12","NYRD10027","42.51269444","-73.96358333","POINT (-73.96358333 42.51269444)"
+"CT1096","Five Mile Rd, Allegany","Five Mile Rd","Allegany","Cattaraugus","9","124","-999","94","124","N",,"NYRD10091","42.13569444","-78.50069444","POINT (-78.50069444 42.13569444)"
+"DU3469","Laurel Ridge Subd, Lot 4","Wildflower Ridge","La Grange","Dutchess","3","205","30","10","41","N","15","NYRD10105","41.64175","-73.83108333","POINT (-73.83108333 41.64175)"
+"CU1332","Waterman Rd, Stockton","Waterman Rd","Stockton","Chautauqua","9","103",,,"102.5","N","15","NYRD10143","42.27961111","-79.33186111","POINT (-79.33186111 42.27961111)"
+"CY1373","87 East Lake Rd, Port Byron","East Lake Rd","Port Byron","Cayuga","7","84","-999","7","83.30000305","N","1","NYRD10230","43.14441667","-76.68702778","POINT (-76.68702778 43.14441667)"
+"AG1901","4172 St Rt 275, Friendship","St Rt 275","Friendship","Allegany","9","118",,"3","118","N","12","NYRD10082","42.18102778","-78.14477778","POINT (-78.14477778 42.18102778)"
+"CM1208","988 Breesport Rd, Erin","Breesport Rd","Erin","Chemung","8",,,,"73","N","15","NYRD10096","42.17533333","-76.70477778","POINT (-76.70477778 42.17533333)"
+"C1700","4853 Tamarach Lane, Homer","Tamarach Ln","Homer","Cortland","7","240",,"80","48","N","20","NYRD10080","42.55933333","-76.22488889","POINT (-76.22488889 42.55933333)"
+"C1215","Lot 1, Limerick","N/A","Homer","Cortland","7","57",,"30","57","N","15","NYRD10080","42.66933333","-76.21466667","POINT (-76.21466667 42.66933333)"
+"DU4799","58 Mount Tom Rd","Mount Tom Rd","Pawling","Dutchess","3","325","16","90","49","N","30","NYRD10105","41.55666667","-73.62427778","POINT (-73.62427778 41.55666667)"
+"CL2610","713 St Rt 189, Churubusco","St Rt 189","Clinton","Clinton","5","225","50","80","48","N","5","NYRD10182","44.97383333","-73.93422222","POINT (-73.93422222 44.97383333)"
+"CU1084","County Rd 9 Ripley","Co Rd 9","Ripley","Chautauqua","9","80","17","13.5","15.5","N","4","NYRD10143","42.2155","-79.69638889","POINT (-79.69638889 42.2155)"
+"CY1151","2628 Tanner Rd, Brutus","Tanner Rd","Brutus","Cayuga","7","75","36","39","39.5","N","20","NYRD10340","43.01516667","-76.56663889","POINT (-76.56663889 43.01516667)"
+"CU2639","Mahanna Rd","Mahanna Rd","Ellery","Chautauqua","9","92",,"18","59.29999924","N","9","NYRD10089","42.18683333","-79.37666667","POINT (-79.37666667 42.18683333)"
+"CT3351","N/A","N/A","Salamanca","Cattaraugus","9","60","-999",,,"N","15","NYRD10091","42.20461111","-78.76327778","POINT (-78.76327778 42.20461111)"
+"D1586","944 Bull Run Rd, Middletown","Bull Run Rd","Middletown","Delaware","4","400","129",,"138.5","N","5","NYRD10178","42.16416667","-74.6485","POINT (-74.6485 42.16416667)"
+"CT2451","3616 Reagan Rd, Hinsdale","Reagan Rd","Hinsdale","Cattaraugus","9","405",,"340","40","N",,"NYRD10009","42.15216667","-78.31102778","POINT (-78.31102778 42.15216667)"
+"DU4909","Laurel Ridge Subd, Lot 1","Wildflower Ridge","La Grange","Dutchess","3","605",,,"32","N","5","NYRD10105","41.64066667","-73.83186111","POINT (-73.83186111 41.64066667)"
+"CL2181","N/A","N/A","Peru","Clinton","5","305","205","60","211","N","6","NYRD10761","44.54883333","-73.44266667","POINT (-73.44266667 44.54883333)"
+"CT3450","1000 Eagle St, Freedom","Eagle St","Freedom","Cattaraugus","9","34","-999","23","34","N","15","NYRD10082","42.50480556","-78.35922222","POINT (-78.35922222 42.50480556)"
+"CN2943","N/A","N/A","Oxford","Chenango","7","130","70","70","68.69999695","N","8","NYRD10439","42.36827778","-75.57155556","POINT (-75.57155556 42.36827778)"
+"D1120","Lot 11, Sunrise Mt Rd, Bloomville","Sunrise Mountain Rd","Kortright","Delaware","4","478",,,"67","N","7","NYRD10159",,,
+"DU7413","41 Milewood Rd, Unionvale","Milewood Rd","Union Vale","Dutchess","3","610","2","20","39","N","5","NYRD10061","41.73019444","-73.73147222","POINT (-73.73147222 41.73019444)"
+"BM978","N/A","N/A","Colesville","Broome","7","155",,"40","10","N","12","NYRD10439","42.1355","-75.62472222","POINT (-75.62472222 42.1355)"
+"D1292","Irish Hill Rd","Irish Hill Rd","Meredith","Delaware","4","348","35","70","48.5","N","5","NYRD10178","42.37827778","-74.85927778","POINT (-74.85927778 42.37827778)"
+"A2086","Maple Ave Ext","Maple Ave Ext","Westerlo","Albany","4","130","43","26","47","N","6","NYRD10525","42.43936111","-74.05569444","POINT (-74.05569444 42.43936111)"
+"C1809","2703 Highland Rd, Lapeer","Highland Rd","Lapeer","Cortland","7","90","70",,"73","N","10","NYRD10454","42.45197222","-76.09536111","POINT (-76.09536111 42.45197222)"
+"CU2426","5094 Pickard Rd, Dewittville","Pickard Rd","Ellery","Chautauqua","9","85",,,"43","N","10","NYRD10084","42.22822222","-79.39194444","POINT (-79.39194444 42.22822222)"
+"D1573","N/A","N/A","Davenport","Delaware","4","255",,"50","35","N","15","NYRD10023","42.41472222","-74.93894444","POINT (-74.93894444 42.41472222)"
+"CB4650","522 Snyderville Rd, Elizaville","Snyderville Rd","Gallatin","Columbia","4","245","10",,"19","N","3","NYRD10351","42.07972222","-73.76397222","POINT (-73.76397222 42.07972222)"
+"CT3987","5823 Rt 98, Great Valley","Rt 98","Great Valley","Cattaraugus","9","50","-999",,"50","N","15","NYRD10091","42.22194444","-78.63138889","POINT (-78.63138889 42.22194444)"
+"CB3983","233 School House Rd, Stuyvesant","School House Rd","Stuyvesant","Columbia","4","410","13","8","28","N","3","NYRD10055",,,
+"A1000","Filkins Hill Rd, East Berne","Filkins Hill Rd","Berne","Albany","4","190",,"180","40","N","5","NYRD10236",,,
+"CT1675","Malachowsky Estate, 2843 Co Rt 19, Allegany","Co Rt 19","Allegany","Cattaraugus","9","60",,"6","60","N",,"NYRD10070",,,
+"D2888","N/A","N/A","Meredith","Delaware","4","450","75","120","78","N","4","NYRD10023","42.26588889","-74.52469444","POINT (-74.52469444 42.26588889)"
+"DU4789","Shelly Hill Rd, Sanfordville","Shelly Hill Rd","Stanford","Dutchess","3","460","90","39","99","N","3","NYRD10025","41.90163889","-73.73772222","POINT (-73.73772222 41.90163889)"
+"CL2070","127 Parker Rd, West Chazy","Parker Rd","Chazy","Clinton","5","400","120",,"126","N","7.5","NYRD10037","44.82727778","-73.52866667","POINT (-73.52866667 44.82727778)"
+"AG967","Bentley Rd","Bentley Rd","Allen","Allegany","9","170",,,"70.5","N","2","NYRD10082","42.35347222","-78.07238889","POINT (-78.07238889 42.35347222)"
+"DU4933","178 Horseshoe Trail, Clinton Corners","Horseshoe Trail","Clinton","Dutchess","3","505",,,"50","N","2","NYRD10155","41.85361111","-73.79638889","POINT (-73.79638889 41.85361111)"
+"CU4320","2815 East Ave, Greenhurst","East Ave","Ellicott","Chautauqua","9","35","-999",,"35","N","15","NYRD10084","42.11830556","-79.30922222","POINT (-79.30922222 42.11830556)"
+"CU2651","5423 Meadows Rd, Dewittville","Meadows Rd","Chautauqua","Chautauqua","9","106",,,"104.5","N","100","NYRD10084","42.23727778","-79.44544444","POINT (-79.44544444 42.23727778)"
+"CB4173","15 Petty Drive Ext, Ghent","Petty Dr Ext","Ghent","Columbia","4","280","140","15","28.5","N","10","NYRD10001","42.29680556","-73.67108333","POINT (-73.67108333 42.29680556)"
+"CU1665","N/A","N/A","Chautauqua","Chautauqua","9","85",,"25","26","N","4","NYRD10203","42.22811111","-79.42786111","POINT (-79.42786111 42.22811111)"
+"CU1785","2726 Whitaker Rd, Forestville","Whitaker Rd","Sheridan","Chautauqua","9","48","29","16","29.5","N",,"NYRD10421","42.44083333","-79.23825","POINT (-79.23825 42.44083333)"
+"C2124","Landers Corners Rd, Willet","Landers Corners Rd","Willet","Cortland","7","184","-999","30","183.5","N","10","NYRD10081","42.41466667","-75.94488889","POINT (-75.94488889 42.41466667)"
+"CN1721","Hopkins Crandall Rd, Plymouth","Hopkins Crandall Rd","Plymouth","Chenango","7","260",,"5","118","N","25","NYRD10165","42.63619444","-75.61522222","POINT (-75.61522222 42.63619444)"
+"D3269","30 Lake St, Stamford","Lake St","Stamford","Delaware","4","98","14","40","49","N","10","NYRD10178","42.41672222","-74.62127778","POINT (-74.62127778 42.41672222)"
+"CU1487","N/A","N/A","Clymer","Chautauqua","9","65",,"50","28","N","20","NYRD10203","42.01119444","-79.5325","POINT (-79.5325 42.01119444)"
+"C2275","4886 Health Camp Rd, Homer","Health Camp Rd","Homer","Cortland","7","225","96",,"96","N","5","NYRD10967","42.64963889","-76.15355556","POINT (-76.15355556 42.64963889)"

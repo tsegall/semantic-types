@@ -1,0 +1,189 @@
+Codigo,Nombre,Categoria,Estado,Departamento,Municipio,Ubicación,Altitud,Fecha_instalacion,Fecha_suspension,Corriente
+35017020,PUENTE LLERAS - AUT [35017020],Limnigráfica,Activa,Meta,Puerto López,"(4.10301944, -72.93638333)",177,1972-03-15,,Meta
+35025110,LA LIBERTAD - AUT [35025110],Agrometeorológica,Activa,Meta,Villavicencio,"(4.05736111, -73.46791667)",336,2007-03-24 19:00,,0
+3206500045,GRANADA SENA - AUT   [3206500045],Climática Principal,Activa,Meta,Granada (Meta),"(3.51633333, -73.73973333)",316,2017-12-27 19:00,,0
+35185010,LA PALOMERA - AUT [35185010],Agrometeorológica,Activa,Meta,Puerto López,"(4.26036111, -72.56447222)",188,2005-05-17 19:00,,0
+35035020,AEROPUERTO VANGUARDIA [35035020],Sinóptica Principal,Activa,Meta,Villavicencio,"(4.16191944, -73.61757778)",422,1924-10-15,,Quebrada Don Abad
+32077100,PEÑAS BLANCAS [32077100],Limnigráfica,Activa,Meta,San Juan De Arama,"(3.25161111, -73.89283333)",350,1983-12-14 19:00,,Guejar
+35017070,RANCHO ALEGRE [35017070],Limnimétrica,En Mantenimiento,Meta,Castilla La Nueva,"(3.86363889, -73.54061111)",337,1979-05-14 19:00,,Orotoy
+32075030,VISTA HERMOSA [32075030],Climática Ordinaria,Suspendida,Meta,Vistahermosa,"(3.12038889, -73.75402778)",325,1969-04-14 19:00,2019-02-22 4:13,0
+35037100,PUENTE ABADIA - AUT [35037100],Limnigráfica,Activa,Meta,Villavicencio,"(4.23533333, -73.63536111)",523,1968-04-14 19:00,,Guatiquia
+35107040,GUAICARAMO  - AUT [35107040],Limnigráfica,Activa,Meta,Barranca De Upía,"(4.68909444, -73.04651944)",264,1981-03-14 19:00,,Upia
+35035110,SALINAS DE UPIN  - AUT [35035110],Agrometeorológica,Activa,Meta,Restrepo (Meta),"(4.27386111, -73.58686111)",690,2007-03-22 19:00,,0
+32070120,MESA DE FERNANDEZ [32070120],Pluviométrica,Activa,Meta,San Juan De Arama,"(3.45655556, -74.02994444)",650,1993-10-15,,Quebrada Mucuya
+32070060,FUENTE DE ORO [32070060],Pluviométrica,Activa,Meta,Fuente De Oro,"(3.46666667, -73.63333333)",300,1979-07-15,,Aguacatal
+32070110,AGUAS CLARAS [32070110],Pluviométrica,Activa,Meta,Granada (Meta),"(3.47202778, -73.85783333)",520,1989-04-15,,Anamichu
+32075010,NARANJOS LOS [32075010],Climática Ordinaria,Suspendida,Meta,Granada (Meta),"(3.46666667, -73.71666667)",220,1968-03-15,1976-03-15,Aguacatal
+32075040,LA HOLANDA [32075040],Climática Ordinaria,Suspendida,Meta,Granada (Meta),"(3.51633333, -73.71602778)",360,1978-11-14 19:00,2019-02-22 4:00,0
+32060020,MESA DE YAMANES [32060020],Pluviométrica,Activa,Meta,El Castillo,"(3.53094444, -73.90108333)",600,1969-01-15,,Quebrada Sardinata
+35027140,PUENTE CARRETERA  - AUT [35027140],Limnigráfica,Activa,Meta,Villavicencio,"(4.07019444, -73.7625)",575,1968-04-14 19:00,,Guayuriba
+32020010,BOCAS DEL DUDA [32020010],Pluviométrica,Suspendida,Meta,La Macarena,"(2.53333333, -73.93333333)",377,1983-06-15,1983-10-15,Sucio
+32037010,LA BALSORA [32037010],Limnimétrica,Activa,Meta,La Macarena,"(2.43838889, -73.93227778)",248,1983-02-14 19:00,,Guayabero
+32030010,BALSORA LA [32030010],Pluviométrica,Suspendida,Meta,La Macarena,"(2.43838889, -73.93227778)",248,1983-06-15,1983-12-15,Guayabero
+32060060,CALIME [32060060],Pluviométrica,Activa,Meta,El Dorado,"(3.74233333, -73.83469444)",800,1978-07-15,,Magdalena
+35017030,ALTO COROZAL [35017030],Limnimétrica,Suspendida,Meta,Castilla La Nueva,"(3.8, -73.58333333)",331,1979-05-15,1990-01-15,Guamal
+35015010,NUTRIA LA [35015010],Climática Ordinaria,Suspendida,Meta,Castilla La Nueva,"(3.8, -73.43333333)",230,1968-05-15,1975-09-15,Guamal
+35010070,GUAMAL [35010070],Pluviométrica,Activa,Meta,Guamal (Meta),"(3.87833333, -73.75861111)",525,1978-04-15,,Inirida
+35017080,OROTOY [35017080],Limnimétrica,Suspendida,Meta,Castilla La Nueva,"(3.83333333, -73.61666667)",358,1979-06-15,1985-11-15,Orotoy
+35125020,VUELTA LARGA [35125020],Climática Principal,Suspendida,Meta,Puerto López,"(3.86666667, -72.2)",200,1987-03-15,1989-08-15,Chenche
+35010150,YAGUARITO [35010150],Pluviométrica,Activa,Meta,San Carlos De Guaroa,"(3.88333333, -73.34)",275,1994-01-15,,Inirida
+32010010,LA MARIPOSA [32010010],Pluviométrica,Activa,Meta,Uribe,"(2.56283333, -74.10308333)",383,1983-06-14 19:00,,0
+35010040,CAÑO HONDO [35010040],Pluviométrica,Activa,Meta,Guamal (Meta),"(3.92422222, -73.81458333)",800,1968-11-14 19:00,,0
+35130010,LA PLATA [35130010],Pluviométrica,Activa,Meta,Puerto López,"(3.95608333, -72.76572222)",225,1975-04-14 19:00,,0
+35010050,BORREGO V RICA HACIENDA [35010050],Pluviométrica,Suspendida,Meta,San Carlos De Guaroa,"(3.96666667, -73.4)",300,1975-07-15,1989-01-15,Sumapaz
+35010230,BAJO NARE [35010230],Pluviométrica,Activa,Meta,Puerto López,"(3.98463889, -72.97122222)",183,1983-06-15,,Cucuana
+35010020,ACACIAS [35010020],Pluviométrica,Activa,Meta,Acacías,"(3.99463889, -73.76558333)",525,1961-04-15,,Guaviare
+35020060,POMPEYA [35020060],Pluviométrica,Activa,Meta,Villavicencio,"(4.03975, -73.368)",260,1978-11-15,,Luisa
+35177010,PORVENIR EL [35177010],Limnimétrica,Suspendida,Meta,Puerto Gaitán,"(4.73333333, -71.4)",128,1979-08-15,1986-06-15,Meta
+35020270,LIBERTAD LA [35020270],Pluviométrica,Suspendida,Meta,Villavicencio,"(4.05736111, -73.46791667)",336,1968-05-15,1972-12-15,Iquira
+35025030,PACHAQUIARO [35025030],Climática Principal,Suspendida,Meta,Puerto López,"(4.06666667, -73.18333333)",200,1968-06-15,1986-06-15,Prado
+35035070,UNILLANOS [35035070],Climática Principal,Activa,Meta,Villavicencio,"(4.07672222, -73.582)",340,1983-10-15,,Guayuriba
+35037130,PUENTE DEL AMOR [35037130],Limnimétrica,Activa,Meta,Villavicencio,"(4.08608333, -73.66888889)",433,1978-05-15,,Ocoa
+35030050,OJO DE AGUA [35030050],Pluviométrica,Activa,Meta,Villavicencio,"(4.09113889, -73.44877778)",300,1978-07-15,,Ocoa
+35030060,APIAY [35030060],Pluviométrica,Suspendida,Meta,Villavicencio,"(4.08333333, -73.56666667)",300,1968-04-15,1972-06-15,Morales
+35030070,HIMAT R 6 [35030070],Pluviométrica,Suspendida,Meta,Villavicencio,"(4.08333333, -73.56666667)",400,1981-05-15,1994-04-15,Morales
+35035080,TERMO OCOA [35035080],Meteorológica Especial,Suspendida,Meta,Villavicencio,"(4.1, -73.7)",400,1993-12-15,2000-07-15,Ocoa
+35027180,PERALONSO [35027180],Limnimétrica,Suspendida,Meta,Villavicencio,"(4.1, -73.45)",261,1978-07-15,2002-06-15,Canal Pachaquiar
+35035010,BASE AEREA APIAY [35035010],Sinóptica Secundaria,Suspendida,Meta,Villavicencio,"(4.07711111, -73.55991667)",400,1972-10-14 19:00,2019-02-22 3:49,0
+35010010,PUERTO LOPEZ [35010010],Pluviométrica,Activa,Meta,Puerto López,"(4.10502778, -72.9365)",182,1960-09-15,,Canal Pachaquiar
+35020030,MANZANARES [35020030],Pluviométrica,Suspendida,Meta,Acacías,"(4.11666667, -73.8)",1200,1968-08-15,2002-04-30,Canal Pachaquiar
+35037140,MURUJUY [35037140],Limnimétrica,Suspendida,Meta,Villavicencio,"(4.11666667, -73.28333333)",340,1978-06-15,1985-08-15,Ocoa
+32070020,CAÑO BLANCO [32070020],Pluviométrica,Activa,Meta,Puerto Lleras,"(3.25, -73.51666667)",240,1979-09-14 19:00,,0
+32077060,PUERTO LLERAS [32077060],Limnimétrica,Suspendida,Meta,Puerto Lleras,"(3.26666667, -73.38333333)",238,1978-10-15,1984-12-15,Ariari
+32020020,LA URIBE LA [32020020],Pluviométrica,Activa,Meta,Uribe,"(3.24322222, -74.35372222)",950,1993-03-14 19:00,,0
+32075080,PUERTO LLERAS [32075080],Climática Ordinaria,Suspendida,Meta,Puerto Lleras,"(3.26769444, -73.37319444)",245,1990-10-14 19:00,2019-02-22 4:12,0
+35105040,PETRIBA [35105040],Climática Ordinaria,Suspendida,Meta,Barranca De Upía,"(4.38333333, -72.9)",175,1990-12-15,1993-10-15,Cocora
+35030090,BUENAVISTA [35030090],Pluviográfica,Activa,Meta,Restrepo (Meta),"(4.27477778, -73.61783333)",1280,1993-03-14 19:00,,0
+35030030,SENA [35030030],Pluviográfica,Activa,Meta,Villavicencio,"(4.12736111, -73.63955556)",425,1984-08-15,,Orinoco
+32080040,PORORIO EL [32080040],Pluviométrica,Suspendida,Meta,Puerto Concordia,"(2.83333333, -72.80933333)",235,1983-12-15,2000-11-30,Ariari
+35025040,BAMBU EL [35025040],Agrometeorológica,Suspendida,Meta,Puerto López,"(4.11666667, -73.18333333)",220,1972-05-15,1980-10-15,Guaviare
+35020070,SALADOS LOS [35020070],Pluviométrica,Suspendida,Meta,Puerto López,"(4.11666667, -73.15)",182,1967-10-15,1995-06-15,Guaviare
+35030380,IDEAM V/CIO [35030380],Pluviométrica,Activa,Meta,Villavicencio,"(4.14408333, -73.64183333)",503,2009-10-01,,Chochal
+35030100,ALCALDIA [35030100],Pluviográfica,Activa,Meta,Villavicencio,"(4.15, -73.63333333)",470,1993-08-15,,Clarin
+32070090,PEÑAS BLANCAS [32070090],Pluviométrica,Activa,Meta,San Juan De Arama,"(3.31666667, -73.91666667)",440,1983-12-14 19:00,,0
+32070030,LOS MICOS [32070030],Pluviométrica,Activa,Meta,San Juan De Arama,"(3.31638889, -73.89216667)",500,1979-09-14 19:00,,0
+35030040,ACUEDUCTO LA ESMERALDA [35030040],Pluviográfica,Activa,Meta,Villavicencio,"(4.16363889, -73.64772222)",550,1986-02-15,,San Juan
+32070080,TIERRA GRATA [32070080],Pluviométrica,Activa,Meta,Puerto Lleras,"(3.0875, -73.22638889)",191,1983-06-15,,Guaroco
+35107010,PUENTE CABUYARITO [35107010],Limnimétrica,Activa,Meta,Cabuyaro,"(4.29563889, -72.86561111)",168,1976-04-15,,Cabuyarito
+35105030,CABUYARO [35105030],Meteorológica Especial,Suspendida,Meta,Cabuyaro,"(4.28372222, -72.79283333)",180,1969-01-15,1971-07-15,Guaroco
+35035090,ALTO DEL TIGRE [35035090],Meteorológica Especial,Suspendida,Meta,El Calvario,"(4.28486111, -73.74833333)",3530,1995-07-15,2010-10-15,Guaroco
+32075060,COOPERATIVA LA [32075060],Climática Ordinaria,Suspendida,Meta,Fuente De Oro,"(3.36666667, -73.7)",280,1986-04-15,2005-04-30,Canal Principal
+32075020,PUERTO LIMON [32075020],Climática Ordinaria,Suspendida,Meta,Fuente De Oro,"(3.36666667, -73.5)",255,1968-05-15,1990-01-15,Canal Principal
+35045020,HACIENDA LA CABAÑA [35045020],Climática Ordinaria,Activa,Meta,Cumaral,"(4.30044444, -73.3575)",305,1979-05-14 19:00,,0
+32077110,EL LIMON[32077110],Limnimétrica,Activa,Meta,San Juan De Arama,"(3.36890278, -74.02961111)",570,1983-12-15,,Guejar
+35030020,MONFORT [35030020],Pluviométrica,Activa,Meta,El Calvario,"(4.31008333, -73.64802778)",1100,1968-08-15,,Coello
+35120010,PUERTO GAITAN [35120010],Pluviométrica,Activa,Meta,Puerto Gaitán,"(4.31138889, -72.07663889)",150,1963-01-15,,Coello
+35127010,PUERTO GAITAN [35127010],Limnimétrica,Activa,Meta,Puerto Gaitán,"(4.31155556, -72.07658333)",146,1977-12-15,,Manacacias
+35047030,PUENTE CARRETERA [35047030],Limnimétrica,Activa,Meta,Cumaral,"(4.31245, -73.41238056)",389,1972-02-15,,Guacavia
+35177030,SAN JOSE [35177030],Limnigráfica,Suspendida,Meta,Puerto Gaitán,"(4.85, -71.16666667)",122,1982-12-15,1984-11-15,Meta
+32097010,MAPIRIPAN [32097010],Limnimétrica,Activa,Meta,Mapiripán,"(2.88972222, -72.13011111)",158,1983-03-15,,Guaviare
+32087030,TEJA ROJA [32087030],Limnimétrica,Suspendida,Meta,Puerto Rico (Meta),"(2.9, -72.9)",220,1978-11-15,1983-05-15,Cno Pororio
+35027210,CASETEJA-DELICIAS [35027210],Limnigráfica,Suspendida,Meta,Acacías,"(4.19527778, -73.76888889)",866,1980-05-14 19:00,2019-02-22 3:51,Negro
+35030290,SERVITA [35030290],Pluviográfica,Activa,Meta,Villavicencio,"(4.18880556, -73.69311111)",191,1995-04-15,,Ceibas
+35057040,PUENTE CARRETERA [35057040],Limnimétrica,Activa,Meta,Restrepo (Meta),"(4.19834444, -73.57019722)",390,1978-10-15,,Rio Salinas
+35027160,PUENTE CARRETERA [35027160],Limnimétrica,Suspendida,Meta,Villavicencio,"(4.2, -73.71666667)",870,1978-04-15,1998-12-15,Quebrada Pipiral
+32080020,PISTA LA [32080020],Pluviométrica,Suspendida,Meta,Puerto Lleras,"(3.15, -72.96666667)",300,1980-05-14 19:00,2019-01-21 2:59,0
+35127020,CAMP YUCAO [35127020],Limnigráfica,Activa,Meta,Puerto López,"(4.34055556, -72.15636111)",147,1977-03-15,,Yucao
+35037110,PALMARITO [35037110],Limnimétrica,Suspendida,Meta,Restrepo (Meta),"(4.23333333, -73.53333333)",349,1978-10-15,2002-06-15,Cno Chivo
+32070010,CAMPO ALEGRE [32070010],Pluviométrica,Activa,Meta,Vistahermosa,"(3.2, -73.75)",260,1979-09-15,,Sonson
+32095010,VIENTO EL [32095010],Climática Ordinaria,Suspendida,Meta,Mapiripán,"(3.2, -72.68333333)",295,1983-12-15,1984-10-15,Sonson
+32070100,SAN JUAN DE ARAMA [32070100],Pluviométrica,Activa,Meta,San Juan De Arama,"(3.37508333, -73.89194444)",410,1983-12-15,,Fraile
+32075050,MESETAS [32075050],Climática Ordinaria,Activa,Meta,Mesetas,"(3.38005556, -74.04297222)",620,1983-12-15,,Fraile
+32077010,PUENTE CARRETERA [32077010],Limnimétrica,Suspendida,Meta,Granada (Meta),"(3.41666667, -73.78333333)",360,1988-09-15,2002-06-15,Quebrada La Colorada
+32077030,PUENTE CARRETERA [32077030],Limnimétrica,Suspendida,Meta,Granada (Meta),"(3.41666667, -73.78333333)",360,1988-09-15,2002-06-15,Quebrada La Colorada
+35105050,GUAICARAMO  - AUT [35105050],Climática Ordinaria,Activa,Meta,Barranca De Upía,"(4.46866667, -72.95358333)",190,1993-10-14 19:00,,0
+32030020,RAUDAL UNO [32030020],Pluviométrica,Activa,Meta,La Macarena,"(2.3225, -73.94388889)",351,1983-06-15,,Bedon
+35010090,SAN MARTIN [35010090],Pluviométrica,Activa,Meta,San Martín (Meta),"(3.75027778, -73.70083333)",420,1978-08-15,,Prado
+35015040,GUALAS [35015040],Climática Ordinaria,Suspendida,Meta,San Martín (Meta),"(3.75, -73.43333333)",250,1978-08-15,1981-04-15,Prado
+35017040,EL BARRO [35017040],Limnimétrica,Activa,Meta,Puerto López,"(3.74972222, -73.17977778)",193,1979-05-14 19:00,,Metica
+35010060,EL TORO [35010060],Pluviométrica,Activa,Meta,Castilla La Nueva,"(3.78666667, -73.40055556)",230,1978-05-14 19:00,,0
+32060030,SAN LUIS CUBARRAL [32060030],Pluviométrica,Activa,Meta,Cubarral,"(3.79072222, -73.84277778)",600,1969-01-15,,Saldana
+35010080,NARE [35010080],Pluviométrica,Activa,Meta,Puerto López,"(3.79388889, -73.14972222)",200,1978-05-15,,Ariari
+35105010,GUADUALITO [35105010],Meteorológica Especial,Suspendida,Meta,Cabuyaro,"(4.43333333, -72.96666667)",250,1968-10-15,1976-04-15,Quebrada El Corazon
+35017090,PUENTE CAMACHO [35017090],Limnimétrica,Activa,Meta,San Martín (Meta),"(3.71061111, -73.70644444)",410,1978-08-15,,Cno Camoa
+35015020,IRACA GRANJA [35015020],Climática Principal,Suspendida,Meta,San Martín (Meta),"(3.68333333, -73.7)",400,1960-08-15,1984-01-15,Meche
+35010220,SAN MARTIN [35010220],Pluviométrica,Suspendida,Meta,San Martín (Meta),"(3.71666667, -73.7)",540,1960-01-15,1970-02-15,Cno Camoa
+35015030,SAN CARLOS GUAROA [35015030],Climática Ordinaria,Suspendida,Meta,San Carlos De Guaroa,"(3.71666667, -73.25)",230,1977-02-15,1992-04-15,Cno Camoa
+35135010,CEJALITO [35135010],Climática Principal,Suspendida,Meta,San Martín (Meta),"(3.71666667, -72.35)",200,1976-05-15,1984-12-15,Cno Camoa
+32065010,LEJANIAS [32065010],Climática Ordinaria,Suspendida,Meta,Lejanías,"(3.53333333, -74.01666667)",680,1989-03-14 19:00,2019-02-22 4:07,0
+32060090,LEJANIAS CASTILLO [32060090],Pluviométrica,Activa,Meta,Lejanías,"(3.57622222, -74.05963889)",840,1983-12-15,,Guaviare
+32120010,SAN IGNACIO [32120010],Pluviométrica,Suspendida,Meta,San Martín (Meta),"(3.73408333, -72.36977778)",168,1983-12-15,2018-07-30 11:51,0
+35137010,CEJALITO [35137010],Limnimétrica,En Mantenimiento,Meta,Puerto López,"(3.73447222, -72.36994444)",169,1984-11-15,,Cno Melua
+35105020,BARRANCA DE UPIA [35105020],Climática Ordinaria,Suspendida,Meta,Barranca De Upía,"(4.56666667, -72.96666667)",225,1976-06-15,1990-12-15,Quebrada La Honda
+33035010,CARIMAGUA - AUT [33035010],Meteorológica Especial,Activa,Meta,Puerto Gaitán,"(4.57441667, -71.34075)",200,1972-05-14 19:00,,0
+32077050,PUENTE CARRETERA [32077050],Limnimétrica,Suspendida,Meta,Granada (Meta),"(3.43333333, -73.78333333)",348,1988-09-15,2002-06-15,Quebrada Urichare
+32077040,PUENTE CARRETERA [32077040],Limnimétrica,Suspendida,Meta,Granada (Meta),"(3.45, -73.75)",327,1988-09-15,2002-06-15,Quebrada Mucuya
+35015050,BARBASCAL [35015050],Climática Ordinaria,Suspendida,Meta,San Martín (Meta),"(3.63077778, -73.34927778)",250,1992-05-15,2018-05-10 9:49,0
+32035010,LA MACARENA [32035010],Climática Principal,Activa,Meta,La Macarena,"(2.17611111, -73.79333333)",248,1967-10-14 19:00,,0
+32037030,LA MACARENA [32037030],Limnigráfica,Activa,Meta,La Macarena,"(2.18563889, -73.79225)",218,1983-02-14 19:00,,Guayabero
+32067020,LEJANIAS [32067020],Limnigráfica,Suspendida,Meta,Lejanías,"(3.53333333, -74.01666667)",707,2011-02-25,2018-06-19 10:42,Ariari
+35125010,HACIENDA LAS MARGARITAS [35125010],Climática Ordinaria,Activa,Meta,Puerto López,"(4.34055556, -72.15636111)",150,1976-05-15,,0
+32035020,LA BALSORA [32035020],Climática Ordinaria,Activa,Meta,La Macarena,"(2.43838889, -73.93227778)",270,1983-12-14 19:00,,0
+3515000110,LA ESPERANZA [3515000110],Pluviométrica,Activa,Meta,Puerto Gaitán,"(3.79, -72.27)",163,2015-06-04,,0
+35017050,RINCON DEL PAJURE [35017050],Limnimétrica,Suspendida,Meta,San Carlos De Guaroa,"(3.88333333, -73.11666667)",190,1979-05-15,1993-04-15,Metica
+32077020,PUENTE CARRETERA [32077020],Limnimétrica,Suspendida,Meta,Granada (Meta),"(3.48333333, -73.73333333)",320,1988-09-15,2002-06-15,Quebrada Sardinata
+32070050,PUERTO LLERAS [32070050],Pluviométrica,Suspendida,Meta,Puerto Lleras,"(3.28333333, -73.38333333)",245,1979-07-15,1990-06-15,Ariari
+32087040,CANDILEJAS [32087040],Limnigráfica,Suspendida,Meta,Puerto Rico (Meta),"(2.83333333, -73.08333333)",184,1983-02-15,2005-09-15,Ariari
+35035060,HACHON EL [35035060],Climática Ordinaria,Suspendida,Meta,Villavicencio,"(4.16666667, -73.6)",420,1967-09-15,1971-01-15,San Juan
+35035030,SALINAS DE UPIN [35035030],Climática Ordinaria,Suspendida,Meta,Restrepo (Meta),"(4.3, -73.56666667)",450,1960-01-15,1993-01-15,Bogota
+35107020,VISO EL [35107020],Limnigráfica,Suspendida,Meta,Cabuyaro,"(4.35, -72.78333333)",169,1976-05-15,1995-06-15,Upia
+32060050,LEJANIAS [32060050],Pluviométrica,Suspendida,Meta,Lejanías,"(3.53333333, -74.01666667)",680,1979-09-15,1990-07-15,Bedon
+3206500058,LEJANÍAS - AUT [3206500058],Climática Principal,Activa,Meta,Lejanías,"(3.51820278, -74.0063)",648,2017-12-26 19:00,,0
+3206500059,VISTA HERMOSA - AUT [3206500059],Climática Principal,Activa,Meta,Vistahermosa,"(3.09972222, -73.73361111)",286,2018-03-23 19:00,,0
+3503500062,EL CALVARIO - AUT [3503500062],Climática Principal,Activa,Meta,El Calvario,"(4.34999722, -73.71)",2038,2018-04-13,,0
+3502500006,MORICHAL   [3502500006],Climática Ordinaria,Activa,Meta,San Carlos De Guaroa,"(3.93254722, -73.24296389)",277,2018-04-01,,0
+3502700090,GUAYURIBA - AUT   [3502700090],Limnigráfica,Activa,Meta,Villavicencio,"(3.95816944, -73.29553611)",230,2018-03-08,,Guayuriba
+32080010,PUERTO RICO [32080010],Pluviométrica,Activa,Meta,Puerto Rico (Meta),"(2.94, -73.21)",230,1979-08-15,,0
+32077070,PIÑALITO [32077070],Limnimétrica,Activa,Meta,Vistahermosa,"(2.97, -73.68)",318,1978-09-15,,Guejar
+32077080,PUERTO RICO [32077080],Limnimétrica,Activa,Meta,Puerto Rico (Meta),"(2.94, -73.21)",199,1978-10-15,,Ariari
+32070040,PIÑALITO [32070040],Pluviométrica,Activa,Meta,Vistahermosa,"(2.98, -73.63)",245,1978-09-15,,0
+32060100,PUERTO ANGOSTURAS [32060100],Pluviométrica,Activa,Meta,Cubarral,"(3.79, -73.92)",745,2001-03-15,,0
+35127030,LA ESPERANZA [35127030],Limnimétrica,Activa,Meta,Puerto Gaitán,"(3.81, -72.29)",154,1984-11-15,,Manacacias
+35035100,ICA VILLAVICENCIO  - AUT [35035100],Agrometeorológica,Activa,Meta,Villavicencio,"(4.14, -73.62)",444,2007-03-22,,0
+35100020,CABUYARO [35100020],Limnimétrica,Activa,Meta,Cabuyaro,"(4.28, -72.79)",180,1968-06-15,,Meta
+35107030,CABUYARO [35107030],Limnimétrica,Activa,Meta,Cabuyaro,"(4.28, -72.79)",169,1976-05-15,,Meta
+35117010,HUMAPO [35117010],Limnimétrica,Activa,Meta,Puerto López,"(4.33, -72.39)",153,1978-04-15,,Meta
+35180030,FUNDO NUEVO HUMAPO [35180030],Pluviométrica,Activa,Meta,Puerto López,"(4.33, -72.39)",155,1983-06-15,,0
+35030010,EL CALVARIO [35030010],Pluviográfica,Activa,Meta,El Calvario,"(4.34999722, -73.71)",1800,1968-10-15,,0
+32067030,PUERTO ANGOSTURAS  - AUT [32067030],Limnimétrica,Activa,Meta,Cubarral,"(3.79, -73.92)",745,1991-12-15,,Ariari
+35030370,ICA VILLAVICENCIO [35030370]VILLAVICENCIO SEDE IDEAM -ICA,Pluviométrica,Activa,Meta,Villavicencio,"(4.14, -73.62)",444,2006-05-02,,0
+21208080,MONDONEDO_TEST  [21208080],Limnigráfica,Activa,Meta,Guamal (Meta),"(4.0, -74.0)",0,1971-04-15,,Balsillas
+35037060,UNION LA  [35037060],Limnimétrica,Activa,Meta,El Calvario,"(4.4, -73.76666667)",2250,1992-11-15,,Qda La Chula
+35037190,YE LA  [35037190],Limnimétrica,Activa,Meta,El Calvario,"(4.4, -73.66666667)",1350,1991-01-15,,Qda Morena
+35037120,GUADUAL EL  [35037120],Limnimétrica,Activa,Meta,El Calvario,"(4.41666667, -73.68333333)",1550,1991-01-15,,Qda Guadual
+35037170,CARMEN EL  [35037170],Limnimétrica,Activa,Meta,El Calvario,"(4.43333333, -73.68333333)",1600,1991-01-15,,Qda Blanca
+35030300,SAN JUANITO PVM  [35030300],Pluviométrica,Activa,Meta,San Juanito,"(4.45, -73.51666667)",3300,1997-06-15,,Negro
+35030310,QUEBRADA BLANCA  [35030310],Pluviográfica,Activa,Meta,San Juanito,"(4.45, -73.71666667)",3400,1997-06-15,,Negro
+35035120,SAN JUANITO  [35035120],Climática Principal,Activa,Meta,San Juanito,"(4.45, -73.66666667)",3300,1987-06-15,,Negro
+35037200,NACIMIENTO  [35037200],Limnimétrica,Activa,Meta,El Calvario,"(4.45, -73.71666667)",3420,1994-01-15,,Guajaro
+35037090,CENTRO  [35037090],Limnimétrica,Activa,Meta,El Calvario,"(4.46666667, -73.68333333)",2200,1991-01-15,,Qda Guajaro
+35037180,SAN LUIS  [35037180],Limnimétrica,Activa,Meta,El Calvario,"(4.48333333, -73.65)",2950,1991-01-15,,Guatiquia
+35037210,NACIMIENTO 2  [35037210],Limnimétrica,Activa,Meta,El Calvario,"(4.48333333, -73.71666667)",3510,1994-01-15,,Guajaro
+32067010,ALEMANIA  [32067010],Limnimétrica,Activa,Meta,Guamal (Meta),"(3.86666667, -74.2)",2696,1969-11-15,,Nevado
+32060040,TOTUMA LA  [32060040],Pluviométrica,Suspendida,Meta,Guamal (Meta),"(3.88333333, -74.21666667)",3420,1970-01-15,1982-02-15,Bogota
+32060070,TRIUNFO EL  [32060070],Pluviométrica,Suspendida,Meta,Granada (Meta),"(3.58333333, -73.71666667)",600,1967-01-15,1969-04-15,Salitre
+35040020,STA TERESA HDA  [35040020],Pluviométrica,Suspendida,Meta,Restrepo (Meta),"(4.43333333, -73.6)",500,1963-02-15,1964-08-15,Qda Blanca
+35010120,NOHORA HDA  [35010120],Pluviométrica,Suspendida,Meta,San Martín (Meta),"(3.7, -73.7)",520,1960-01-15,1962-04-15,Recio
+35010110,STA HELENA  [35010110],Pluviométrica,Activa,Meta,San Carlos De Guaroa,"(3.83333333, -73.33333333)",280,1991-01-15,,Aguamona
+35010130,LIMONCITO  [35010130],Pluviométrica,Suspendida,Meta,Guamal (Meta),"(3.86666667, -73.75)",520,1966-01-15,1968-06-15,Nevado
+35020130,INTERNADO AGRICOLA  [35020130],Pluviométrica,Suspendida,Meta,Villavicencio,"(4.16666667, -73.66666667)",245,1929-06-15,1939-12-15,Tulua
+35020140,LAJITAS HDA  [35020140],Pluviométrica,Suspendida,Meta,Puerto López,"(4.18333333, -72.88333333)",450,1961-01-15,1969-08-15,Riofrio
+35025010,LAJITAS  [35025010],Climática Ordinaria,Suspendida,Meta,Puerto López,"(4.18333333, -72.88333333)",450,1961-01-15,1970-01-15,Riofrio
+35020110,DISTRITO MOP  [35020110],Pluviométrica,Suspendida,Meta,Villavicencio,"(4.15, -73.61666667)",250,1963-01-15,1969-02-15,Qda Unchia
+32060080,DANTAS LAS  [32060080],Pluviométrica,Suspendida,Meta,Castilla La Nueva,"(3.9, -74.18333333)",3996,1966-03-15,1969-12-15,Mediacanoa
+35010100,VILLA PRISCILA  [35010100],Pluviométrica,Activa,Meta,Guamal (Meta),"(3.93333333, -73.73333333)",850,1962-05-15,,Aguaclara
+35010140,PRIMAVERA LA  [35010140],Pluviométrica,Activa,Meta,Guamal (Meta),"(3.95, -74.16666667)",3460,1966-01-15,,Nevado
+35010160,SEBASTOPOL HDA  [35010160],Pluviométrica,Suspendida,Meta,Acacías,"(3.96666667, -73.73333333)",522,1963-01-15,1964-04-15,Sumapaz
+35010170,PARAISO EL  [35010170],Pluviométrica,Suspendida,Meta,Acacías,"(3.96666667, -73.75)",527,1963-01-15,1965-06-15,Sumapaz
+35020040,MARINGA  [35020040],Pluviométrica,Activa,Meta,Acacías,"(4.0, -73.76666667)",540,1968-07-15,,Qda Paquilo
+35020250,ESMERALDA LA  [35020250],Pluviométrica,Suspendida,Meta,Acacías,"(3.96666667, -73.71666667)",520,1967-02-15,1968-10-15,Tomine
+35010200,RANCHO ALEGRE  [35010200],Pluviométrica,Suspendida,Meta,Acacías,"(4.0, -73.8)",533,1966-06-15,1968-08-15,Qda Paquilo
+35010030,MONTELIBANO  [35010030],Pluviométrica,Activa,Meta,Acacías,"(4.03333333, -73.75)",610,1980-03-15,,Tulua
+32070070,NARANJOS LOS  [32070070],Pluviométrica,Suspendida,Meta,Granada (Meta),"(3.5, -73.73333333)",400,1966-05-15,1968-02-15,Cauca
+32075501,LEJANIAS  - AUT  [32075501],Climática Principal,Activa,Meta,Lejanías,"(3.51995, -74.08978611)",999,2013-10-14 19:00,,0
+35010210,GUAIRA HDA  [35010210],Pluviométrica,Suspendida,Meta,San Martín (Meta),"(3.68333333, -73.48333333)",540,1961-05-15,1962-02-15,Anchicaya
+35020120,OBS MISIONAL  [35020120],Pluviométrica,Suspendida,Meta,Villavicencio,"(4.16666667, -73.63333333)",240,1914-01-15,1957-12-15,Tulua
+35040030,CABANA LA HDA  [35040030],Pluviométrica,Suspendida,Meta,Cumaral,"(4.3, -73.48333333)",40,1961-06-15,1964-07-15,Chisaca
+32067040,PLAYA LA  [32067040],Limnimétrica,Suspendida,Meta,Guamal (Meta),"(3.95, -74.18333333)",3350,1963-04-15,1970-01-15,Nevado
+35010180,MIS BUENOS AIRES  [35010180],Pluviométrica,Suspendida,Meta,Acacías,"(3.96666667, -73.76666667)",529,1963-01-15,1963-11-15,Sumapaz
+35010190,SABUCAN HDA  [35010190],Pluviométrica,Suspendida,Meta,Acacías,"(3.96666667, -73.78333333)",531,1963-01-15,1964-07-15,Tomine

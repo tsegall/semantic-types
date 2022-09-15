@@ -1,0 +1,73 @@
+Codigo,Nombre,Categoria,Estado,Departamento,Municipio,Ubicación,Altitud,Fecha_instalacion,Fecha_suspension,Corriente
+35195060,TOQUILLA - AUT [35195060],Climática Ordinaria,Activa,Boyacá,Aquitania,"(5.52361111, -72.79097222)",2950,2016-12-15,,Atrato
+35190070,SAN JOSE [35190070],Pluviométrica,Activa,Casanare,Aguazul,"(5.09191667, -72.45858333)",190,1974-11-15,,Lengupa
+35207020,ROMERENA LA [35207020],Limnimétrica,Suspendida,Casanare,Orocué,"(4.68333333, -71.58333333)",135,1982-12-15,1985-03-15,Meta
+35267030,SANTA MARIA [35267030],Limnimétrica,Activa,Vichada,Santa Rosalía,"(5.27083333, -70.70558333)",108,1983-01-15,,Meta
+35197190,PAJARITO - AUT [35197190],Limnigráfica,Activa,Boyacá,Pajarito,"(5.28347222, -72.70194444)",770,1999-05-15,,Cusiana
+23025040,ALBANIA [23025040],Climática Ordinaria,Activa,Tolima,Mariquita,"(5.28569722, -74.90263889)",788,1987-04-15,,Cusiana
+35190050,PAJARITO [35190050],Pluviométrica,Activa,Boyacá,Pajarito,"(5.30294444, -72.70194444)",842,1957-11-15,,Guarino
+35197060,NEGRA LA [35197060],Limnimétrica,Suspendida,Boyacá,Pajarito,"(5.33333333, -72.71666667)",842,1980-03-15,1990-06-15,Cusiana
+11030030,MANAGRU [11030030],Pluviométrica,Activa,Chocó,El Cantón Del San Pablo (Managrú),"(5.33416667, -76.72813889)",64,1977-02-15,,Cusiana
+23060170,PALMA LA [23060170],Pluviométrica,Activa,Cundinamarca,La Palma,"(5.34936111, -74.38911111)",1462,1974-09-15,,Cusiana
+35260030,HATO BURRUNAY [35260030],Pluviométrica,Activa,Vichada,Santa Rosalía,"(5.35194444, -70.67827778)",106,1983-06-15,,Cusiana
+23060110,CAPARRAPI [23060110],Pluviométrica,Activa,Cundinamarca,Caparrapí,"(5.35219444, -74.49477778)",1270,1959-04-15,,Cusiana
+35075010,NUEVO COLON [35075010],Agrometeorológica,Activa,Boyacá,Nuevo Colón,"(5.35269444, -73.45377778)",2438,1965-08-15,,Cusiana
+34035010,TUPARRO BOCAS - TOMO [34035010],Climática Ordinaria,Activa,Vichada,Cumaribo,"(5.35313889, -67.85825)",167,1972-05-15,,Cusiana
+35080040,RONDON [35080040],Pluviométrica,Suspendida,Boyacá,Rondón,"(5.35, -73.21666667)",2160,1957-06-15,1972-11-15,Cusiana
+35210020,YOPAL [35210020],Pluviométrica,Suspendida,Casanare,Yopal,"(5.35, -72.4)",320,1960-10-15,1992-12-15,Cusiana
+24010610,CARMEN DE CARUPA [24010610],Pluviométrica,Suspendida,Cundinamarca,Carmen De Carupa,"(5.35127778, -73.90447222)",2970,1974-03-15,2010-03-31,Cusiana
+35267100,HATO BURRUNAY [35267100],Limnimétrica,Suspendida,Vichada,Santa Rosalía,"(5.36666667, -70.66666667)",106,1983-01-15,1989-04-15,Meta
+35177010,PORVENIR EL [35177010],Limnimétrica,Suspendida,Meta,Puerto Gaitán,"(4.73333333, -71.4)",128,1979-08-15,1986-06-15,Meta
+35195050,CORINTO [35195050],Climática Ordinaria,Activa,Boyacá,Pajarito,"(5.40727778, -72.71722222)",1550,1984-06-15,,Quebrada La Niata
+35267040,PUERTO MISTER [35267040],Limnimétrica,Suspendida,Vichada,La Primavera,"(5.41666667, -70.6)",103,1983-01-15,1984-09-15,Meta
+35197050,RANCHERIAS [35197050],Limnigráfica,Activa,Boyacá,Pajarito,"(5.44686111, -72.70422222)",2155,1980-03-15,,Cusiana
+35197070,PUENTE LAS CANAS [35197070],Limnimétrica,Activa,Boyacá,Aquitania,"(5.58669444, -72.81533333)",3135,1980-07-15,,Cusiana
+26160160,MARIA LA [26160160],Pluviométrica,Activa,Caldas,Aguadas,"(5.5875, -75.5775)",1480,1962-01-15,,Cusiana
+35197010,HORQUETA LA [35197010],Limnimétrica,Suspendida,Boyacá,Aquitania,"(5.58333333, -72.81666667)",315,1971-02-15,1980-07-15,Cusiana
+35180010,PRADERA LA [35180010],Pluviométrica,Activa,Casanare,Tauramena,"(4.93736111, -72.66588889)",180,1974-11-15,,Cno Duya
+35267070,PUERTO INFANTE [35267070],Limnimétrica,Suspendida,Vichada,La Primavera,"(5.7, -70.03333333)",85,1983-02-15,1986-11-15,Meta
+26195030,JARDIN EL [26195030],Climática Ordinaria,Activa,Antioquia,Jardín,"(5.58772222, -75.80055556)",25,1990-06-15,,Cusiana
+35197020,VADO HONDO  - AUT [35197020],Limnigráfica,Activa,Boyacá,Aquitania,"(5.50680556, -72.75480556)",2831,1973-03-14 19:00,,Cusiana
+24015220,VILLA CARMEN [24015220],Climática Principal,Activa,Boyacá,Samacá,"(5.50938889, -73.49577778)",2600,1968-02-15,,Cusiana
+24010150,SIMIJACA [24010150],Pluviográfica,Activa,Cundinamarca,Simijaca,"(5.51130556, -73.86369444)",2590,1958-01-15,,Cusiana
+35177030,SAN JOSE [35177030],Limnigráfica,Suspendida,Meta,Puerto Gaitán,"(4.85, -71.16666667)",122,1982-12-15,1984-11-15,Meta
+35197180,MANI [35197180],Limnimétrica,Activa,Casanare,Mani,"(4.817, -72.29138889)",290,1993-09-15,,Cusiana
+35260050,VUELTA MALA [35260050],Pluviométrica,Activa,Vichada,La Primavera,"(5.56136111, -70.28063889)",95,1983-06-15,,Quebrada Los Pozos
+21205740,SILOS [21205740],Climática Ordinaria,Activa,Cundinamarca,Chocontá,"(5.11772222, -73.70141667)",2709,1974-03-15,,Cusiana
+55010020,PIE DE PEPE [55010020],Pluviométrica,Activa,Chocó,Istmina,"(5.11841667, -76.82472222)",53,1973-08-15,,Cusiana
+35197210,BOCATOMA-CUSIANA [35197210],Limnigráfica,Suspendida,Casanare,Tauramena,"(5.11666667, -72.73333333)",460,1999-11-15,2005-09-15,Cusiana
+35197200,FINCA LA ESPERANZA [35197200],Limnimétrica,Suspendida,Casanare,Tauramena,"(5.11666667, -72.73333333)",438,1999-05-15,2005-09-15,Cusiana
+35190040,TAMARINDO [35190040],Pluviométrica,Activa,Casanare,Aguazul,"(5.00952778, -72.54405556)",290,1974-11-15,,Claro
+35260070,AGUAVERDE [35260070],Pluviométrica,Activa,Vichada,La Primavera,"(5.79, -69.99)",92,1983-06-15,,0
+35207010,PATAGONIA LA [35207010],Limnimétrica,Suspendida,Casanare,Mani,"(4.56666667, -71.83333333)",140,1982-12-15,1991-01-31,Meta
+35190030,CHAMEZA [35190030],Pluviográfica,Activa,Casanare,Chámeza,"(5.20438889, -72.90288889)",180,1974-11-15,,Guali
+35197040,PUENTE CHARTE [35197040],Limnimétrica,Activa,Casanare,Aguazul,"(5.25647222, -72.48594444)",291,1974-11-15,,Charte
+35260010,BONANZA [35260010],Pluviométrica,Activa,Vichada,Santa Rosalía,"(5.14330556, -70.8545)",112,1983-06-15,,Chinchina
+35195010,SURAL EL [35195010],Climática Ordinaria,Suspendida,Casanare,Aguazul,"(5.15, -72.5)",250,1974-11-15,1978-10-15,Chinchina
+35195030,AGUAZUL [35195030],Climática Ordinaria,Activa,Casanare,Aguazul,"(5.17708333, -72.54738889)",380,1974-01-15,,Lengupa
+35197030,LOS ESTEROS[35197030],Limnigráfica,Activa,Casanare,Aguazul,"(5.17969444, -72.56838889)",368,1974-11-15,,Unete
+35195040,PAJARITO VILLA MAR [35195040],Climática Ordinaria,Suspendida,Casanare,Aguazul,"(5.28333333, -72.7)",1100,1972-02-15,1974-11-15,Quebrada Honda
+3519700092,MANI - AUT   [3519700092],Limnigráfica,Activa,Casanare,Mani,"(4.81641944, -72.30865)",180,2018-03-12,,Cusiana
+35267080,AGUAVERDE [35267080],Limnigráfica,Activa,Vichada,La Primavera,"(5.79, -69.99)",82,1983-02-15,,Meta
+35197090,SUNCE EL  [35197090],Limnimétrica,Activa,Casanare,Chámeza,"(5.23333333, -72.81666667)",1028,1981-07-15,,Sunce
+35197100,PTE EL  [35197100],Limnimétrica,Activa,Casanare,Chámeza,"(5.23333333, -72.85)",1073,1982-01-15,,Tonce
+35197110,CABUYA LA  [35197110],Limnimétrica,Activa,Casanare,Chámeza,"(5.23333333, -72.86666667)",1050,1982-02-15,,Qda El Hato
+35197170,VISINACA  [35197170],Limnimétrica,Activa,Casanare,Tauramena,"(5.16666667, -72.73333333)",450,1982-02-15,,Cusiana
+21205518,SALITRE  - AUT  [21205518],Climática Principal,Activa,Cundinamarca,Tausa,"(5.17136111, -74.01566667)",2637,,,Cusiana
+21205516,NEGRETE  - AUT  [21205516],Climática Principal,Activa,Cundinamarca,Pacho,"(5.17269444, -73.85177778)",2544,,,Cusiana
+21200880,SALITRE EL - NEUSA  [21200880],Pluviográfica,Activa,Cundinamarca,Tausa,"(5.18333333, -74.0)",3140,1955-04-15,,Cusiana
+21201700,LLANO EL  [21201700],Pluviográfica,Activa,Cundinamarca,Suesca,"(5.18333333, -73.83333333)",2850,1988-03-15,,Cusiana
+54010100,CEFERINA LA  [54010100],Pluviométrica,Suspendida,Chocó,Istmina,"(5.16666667, -76.65)",30,1966-11-15,1967-03-15,Cusiana
+21200330,GUANQUICA 1  [21200330],Pluviográfica,Suspendida,Cundinamarca,Tausa,"(5.18333333, -73.93333333)",2950,1948-01-15,1973-01-15,Cusiana
+35197130,BIZCOCHO EL  [35197130],Limnimétrica,Activa,Casanare,Chámeza,"(5.2, -72.83333333)",844,1982-01-15,,Salinero
+35197120,PTE CHAMEZA  [35197120],Limnimétrica,Activa,Casanare,Chámeza,"(5.21666667, -72.86666667)",1058,1981-06-15,,Salinero
+35190100,CUSIANA VADO HONDO  [35190100],Pluviométrica,Suspendida,Boyacá,Pajarito,"(5.46666667, -72.73333333)",2050,1947-08-15,1948-08-15,Bugalagrande
+35190110,CUSIANA-TOQUILLA  [35190110],Pluviométrica,Suspendida,Boyacá,Aquitania,"(5.46666667, -72.75)",3000,1947-08-15,1948-08-15,Bugalagrande
+35197080,TOQUILLA  [35197080],Limnimétrica,Activa,Boyacá,Aquitania,"(5.52300833, -72.79241667)",2862,1981-10-15,,Cusiana
+38010060,APTO MARANDUA  [38010060],Pluviográfica,Activa,Vichada,Cumaribo,"(5.52913889, -68.69136111)",56,2005-02-15,,Cusiana
+23050240,MARINA LA  [23050240],Pluviométrica,Activa,Caldas,Pensilvania,"(5.53333333, -75.08333333)",1570,1968-01-15,,Cusiana
+35190060,CINTAS LAS-SOGAMOS  [35190060],Pluviométrica,Suspendida,Boyacá,Sogamoso,"(5.6, -72.83333333)",3300,1941-01-15,1948-06-15,Chiquinquira
+35197150,CANDELAS  [35197150],Limnimétrica,Activa,Boyacá,Pajarito,"(5.43333333, -72.71666667)",1600,1981-10-15,,La Rocha
+35197140,PTE CARRETERA  [35197140],Limnimétrica,Activa,Boyacá,Pajarito,"(5.38333333, -72.7)",1150,1981-10-15,,Qda La Conguta
+35190090,CUSIANA  [35190090],Pluviométrica,Suspendida,Boyacá,Pajarito,"(5.4, -72.75)",2000,1945-09-15,1948-12-15,Lag De Fuquene
+35197160,PTE CARRETERA  [35197160],Limnimétrica,Activa,Boyacá,Pajarito,"(5.41666667, -72.73333333)",1618,1981-10-15,,La Legia

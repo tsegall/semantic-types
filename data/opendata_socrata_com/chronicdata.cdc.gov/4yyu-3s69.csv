@@ -1,0 +1,937 @@
+"year","locationabbr","locationdesc","datasource","topictype","topicdesc","measuredesc","data_value_unit","data_value_type","data_value","data_value_footnote_symbol","data_value_footnote","gender","geolocation","topictypeid","topicid","measureid","submeasureid","displayorder"
+"2005-2009","PA","Pennsylvania","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"9600",,,"Female","
+, PA 
+(40.793730152, -77.860700294)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","CT","Connecticut","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"7532",,,"Male","
+, CT 
+(41.56266102, -72.649840952)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","FL","Florida","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"43948",,,"Female","
+, FL 
+(28.932040377, -81.928960539)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","WA","Washington","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3690",,,"Female","
+, WA 
+(47.522278629, -120.47001079)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","SD","South Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"3954",,,"Overall","
+, SD 
+(44.353130053, -100.373530637)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","MI","Michigan","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"49756",,,"Overall","
+, MI 
+(44.661319543001, -84.71439027)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","KS","Kansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1850",,,"Female","
+, KS 
+(38.3477403, -98.200781227)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","RI","Rhode Island","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1780",,,"Overall","
+, RI 
+(41.708280193, -71.522470314)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MA","Massachusetts","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"14991",,,"Female","
+, MA 
+(42.27687047, -72.082690675)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","WY","Wyoming","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2272",,,"Overall","
+, WY 
+(43.235541343, -108.109830353)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","DC","District of Columbia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1271",,,"Female","
+, DC 
+(38.890371385, -77.031961127)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","PA","Pennsylvania","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"34484",,,"Male","
+, PA 
+(40.793730152, -77.860700294)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","OH","Ohio","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"29854",,,"Male","
+, OH 
+(40.060210141, -82.404260056)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MT","Montana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2353",,,"Male","
+, MT 
+(47.066528972, -109.424420645)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","NC","North Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"19793",,,"Female","
+, NC 
+(35.466220975, -79.159250463)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","OK","Oklahoma","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3120",,,"Female","
+, OK 
+(35.472031356, -97.521070214)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","WY","Wyoming","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1177",,,"Male","
+, WY 
+(43.235541343, -108.109830353)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","IA","Iowa","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3000",,,"Male","
+, IA 
+(42.469400913, -93.816490556)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","IA","Iowa","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5070",,,"Overall","
+, IA 
+(42.469400913, -93.816490556)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","ND","North Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"610",,,"Male","
+, ND 
+(47.475319779, -100.118421049)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","CA","California","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"22620",,,"Male","
+, CA 
+(37.638640123, -120.999999538)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","MN","Minnesota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3440",,,"Male","
+, MN 
+(46.355648736, -94.794200503)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","CO","Colorado","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2240",,,"Female","
+, CO 
+(38.843840757, -106.133610921)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","DC","District of Columbia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"790",,,"Overall","
+, DC 
+(38.890371385, -77.031961127)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","HI","Hawaii","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1420",,,"Overall","
+, HI 
+(21.304850435, -157.857749403)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","WI","Wisconsin","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"12663",,,"Male","
+, WI 
+(44.393191174, -89.816370742)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","NV","Nevada","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"5580",,,"Male","
+, NV 
+(39.49324039, -117.071840564)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","SD","South Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2060",,,"Male","
+, SD 
+(44.353130053, -100.373530637)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","IA","Iowa","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"8056",,,"Female","
+, IA 
+(42.469400913, -93.816490556)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","IN","Indiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4740",,,"Female","
+, IN 
+(39.766910452, -86.149960194)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","WY","Wyoming","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"350",,,"Female","
+, WY 
+(43.235541343, -108.109830353)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","AR","Arkansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"7941",,,"Female","
+, AR 
+(34.748650124, -92.274490743)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","KS","Kansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2540",,,"Male","
+, KS 
+(38.3477403, -98.200781227)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","IA","Iowa","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"7938",,,"Male","
+, IA 
+(42.469400913, -93.816490556)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","AZ","Arizona","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"8250",,,"Overall","
+, AZ 
+(34.86597028, -111.763811277)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MA","Massachusetts","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"28812",,,"Overall","
+, MA 
+(42.27687047, -72.082690675)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","CO","Colorado","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2820",,,"Male","
+, CO 
+(38.843840757, -106.133610921)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NV","Nevada","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2290",,,"Male","
+, NV 
+(39.49324039, -117.071840564)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","RI","Rhode Island","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"860",,,"Female","
+, RI 
+(41.708280193, -71.522470314)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","WA","Washington","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"12318",,,"Female","
+, WA 
+(47.522278629, -120.47001079)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","IN","Indiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15793",,,"Male","
+, IN 
+(39.766910452, -86.149960194)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","ME","Maine","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1040",,,"Female","
+, ME 
+(45.254228894001, -68.985031336)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","ND","North Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1543",,,"Female","
+, ND 
+(47.475319779, -100.118421049)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","NE","Nebraska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"8098",,,"Overall","
+, NE 
+(41.641040988001, -99.365720623)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","NH","New Hampshire","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1050",,,"Male","
+, NH 
+(43.655950113, -71.50036092)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","OR","Oregon","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"7958",,,"Female","
+, OR 
+(44.567449424, -120.155031326)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","WV","West Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"5928",,,"Female","
+, WV 
+(38.665510202, -80.712640135)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","WA","Washington","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4610",,,"Male","
+, WA 
+(47.522278629, -120.47001079)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","UT","Utah","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"6248",,,"Overall","
+, UT 
+(39.360700171, -111.587130635)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","IA","Iowa","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2060",,,"Female","
+, IA 
+(42.469400913, -93.816490556)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","GA","Georgia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4700",,,"Female","
+, GA 
+(32.839681093, -83.627580346)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","NM","New Mexico","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"3691",,,"Female","
+, NM 
+(34.520880952, -106.240580985)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","KY","Kentucky","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"23149",,,"Overall","
+, KY 
+(37.645970271, -84.774971048)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","UT","Utah","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"3243",,,"Male","
+, UT 
+(39.360700171, -111.587130635)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","IL","Illinois","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"28630",,,"Female","
+, IL 
+(40.485010283, -88.997710178)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","TX","Texas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"28030",,,"Overall","
+, TX 
+(31.827240407, -99.426770206)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","KS","Kansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4390",,,"Overall","
+, KS 
+(38.3477403, -98.200781227)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","HI","Hawaii","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2219",,,"Female","
+, HI 
+(21.304850435, -157.857749403)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","OH","Ohio","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"20180",,,"Overall","
+, OH 
+(40.060210141, -82.404260056)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","NC","North Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"8380",,,"Male","
+, NC 
+(35.466220975, -79.159250463)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","OK","Oklahoma","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4370",,,"Male","
+, OK 
+(35.472031356, -97.521070214)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","MT","Montana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2172",,,"Female","
+, MT 
+(47.066528972, -109.424420645)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","TN","Tennessee","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"32019",,,"Overall","
+, TN 
+(35.68094058, -85.774490914)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","NE","Nebraska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"4025",,,"Male","
+, NE 
+(41.641040988001, -99.365720623)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","GA","Georgia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"17660",,,"Male","
+, GA 
+(32.839681093, -83.627580346)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","TX","Texas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"11460",,,"Female","
+, TX 
+(31.827240407, -99.426770206)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","WV","West Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"5979",,,"Male","
+, WV 
+(38.665510202, -80.712640135)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","PA","Pennsylvania","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"12400",,,"Male","
+, PA 
+(40.793730152, -77.860700294)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NM","New Mexico","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1100",,,"Female","
+, NM 
+(34.520880952, -106.240580985)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","NM","New Mexico","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"3995",,,"Male","
+, NM 
+(34.520880952, -106.240580985)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","VT","Vermont","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1390",,,"Female","
+, VT 
+(43.625381239, -72.517640791)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","WV","West Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4280",,,"Overall","
+, WV 
+(38.665510202, -80.712640135)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","OK","Oklahoma","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"7490",,,"Overall","
+, OK 
+(35.472031356, -97.521070214)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","NC","North Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"40359",,,"Overall","
+, NC 
+(35.466220975, -79.159250463)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","AZ","Arizona","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"12406",,,"Male","
+, AZ 
+(34.86597028, -111.763811277)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","AK","Alaska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"683",,,"Female","
+, AK 
+(64.845079957001, -147.722059036)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","OH","Ohio","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"8680",,,"Female","
+, OH 
+(40.060210141, -82.404260056)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","MD","Maryland","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3460",,,"Female","
+, MD 
+(39.290580964, -76.609260111)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","OK","Oklahoma","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"10232",,,"Female","
+, OK 
+(35.472031356, -97.521070214)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","CA","California","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"17340",,,"Female","
+, CA 
+(37.638640123, -120.999999538)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","TN","Tennessee","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4610",,,"Female","
+, TN 
+(35.68094058, -85.774490914)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","KY","Kentucky","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5120",,,"Male","
+, KY 
+(37.645970271, -84.774971048)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","RI","Rhode Island","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"5484",,,"Overall","
+, RI 
+(41.708280193, -71.522470314)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","AK","Alaska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"250",,,"Female","
+, AK 
+(64.845079957001, -147.722059036)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","UT","Utah","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"3004",,,"Female","
+, UT 
+(39.360700171, -111.587130635)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","AK","Alaska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1585",,,"Overall","
+, AK 
+(64.845079957001, -147.722059036)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","NV","Nevada","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"10121",,,"Overall","
+, NV 
+(39.49324039, -117.071840564)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","WI","Wisconsin","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3320",,,"Female","
+, WI 
+(44.393191174, -89.816370742)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","WV","West Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"11901",,,"Overall","
+, WV 
+(38.665510202, -80.712640135)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","NM","New Mexico","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"7690",,,"Overall","
+, NM 
+(34.520880952, -106.240580985)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","TX","Texas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"43898",,,"Male","
+, TX 
+(31.827240407, -99.426770206)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MS","Mississippi","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3360",,,"Male","
+, MS 
+(32.745510099, -89.538030825)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","AL","Alabama","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5290",,,"Male","
+, AL 
+(32.840571122, -86.631860762)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","CA","California","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"39950",,,"Overall","
+, CA 
+(37.638640123, -120.999999538)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","ND","North Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"980",,,"Overall","
+, ND 
+(47.475319779, -100.118421049)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","PA","Pennsylvania","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"70411",,,"Overall","
+, PA 
+(40.793730152, -77.860700294)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","VT","Vermont","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1403",,,"Male","
+, VT 
+(43.625381239, -72.517640791)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","LA","Louisiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"11080",,,"Male","
+, LA 
+(31.312660644, -92.445680071)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","ME","Maine","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2390",,,"Overall","
+, ME 
+(45.254228894001, -68.985031336)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","VA","Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4430",,,"Female","
+, VA 
+(37.542680674, -78.457890463)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","MI","Michigan","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"24816",,,"Female","
+, MI 
+(44.661319543001, -84.71439027)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","OR","Oregon","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3070",,,"Male","
+, OR 
+(44.567449424, -120.155031326)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","HI","Hawaii","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"500",,,"Female","
+, HI 
+(21.304850435, -157.857749403)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","WI","Wisconsin","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"25027",,,"Overall","
+, WI 
+(44.393191174, -89.816370742)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","FL","Florida","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"32300",,,"Overall","
+, FL 
+(28.932040377, -81.928960539)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","KS","Kansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"6740",,,"Male","
+, KS 
+(38.3477403, -98.200781227)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","HI","Hawaii","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2899",,,"Male","
+, HI 
+(21.304850435, -157.857749403)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","CT","Connecticut","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"8271",,,"Female","
+, CT 
+(41.56266102, -72.649840952)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","WY","Wyoming","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1096",,,"Female","
+, WY 
+(43.235541343, -108.109830353)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","MA","Massachusetts","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4450",,,"Female","
+, MA 
+(42.27687047, -72.082690675)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","LA","Louisiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"21575",,,"Overall","
+, LA 
+(31.312660644, -92.445680071)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","OH","Ohio","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"29857",,,"Female","
+, OH 
+(40.060210141, -82.404260056)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","WI","Wisconsin","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"12359",,,"Female","
+, WI 
+(44.393191174, -89.816370742)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","WV","West Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1840",,,"Female","
+, WV 
+(38.665510202, -80.712640135)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","DE","Delaware","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"790",,,"Male","
+, DE 
+(39.008830667, -75.577741168)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NE","Nebraska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2510",,,"Overall","
+, NE 
+(41.641040988001, -99.365720623)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MI","Michigan","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"7010",,,"Female","
+, MI 
+(44.661319543001, -84.71439027)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","MS","Mississippi","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"7987",,,"Male","
+, MS 
+(32.745510099, -89.538030825)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","AL","Alabama","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"13145",,,"Male","
+, AL 
+(32.840571122, -86.631860762)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MS","Mississippi","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15544",,,"Overall","
+, MS 
+(32.745510099, -89.538030825)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","DE","Delaware","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2063",,,"Male","
+, DE 
+(39.008830667, -75.577741168)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MI","Michigan","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"9170",,,"Male","
+, MI 
+(44.661319543001, -84.71439027)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","TN","Tennessee","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"16355",,,"Male","
+, TN 
+(35.68094058, -85.774490914)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MA","Massachusetts","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"9300",,,"Overall","
+, MA 
+(42.27687047, -72.082690675)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","AL","Alabama","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"25830",,,"Overall","
+, AL 
+(32.840571122, -86.631860762)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","MD","Maryland","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"23467",,,"Overall","
+, MD 
+(39.290580964, -76.609260111)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","VA","Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"31061",,,"Overall","
+, VA 
+(37.542680674, -78.457890463)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","WY","Wyoming","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"800",,,"Overall","
+, WY 
+(43.235541343, -108.109830353)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MN","Minnesota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"9552",,,"Male","
+, MN 
+(46.355648736, -94.794200503)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","UT","Utah","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"880",,,"Male","
+, UT 
+(39.360700171, -111.587130635)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","MT","Montana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1570",,,"Overall","
+, MT 
+(47.066528972, -109.424420645)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","GA","Georgia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"34530",,,"Overall","
+, GA 
+(32.839681093, -83.627580346)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","NE","Nebraska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"4070",,,"Female","
+, NE 
+(41.641040988001, -99.365720623)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","MO","Missouri","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4760",,,"Female","
+, MO 
+(38.635790776, -92.566300053)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","NJ","New Jersey","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"6310",,,"Male","
+, NJ 
+(40.130570048, -74.273691288)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","KS","Kansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"13619",,,"Overall","
+, KS 
+(38.3477403, -98.200781227)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","WA","Washington","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"12793",,,"Male","
+, WA 
+(47.522278629, -120.47001079)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","LA","Louisiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2890",,,"Female","
+, LA 
+(31.312660644, -92.445680071)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","WI","Wisconsin","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"7850",,,"Overall","
+, WI 
+(44.393191174, -89.816370742)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","RI","Rhode Island","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2888",,,"Female","
+, RI 
+(41.708280193, -71.522470314)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","NE","Nebraska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1490",,,"Male","
+, NE 
+(41.641040988001, -99.365720623)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","MN","Minnesota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"9245",,,"Female","
+, MN 
+(46.355648736, -94.794200503)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","AZ","Arizona","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"10936",,,"Female","
+, AZ 
+(34.86597028, -111.763811277)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","DE","Delaware","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"4082",,,"Overall","
+, DE 
+(39.008830667, -75.577741168)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","HI","Hawaii","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"920",,,"Male","
+, HI 
+(21.304850435, -157.857749403)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","VA","Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15689",,,"Male","
+, VA 
+(37.542680674, -78.457890463)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","ID","Idaho","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"730",,,"Female","
+, ID 
+(43.682630005, -114.363730042)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","DC","District of Columbia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2536",,,"Overall","
+, DC 
+(38.890371385, -77.031961127)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","SD","South Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"470",,,"Female","
+, SD 
+(44.353130053, -100.373530637)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","GA","Georgia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"16868",,,"Female","
+, GA 
+(32.839681093, -83.627580346)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","MO","Missouri","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"6220",,,"Male","
+, MO 
+(38.635790776, -92.566300053)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","DE","Delaware","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2020",,,"Female","
+, DE 
+(39.008830667, -75.577741168)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","NH","New Hampshire","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1940",,,"Overall","
+, NH 
+(43.655950113, -71.50036092)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","TX","Texas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"41095",,,"Female","
+, TX 
+(31.827240407, -99.426770206)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","ID","Idaho","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1070",,,"Male","
+, ID 
+(43.682630005, -114.363730042)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","AK","Alaska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"610",,,"Overall","
+, AK 
+(64.845079957001, -147.722059036)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","AK","Alaska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"360",,,"Male","
+, AK 
+(64.845079957001, -147.722059036)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","TX","Texas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"16570",,,"Male","
+, TX 
+(31.827240407, -99.426770206)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NY","New York","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"90374",,,"Overall","
+, NY 
+(42.827001032, -75.543970427)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","IL","Illinois","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"18280",,,"Overall","
+, IL 
+(40.485010283, -88.997710178)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","OH","Ohio","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"11500",,,"Male","
+, OH 
+(40.060210141, -82.404260056)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","MD","Maryland","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"7490",,,"Overall","
+, MD 
+(39.290580964, -76.609260111)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","ID","Idaho","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"5650",,,"Overall","
+, ID 
+(43.682630005, -114.363730042)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","GA","Georgia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"6990",,,"Male","
+, GA 
+(32.839681093, -83.627580346)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","MT","Montana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"4523",,,"Overall","
+, MT 
+(47.066528972, -109.424420645)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","ME","Maine","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1350",,,"Male","
+, ME 
+(45.254228894001, -68.985031336)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","RI","Rhode Island","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"910",,,"Male","
+, RI 
+(41.708280193, -71.522470314)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","TN","Tennessee","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"11380",,,"Overall","
+, TN 
+(35.68094058, -85.774490914)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","IN","Indiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15634",,,"Female","
+, IN 
+(39.766910452, -86.149960194)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","ND","North Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1677",,,"Male","
+, ND 
+(47.475319779, -100.118421049)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MD","Maryland","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4020",,,"Male","
+, MD 
+(39.290580964, -76.609260111)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","IN","Indiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"11070",,,"Overall","
+, IN 
+(39.766910452, -86.149960194)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","CT","Connecticut","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2340",,,"Female","
+, CT 
+(41.56266102, -72.649840952)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","AR","Arkansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"8405",,,"Male","
+, AR 
+(34.748650124, -92.274490743)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","KY","Kentucky","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3740",,,"Female","
+, KY 
+(37.645970271, -84.774971048)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","FL","Florida","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"49030",,,"Male","
+, FL 
+(28.932040377, -81.928960539)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","CO","Colorado","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"14958",,,"Overall","
+, CO 
+(38.843840757, -106.133610921)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","OR","Oregon","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"16380",,,"Overall","
+, OR 
+(44.567449424, -120.155031326)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","NM","New Mexico","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2630",,,"Overall","
+, NM 
+(34.520880952, -106.240580985)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","NH","New Hampshire","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"890",,,"Female","
+, NH 
+(43.655950113, -71.50036092)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","SC","South Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"7230",,,"Overall","
+, SC 
+(33.998821303, -81.045371207)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","ME","Maine","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"3492",,,"Male","
+, ME 
+(45.254228894001, -68.985031336)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","KY","Kentucky","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"11753",,,"Male","
+, KY 
+(37.645970271, -84.774971048)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","VT","Vermont","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"530",,,"Male","
+, VT 
+(43.625381239, -72.517640791)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","SD","South Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1892",,,"Female","
+, SD 
+(44.353130053, -100.373530637)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","VT","Vermont","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2794",,,"Overall","
+, VT 
+(43.625381239, -72.517640791)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","AZ","Arizona","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"23342",,,"Overall","
+, AZ 
+(34.86597028, -111.763811277)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","WA","Washington","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"8290",,,"Overall","
+, WA 
+(47.522278629, -120.47001079)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","ND","North Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"3217",,,"Overall","
+, ND 
+(47.475319779, -100.118421049)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","OR","Oregon","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5470",,,"Overall","
+, OR 
+(44.567449424, -120.155031326)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","CA","California","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"65778",,,"Female","
+, CA 
+(37.638640123, -120.999999538)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","NJ","New Jersey","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5470",,,"Female","
+, NJ 
+(40.130570048, -74.273691288)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","NC","North Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"20569",,,"Male","
+, NC 
+(35.466220975, -79.159250463)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","SD","South Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"770",,,"Male","
+, SD 
+(44.353130053, -100.373530637)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NJ","New Jersey","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"11780",,,"Overall","
+, NJ 
+(40.130570048, -74.273691288)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","CO","Colorado","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"7605",,,"Male","
+, CO 
+(38.843840757, -106.133610921)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","IL","Illinois","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"27788",,,"Male","
+, IL 
+(40.485010283, -88.997710178)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","IL","Illinois","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"7950",,,"Female","
+, IL 
+(40.485010283, -88.997710178)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","OR","Oregon","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"8423",,,"Male","
+, OR 
+(44.567449424, -120.155031326)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","AR","Arkansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5790",,,"Overall","
+, AR 
+(34.748650124, -92.274490743)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","ME","Maine","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"3364",,,"Female","
+, ME 
+(45.254228894001, -68.985031336)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","VT","Vermont","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"960",,,"Overall","
+, VT 
+(43.625381239, -72.517640791)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","NJ","New Jersey","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"39091",,,"Overall","
+, NJ 
+(40.130570048, -74.273691288)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","UT","Utah","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1340",,,"Overall","
+, UT 
+(39.360700171, -111.587130635)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","AR","Arkansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"16344",,,"Overall","
+, AR 
+(34.748650124, -92.274490743)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","MS","Mississippi","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"7555",,,"Female","
+, MS 
+(32.745510099, -89.538030825)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","NV","Nevada","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"4542",,,"Female","
+, NV 
+(39.49324039, -117.071840564)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","NJ","New Jersey","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"18921",,,"Male","
+, NJ 
+(40.130570048, -74.273691288)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","NY","New York","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"43060",,,"Male","
+, NY 
+(42.827001032, -75.543970427)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","NY","New York","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"13360",,,"Female","
+, NY 
+(42.827001032, -75.543970427)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","MO","Missouri","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"10970",,,"Overall","
+, MO 
+(38.635790776, -92.566300053)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MT","Montana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"680",,,"Female","
+, MT 
+(47.066528972, -109.424420645)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","DE","Delaware","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1440",,,"Overall","
+, DE 
+(39.008830667, -75.577741168)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MO","Missouri","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15649",,,"Male","
+, MO 
+(38.635790776, -92.566300053)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","VA","Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"10310",,,"Overall","
+, VA 
+(37.542680674, -78.457890463)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MI","Michigan","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"16170",,,"Overall","
+, MI 
+(44.661319543001, -84.71439027)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","KY","Kentucky","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"11396",,,"Female","
+, KY 
+(37.645970271, -84.774971048)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","PA","Pennsylvania","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"22010",,,"Overall","
+, PA 
+(40.793730152, -77.860700294)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","NV","Nevada","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1760",,,"Female","
+, NV 
+(39.49324039, -117.071840564)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","AZ","Arizona","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4720",,,"Male","
+, AZ 
+(34.86597028, -111.763811277)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","LA","Louisiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"7210",,,"Overall","
+, LA 
+(31.312660644, -92.445680071)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","FL","Florida","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"18420",,,"Male","
+, FL 
+(28.932040377, -81.928960539)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","VT","Vermont","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"430",,,"Female","
+, VT 
+(43.625381239, -72.517640791)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","WA","Washington","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"25112",,,"Overall","
+, WA 
+(47.522278629, -120.47001079)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","CT","Connecticut","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15804",,,"Overall","
+, CT 
+(41.56266102, -72.649840952)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","MS","Mississippi","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5410",,,"Overall","
+, MS 
+(32.745510099, -89.538030825)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","TX","Texas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"84996",,,"Overall","
+, TX 
+(31.827240407, -99.426770206)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","NM","New Mexico","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1530",,,"Male","
+, NM 
+(34.520880952, -106.240580985)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","OR","Oregon","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2400",,,"Female","
+, OR 
+(44.567449424, -120.155031326)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","DC","District of Columbia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1263",,,"Male","
+, DC 
+(38.890371385, -77.031961127)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MD","Maryland","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"11955",,,"Female","
+, MD 
+(39.290580964, -76.609260111)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","SC","South Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"9764",,,"Female","
+, SC 
+(33.998821303, -81.045371207)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","IN","Indiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"31425",,,"Overall","
+, IN 
+(39.766910452, -86.149960194)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","IL","Illinois","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"56421",,,"Overall","
+, IL 
+(40.485010283, -88.997710178)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","KY","Kentucky","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"8860",,,"Overall","
+, KY 
+(37.645970271, -84.774971048)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","NY","New York","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"47313",,,"Female","
+, NY 
+(42.827001032, -75.543970427)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","CO","Colorado","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5070",,,"Overall","
+, CO 
+(38.843840757, -106.133610921)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MN","Minnesota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2480",,,"Female","
+, MN 
+(46.355648736, -94.794200503)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","MN","Minnesota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"18796",,,"Overall","
+, MN 
+(46.355648736, -94.794200503)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","ND","North Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"380",,,"Female","
+, ND 
+(47.475319779, -100.118421049)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","HI","Hawaii","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"5118",,,"Overall","
+, HI 
+(21.304850435, -157.857749403)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","AK","Alaska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"905",,,"Male","
+, AK 
+(64.845079957001, -147.722059036)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MO","Missouri","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"31414",,,"Overall","
+, MO 
+(38.635790776, -92.566300053)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","CA","California","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"132974",,,"Overall","
+, CA 
+(37.638640123, -120.999999538)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","WI","Wisconsin","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4530",,,"Male","
+, WI 
+(44.393191174, -89.816370742)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","AR","Arkansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3500",,,"Male","
+, AR 
+(34.748650124, -92.274490743)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","MS","Mississippi","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2050",,,"Female","
+, MS 
+(32.745510099, -89.538030825)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","ID","Idaho","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2691",,,"Female","
+, ID 
+(43.682630005, -114.363730042)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","RI","Rhode Island","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2592",,,"Male","
+, RI 
+(41.708280193, -71.522470314)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","IL","Illinois","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"10330",,,"Male","
+, IL 
+(40.485010283, -88.997710178)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NE","Nebraska","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1010",,,"Female","
+, NE 
+(41.641040988001, -99.365720623)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","MD","Maryland","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"11509",,,"Male","
+, MD 
+(39.290580964, -76.609260111)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","FL","Florida","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"92978",,,"Overall","
+, FL 
+(28.932040377, -81.928960539)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","NJ","New Jersey","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"20171",,,"Female","
+, NJ 
+(40.130570048, -74.273691288)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","NH","New Hampshire","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2777",,,"Female","
+, NH 
+(43.655950113, -71.50036092)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","NC","North Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"14220",,,"Overall","
+, NC 
+(35.466220975, -79.159250463)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MO","Missouri","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15763",,,"Female","
+, MO 
+(38.635790776, -92.566300053)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","CT","Connecticut","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4900",,,"Overall","
+, CT 
+(41.56266102, -72.649840952)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","DE","Delaware","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"650",,,"Female","
+, DE 
+(39.008830667, -75.577741168)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","SC","South Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4470",,,"Male","
+, SC 
+(33.998821303, -81.045371207)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","SD","South Dakota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1250",,,"Overall","
+, SD 
+(44.353130053, -100.373530637)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","LA","Louisiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"10494",,,"Female","
+, LA 
+(31.312660644, -92.445680071)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","OH","Ohio","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"59710",,,"Overall","
+, OH 
+(40.060210141, -82.404260056)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","SC","South Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"20722",,,"Overall","
+, SC 
+(33.998821303, -81.045371207)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","NH","New Hampshire","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"5601",,,"Overall","
+, NH 
+(43.655950113, -71.50036092)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","PA","Pennsylvania","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"35927",,,"Female","
+, PA 
+(40.793730152, -77.860700294)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","ID","Idaho","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"1800",,,"Overall","
+, ID 
+(43.682630005, -114.363730042)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","MN","Minnesota","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5910",,,"Overall","
+, MN 
+(46.355648736, -94.794200503)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","WV","West Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2440",,,"Male","
+, WV 
+(38.665510202, -80.712640135)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","SC","South Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2760",,,"Female","
+, SC 
+(33.998821303, -81.045371207)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","CO","Colorado","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"7353",,,"Female","
+, CO 
+(38.843840757, -106.133610921)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","WY","Wyoming","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"450",,,"Male","
+, WY 
+(43.235541343, -108.109830353)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NC","North Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5840",,,"Female","
+, NC 
+(35.466220975, -79.159250463)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","CT","Connecticut","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2560",,,"Male","
+, CT 
+(41.56266102, -72.649840952)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","FL","Florida","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"13890",,,"Female","
+, FL 
+(28.932040377, -81.928960539)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","AL","Alabama","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"8650",,,"Overall","
+, AL 
+(32.840571122, -86.631860762)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","IN","Indiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"6330",,,"Male","
+, IN 
+(39.766910452, -86.149960194)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","OK","Oklahoma","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"10546",,,"Male","
+, OK 
+(35.472031356, -97.521070214)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","VA","Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15373",,,"Female","
+, VA 
+(37.542680674, -78.457890463)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","SC","South Carolina","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"10957",,,"Male","
+, SC 
+(33.998821303, -81.045371207)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MT","Montana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"890",,,"Male","
+, MT 
+(47.066528972, -109.424420645)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","DC","District of Columbia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"450",,,"Male","
+, DC 
+(38.890371385, -77.031961127)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NH","New Hampshire","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2826",,,"Male","
+, NH 
+(43.655950113, -71.50036092)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","TN","Tennessee","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15665",,,"Female","
+, TN 
+(35.68094058, -85.774490914)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","AL","Alabama","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"12685",,,"Female","
+, AL 
+(32.840571122, -86.631860762)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","AL","Alabama","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3360",,,"Female","
+, AL 
+(32.840571122, -86.631860762)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","NV","Nevada","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4050",,,"Overall","
+, NV 
+(39.49324039, -117.071840564)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","ID","Idaho","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"2962",,,"Male","
+, ID 
+(43.682630005, -114.363730042)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","MI","Michigan","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"24940",,,"Male","
+, MI 
+(44.661319543001, -84.71439027)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","ME","Maine","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"6856",,,"Overall","
+, ME 
+(45.254228894001, -68.985031336)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","GA","Georgia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"11690",,,"Overall","
+, GA 
+(32.839681093, -83.627580346)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","CA","California","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"67192",,,"Male","
+, CA 
+(37.638640123, -120.999999538)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","AR","Arkansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"2290",,,"Female","
+, AR 
+(34.748650124, -92.274490743)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","UT","Utah","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"460",,,"Female","
+, UT 
+(39.360700171, -111.587130635)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","MA","Massachusetts","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4850",,,"Male","
+, MA 
+(42.27687047, -72.082690675)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NY","New York","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"14810",,,"Male","
+, NY 
+(42.827001032, -75.543970427)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","LA","Louisiana","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"4320",,,"Male","
+, LA 
+(31.312660644, -92.445680071)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","KS","Kansas","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"6878",,,"Female","
+, KS 
+(38.3477403, -98.200781227)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","AZ","Arizona","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"3530",,,"Female","
+, AZ 
+(34.86597028, -111.763811277)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","OK","Oklahoma","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"20782",,,"Overall","
+, OK 
+(35.472031356, -97.521070214)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","VA","Virginia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"5880",,,"Male","
+, VA 
+(37.542680674, -78.457890463)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","MA","Massachusetts","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"13819",,,"Male","
+, MA 
+(42.27687047, -72.082690675)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","DC","District of Columbia","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"350",,,"Female","
+, DC 
+(38.890371385, -77.031961127)","HLT","500HLT","501SAM","3GEN","03"
+"2005-2009","TN","Tennessee","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"6770",,,"Male","
+, TN 
+(35.68094058, -85.774490914)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","NY","New York","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"28170",,,"Overall","
+, NY 
+(42.827001032, -75.543970427)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","IA","Iowa","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"15998",,,"Overall","
+, IA 
+(42.469400913, -93.816490556)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","US","United States","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"254100",,,"Male","
+, US 
+(39.8333, 98.5833)","HLT","500HLT","501SAM","2GEN","02"
+"2005-2009","US","United States","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"664262",,,"Female","
+, US 
+(39.8333, 98.5833)","HLT","500HLT","500SAM","3GEN","03"
+"2005-2009","US","United States","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"1340503",,,"Overall","
+, US 
+(39.8333, 98.5833)","HLT","500HLT","500SAM","1GEN","01"
+"2005-2009","US","United States","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual Deaths",,,"676241",,,"Male","
+, US 
+(39.8333, 98.5833)","HLT","500HLT","500SAM","2GEN","02"
+"2005-2009","US","United States","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"437400",,,"Overall","
+, US 
+(39.8333, 98.5833)","HLT","500HLT","501SAM","1GEN","01"
+"2005-2009","US","United States","SAMMEC","Health Consequences and Costs","Smoking-Attributable Mortality (SAM)","Average Annual SAM",,,"183300",,,"Female","
+, US 
+(39.8333, 98.5833)","HLT","500HLT","501SAM","3GEN","03"

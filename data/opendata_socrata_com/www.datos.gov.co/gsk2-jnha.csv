@@ -1,0 +1,828 @@
+Codigo,Nombre,Categoria,Estado,Departamento,Municipio,Ubicación,Altitud,Fecha_instalacion,Fecha_suspension,Corriente
+26075120,LA DIANA - AUT [26075120],Climática Principal,Activa,Valle del Cauca,Florida,"(3.31405556, -76.18569444)",1615,2005-06-26,,Yaguara
+26055100,FARALLONES - AUT [26055100],Climática Principal,Activa,Valle del Cauca,Cali,"(3.41605556, -76.6515)",227,2005-06-28,,Yaguara
+26055110,LA INDEPENDENCIA - AUT [26055110],Agrometeorológica,Activa,Valle del Cauca,Jamundí,"(3.18536111, -76.56930556)",14,2005-06-27 19:00,,0
+26055120,UNIVERSIDAD DEL VALLE  - AUT [26055120],Climática Principal,Activa,Valle del Cauca,Cali,"(3.378, -76.53388889)",996,2006-11-25 19:00,,0
+26085160,SILOE - AUT [26085160],Climática Principal,Activa,Valle del Cauca,Cali,"(3.4255, -76.56061111)",1238,2005-06-28,,Yaguara
+54077210,JUANCHACO - AUT [54077210],Mareográfica,Activa,Valle del Cauca,Buenaventura,"(3.92514722, -77.34900556)",18,2005-06-23,,Oceano Pacifico
+26095320,EL VINCULO - AUT [26095320],Agrometeorológica,Activa,Valle del Cauca,Buga,"(3.83480556, -76.30000556)",98,2005-06-24,,Negro
+26085170,BASE AEREA MARCO FIDEL SUAREZ  - AUT [26085170],Climática Principal,Activa,Valle del Cauca,Cali,"(3.4545, -76.49972222)",975,2006-11-22 19:00,,0
+26105240,EL PLACER - AUT [26105240],Climática Principal,Activa,Valle del Cauca,Buga,"(3.87911111, -76.10055556)",22,2005-06-30,,Magdalena
+53119010,BUENAVENTURA IDEAM  - AUT [53119010],Mareográfica,Activa,Valle del Cauca,Buenaventura,"(3.890175, -77.06190833)",40,1941-05-14 19:00,,Pacifico
+26127010,EL ALAMBRADO [26127010],Limnigráfica,Activa,Valle del Cauca,Caicedonia,"(4.41025, -75.87538889)",151,1953-01-15,,La Vieja
+26105250,ZARAGOZA - AUT [26105250],Agrometeorológica,Activa,Valle del Cauca,Cartago,"(4.68977778, -75.92519444)",943,2005-06-30,,La Vieja
+26115090,LAS BRISAS - AUT [26115090],Climática Principal,Activa,Valle del Cauca,Ansermanuevo,"(4.77558333, -76.14427778)",1971,2005-06-30,,La Vieja
+26075040,AEROPUERTO A BONILLA [26075040],Sinóptica Principal,Activa,Valle del Cauca,Palmira,"(3.53668889, -76.38663889)",970,1971-07-15,,Quebrada Don Abad
+53115010,AEROPUERTO BUENAVENTUR [53115010],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.82011111, -76.99238889)",28,1946-01-14 19:00,,0
+26110120,VILLA NUEVA [26110120],Pluviométrica,Activa,Valle del Cauca,El Águila,"(4.97108333, -76.03852778)",1341,1970-09-15,,Lagunilla
+26070170,ESPERANZA PRADERA [26070170],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.45972222, -76.25027778)",155,1982-04-15,,Quebrada Mucuya
+26080310,CALI SEDE IDEAM [26080310],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.47597222, -76.52302778)",983,1996-10-15,,Mendarco
+53090030,SILVA [53090030],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.47969444, -77.20822222)",31,1980-02-15,,Mendarco
+26075010,PALMIRA ICA [26075010],Agrometeorológica,Activa,Valle del Cauca,Palmira,"(3.51347222, -76.31488889)",118,1930-01-15,,Quebrada Sardinata
+53100040,QUEREMAL [53100040],Pluviométrica,Activa,Valle del Cauca,Dagua,"(3.52625, -76.70888889)",1523,1969-01-15,,Quebrada Sardinata
+26070110,ZAPATA LA [26070110],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.52719444, -76.21083333)",119,1965-03-15,,Quebrada Sardinata
+26115050,GRAMAS LAS [26115050],Climática Ordinaria,Suspendida,Valle del Cauca,Roldanillo,"(4.46666667, -76.11666667)",940,1967-07-15,1983-08-15,Quebrada Cay
+26110060,HIGUERON [26110060],Pluviométrica,Suspendida,Valle del Cauca,Roldanillo,"(4.46666667, -76.11666667)",915,1967-07-15,2002-03-15,Quebrada Cay
+26117070,CANDELARIA [26117070],Limnimétrica,Suspendida,Valle del Cauca,Roldanillo,"(4.46666667, -76.08333333)",916,1971-04-15,2003-08-15,Cauca
+26100690,PLACER EL [26100690],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.87894444, -76.10055556)",2132,1971-01-15,,Inirida
+53115020,COLPUERTOS [53115020],Climática Principal,Suspendida,Valle del Cauca,Buenaventura,"(3.88333333, -77.06666667)",10,1969-04-15,2002-03-15,Inirida
+26097040,VERGEL EL [26097040],Limnigráfica,Activa,Valle del Cauca,Buga,"(3.88825, -76.26419444)",111,1967-08-15,,Guadalajara
+26100800,NOGALES ALTAGRACIA [26100800],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.88866667, -76.06583333)",2507,1974-11-15,,Guadalajara
+26080290,MEDIACANOA-ALERTAS [26080290],Pluviométrica,Activa,Valle del Cauca,Yotoco,"(3.89088889, -76.35083333)",962,1979-09-15,,Guadalajara
+26120150,ALCALA [26120150],Pluviométrica,Activa,Valle del Cauca,Alcalá,"(4.67647222, -75.78630556)",1261,1972-03-15,,San Juan
+26110160,SAN FRANCISCO [26110160],Pluviométrica,Activa,Valle del Cauca,Toro,"(4.68486111, -76.03572222)",974,1971-06-15,,Meta
+26100830,PALMASOLA [26100830],Pluviométrica,Activa,Valle del Cauca,Cartago,"(4.68841667, -75.96166667)",940,1980-08-15,,Meta
+26095220,ITA-BUGA [26095220],Climática Principal,Suspendida,Valle del Cauca,Buga,"(3.91666667, -76.3)",10,1969-07-15,1981-08-15,Guayabero
+54075020,BAJO CALIMA [54075020],Climática Ordinaria,Activa,Valle del Cauca,Buenaventura,"(3.95355556, -76.99044444)",66,1931-07-15,,Saldana
+54077200,COLONIAS LAS [54077200],Limnimétrica,Activa,Valle del Cauca,Buenaventura,"(4.00108333, -76.97544444)",52,2002-09-24,,Calima
+26107130,MATEGUADUA [26107130],Limnigráfica,Activa,Valle del Cauca,San Pedro (Valle del cauca),"(4.01522222, -76.15797222)",157,1945-06-15,,Tulua
+26105230,MATEGUADUA [26105230],Climática Ordinaria,Activa,Valle del Cauca,Tuluá,"(4.02833333, -76.16852778)",1119,1983-09-15,,Cucuana
+26100810,MATEGUADUA [26100810],Pluviométrica,Suspendida,Valle del Cauca,Tuluá,"(4.02833333, -76.16852778)",1119,1970-03-15,1983-09-15,Cucuana
+26105140,BARRAGAN [26105140],Climática Ordinaria,Activa,Valle del Cauca,Tuluá,"(4.03305556, -75.88802778)",332,1972-09-15,,Cucuana
+26100350,PUERTO FRAZADAS [26100350],Pluviométrica,Activa,Valle del Cauca,Tuluá,"(4.05436111, -75.99475)",1657,1971-02-15,,Cucuana
+26100790,ITALIA LA [26100790],Pluviométrica,Activa,Valle del Cauca,Sevilla,"(4.05722222, -75.80575)",2809,1974-11-15,,Cucuana
+54077030,VIRGEN LA [54077030],Limnigráfica,Suspendida,Valle del Cauca,Buenaventura,"(4.03333333, -77.03333333)",60,1973-11-15,2002-12-15,Calima
+54077010,TROJITA LA [54077010],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(4.0695, -77.08436111)",22,1967-02-15,,Calima
+26105160,AEROPUERTO FARFAN [26105160],Sinóptica Principal,En Mantenimiento,Valle del Cauca,Tuluá,"(4.09008333, -76.22358333)",980,1948-09-14 19:00,,0
+26100700,PARDO [26100700],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.08725, -76.10080556)",1314,1972-01-15,,Ocoa
+26107140,MORALIA [26107140],Limnimétrica,Suspendida,Valle del Cauca,Tuluá,"(4.08333333, -76.11666667)",1688,1972-05-15,1975-11-15,Morales
+26100770,CEILAN [26100770],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.11430556, -76.04252778)",1382,1974-11-15,,Canal Pachaquiar
+26057030,POTRERITO [26057030],Limnigráfica,Activa,Valle del Cauca,Jamundí,"(3.24319444, -76.59241667)",125,1946-01-15,,Jamundi
+26055050,POTRERITO [26055050],Climática Ordinaria,Suspendida,Valle del Cauca,Jamundí,"(3.24319444, -76.59241667)",125,1972-03-15,1995-07-15,Jamundi
+53080010,YURUMANGUI S ANTON [53080010],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.26066667, -77.25925)",21,1980-02-15,,Guejar
+26055140,JAMUNDI [26055140],Pluviométrica,Suspendida,Valle del Cauca,Jamundí,"(3.27444444, -76.54166667)",990,1995-02-28 19:00,2019-07-16 5:49,0
+54030020,NARANJAL [54030020],Pluviométrica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.35691667, -76.35341667)",1179,1975-03-15,,Venado
+26100780,ZARZAL [26100780],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.38305556, -76.0735)",953,1974-11-15,,Cocora
+26105150,SAN MARCOS [26105150],Climática Ordinaria,Activa,Valle del Cauca,Bugalagrande,"(4.23891667, -76.03305556)",111,1971-09-15,,Cno Chivo
+26117200,TULIA LA [26117200],Limnigráfica,Suspendida,Valle del Cauca,Bolívar (Valle del cauca),"(4.38511111, -76.24452778)",1657,1984-11-15,2014-08-28,Platanares
+26120130,COROZAL [26120130],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.40277778, -75.91541667)",1178,1971-08-15,,Blanco
+26117030,TIERRABLANCA [26117030],Limnimétrica,Suspendida,Valle del Cauca,Roldanillo,"(4.41666667, -76.1)",916,1965-08-15,2003-08-15,Cauca
+26087030,RIOFRIO [26087030],Limnigráfica,Suspendida,Valle del Cauca,Riofrío,"(4.13333333, -76.26666667)",936,1958-10-15,1984-07-15,Cauca
+26060020,CABUYAL [26060020],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.32022222, -76.34661111)",13,1953-05-15,,Chicamocha
+26070760,FLORIDA [26070760],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.32777778, -76.23913889)",159,1953-05-15,,Cabrera
+26065040,CABUYAL [26065040],Climática Ordinaria,Suspendida,Valle del Cauca,Candelaria (Valle del cauca),"(3.32022222, -76.34661111)",13,1991-10-15,1997-01-15,Chicamocha
+26070770,PALMERA LA [26070770],Pluviométrica,Suspendida,Valle del Cauca,Florida,"(3.33333333, -76.16666667)",2130,1976-10-15,1994-08-15,Ata
+54077130,MALAGUITA [54077130],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(4.15444444, -77.21638889)",18,1966-09-15,,San Juan
+54070030,MALAGUITA [54070030],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(4.16922222, -77.20572222)",13,1969-01-15,,San Juan
+26100410,GALICIA [26100410],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.17188889, -76.05638889)",1191,1972-01-15,,Tuamo
+26110150,INMACULADA LA [26110150],Pluviométrica,En Mantenimiento,Valle del Cauca,Ansermanuevo,"(4.79383333, -75.9865)",960,1946-04-14 19:00,,0
+26100400,ALCAZAR EL [26100400],Pluviométrica,Suspendida,Valle del Cauca,Zarzal,"(4.30686111, -76.01877778)",17,1971-02-14 19:00,2019-02-20 4:57,0
+26075080,CENICANA [26075080],Agrometeorológica,Activa,Valle del Cauca,Florida,"(3.36041667, -76.29972222)",128,1981-06-15,,Canal Principal
+26305501,SOLMAFORO CALI - AUT [26305501],Meteorológica Especial,Activa,Valle del Cauca,Cali,"(3.36697222, -76.53008333)",983,2014-09-25,,Canal Principal
+26105110,INGENIO RIOPAILA [26105110],Climática Ordinaria,Activa,Valle del Cauca,Zarzal,"(4.3245, -76.08452778)",954,1967-01-15,,Negro
+2607500128,RADIO SONDA CALI - AUT [2607500128],Radio Sonda,Activa,Valle del Cauca,Palmira,"(3.53666667, -76.38722222)",977,2017-04-04 19:00,,0
+26125130,CUMBARCO [26125130],Climática Ordinaria,Activa,Valle del Cauca,Sevilla,"(4.18505556, -75.83236111)",1749,1973-10-15,,Ceibas
+2607500131,RADIO SONDA PEREIRA - AUT [2607500131],Radio Sonda,Activa,Valle del Cauca,Palmira,"(3.53666667, -76.38722222)",1340,2018-10-04 19:00,,0
+26120120,CAMELIA LA [26120120],Pluviométrica,Activa,Valle del Cauca,Caicedonia,"(4.33155556, -75.83483333)",124,1971-07-15,,Meta
+26110040,BOLIVAR [26110040],Pluviométrica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.34294444, -76.19044444)",972,1961-04-15,,Anaime
+26117010,BOCATOMA [26117010],Limnimétrica,Suspendida,Valle del Cauca,Bolívar (Valle del cauca),"(4.35, -76.2)",10,1946-05-15,1987-04-15,Pescador
+54075040,MISION LA [54075040],Climática Ordinaria,Activa,Valle del Cauca,Buenaventura,"(4.2225, -77.27633333)",14,1968-09-15,,Micay
+26100070,LUCERNA HACIENDA [26100070],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.22380556, -76.14730556)",964,1974-11-15,,Luisa
+26050050,SAN ANTONIO [26050050],Pluviométrica,Suspendida,Valle del Cauca,Jamundí,"(3.23333333, -76.66666667)",1600,1946-06-15,1972-02-15,Sonson
+26077060,Buchitolo [26077060],Limnimétrica,Suspendida,Valle del Cauca,Candelaria (Valle del cauca),"(3.37416667, -76.34972222)",13,1961-07-15,2018-04-23 11:34,Fraile
+23085250,SILOE - AUT [23085250],Climática Principal,Suspendida,Valle del Cauca,Cali,"(3.4255, -76.56061111)",1238,2005-06-28,2009-07-06,Guaviare
+26115080,CANDELARIA [26115080],Meteorológica Especial,Activa,Valle del Cauca,Roldanillo,"(4.48091667, -76.07988889)",945,1978-01-15,,Bogota
+26117040,BOMBA 3 [26117040],Limnimétrica,Suspendida,Valle del Cauca,Roldanillo,"(4.48333333, -76.1)",911,1971-04-15,1981-07-15,Cauca
+53110020,CISNEROS [53110020],Pluviométrica,Suspendida,Valle del Cauca,Dagua,"(3.78197222, -76.75861111)",368,1975-11-14 19:00,2019-02-20 5:00,0
+26090630,GUACARI [26090630],Pluviométrica,Activa,Valle del Cauca,Guacarí,"(3.77013889, -76.33194444)",990,1972-01-15,,Prado
+26090060,JUNTAS LAS [26090060],Pluviométrica,Activa,Valle del Cauca,Ginebra,"(3.77322222, -76.16555556)",1826,1975-03-15,,Prado
+26075060,ARREBOLES [26075060],Climática Ordinaria,Suspendida,Valle del Cauca,Candelaria (Valle del cauca),"(3.43333333, -76.43333333)",1100,1978-07-15,1995-07-15,Guaviare
+26117110,TIERRA BLANCA [26117110],Limnimétrica,Suspendida,Valle del Cauca,Roldanillo,"(4.41666667, -76.1)",925,1970-01-15,1996-03-15,Canal Marginal
+26117120,TIERRA BLANCA [26117120],Limnimétrica,Suspendida,Valle del Cauca,Roldanillo,"(4.41666667, -76.1)",925,1970-01-15,1996-03-15,Canal Marginal
+26110230,ISUGU [26110230],Pluviográfica,Activa,Valle del Cauca,Roldanillo,"(4.41866667, -76.10052778)",933,1971-06-15,,Meta
+26117170,TIERRA BLANCA [26117170],Limnimétrica,Suspendida,Valle del Cauca,Roldanillo,"(4.43333333, -76.15)",919,1969-01-15,2002-03-15,Roldanillo
+53107040,AGUACLARA [53107040],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.66922222, -76.94416667)",69,1981-02-15,,Anchicaya
+53110040,AGUACLARA [53110040],Pluviométrica,Activa,Valle del Cauca,La Cumbre,"(3.67808333, -76.54)",153,1978-07-15,,Saldana
+53090040,TIGRE EL [53090040],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.67961111, -77.06777778)",21,1980-02-15,,Saldana
+53110130,VILLA LUZ ALBA [53110130],Pluviométrica,Activa,Valle del Cauca,La Cumbre,"(3.69008333, -76.5925)",1426,1990-06-15,,Meche
+26080070,VIJES [26080070],Pluviométrica,Activa,Valle del Cauca,Vijes,"(3.69852778, -76.42972222)",974,1946-04-15,,Meche
+26080380,VILLA LUZ ALBA [26080380],Pluviométrica,Suspendida,Valle del Cauca,La Cumbre,"(3.7, -76.58333333)",1440,1990-06-15,2002-10-15,Meche
+26090660,PAN DE AZUCAR [26090660],Pluviométrica,Suspendida,Valle del Cauca,El Cerrito,"(3.71666667, -76.11666667)",3900,1972-09-15,1995-08-15,Cno Camoa
+26110300,CEROS [26110300],Pluviométrica,Activa,Valle del Cauca,Toro,"(4.61638889, -76.03444444)",940,1979-11-15,,Quebrada Perlas
+26110070,SAN ANTONIO [26110070],Pluviométrica,Suspendida,Valle del Cauca,Toro,"(4.61666667, -76.06666667)",930,1967-08-15,2002-03-15,Quebrada Perlas
+26117080,DREN PPAL K0+00 [26117080],Limnimétrica,Suspendida,Valle del Cauca,Toro,"(4.61666667, -76.05)",910,1970-01-15,2002-03-15,Cauca
+26075150,AEROPUERTO A.BONILLA - AUT [26075150],Sinóptica Principal,Activa,Valle del Cauca,Palmira,"(3.53299167, -76.3825)",961,2005-09-26,,Bedon
+26075050,INGENIO MANUELITA [26075050],Climática Ordinaria,Activa,Valle del Cauca,Palmira,"(3.57405556, -76.27780556)",159,1920-01-14,,Guaviare
+26095080,TENERIFE [26095080],Climática Ordinaria,Activa,Valle del Cauca,El Cerrito,"(3.72997222, -76.07477778)",2628,1971-01-15,,Cno Camoa
+26117060,SAN ANTONIO [26117060],Limnimétrica,Suspendida,Valle del Cauca,Toro,"(4.56666667, -76.08333333)",915,1969-01-15,2002-03-15,Toro
+26115060,CAYETANA LA [26115060],Climática Ordinaria,Suspendida,Valle del Cauca,La Unión (Valle del cauca),"(4.56666667, -76.03333333)",912,1968-09-15,1970-07-15,Toro
+54030010,PATUMAC [54030010],Pluviométrica,Activa,Valle del Cauca,Versalles,"(4.57283333, -76.20166667)",189,1966-03-15,,Meta
+26117100,PUENTE CAYETANA [26117100],Limnimétrica,Suspendida,Valle del Cauca,La Unión (Valle del cauca),"(4.58333333, -76.06666667)",912,1969-01-15,1996-03-15,Canal Aduccion
+26117090,CAYETANA REJA [26117090],Limnimétrica,Suspendida,Valle del Cauca,La Unión (Valle del cauca),"(4.58333333, -76.05)",912,1970-01-15,1996-03-15,Canal Aduccion
+26117150,CAYETANA LA [26117150],Limnimétrica,Suspendida,Valle del Cauca,La Unión (Valle del cauca),"(4.58333333, -76.05)",912,1974-02-15,2002-03-15,Cauca
+26100300,OBANDO [26100300],Pluviométrica,Activa,Valle del Cauca,Obando,"(4.58861111, -75.96583333)",986,1967-08-15,,Cauca
+26080280,PICHINDE [26080280],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.43819444, -76.60155556)",1637,1974-01-15,,Quebrada Urichare
+26075020,CALIPUERTO [26075020],Sinóptica Secundaria,Suspendida,Valle del Cauca,Candelaria (Valle del cauca),"(3.43333333, -76.4)",930,1940-06-15,1971-07-15,Atrato
+53110030,PROVIDENCIA [53110030],Pluviométrica,Activa,Valle del Cauca,Dagua,"(3.63305556, -76.71527778)",1601,1975-03-15,,Guaviare
+53110100,CUMBRE LA [53110100],Pluviométrica,Activa,Valle del Cauca,La Cumbre,"(3.64786111, -76.56638889)",1628,1975-03-15,,Guaviare
+26090460,PARAISO EL [26090460],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.64972222, -76.19972222)",1305,1970-03-15,,Guaviare
+54030030,LITUANIA [54030030],Pluviométrica,Activa,Valle del Cauca,El Dovio,"(4.49572222, -76.35222222)",1196,1966-05-15,,Guaviare
+26090710,TENERIFE [26090710],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.61666667, -76.03333333)",2609,1970-12-15,1972-01-15,Guaviare
+26075100,GRANJA EXP HOESCHST [26075100],Climática Principal,Suspendida,Valle del Cauca,Palmira,"(3.63333333, -76.43333333)",950,1990-06-15,2002-10-15,Guaviare
+26100740,SAN PEDRO [26100740],Pluviométrica,Activa,Valle del Cauca,La Victoria (Valle del cauca),"(4.51563889, -76.04055556)",949,1969-10-15,,Guaviare
+26115040,CENT ADMO LA UNION [26115040],Climática Principal,Activa,Valle del Cauca,La Unión (Valle del cauca),"(4.53122222, -76.06216667)",934,1967-02-15,,Las Palmas
+26110290,ARBOLEDA LA [26110290],Pluviométrica,Activa,Valle del Cauca,La Unión (Valle del cauca),"(4.53161111, -76.09361111)",959,1974-01-15,,Las Palmas
+26120180,ALAMBRADO EL-ALERT [26120180],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.40930556, -75.87533333)",171,1977-04-15,,
+26055020,TIMBA [26055020],Climática Ordinaria,Suspendida,Valle del Cauca,Jamundí,"(3.11711111, -76.62402778)",124,1979-07-15,2018-06-19 10:10,0
+26087100,COLEGIO EL [26087100],Limnigráfica,Suspendida,Valle del Cauca,Cali,"(3.46666667, -76.56666667)",198,1972-01-15,1996-05-15,Aguacatal
+26117180,CARACOLI [26117180],Limnimétrica,Suspendida,Valle del Cauca,Toro,"(4.55, -76.08333333)",915,1979-10-15,1996-03-15,Canal Intercept
+26095110,ICA-BALBOA [26095110],Climática Ordinaria,Suspendida,Valle del Cauca,Buga,"(3.93333333, -76.3)",960,1961-11-15,1997-01-15,Ortega
+54035020,ARGELIA EL RECREO [54035020],Climática Ordinaria,Suspendida,Valle del Cauca,Argelia (Valle del cauca),"(4.73333333, -76.11666667)",1600,1972-03-15,1998-01-15,Otun
+26107160,PUENTE CARRETERA [26107160],Limnimétrica,Suspendida,Valle del Cauca,Tuluá,"(4.08333333, -76.18333333)",958,1974-10-15,1976-09-15,Tulua
+26100820,RAFAELA LA [26100820],Pluviométrica,Suspendida,Valle del Cauca,Tuluá,"(4.11666667, -76.2)",928,1975-01-15,1997-06-15,Canal Pachaquiar
+26115030,TIERRABLANCA [26115030],Climática Ordinaria,Suspendida,Valle del Cauca,Roldanillo,"(4.41666667, -76.1)",916,1967-01-15,1990-01-15,Anaime
+26070090,PENON EL [26070090],Pluviométrica,Suspendida,Valle del Cauca,Florida,"(3.31666667, -76.23333333)",1200,1953-05-15,1972-01-15,Chicamocha
+26117190,UNION LA [26117190],Limnimétrica,Suspendida,Valle del Cauca,La Unión (Valle del cauca),"(4.51666667, -76.11666667)",954,1979-10-15,2002-03-15,Las Palmas
+54057020,LITORAL SAN JUAN - AUT  [54057020],Climática Ordinaria,Activa,Valle del Cauca,Trujillo,"(4.2454, -76.23194444)",8,2017-12-28 19:00,,0
+2636700098,HACIENDA LA GRACIOSA - AUT   [2636700098],Limnigráfica,Activa,Valle del Cauca,Bugalagrande,"(4.2398, -76.04924722)",1005,2017-11-28,,1247
+5311500056,UNIVERSIDAD DEL PACIFICO - AUT   [5311500056],Climática Principal,Activa,Valle del Cauca,Buenaventura,"(3.84830833, -76.98701667)",16,2017-12-28,,0
+2633500119,GUACHAL PALMASECA - AUT   [2633500119],Climática Principal,Activa,Valle del Cauca,Buga,"(3.88279722, -76.202125)",1368,2017-10-09 19:00,,Guachal
+5311500121,LA CUMBRE - AUT   [5311500121],Climática Principal,Activa,Valle del Cauca,La Cumbre,"(3.64519444, -76.56475)",1613,2017-04-24 19:00,,0
+2610500131,SANTA LUCIA - AUT   [2610500131],Climática Principal,Activa,Valle del Cauca,Tuluá,"(3.92905556, -75.94063889)",2903,2017-11-28 19:00,,0
+2629700151,LA VORAGINE - AUT   [2629700151],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.34630556, -76.58933333)",1239,2017-04-30 19:00,,Pance
+5311700154,PUENTE ZACARIAS - AUT   [5311700154],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.81452778, -77.00541667)",12,2018-03-05 19:00,,Dagua
+2633700150,GUAYABAL - AUT   [2633700150],Limnigráfica,Activa,Valle del Cauca,Buga,"(3.89456944, -76.34702222)",931,2017-07-06 19:00,,Cauca
+2611700158,RIO FRIO - AUT   [2611700158],Limnigráfica,Activa,Valle del Cauca,Riofrío,"(4.15219444, -76.29008056)",940,2017-10-10 19:00,,Frio
+26050030,COLTABACO  [26050030],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.45, -76.51666667)",1050,1932-06-15,1934-04-15,Cga. Mantequera
+53091001,BOYA_BUENAVENTURA  - AUT  [53091001],Mareográfica,Activa,Valle del Cauca,Buenaventura,"(3.54, -77.72898333)",0,2016-03-17,,Quebrada Yahuarcaca
+53111002,MALPELO_CCCP  - AUT  [53111002],Mareográfica,Activa,Valle del Cauca,Buenaventura,"(4.002, -81.606)",0,2016-03-17,,Tomine
+57015010,MALPELO  - AUT  [57015010],Climática Ordinaria,Activa,Valle del Cauca,Buenaventura,"(4.096, -81.60883333)",100,1986-04-15,,Cga. Mantequera
+26120670,BERRIO EL  [26120670],Pluviográfica,Activa,Valle del Cauca,Cartago,"(4.68333333, -75.85)",1150,1987-11-15,,Juanamarillo
+54030110,BOSQUE EL  [54030110],Pluviométrica,Activa,Valle del Cauca,El Dovio,"(4.68333333, -76.15)",1561,1982-06-15,,Qda Santa Barbara
+54035050,COLEGURRE  [54035050],Climática Ordinaria,Activa,Valle del Cauca,Argelia (Valle del cauca),"(4.68333333, -76.2)",1125,1978-05-15,,Qda Santa Barbara
+26100110,LUISA LA  [26100110],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.35, -76.11666667)",930,1959-01-15,,Qda La Laja
+26101140,LUISA LA  [26101140],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.35, -76.11666667)",930,1972-03-15,,Qda La Laja
+26117140,FLORIDA LA  [26117140],Limnimétrica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.35, -76.25)",1200,1989-07-15,,Pescador
+54030090,BETANIA  [54030090],Pluviométrica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.35, -76.31666667)",1750,1979-12-15,,Pescador
+26100080,COLON  [26100080],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.36666667, -76.11666667)",933,1959-01-15,,Mugroso
+26100100,TESORITO  [26100100],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.36666667, -76.06666667)",956,1959-01-15,,Mugroso
+54037030,COLEGURRE  [54037030],Limnimétrica,Suspendida,Valle del Cauca,El Dovio,"(4.35, -76.2)",1125,1977-02-15,1990-12-15,Garrapatas
+26100510,TESORITO  [26100510],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.36666667, -76.06666667)",956,1972-07-15,,Mugroso
+54037040,RIOLINDO  [54037040],Limnigráfica,Suspendida,Valle del Cauca,Bolívar (Valle del cauca),"(4.36666667, -76.46666667)",315,1982-10-15,1986-12-15,Sanguinini
+26067010,JUANCHITO  - AUT  [26067010],Limnigráfica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.45160833, -76.47538333)",950,1934-01-15,,Cauca
+26087050,MEDIACANOA  - AUT  [26087050],Limnigráfica,Activa,Valle del Cauca,Buga,"(3.88961111, -76.34997222)",942,1971-09-15,,Cauca
+26105070,MIRAVALLES  [26105070],Climática Ordinaria,Activa,Valle del Cauca,La Victoria (Valle del cauca),"(4.51666667, -75.91666667)",1233,1967-08-15,,Cauca
+26085180,YOTOCO  - AUT  [26085180],Climática Principal,Activa,Valle del Cauca,Yotoco,"(3.88166667, -76.36833333)",960,1997-05-01,,Calima
+54077180,PRESA LA  [54077180],Limnigráfica,Suspendida,Valle del Cauca,Calima (El Darién),"(3.86666667, -76.58333333)",1090,1981-11-15,1983-12-15,Calima
+26090130,BUGA-IFA  [26090130],Pluviométrica,Suspendida,Valle del Cauca,Buga,"(3.88333333, -76.28333333)",1000,1961-01-15,1961-09-15,Calima
+54030060,PEDRAL EL  [54030060],Pluviométrica,Suspendida,Valle del Cauca,El Dovio,"(4.48333333, -76.5)",510,1980-02-15,1986-08-15,Lag Cucunuba
+26100880,CANDELARIA LA  [26100880],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.5, -76.06666667)",920,1966-01-15,,Qda Yomasa
+26100890,CANDELARIA LA  [26100890],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.5, -76.05)",920,1972-01-15,,Qda Yomasa
+26100010,VICTORIA LA  [26100010],Pluviométrica,Suspendida,Valle del Cauca,La Victoria (Valle del cauca),"(4.5, -76.1)",915,1930-03-15,1934-03-15,Qda Yomasa
+26105130,SAN PEDRO  [26105130],Climática Ordinaria,Suspendida,Valle del Cauca,La Victoria (Valle del cauca),"(4.5, -76.06666667)",909,1968-09-15,1969-09-15,Qda Yomasa
+26107060,GUAYABAL  [26107060],Limnimétrica,Activa,Valle del Cauca,Zarzal,"(4.4, -76.1)",912,1958-10-15,,Cauca
+26107100,JUAN DIAZ  [26107100],Limnimétrica,Activa,Valle del Cauca,Obando,"(4.71666667, -76.01666667)",904,1971-04-15,,Cauca
+26120600,PIEDRAS DE MOLER  [26120600],Pluviométrica,Activa,Valle del Cauca,Cartago,"(4.71666667, -75.93333333)",1100,1982-09-15,,Cauca
+54030040,SANTIAGO GUTIERREZ  [54030040],Pluviográfica,Activa,Valle del Cauca,Argelia (Valle del cauca),"(4.71666667, -76.16666667)",1550,1972-03-15,,Chorreras
+26100850,ZARAGOZA  [26100850],Pluviométrica,Suspendida,Valle del Cauca,Cartago,"(4.71666667, -75.96666667)",940,1967-08-15,1970-08-15,Juanamarillo
+54035501,SANTIAGO GUTIERREZ  - AUT  [54035501],Climática Principal,Activa,Valle del Cauca,Argelia (Valle del cauca),"(4.72638889, -76.11446944)",1530,2013-08-24 19:00,,0
+26090920,FLORENCIA  [26090920],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.58333333, -76.35)",980,1959-05-15,,Salitre
+53100030,YATACUE  [53100030],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.58333333, -76.88333333)",534,1969-01-15,,Salitre
+53107020,BAJO ANCHICAYA  [53107020],Limnimétrica,Activa,Valle del Cauca,Buenaventura,"(3.58333333, -76.91666667)",480,1973-11-15,,Embalse
+53107090,ENGAÑO EL  [53107090],Limnigráfica,Activa,Valle del Cauca,Dagua,"(3.58333333, -76.78333333)",670,1992-07-15,,Anchicaya
+26070300,SOLEDAD AZCARATE  [26070300],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.6, -76.36666667)",948,1966-05-15,,Anchicaya
+26070310,ROZO-FLORINDA  [26070310],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.6, -76.35)",980,1967-09-15,,Anchicaya
+53100010,FLORESTA LA  [53100010],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.58333333, -76.85)",1050,1964-12-15,1991-08-15,Salitre
+53107010,PLAYAS LAS  [53107010],Limnigráfica,Suspendida,Valle del Cauca,Buenaventura,"(3.58333333, -76.91666667)",480,1967-03-15,1971-08-15,Anchicaya
+26070750,MATAPALO  [26070750],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.6, -76.45)",950,1972-10-15,,Anchicaya
+26090900,OLGA LA  [26090900],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.6, -76.35)",1028,1958-01-15,,Yumbo
+26090910,STA ANITA  [26090910],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.6, -76.33333333)",1036,1968-05-15,,Yumbo
+26097110,AMAIME  [26097110],Limnimétrica,Activa,Valle del Cauca,Palmira,"(3.6, -76.26666667)",1031,1984-03-15,,Amaime
+26097150,CEIBOS LOS  [26097150],Limnimétrica,Activa,Valle del Cauca,Palmira,"(3.6, -76.16666667)",1150,1992-05-15,,Anaime
+53115501,DAGUA  - AUT  [53115501],Climática Principal,Activa,Valle del Cauca,Dagua,"(3.61044167, -76.63785833)",1453,2013-08-31 19:00,,0
+53100060,CASCADA LA  [53100060],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.6, -76.88333333)",320,1966-02-15,,Anaime
+53107080,MONOS LOS  [53107080],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.6, -76.88333333)",228,1987-03-15,,Anchicaya
+26095330,SAN MARCOS  - AUT  [26095330],Climática Principal,Activa,Valle del Cauca,Pradera,"(3.60694444, -76.4575)",960,1993-05-01,,Anchicaya
+26090190,PORVENIR  [26090190],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.61666667, -76.25)",1103,1960-09-15,,Anchicaya
+26070870,FLORINDA LA  [26070870],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.6, -76.35)",980,1967-09-15,1980-10-15,Anchicaya
+26087110,PASO ANCHO  [26087110],Limnigráfica,Suspendida,Valle del Cauca,Yumbo,"(3.6, -76.53333333)",1122,1986-04-15,1991-05-15,Yumbo
+26090200,ARGELIA  [26090200],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.61666667, -76.43333333)",940,1964-01-15,,Anchicaya
+26090210,SAMARIA  [26090210],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.61666667, -76.28333333)",1025,1964-01-15,,Anchicaya
+26090740,ESMERALDA LA  [26090740],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.61666667, -76.25)",1010,1978-03-15,,Anchicaya
+26090780,PORVENIR 1 EL  [26090780],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.61666667, -76.25)",1100,1968-02-15,,Anchicaya
+26095100,ING PROVIDENCIA  [26095100],Climática Ordinaria,Activa,Valle del Cauca,El Cerrito,"(3.61666667, -76.28333333)",1100,1961-01-15,,Anchicaya
+26080230,STA INES  [26080230],Pluviográfica,Activa,Valle del Cauca,Yumbo,"(3.63333333, -76.55)",1511,1971-06-15,,Amaime
+53115050,BITACO  [53115050],Climática Ordinaria,Suspendida,Valle del Cauca,Dagua,"(3.61666667, -76.63333333)",1600,1964-06-15,1965-12-15,Amaime
+26110030,HORIZONTE EL  [26110030],Pluviométrica,Activa,Valle del Cauca,Roldanillo,"(4.4, -76.16666667)",1600,1970-01-15,,Guarino
+26110240,CAMELIA LA  [26110240],Pluviométrica,Activa,Valle del Cauca,Roldanillo,"(4.4, -76.16666667)",1000,1969-06-15,,Guarino
+26110360,AGUACATE EL  [26110360],Pluviométrica,Activa,Valle del Cauca,Roldanillo,"(4.4, -76.2)",1400,1974-01-15,,Guarino
+26110170,RETIRO EL  [26110170],Pluviométrica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.41666667, -76.26666667)",1640,1971-06-15,,Canal La Sala
+54037020,DOVIO EL  [54037020],Limnigráfica,Activa,Valle del Cauca,El Dovio,"(4.41666667, -76.41666667)",670,1979-06-15,,Garrapatas
+26100240,HONDA  [26100240],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.43333333, -76.06666667)",934,1964-04-15,,Qda San Juana
+26110010,ROLDANILLO  [26110010],Pluviométrica,Suspendida,Valle del Cauca,Roldanillo,"(4.43333333, -76.16666667)",980,1931-11-15,1944-06-15,Qda San Juana
+54030130,BELLITA LA  [54030130],Pluviométrica,Suspendida,Valle del Cauca,Versalles,"(4.73333333, -76.23333333)",1693,1982-06-15,1991-08-15,Chorreras
+26090220,PIE DE CHINCHE  [26090220],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.63333333, -76.21666667)",1030,1964-01-15,,Cauca
+26090290,ARAUCA  [26090290],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.63333333, -76.26666667)",987,1968-08-15,,Cauca
+26090380,BELLAVISTA  [26090380],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.63333333, -76.0)",2875,1969-09-15,,Cauca
+26090510,AUJI  [26090510],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.63333333, -76.1)",1555,1970-12-15,,Cauca
+26095140,SAN JERONIMO  [26095140],Climática Ordinaria,Activa,Valle del Cauca,El Cerrito,"(3.63333333, -76.33333333)",1000,1964-01-15,,Cauca
+26080270,MULALO  [26080270],Pluviométrica,Suspendida,Valle del Cauca,Yumbo,"(3.63333333, -76.48333333)",1025,1972-10-15,1972-12-15,Rio Bata
+26080330,COL S JOSE DE MONT  [26080330],Pluviométrica,Suspendida,Valle del Cauca,La Cumbre,"(3.63333333, -76.56666667)",1580,1931-05-15,1967-12-15,Rio Bata
+26095160,ALISAL  [26095160],Meteorológica Especial,Activa,Valle del Cauca,El Cerrito,"(3.63333333, -76.3)",1000,1964-01-15,,Cauca
+26095190,GUADUALITO  [26095190],Climática Ordinaria,Activa,Valle del Cauca,Palmira,"(3.63333333, -76.4)",1270,1966-02-15,,Cauca
+53100130,LADRILLEROS  [53100130],Pluviográfica,Activa,Valle del Cauca,Buenaventura,"(3.63333333, -76.93333333)",339,1964-11-15,,Amaime
+26095300,ANAIME  - AUT  [26095300],Climática Principal,Activa,Valle del Cauca,El Cerrito,"(3.63944444, -76.25972222)",1050,1993-05-01,,Amaime
+26090730,BETANIA  [26090730],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.65, -76.26666667)",1026,1978-02-15,,Amaime
+26095170,PAZ LA  [26095170],Meteorológica Especial,Activa,Valle del Cauca,El Cerrito,"(3.65, -76.26666667)",1052,1964-01-15,,Amaime
+26090520,CASTILLO EL  [26090520],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.66666667, -76.2)",1424,1970-12-15,,Anchicaya
+26090760,PRIMAVERA LA  [26090760],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.66666667, -76.26666667)",1062,1977-04-15,,Anchicaya
+26090770,SELVA LA  [26090770],Pluviográfica,Activa,Valle del Cauca,Ginebra,"(3.66666667, -76.3)",1800,1979-05-15,,Anchicaya
+26095130,CAPRI  [26095130],Climática Ordinaria,Activa,Valle del Cauca,El Cerrito,"(3.66666667, -76.3)",999,1964-01-15,,Anchicaya
+53110110,DAGUA  [53110110],Pluviométrica,Activa,Valle del Cauca,Dagua,"(3.66666667, -76.68333333)",1320,1983-11-15,,Anchicaya
+53110050,DAGUA FF CC NN  [53110050],Pluviométrica,Suspendida,Valle del Cauca,Dagua,"(3.63333333, -76.7)",1490,1920-02-15,1938-12-15,Amaime
+53115040,CUMBRE LA  [53115040],Climática Ordinaria,Suspendida,Valle del Cauca,La Cumbre,"(3.63333333, -76.58333333)",1580,1961-04-15,1968-11-15,Amaime
+26097060,ABAJO  [26097060],Limnimétrica,Suspendida,Valle del Cauca,Palmira,"(3.65, -76.38333333)",965,1971-08-15,1987-12-15,Amaime
+53107060,DANUBIO  [53107060],Limnigráfica,Suspendida,Valle del Cauca,Buenaventura,"(3.65, -76.86666667)",190,1946-07-15,1969-08-15,Anchicaya
+26090750,GALICIA  [26090750],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.68333333, -76.28333333)",1009,1973-02-15,,Anchicaya
+26095150,AURORA  [26095150],Meteorológica Especial,Activa,Valle del Cauca,El Cerrito,"(3.68333333, -76.28333333)",1015,1964-01-15,,Anchicaya
+26095310,MARSELLA  [26095310],Climática Ordinaria,Activa,Valle del Cauca,El Cerrito,"(3.68333333, -76.41666667)",947,1977-02-15,,Anchicaya
+26095290,GINEBRA  - AUT  [26095290],Climática Principal,Activa,Valle del Cauca,Ginebra,"(3.68694444, -76.27333333)",990,1997-05-01,,Anchicaya
+26080360,OCACHE  [26080360],Pluviométrica,Activa,Valle del Cauca,Vijes,"(3.7, -76.5)",1490,1983-11-15,,Anchicaya
+26090240,REFORMA LA  [26090240],Pluviométrica,Activa,Valle del Cauca,Ginebra,"(3.7, -76.23333333)",1100,1966-02-15,,Anchicaya
+26090270,PALMA 1 LA  [26090270],Pluviométrica,Activa,Valle del Cauca,Ginebra,"(3.7, -76.25)",1300,1964-01-15,,Anchicaya
+26090390,SAN MIGUEL  [26090390],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.7, -76.36666667)",1000,1968-05-15,,Anchicaya
+26095070,PIEDECHINCHE  [26095070],Climática Ordinaria,Suspendida,Valle del Cauca,El Cerrito,"(3.7, -76.31666667)",1000,1946-08-15,1949-09-15,Anchicaya
+26100490,HONDA  [26100490],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.45, -76.06666667)",933,1972-01-15,,Combeima
+54030160,CAIRO EL  [54030160],Pluviométrica,Activa,Valle del Cauca,El Cairo,"(4.76666667, -76.21666667)",1850,1982-10-15,,Balcones
+54035030,ALBAN  [54035030],Climática Principal,Activa,Valle del Cauca,El Cairo,"(4.76666667, -76.21666667)",1400,1973-06-15,,Balcones
+26100640,APTO STA ANA  [26100640],Pluviométrica,Activa,Valle del Cauca,Cartago,"(4.78333333, -75.95)",913,1967-08-15,,Recio
+26080050,VIVERO HELVECIA  [26080050],Pluviométrica,Suspendida,Valle del Cauca,Vijes,"(3.71666667, -76.46666667)",1000,1946-04-15,1947-12-15,Recio
+26090040,COSTA RICA  [26090040],Pluviométrica,Suspendida,Valle del Cauca,Ginebra,"(3.71666667, -76.2)",1118,1952-01-15,1954-05-15,Recio
+26090160,PALMA 2 LA  [26090160],Pluviométrica,Activa,Valle del Cauca,Ginebra,"(3.71666667, -76.25)",1380,1964-01-15,,Recio
+26090560,CEJA LA  [26090560],Pluviométrica,Activa,Valle del Cauca,El Cerrito,"(3.71666667, -76.01666667)",3052,1971-02-15,,Recio
+26080200,VILLA MARIA  [26080200],Pluviométrica,Activa,Valle del Cauca,Vijes,"(3.73333333, -76.5)",1698,1971-06-15,,Zabaletas
+26090250,SOLEDAD OCHOAS  [26090250],Pluviométrica,Activa,Valle del Cauca,Guacarí,"(3.73333333, -76.31666667)",966,1966-03-15,,Zabaletas
+53117020,DRAGAS LAS  [53117020],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.73333333, -76.83333333)",1300,1992-11-15,,Yurumangui
+26090140,SAN LORENZO  [26090140],Pluviométrica,Activa,Valle del Cauca,Guacarí,"(3.75, -76.35)",982,1960-01-15,,Prado
+26090180,ING LA SIBERIA  [26090180],Pluviométrica,Activa,Valle del Cauca,Ginebra,"(3.75, -76.25)",1017,1964-01-15,,Prado
+26090570,SELVA LA 26  [26090570],Pluviométrica,Activa,Valle del Cauca,Ginebra,"(3.75, -76.21666667)",1704,1971-02-15,,Prado
+26095010,SELVA LA  [26095010],Meteorológica Especial,Activa,Valle del Cauca,Ginebra,"(3.75, -76.2)",1800,1979-05-15,,Prado
+26097020,PTE PIEDRA  [26097020],Limnimétrica,Suspendida,Valle del Cauca,Ginebra,"(3.75, -76.2)",1000,1948-02-15,1959-07-15,Guabas
+26097080,SAN GERARDO  [26097080],Limnimétrica,Suspendida,Valle del Cauca,Guacarí,"(3.75, -76.38333333)",955,1973-04-15,1981-12-15,Zabaletas
+26090170,LLOREDA  [26090170],Pluviométrica,Activa,Valle del Cauca,Guacarí,"(3.76666667, -76.28333333)",1035,1960-01-15,,Embalse
+26095120,LORENA  [26095120],Climática Ordinaria,Activa,Valle del Cauca,Buga,"(3.76666667, -76.25)",1128,1964-01-15,,Embalse
+53110010,LOBO GUERRERO  [53110010],Pluviométrica,Activa,Valle del Cauca,Dagua,"(3.76666667, -76.66666667)",702,1962-12-15,,Guabas
+26095280,GUACARI  - AUT  [26095280],Climática Principal,Activa,Valle del Cauca,Guacarí,"(3.77694444, -76.32888889)",1020,1993-05-01,,Guabas
+26090150,PICHICHI  [26090150],Pluviométrica,Activa,Valle del Cauca,Guacarí,"(3.78333333, -76.28333333)",1029,1960-01-15,,Guabas
+26090930,PICHICHI  [26090930],Pluviométrica,Activa,Valle del Cauca,Guacarí,"(3.78333333, -76.28333333)",1029,1969-01-15,,Guabas
+26095020,ING PICHICHI  [26095020],Climática Ordinaria,Suspendida,Valle del Cauca,Guacarí,"(3.76666667, -76.26666667)",1043,1930-03-15,1952-09-15,Embalse
+26097070,GUABAS  [26097070],Limnigráfica,Suspendida,Valle del Cauca,Guacarí,"(3.76666667, -76.36666667)",952,1971-08-15,1974-12-15,Guabas
+26097120,SAN LORENZO  [26097120],Limnigráfica,Suspendida,Valle del Cauca,Guacarí,"(3.76666667, -76.36666667)",956,1975-09-15,1981-12-15,Guabas
+53110070,LOBO GUERRERO  [53110070],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.76666667, -76.65)",750,1932-01-15,1939-03-15,Guabas
+26100870,HONDA LA  [26100870],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.46666667, -76.06666667)",930,1972-01-15,,Lindo
+26101050,CABANA LA  [26101050],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.46666667, -76.08333333)",920,1966-01-15,,Lindo
+26110180,MONTECRISTO  [26110180],Pluviométrica,Activa,Valle del Cauca,Roldanillo,"(4.46666667, -76.23333333)",1357,1971-06-15,,Lindo
+26110390,OREGANO EL  [26110390],Pluviométrica,Activa,Valle del Cauca,Roldanillo,"(4.46666667, -76.2)",1460,1975-01-15,,Lindo
+26107110,ANACARO  [26107110],Limnigráfica,Activa,Valle del Cauca,Cartago,"(4.78333333, -75.96666667)",901,1961-10-15,,Cauca
+26110270,PLACER EL  [26110270],Pluviométrica,Activa,Valle del Cauca,Ansermanuevo,"(4.78333333, -76.1)",1730,1991-01-15,,Cauca
+26105170,APTO CARTAGO  [26105170],Climática Ordinaria,Suspendida,Valle del Cauca,Cartago,"(4.78333333, -75.95)",913,1941-01-15,1950-07-15,Guajaro
+26125010,COL ACADEMICO  [26125010],Climática Ordinaria,Suspendida,Valle del Cauca,Cartago,"(4.78333333, -75.91666667)",900,1937-01-15,1942-09-15,Cauca
+26110130,BELLAVISTA  [26110130],Pluviométrica,Activa,Valle del Cauca,Ansermanuevo,"(4.8, -76.06666667)",1550,1971-01-15,,Bogota
+26115070,CANADA  [26115070],Climática Principal,Activa,Valle del Cauca,Ansermanuevo,"(4.8, -75.95)",904,1993-01-15,,Bogota
+26090260,GUACHARACAL  [26090260],Pluviométrica,Activa,Valle del Cauca,Guacarí,"(3.8, -76.3)",1000,1964-01-15,,Consota
+26090110,JULIA LA  [26090110],Pluviométrica,Suspendida,Valle del Cauca,Guacarí,"(3.8, -76.3)",1100,1960-01-15,1964-12-15,Consota
+26090120,GONZALEZ HDA  [26090120],Pluviométrica,Suspendida,Valle del Cauca,Guacarí,"(3.8, -76.3)",1100,1960-01-15,1965-02-15,Consota
+26090080,SAN RAFAEL  [26090080],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.81666667, -76.31666667)",965,1960-01-15,,Sonso
+26090280,CEIBOS LOS  [26090280],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.81666667, -76.36666667)",950,1965-01-15,,Sonso
+53110120,ESCALERETE  [53110120],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.81666667, -76.86666667)",150,1992-04-15,,Sonso
+53115030,JULIO FERNANDEZ  [53115030],Climática Ordinaria,Activa,Valle del Cauca,Restrepo (Valle del cauca),"(3.81666667, -76.51666667)",1360,1954-01-15,,Sonso
+53117030,RESTREPO  [53117030],Limnigráfica,Activa,Valle del Cauca,Restrepo (Valle del cauca),"(3.81666667, -76.51666667)",1390,1990-02-15,,Aguamona
+26090230,SAN RAFAEL 2  [26090230],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.83333333, -76.31666667)",950,1964-01-15,,Aguamona
+26090550,PATAGONIA LA  [26090550],Pluviométrica,Activa,Valle del Cauca,Guacarí,"(3.83333333, -76.21666667)",1950,1971-03-15,,Aguamona
+26090330,SAN FELIPE  [26090330],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.85, -76.3)",980,1968-03-15,,Aguamona
+53110080,TRIANA  [53110080],Pluviométrica,Activa,Valle del Cauca,Dagua,"(3.85, -76.8)",232,1982-06-15,,Aguamona
+53105010,PUNTA SOLDADO  [53105010],Climática Ordinaria,Suspendida,Valle del Cauca,Buenaventura,"(3.8, -77.13333333)",2,1965-09-15,1968-07-15,Sonso
+53110060,FF CC DEL PACIFICO  [53110060],Pluviométrica,Suspendida,Valle del Cauca,Dagua,"(3.8, -76.71666667)",1400,1920-01-15,1938-04-15,Sonso
+26090470,MIRAFLORES  [26090470],Pluviométrica,Suspendida,Valle del Cauca,Buga,"(3.85, -76.21666667)",1824,1971-01-15,1972-04-15,Aguamona
+26080240,BUENOS AIRES  [26080240],Pluviométrica,Activa,Valle del Cauca,Yotoco,"(3.86666667, -76.43333333)",1566,1971-06-15,,Aguamona
+26090050,MAGDALENA LA  [26090050],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.86666667, -76.21666667)",1360,1968-12-15,,Aguamona
+26090600,CAMPOHERMOSO  [26090600],Pluviométrica,Activa,Valle del Cauca,Guacarí,"(3.86666667, -76.15)",1900,1971-05-15,,Aguamona
+26095200,MAGDALENA LA  [26095200],Meteorológica Especial,Activa,Valle del Cauca,Buga,"(3.86666667, -76.18333333)",1320,1968-12-15,,Aguamona
+26097140,LAG DE SONSO  [26097140],Limnigráfica,Activa,Valle del Cauca,Buga,"(3.86666667, -76.33333333)",940,1988-10-15,,Lag De Sonso
+54077110,CALIMA  [54077110],Limnigráfica,Activa,Valle del Cauca,Calima (El Darién),"(3.86666667, -76.71666667)",2000,1971-01-15,,Embalse
+54077170,MADRONAL  [54077170],Limnigráfica,Activa,Valle del Cauca,Calima (El Darién),"(3.86666667, -76.65)",1340,1946-01-15,,Calima
+26090800,VINCULO EL  [26090800],Pluviométrica,Suspendida,Valle del Cauca,Buga,"(3.86666667, -76.28333333)",979,1969-02-15,1987-01-15,Aguamona
+26095270,CAMPOHERMOSO  [26095270],Climática Ordinaria,Suspendida,Valle del Cauca,Guacarí,"(3.86666667, -76.15)",1900,1971-05-15,1985-03-15,Aguamona
+26100120,LIMON EL  [26100120],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.31666667, -76.1)",980,1959-01-15,,Chisaca
+26100180,PERALONSO  [26100180],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.31666667, -76.16666667)",935,1963-02-15,,Chisaca
+26100320,GUABITO EL  [26100320],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.31666667, -76.1)",921,1967-07-15,,Chisaca
+26101030,PERALONSO  [26101030],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.31666667, -76.15)",930,1972-03-15,,Chisaca
+26101100,RIO PAILA 1  [26101100],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.31666667, -76.1)",930,1971-01-15,,Chisaca
+26110190,HERRADURA LA  [26110190],Pluviométrica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.31666667, -76.2)",951,1971-06-15,,Chisaca
+26117020,PTO PEDREROS  [26117020],Limnimétrica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.31666667, -76.16666667)",915,1964-08-15,,Cauca
+26105270,LA PAILA  - AUT  [26105270],Climática Principal,Activa,Valle del Cauca,Zarzal,"(4.3275, -76.08805556)",930,1993-05-01,,San Me
+26120070,CAICEDONIA  [26120070],Pluviométrica,Suspendida,Valle del Cauca,Caicedonia,"(4.31666667, -75.83333333)",1025,1946-06-15,1957-12-15,Cauca
+26127130,HIDROELECTRICA  [26127130],Limnimétrica,Suspendida,Valle del Cauca,Sevilla,"(4.31666667, -75.88333333)",1190,1978-02-15,1987-10-15,Pijao
+26100230,MEDIO EL  [26100230],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.33333333, -76.08333333)",980,1964-04-15,,El Bosque
+26100860,PERALONSO  [26100860],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.33333333, -76.15)",930,1972-03-15,,El Bosque
+26101110,RIO PAILA 2  [26101110],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.33333333, -76.06666667)",940,1971-01-15,,El Bosque
+26101120,RIO PAILA 3  [26101120],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.33333333, -76.13333333)",930,1971-01-15,,El Bosque
+26101130,LUISA LA  [26101130],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.33333333, -76.1)",930,1959-01-15,,El Bosque
+26107210,SORPRESA LA  [26107210],Limnigráfica,Activa,Valle del Cauca,Zarzal,"(4.33333333, -76.06666667)",950,1972-01-15,,Paila
+26125140,VENECIA  [26125140],Climática Principal,Activa,Valle del Cauca,Caicedonia,"(4.33333333, -75.83333333)",1170,1984-01-15,,Paila
+26105260,ZARZAL  - AUT  [26105260],Climática Principal,Activa,Valle del Cauca,Zarzal,"(4.34972222, -76.0775)",950,1997-05-01,,Paila
+26110020,VINICOLA GJA  [26110020],Pluviométrica,Suspendida,Valle del Cauca,Bolívar (Valle del cauca),"(4.33333333, -76.18333333)",970,1937-03-15,1948-12-15,Paila
+26110220,BUENAVISTA  [26110220],Pluviométrica,Activa,Valle del Cauca,Toro,"(4.68333333, -76.11666667)",1750,1975-01-15,,Juanamarillo
+26120030,ALCALA  [26120030],Pluviométrica,Suspendida,Valle del Cauca,Alcalá,"(4.68333333, -75.78333333)",1250,1934-03-15,1938-04-15,Juanamarillo
+26117050,CAJONES LOS  [26117050],Limnimétrica,Suspendida,Valle del Cauca,El Águila,"(4.93333333, -76.01666667)",1300,1972-07-15,1974-10-15,Canaveral
+26085110,MANUEL M MALLARINO  [26085110],Climática Ordinaria,Activa,Valle del Cauca,Trujillo,"(4.16666667, -76.35)",1380,1969-01-15,,Frio
+26100620,ALPES LOS  [26100620],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.16666667, -76.18333333)",980,1972-04-15,,Frio
+26100720,ZABALETAS  [26100720],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.16666667, -76.18333333)",980,1972-03-15,,Frio
+26100940,STA LIBRADA  [26100940],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.16666667, -76.23333333)",950,1971-01-15,,Frio
+26107200,STA LIBRADA  [26107200],Limnimétrica,Activa,Valle del Cauca,Andalucía,"(4.16666667, -76.23333333)",950,1973-01-15,,Tulua
+26105080,ANDALUCIA GJA AGRI  [26105080],Climática Ordinaria,Suspendida,Valle del Cauca,Andalucía,"(4.16666667, -76.18333333)",1000,1936-04-15,1945-10-15,Frio
+26107030,BOCATOMA-CANAL  [26107030],Limnimétrica,Suspendida,Valle del Cauca,Bugalagrande,"(4.16666667, -76.15)",955,1945-08-15,1955-12-15,Bugalagrande
+26100340,IRLANDA  [26100340],Pluviométrica,Activa,Valle del Cauca,Sevilla,"(4.18333333, -75.96666667)",1663,1971-02-15,,Riofrio
+26100420,STA INES  [26100420],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.18333333, -76.16666667)",975,1972-01-15,,Riofrio
+26100900,STA INES  [26100900],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.18333333, -76.2)",950,1972-03-15,,Riofrio
+26100950,CARRILERA LA  [26100950],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.18333333, -76.18333333)",950,1971-01-15,,Riofrio
+26080080,TRUJILLO  [26080080],Pluviométrica,Suspendida,Valle del Cauca,Trujillo,"(4.18333333, -76.33333333)",1350,1952-01-15,1955-06-15,Qda Grande
+26087060,RIO FRIO-MINAS  [26087060],Limnimétrica,Suspendida,Valle del Cauca,Riofrío,"(4.18333333, -76.33333333)",1000,1946-11-15,1959-06-15,Riofrio
+26100060,CAMPOALEGRE  [26100060],Pluviométrica,Suspendida,Valle del Cauca,Andalucía,"(4.18333333, -76.21666667)",1100,1958-03-15,1960-11-15,Riofrio
+26080250,VENECIA  [26080250],Pluviométrica,Activa,Valle del Cauca,Trujillo,"(4.2, -76.38333333)",1532,1971-06-15,,Taquecito
+26100910,MONTANOS  [26100910],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.2, -76.2)",940,1971-01-15,,Taquecito
+26100390,JIGUAL EL  [26100390],Pluviométrica,Suspendida,Valle del Cauca,Bugalagrande,"(4.2, -75.98333333)",1433,1971-02-15,1991-07-15,Taquecito
+26105010,SAN RAFAEL  [26105010],Climática Ordinaria,Suspendida,Valle del Cauca,Bugalagrande,"(4.2, -76.16666667)",1000,1929-11-15,1936-12-15,Taquecito
+26107080,PTE VARIANTE  [26107080],Limnimétrica,Suspendida,Valle del Cauca,Bugalagrande,"(4.2, -76.16666667)",952,1950-06-15,1978-12-15,Bugalagrande
+26100280,PTO MOLINA  [26100280],Pluviométrica,Activa,Valle del Cauca,Obando,"(4.61666667, -76.03333333)",939,1967-08-15,,China
+26110090,VESUBIO EL  [26110090],Pluviométrica,Activa,Valle del Cauca,La Unión (Valle del cauca),"(4.61666667, -76.08333333)",990,1967-07-15,,China
+26115010,NILO EL  [26115010],Climática Ordinaria,Activa,Valle del Cauca,Toro,"(4.61666667, -76.03333333)",920,1992-04-15,,China
+54030120,ARABIA LA  [54030120],Pluviométrica,Activa,Valle del Cauca,Versalles,"(4.61666667, -76.2)",1395,1982-06-15,,China
+26110370,BOHIO EL  [26110370],Pluviométrica,Suspendida,Valle del Cauca,Toro,"(4.61666667, -76.06666667)",957,1975-01-15,1991-05-15,China
+26105280,BUGALAGRANDE  - AUT  [26105280],Climática Principal,Activa,Valle del Cauca,Bugalagrande,"(4.20194444, -76.18472222)",870,1997-05-01,,Santa Rosa
+26115501,MANUEL MARIA MALLARINO  - AUT  [26115501],Climática Principal,Activa,Valle del Cauca,Trujillo,"(4.21361111, -76.31497222)",1331,2013-08-23 19:00,,0
+26100370,BUGALAGRANDE  [26100370],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.21666667, -76.15)",942,1971-02-15,,Coello
+26100460,SAN JORGE  [26100460],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.21666667, -76.18333333)",960,1972-01-15,,Coello
+26100920,SAN ANTONIO  [26100920],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.21666667, -76.21666667)",930,1971-01-15,,Coello
+26105020,LUCERNA  [26105020],Climática Ordinaria,Suspendida,Valle del Cauca,Bugalagrande,"(4.21666667, -76.15)",944,1937-01-15,1946-10-15,Coello
+26105100,BUGALAGRANDE CENTR  [26105100],Climática Ordinaria,Suspendida,Valle del Cauca,Bugalagrande,"(4.21666667, -76.16666667)",944,1937-01-15,1947-03-15,Coello
+26107090,VOLADERO  [26107090],Limnigráfica,Suspendida,Valle del Cauca,Bugalagrande,"(4.21666667, -76.16666667)",1393,1971-05-15,1973-12-15,Bugalagrande
+26100220,FLORESTA LA  [26100220],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.23333333, -76.18333333)",970,1964-04-15,,Coello
+26100930,LUISA CABAL LA  [26100930],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.23333333, -76.21666667)",930,1971-01-15,,Coello
+26110430,QUIEBRA LA  [26110430],Pluviométrica,Activa,Valle del Cauca,Toro,"(4.63333333, -76.11666667)",1514,1975-01-15,,Rioseco
+26110440,PENAS LAS  [26110440],Pluviométrica,Activa,Valle del Cauca,Toro,"(4.63333333, -76.1)",1807,1971-06-15,,Rioseco
+26100150,GERTRUDIS  [26100150],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.25, -76.13333333)",980,1959-01-15,,Coello
+26100600,FLORESTA LA  [26100600],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.25, -76.18333333)",965,1972-03-15,,Coello
+26100960,SAMARIA  [26100960],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.26666667, -76.16666667)",930,1972-02-15,,Corrales
+26100020,URIBE LA FFNN  [26100020],Pluviométrica,Suspendida,Valle del Cauca,Bugalagrande,"(4.26666667, -76.11666667)",939,1937-01-15,1938-01-15,Corrales
+26100040,SEVILLA  [26100040],Pluviométrica,Suspendida,Valle del Cauca,Sevilla,"(4.26666667, -75.93333333)",1630,1946-12-15,1959-09-15,Corrales
+26101070,MIRAFLORES 2  [26101070],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.26666667, -76.18333333)",950,1971-01-15,,Corrales
+26101080,MIRAFLORES 3  [26101080],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.26666667, -76.2)",950,1971-01-15,,Corrales
+26105090,HERACLIO URIBE  [26105090],Climática Ordinaria,Suspendida,Valle del Cauca,Sevilla,"(4.26666667, -75.91666667)",1540,1952-04-15,1991-12-15,Corrales
+26101060,MIRAFLORES 1  [26101060],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.28333333, -76.18333333)",950,1971-01-15,,Coello
+26105120,SIRENA LA  [26105120],Climática Principal,Activa,Valle del Cauca,Sevilla,"(4.28333333, -75.91666667)",1540,1988-03-15,,Coello
+26100250,CAMP SEVILLA  [26100250],Pluviométrica,Suspendida,Valle del Cauca,Sevilla,"(4.28333333, -75.93333333)",1450,1966-11-15,1968-07-15,Coello
+26107040,MEDIO EL HDA  [26107040],Limnimétrica,Suspendida,Valle del Cauca,Zarzal,"(4.28333333, -76.03333333)",952,1945-09-15,1951-08-15,Paila
+26100140,VALPARAISO  [26100140],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.3, -76.1)",985,1959-01-15,,Chisaca
+26100170,NORMANDIA  [26100170],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.3, -76.15)",950,1963-02-15,,Chisaca
+26100190,VENECIA  [26100190],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.3, -76.13333333)",940,1963-03-15,,Chisaca
+26101010,VALPARAISO  [26101010],Pluviométrica,Activa,Valle del Cauca,Bugalagrande,"(4.3, -76.11666667)",950,1972-01-15,,Chisaca
+54030170,MORABITO  [54030170],Pluviométrica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.3, -76.36666667)",1640,1983-03-15,,Chisaca
+26100130,MORILLO  [26100130],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.28333333, -76.11666667)",975,1959-01-15,,Coello
+26100290,CRUCES  [26100290],Pluviométrica,Activa,Valle del Cauca,Obando,"(4.66666667, -75.91666667)",970,1967-08-15,,Fucha
+54030100,BALSAL EL  [54030100],Pluviométrica,Activa,Valle del Cauca,Versalles,"(4.66666667, -76.23333333)",1524,1982-06-15,,Qda Santa Barbara
+26105210,CARTAGO  - AUT  [26105210],Climática Principal,Activa,Valle del Cauca,Cartago,"(4.68305556, -76.01416667)",920,1995-05-01,,Qda Santa Barbara
+26087180,SALONICA  [26087180],Limnigráfica,Activa,Valle del Cauca,Riofrío,"(4.13333333, -76.36666667)",1150,1992-05-15,,Riofrio
+26101090,ROMERAL 2  [26101090],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.13333333, -76.21666667)",950,1971-01-15,,Riofrio
+26080260,RIOFRIO  [26080260],Pluviométrica,Activa,Valle del Cauca,Riofrío,"(4.15, -76.3)",953,1971-06-15,,Qda Unchia
+26100980,ROMERAL 1  [26100980],Pluviométrica,Activa,Valle del Cauca,Andalucía,"(4.15, -76.2)",950,1971-01-15,,Qda Unchia
+26080060,RIOFRIO  [26080060],Pluviométrica,Suspendida,Valle del Cauca,Riofrío,"(4.16666667, -76.33333333)",980,1946-04-15,1959-06-15,Sumapaz
+26085060,PORVENIR EL HDA  [26085060],Climática Ordinaria,Suspendida,Valle del Cauca,Riofrío,"(4.16666667, -76.33333333)",1100,1941-03-15,1944-02-15,Sumapaz
+54030150,PTO NUEVO  [54030150],Pluviométrica,Activa,Valle del Cauca,Versalles,"(4.6, -76.26666667)",990,1982-06-15,,Qda Santa Barbara
+26117130,CATARINA LA  [26117130],Limnimétrica,Suspendida,Valle del Cauca,Ansermanuevo,"(4.81666667, -75.96666667)",901,1985-02-15,1990-03-15,Cauca
+26137160,VEGAS LAS  [26137160],Limnimétrica,Suspendida,Valle del Cauca,Cartago,"(4.81666667, -75.93333333)",909,1985-02-15,1990-03-15,Cauca
+26090530,DILUVIO EL  [26090530],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.88333333, -76.15)",2360,1971-01-15,,Bogota
+26090790,ACDTO BUGA  [26090790],Pluviográfica,Activa,Valle del Cauca,Buga,"(3.88333333, -76.26666667)",960,1978-07-15,,Bogota
+26097130,CAÑO CARLINA  [26097130],Limnimétrica,Activa,Valle del Cauca,Buga,"(3.88333333, -76.35)",940,1984-04-15,,Lag De Sonso
+54070080,TESALIA LA  [54070080],Pluviométrica,Activa,Valle del Cauca,Calima (El Darién),"(3.88333333, -76.45)",1420,1973-04-15,,Lag De Sonso
+54075090,TESALIA LA  [54075090],Climática Ordinaria,Activa,Valle del Cauca,Calima (El Darién),"(3.88333333, -76.45)",1420,1973-04-15,,Lag De Sonso
+54077080,QUIRAMA  [54077080],Limnigráfica,Activa,Valle del Cauca,Calima (El Darién),"(3.88333333, -76.58333333)",806,1981-03-15,,Bravo
+54077190,TUNEL DE FUGA  [54077190],Limnigráfica,Activa,Valle del Cauca,Calima (El Darién),"(3.88333333, -76.56666667)",1174,1988-09-15,,Calima
+26087140,MEDIACANOA  [26087140],Limnimétrica,Activa,Valle del Cauca,Buga,"(3.88961111, -76.34997222)",942,1971-09-15,,Cauca
+54070010,CALIMA MADRONAL  [54070010],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.88333333, -76.55)",1340,1949-04-15,1963-09-15,Lag De Sonso
+54070020,BUENAVISTA  [54070020],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.88333333, -76.93333333)",1500,1932-01-15,1942-04-15,Lag De Sonso
+54070140,CAMPOALEGRE  [54070140],Pluviométrica,Suspendida,Valle del Cauca,Calima (El Darién),"(3.88333333, -76.61666667)",1140,1979-11-15,1987-12-15,Lag De Sonso
+54077020,PLATANILLO  [54077020],Limnigráfica,Suspendida,Valle del Cauca,Calima (El Darién),"(3.88333333, -76.65)",753,1981-09-15,1989-11-15,Cristalina
+26085070,BOSQUE YOTOCO  [26085070],Climática Ordinaria,Activa,Valle del Cauca,Yotoco,"(3.9, -76.38333333)",1560,1983-09-15,,Cauca
+54075030,PALERMO  [54075030],Climática Ordinaria,Activa,Valle del Cauca,Calima (El Darién),"(3.9, -76.55)",1450,1966-04-15,,Mediacanoa
+54075050,CALIMA PALERMO  [54075050],Climática Ordinaria,Activa,Valle del Cauca,Buenaventura,"(3.9, -76.55)",1450,1965-04-15,,Mediacanoa
+54075080,CAMPOALEGRE  [54075080],Climática Ordinaria,Activa,Valle del Cauca,Calima (El Darién),"(3.9, -76.63333333)",1145,1985-03-15,,Mediacanoa
+26090480,PRIMAVERA LA  [26090480],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.91666667, -76.2)",1644,1971-01-15,,Calima
+26090580,DOSQUEBRADAS  [26090580],Pluviométrica,Activa,Valle del Cauca,Buga,"(3.91666667, -76.18333333)",1650,1971-02-15,,Calima
+26090010,FERROCARRIL  [26090010],Pluviométrica,Suspendida,Valle del Cauca,Buga,"(3.9, -76.31666667)",969,1922-01-15,1927-01-15,Mediacanoa
+26095050,EST DE ALGODON  [26095050],Climática Ordinaria,Suspendida,Valle del Cauca,Buga,"(3.9, -76.28333333)",1200,1939-04-15,1944-04-15,Mediacanoa
+54077070,PITAL  [54077070],Limnigráfica,Suspendida,Valle del Cauca,Calima (El Darién),"(3.9, -76.63333333)",811,1981-03-15,1991-02-15,Calima
+26090020,COL ACADEMICO  [26090020],Pluviométrica,Suspendida,Valle del Cauca,Buga,"(3.91666667, -76.31666667)",1010,1930-01-15,1934-10-15,Calima
+26097010,BOCATOMA ACUEDUCTO  [26097010],Limnigráfica,Suspendida,Valle del Cauca,Buga,"(3.91666667, -76.31666667)",970,1945-10-15,1947-07-15,Guadalajara
+54030140,MARIA LA  [54030140],Pluviométrica,Activa,Valle del Cauca,El Dovio,"(4.51666667, -76.26666667)",1376,1982-06-15,,Chingaza
+26100270,MIRAVALLE  [26100270],Pluviométrica,Activa,Valle del Cauca,La Victoria (Valle del cauca),"(4.51666667, -75.91666667)",1030,1967-08-15,,Apulo
+26100330,SOCORRO EL  [26100330],Pluviográfica,Activa,Valle del Cauca,La Victoria (Valle del cauca),"(4.51666667, -76.0)",920,1982-10-15,,Apulo
+26107070,LA VICTORIA  - AUT  [26107070],Limnigráfica,Activa,Valle del Cauca,La Victoria (Valle del cauca),"(4.51666667, -76.03333333)",907,1958-10-15,,Cauca
+26110450,DESPENSA LA  [26110450],Pluviométrica,Activa,Valle del Cauca,La Unión (Valle del cauca),"(4.51666667, -76.15)",1380,1975-01-15,,Cauca
+26125100,ARTURO GOMEZ  [26125100],Climática Ordinaria,Activa,Valle del Cauca,Alcalá,"(4.51666667, -75.55)",1320,1966-07-15,,Cauca
+26100210,VICTORIA LA  [26100210],Pluviométrica,Activa,Valle del Cauca,La Victoria (Valle del cauca),"(4.53333333, -76.03333333)",914,1967-08-15,,Tunjuelito
+54070050,BERLIN  [54070050],Pluviométrica,Activa,Valle del Cauca,Calima (El Darién),"(3.91666667, -76.5)",1610,1974-05-15,,Rio Chipata
+54070130,CUSUMBO EL  [54070130],Pluviométrica,Activa,Valle del Cauca,Calima (El Darién),"(3.91666667, -76.66666667)",720,1979-11-15,,Rio Chipata
+54077120,MOJARRA LA  [54077120],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.91666667, -76.81666667)",125,1982-08-15,,Aguaclara
+26080190,CANEY EL  [26080190],Pluviométrica,Activa,Valle del Cauca,Yotoco,"(3.93333333, -76.4)",1433,1971-05-15,,Aguaclara
+54070100,RIO BRAVO  [54070100],Pluviométrica,Activa,Valle del Cauca,Calima (El Darién),"(3.93333333, -76.55)",1520,1966-04-15,,Aguaclara
+54077060,RIO AZUL  [54077060],Limnigráfica,Activa,Valle del Cauca,Calima (El Darién),"(3.93333333, -76.71666667)",466,1979-11-15,,Calima
+54077090,GUACIRUMA  [54077090],Limnimétrica,Activa,Valle del Cauca,Calima (El Darién),"(3.93333333, -76.65)",534,1980-11-15,,Azul
+26100660,BANCOS LOS  [26100660],Pluviométrica,Activa,Valle del Cauca,Tuluá,"(3.95, -75.96666667)",2350,1971-02-15,,Aguaclara
+54070200,LIMONES  [54070200],Pluviográfica,Suspendida,Valle del Cauca,Calima (El Darién),"(3.91666667, -76.68333333)",850,1981-12-15,1992-06-15,Rio Chipata
+54070170,PERDICION LA  [54070170],Pluviométrica,Suspendida,Valle del Cauca,Calima (El Darién),"(3.93333333, -76.7)",1010,1981-10-15,1990-01-15,Aguaclara
+53117010,BENDICIONES  [53117010],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.95, -76.8)",220,1982-05-15,,Dagua
+54070070,LORENA LA  [54070070],Pluviométrica,Activa,Valle del Cauca,Calima (El Darién),"(3.95, -76.48333333)",1420,1973-03-15,,Dagua
+53100080,MINGUERRA  [53100080],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.95, -77.05)",50,1931-06-15,1940-07-15,Nevado
+53110090,MORAVIA  [53110090],Pluviométrica,Suspendida,Valle del Cauca,Dagua,"(3.95, -76.73333333)",1800,1968-08-15,1984-07-15,Nevado
+54070120,ESPANTO EL  [54070120],Pluviométrica,Suspendida,Valle del Cauca,Calima (El Darién),"(3.95, -76.7)",515,1979-11-15,1990-01-15,Dagua
+54075060,TABANO EL  [54075060],Climática Ordinaria,Suspendida,Valle del Cauca,Calima (El Darién),"(3.95, -76.7)",380,1981-09-15,1992-02-15,Dagua
+54077100,PENAS LAS  [54077100],Limnigráfica,Suspendida,Valle del Cauca,Calima (El Darién),"(3.95, -76.75)",334,1981-09-15,1992-02-15,Chancos
+53111001,BUENAVENTURA_CCCP  - AUT  [53111001],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.936, -74.208)",0,2016-03-17,,Aguaclara
+54077140,PENA ALTA  [54077140],Limnigráfica,Suspendida,Valle del Cauca,Buenaventura,"(3.93333333, -76.75)",200,1987-06-15,1990-01-15,Aguaclara
+26107120,ALTAMISA LA  [26107120],Limnigráfica,Activa,Valle del Cauca,La Victoria (Valle del cauca),"(4.53333333, -76.01666667)",920,1982-10-15,,Los Micos
+26110380,LUCERO EL  [26110380],Pluviométrica,Activa,Valle del Cauca,La Unión (Valle del cauca),"(4.53333333, -76.1)",976,1975-01-15,,Los Micos
+26110420,PLANTA LA  [26110420],Pluviométrica,Suspendida,Valle del Cauca,La Unión (Valle del cauca),"(4.53333333, -76.13333333)",1346,1975-01-15,1991-05-15,Los Micos
+26110260,STA MARTA  [26110260],Pluviométrica,Activa,Valle del Cauca,El Águila,"(4.86666667, -76.05)",1760,1991-01-15,,Pava
+26090620,ANGOSTURAS  [26090620],Pluviométrica,Activa,Valle del Cauca,San Pedro (Valle del cauca),"(3.98333333, -76.2)",1221,1971-11-15,,San Juan
+26100670,GITANA LA  [26100670],Pluviométrica,Activa,Valle del Cauca,Tuluá,"(3.98333333, -75.95)",2783,1971-02-15,,San Juan
+26105200,MONTE LORO  [26105200],Climática Ordinaria,Activa,Valle del Cauca,Tuluá,"(3.98333333, -76.05)",1861,1971-02-15,,San Juan
+54077050,GAVIONES LOS  [54077050],Limnigráfica,Activa,Valle del Cauca,Calima (El Darién),"(3.98333333, -76.48333333)",1478,1974-01-15,,Calima
+26080170,GARZONERO  [26080170],Pluviométrica,Activa,Valle del Cauca,Yotoco,"(4.0, -76.43333333)",962,1970-10-15,,Qda Paquilo
+54077150,ESPERANZA LA  [54077150],Limnigráfica,Suspendida,Valle del Cauca,Calima (El Darién),"(3.96666667, -76.63333333)",1500,1955-08-15,1965-09-15,Bravo
+54077040,TAGUAL  [54077040],Limnigráfica,Activa,Valle del Cauca,Calima (El Darién),"(4.0, -76.8)",80,1982-03-15,,Calima
+54077160,BOCATOMA  [54077160],Limnigráfica,Activa,Valle del Cauca,Calima (El Darién),"(4.0, -76.58333333)",1425,1989-04-15,,Bravo
+26085140,GARZONERO  [26085140],Climática Ordinaria,Activa,Valle del Cauca,Yotoco,"(4.01666667, -76.31666667)",942,1970-10-15,,Qda La Panela
+26087160,GARZONERO NORTE  [26087160],Limnimétrica,Activa,Valle del Cauca,Yotoco,"(4.01666667, -76.3)",933,1985-04-15,,Cauca
+54070040,PALMERA LA  [54070040],Pluviométrica,Suspendida,Valle del Cauca,Calima (El Darién),"(4.03333333, -76.51666667)",2130,1966-04-15,1982-07-15,Tulua
+26110050,PORVENIR EL  [26110050],Pluviométrica,Activa,Valle del Cauca,La Unión (Valle del cauca),"(4.55, -76.11666667)",1020,1967-07-15,,Qda Chiguasa
+26110140,SABANAZO  [26110140],Pluviométrica,Activa,Valle del Cauca,La Unión (Valle del cauca),"(4.56666667, -76.15)",1643,1971-06-15,,Bogota
+26115020,SABANAZO  [26115020],Meteorológica Especial,Activa,Valle del Cauca,La Unión (Valle del cauca),"(4.56666667, -76.15)",1643,1971-06-15,,Bogota
+26110200,GRANARIO EL  [26110200],Pluviométrica,Activa,Valle del Cauca,El Águila,"(4.88333333, -76.05)",1813,1972-05-15,,Teusaca
+26100260,MOLINO EL  [26100260],Pluviométrica,Suspendida,Valle del Cauca,Obando,"(4.56666667, -75.96666667)",960,1967-08-15,1970-09-15,Bogota
+54070060,CRISTALINA LA  [54070060],Pluviométrica,Activa,Valle del Cauca,Calima (El Darién),"(4.03333333, -76.48333333)",1490,1973-01-15,,Embalse
+54070110,SAMARIA  [54070110],Pluviométrica,Activa,Valle del Cauca,Calima (El Darién),"(4.05, -76.43333333)",1975,1974-09-15,,Orinoco
+54075010,BAHIA MALAGA  [54075010],Climática Ordinaria,Activa,Valle del Cauca,Buenaventura,"(4.05, -77.31666667)",50,1984-08-15,,Orinoco
+26100680,VENUS  [26100680],Pluviométrica,Activa,Valle del Cauca,Tuluá,"(4.06666667, -76.08333333)",1560,1971-02-15,,Orinoco
+26105190,ACDTO TULUA  [26105190],Climática Ordinaria,Activa,Valle del Cauca,Tuluá,"(4.06666667, -76.18333333)",1014,1967-03-15,,Orinoco
+54070190,GRANJITA LA  [54070190],Pluviométrica,Activa,Valle del Cauca,Calima (El Darién),"(4.06666667, -76.46666667)",1660,1982-08-15,,Bugalagrande
+26080210,CALABAZAS  [26080210],Pluviométrica,Activa,Valle del Cauca,Riofrío,"(4.08333333, -76.38333333)",1093,1971-05-15,,Bugalagrande
+26090700,JARDIN BOTANICO  [26090700],Pluviométrica,Activa,Valle del Cauca,Tuluá,"(4.08333333, -76.25)",970,1971-05-15,,Piedras
+26100380,ALEGRIAS  [26100380],Pluviométrica,Activa,Valle del Cauca,Sevilla,"(4.08333333, -75.86666667)",2290,1971-02-15,,Piedras
+26107050,FRAZADAS  [26107050],Limnimétrica,Suspendida,Valle del Cauca,Andalucía,"(4.06666667, -76.01666667)",1800,1954-06-15,1955-08-15,Bugalagrande
+54070090,LITUANIA  [54070090],Pluviométrica,Suspendida,Valle del Cauca,Calima (El Darién),"(4.06666667, -76.46666667)",1870,1966-04-15,1982-08-15,Bugalagrande
+26087150,PTE GARCES  [26087150],Limnimétrica,Suspendida,Valle del Cauca,Riofrío,"(4.08333333, -76.35)",957,1972-01-15,1991-01-15,Piedras
+26095030,CENTRO EL  [26095030],Climática Ordinaria,Suspendida,Valle del Cauca,Tuluá,"(4.08333333, -76.25)",1088,1931-10-15,1934-05-15,Piedras
+26095060,BARRAGAN  [26095060],Climática Ordinaria,Suspendida,Valle del Cauca,Tuluá,"(4.08333333, -76.21666667)",1000,1941-02-15,1948-04-15,Piedras
+26100030,CABANA  [26100030],Pluviométrica,Suspendida,Valle del Cauca,Andalucía,"(4.08333333, -76.08333333)",1600,1942-06-15,1964-03-15,Piedras
+26090650,POBLADO EL  [26090650],Pluviométrica,Activa,Valle del Cauca,Tuluá,"(4.1, -76.25)",950,1971-02-15,,Piedras
+26100970,FLORA LA  [26100970],Pluviométrica,Activa,Valle del Cauca,Tuluá,"(4.1, -76.15)",960,1971-01-15,,Piedras
+26107180,PLACER EL  [26107180],Limnimétrica,Activa,Valle del Cauca,Bugalagrande,"(4.1, -76.1)",1097,1976-07-15,,Bugalagrande
+26095380,TULUA  - AUT  [26095380],Climática Principal,Activa,Valle del Cauca,Tuluá,"(4.055, -76.23694444)",960,1993-05-01,,Orinoco
+26100840,RIVERA LA  [26100840],Pluviográfica,Suspendida,Valle del Cauca,Tuluá,"(4.1, -76.26666667)",950,1938-01-15,1949-05-15,Piedras
+26107010,OBANDO  [26107010],Limnigráfica,Activa,Valle del Cauca,Obando,"(4.58333333, -75.96666667)",930,1982-09-15,,Qda Obando
+26105060,OBANDO FERROCARRIL  [26105060],Climática Ordinaria,Suspendida,Valle del Cauca,Obando,"(4.58333333, -75.98333333)",933,1934-03-15,1942-11-15,Bogota
+26110330,OSO EL  [26110330],Pluviométrica,Activa,Valle del Cauca,Toro,"(4.58333333, -76.1)",976,1975-01-15,,Qda Obando
+26110460,PATIO BONITO  [26110460],Pluviométrica,Activa,Valle del Cauca,Toro,"(4.58333333, -76.15)",1727,1975-01-15,,Qda Obando
+26100710,ZANJON HONDO  [26100710],Pluviométrica,Activa,Valle del Cauca,Tuluá,"(4.11666667, -76.18333333)",980,1972-03-15,,Chili
+26085200,RIOFRIO  - AUT  [26085200],Climática Principal,Activa,Valle del Cauca,Riofrío,"(4.12944444, -76.28972222)",1100,2001-05-01,,Aguaclara
+26090880,AUSTRIA  [26090880],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.58333333, -76.18333333)",1750,1969-10-15,,Magdalena
+26075110,DIANA LA  [26075110],Meteorológica Especial,Activa,Valle del Cauca,Florida,"(3.31402778, -76.18577778)",1626,1971-03-15,,Orihueca
+26050120,TOPACIO EL  [26050120],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.31666667, -76.63333333)",1676,1964-12-15,,Cabrera
+26055090,TOPACIO EL  [26055090],Climática Ordinaria,Activa,Valle del Cauca,Cali,"(3.31666667, -76.65)",1676,1964-12-15,,Cabrera
+26060080,STA OBDULIA  [26060080],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.31666667, -76.38333333)",972,1969-01-15,,Cabrera
+26060090,GLORIA  [26060090],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.31666667, -76.38333333)",977,1969-01-15,,Cabrera
+26060150,MADRONAL  [26060150],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.31666667, -76.38333333)",975,1970-01-15,,Cabrera
+26070130,CALANDA  [26070130],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.31666667, -76.28333333)",1085,1956-04-15,,Cabrera
+26070410,LUCERNA  [26070410],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.31666667, -76.26666667)",1190,1968-01-15,,Cabrera
+26070520,MANASES  [26070520],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.31666667, -76.28333333)",1080,1970-01-15,,Cabrera
+26070600,DIANA LA  [26070600],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.31666667, -76.18333333)",1960,1971-03-15,,Cabrera
+26050250,ARGENTINA LA  [26050250],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.33333333, -76.66666667)",1794,1971-11-15,,Fraile
+26060050,PALMERA  [26060050],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.33333333, -76.4)",970,1964-10-15,,Pance
+26060070,JUDEA  [26060070],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.33333333, -76.38333333)",972,1969-01-15,,Pance
+26070420,LIMONES  [26070420],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.33333333, -76.25)",1225,1968-01-15,,Pance
+26070660,ANTENA  [26070660],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.33333333, -76.23333333)",1300,1971-06-15,,Pance
+26070680,FLORIDA  [26070680],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.33333333, -74.23333333)",1000,1972-01-15,,Pance
+26060060,MUSICA LA  [26060060],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.35, -76.38333333)",975,1968-01-15,,Pance
+26070150,AVELINA  [26070150],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.35, -76.26666667)",1225,1956-04-15,,Pance
+26070180,BUCHITOLO  [26070180],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.35, -76.33333333)",985,1958-04-15,,Pance
+26070360,PARRAGA  [26070360],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.35, -76.26666667)",1200,1968-01-15,,Pance
+26050330,GUANABANO EL  [26050330],Pluviográfica,Suspendida,Valle del Cauca,Cali,"(3.33333333, -76.61666667)",1365,1981-02-15,1990-01-15,Fraile
+26057090,VORAGINE LA  [26057090],Limnimétrica,Suspendida,Valle del Cauca,Cali,"(3.33333333, -76.56666667)",1000,1962-01-15,1969-07-15,Pance
+26070700,PISTA LA  [26070700],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.35, -76.28333333)",1100,1972-01-15,,Pance
+26070710,BETANCUR  [26070710],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.35, -76.28333333)",1000,1972-01-15,,Pance
+26075030,CENTRAL CASTILLA  [26075030],Climática Ordinaria,Activa,Valle del Cauca,Pradera,"(3.35, -76.28333333)",1040,1961-01-15,,Pance
+26060160,BELGICA OESTE  [26060160],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.3, -76.31666667)",1000,1970-01-15,,Pance
+26050310,LADRILLERA LA  [26050310],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.36666667, -76.58333333)",1180,1982-11-15,,Parraga
+26050320,ALTO IGLESIAS  [26050320],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.36666667, -76.63333333)",1705,1981-02-15,,Parraga
+26057140,CALLE QUINTA  [26057140],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.36666667, -76.55)",996,1982-11-15,,Melendez
+26057170,CAÑASGORDAS  [26057170],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.36666667, -76.53333333)",1000,1982-11-15,,Lili
+26050140,COREA  [26050140],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.36666667, -76.66666667)",2580,1964-12-15,1986-02-15,Parraga
+26057060,LILI  [26057060],Limnimétrica,Suspendida,Valle del Cauca,Cali,"(3.36666667, -76.53333333)",1050,1953-12-15,1964-06-15,Lili
+26060210,MARGARITAS  [26060210],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.36666667, -76.41666667)",965,1972-01-15,,Ay Pozo Hondo
+26070120,POTRERILLO  [26070120],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.36666667, -76.25)",1280,1956-04-15,,Ay Pozo Hondo
+26070350,PIEDRAS BLANCAS  [26070350],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.36666667, -76.28333333)",1120,1968-01-15,,Ay Pozo Hondo
+26070530,ESCOCIA  [26070530],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.36666667, -76.25)",1227,1970-01-15,,Ay Pozo Hondo
+26070070,BUCHITOLO  [26070070],Pluviométrica,Suspendida,Valle del Cauca,Candelaria (Valle del cauca),"(3.36666667, -76.36666667)",1000,1953-05-15,1957-08-15,Ay Pozo Hondo
+26070610,SOLEDAD LA  [26070610],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.36666667, -76.16666667)",2160,1971-03-15,,Ay Pozo Hondo
+26075140,MELENDEZ  - AUT  [26075140],Climática Principal,Activa,Valle del Cauca,Pradera,"(3.36916667, -76.52)",960,1993-05-01,,Ay Pozo Hondo
+26050130,FONDA LA  [26050130],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.38333333, -76.6)",1298,1964-12-15,,Magdalena
+26070140,SAN RAFAEL  [26070140],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.38333333, -76.31666667)",980,1956-04-15,,Canal
+26070270,CHAMORRAS  [26070270],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.38333333, -76.26666667)",1130,1964-05-15,,Canal
+26070370,HIGUERONAL  [26070370],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.38333333, -76.26666667)",1180,1967-01-15,,Canal
+26070390,TUPIA LA  [26070390],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.38333333, -76.3)",990,1968-01-15,,Canal
+26070430,BOSTON  [26070430],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.38333333, -76.25)",1280,1968-01-15,,Canal
+26070690,LIBANO EL  [26070690],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.38333333, -76.26666667)",1200,1972-01-15,,Canal
+26075130,PRADERA  - AUT  [26075130],Climática Principal,Activa,Valle del Cauca,Pradera,"(3.39694444, -76.23555556)",1020,1995-05-01,,Fraile
+26057130,NAVARRO  [26057130],Limnimétrica,Suspendida,Valle del Cauca,Cali,"(3.38333333, -76.6)",994,1973-04-15,1982-12-15,Canal
+26070080,GORGONA  [26070080],Pluviométrica,Suspendida,Valle del Cauca,Candelaria (Valle del cauca),"(3.38333333, -76.38333333)",1000,1953-05-15,1962-10-15,Canal
+26070100,ESPERANZA LA  [26070100],Pluviométrica,Suspendida,Valle del Cauca,Pradera,"(3.38333333, -76.26666667)",1070,1956-04-15,1964-04-15,Canal
+26077010,FRAILE ABAJO  [26077010],Limnimétrica,Suspendida,Valle del Cauca,Candelaria (Valle del cauca),"(3.38333333, -76.38333333)",1020,1945-08-15,1949-01-15,Fraile
+26070380,CEIBA LA  [26070380],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.4, -76.3)",1000,1968-01-15,,Fraile
+26070400,GUACA LA  [26070400],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.4, -76.36666667)",975,1968-01-15,,Fraile
+26070480,AMERICA LA  [26070480],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.4, -76.38333333)",970,1969-01-15,,Fraile
+26070650,BRISAS LAS  [26070650],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.4, -76.2)",2100,1971-05-15,,Fraile
+26070720,ARADO  [26070720],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.4, -76.25)",1200,1972-01-15,,Fraile
+53107050,ALTO ANCHICAYA  [53107050],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.4, -76.86666667)",875,1971-01-15,,Embalse
+26050180,DESCANSO EL  [26050180],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.4, -76.58333333)",1172,1969-02-15,1991-07-15,Fraile
+26070440,ESPERANZA LA  [26070440],Pluviométrica,Suspendida,Valle del Cauca,Pradera,"(3.4, -76.26666667)",1010,1968-02-15,1982-04-15,Fraile
+26050100,AGUABLANCA  [26050100],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.41666667, -76.48333333)",980,1964-06-15,1969-07-15,Embalse
+26080300,EDIFICIO CVC  [26080300],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.4, -76.55)",985,1984-03-15,,Bolo
+53107030,HIGUERON EL  [53107030],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.4, -76.86666667)",875,1974-05-15,,Anchicaya
+26050150,CAÑAVERALEJO  [26050150],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.41666667, -76.58333333)",1056,1968-02-15,,Mar Caribe
+26050160,BRISAS LAS  [26050160],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.41666667, -76.6)",1228,1969-02-15,,Mar Caribe
+26057150,JARDIN EL  [26057150],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.41666667, -76.56666667)",997,1974-04-15,,Canaveralejo
+26070330,CASABLANCA  [26070330],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.41666667, -76.31666667)",990,1968-01-15,,Canaveralejo
+26070340,VILLA LUZ  [26070340],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.41666667, -76.3)",990,1968-01-15,,Canaveralejo
+26070640,CHUNE  [26070640],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.41666667, -76.25)",1200,1971-05-15,,Canaveralejo
+26070860,ING LA QUINTA  [26070860],Pluviométrica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.41666667, -76.35)",980,1969-09-15,,Canaveralejo
+26077110,MINCHOS LOS  [26077110],Limnigráfica,Activa,Valle del Cauca,Pradera,"(3.41666667, -76.16666667)",1370,1992-07-15,,Bolo
+26080140,PENAS BLANCAS  [26080140],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.41666667, -76.66666667)",2158,1965-04-15,,Bolo
+26050090,YANACONAS  [26050090],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.43333333, -76.61666667)",1730,1938-06-15,,Bolo
+26050190,FARO EL  [26050190],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.41666667, -76.6)",1616,1969-01-15,1984-04-15,Mar Caribe
+26050010,SAN FERNANDO  [26050010],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.43333333, -76.55)",1005,1931-08-15,1935-12-15,Bolo
+26050170,CRISTALES LOS  [26050170],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.43333333, -76.58333333)",1312,1969-02-15,,Bolo
+26070160,SAN JORGE  [26070160],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.43333333, -76.3)",990,1957-09-15,,Bolo
+26070320,LORENA  [26070320],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.43333333, -76.26666667)",1100,1968-01-15,,Bolo
+26070560,BAVARIA  [26070560],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.43333333, -76.3)",990,1970-01-15,,Bolo
+26070590,BOLO BLANCO  [26070590],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.43333333, -76.06666667)",2410,1971-02-15,,Bolo
+26070670,LEONA LA  [26070670],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.43333333, -76.25)",1220,1971-07-15,,Bolo
+26080400,PLTA RIO CALI  [26080400],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.43333333, -76.55)",1070,1993-01-15,,Bolo
+26087090,PICHINDE  [26087090],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.43333333, -76.61666667)",997,1969-01-15,,Pichinde
+26065050,CANDELARIA  - AUT  [26065050],Climática Principal,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.43777778, -76.34027778)",1000,1993-05-01,,Pichinde
+26050110,PLTA RIO CAUCA  [26050110],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.45, -76.5)",956,1960-04-15,,Pichinde
+26070550,MIRAFLORES  [26070550],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.45, -76.3)",995,1970-01-15,,Pichinde
+26085090,MARGARITA LA  [26085090],Climática Ordinaria,Suspendida,Valle del Cauca,Cali,"(3.43333333, -76.65)",2053,1965-01-15,1978-08-15,Bolo
+26080010,FF CC DEL PACIFICO  [26080010],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.45, -76.53333333)",1008,1920-01-15,1934-04-15,Pichinde
+26080020,CALI-CENTRO  [26080020],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.45, -76.53333333)",1020,1933-01-15,1937-12-15,Pichinde
+26080110,COL SAN JUAN BOSCO  [26080110],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.45, -76.53333333)",1000,1960-04-15,,Pichinde
+26080130,TERESITA LA  [26080130],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.45, -76.66666667)",1950,1964-12-15,,Pichinde
+26080390,BRASILIA  [26080390],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.45, -76.63333333)",1864,1965-05-15,,Pichinde
+26080340,BASE AEREA  [26080340],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.45, -76.5)",1000,1953-01-15,1954-12-15,Pichinde
+26085020,PLTA RIO CALI  [26085020],Climática Ordinaria,Suspendida,Valle del Cauca,Cali,"(3.45, -76.55)",1070,1953-10-15,1992-12-15,Pichinde
+26085080,UNIV INDUSTR-CALI  [26085080],Climática Ordinaria,Suspendida,Valle del Cauca,Cali,"(3.45, -76.53333333)",1003,1948-01-15,1949-12-15,Pichinde
+26085150,TERESITA LA  [26085150],Climática Ordinaria,Activa,Valle del Cauca,Cali,"(3.45, -76.66666667)",1950,1966-12-15,,Tapias
+26087010,BOCATOMA  [26087010],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.45, -76.56666667)",997,1946-01-15,,Cali
+26085190,BASE AEREA  - AUT  [26085190],Climática Principal,Activa,Valle del Cauca,Cali,"(3.45472222, -76.49888889)",960,1997-05-01,,Cali
+26070490,YUNDE CARRIZAL  [26070490],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.46666667, -76.4)",1000,1966-10-15,,Saldana
+26070540,SAN CAMILO  [26070540],Pluviométrica,Activa,Valle del Cauca,Pradera,"(3.46666667, -76.28333333)",1005,1970-01-15,,Saldana
+26070850,BUITRERA LA  [26070850],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.46666667, -76.2)",1350,1973-04-15,,Saldana
+26070740,YUNDE VIEJO  [26070740],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.46666667, -76.41666667)",1000,1970-02-15,1982-06-15,Saldana
+26077050,ARRIBA  [26077050],Limnimétrica,Activa,Valle del Cauca,Palmira,"(3.46666667, -76.3)",980,1960-01-15,,Bolo
+26080120,COL SAN LUIS GONZA  [26080120],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.46666667, -76.53333333)",1053,1956-01-15,,Bolo
+26080410,VIVERO CALI  [26080410],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.46666667, -76.51666667)",960,1990-01-15,,Bolo
+26090350,VIRGEN LA  [26090350],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.46666667, -76.03333333)",3690,1969-08-15,,Cali
+26077090,GRANO DE ORO  [26077090],Limnimétrica,Suspendida,Valle del Cauca,Palmira,"(3.46666667, -76.33333333)",950,1986-05-15,1986-12-15,Bolo
+26080040,GUABITO  [26080040],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.46666667, -76.51666667)",1001,1941-01-15,1954-12-15,Bolo
+26085010,SAN BARTOLOME  [26085010],Climática Ordinaria,Suspendida,Valle del Cauca,Cali,"(3.46666667, -76.53333333)",1003,1925-06-15,1931-05-15,Bolo
+26085040,COL SAN LUIS  [26085040],Climática Ordinaria,Suspendida,Valle del Cauca,Cali,"(3.46666667, -76.53333333)",1053,1935-01-15,1961-12-15,Bolo
+26085050,GUABITO  [26085050],Climática Ordinaria,Suspendida,Valle del Cauca,Cali,"(3.46666667, -76.51666667)",1001,1938-01-15,1938-12-15,Bolo
+26087070,BOMBEROS BOCATOMA  [26087070],Limnigráfica,Suspendida,Valle del Cauca,Cali,"(3.46666667, -76.53333333)",1000,1936-01-15,1984-12-15,Cali
+26090420,SIRENA LA  [26090420],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.46666667, -76.06666667)",3800,1969-08-15,1981-03-15,Cali
+53100070,LONDONOS LOS  [53100070],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.46666667, -76.8)",1050,1964-12-15,1982-08-15,Cali
+26080150,MONTEBELLO  [26080150],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.48333333, -76.55)",1260,1969-07-15,,Cali
+26080180,AGUACATAL  [26080180],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.48333333, -76.61666667)",1649,1971-03-15,,Cali
+26085100,BRASILIA  [26085100],Climática Ordinaria,Activa,Valle del Cauca,Cali,"(3.45, -76.63333333)",1864,1965-05-15,,Cali
+26090810,CASETEJA  [26090810],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.48333333, -76.06666667)",3520,1969-09-15,,Cali
+26090820,STA TERESA  [26090820],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.48333333, -76.05)",3690,1969-06-15,,Cali
+26095250,CASETEJA  [26095250],Climática Ordinaria,Activa,Valle del Cauca,Palmira,"(3.48333333, -76.06666667)",3520,1969-09-15,,Cali
+26070010,GUACHAZAMBOLO  [26070010],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.5, -76.46666667)",940,1973-04-15,,Cali
+26090410,STA RITA  [26090410],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.48333333, -76.05)",3600,1969-08-15,1985-02-15,Cali
+26090610,BALCILLAS  [26090610],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.48333333, -76.15)",2400,1969-08-15,1982-02-15,Cali
+26070210,CARMELITA  [26070210],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.5, -76.33333333)",970,1959-05-15,1964-03-15,Cali
+26070570,PALMAR EL  [26070570],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.48333333, -76.43333333)",956,1970-02-15,,Cali
+26075090,CHAMBU  [26075090],Meteorológica Especial,Activa,Valle del Cauca,Palmira,"(3.48333333, -76.21666667)",1350,1973-04-15,,Cali
+26101040,COROZAL  [26101040],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.38333333, -76.15)",930,1971-07-15,,Chisaca
+26101150,LUISA LA  [26101150],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.38333333, -76.13333333)",930,1972-03-15,,Chisaca
+26070450,SOCORRO  [26070450],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.56666667, -76.35)",950,1968-01-15,,Guachal
+26100200,PLACER EL  [26100200],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.4, -76.08333333)",935,1964-03-15,,Qda Ruicito
+26100360,QUEBRADANUEVA  [26100360],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.4, -75.95)",1024,1973-06-15,,Qda Ruicito
+26100430,ELVIRA LA  [26100430],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.4, -76.03333333)",962,1983-05-15,,Qda Ruicito
+26101020,PLACER EL  [26101020],Pluviométrica,Activa,Valle del Cauca,Zarzal,"(4.4, -76.1)",930,1972-03-15,,Qda Ruicito
+26120680,RECREO EL  [26120680],Pluviográfica,Activa,Valle del Cauca,Ulloa,"(4.7, -75.73333333)",1410,1986-08-15,,Totare
+26105220,ZARAGOZA  [26105220],Meteorológica Especial,Activa,Valle del Cauca,Cartago,"(4.70125, -75.93011111)",937,1965-01-15,,Qda Santa Barbara
+26070510,PETITE  [26070510],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.5, -76.26666667)",1200,1969-01-15,,Rancheria
+26070500,AGUACLARA  [26070500],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.5, -76.23333333)",1250,1969-01-15,,Rancheria
+26080160,SAN PABLO  [26080160],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.5, -76.45)",1871,1969-12-15,,Rancheria
+26095260,DIAMANTE EL  [26095260],Climática Ordinaria,Activa,Valle del Cauca,Palmira,"(3.5, -76.15)",2100,1969-09-15,,Cauca
+26070050,CASCAJAL  [26070050],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.51666667, -76.21666667)",1006,1952-01-15,,Anchicaya
+26080320,BITACO  [26080320],Pluviométrica,Suspendida,Valle del Cauca,La Cumbre,"(3.5, -76.58333333)",1580,1921-01-15,1945-03-15,Rancheria
+26087130,PASO DEL COMERCIO  [26087130],Limnigráfica,Suspendida,Valle del Cauca,Cali,"(3.5, -76.48333333)",947,1974-01-15,1989-01-15,Cauca
+26090320,CUERVOS LOS  [26090320],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.5, -76.1)",2620,1969-09-15,1982-08-15,Cauca
+26090360,MIRLAS LAS  [26090360],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.5, -76.15)",2375,1969-08-15,1982-08-15,Cauca
+26090590,OSOS LOS  [26090590],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.5, -76.13333333)",2500,1969-08-15,1975-07-15,Cauca
+53107070,MURRAPAL  [53107070],Limnigráfica,Suspendida,Valle del Cauca,Buenaventura,"(3.5, -76.88333333)",385,1966-01-15,1968-12-15,Anchicaya
+26070290,ESTANCIA LA  [26070290],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.51666667, -76.33333333)",950,1965-06-15,,Anchicaya
+26070920,LLANITOS LOS  [26070920],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.51666667, -76.45)",960,1973-04-15,,Anchicaya
+26080030,VILLA ARACELLY  [26080030],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.51666667, -76.61666667)",2040,1981-03-15,,Anchicaya
+26080350,LLOREDA  [26080350],Pluviométrica,Activa,Valle del Cauca,Yumbo,"(3.51666667, -76.5)",930,1973-03-15,,Anchicaya
+26090300,TENJO  [26090300],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.51666667, -76.16666667)",1500,1969-08-15,,Anchicaya
+53100120,DIGUA  [53100120],Pluviométrica,Activa,Valle del Cauca,Dagua,"(3.51666667, -76.78333333)",850,1971-04-15,,Anchicaya
+26095370,PALMIRA SAN JOSE  - AUT  [26095370],Climática Principal,Activa,Valle del Cauca,Palmira,"(3.52138889, -76.26444444)",1080,1996-05-01,,Anchicaya
+26095360,ARROYO HONDO  - AUT  [26095360],Climática Principal,Activa,Valle del Cauca,Palmira,"(3.53027778, -76.50166667)",960,1996-05-01,,Anchicaya
+26070580,BRITANIA PRODEZA  [26070580],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.53333333, -76.45)",958,1970-04-15,,Anchicaya
+26090400,AMBERES  [26090400],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.51666667, -76.13333333)",2070,1969-08-15,1982-08-15,Anchicaya
+53100090,RIOVERDE  [53100090],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.51666667, -76.81666667)",1050,1969-11-15,1970-12-15,Anchicaya
+26075070,SAN RAFAEL  [26075070],Climática Ordinaria,Suspendida,Valle del Cauca,Palmira,"(3.53333333, -76.26666667)",1007,1934-01-15,1937-12-15,Anchicaya
+26090370,SELVA LA  [26090370],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.53333333, -76.08333333)",3415,1969-11-15,1982-08-15,Anchicaya
+53105020,QUEREMAL EL  [53105020],Climática Ordinaria,Activa,Valle del Cauca,Dagua,"(3.53333333, -76.75)",1496,1966-06-15,,Anchicaya
+26090500,ALBANIA  [26090500],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.53333333, -76.15)",2050,1969-08-15,1982-08-15,Anchicaya
+26090890,BETULIA LA  [26090890],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.53333333, -76.11666667)",2600,1969-12-15,1982-08-15,Anchicaya
+26070060,CAMPANELLA  [26070060],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.55, -76.3)",1550,1976-01-15,,Ay Watcaru
+26077070,PTE PALMASECA  [26077070],Limnigráfica,Activa,Valle del Cauca,Palmira,"(3.55, -76.46666667)",947,1977-01-15,,Guachal
+26090070,SAN EMIGDIO  [26090070],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.55, -76.2)",1272,1964-12-15,,Guachal
+26090430,SAN NICOLAS  [26090430],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.55, -76.16666667)",2100,1969-08-15,,Guachal
+26090440,PLANTA NIMA 1  [26090440],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.55, -76.21666667)",1170,1970-03-15,,Guachal
+26070800,RITA LA  [26070800],Pluviográfica,Suspendida,Valle del Cauca,Palmira,"(3.55, -76.28333333)",1006,1934-01-15,1937-12-15,Ay Watcaru
+26077040,PTO ISAACS  [26077040],Limnimétrica,Suspendida,Valle del Cauca,Yumbo,"(3.55, -76.48333333)",945,1973-01-15,1985-09-15,Cauca
+26090450,VERANERAS LAS  [26090450],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.55, -76.11666667)",1440,1970-02-15,1990-05-15,Guachal
+26095180,SAN EMIGDIO  [26095180],Climática Ordinaria,Activa,Valle del Cauca,Palmira,"(3.55, -76.2)",1272,1964-12-15,,Guachal
+26095240,MONTANITA LA  [26095240],Climática Ordinaria,Activa,Valle del Cauca,Palmira,"(3.55, -76.18333333)",1750,1969-08-15,,Guachal
+26070030,CARBONERA LA  [26070030],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.56666667, -76.33333333)",980,1935-06-15,,Guachal
+26070190,FLORENCIA  [26070190],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.56666667, -76.36666667)",980,1958-05-15,,Guachal
+26070730,CASCAJAL  [26070730],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.56666667, -76.3)",1056,1971-01-15,,Guachal
+26080220,DAPA  [26080220],Pluviométrica,Activa,Valle del Cauca,Yumbo,"(3.56666667, -76.56666667)",1716,1971-06-15,,Guachal
+26090090,PACORA  [26090090],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.56666667, -76.26666667)",1810,1942-06-15,,Guachal
+26090720,RITA  [26090720],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.56666667, -76.28333333)",1000,1937-03-15,,Guachal
+26070020,ROSARIO EL  [26070020],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.56666667, -76.3)",920,1934-01-15,1937-12-15,Guachal
+26070220,ROSARIO EL  [26070220],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.56666667, -76.3)",920,1960-05-15,1965-04-15,Guachal
+26090490,ALTOBELLO  [26090490],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.56666667, -76.15)",2400,1969-08-15,1974-12-15,Guachal
+26090640,ORISOL  [26090640],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.56666667, -76.1)",2600,1971-01-15,1975-08-15,Guachal
+53100140,PRADOS LOS  [53100140],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.56666667, -76.86666667)",542,1969-01-15,,Guachal
+53100150,PRESA LA  [53100150],Pluviográfica,Activa,Valle del Cauca,Buenaventura,"(3.56666667, -76.56666667)",660,1975-07-15,,Guachal
+53107100,TORRE LA  [53107100],Limnigráfica,Activa,Valle del Cauca,Dagua,"(3.56666667, -76.78333333)",640,1994-11-15,,Digua
+26095350,PALMIRA CASCAJAL  - AUT  [26095350],Climática Principal,Activa,Valle del Cauca,Palmira,"(3.57111111, -76.31638889)",960,1996-05-01,,Digua
+26095340,PALMIRA LA RITA  - AUT  [26095340],Climática Principal,Activa,Valle del Cauca,Palmira,"(3.57416667, -76.27777778)",960,1993-05-01,,Digua
+26070040,REAL HDA  [26070040],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.58333333, -76.3)",1065,1934-01-15,,Digua
+26070470,MALIMBU  [26070470],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.58333333, -76.33333333)",1052,1968-05-15,,Digua
+26085130,BUITRERA LA  [26085130],Climática Ordinaria,Activa,Valle del Cauca,Yumbo,"(3.58333333, -76.56666667)",1500,1979-01-15,,Digua
+26087170,BUITRERA LA  [26087170],Limnimétrica,Activa,Valle del Cauca,Yumbo,"(3.58333333, -76.56666667)",1500,1986-05-15,,Yumbo
+26090340,GERTRUDIS  [26090340],Pluviométrica,Activa,Valle del Cauca,Palmira,"(3.58333333, -76.26666667)",1082,1968-05-15,,Yumbo
+26080370,YUMBILLO  [26080370],Pluviométrica,Activa,Valle del Cauca,Yumbo,"(3.58333333, -76.56666667)",1730,1986-04-15,,Digua
+26085030,YUMBO  [26085030],Climática Ordinaria,Suspendida,Valle del Cauca,Yumbo,"(3.58333333, -76.5)",985,1932-01-15,1938-12-15,Digua
+26050300,TABLANCA  [26050300],Pluviométrica,Suspendida,Valle del Cauca,Jamundí,"(3.11666667, -76.56666667)",980,1987-03-15,1991-06-15,Huasano
+26057070,TABLANCA  [26057070],Limnimétrica,Activa,Valle del Cauca,Jamundí,"(3.11666667, -76.56666667)",980,1961-06-15,,Cauca
+53087010,CONCHA LA  [53087010],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(3.11666667, -77.05)",100,1985-06-15,,Naya
+53080040,SAN FRANCISCO  [53080040],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.15, -77.3)",20,1984-08-15,,Huasano
+26055040,SAMARKANDA  [26055040],Meteorológica Especial,Activa,Valle del Cauca,Jamundí,"(3.16666667, -76.7)",1527,1979-02-15,,Paila
+26050240,VILLA COLOMBIA  [26050240],Pluviográfica,Activa,Valle del Cauca,Jamundí,"(3.18333333, -76.7)",1505,1971-05-15,,Paila
+26055130,INDEPENDENCIA LA  [26055130],Climática Ordinaria,Activa,Valle del Cauca,Jamundí,"(3.18538889, -76.56938889)",997,2001-06-15,,Paila
+26057020,LUISA LA  [26057020],Limnigráfica,Activa,Valle del Cauca,Jamundí,"(3.2, -76.6)",1034,1951-01-15,,Claro
+26050210,SAN ANTONIO  [26050210],Pluviométrica,Activa,Valle del Cauca,Jamundí,"(3.21666667, -76.66666667)",1567,1961-01-15,,Guengue
+26055080,SAN ANTONIO  [26055080],Meteorológica Especial,Activa,Valle del Cauca,Jamundí,"(3.21666667, -76.66666667)",1567,1970-01-15,,Guengue
+26050260,PENA MONA  [26050260],Pluviométrica,Activa,Valle del Cauca,Jamundí,"(3.25, -76.71666667)",2100,1971-11-15,,Guatapuri
+26050220,SAN VICENTE  [26050220],Pluviométrica,Activa,Valle del Cauca,Jamundí,"(3.26666667, -76.63333333)",1442,1971-05-15,,Desbaratado
+26055010,JAMUNDI-FERROCARRI  [26055010],Climática Ordinaria,Suspendida,Valle del Cauca,Jamundí,"(3.23333333, -76.58333333)",1010,1926-02-15,1943-03-15,Guatapuri
+26070620,ALPES LOS  [26070620],Pluviográfica,Activa,Valle del Cauca,Florida,"(3.26666667, -76.15)",2380,1971-04-15,,Desbaratado
+26057110,PTE CARRETERA  [26057110],Limnigráfica,Activa,Valle del Cauca,Jamundí,"(3.28333333, -76.51666667)",970,1977-01-15,,Jamundi
+26060100,BELGICA ESTE  [26060100],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.28333333, -76.26666667)",1200,1969-01-15,,Jamundi
+26060110,CANADA  [26060110],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.28333333, -76.31666667)",995,1969-01-15,,Jamundi
+26057010,PTE FERROCARRIL  [26057010],Limnigráfica,Suspendida,Valle del Cauca,Jamundí,"(3.28333333, -76.55)",962,1962-03-15,1969-08-15,Jamundi
+26057100,CASTILLO EL  [26057100],Limnimétrica,Suspendida,Valle del Cauca,Jamundí,"(3.28333333, -76.5)",950,1971-01-15,1982-12-15,Jamundi
+26060170,REMOLINO  [26060170],Pluviométrica,Activa,Valle del Cauca,Florida,"(3.28333333, -76.28333333)",1000,1970-01-15,,Jamundi
+26067030,ORTIGAL  [26067030],Limnimétrica,Activa,Valle del Cauca,Florida,"(3.28333333, -76.35)",988,1972-03-15,,Desbaratado
+26050200,PALACIO EL  [26050200],Pluviométrica,Activa,Valle del Cauca,Cali,"(3.3, -76.53333333)",950,1970-01-15,,Desbaratado
+26057080,HORMIGUERO  [26057080],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.3, -76.48333333)",955,1962-01-15,,Cauca
+26057120,COMFAMILIAR  [26057120],Limnimétrica,Activa,Valle del Cauca,Cali,"(3.3, -76.55)",990,1978-01-15,,Pance
+26065501,JAMUNDI  - AUT  [26065501],Climática Principal,Activa,Valle del Cauca,Jamundí,"(3.21558056, -76.68021944)",1791,2013-08-31 19:00,,0
+53115502,JULIO FERNANDEZ  - AUT  [53115502],Climática Principal,Activa,Valle del Cauca,Restrepo (Valle del cauca),"(3.80916389, -76.53305556)",1381,2013-08-22 19:00,,0
+26125503,LA SIRENA  - AUT  [26125503],Climática Principal,Activa,Valle del Cauca,Sevilla,"(4.285, -75.9025)",1519,2013-08-23 19:00,,0
+26055501,GINEBRA  - AUT  [26055501],Climática Principal,Suspendida,Valle del Cauca,Ginebra,"(3.73838889, -76.22083056)",1572,2013-08-31 19:00,2019-08-21 9:14,0
+26125502,CAICEDONIA  - AUT  [26125502],Climática Principal,Activa,Valle del Cauca,Caicedonia,"(4.29755833, -75.86396111)",999,2013-09-09 19:00,,0
+26125507,ARTURO GOMEZ  - AUT  [26125507],Climática Principal,Activa,Valle del Cauca,Alcalá,"(4.67138889, -75.77721944)",1259,2013-09-10 19:00,,0
+57037010,Buenaventura [57037010],Mareográfica,Suspendida,Valle del Cauca,Buenaventura,"(3.9, -77.083333)",0,2018-01-04,2018-01-16,Pacifico
+26075501,FLORIDA  - AUT  [26075501],Climática Principal,Activa,Valle del Cauca,Florida,"(3.29146944, -76.17735833)",1541,2013-10-06 19:00,,0
+5311500147,INFANTERIA MARINA,Meteorológica Especial,Activa,Valle del Cauca,Buenaventura,"(3.89008333, -77.07033056)",7,2019-12-12 19:00,,Dagua
+5311500148,COLEGIO VNB,Meteorológica Especial,Activa,Valle del Cauca,Buenaventura,"(3.88419444, -77.04938056)",9,2019-12-12 19:00,,Dagua
+5311500149,COLEGIO VNB,Meteorológica Especial,Activa,Valle del Cauca,Buenaventura,"(3.88419444, -77.04938056)",9,2019-12-12 19:00,,Dagua
+26095210,EL COMINAL - AUT [26095210],Climática Ordinaria,Activa,Valle del Cauca,Palmira,"(3.52470278, -76.15144167)",2055,2017-06-30 19:00,,0
+26110280,VENECIA - AUT [26110280],Climática Ordinaria,Activa,Valle del Cauca,Trujillo,"(4.19671667, -76.40060278)",1532,2017-06-30 19:00,,0
+26310010,YUMBILLO - AUT [26310010],Climática Ordinaria,Activa,Valle del Cauca,Yumbo,"(3.58033333, -76.54991111)",1730,2017-06-30 19:00,,0
+26355010,BARRAGAN - AUT [26355010],Meteorológica Especial,Activa,Valle del Cauca,Tuluá,"(4.03328611, -75.88835833)",3100,2017-06-30 19:00,,0
+54075130,PACIFICO-SAN JUAN - AUT [54075130],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(4.22126389, -77.27716111)",3,2017-06-30 19:00,,Quebrada Buena Vista
+54075110,EL DARIEN - AUT [54075110],Limnimétrica,Activa,Valle del Cauca,Calima (El Darién),"(3.92958056, -76.48874167)",1500,2017-06-30 19:00,,1204
+26100090,PCH - ALTO - AUT [26100090],Pluviográfica,Activa,Valle del Cauca,Tuluá,"(3.90470556, -76.07681111)",1618,2017-06-30 19:00,,0
+54030180,COLEGURRE  [54030180],Pluviográfica,Suspendida,Valle del Cauca,Argelia (Valle del cauca),"(4.68333333, -76.2)",1125,1977-12-15,1990-12-15,Qda Santa Barbara
+54030070,PATIOS  [54030070],Pluviométrica,Suspendida,Valle del Cauca,El Dovio,"(4.35, -76.56666667)",815,1979-07-15,1987-06-15,Pescador
+26107020,RIOPAILA  [26107020],Limnimétrica,Suspendida,Valle del Cauca,Zarzal,"(4.36666667, -76.05)",931,1945-08-15,1946-11-15,Las Canas
+26070840,STA GERTRUDIS  [26070840],Pluviográfica,Suspendida,Valle del Cauca,Palmira,"(3.6, -76.26666667)",1020,1934-01-15,1936-03-15,Anchicaya
+53100020,GUADUALITO  [53100020],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.6, -76.86666667)",542,1969-01-15,1990-06-15,Anaime
+26097030,ING MANUELITA  [26097030],Limnimétrica,Suspendida,Valle del Cauca,El Cerrito,"(3.61666667, -76.2)",1010,1946-01-15,1960-12-15,Amaime
+54030080,REFUGIO EL  [54030080],Pluviométrica,Suspendida,Valle del Cauca,El Dovio,"(4.41666667, -76.58333333)",290,1979-07-15,1987-05-15,Qda Guadual
+26087040,SALENTO  [26087040],Limnimétrica,Suspendida,Valle del Cauca,Yumbo,"(3.63333333, -76.46666667)",942,1955-03-15,1982-12-15,Cauca
+26097050,TOCHE  [26097050],Limnimétrica,Suspendida,Valle del Cauca,Palmira,"(3.63333333, -76.08333333)",1550,1971-08-15,1975-12-15,Amaime
+26090030,FERROCARRIL  [26090030],Pluviométrica,Suspendida,Valle del Cauca,El Cerrito,"(3.68333333, -76.33333333)",1000,1932-01-15,1934-01-15,Anchicaya
+26097100,ARBORITO  [26097100],Limnimétrica,Suspendida,Valle del Cauca,El Cerrito,"(3.71666667, -76.31666667)",960,1984-04-15,1991-07-15,Zabaletas
+26090100,ESMERALDA LA  [26090100],Pluviométrica,Suspendida,Valle del Cauca,Buga,"(3.76666667, -76.25)",968,1960-01-15,1965-02-15,Embalse
+54030050,CAPILLA LA  [54030050],Pluviométrica,Suspendida,Valle del Cauca,El Dovio,"(4.46666667, -76.53333333)",645,1980-02-15,1988-08-15,Qda Guajaro
+26110410,MONTANUELA LA  [26110410],Pluviométrica,Suspendida,Valle del Cauca,Roldanillo,"(4.48333333, -76.23333333)",1678,1975-01-15,1991-07-15,Qda Yomasa
+26097090,PALMA LA  [26097090],Limnigráfica,Suspendida,Valle del Cauca,Guacarí,"(3.8, -76.33333333)",960,1971-09-15,1974-12-15,Sonso
+26090540,JANEIRO EL  [26090540],Pluviométrica,Suspendida,Valle del Cauca,Buga,"(3.86666667, -76.2)",2000,1971-02-15,1991-06-15,Aguamona
+26105030,RIOPAILA  [26105030],Climática Ordinaria,Suspendida,Valle del Cauca,Zarzal,"(4.31666667, -76.08333333)",1000,1932-01-15,1942-12-15,Chisaca
+26105050,ALVAREZ SALAS  [26105050],Climática Ordinaria,Suspendida,Valle del Cauca,Sevilla,"(4.26666667, -75.95)",1750,1933-09-15,1942-06-15,Corrales
+26100050,BUGALAGRANDE  [26100050],Pluviométrica,Suspendida,Valle del Cauca,Bugalagrande,"(4.15, -76.16666667)",942,1957-07-15,1961-03-15,Qda Unchia
+26087020,CHORROS LOS  [26087020],Limnimétrica,Suspendida,Valle del Cauca,Yotoco,"(3.9, -76.41666667)",960,1946-01-15,1947-07-15,Mediacanoa
+26090680,ALGODONERA GJA  [26090680],Pluviográfica,Suspendida,Valle del Cauca,Buga,"(3.9, -76.28333333)",1000,1939-04-15,1944-04-15,Mediacanoa
+26095040,AGRICOLA GJA  [26095040],Climática Ordinaria,Suspendida,Valle del Cauca,Buga,"(3.91666667, -76.3)",969,1937-03-15,1959-11-15,Calima
+54070160,MINA LA  [54070160],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.91666667, -76.81666667)",125,1982-07-15,1982-12-15,Rio Chipata
+54075070,QUIRAMA  [54075070],Climática Ordinaria,Suspendida,Valle del Cauca,Calima (El Darién),"(3.91666667, -76.65)",980,1984-02-15,1987-10-15,Rio Chipata
+26110400,CALERA LA  [26110400],Pluviométrica,Suspendida,Valle del Cauca,La Unión (Valle del cauca),"(4.53333333, -76.13333333)",1220,1975-01-15,1991-05-15,Los Micos
+54070180,AUSTRIACO EL  [54070180],Pluviométrica,Suspendida,Valle del Cauca,Calima (El Darién),"(4.0, -76.8)",70,1982-02-15,1982-08-15,Qda Paquilo
+26107150,PTE ZINC  [26107150],Limnimétrica,Suspendida,Valle del Cauca,Tuluá,"(4.01666667, -76.15)",1000,1986-09-15,1989-06-15,Tulua
+26110080,RIVERA LA  [26110080],Pluviométrica,Suspendida,Valle del Cauca,La Unión (Valle del cauca),"(4.56666667, -76.08333333)",1050,1967-06-15,1984-12-15,Bogota
+26095090,AGRICOLA GJA  [26095090],Climática Ordinaria,Suspendida,Valle del Cauca,Tuluá,"(4.08333333, -76.23333333)",1088,1949-05-15,1955-05-15,Piedras
+26100650,MARINA LA  [26100650],Pluviométrica,Suspendida,Valle del Cauca,Tuluá,"(4.1, -76.16666667)",1000,1952-01-15,1960-12-15,Piedras
+26107190,BOHIO EL  [26107190],Limnigráfica,Suspendida,Valle del Cauca,Bugalagrande,"(4.1, -76.05)",950,1976-08-15,1982-12-15,Bugalagrande
+26077030,PENON EL-FRAILE  [26077030],Limnimétrica,Suspendida,Valle del Cauca,Florida,"(3.31666667, -76.23333333)",1200,1946-02-15,1963-04-15,Fraile
+26077100,GAMALIEL  [26077100],Limnigráfica,Suspendida,Valle del Cauca,Pradera,"(3.35, -76.26666667)",997,1974-06-15,1975-05-15,Parraga
+26057050,CLUB CAMPESTRE  [26057050],Limnimétrica,Suspendida,Valle del Cauca,Cali,"(3.38333333, -76.53333333)",1000,1945-07-15,1947-07-15,Melendez
+26050080,SILENCIO EL  [26050080],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.4, -76.61666667)",1809,1952-09-15,1979-07-15,Fraile
+26077020,PLANTA ELECTRICA  [26077020],Limnimétrica,Suspendida,Valle del Cauca,Pradera,"(3.4, -76.2)",1050,1945-09-15,1946-11-15,Bolo
+26080090,RANCHO LARGO  [26080090],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.43333333, -76.65)",2053,1952-01-15,1961-03-15,Bolo
+26080100,LEONERA LA  [26080100],Pluviométrica,Suspendida,Valle del Cauca,Cali,"(3.45, -76.65)",1869,1952-01-15,1991-05-15,Pichinde
+26077080,MADRE VIEJA  [26077080],Limnimétrica,Suspendida,Valle del Cauca,Palmira,"(3.46666667, -76.3)",978,1980-02-15,1982-12-15,Bolo
+26090310,PATO EL  [26090310],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.48333333, -76.08333333)",3800,1969-08-15,1983-06-15,Cali
+54037010,UNION LA  [54037010],Limnigráfica,Suspendida,Valle del Cauca,El Dovio,"(4.38333333, -76.51666667)",230,1979-10-15,1986-09-15,Garrapatas
+26105040,FERROCARRIL  [26105040],Climática Ordinaria,Suspendida,Valle del Cauca,Zarzal,"(4.4, -76.06666667)",980,1932-05-15,1938-08-15,Qda Ruicito
+26070260,SAN JOSE  [26070260],Pluviométrica,Suspendida,Valle del Cauca,Palmira,"(3.51666667, -76.35)",950,1961-01-15,1964-03-15,Anchicaya
+53100110,PARAGUAS  [53100110],Pluviométrica,Suspendida,Valle del Cauca,Buenaventura,"(3.55, -76.83333333)",1930,1984-10-15,1988-03-15,Guachal
+26090670,ROSARIO EL HDA  [26090670],Pluviométrica,Suspendida,Valle del Cauca,El Cerrito,"(3.58333333, -76.3)",3000,1960-05-15,1965-04-15,Yumbo
+26050230,ESMERALDA LA  [26050230],Pluviométrica,Suspendida,Valle del Cauca,Jamundí,"(3.16666667, -76.73333333)",1402,1971-05-15,1986-06-15,Paila
+26070630,ANDES LOS  [26070630],Pluviométrica,Suspendida,Valle del Cauca,Florida,"(3.26666667, -76.18333333)",1960,1971-03-15,1991-02-15,Desbaratado
+53100050,ALTO ANCHICAYA  [53100050],Pluviográfica,Activa,Valle del Cauca,Buenaventura,"(3.53333333, -76.86666667)",630,1967-04-14 19:00,,0
+53110150,CHICORAL - AUT [53110150],Climática Ordinaria,Activa,Valle del Cauca,La Cumbre,"(3.56901944, -76.59055556)",1868,2017-06-30 19:00,,0
+26307010,EL CARMELO - AUT [26307010],Climática Ordinaria,Activa,Valle del Cauca,Cali,"(3.38546667, -76.57485)",1550,2017-06-30 19:00,,0
+26295010,EL TOPACIO - AUT [26295010],Climática Ordinaria,Activa,Valle del Cauca,Cali,"(3.31783611, -76.63714167)",1676,2017-06-30 19:00,,0
+26345010,LA TERESITA - AUT [26345010],Climática Ordinaria,Activa,Valle del Cauca,Cali,"(3.44974167, -76.6629)",1950,2017-06-30 19:00,,0
+53117080,RIO GRANDE - AUT [53117080],Climática Ordinaria,Activa,Valle del Cauca,Dagua,"(3.77826389, -76.64654167)",703,2017-06-30 19:00,,0
+53117050,CISNEROS - AUT [53117050],Limnigráfica,Activa,Valle del Cauca,Dagua,"(3.77751389, -76.76145278)",373,2017-06-30 19:00,,Dagua
+26297010,HORMIGUERO - AUT [26297010],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.30318611, -76.47684444)",956,2017-06-30 19:00,,1204
+26330030,LA PATAGONIA - AUT [26330030],Limnigráfica,Activa,Valle del Cauca,Buga,"(3.83963056, -76.21001111)",1950,2017-06-30 19:00,,1204
+53107110,LOS MONOS - AUT [53107110],Limnigráfica,Activa,Valle del Cauca,Dagua,"(3.60503056, -76.879275)",214,2017-06-30 19:00,,Anchicaya
+26090830,LOS TAMBOS - AUT [26090830],Limnigráfica,Activa,Valle del Cauca,Palmira,"(3.51757778, -76.14958889)",1680,2017-06-30 19:00,,1204
+26327010,PUENTE PIEDRA - AUT [26327010],Limnigráfica,Activa,Valle del Cauca,Ginebra,"(3.76597222, -76.23314722)",1440,2017-06-30 19:00,,Guabas
+26095390,PUENTE SALINAS - AUT [26095390],Limnigráfica,Activa,Valle del Cauca,Palmira,"(3.61500556, -76.12265556)",1427,2017-06-30 19:00,,1204
+26310030,SANTA INES - AUT [26310030],Limnigráfica,Activa,Valle del Cauca,Yumbo,"(3.62535556, -76.54750833)",1511,2017-06-30 19:00,,Mulatos
+26330010,EL DILUVIO - AUT [26330010],Limnimétrica,Activa,Valle del Cauca,Buga,"(3.87750556, -76.15033611)",2360,2017-06-30 19:00,,1204
+26310020,EL CANEY - AUT [26310020],Pluviográfica,Activa,Valle del Cauca,Yotoco,"(3.92958889, -76.41868611)",1433,2017-06-30 19:00,,0
+26357010,EL PLACER - AUT [26357010],Pluviográfica,Activa,Valle del Cauca,Andalucía,"(4.09744444, -76.08262778)",1111,2017-06-30 19:00,,0
+26080420,EL RETIRO - AUT [26080420],Pluviográfica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.39598611, -76.23515)",1655,2017-06-30 19:00,,0
+26297020,PANCE - CHORRERA - AUT [26297020],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.33207778, -76.61401944)",1386,2017-06-30 19:00,,0
+26317020,PASO LA TORRE - AUT [26317020],Pluviográfica,Activa,Valle del Cauca,Yumbo,"(3.62933889, -76.45250556)",942,2017-06-30 19:00,,0
+26340020,PEÑAS BLANCAS - AUT [26340020],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.41562778, -76.66248333)",2158,2017-06-30 19:00,,0
+26080430,PESCADOR - LA TESALIA - AUT [26080430],Pluviográfica,Activa,Valle del Cauca,Roldanillo,"(4.40937778, -76.24115556)",2003,2017-06-30 19:00,,0
+26307020,PUERTO MALLARINO - AUT [26307020],Pluviográfica,Activa,Valle del Cauca,Cali,"(3.44418611, -76.47652222)",949,2017-06-30 19:00,,0
+53117060,DOS RIOS - AUT [53117060],Pluviométrica,Activa,Valle del Cauca,Buenaventura,"(3.82715833, -76.88185278)",75,2017-06-30 19:00,,0
+26107220,MATEGUADUA - AUT [26107220],Pluviométrica,Activa,Valle del Cauca,San Pedro (Valle del cauca),"(4.01605556, -76.15787778)",1095,2017-06-30 19:00,,0
+26340010,FELIDIA - AUT [26340010],Climática Ordinaria,Activa,Valle del Cauca,Cali,"(3.46605278, -76.62933611)",1683,2017-06-30 19:00,,0
+26070780,LOS MINCHOS - AUT [26070780],Climática Ordinaria,Activa,Valle del Cauca,Pradera,"(3.42114167, -76.18318889)",1370,2017-06-30 19:00,,0
+53110160,OCACHE - AUT [53110160],Climática Ordinaria,Activa,Valle del Cauca,La Cumbre,"(3.69939722, -76.50876111)",1490,2017-06-30 19:00,,0
+26347020,PICHINDE - AUT [26347020],Climática Ordinaria,Activa,Valle del Cauca,Cali,"(3.43495, -76.61214444)",1531,2017-06-30 19:00,,0
+26087200,PLATANARES - PTE EL INDIO - AUT [26087200],Climática Ordinaria,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.33901389, -76.260675)",1474,2017-06-30 19:00,,0
+26310040,VIJES - VILLAMARIA - AUT [26310040],Climática Ordinaria,Activa,Valle del Cauca,Vijes,"(3.71851944, -76.47998611)",1698,2017-06-30 19:00,,0
+26317030,YUMBO - PASOANCHO - AUT [26317030],Climática Ordinaria,Activa,Valle del Cauca,Yumbo,"(3.59557222, -76.52265)",1112,2017-06-30 19:00,,0
+26315010,BOSQUE DE YOTOCO - AUT [26315010],Limnigráfica,Activa,Valle del Cauca,Yotoco,"(3.87581667, -76.43643611)",1700,2017-06-30 19:00,,Vijagual
+26347010,CALI - BOCATOMA - AUT [26347010],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.44918333, -76.56821667)",1074,2017-06-30 19:00,,Cali
+26305010,CAÑAVERALEJO-EDIFICIO CVC - AUT [26305010],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.40585833, -76.53888611)",985,2017-06-30 19:00,,Calima
+26330020,EL VERGEL - AUT [26330020],Limnigráfica,Activa,Valle del Cauca,Buga,"(3.88824167, -76.26466944)",1094,2017-06-30 19:00,,San Pedro
+26090690,LA CEJA - AUT [26090690],Limnigráfica,Activa,Valle del Cauca,Palmira,"(3.70638611, -76.01649167)",3052,2017-06-30 19:00,,1204
+26330040,LA PRIMAVERA - AUT [26330040],Limnigráfica,Activa,Valle del Cauca,Buga,"(3.91940833, -76.19775556)",1644,2017-06-30 19:00,,1204
+26367020,LA SORPRESA - AUT [26367020],Limnigráfica,Activa,Valle del Cauca,Zarzal,"(4.29793056, -76.04598333)",1433,2017-06-30 19:00,,1204
+26300010,LILI - SAN SEBASTIAN - AUT [26300010],Limnigráfica,Activa,Valle del Cauca,Cali,"(3.37361389, -76.5954)",1554,2017-06-30 19:00,,1204
+26097160,LOS CEIBOS - AUT [26097160],Limnigráfica,Activa,Valle del Cauca,Palmira,"(3.61666111, -76.18241111)",1010,2017-06-30 19:00,,1204
+54075120,PACIFICO-BAHIA MALAGA - AUT [54075120],Limnigráfica,Activa,Valle del Cauca,Buenaventura,"(4.0473, -77.30632778)",50,2017-06-30 19:00,,Quebrada Buena Vista
+53117070,PUERTA DAGUA - AUT [53117070],Limnigráfica,Activa,Valle del Cauca,Dagua,"(3.74291389, -76.66502222)",731,2017-06-30 19:00,,Dagua
+26090840,TENERIFE - AUT [26090840],Limnigráfica,Activa,Valle del Cauca,El Cerrito,"(3.73047778, -76.08025)",2609,2017-06-30 19:00,,1204
+26057180,TIMBA - TIMBA - AUT [26057180],Limnigráfica,Activa,Valle del Cauca,Jamundí,"(3.11713333, -76.62395278)",999,2017-06-30 19:00,,1204
+26117210,SALONICA - AUT [26117210],Limnimétrica,Activa,Valle del Cauca,Riofrío,"(4.13301389, -76.36538056)",1102,2017-06-30 19:00,,1204
+26377010,ANACARO - AUT [26377010],Pluviográfica,Activa,Valle del Cauca,Cartago,"(4.78341667, -75.96959444)",908,2017-06-30 19:00,,0
+53115060,ATUNCELA - AUT [53115060],Pluviográfica,Activa,Valle del Cauca,Dagua,"(3.74490278, -76.67213889)",813,2017-06-30 19:00,,0
+26087190,CALAMAR - LA PEÑA - AUT [26087190],Pluviográfica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.32111389, -76.25881111)",1483,2017-06-30 19:00,,0
+26085210,EL PORVENIR - PESCADOR - AUT [26085210],Pluviográfica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.30351389, -76.28571389)",1671,2017-06-30 19:00,,0
+53117040,ESCALERETE - AUT [53117040],Pluviográfica,Activa,Valle del Cauca,Buenaventura,"(3.82910278, -76.86989167)",150,2017-06-30 19:00,,0
+26120740,HERACLIO URIBE - AUT [26120740],Pluviográfica,Activa,Valle del Cauca,Sevilla,"(4.28503333, -75.90286944)",1540,2017-06-30 19:00,,0
+26317010,LOS CHORROS - AUT [26317010],Pluviográfica,Activa,Valle del Cauca,Yotoco,"(3.90088056, -76.37487778)",949,2017-06-30 19:00,,0
+26330050,MEDIACANOA - AUT [26330050],Pluviográfica,Activa,Valle del Cauca,Buga,"(3.891025, -76.34841667)",920,2017-06-30 19:00,,0
+26105290,MONTELORO - AUT [26105290],Pluviográfica,Activa,Valle del Cauca,Tuluá,"(3.96232222, -76.06159167)",1861,2017-06-30 19:00,,0
+26070790,NAVARRO - AUT [26070790],Pluviográfica,Activa,Valle del Cauca,Candelaria (Valle del cauca),"(3.4046, -76.46352778)",950,2017-06-30 19:00,,0
+26085220,PESCADOR-BRUT - AUT [26085220],Pluviográfica,Activa,Valle del Cauca,Bolívar (Valle del cauca),"(4.34089167, -76.24611667)",1461,2017-06-30 19:00,,0
