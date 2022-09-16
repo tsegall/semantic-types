@@ -1,7 +1,7 @@
 # Semantic Type Reference Set #
 
 The file 'reference.csv' captures the 'truth' as it relates to the Semantic Types from the data files stored in the data directory.
-The data files are sourced from a variety of locations including VizNet (https://viznet.media.mit.edu/) and socrata.com.
+All data files are currently sourced from socrata.com.
 
 The intention is to select files at random to provide a robust corpus to objectively measure the performance of any process that attempts to determine
 the Semantic Type of a data stream.  Prior analyses have attempted to use crowdsourcing (Mechanical Turk), column headers, etc to validate their process, however, this is clearly not as robust as having a source of 'truth' (see caveats below).
@@ -28,7 +28,7 @@ Given a sample file 'current.csv' with the same layout as 'reference.csv' which 
 
 ## Usage ##
 
-Please feel free to use this Corpus to measure the success of your process.
+Please feel free to use this Corpus to measure the success of your process.  With the exception of the data files (data/**/*.csv) all files in this repository are covered by the Apache 2.0 license.  The data files are covered by the respective licenses from socrata.com - which for the current set is the 'Creative Commons 1.0 Universal (Public Domain Dedication)' license.
 
 ## Semantic Type Classification ##
 
