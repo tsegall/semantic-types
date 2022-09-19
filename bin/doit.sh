@@ -2,6 +2,11 @@ FTA=$HOME/src/fta/cli/build/install/fta/bin/cli
 
 for i in "$@"
 do
+	if [ -f "$1.out" ]
+	then
+		exit 0
+	fi
+
 	# See if there is a Locale file
 	if [ -f "$i.locale" ]
 	then
