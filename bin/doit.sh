@@ -20,6 +20,6 @@ do
 		exit 0
 	fi
 
-	$FTA $OPTIONS --output --xMaxCharsPerColumn 20000 --debug 1 --records 1000 "$i"
+	$FTA $OPTIONS --json --output --xMaxCharsPerColumn 20000 --debug 1 --records 1000 "$i"
 done
 
