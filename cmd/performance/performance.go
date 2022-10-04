@@ -188,15 +188,13 @@ func main() {
 				key, element.Precision, element.Recall, element.F1Score, len(element.TruePositives), len(element.FalsePositives), len(element.FalseNegatives))
 			if options.Verbose {
 				if len(element.FalsePositives) != 0 {
-					fmt.Printf("False Positives:\n")
 					for _, key := range element.FalsePositives {
-						fmt.Printf("\t%s\n", key)
+						fmt.Printf("FP\t%s\n", key)
 					}
 				}
 				if len(element.FalseNegatives) != 0 {
-					fmt.Printf("False Negatives:\n")
 					for _, key := range element.FalseNegatives {
-						fmt.Printf("\t%s\n", key)
+						fmt.Printf("FN\t%s\n", key)
 					}
 				}
 			}
