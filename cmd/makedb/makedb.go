@@ -19,7 +19,7 @@ type FieldAnalysis struct {
 	RegExp             string   `json:"regExp"`
 	Confidence         float64  `json:"confidence"`
 	Type               string   `json:"type"`
-	TypeQualifier      string   `json:"typeQualifier"`
+	TypeModifier       string   `json:"typeModifier"`
 	Min                string   `json:"min"`
 	Max                string   `json:"max"`
 	MinLength          int      `json:"minLength"`
@@ -34,7 +34,8 @@ type FieldAnalysis struct {
 	TrailingWhiteSpace bool     `json:"trailingWhiteSpace"`
 	Multiline          bool     `json:"multiline"`
 	DateResolutionMode string   `json:"dateResolutionMode"`
-	LogicalType        bool     `json:"logicalType"`
+	IsSemanticType     bool     `json:"isSemanticType"`
+	SemanticType       string   `json:"semanticType"`
 	KeyConfidence      float64  `json:"keyConfidence"`
 	Uniqueness         float64  `json:"uniqueness"`
 	DetectionLocale    string   `json:"detectionLocale"`
@@ -59,7 +60,15 @@ func main() {
 			outputName = outputName[:len(fileName)-4]
 		}
 		for i := 0; i < len(fields); i++ {
-			fmt.Printf(`%s,%d,"%s",%d,"%s","%s","%s","%s"`, outputName, i, fields[i].DetectionLocale, fields[i].SampleCount, fields[i].FieldName, fields[i].Type, fields[i].TypeQualifier, "")
+			var interesting string
+
+			if fields[i].IsSemanticType {
+				interesting = fields[i].SemanticType
+			} else {
+				interesting = fields[i].TypeModifier
+			}
+
+			fmt.Printf(`%s,%d,"%s",%d,"%s","%s","%s","%s"`, outputName, i, fields[i].DetectionLocale, fields[i].SampleCount, fields[i].FieldName, fields[i].Type, interesting, "")
 			fmt.Println()
 		}
 	}
