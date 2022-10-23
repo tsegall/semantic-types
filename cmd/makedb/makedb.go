@@ -54,21 +54,13 @@ func main() {
 
 		_ = json.Unmarshal([]byte(file), &fields)
 
-		// File,FieldOffset,Locale,RecordCount,FieldName,BaseType,SemanticType,Notes
+		// File,FieldOffset,Locale,RecordCount,FieldName,BaseType,TypeModifier,SemanticType,Notes
 		outputName := fileName
 		if strings.HasSuffix(outputName, ".out") {
 			outputName = outputName[:len(fileName)-4]
 		}
 		for i := 0; i < len(fields); i++ {
-			var interesting string
-
-			if fields[i].IsSemanticType {
-				interesting = fields[i].SemanticType
-			} else {
-				interesting = fields[i].TypeModifier
-			}
-
-			fmt.Printf(`%s,%d,"%s",%d,"%s","%s","%s","%s"`, outputName, i, fields[i].DetectionLocale, fields[i].SampleCount, fields[i].FieldName, fields[i].Type, interesting, "")
+			fmt.Printf(`%s,%d,"%s",%d,"%s","%s","%s","%s","%s"`, outputName, i, fields[i].DetectionLocale, fields[i].SampleCount, fields[i].FieldName, fields[i].Type, fields[i].TypeModifier, fields[i].SemanticType, "")
 			fmt.Println()
 		}
 	}

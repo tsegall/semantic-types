@@ -24,8 +24,6 @@ import (
 	"log"
 	"os"
 	"sort"
-
-	mapset "github.com/deckarep/golang-set/v2"
 )
 
 type Statistic struct {
@@ -44,6 +42,16 @@ type Options struct {
 	Verbose bool
 }
 
+const FileName = 0
+const FieldOffset = 1
+const Locale = 2
+const RecordCount = 3
+const FieldName = 4
+const BaseType = 5
+const TypeModifier = 6
+const SemanticType = 7
+const Notes = 8
+
 func main() {
 	var options Options
 
@@ -52,26 +60,7 @@ func main() {
 
 	flag.Parse()
 
-	statistics := make(map[string]Statistic)
-
-	boring := mapset.NewSet[string]()
-	boring.Add("BLANK")
-	boring.Add("BLANKORNULL")
-	boring.Add("GROUPING")
-	boring.Add("SIGNED")
-	boring.Add("SIGNED,GROUPING")
-	boring.Add("SIGNED_TRAILING")
-	boring.Add("NON_LOCALIZED")
-	boring.Add("NULL")
-
-	const FileName = 0
-	const FieldOffset = 1
-	const Locale = 2
-	const RecordCount = 3
-	const FieldName = 4
-	const BaseType = 5
-	const SemanticType = 6
-	const Notes = 7
+	statistics := make(map[string]*Statistic)
 
 	ref, err := os.Open("reference.csv")
 	current, err := os.Open("current.csv")
@@ -111,7 +100,7 @@ func main() {
 		}
 
 		totalRecords++
-		if recordRef[SemanticType] != "NULL" && recordRef[SemanticType] != "BLANK" &&recordRef[SemanticType] != "BLANKORNULL" {
+		if recordRef[TypeModifier] != "NULL" && recordRef[TypeModifier] != "BLANK" && recordRef[TypeModifier] != "BLANKORNULL" {
 			totalDataRecords++
 		}
 
@@ -130,10 +119,6 @@ func main() {
 			}
 
 			if recordRef[SemanticType] == recordCurrent[SemanticType] {
-				if boring.Contains(recordRef[SemanticType]) {
-					continue
-				}
-
 				// True Positive
 				update(statistics, recordRef[SemanticType], key, "", "", "")
 			} else if recordRef[SemanticType] != "" && recordCurrent[SemanticType] == "" {
@@ -144,9 +129,7 @@ func main() {
 				update(statistics, recordCurrent[SemanticType], "", "", key, "")
 			} else {
 				update(statistics, recordRef[SemanticType], "", "", "", key)
-				if !boring.Contains(recordCurrent[SemanticType]) {
-					update(statistics, recordCurrent[SemanticType], "", "", key, "")
-				}
+				update(statistics, recordCurrent[SemanticType], "", "", key, "")
 			}
 
 		}
@@ -181,6 +164,7 @@ func main() {
 	sort.SliceStable(imperfectSet, func(i, j int) bool {
 		return statistics[imperfectSet[i]].F1Score < statistics[imperfectSet[j]].F1Score
 	})
+
 	for _, key := range imperfectSet {
 		element := statistics[key]
 		if options.Type == "" || options.Type == key {
@@ -215,24 +199,23 @@ func main() {
 	totalF1Score := 2 * ((totalPrecision * totalRecall) / (totalPrecision + totalRecall))
 
 	if options.Type == "" {
-		fmt.Printf("\nTotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d, Record# (Non-null/blank): %d (%d) (ID%%: %.2f)\n",
-			totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives,
+		fmt.Printf("\nSemantic Types: %d, TotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d, Record# (Non-null/blank): %d (%d) (ID%%: %.2f)\n",
+			len(statistics), totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives,
 			totalRecords, totalDataRecords, float32((totalTruePositives+totalFalseNegatives)*100)/float32(totalDataRecords))
 	}
+
 }
 
-func setStatistics(statistics map[string]Statistic, semanticType string, precision float32, recall float32) {
-	val, _ := statistics[semanticType]
-	val.Precision = precision
-	val.Recall = recall
-	val.F1Score = 2 * ((precision * recall) / (precision + recall))
-	statistics[semanticType] = val
+func setStatistics(statistics map[string]*Statistic, semanticType string, precision float32, recall float32) {
+	statistics[semanticType].Precision = precision
+	statistics[semanticType].Recall = recall
+	statistics[semanticType].F1Score = 2 * ((precision * recall) / (precision + recall))
 }
 
-func update(statistics map[string]Statistic, semanticType string, tp string, tn string, fp string, fn string) {
+func update(statistics map[string]*Statistic, semanticType string, tp string, tn string, fp string, fn string) {
 	val, prs := statistics[semanticType]
 	if !prs {
-		val = Statistic{semanticType, make([]string, 0), make([]string, 0), make([]string, 0), make([]string, 0), 0.0, 0.0, 0.0}
+		val = &Statistic{semanticType, make([]string, 0), make([]string, 0), make([]string, 0), make([]string, 0), 0.0, 0.0, 0.0, nil, -1}
 	}
 
 	if tp != "" {

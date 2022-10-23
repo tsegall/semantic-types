@@ -14,43 +14,34 @@ import (
 
 type Options struct {
 	Columns     string
-	FieldOffset string
 	FileName    string
 }
 
 func main() {
 	var options Options
 
-	const FileName = 0
-	const FieldOffset = 1
-	const Locale = 2
-	const RecordCount = 3
-	const FieldName = 4
-	const BaseType = 5
-	const SemanticType = 6
-	const Notes = 7
-
 	flag.StringVar(&options.Columns, "column", "", "Columns to extract")
 	flag.StringVar(&options.Columns, "c", "", "Columns to extract")
-	flag.StringVar(&options.FieldOffset, "fieldoffset", "-1", "Field offset")
-	flag.StringVar(&options.FileName, "filename", "", "File name")
+	flag.StringVar(&options.FileName, "filename", "reference.csv", "File name")
 	flag.Parse()
 
-	_, err := strconv.Atoi(options.FieldOffset)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	ref, err := os.Open("reference.csv")
+	ref, err := os.Open(options.FileName)
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	columnsString := strings.Split(options.Columns, ",")
 	columnsInt := make([]int, len(columnsString))
+	quotes := make([]bool, len(columnsString))
 
 	for i := 0; i < len(columnsInt); i++ {
-		columnsInt[i], err = strconv.Atoi(columnsString[i])
+		index := strings.Index(columnsString[i], ":")
+		if index == -1 {
+			columnsInt[i], err = strconv.Atoi(columnsString[i])
+		} else {
+			columnsInt[i], err = strconv.Atoi(columnsString[i][0:len(columnsString[i])-2])
+			quotes[i] = true
+		}
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -72,13 +63,6 @@ func main() {
 			log.Fatal(err)
 		}
 
-		if options.FileName != "" && recordRef[FileName] != options.FileName {
-			continue
-		}
-		if options.FieldOffset != "-1" && recordRef[FieldOffset] != options.FieldOffset {
-			continue
-		}
-
 		if len(columnsInt) != 0 {
 			first := true
 			for i := 0; i < len(columnsInt); i++ {
@@ -87,7 +71,13 @@ func main() {
 				} else {
 					fmt.Print(",")
 				}
+				if quotes[i] {
+					fmt.Print("\"")
+				}
 				fmt.Print(recordRef[columnsInt[i]])
+				if quotes[i] {
+					fmt.Print("\"")
+				}
 			}
 			fmt.Println()
 		} else {
