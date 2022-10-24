@@ -18,22 +18,54 @@ package main
 import (
 	"bufio"
 	"encoding/csv"
+	"encoding/json"
 	"flag"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"log"
 	"os"
 	"sort"
-	"strconv"
+	"strings"
+
+	mapset "github.com/deckarep/golang-set/v2"
 )
 
 type Statistic struct {
-	SemanticType  string
-	Correlation   []float32
-	Direction     []int
-	TotalDistance []int
-	TotalMatches  []int
-	Index         int
+	SemanticType     string `json:"semanticType"`
+	CorrelationCount []int `json:"correlationCount"`
+	Correlation      []float32 `json:"correlation"`
+	Direction        []int `json:"direction"`
+	TotalDistance    []int `json:"totalDistance"`
+	TotalMatches     int `json:"totalMatches"`
+	Index            int `json:"index"`
+}
+
+func getByIndex(statistics map[string]*Statistic, searching int) *Statistic {
+	for _, value := range statistics {
+		if value.Index == searching {
+			return value
+		}
+	}
+
+	return nil
+}
+
+func isSignificant(statistics map[string]*Statistic, key string) bool {
+	s := statistics[key]
+	if s.TotalMatches < 10 {
+		return false
+	}
+
+	interesting := false
+	for index, value := range s.Correlation {
+		if value > .1 && getByIndex(statistics, index).TotalMatches >= 10 {
+			interesting = true
+			// log.Printf("*** Semantic Type: %s, index: %d (%s), value: %.2f\n", s.SemanticType, index, getByIndex(statistics, index).SemanticType, value)
+			break
+		}
+	}
+	return interesting && s.TotalMatches > 10
 }
 
 type Options struct {
@@ -41,6 +73,8 @@ type Options struct {
 	Correlation bool
 	Direction   bool
 	Distance    bool
+	Format      string
+	Totals      bool
 	Verbose     bool
 }
 
@@ -57,10 +91,12 @@ const Notes = 8
 func main() {
 	var options Options
 
-	flag.StringVar(&options.Locale, "locale", "en-US", "Set the locale")
 	flag.BoolVar(&options.Correlation, "correlation", true, "Output the Correlation matrix")
 	flag.BoolVar(&options.Direction, "direction", false, "Output the Direction matrix")
 	flag.BoolVar(&options.Distance, "distance", false, "Output the Distance matrix")
+	flag.StringVar(&options.Format, "format", "human", "Set the output format")
+	flag.StringVar(&options.Locale, "locale", "en-US", "Set the locale")
+	flag.BoolVar(&options.Totals, "totals", false, "Output the Totals facts")
 	flag.BoolVar(&options.Verbose, "verbose", false, "Additional debugging information")
 
 	flag.Parse()
@@ -103,10 +139,6 @@ func main() {
 		}
 	}
 
-	calculateCorrelation(statistics, options)
-}
-
-func calculateCorrelation(statistics map[string]*Statistic, options Options) {
 	// Grab all the Semantic Types and sort them
 	keys := make([]string, 0, len(statistics))
 	for key := range statistics {
@@ -114,6 +146,59 @@ func calculateCorrelation(statistics map[string]*Statistic, options Options) {
 	}
 	sort.Slice(keys, func(i, j int) bool { return statistics[keys[i]].SemanticType < statistics[keys[j]].SemanticType })
 
+	calculateFacts(statistics, options, keys)
+
+	if options.Correlation {
+		correlationOutput(statistics, options, keys)
+	}
+
+	if options.Distance {
+		// Output the Distance header
+		for _, key := range keys {
+			fmt.Printf(",%s", key)
+		}
+		fmt.Println()
+		// Output the Distance matrix
+		for i := 0; i < len(statistics); i++ {
+			fmt.Print(keys[i])
+			for _, key := range keys {
+				fmt.Print(",")
+				if statistics[key].TotalMatches > 0 {
+					fmt.Printf("%.2f", float32(statistics[key].TotalDistance[i])/float32(statistics[key].TotalMatches))
+				}
+			}
+			fmt.Println()
+		}
+	}
+
+	if options.Direction {
+		// Output the Left/Right header
+		for _, key := range keys {
+			fmt.Printf(",%s", key)
+		}
+		fmt.Println()
+		// Output the Left/Right matrix
+		for i := 0; i < len(statistics); i++ {
+			fmt.Print(keys[i])
+			for _, key := range keys {
+				fmt.Print(",")
+				if statistics[key].TotalMatches > 0 {
+					fmt.Printf("%.2f", float32(statistics[key].Direction[i])/float32(statistics[key].TotalMatches))
+				}
+			}
+			fmt.Println()
+		}
+	}
+
+	if options.Totals {
+		for _, key := range keys {
+			fmt.Printf("%s: %d\n", key, statistics[key].TotalMatches)
+		}
+		fmt.Println()
+	}
+}
+
+func calculateFacts(statistics map[string]*Statistic, options Options, keys []string) {
 	ref, err := os.Open("reference.csv")
 	if err != nil {
 		log.Fatal(err)
@@ -121,10 +206,10 @@ func calculateCorrelation(statistics map[string]*Statistic, options Options) {
 
 	// Now we know how many Semantic Types we have allocate space and set the Index
 	for index, key := range keys {
+		statistics[key].CorrelationCount = make([]int, len(statistics))
 		statistics[key].Correlation = make([]float32, len(statistics))
 		statistics[key].Direction = make([]int, len(statistics))
 		statistics[key].TotalDistance = make([]int, len(statistics))
-		statistics[key].TotalMatches = make([]int, len(statistics))
 		statistics[key].Index = index
 	}
 
@@ -134,8 +219,8 @@ func calculateCorrelation(statistics map[string]*Statistic, options Options) {
 	csvRef.Read()
 
 	currentFileName := ""
-	currentFieldOffset := -1
 	currentMap := make([]string, 0)
+
 	for {
 		recordRef, err := csvRef.Read()
 		if err == io.EOF {
@@ -157,14 +242,18 @@ func calculateCorrelation(statistics map[string]*Statistic, options Options) {
 			// Iterate through all the Semantic Types for this file
 			for index, value := range currentMap {
 				// If this field has a Semantic Type
+				seen := mapset.NewSet[string]()
 				if value != "" {
+					statistics[value].TotalMatches++
 					// Look at the whole record for other Semantic types to generate the correlation
 					for indexCorr, valueCorr := range currentMap {
 						// If this field has a Semantic Type and it is not the current field and it is not the same as the one we are searching for
 						if valueCorr != "" && index != indexCorr && value != valueCorr {
+							if seen.Contains(valueCorr) {
+								continue
+							}
+							seen.Add(valueCorr)
 							semanticOffset := statistics[valueCorr].Index
-							statistics[value].TotalMatches[semanticOffset]++
-							correlation := float32(currentFieldOffset+1-Abs(indexCorr-index)) / float32(currentFieldOffset)
 							statistics[value].TotalDistance[semanticOffset] += Abs(indexCorr - index)
 							if indexCorr < index {
 								statistics[value].Direction[semanticOffset]++
@@ -172,7 +261,7 @@ func calculateCorrelation(statistics map[string]*Statistic, options Options) {
 								statistics[value].Direction[semanticOffset]--
 							}
 							// fmt.Printf("%s -> %s: %d -> %d(%d) (%f)\n", value, valueCorr, index, indexCorr, semanticOffset, correlation)
-							statistics[value].Correlation[semanticOffset] += correlation
+							statistics[value].CorrelationCount[semanticOffset]++
 						}
 					}
 				}
@@ -181,73 +270,55 @@ func calculateCorrelation(statistics map[string]*Statistic, options Options) {
 			currentMap = make([]string, 0)
 			currentFileName = recordRef[FileName]
 		}
-		currentFieldOffset, _ = strconv.Atoi(recordRef[FieldOffset])
+
 	}
 	// TODO grab last one
 
-	if options.Correlation {
-		// Calculate the maximum correlation so we can normalize to 1.0
-		var maxCorrelation float32
-		for i := 0; i < len(statistics); i++ {
-			for _, key := range keys {
-				if statistics[key].Correlation[i] > maxCorrelation {
-					maxCorrelation = statistics[key].Correlation[i]
-				}
-			}
+	for i := 0; i < len(statistics); i++ {
+		for _, key := range keys {
+			statistics[key].Correlation[i] = float32(statistics[key].CorrelationCount[i]) / float32(statistics[key].TotalMatches)
 		}
+	}
+}
 
+func correlationOutput(statistics map[string]*Statistic, options Options, keys []string) {
+	if options.Format == "human" {
 		// Output the Correlation header
 		for _, key := range keys {
-			fmt.Printf(",%s", key)
+			if isSignificant(statistics, key) {
+				fmt.Printf(",%s", key)
+			}
 		}
 		fmt.Println()
 		// Output the Correlation matrix
 		for i := 0; i < len(statistics); i++ {
-			fmt.Print(keys[i])
-			for _, key := range keys {
-				fmt.Printf(",%.2f", statistics[key].Correlation[i]/maxCorrelation)
-			}
-			fmt.Println()
-		}
-	}
-
-	if options.Distance {
-		// Output the Distance header
-		for _, key := range keys {
-			fmt.Printf(",%s", key)
-		}
-		fmt.Println()
-		// Output the Distance matrix
-		for i := 0; i < len(statistics); i++ {
-			fmt.Print(keys[i])
-			for _, key := range keys {
-				fmt.Print(",")
-				if statistics[key].TotalMatches[i] > 0.0 {
-					fmt.Printf("%.2f", float32(statistics[key].TotalDistance[i])/float32(statistics[key].TotalMatches[i]))
+			if isSignificant(statistics, keys[i]) {
+				fmt.Print(keys[i])
+				for _, key := range keys {
+					if isSignificant(statistics, key) {
+						fmt.Printf(",%.2f", float32(statistics[key].CorrelationCount[i])/float32(statistics[key].TotalMatches))
+					}
 				}
+				fmt.Println()
 			}
-			fmt.Println()
 		}
-	}
+	} else if options.Format == "data" {
+		locale := strings.Replace(options.Locale, "-", "_", -1)
+		fileName := "SemanticTypes__" + locale + ".json"
 
-	if options.Direction {
-		// Output the Left/Right header
-		for _, key := range keys {
-			fmt.Printf(",%s", key)
-		}
-		fmt.Println()
-		// Output the Left/Right matrix
-		for i := 0; i < len(statistics); i++ {
-			fmt.Print(keys[i])
-			for _, key := range keys {
-				fmt.Print(",")
-				if statistics[key].TotalMatches[i] > 0.0 {
-					fmt.Printf("%.2f", float32(statistics[key].Direction[i])/float32(statistics[key].TotalMatches[i]))
-				}
-			}
-			fmt.Println()
-		}
+		bytes, err := json.Marshal(Values(statistics))
+		check(err)
+
+		ioutil.WriteFile(fileName, bytes, 0644)
 	}
+}
+
+func Values[M ~map[K]V, K comparable, V any](m M) []V {
+    r := make([]V, 0, len(m))
+    for _, v := range m {
+        r = append(r, v)
+    }
+    return r
 }
 
 func Abs(x int) int {
@@ -255,4 +326,10 @@ func Abs(x int) int {
 		return -x
 	}
 	return x
+}
+
+func check(err error) {
+	if err != nil {
+		panic(err)
+	}
 }
