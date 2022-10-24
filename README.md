@@ -31,7 +31,7 @@ Given a sample file 'current.csv' with the same layout as 'reference.csv' which 
 
 The program correlation will produce a correlation matrix for the Semantic Types detected for any give locale.  See example below.
 
-!Correlation(Images/Correlation.png)
+![Correlation](Images/Correlation.png)
 
 ## Usage ##
 
