@@ -29,9 +29,11 @@ Given a sample file 'current.csv' with the same layout as 'reference.csv' which 
 
 ## Correlation ##
 
-The program correlation will produce a correlation matrix for the Semantic Types detected for any give locale.  See example below.
+The program correlation will produce a correlation matrix for the Semantic Types detected for any give locale.  See example below. 
 
 ![Correlation](Images/Correlation.png)
+
+This information in conjunction with the associated proximity data (e.g. Distance and Direction) can be used to enhance Semantic Type detection.
 
 ## Usage ##
 
