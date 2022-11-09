@@ -74,6 +74,7 @@ type Options struct {
 	Direction   bool
 	Distance    bool
 	Format      string
+	SemanticType string
 	Totals      bool
 	Verbose     bool
 }
@@ -96,6 +97,7 @@ func main() {
 	flag.BoolVar(&options.Distance, "distance", false, "Output the Distance matrix")
 	flag.StringVar(&options.Format, "format", "human", "Set the output format")
 	flag.StringVar(&options.Locale, "locale", "en-US", "Set the locale")
+	flag.StringVar(&options.SemanticType, "semanticType", "", "Just output details for this Semantic Type")
 	flag.BoolVar(&options.Totals, "totals", false, "Output the Totals facts")
 	flag.BoolVar(&options.Verbose, "verbose", false, "Additional debugging information")
 
@@ -285,7 +287,7 @@ func correlationOutput(statistics map[string]*Statistic, options Options, keys [
 	if options.Format == "human" {
 		// Output the Correlation header
 		for _, key := range keys {
-			if isSignificant(statistics, key) {
+			if (options.SemanticType != "" && options.SemanticType == key) || (options.SemanticType == "" && isSignificant(statistics, key)) {
 				fmt.Printf(",%s", key)
 			}
 		}
@@ -295,7 +297,7 @@ func correlationOutput(statistics map[string]*Statistic, options Options, keys [
 			if isSignificant(statistics, keys[i]) {
 				fmt.Print(keys[i])
 				for _, key := range keys {
-					if isSignificant(statistics, key) {
+					if (options.SemanticType != "" && options.SemanticType == key) || (options.SemanticType == "" && isSignificant(statistics, key)) {
 						fmt.Printf(",%.2f", float32(statistics[key].CorrelationCount[i])/float32(statistics[key].TotalMatches))
 					}
 				}

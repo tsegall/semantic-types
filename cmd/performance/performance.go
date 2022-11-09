@@ -26,7 +26,12 @@ import (
 	"sort"
 )
 
-type Statistic struct {
+type SimpleStatistic struct {
+	BaseType string
+	Count    int
+}
+
+type SemanticStatistic struct {
 	SemanticType   string
 	TruePositives  []string
 	FalsePositives []string
@@ -38,35 +43,41 @@ type Statistic struct {
 }
 
 type Options struct {
-	Type    string
-	Verbose bool
+	BaseType     bool
+	Locale       string
+	SemanticType string
+	Verbose      bool
 }
 
-const FileName = 0
-const FieldOffset = 1
-const Locale = 2
-const RecordCount = 3
-const FieldName = 4
-const BaseType = 5
-const TypeModifier = 6
-const SemanticType = 7
-const Notes = 8
+const FileNameIndex = 0
+const FieldOffsetIndex = 1
+const LocaleIndex = 2
+const RecordCountIndex = 3
+const FieldNameIndex = 4
+const BaseTypeIndex = 5
+const TypeModifierIndex = 6
+const SemanticTypeIndex = 7
+const NotesIndex = 8
 
 func main() {
 	var options Options
 
-	flag.StringVar(&options.Type, "type", "", "Select type to filter by")
+	flag.BoolVar(&options.BaseType, "baseType", false, "Output Base Type information")
+	flag.StringVar(&options.Locale, "locale", "", "Select Locale to filter by")
+	flag.StringVar(&options.SemanticType, "semanticType", "", "Select Semantic Type to filter by")
 	flag.BoolVar(&options.Verbose, "verbose", false, "Dump the discovery response")
 
 	flag.Parse()
 
-	statistics := make(map[string]*Statistic)
+	simpleStatistics := make(map[string]*SimpleStatistic)
+	statistics := make(map[string]*SemanticStatistic)
 
 	ref, err := os.Open("reference.csv")
 	current, err := os.Open("current.csv")
 
 	totalRecords := 0
 	totalDataRecords := 0
+	totalBaseTypeErrors := 0
 
 	if err != nil {
 		log.Fatal(err)
@@ -99,37 +110,55 @@ func main() {
 			log.Fatal(err)
 		}
 
+		// Check to see if we are processing a single Locale
+		if options.Locale != "" && options.Locale != recordRef[LocaleIndex] {
+			continue;
+		}
+
 		totalRecords++
-		if recordRef[TypeModifier] != "NULL" && recordRef[TypeModifier] != "BLANK" && recordRef[TypeModifier] != "BLANKORNULL" {
+		if recordRef[TypeModifierIndex] != "NULL" && recordRef[TypeModifierIndex] != "BLANK" && recordRef[TypeModifierIndex] != "BLANKORNULL" {
 			totalDataRecords++
 		}
 
-		if recordRef[FileName] != recordCurrent[FileName] {
-			log.Fatal("FileName key does not match" + recordRef[FileName])
+		baseType := recordCurrent[BaseTypeIndex]
+		val, exists := simpleStatistics[baseType]
+		if exists {
+			val.Count++
+		} else {
+			simpleStatistics[baseType] = &SimpleStatistic{baseType, 1}
 		}
-		if recordRef[FieldOffset] != recordCurrent[FieldOffset] {
-			log.Fatalf("FieldOffset key does not match: %s,%s\n", recordCurrent[FileName], recordRef[FieldOffset])
+
+		if recordRef[FileNameIndex] != recordCurrent[FileNameIndex] {
+			log.Fatal("FileName key does not match" + recordRef[FileNameIndex])
+		}
+		if recordRef[FieldOffsetIndex] != recordCurrent[FieldOffsetIndex] {
+			log.Fatalf("FieldOffset key does not match: %s,%s\n", recordCurrent[FileNameIndex], recordRef[FieldOffsetIndex])
+		}
+
+		key := recordRef[FileNameIndex] + "," + recordRef[FieldOffsetIndex]
+		if options.BaseType && recordRef[BaseTypeIndex] != recordCurrent[BaseTypeIndex] {
+			log.Printf("Key: %s (%s) - baseTypes do not match, reference: %s, current: %s\n", key, recordRef[FieldNameIndex], recordRef[BaseTypeIndex], recordCurrent[BaseTypeIndex])
+			totalBaseTypeErrors++
 		}
 
 		// Only look for String, Boolean, Long, or Double BaseTypes where we have something to say in either the reference set or the detected set
-		if (recordRef[BaseType] == "String" || recordRef[BaseType] == "Boolean" || recordRef[BaseType] == "Long" || recordRef[BaseType] == "Double") && (recordRef[SemanticType] != "" || recordCurrent[SemanticType] != "") {
-			key := recordRef[FileName] + "," + recordRef[FieldOffset]
-			if recordRef[BaseType] != recordCurrent[BaseType] {
-				log.Printf("Key: %s - baseTypes do not match, reference: %s, current: %s\n", key, recordRef[BaseType], recordCurrent[BaseType])
+		if (recordRef[BaseTypeIndex] == "String" || recordRef[BaseTypeIndex] == "Boolean" || recordRef[BaseTypeIndex] == "Long" || recordRef[BaseTypeIndex] == "Double") && (recordRef[SemanticTypeIndex] != "" || recordCurrent[SemanticTypeIndex] != "") {
+			if recordRef[BaseTypeIndex] != recordCurrent[BaseTypeIndex] {
+				log.Printf("Key: %s - baseTypes do not match, reference: %s, current: %s\n", key, recordRef[BaseTypeIndex], recordCurrent[BaseTypeIndex])
 			}
 
-			if recordRef[SemanticType] == recordCurrent[SemanticType] {
+			if recordRef[SemanticTypeIndex] == recordCurrent[SemanticTypeIndex] {
 				// True Positive
-				update(statistics, recordRef[SemanticType], key, "", "", "")
-			} else if recordRef[SemanticType] != "" && recordCurrent[SemanticType] == "" {
+				update(statistics, recordRef[SemanticTypeIndex], key, "", "", "")
+			} else if recordRef[SemanticTypeIndex] != "" && recordCurrent[SemanticTypeIndex] == "" {
 				// False Negative
-				update(statistics, recordRef[SemanticType], "", "", "", key)
-			} else if recordRef[SemanticType] == "" && recordCurrent[SemanticType] != "" {
+				update(statistics, recordRef[SemanticTypeIndex], "", "", "", key)
+			} else if recordRef[SemanticTypeIndex] == "" && recordCurrent[SemanticTypeIndex] != "" {
 				// False Positive
-				update(statistics, recordCurrent[SemanticType], "", "", key, "")
+				update(statistics, recordCurrent[SemanticTypeIndex], "", "", key, "")
 			} else {
-				update(statistics, recordRef[SemanticType], "", "", "", key)
-				update(statistics, recordCurrent[SemanticType], "", "", key, "")
+				update(statistics, recordRef[SemanticTypeIndex], "", "", "", key)
+				update(statistics, recordCurrent[SemanticTypeIndex], "", "", key, "")
 			}
 
 		}
@@ -167,7 +196,7 @@ func main() {
 
 	for _, key := range imperfectSet {
 		element := statistics[key]
-		if options.Type == "" || options.Type == key {
+		if options.SemanticType == "" || options.SemanticType == key {
 			fmt.Printf("SemanticType: %s, Precision: %.4f, Recall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d)\n",
 				key, element.Precision, element.Recall, element.F1Score, len(element.TruePositives), len(element.FalsePositives), len(element.FalseNegatives))
 			if options.Verbose {
@@ -189,7 +218,7 @@ func main() {
 
 	sort.Strings(perfectSet)
 	for _, key := range perfectSet {
-		if options.Type == "" || options.Type == key {
+		if options.SemanticType == "" || options.SemanticType == key {
 			fmt.Printf("SemanticType: %s, Precision: 1.0000, Recall: 1.0000, F1 Score: 1.0000 (TP: %d)\n", key, len(statistics[key].TruePositives))
 		}
 	}
@@ -198,24 +227,38 @@ func main() {
 	totalRecall := float32(totalTruePositives) / float32(totalTruePositives+totalFalseNegatives)
 	totalF1Score := 2 * ((totalPrecision * totalRecall) / (totalPrecision + totalRecall))
 
-	if options.Type == "" {
+	if options.SemanticType == "" {
 		fmt.Printf("\nSemantic Types: %d, TotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d, Record# (Non-null/blank): %d (%d) (ID%%: %.2f)\n",
 			len(statistics), totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives,
 			totalRecords, totalDataRecords, float32((totalTruePositives+totalFalseNegatives)*100)/float32(totalDataRecords))
 	}
 
+	if options.BaseType {
+		fmt.Printf("Base Types: ")
+		index := 0
+		totalBaseTypes := 0
+		for _, baseType := range simpleStatistics {
+			if index != 0 {
+				fmt.Print(", ")
+			}
+			index++
+			totalBaseTypes += baseType.Count
+			fmt.Printf("%s: %d", baseType.BaseType, baseType.Count)
+		}
+		fmt.Printf(" (Errors: %.4f%% (%d))\n", float32(totalBaseTypeErrors*100)/float32(totalBaseTypes), totalBaseTypeErrors)
+	}
 }
 
-func setStatistics(statistics map[string]*Statistic, semanticType string, precision float32, recall float32) {
+func setStatistics(statistics map[string]*SemanticStatistic, semanticType string, precision float32, recall float32) {
 	statistics[semanticType].Precision = precision
 	statistics[semanticType].Recall = recall
 	statistics[semanticType].F1Score = 2 * ((precision * recall) / (precision + recall))
 }
 
-func update(statistics map[string]*Statistic, semanticType string, tp string, tn string, fp string, fn string) {
+func update(statistics map[string]*SemanticStatistic, semanticType string, tp string, tn string, fp string, fn string) {
 	val, prs := statistics[semanticType]
 	if !prs {
-		val = &Statistic{semanticType, make([]string, 0), make([]string, 0), make([]string, 0), make([]string, 0), 0.0, 0.0, 0.0, nil, -1}
+		val = &SemanticStatistic{semanticType, make([]string, 0), make([]string, 0), make([]string, 0), make([]string, 0), 0.0, 0.0, 0.0}
 	}
 
 	if tp != "" {
