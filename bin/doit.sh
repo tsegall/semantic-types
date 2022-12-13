@@ -1,4 +1,7 @@
-FTA=$HOME/src/fta/cli/build/install/fta/bin/cli
+if [ -z "$FTA" ]
+then
+	FTA=$HOME/src/fta/cli/build/install/fta/bin/cli
+fi
 
 for i in "$@"
 do

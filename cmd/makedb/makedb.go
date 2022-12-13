@@ -5,6 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"io/ioutil"
+	"strconv"
 	"strings"
 )
 
@@ -36,6 +37,8 @@ type FieldAnalysis struct {
 	DateResolutionMode string   `json:"dateResolutionMode"`
 	IsSemanticType     bool     `json:"isSemanticType"`
 	SemanticType       string   `json:"semanticType"`
+	LogicalType        bool     `json:"logicalType"`
+	TypeQualifier      string   `json:"typeQualifier"`
 	KeyConfidence      float64  `json:"keyConfidence"`
 	Uniqueness         float64  `json:"uniqueness"`
 	DetectionLocale    string   `json:"detectionLocale"`
@@ -52,7 +55,10 @@ func main() {
 
 		var fields []FieldAnalysis
 
-		_ = json.Unmarshal([]byte(file), &fields)
+		err := json.Unmarshal([]byte(file), &fields)
+		if err != nil {
+			fmt.Println("error:", err)
+		}
 
 		// File,FieldOffset,Locale,RecordCount,FieldName,BaseType,TypeModifier,SemanticType,Notes
 		outputName := fileName
@@ -60,7 +66,22 @@ func main() {
 			outputName = outputName[:len(fileName)-4]
 		}
 		for i := 0; i < len(fields); i++ {
-			fmt.Printf(`%s,%d,"%s",%d,"%s","%s","%s","%s","%s"`, outputName, i, fields[i].DetectionLocale, fields[i].SampleCount, fields[i].FieldName, fields[i].Type, fields[i].TypeModifier, fields[i].SemanticType, "")
+			versions := strings.Split(fields[i].FtaVersion, ".")
+			major, _ := strconv.Atoi(versions[0])
+			var semanticType string
+			var typeModifier string
+			if (major >= 12) {
+				semanticType = fields[i].SemanticType
+				typeModifier = fields[i].TypeModifier
+			} else {
+				if fields[i].LogicalType {
+					semanticType = fields[i].TypeQualifier
+				} else {
+					typeModifier = fields[i].TypeQualifier
+				}
+			}
+			fmt.Printf(`%s,%d,"%s",%d,"%s","%s","%s","%s","%s"`,
+				outputName, i, fields[i].DetectionLocale, fields[i].SampleCount, fields[i].FieldName, fields[i].Type, typeModifier, semanticType, "")
 			fmt.Println()
 		}
 	}

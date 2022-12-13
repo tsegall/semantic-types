@@ -169,21 +169,29 @@ func main() {
 
 	imperfectSet := make([]string, 0)
 	perfectSet := make([]string, 0)
+	notDetectedSet := make([]string, 0)
 
 	totalTruePositives := 0
 	totalFalsePositives := 0
 	totalFalseNegatives := 0
+	notDetected := 0
 
 	for key, element := range statistics {
-		totalTruePositives += len(element.TruePositives)
-		totalFalsePositives += len(element.FalsePositives)
-		totalFalseNegatives += len(element.FalseNegatives)
+		if len(element.TruePositives) == 0 && len(element.FalsePositives) == 0 {
+			notDetected += len(element.FalseNegatives)
+		} else {
+			totalTruePositives += len(element.TruePositives)
+			totalFalsePositives += len(element.FalsePositives)
+			totalFalseNegatives += len(element.FalseNegatives)
+		}
 
 		precision := float32(len(element.TruePositives)) / float32(len(element.TruePositives)+len(element.FalsePositives))
 		recall := float32(len(element.TruePositives)) / float32(len(element.TruePositives)+len(element.FalseNegatives))
 		setStatistics(statistics, key, precision, recall)
 
-		if precision < 1.0 || recall < 1.0 {
+		if len(element.TruePositives) == 0 && len(element.FalsePositives) == 0 {
+			notDetectedSet = append(notDetectedSet, key)
+		} else if precision < 1.0 || recall < 1.0 {
 			imperfectSet = append(imperfectSet, key)
 		} else {
 			perfectSet = append(perfectSet, key)
@@ -223,13 +231,22 @@ func main() {
 		}
 	}
 
+	fmt.Printf("\n")
+
+	sort.Strings(notDetectedSet)
+	for _, key := range notDetectedSet {
+		if options.SemanticType == "" || options.SemanticType == key {
+			fmt.Printf("SemanticType: %s, Precision: 0.0000, Recall: NaN, F1 Score: NaN (FN: %d)\n", key, len(statistics[key].FalseNegatives))
+		}
+	}
+
 	totalPrecision := float32(totalTruePositives) / float32(totalTruePositives+totalFalsePositives)
 	totalRecall := float32(totalTruePositives) / float32(totalTruePositives+totalFalseNegatives)
 	totalF1Score := 2 * ((totalPrecision * totalRecall) / (totalPrecision + totalRecall))
 
 	if options.SemanticType == "" {
-		fmt.Printf("\nSemantic Types: %d, TotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d, Record# (Non-null/blank): %d (%d) (ID%%: %.2f)\n",
-			len(statistics), totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives,
+		fmt.Printf("\nSemantic Types: %d, TotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d), NotDetected: %d, Record# (Non-null/blank): %d (%d) (ID%%: %.2f)\n",
+			len(statistics) - len(notDetectedSet), totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives, notDetected,
 			totalRecords, totalDataRecords, float32((totalTruePositives+totalFalseNegatives)*100)/float32(totalDataRecords))
 	}
 
