@@ -95,7 +95,7 @@ func main() {
 	flag.BoolVar(&options.Correlation, "correlation", true, "Output the Correlation matrix")
 	flag.BoolVar(&options.Direction, "direction", false, "Output the Direction matrix")
 	flag.BoolVar(&options.Distance, "distance", false, "Output the Distance matrix")
-	flag.StringVar(&options.Format, "format", "human", "Set the output format")
+	flag.StringVar(&options.Format, "format", "human", "Set the output format ('json' or 'human')")
 	flag.StringVar(&options.Locale, "locale", "en-US", "Set the locale")
 	flag.StringVar(&options.SemanticType, "semanticType", "", "Just output details for this Semantic Type")
 	flag.BoolVar(&options.Totals, "totals", false, "Output the Totals facts")
@@ -304,7 +304,7 @@ func correlationOutput(statistics map[string]*Statistic, options Options, keys [
 				fmt.Println()
 			}
 		}
-	} else if options.Format == "data" {
+	} else if options.Format == "json" {
 		locale := strings.Replace(options.Locale, "-", "_", -1)
 		fileName := "SemanticTypes__" + locale + ".json"
 
