@@ -9,7 +9,7 @@ do
 
 	if [ "$R" != "$N" ]
 	then
-		echo "---- $i, field $F, R = $R, N = $N"
+		echo "---- $i, field $F, R = $R, N = $N, C = $C"
 	else
 		echo "++++ $i, field $F, R = $R, N = $N, C = $C"
 	fi
