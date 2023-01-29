@@ -142,7 +142,7 @@ func main() {
 		}
 
 		// Only look for String, Boolean, Long, or Double BaseTypes where we have something to say in either the reference set or the detected set
-		if (recordRef[BaseTypeIndex] == "String" || recordRef[BaseTypeIndex] == "Boolean" || recordRef[BaseTypeIndex] == "Long" || recordRef[BaseTypeIndex] == "Double") && (recordRef[SemanticTypeIndex] != "" || recordCurrent[SemanticTypeIndex] != "") {
+		if isKnownBaseType(recordRef[BaseTypeIndex]) && (recordRef[SemanticTypeIndex] != "" || recordCurrent[SemanticTypeIndex] != "") {
 			if recordRef[BaseTypeIndex] != recordCurrent[BaseTypeIndex] {
 				log.Printf("Key: %s - baseTypes do not match, reference: %s, current: %s\n", key, recordRef[BaseTypeIndex], recordCurrent[BaseTypeIndex])
 			}
@@ -291,4 +291,19 @@ func update(statistics map[string]*SemanticStatistic, semanticType string, tp st
 		val.FalseNegatives = append(val.FalseNegatives, fn)
 	}
 	statistics[semanticType] = val
+}
+
+func isKnownBaseType(lookup string) bool {
+	list := []string{
+		"String",
+		"Boolean",
+		"Long",
+		"Double",
+	}
+	for _, val := range list {
+	    if val == lookup {
+		return true
+	    }
+	}
+	return false
 }

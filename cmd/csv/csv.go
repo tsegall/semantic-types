@@ -15,14 +15,15 @@ import (
 type Options struct {
 	Columns     string
 	FileName    string
+	Separator   string
 }
 
 func main() {
 	var options Options
 
-	flag.StringVar(&options.Columns, "column", "", "Columns to extract")
 	flag.StringVar(&options.Columns, "c", "", "Columns to extract")
-	flag.StringVar(&options.FileName, "filename", "reference.csv", "File name")
+	flag.StringVar(&options.FileName, "f", "reference.csv", "File name")
+	flag.StringVar(&options.Separator, "s", ",", "Separator")
 	flag.Parse()
 
 	ref, err := os.Open(options.FileName)
@@ -52,6 +53,7 @@ func main() {
 	readerRef := bufio.NewReader(ref)
 
 	csvRef := csv.NewReader(readerRef)
+	csvRef.Comma = []rune(options.Separator)[0]
 	csvRef.Read()
 
 	for {
