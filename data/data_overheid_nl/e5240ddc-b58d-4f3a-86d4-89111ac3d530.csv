@@ -1,0 +1,538 @@
+﻿OBJECTID,ID,LOKATIE_CONTOURNR,LOKATIE_OMS,LOKATIENR,LOKATIECODE,LOKATIENAAM,OPMERKING,CONTOURTYPE,CONTOURTYPEKODE,CATEGORIE,CONTOURCATEGORIEKODE,LOKATIECATEGORIE_OMS,CONTOUROVERSCHRKODE,CONTOUROVERSCHR_OMS,OPPERVLAKTE,VOLUME,TRAJECT_START,TRAJECT_EIND,DATUM,SHAPESTArea,SHAPESTLength
+1,928612,,VAN VERSCHUERPLEIN / VAN VERSCHUERSTRAAT,,2646,AA020202646,"Spotje zware metalen, gesaneerd in 2011, zie 2646.46.01",Saneringscontour,SAN,Grond,,,,,,,0,1,,8.1803895,11.6427675194832
+2,928607,,VAN VERSCHUERPLEIN / VAN VERSCHUERSTRAAT,,2646,AA020202646,"2646.35.01, spot uit NO, zw.metalen, niet ernstig. Gesaneerd, niet meer ingetekend.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,5.8089905,9.00807205760813
+3,924550,,VELPERWEG 101B/VAN DER DUYN VAN MAASDAMLAAN 2,,0181,AA020200181,"Loodspots in bovengrond, uit 0181.33.02.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,20.947736675,19.2251304736148
+4,924548,,VELPERWEG 101B/VAN DER DUYN VAN MAASDAMLAAN 2,,0181,AA020200181,"Minerale olie, restverontreiniging uit 330181-01.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,6,9,,4.42070314,7.77430008110679
+5,920331,,APELDOORNSEWEG 203 (TERLET),,0104,AA020200104,"Minerale olie tpv garage, uit NO 26505500-C",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,6.73858436,10.0031855103991
+6,920332,,APELDOORNSEWEG 203 (TERLET),,0104,AA020200104,"Minerale olie tpv lier-installatie, uit NO 26505500-C",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,58.63565129,30.8744248366955
+7,915139,,SIMON STEVINWEG 15,,1953,AA020201953,Kern >I,Saneringscontour,SAN,Grond,,,,,172,180,,,,171.7241645,59.6006136240517
+8,907590,,JP VAN MUIJLWIJKSTRAAT/TUINSTRAAT/BLOEMSTRAAT,,1093,AA020201093,"Lood, spot uit VO 25519293",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,6.1403465,9.53163121002463
+9,907589,,JP VAN MUIJLWIJKSTRAAT/TUINSTRAAT/BLOEMSTRAAT,,1093,AA020201093,"Lood, spot uit VO 25519293",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,7.990998,10.9379187549199
+10,907588,,JP VAN MUIJLWIJKSTRAAT/TUINSTRAAT/BLOEMSTRAAT,,1093,AA020201093,"Lood, PAK, MO, spot uit VO 25519293, niet ingetekend.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,5.9185505,9.23474937771555
+11,905349,,WESTEINDE 6 / STEENSTRAAT 101-103 (RITAX),,0262,AA020200262,sanering olieverontreiniging thv pompeiland,Saneringscontour,SAN,Grond,,,,,,,2,3,,8.4344705,10.7066860185156
+12,897274,,ZEEGSINGEL/KOPPELSTRAAT,,0253,AA020200253,"PAK, niet ernstig, uit VO 0253.33.05",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,3.275897775,6.99647195985891
+13,865715,,HOMMELSEWEG 169,,0218,AA020200218,Per in GW thv peilbuis 17 / 3. Laatste bemonstering in 2013 > T,Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,14,17,,3.21631568,6.59938949209249
+14,865717,,HOMMELSEWEG 169,,0218,AA020200218,"PAK > I, div.spots",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,34.668847,34.2189442364353
+15,6274812,,VEERWEG NAAR WESTERVOORT,,0006,AA020200006,"Minerale olie, spotje uit 4997.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,7.938,10.5134891450698
+16,859625,,VELDOVEN 3,,0647,AA020200647,"Minerale olie, ook in grond. Niet ernstig vlgs NO in 2015.",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,0,2,,3.14360313,6.51388384124402
+17,838989,,KERKSTRAAT 31,,1819,AA020201819,"21518100, loodspot. Nog vervolgonderzoek nodig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,1.0329985,3.76888295168236
+18,837015,,NAELL TYNNEGIETERSTRAAT 8 / HOMMELSEWEG 231,,0663,AA020200663,"0663.33.04, contour uit VO, lood/PAK, niet ernstig (op perceel)",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,32,16,0,0,,10.3246965,12.5947262452406
+19,836625,,SLOETSTRAAT 1-3,,0386,AA020200386,"0386.35.01, contour uit NO, lood/zink, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,0,0,,12.2034285,16.3696282290329
+20,836628,,SLOETSTRAAT 1-3,,0386,AA020200386,"0386.35.01, contour uit NO, lood/zink, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,0,0,,8.098286,11.1754349623116
+21,835593,,PARKSTRAAT 36,,0381,AA020200381,loodspot uit 0381.33.01.,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,8.528167875,12.3355977015891
+22,824769,,LEKSTRAAT 2,,2677,AA020202677,"Lood, koper, nikkel , spotje uit 5491.33.02, niet ernstig",Saneringscontour,SAN,Grond,,,,,,,1,1,,1.2407384,4.13719237116911
+23,812401,,IJSSELLAAN 89,,3903,AA020203903,,Saneringscontour,SAN,Grond,,,,,64,,0,0,,11.69921755,20.491039044553
+24,812403,,IJSSELLAAN 89,,3903,AA020203903,,Saneringscontour,SAN,Grond,,,,,147,,0,0,,13.8741828,29.3206607383324
+25,812402,,IJSSELLAAN 89,,3903,AA020203903,,Saneringscontour,SAN,Grond,,,,,109,,0,0,,29.5057635,28.3950697489783
+26,778484,,KONINGSPLEIN 13 / EUSEBIUSBINNENSINGEL 3-6,,0306,AA020200306,"330306-01, cadmiumspot",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,5.7074125,8.6820674018641
+27,777120,,STEENSTRAAT 58/SPIJKERLAAN,,0936,AA020200936,"MO-verontreiniging a.g.v. lekkage tank, deels gesaneerd, evaluatie: 0936.46.01",Saneringscontour,SAN,Grond,,,,,15,22,0,1,,14.3997965,14.6677431293015
+28,777118,,STEENSTRAAT 58/SPIJKERLAAN,,0936,AA020200936,"Geschatte contour MO-verontreiniging a.g.v. lekkage tank, deels gesaneerd, restverontreiniging onder pand.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,0,2,,26.2621705,20.1402082330246
+29,776442,,SCHELMSEWEG 85 / ANTON VAN HOOFFPLEIN 1 (BURGERS ZOO),,0221,AA020200221,"Lood tpv mestopslag, spot uit 330293-02.
+Indicatief",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,10.019389945,14.9609220235021
+30,776441,,SCHELMSEWEG 85 / ANTON VAN HOOFFPLEIN 1 (BURGERS ZOO),,0221,AA020200221,"PAK tpv mestopslag, spot uit 330293-02. Indicatief.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.837161405,7.22115515169503
+31,773204,,DULLERTSTRAAT 1 / EMMASTRAAT 33,,3669,AA020203669,"metalen > I, spots uit NO 2669.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,2.8797755,8.82875694655933
+32,752202,,BURG. WEERTSSTRAAT 126-144 / AMSTERDAMSEWEG 196-202,,0370,AA020200370,"Minerale olie en xylenen, spot uit VO 0370.33.01, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,2,3,,0.4198715,2.39378093889006
+33,748996,,RIJNKADE 43-46,,0666,AA020200666,"Lood, spotje uit 3931.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,2.22211059,5.55664457493914
+34,746682,,BAKENBERGSEWEG 18,,0638,AA020200638,"Lood tpv vml werkplaats, uit 330638-01. Nog vervolg nodig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.894036,3.53894398122025
+35,742591,,MARKT,,2713,AA020202713,"Lood/zinkspot thv nr 16, onder verharding, uit VO 2723.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,16.767492115,16.7355329983558
+36,732129,,SINT JANSKERKSTRAAT 80,,2537,AA020202537,"min.olie spot, contour uit VO 21567900, gesaneerd in 1999.",Saneringscontour,SAN,Grond,,,,,,,0,0,,2.470978125,6.69973841187498
+37,728388,,GROENE WEIDE 35-37 (GARAGEBEDRIJF),,0100,AA020200100,<100 M3,Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,12,,2,3,,12.3354,13.2924735910684
+38,718480,,KLARENDALSEWEG 271 (GARAGEBEDRIJF),,0078,AA020200078,"PAK uit VO 330078-01, ook matig lood.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,39.957592655,27.0504468915819
+39,718486,,KLARENDALSEWEG 271 (GARAGEBEDRIJF),,0078,AA020200078,"Minerale olie, uit 33078-01. Status onduidelijk.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,10.00914719,12.9267797178901
+40,714007,,OUDE KRAAN 24-26,,0308,AA020200308,"0308.35.02, contour uit NO
+niet-ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,15,5,1,1,,9.410294,11.8580059917434
+41,694906,,SIMON STEVINWEG 6,,0670,AA020200670,"Minerale olie in GW, beschikking niet-ernstig geval via 0670.51.01. Garage CITAM tpv opslagplaats. Sanering op natuurlijk moment.",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,30,2,3,,4.502536205,7.83184228346215
+42,694910,,SIMON STEVINWEG 6,,0670,AA020200670,"Minerale olie en xylenen in grond, uit onderzoek 0670.33.02. Tpv afvoer olie/waterafscheider. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,12,0,1,,4.576029095,8.49138518448303
+43,694912,,SIMON STEVINWEG 6,,0670,AA020200670,"Lood in GW, beschikking niet-ernstig geval via 0670.51.01. Garage CITAM, tpv wasplaats. Sanering op natuurlijk moment.",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,,,,4.18039451,7.56033975462102
+44,693530,,WESTERVOORTSEDIJK 74-84,,0621,AA020200621,"Lood>I, niet ernstig, uit 330621-01 en 350621-01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,11.36118,17.5703368545825
+45,689352,,JACHTHOORNLAAN 2,,0619,AA020200619,"restverontreiniging na sanering (MO) Diepte van 1,00m tot 1,50m",Restverontreinigingscontour,REV,Grond,,,,S,,,,,,1.5022145,4.95112059816634
+46,688905,,BAKENHOF/MALBURGEN OOST,,4708,AA020204708,,Saneringscontour,SAN,Grond,,,,,119,125,0,5,,118.907311,44.0356804703043
+47,688906,,BAKENHOF/MALBURGEN OOST,,4708,AA020204708,,Saneringscontour,SAN,Grondwater,,,,,118,,0,5,,117.533383,43.8336590180305
+48,687812,,UTRECHTSEWEG 87 - MUSEUM,,2767,AA020202767,"zink/loodspot, gesaneerd via 2767.46.02",Saneringscontour,SAN,Grond,,,,,,7,1,2,,1.655955555,4.9308800180383
+49,6874099,,BOULEVARD HEUVELINK 84-92,,5020,AA020205020,Loodspotje uit 5020.33.02,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.40293125,4.43017005075386
+50,6869495,,BOULEVARD HEUVELINK 57-75,,5016,AA020205016,"Loodspot, uit VO 5016.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.21550625,4.15372230748142
+51,6869485,,BOULEVARD HEUVELINK 57-75,,5016,AA020205016,"Lood, uit VO 5016.33.02. ",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.67855625,7.90610083068243
+52,6869475,,BOULEVARD HEUVELINK 41-63,,5015,AA020205015,"Loodspotje, uit VO 5015.33.02. Niet ernstig, geen risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.523346875,5.86152922867026
+53,6874789,,BOULEVARD HEUVELINK 41-63,,5015,AA020205015,"Lood-spot in bovengrond, uit 5015.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.7783,6.2931345114993
+54,6874791,,BOULEVARD HEUVELINK 41-63,,5015,AA020205015,"Lood-spot in ondergrond, geen risico's, uit 5015.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.819125,6.03004491042543
+55,6869458,,BOULEVARD HEUVELINK 15-23,,5014,AA020205014,"Lood, uit VO 5014.33.02. Niet ernstig, geen risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,23.814,19.7525429659907
+56,6866448,,BOULEVARD HEUVELINK 15-23,,5014,AA020205014,"Loodspotje, uit 5014.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.591734375,5.1259519551147
+57,6866430,,GRAVENSTRAAT 30-44,,5013,AA020205013,"Lood-spot, geen risico's. Uit 5013.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.400175,5.2140478085102
+58,6866348,,BOULEVARD HEUVELINK 72-82,,5009,AA020205009,"Lood-spot, uit 5009.33.03, niet ernstig/geen risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,5.373309375,8.66385579550855
+59,6866333,,BOULEVARD HEUVELINK 72-82,,5009,AA020205009,"Lood-spotje uit 5009.33.02, niet ernstig/ geen risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.950046875,5.32235022728742
+60,680448,,ROSENDAALSESTRAAT 416,,0311,AA020200311,"Lood en zink, 2 spots uit VO 0311.33.02. Puingerelateerd, onder verharding.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.804871635,8.78103512759078
+61,676981,,BOULEVARD HEUVELINK 158-164,,0152,AA020200152,Min. olie tpv vml benzinestation. Beschikt als niet-ernstige verontreiniging 0152-01 via 0152.51.01 en 0152.51.02. ,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,S,,,2,5,,55.396183,39.8473548893666
+62,676983,,BOULEVARD HEUVELINK 158-164,,0152,AA020200152,"Min. olie tpv vml benzinestation. Beschikt als niet-ernstig 0152-01, vlgs saneringsevaluatie 0152.46.02 niet meer aangetroffen.",Saneringscontour,SAN,Grond,,,,,,,,,,55.396183,39.8473548893666
+63,5543631,,SPIJKERSTRAAT 16-18,,0427,AA020200427,"Lood-spot (onder verharding), na uitsplitsing, uit 230427-01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.505771875,2.65333683303893
+64,5543629,,SPIJKERSTRAAT 16-18,,0427,AA020200427,"Lood-spot (onder verharding), na uitsplitsing, uit 230427-01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.830080125,3.38052260774219
+65,670245,,VELPERWEG,,2985,AA020202985,"afgeperkte PAK-spot, niet ernstig, uit VO 2985.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.590813,7.87036262351365
+66,666428,,HOMMELSEWEG 399 (KUWAIT TANKSTATION),,0167,AA020200167,"0167.35.04, gebaseerd op NO, puinlaag. Geen ernstig geval.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,S,53,11,1,1,,52.613152,33.5805847003858
+67,645853,,WALSTRAAT,,3833,AA020203833,"PAK-spot thv kruising, uit VO 2087.33.09",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,4.219162265,7.66274324321347
+68,6879728,,DE OVERMAAT 46,,2669,AA020202669,"PAK-spot, afgeperkt, uit 2669.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,4,0,0,,11.98693125,13.1721158136465
+69,630202,,LJ COSTERSTRAAT,,2956,AA020202956,"Lood, zink (5-50 diep) en asbest, spot uit 2956.46.02. ",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,6.402193,10.0196316860236
+70,6292563,,RIETGRACHTSTRAAT 17-37,,5001,AA020205001,"Loodspot, uit VO 5001.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,20.781723375,18.3193506198469
+71,627135,,WERENFRIEDPLEIN/GANGULPHUSPLEIN,,2186,AA020202186,"22551183, contour uit NO
+oliespot, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.1617345,7.52857847689135
+72,625226,,JULIANALAAN 17,,2139,AA020202139,"Benzine-spot in ondergrond, uit 29507100",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,0.421004225,2.46026524186402
+73,6243435,,PARKSTRAAT 42-50,,4988,AA020204988,"Lood, spotje uit 4988.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.969859375,9.39750565741008
+74,6243437,,PARKSTRAAT 42-50,,4988,AA020204988,"Lood-spotje, uit VO 4988.33.04",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,5.964525,10.7784861598719
+75,6230682,,KASTANJELAAN 37-43,,4985,AA020204985,"Lood-spot, uit 4985.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.327134375,4.33317443564148
+76,617082,,NIEUWE HAVENWEG 17-23,,0682,AA020200682,"Minerale olie, contour uit 350682-01. Vervolg nodig om omvang te bepalen",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,35.7384515,22.0457298499035
+77,5951071,,PARKSTRAAT 72-74,,4973,AA020204973,"Lood, spotje uit 4973.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.694234375,6.23083856166131
+78,5965965,,BOULEVARD HEUVELINK 173-179,,4971,AA020204971,Lood-spots uit 4971.33.01 en 4971.33.03,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,22.99815,38.2268923615462
+79,5965955,,BOULEVARD HEUVELINK 165-169,,4970,AA020204970,"Lood-spot, uit 4970.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,6.508884375,9.49057026233923
+80,595267,,EUSEBIUSBINNENSINGEL 13-26,,0122,AA020200122,"0122.35.01, contour uit NO, loodverontreiniging. Nog vervolgonderzoek nodig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,40,20,1,2,,20.0704495,21.0391897523492
+81,5933006,,UTRECHTSESTRAAT/STATIONSPLEIN-WEST,,4964,AA020204964,"Loodspot in ondergrond, uit 4964.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,7.4088,10.2668877121542
+82,6879820,,DRIEPOORTENWEG - WEG,,0016,AA020200016,"Min. olie-spotje, uit 0016.33.05",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,1,2,,63.0685125,29.0254238263529
+83,5880153,,KASTANJELAAN 15-21,,4958,AA020204958,Lood-spot uit 4958.33.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.650475,3.05425477286496
+84,5918981,,KASTANJELAAN 15-21,,4958,AA020204958,"Lood-spot, uit onderzoek  4958.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.142984375,5.53351221186568
+85,6184320,,SPIJKERSTRAAT 116-118,,4957,AA020204957,"Lood en zink > I, spotje tpv onverharde deel tuin. 
+Niet afgeperkt onder verharding.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.48010625,4.90883549937703
+86,5880736,,DRIEKONINGENDWARSSTRAAT 4-6,,4955,AA020204955,"Lood- en zinkspot, uit VO 4955.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.135575,4.41588683792624
+87,574981,,UTRECHTSEWEG 280-282,,0349,AA020200349,"Mineralie olie, onder pand, na verwijdering tank, beoordeeld via 0349.53.01 Diepte van 0,50m tot 2,00m",Restverontreinigingscontour,REV,Grond,,,,I,,,,,,2.705107465,9.32900569614499
+88,574989,,UTRECHTSEWEG 280-282,,0349,AA020200349,"Mineralie olie, ontgraving tpv verwijderde ondergrondse tank, beoordeeld via 0349.53.01",Saneringscontour,SAN,Grond,,,,,,,0,2,,5.96684792,10.274613900596
+89,574984,,UTRECHTSEWEG 280-282,,0349,AA020200349,"Minerale oliespot uit NO 350349-01 en 0349.33.03. Afgeperkt, niet ernstig (deellocatie F)",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,10,22,0,3,,10.209699675,12.0741822225583
+90,571426,,DE MONCHYPLEIN (LAADSTATION ARNHEM RIJNBRUG/SHELL),,0314,AA020200314,"loodspot, uit 0314.33.05",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.31845618,7.86846904344216
+91,5605623,,MR. BM TELDERSSTRAAT,,4951,AA020204951,"Minerale olie thv traforuimte, spot uit 4951.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,0.321103125,2.35765189345012
+92,557504,,WASSENAARWEG 9,,2763,AA020202763,"Asbest, gesaneerd via 2763.46.01",Saneringscontour,SAN,Grond,,,,,,10,0,0,,5.41829625,10.0091227308146
+93,552072,,PIETER CALANDWEG 60,,0610,AA020200610,"Minerale olie, tanksanering in 2008, zie evaluatierapport 0610.46.01",Saneringscontour,SAN,Grond,,,,,,,,,,53.5487065,27.874606098561
+94,552070,,PIETER CALANDWEG 60,,0610,AA020200610,"0610.35.02, contour uit NO
+V0610-01
+",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,54,,0,1,,53.5487065,27.874606098561
+95,551349,,KERKSTRAAT 23,,1842,AA020201842,"29505700, MO-spot, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,0.4297845,2.3845657089404
+96,5357526,,PRINS HENDRIKSTRAAT 41 / PARKSTRAAT 49,,4944,AA020204944,"Lood spots, geen risico door huidige gebruik",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,24.826921875,46.6240160643497
+97,5357344,,EUSEBIUSBUITENSINGEL 19,,4940,AA020204940,Lood-spot uit 0335.33.03,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,11.7682005,12.6353150494556
+98,5357506,,PRINS HENDRIKSTRAAT 9-19,,4939,AA020204939,"Lood onder toplaag, uit 4939.33.01, niet ernstig, geen risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,22.448278125,19.5630860274266
+99,5357508,,PRINS HENDRIKSTRAAT 9-19,,4939,AA020204939,"Loodspot, niet ernstig, geen risico's bij huidig gebruik",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,20.414165625,22.6911556200863
+100,5357510,,PRINS HENDRIKSTRAAT 9-19,,4939,AA020204939,"Loodspot, uit 4939.33.04, geen risico's bij huidig gebruik",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,19.5638625,17.6228115235259
+101,5357300,,PRINS HENDRIKSTRAAT 5,,4938,AA020204938,"Loodspots, uit 4938.33.01, geen humane risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,13.471171875,29.910351543944
+102,5357293,,PRINS HENDRIKSTRAAT 6,,4937,AA020204937,"lood-spot, uit 4937.33.01, geen risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,27.62589375,21.1674412925906
+103,6764772,,BERGSTRAAT 35-37 /  NIEUWE PLEIN 1B,,0363,AA020200363,"Spot met aromaten (oa benzeen) in grondwater, uit VO 330151-01.
+Niet meer aangetroffen in 0363.33.01",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,7,9,,2.8168875,6.30328983424335
+104,523656,,VELPERBUITENSINGEL 15,,0351,AA020200351,BETREFT DEELSANERING TPV VML. STOOKOLIETANK. GEEN BEOORDELING,Saneringscontour,SAN,Grond,,,,,37,45,,,,36.660658,26.6846255718648
+105,521906,,PIETER CALANDWEG 19-21,,0303,AA020200303,"Minerale olie, contour uit NO 0303.35.01. Niet ernstig. ",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,64,5,0,0,,63.5389945,32.4672452237264
+106,521908,,PIETER CALANDWEG 19-21,,0303,AA020200303,"Benzeen in GW, uit onderzoek 0303.33.03",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,1,2,,14.018443375,13.7499130116514
+107,508919,,VAN SPAENSTRAAT 2-3-4,,0344,AA020200344,"Xylenen en ethylbenzeen in ondergrond, spot, uit 330344-01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,2,5,,1.006921125,3.74365610561872
+108,5317388,,ISAAC EVERTSLAAN 11/G.A. VAN NISPENSTRAAT 139,,4899,AA020204899,"PAK-spot gesaneerd, zie evaluatie 4899.46.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,10.108546875,11.5810473137378
+109,5044334,,ISAAC EVERTSLAAN 11/G.A. VAN NISPENSTRAAT 139,,4899,AA020204899,"PAK-spotje, uit 4899.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,10.108546875,11.5810473137378
+110,490230,,JOHAN DE WITTLAAN (OOSTELIJK DEEL),,2800,AA020202800,Minerale olie-spot uit NO 2800.35.01. ,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,0.7481765,3.1493457674579
+111,490228,,JOHAN DE WITTLAAN (OOSTELIJK DEEL),,2800,AA020202800,PAK-spot uit NO 2800.35.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,14.9685675,14.2740228063868
+112,490226,,JOHAN DE WITTLAAN (OOSTELIJK DEEL),,2800,AA020202800,PAK-spot uit VO 2800.33.03,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,25.7402675,18.7593138039502
+113,4664175,,SCHOOLSTRAAT 2-16,,0341,AA020200341,"lood, uit 0341.33.03, spot onder semi-verharding, geen afperking",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.46185,7.45901360003927
+114,4807137,,THOMAS A KEMPISLAAN - WESTELIJK DEEL,,4884,AA020204884,"PAK-spot uit 0167.33.05, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,1.78605,5.03886872910344
+115,475542,,BRONBEEKLAAN 89-93,,2468,AA020202468,"2468.35.01, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,12,10,2,2,,11.832271,13.0599128326858
+116,475541,,BRONBEEKLAAN 89-93,,2468,AA020202468,"Minerale olie, spotje na sanering, uit 2468.46.01, niet ernstig Diepte van 1,70m tot 2,70m",Restverontreinigingscontour,REV,Grond,,,,I,,,,,,3.9322505,11.0007998640448
+117,475544,,BRONBEEKLAAN 89-93,,2468,AA020202468,"Minerale olie in grond (ook GW), gesnaeerd via 2468.46.01",Saneringscontour,SAN,Grond,,,,,33,,2,3,,33.081902,22.0310828991451
+118,475543,,BRONBEEKLAAN 89-93,,2468,AA020202468,"minerale olie uit 2468.35.01, niet ernstig, gesaneerd via 31-10-2007",Saneringscontour,SAN,Grondwater,,,,,13,,2,3,,12.7006825,13.8740633427462
+119,475255,,BEVERWEERDLAAN/LANGE WATER (WMG),,2970,AA020202970,"Nikkel-spotje, gesaneerd via 2970.46.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,4.518297955,7.77961117040864
+120,463475,,BOULEVARD HEUVELINK 2B-4 EO,,0150,AA020200150,"Minerale olie, spotje >I uit NO 0150.35.05",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.5363245,3.0269863270461
+121,5874859,,ZWANEBLOEMLAAN 2,,2752,AA020202752,Zink-spot uit VO 2752.33.06,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.031875,6.65045525131801
+122,5874857,,ZWANEBLOEMLAAN 2,,2752,AA020202752,PAK-spot uit VO 2752.33.06,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.273046875,6.80063337474752
+123,457048,,KAREL VAN GELDERSTRAAT 24-32,,3053,AA020203053,"Metalen, spotje uit VO 3053.33.02.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,0.924889,3.57120911877516
+124,5354906,,SPIJKERSTRAAT 136-140,,4880,AA020204880,"Loodspotje uit 4880.33.02, geen ricico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.73408025,5.22508298465269
+125,5355161,,SCHOOLSTRAAT 50-54,,4878,AA020204878,"Loodspot uit 4878.33.01, geen humane risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,,,,0,0,,38.64538125,24.9992346863649
+126,5355172,,SCHOOLSTRAAT 38-42,,4877,AA020204877,"loodspot uit 4877.33.01, geen humane risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,6.9512625,10.592470635103
+127,5354891,,EMMASTRAAT 38-42,,4875,AA020204875,"Loodspot, uit 4875.33.01, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,,,,,I,,,0,0,,1.961071875,6.0543276267802
+128,4752763,,PARKSTRAAT 71,,4872,AA020204872,"Lood, uit 4872.33.01, spot, geen actuele risico's.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,8.2908,15.0461107337628
+129,4752749,,PARKSTRAAT 93/EMMASTRAAT 58-62,,4871,AA020204871,"Lood in plantsoen, uit 4871.33.01. Spot, maar niet afgeperkt.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,32.4135,28.2255515305647
+130,432027,,NIEUWSTRAAT 54,,2151,AA020202151,"21560000, zinkspot, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,6.4536225,9.24147013421461
+131,430801,,DE OVERMAAT 51,,3021,AA020203021,"Minerale olie, spot uit 3021.35.02",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,1,3,,5.204128985,8.31176206461167
+132,428985,,BAKKERSTRAAT 60-66,,1793,AA020201793,"Lood en zink, spot uit onderzoek 1793.33.02. Niet afgeperkt, verder onderzoek nodig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,1.117567,3.86725316180294
+133,423259,,DRIEPOORTENWEG 35 (WMG),,0149,AA020200149,"Mineralie olie, restverontreiniging tpv vml olieput.",Restverontreinigingscontour,REV,Grond,,,,I,,,,,,6.16161626,9.78230094393922
+134,414252,,LEEMANSWEG 10 (AANNEMERSBEDRIJF),,1945,AA020201945,"Minerale olie, uit 26504000-A en 16-8-2002, afgeperkte spot",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,3.724514465,7.74671228867304
+135,409387,,LEEMANSWEG 25-29,,1944,AA020201944,DATUM EVALUATIERAPPORT,Saneringscontour,SAN,Grond,,,,,23,70,,,,22.7597845,18.501980256391
+136,409386,,LEEMANSWEG 25-29,,1944,AA020201944,"Minerale olie, contour uit 29506100, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,23,15,0,0,,22.7597845,18.501980256391
+137,340199,,ROERMONDSPLEIN (VML GASFABRIEK),,0151,AA020200151,"cyanide-spot in ondergrond, uit NO 350151-01, afgeperkt via 350151-02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,4,4,,5.7200355,8.80885332211953
+138,336064,,WESTEINDE (OPENBARE WEG),,0126,AA020200126,sanering MO-verontreiniging in openbare weg,Saneringscontour,SAN,Grond,,,,,,90,,,,56.952255,29.3328131740003
+139,315557,,CONRADWEG 20 (VINK CONSTRUCTIE),,1939,AA020201939,"Zink-spot onder verharding, uit 26503700 en 1939.46.01, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.12898913,5.36847562394879
+140,315180,,PIETER CALANDWEG,,1938,AA020201938,PAK-spot thv 22 uit 1938.33.08,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,6.21035833,9.50730759858293
+141,4513028,,PIETER CALANDWEG,,1938,AA020201938,"Lood, spot uit onderzoek 1938.33.09",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.9404,5.25545764964846
+142,3002729,,BEUKENLAAN 178,,4861,AA020204861,"Asbest, uit onderzoek 4861.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,17.42225625,19.4116048334705
+143,2997224,,SCHAAPDIJK/MEANDER,,4856,AA020204856,"Koper, spotje uit 4856.33.01 en 4856.33.02, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,5,5,0,1,,2.216025,5.68430648689731
+144,6877703,,SCHAAPDIJK/MEANDER,,4856,AA020204856,"PAK-spot, gesaneerd via 4856.46.01.",Saneringscontour,SAN,Grond,,,,I,,,0,1,,10.021725,12.7779520054178
+145,264120,,MERWEDESTRAAT 1,,0113,AA020200113,"Minerale olie, niet ernstig, uit 0113.35.05",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,T,,,0,1,,39.85310525,27.1398800686038
+146,258241,,ZUIDELIJKE PARALLELWEG 100-220 (ARNHEMIA),,0025,AA020200025,"Xyleen, Benzeen, Tolueen, uit NO 350025-03, niet ernstig, slechts klein volume &gt; I. Wel aanzienlijke streefwaarde-contour, deze is niet ingetekend. Diepte van 17,00m tot 22,00m",Restverontreinigingscontour,REV,Grondwater,,,,I,,,,,,54.667424625,26.8323533923832
+147,2324393,,RODENBURGSTRAAT 2-8/BROERENSTRAAT 20-34,,4554,AA020204554,"Lood > I, uit 4554.33.01 Ook Zink >T ",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,1.265257275,4.36996652532722
+148,2324395,,RODENBURGSTRAAT 2-8/BROERENSTRAAT 20-34,,4554,AA020204554,"Loodspot, uit 4554.33.01. Gesaneerd, goedgekeurd via 4554.46.01 (beo 4554.46.01a)",Saneringscontour,SAN,Grond,,,,,,,1,1,,74.64237977,34.8742916624704
+149,2324396,,RODENBURGSTRAAT 2-8/BROERENSTRAAT 20-34,,4554,AA020204554,"stortgat, aangetroffen tijdens sanering, indicatief ingetekend. Gesaneerd via 4554.46.01 (beo 4554.46.01a)",Saneringscontour,SAN,Grond,,,,,,,0,2,,104.150831425,40.9106049776686
+150,253426,,BETHANIENSTRAAT (VML STORTPLAATS),,0007,AA020200007,"Beschikt deel van stortlocatie, maar geen stort aangetroffen, alleen puin, zie 0007.33.35",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,S,,,0,2,,5265.962807145,315.053136345357
+151,2249379,,KORENMARKT,,1827,AA020201827,PAK uit VO 21601580-2,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.336667,4.34928047446446
+152,2249377,,KORENMARKT,,1827,AA020201827,PAK uit VO 21601580-2,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.2327015,4.13940650014313
+153,2248732,,BRUNINGWEG 7,,2011,AA020202011,Benzeenspot in grondwater,Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,0,1,,13.669969,13.5582366147412
+154,224803,,WESTERVOORTSEDIJK 73 KLEEFSE WAARD MIDDENTERREIN,,0723,AA020200723,"PAK-spot, uit 330723-01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,6.692807495,9.68154910419864
+155,221202,,DEELENSEWEG 85 (MLT DEELEN),,0727,AA020200727,"PAK-spot, uit NO 0727.35.03. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,50,20,0,0,,29.710232,24.0480678857643
+156,5932975,,EUSEBIUSBUITENSINGEL 22-22B,,2571,AA020202571,"Koper-spot, uit VO 2571.33.05",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.38415625,5.67139517270847
+157,217232,,EUSEBIUSBUITENSINGEL 22-22B,,2571,AA020202571,PAK-spot uit 2571.33.03,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,1.360682355,4.41506592600635
+158,217228,,EUSEBIUSBUITENSINGEL 22-22B,,2571,AA020202571,"Lood-spots, niet ernstig, uit 2571.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,9.9178112,16.6462265610992
+159,2151171,,NS EMPLACEMENT WEST - ARNHEM-BERG,,0021,AA020200021,"Koper, uit VO 0884.33.18, afgeperkt via NO 0021.35.11",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.52050034,5.80191892795746
+160,2151175,,NS EMPLACEMENT WEST - ARNHEM-BERG,,0021,AA020200021,"Minerale olie-spot, thv wissel 907, uit 0021.35.12. Gesaneerd via 0021.46.04, lichte restverontreiniging in bodem- en putwand",Saneringscontour,SAN,Grond,,,,,,,,,,3.552709865,9.67568709220589
+161,2129987,,RUITENBERGLAAN 29-31,,1640,AA020201640,"PAK en minerale olie, niet ernstig, uit VO 1640.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,10.515022,11.976226290128
+162,2129985,,RUITENBERGLAAN 29-31,,1640,AA020201640,"Koper-spot, uit VO 1640.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,13.2190445,13.3936158796884
+163,208435,,STATENLAAN 6-8 (STEDELIJK GYMNASIUM),,4741,AA020204741,"Minerale olie, niet ernstige verontreinigingscontour uit NO 4741.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,0,2,,11.623322675,15.3485147438239
+164,207514,,LEKSTRAAT 2A,,2869,AA020202869,"3972.46.01, lood en koper gesaneerd tot onder de I-waarde",Saneringscontour,SAN,Grond,,,,,,,,,,1.37972681,4.39347549170351
+165,1982587,,NIJMEEGSEWEG A325,,0034,AA020200034,"Minerale olie uit 0034.33.01, afgeperkte spot, gesaneerd via 0034.46.01",Saneringscontour,SAN,Grond,,,,,9,5,0,0,,7.318476095,9.78483552645057
+166,1977457,,EUSEBIUSBUITENSINGEL 20/SINGELSTRAAT 72-138,,0110,AA020200110,"Zink in grondwater, niet ernstig, uit 0110.33.07",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,4,5,,5.39774517,8.48161142009157
+167,198502,,MONNIKENSTEEG 103 (SAKSEN WEIMAR KAZERNE),,0120,AA020200120,BETREFT CALAMITEIT DIESELLEKKAGE,Saneringscontour,SAN,Grond,,,,,25,,0,0,,24.921862,29.3325162811255
+168,198496,,MONNIKENSTEEG 103 (SAKSEN WEIMAR KAZERNE),,0120,AA020200120,"0120.51.01, betreft beschikking niet-ernstig geval
+3 MO-spots",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,20.8552145,27.5764696689435
+169,1928909,,WESTERVOORTSEDIJK 71 (VML. BASF),,0069,AA020200069,"PCB's, spot in grondwater, uit 0069.33.21",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,4,5,,12.694628645,12.9334452408559
+170,1928907,,WESTERVOORTSEDIJK 71 (VML. BASF),,0069,AA020200069,"PAK-spot, uit VO 0069.33.15",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,3.98983878,7.44657869549939
+171,1911705,,VIJFZINNENSTRAAT,,0474,AA020200474,"Lood, afgeperkt spotje uit 0474.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.52955964,4.70840308248823
+172,1910404,,UTRECHTSEWEG 310 - B50-B52 - DNV-CL / TENNET,,0466,AA020200466,"PAK-spot, uit 0466.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.817788705,3.49487037732453
+173,1910287,,VAN DER DUIJN VAN MAASDAMLAAN 1,,0464,AA020200464,"Asbest in kruipruimte.
+Zie 0464.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.118079575,5.39738636001115
+174,1910097,,SONSBEEKWEG 40,,0462,AA020200462,"Asbest in kruipruimte, zie 0462.33.01.
+Gesaneerd, 0462.33.02 en voldoende onderzocht, zie 0462.33.03.",Saneringscontour,SAN,Grond,,,,,,,0,0,,109.417661045,48.4907917290431
+175,1910045,,HONIGKAMP/DE BITTERSTRAAT,,0461,AA020200461,"Koper, spot uit 0461.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,10,2,0,0,,3.511158055,7.30549782963117
+176,192682,,WESTERVOORTSEDIJK 65 / LJ COSTERSTRAAT (CORUS-TUBES),,0093,AA020200093,"Vinylchloride, contour uit NO 0093.35.02, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,3,4,,13.597256,13.6731311885615
+177,192684,,WESTERVOORTSEDIJK 65 / LJ COSTERSTRAAT (CORUS-TUBES),,0093,AA020200093,"PCB-spots uit NO 0093.35.02, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,32.6455345,37.824730579583
+178,192677,,WESTERVOORTSEDIJK 65 / LJ COSTERSTRAAT (CORUS-TUBES),,0093,AA020200093,"naftaleen- en minerale olie, contour uit NO 0093.35.02, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,2,4,,25.0847885,18.2905615736732
+179,1908552,,DRIELSEDIJK PARKEERTERREIN SPORTVELDEN,,0456,AA020200456,"Minerale olie uit NO 0456.35.01, niet ernstig. 200 m3>S",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,18,0,3,,41.222816565,24.4496911096895
+180,1908554,,DRIELSEDIJK PARKEERTERREIN SPORTVELDEN,,0456,AA020200456,"Minerale olie, uit NO 0456.35.01, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,35,2,3,,55.427328575,26.9982445338805
+181,1908177,,ESPERANTOLAAN ACHTER 2,,0453,AA020200453,"Asbest, aangetroffen tijdens BUS-graafwerkzaamheden, zie 0453.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.718457105,3.36664790476052
+182,1906579,,KROMME ELLEBOOGSTEEG 28,,4845,AA020204845,"Loodspot, restverontreinging na sanering, uit 4845.46.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,9.7902,19.8197562820578
+183,1905571,,DRAGONSTRAAT/KERVELSTRAAT,,0445,AA020200445,"Lood, uit onderzoek 3084.33.01. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,25.22616057,18.8505158313454
+184,1905489,,VELDOVEN 11-13,,0442,AA020200442,"Koper, Nikkel, PAK > I, uit onderzoek 0885.33.05.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,10.8921435,12.3306677150973
+185,1904197,,APELDOORNSEWEG 34 / SINT MARTEN 1,,4836,AA020204836,"Lood en/of nikkel, uit 4836.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,23.479115625,17.7277761917277
+186,1902706,,VARKENSSTRAAT/LUTHERSESTRAAT/DUIZELSTEEG,,4830,AA020204830,"Zink, spotje uit 4830.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.695953125,3.41178944505257
+187,1901915,,OOSTERVELDSESTRAAT/HET HOFJE EO,,4825,AA020204825,"Lood, uit VO 4825.33.01, gesaneerd via 4825.46.01",Saneringscontour,SAN,Grond,,,,,,,0,1,,9.19024259,11.0554623851799
+188,1900793,,VOERMANSTRAAT 10,,4820,AA020204820,"Minerale olie, uit NO 4820.35.01. Waarschijnlijk niet ernstig, geen risico's.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,7,15,1,3,,8.74963957,11.6723578754292
+189,1900366,,PIJLKRUIDSTRAAT 58-72,,4811,AA020204811,"Zink, spotje uit VO 2905.33.05, niet ernstig, afgeperkt via 4811.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.384638165,2.28341726112598
+190,1899087,,DR. SCHAEPMANLAAN,,4807,AA020204807,"PAK, contour uit 3777.33.01, 3799.33.02
+Niet meer aangetroffen in 4807.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,5.12330661,8.27955342764753
+191,1897908,,MIDDACHTENSINGEL 6 / KINDERKAMP 4,,4650,AA020204650,"PAK uit 4650.33.01, afgeperkt via 4650.35.01, niet ernstig. Verwijderd, zie 4650.46.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,13.1362875,13.5469551563007
+192,6250107,,MIDDACHTENSINGEL 6 / KINDERKAMP 4,,4650,AA020204650,"Zink-spots, verwijderd, via 4650.46.01",Saneringscontour,SAN,Grond,,,,I,47,,0,0,,33.329953125,29.9828200338662
+193,1897906,,MIDDACHTENSINGEL 6 / KINDERKAMP 4,,4650,AA020204650,"Zink uit 4650.33.01, afgeperkt via 4650.35.01, niet ernstig. Verwijderd, zie 4650.46.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,20.193665625,16.4358648775655
+194,1897372,,STATENLAAN 1-3,,4648,AA020204648,"Koper in ondergrond, uit VO 4648.33.01. Misschien gerelateerd aan demping(loc 4525)",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,2,3,,4.23589128,7.70013521174022
+195,1896587,,ACHTERSTRAAT - TEN OOSTEN VAN NR 20,,4640,AA020204640,"Asbest en puin onder doek. Zie 4640.46.01. Diepte van 0,20m tot 0,80m",Restverontreinigingscontour,REV,Grond,,,,I,,,,,,503.372449685,185.300994041828
+196,1894737,,ZASLAAN/FAZANTENWEG,,4632,AA020204632,"Minerale olie, PAK, spot uit 4632.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.93702191,7.26334134285911
+197,1894740,,ZASLAAN/FAZANTENWEG,,4632,AA020204632,"Minerale olie, PAK, gesaneerd tot T, via 4632.46.01",Saneringscontour,SAN,Grond,,,,,26,13,0,0,,3.93702191,7.26334134285911
+198,1894429,,RIJNKADE THV 43-57,,4630,AA020204630,"Barium, uit 4630.33.01, is bouwstof, dus geen Wbb.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,89.630221255,46.7736513002813
+199,1893775,,AMSTERDAMSEWEG THV DREIJENSEWEG,,4626,AA020204626,"Lood, spotje uit 4626.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,3.56358036,7.30401317099153
+200,190016,,WEERDJESSTRAAT 53-70,,0228,AA020200228,"0228.35.01, contour uit NO, koper. Spot<25 m2, afgeperkt tpv openbaar terrein, onder bebouwing waarschijnlijk niet aanwezig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,40,20,0,0,,28.485299405,26.0431458709692
+201,1893744,,KONINGSWEG TNV AMSTERDAMSEWEG,,4625,AA020204625,"PAK, spotje uit 4626.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,11.94828312,13.7145551140534
+202,1892532,,BLEKERSTRAAT ONG.,,4624,AA020204624,"Lood, zink, spot uit VO 2980.33.37, afgeperkt, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,14.25076796,13.8518635801865
+203,1892502,,KASTANJELAAN,,4623,AA020204623,"Lood, zink, spot uit VO 2980.33.37, afgeperkt, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,2.517660025,5.9796813360967
+204,1892471,,PARKSTRAAT - OOSTELIJK DEEL,,4622,AA020204622,"Koper, kwik, lood, nikkel, zink > I, spot, uit VO 2980.44.47",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,49.10537153,33.4776978919389
+205,1891321,,VALKENHUIZEN - SPORTVELDEN,,4589,AA020204589,"PAK-spotjes, uit VO 4584.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.038596045,9.07313293439095
+206,1889586,,GRONDELSTRAAT 67,,4580,AA020204580,"Zink, gesaneerd deel van spot, uit evaluatie 4580.46.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,12.77133542,14.3979399093859
+207,1889583,,GRONDELSTRAAT 67,,4580,AA020204580,"Zink, spot uit 4580.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,2,0,0,,15.09828845,15.7128656030024
+208,1888292,,VEILINGSTRAAT,,4570,AA020204570,"Koper, lood, zink, uit 0017.33.06, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.392895825,7.85745746475349
+209,1887778,,KONINGSTRAAT THV STADHUIS/DUIVELSHUIS,,4568,AA020204568,"PAK, uit vo 4568.33.01, afgeperkt, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,3.01787832,6.53299289091797
+210,1885204,,WESTERVOORTSEDIJK 73 - DB01-DB02,,4556,AA020204556,"Olie en PCB's, uit VO 4556.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,15.23566287,16.2861427505761
+211,1882319,,TELLEGENLAAN,,4547,AA020204547,"Kobalt-spot, uit VO 4547.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,10.13805435,11.7554449403373
+212,1882171,,WESTERVOORTSEDIJK 73 - IPKW GEBOUW CB,,4546,AA020204546,"Kwik in grondwater, uit 26530200",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,1,2,,46.99971755,25.2354487271994
+213,1880290,,VAN SPEYKSTRAAT/VAN KINSBERGENSTRAAT,,4535,AA020204535,"Koper, lood, zink, uit VO 4535.33.01 Spot < 25m3",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,78.17258359,36.5339784441554
+214,1880296,,VAN SPEYKSTRAAT/VAN KINSBERGENSTRAAT,,4535,AA020204535,"Spot met koper, lood, zink, sanering beoordeeld via 4535.49.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,78.17258359,36.5339784441554
+215,1877759,,DE BOSCH KEMPERSTRAAT ACHTER 2-8,,4527,AA020204527,"Lood en zink > I, nog niet afgeperkt",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,8.10333153,10.9545219831332
+216,1877571,,KELLENDONKSTRAAT,,4524,AA020204524,"Minerale olie, spot uit NO 4524.35.01, afgeperkt, niet ernstig. Ook MO >S in GW",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,7.741302095,10.2792721404234
+217,1875826,,HOMMELSEWEG,,4512,AA020204512,"PAK-spot uit VO 3796.33.21, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,9.78570992,11.5701787046319
+218,1875796,,AGNIETENSTRAAT,,4511,AA020204511,"Koper, Lood, Zink, spot uit VO 3796.33.21, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,12.38279416,13.1529844518318
+219,1873098,,KERKPLEIN/BROERENSTRAAT,,4503,AA020204503,"Lood, spot uit VO 4503.33.07, in juni 2022 gesaneerd",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.656006065,4.84856490136995
+220,1873097,,KERKPLEIN/BROERENSTRAAT,,4503,AA020204503,"Lood en zink, spot uit VO 4503.33.07",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.30298331,5.79037347458556
+221,6291724,,KERKPLEIN/BROERENSTRAAT,,4503,AA020204503,"Loodspot, gesaneerd, via 1963.46.26",Saneringscontour,SAN,Grond,,,,I,,,0,0,,1.656006065,4.84856490136995
+222,6025110,,DELTA - KAVELS H0-H2-H3-H4,,4499,AA020204499,"Minerale olie, gesaneerd, zie 4499.46.01",Saneringscontour,SAN,Grond,,,,I,,,0,,,4.758072165,8.81604909042091
+223,1869390,,TURFSTRAAT 3-13,,4497,AA020204497,"PAK-spot in ondergrond, uit onderzoek 2764.33.02.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,1.513887265,4.53310945626905
+224,1869239,,DULLERTSTRAAT - OPRIT THIALF,,4496,AA020204496,"Asbest, onder scheidingsdoek, teruggestort na tijd.uitname, uit evaluatie 4496.46.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,35.35085602,58.1808328307246
+225,1868755,,HUDSONSTRAAT 2-8,,4494,AA020204494,Nikkel spots in ondergrond uit VO/PvA 0007.39.,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,8.40043442,19.2254958358553
+226,1868580,,OUDE VELPERWEG 40-42,,4493,AA020204493,"Lood > I, uit VO 4493.33.01, nog niet afgeperkt, pot. ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.63537459,4.76730216152255
+227,1865566,,BEUKENLAAN 27,,4475,AA020204475,"PAK, uit 4475.33.01. tzt NO nodig ter bepaling ernst.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,14.3894705,14.2836433138697
+228,1865571,,BEUKENLAAN 27,,4475,AA020204475,"PAK, gesaneerd via BUS 4475.49.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,14.3894705,14.2836433138697
+229,1865452,,ELEONORASTRAAT THV 9,,4474,AA020204474,"Minerale olie, uit peilbuisbemonstering 4474.33.01, nog geen geval, verder te onderzoeken.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.8452565,6.36726362384205
+230,1865284,,SCHELMSEWEG ACHTER 67-69,,4471,AA020204471,"4471.46.01,lekkage MO,gesaneerd.",Saneringscontour,SAN,Grond,,,,,2,4,0,2,,11.495518,12.371346755871
+231,1865217,,SYLVALAAN,,4470,AA020204470,PAK-spot uit 3783.33.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,12.00682054,12.6757447252506
+232,1865185,,BAKENBERGSEWEG THV STROLAAN/LIJNBAAN,,4469,AA020204469,PAK-spot uit 3783.33.02,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,31.514288,23.4774806845009
+233,1864702,,SLAAKWEG/ROOMPOTSTRAAT/SPUISTRAAT,,4464,AA020204464,"PAK in ondergrond, uit onderzoek 4225.35.06, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,20.7894715,17.1502473197141
+234,1864700,,SLAAKWEG/ROOMPOTSTRAAT/SPUISTRAAT,,4464,AA020204464,"Kwik, spot uit onderzoek 24500493",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,10.85960869,12.2866685469738
+235,1860229,,ALLEGROLAAN/KLAPSTRAAT,,4455,AA020204455,"Minerale olie, sanering via 4455.46.01",Saneringscontour,SAN,Grond,,,,,25,43,0,2,,28.9700695,22.8375963640831
+236,1860227,,ALLEGROLAAN/KLAPSTRAAT,,4455,AA020204455,Minerale olie uit onderzoeken 4455.33.01 en 4455.35.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,25,43,0,2,,28.9700695,22.8375963640831
+237,1856432,,PARADIJS/TROMPETSTRAAT - WEG,,4449,AA020204449,"PAK-spot uit onderzoek 2764.33.02. Gesaneerd, via 0333.46.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,3.255828915,6.62808790744125
+238,1856430,,PARADIJS/TROMPETSTRAAT - WEG,,4449,AA020204449,PAK-spot uit onderzoek 1309.33.03,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,1.156220545,3.96222691584437
+239,1856017,,DIEPENDALSTRAAT,,4447,AA020204447,"Koper, spot uit VO 3773.33.01, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.4196,6.45567234923042
+240,1853754,,ZIJPENDAALSEWEG/SONSBEEKWEG,,4443,AA020204443,"PAK in ondergrond, uit onderzoeken 3803.33.03 en 4443.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,13.6512315,14.8480326610882
+241,1852753,,GRAVENSTRAAT,,4437,AA020204437,"Lood, spotje >I uit onderzoek 2980.33.05. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.377548,7.84004419677997
+242,1852523,,PRINS HENDRIKSTRAAT,,4435,AA020204435,"Koper, contour uit onderzoek 2980.33.33, afgeperkt, niet ernstig. Bij nieuw onderzoek 4435.33.03 nog slechts matig verontreinigd.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.497163,6.40323466392882
+243,1852125,,PARKSTRAAT THV 40-50,,4430,AA020204430,"Nikkel, spotje uit 2980.33.37",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,5.487707705,8.67232926233005
+244,5605568,,BROEKSTRAAT (WESTELIJK DEEL),,4426,AA020204426,"Zink-spot in ondergrond, uit VO 4426.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,1.8577125,5.09269339986204
+245,1847086,,RODENBURGSTRAAT 3-5 ,,4414,AA020204414,"Xylenen en benzeen uit onderzoek 2764.33.09, NO ter bepaling ernst.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,37.1347625,24.2594242780078
+246,1843571,,MERWEDESTRAAT (SPEELPLAATS),,4401,AA020204401,"Metalen in bovengrond, verontreiniging uit NO 4401.35.01, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,S,,12,0,0,,18.365747,15.7867396236442
+247,1843572,,MERWEDESTRAAT (SPEELPLAATS),,4401,AA020204401,"PAK in ondergrond, verontreiniging uit NO 4401.35.01, niet ernstig.
+In bovengrond >T
+",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,24,0,1,,22.405879,17.4261208252879
+248,1843574,,MERWEDESTRAAT (SPEELPLAATS),,4401,AA020204401,"Metalen in bovengrond, niet ernstig, gesaneerd via 4401.46.01. Lichte restverontreiniging in ondergrond
+",Saneringscontour,SAN,Grond,,,,,,,0,0,,22.405879,17.4261208252879
+249,1843573,,MERWEDESTRAAT (SPEELPLAATS),,4401,AA020204401,"Metalen in bovengrond, niet ernstig, gesaneerd via 4401.46.01",Saneringscontour,SAN,Grond,,,,,,,0,1,,18.365747,15.7867396236442
+250,1843137,,DRIEKONINGENDWARSSTRAAT 32,,4398,AA020204398,"Lood en Zink, uit 1109.35.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,1.780944815,4.90179341497026
+251,1843070,,BOULEVARD HEUVELINK THV 38-48,,4397,AA020204397,"Lood-spot, uit 4397.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.495342375,4.50357937624037
+252,1837821,,DENNENWEG 106 / SCHELMSEWEG,,4394,AA020204394,Stortlocatie.,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,S,,,,,,3700.6046987,386.547118884286
+253,1837822,,DENNENWEG 106 / SCHELMSEWEG,,4394,AA020204394,"Licht verontreinigd deel vml stortlocatie, zie 4394.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,S,,,,,,3988.5867438,278.884254457739
+254,1836458,,MARIENBURGSTRAAT 12-13,,4392,AA020204392,"lood>I, uit VO 4392.33.01, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,1.17306,4.11293294339476
+255,1834838,,KLINGELBEEKSEWEG 21-23,,4385,AA020204385,"Zink-spot in bovengrond tpv vml demping, uit VO 4385.33.04, niet afgeperkt",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,43.17845325,24.3435289488936
+256,1833558,,SCHELMSEWEG 149,,4383,AA020204383,"Zink, niet ernstig, contour uit NO 4383.35.01. Wellicht al verwijderd bij sloop/bouw",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,26,13,0,1,,3.669978325,7.18621669004254
+257,5275993,,BLOEMSTRAAT/IR JP VAN MUIJLWIJKSTRAAT,,4381,AA020204381,"PAK-spot, thv Bloemstraat 53, uit NO 4315.35.01. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,2,,22.477253,17.3707491504633
+258,1832808,,HUISSENSESTRAAT (THV VISSERSLAAN / KLEEFKRUIDSTRAAT),,4378,AA020204378,"Metalen, PAK, uit VO 0048.33.03. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,7,0,0,,12.1590055,13.0308563460995
+259,1832810,,HUISSENSESTRAAT (THV VISSERSLAAN / KLEEFKRUIDSTRAAT),,4378,AA020204378,"Metalen/PAK, spot gesaneerd, via 4378.46.01.",Saneringscontour,SAN,Grond,,,,,,,0,0,,12.1590055,13.0308563460995
+260,1831986,,SCHAAPSDRIFT (WEG),,4374,AA020204374,"MO-spot, niet-ernstig. I-waarde overschrijding in 3961.35.01 (2011), slechts T-waarde bij herbemonstering in 4374.35.01 (2013).",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,T,,,1,1,,10.7972835,12.1872152389506
+261,2584175,,BONTE WETERING THV 55,,4348,AA020204348,"Lood-spot, gesaneerd via 3777.46.01",Saneringscontour,SAN,Grond,,,,I,30,,0,0,,26.3121865,20.5545864200978
+262,1819870,,BONTE WETERING THV 55,,4348,AA020204348,"3777.33.03, lood-spot, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,20,10,0,0,,26.3121865,20.5545864200978
+263,1819841,,SPIJKERSTRAAT NAAST 335,,4347,AA020204347,"4347.35.02, PAK, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,33.346107,21.7714212745484
+264,1819839,,SPIJKERSTRAAT NAAST 335,,4347,AA020204347,"4347.35.01, PAK, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,29.221091,19.4406308399177
+265,1819797,,SPIJKERLAAN ONG. - NOORDELIJK DEEL,,4346,AA020204346,"Zink, spotje uit 2980.33.37, gesaneerd, niet meer ingeteken., ",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.87705004,5.0286989634761
+266,1819799,,SPIJKERLAAN ONG. - NOORDELIJK DEEL,,4346,AA020204346,"PAK-spot in ondergrond, uit VO 2980.33.34, niet ernstig, gesaneerd via 4346.46.01",Saneringscontour,SAN,Grond,,,,,,,0,1,,2.481039635,6.01194640367765
+267,1816016,,BROUWERIJWEG 112,,4327,AA020204327,"PAK/lood-spot uit NO 4327.35.01,
+omvang/ernst nog niet bepaald.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,3.65393752,7.08545073556277
+268,1816014,,BROUWERIJWEG 112,,4327,AA020204327,"PAK-spot, uit onderzoek 4327.33.01, omvang/ernst nog niet bepaald.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.4993055,7.94726833722672
+269,1816012,,BROUWERIJWEG 112,,4327,AA020204327,"Lood-spot, uit onderzoek 4327.33.01, omvang/ernst nog niet bepaald.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.7795785,7.27797913842042
+270,1815639,,NIJENBEEKLAAN,,4325,AA020204325,MO-spot uit peilbuis ihkv BUS evaluatie 0007.46.23,Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,,,,18.8604495,16.3698832904547
+271,1815418,,WELDAMLAAN/BREKELENKAMPSTRAAT,,4322,AA020204322,"4254.33.01, contour uit NO, niet afgeperkt. Olie, matige verontreiniging",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,T,,,,,,12.624677,13.4069084844538
+272,1814628,,VAN BLANKENBURGSTRAAT,,4320,AA020204320,"4277.33.01, kobalt-spot (waarschijnlijk afkomstig van bijmengingen/funderingslaag), niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,5,0,0,,4.931895,8.22736543327634
+273,1814325,,STEENSTRAAT EO,,4315,AA020204315,"Koper-spot, uit VO 1068.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,2.48649416,5.88878800699116
+274,1814323,,STEENSTRAAT EO,,4315,AA020204315,"Zink-spot, uit VO 1068.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.822320725,5.16510382311053
+275,1814319,,STEENSTRAAT EO,,4315,AA020204315,"matig tot sterke verontreiniging met MO, thv Steenstraat 83, uit NO 4315.35.01. Niet ernstig.
+",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,4,,21.7670165,17.1353375649157
+276,1814233,,ORANJESTRAAT,,4314,AA020204314,"PAK, spot uit VO 3773.33.01, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.00352,6.49088666925809
+277,1814166,,HOMMELSTRAAT,,4313,AA020204313,"4313.35.01, contour uit NO. Lood > AW, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,12,8,0,0,,4.0590775,8.32067620272643
+278,1811682,,NIJHOFFSTRAAT 8-40,,4305,AA020204305,lood/zink,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,5.972405685,9.13745972527142
+279,4519771,,HELSDINGENSTRAAT/H.VAN KOLSTRAAT (KRUISING),,4304,AA020204304,"PAK-spot, gesaneerd via 4304.46.01",Saneringscontour,SAN,Grond,,,,I,,,0,0,,44.8381305,26.8224262754062
+280,1811591,,HELSDINGENSTRAAT/H.VAN KOLSTRAAT (KRUISING),,4304,AA020204304,"3777.35.01, PAK-spot, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,0,0,,44.8381305,26.8224262754062
+281,4807096,,GEITENKAMP THV 42,,4303,AA020204303,"PAK, spot, gesaneerd via 4303.46.01",Saneringscontour,SAN,Grond,,,,I,,,0,50,,87.5713543,46.0749899611898
+282,1811562,,GEITENKAMP THV 42,,4303,AA020204303,"3777.35.01, PAK-spot, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,0,0,,32.541558,23.1118740661622
+283,1811525,,REIGERSTRAAT - OPENBARE WEG,,4302,AA020204302,"PAK-spot uit VO 4302.33.02, gesaneerd via 4302.46.02",Saneringscontour,SAN,Grond,,,,,,,0,0,,33.984672155,22.3815835603265
+284,1811526,,REIGERSTRAAT - OPENBARE WEG,,4302,AA020204302,"PAK-spot uit VO 4302.33.02, gesaneerd via 4302.46.02",Saneringscontour,SAN,Grond,,,,,,,0,0,,41.5825305,25.6195530574458
+285,1811229,,WILLEM BEIJERSTRAAT THV 16,,4301,AA020204301,"3777.35.01, PAK-spot, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,0,0,,22.0038985,19.8549665680813
+286,4519768,,WILLEM BEIJERSTRAAT THV 16,,4301,AA020204301,"PAK-spot, gesaneerd, zie 3777.46.02",Saneringscontour,SAN,Grond,,,,I,,,0,0,,22.0038985,19.8549665680813
+287,1811019,,BEELDHOUWERSTRAAT THV 70,,4297,AA020204297,"3961.33.01, PAK-spot. Vervolg NO.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,5.69144873,8.7114862755162
+288,1801790,,OUDE VELPERWEG / NOVALAAN,,4276,AA020204276,"4276.33.01, spot met benzeen",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.380487,5.74020098498922
+289,1800625,,HOMMELSEWEG/M.VAN ROSSEMSTRAAT/NIJHOFFSTRAAT,,4272,AA020204272,"4272.35.01, lood/zink-spotjes, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,6.483017,13.2283311871451
+290,1799504,,SINT MARTEN - BOERDERIJTERREIN,,4265,AA020204265,"4265.33.01. contour uit OO, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,18.485565,15.6130972942636
+291,1799474,,DE OVERMAAT (TEGENOVER 68-70),,4264,AA020204264,"4264.46.01, lichte restverontreiniging",Saneringscontour,SAN,Grond,,,,,,,,,,6.4911485,9.94549791390496
+292,1799472,,DE OVERMAAT (TEGENOVER 68-70),,4264,AA020204264,"4264.33.03, contour uit VO. PCB-spot",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,4.7474095,8.21141550070379
+293,1798820,,ZEEGSINGEL THV HONDSDRAFSTRAAT,,4261,AA020204261,"Lood, gesaneerd via 4259.46.01",Saneringscontour,SAN,Grond,,,,,,20,0,1,,30.855607,20.0973443962621
+294,1798818,,ZEEGSINGEL THV HONDSDRAFSTRAAT,,4261,AA020204261,"contour uit NO, lood-spot",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,15,0,0,,30.855607,20.0973443962621
+295,1798788,,FLUITEKRUIDSTRAAT THV 10-12,,4260,AA020204260,"contour uit NO, zink-spot",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,5,0,0,,18.861783,15.695965084119
+296,1798790,,FLUITEKRUIDSTRAAT THV 10-12,,4260,AA020204260,"Zink, gesaneerd via 4259.46.01",Saneringscontour,SAN,Grond,,,,,,5,0,0,,18.861783,15.695965084119
+297,1789064,,HOMMELSEWEG / CATTEPOELSEWEG,,4251,AA020204251,PAK-spot uit VO 4251.33.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,17.8769555,16.3233865084093
+298,1786513,,STROLAAN 20,,4248,AA020204248,4248.46.01,Saneringscontour,SAN,Grond,,,,,,,0,0,,54.0622975,42.1850070044592
+299,1786511,,STROLAAN 20,,4248,AA020204248,"4248.33.02, contour uit OO",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,15,0,0,,12.122774,18.1643707755292
+300,1786334,,IJSSELLAAN,,4247,AA020204247,"4247.33.03, MO-spot",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,1.6995255,4.87301229231558
+301,1779810,,GRAVENSTRAAT 9A,,4230,AA020204230,"contour uit NO 4230.35.01, PAK-verontreiniging tpv vml olietank aan voorzijde.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,40,,,1,,33.3904325,27.2703604658335
+302,1779817,,GRAVENSTRAAT 9A,,4230,AA020204230,"4230.46.01, niet ernstig (MO). Tanksanering.",Saneringscontour,SAN,Grond,,,,,,,0,2,,33.3904325,27.2703604658335
+303,5605706,,LAGE RIJNKADE,,4229,AA020204229,"PAK-spot, uit VO 4229.33.05",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,6.427575,9.66592274506418
+304,1763492,,ALBERDINGK THIJMSTRAAT THV 5,,4216,AA020204216,"asbestplaatjes, aangetroffen tijdens sanering, 4216.46.01.
+Asfaltverharding dient als afdeklaag.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,451.672591,188.157153206712
+305,1763368,,VOLKSTUINEN NABIJ UTRECHTSEWEG 209,,4211,AA020204211,"Restverontreiniging onder bomen en tpv boomwortels, zie 2864.46.01 Diepte van 0,00m tot 1,00m",Restverontreinigingscontour,REV,Grond,,,,S,,,,,,205.44025611,144.912051484491
+306,1760044,,WEST-PETERSTRAAT 26,,4200,AA020204200,"4200.33.01, contour uit VO",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,15,8,0,0,,8.04837,12.586798487527
+307,1757392,,EUSEBIUSBUITENSINGEL EO,,4190,AA020204190,"Lood-spot in ondergrond, uit 2571.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,0.81741165,3.3389104654359
+308,1757390,,EUSEBIUSBUITENSINGEL EO,,4190,AA020204190,"Lood in ondergrond, spotje uit VO 4190.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,0.884648,3.45034111269632
+309,1751637,,L J COSTERSTRAAT 3,,4187,AA020204187,"Zink in bovengrond, uit NO 4187.35.01, aanvullend NO nodig ter bepaling ernst.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.5852325,9.97375712259862
+310,1744519,,NIEUWE PLEIN / COEHOORNSTRAAT (VML. KLEINE EUSEBIUS),,4172,AA020204172,PAK uit onderzoek 4172.33.02,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,4.5713805,7.86607091360011
+311,1744517,,NIEUWE PLEIN / COEHOORNSTRAAT (VML. KLEINE EUSEBIUS),,4172,AA020204172,"Lood, uit onderzoek 4172.33.02. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,22.928214,21.1351482740915
+312,5605244,,UTRECHTSEWEG 99 - VILLA SCHOONHEUVEL,,4171,AA020204171,"PAK-spot, uit VO 4171.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,5.7495375,8.81745469241184
+313,1736280,,OVER HET LANGE WATER - ZUID,,4158,AA020204158,contour uit OO 4158.33.02,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.6879505,5.01664298215145
+314,173643,,WILLEMSPLEIN 10 (LUXOR),,0185,AA020200185,"0185.35.01, contour uit NO",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,7,2,3,,0.407218,2.40456320543054
+315,1735626,,ARNOUDSTRAAT / PLATTENBURGERWEG ONG.,,4151,AA020204151,"4151.33.02, spot uit NO: formaldehyde",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.2541405,4.1699887412478
+316,1732492,,RIJKSWEG WEST 71 (TUIN VAN ELDEN),,4146,AA020204146,"4146.33.01. Metalen, niet ernstig.
+Niet meer aangetroffen in onderzoek 4146.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,T,,75,0,0,,103.888876,36.9916714394639
+317,1724928,,RODENBURGSTRAAT 48,,4127,AA020204127,"4127.33.01, lood in GW. vervolgonderzoek nodig.",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,,,,1.8937345,5.07481188815995
+318,1721237,,BENTINCKSTRAAT 58-65,,4113,AA020204113,"PAK (teer), spot uit VO 1500.33.02
+",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,2.41766,5.9659023111921
+319,173369,,WILLEMSPLEIN/NIEUWE PLEIN,,1594,AA020201594,"Lood>I, uit VO 1594.33.03. Nog niet afgeperkt.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,7.498476385,10.3354379960395
+320,1711487,,RIJKSWEG-WEST 80-82,,4802,AA020204802,"Metalen en PAK, verontreiniging uit VO 4802.33.01. NO nodig om ernst te bepalen.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,57.6369475,44.085632079809
+321,1705333,,"WESTERVOORTSEDIJK 73, GEBOUW BB EN FB",,4048,AA020204048,"Olie en xylenen, ook in grondwater, uit 330723-01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,2,,9.216522945,11.3718236022368
+322,1701560,,LARIKSHOF EO,,4040,AA020204040,"Lood en zink, teruggesaneerd tot BGW-1, uit eval. 4040.46.01",Saneringscontour,SAN,Grond,,,,,,,,,,2.1209,12.1305974044959
+323,1701559,,LARIKSHOF EO,,4040,AA020204040,"Kwik, teruggesaneerd tot BGW-1, uit eval. 4040.46.01",Saneringscontour,SAN,Grond,,,,,,,,,,2.9523678,12.9913416858623
+324,1697529,,HOEK WALBURGSTRAAT/MARKT ONG.,,4007,AA020204007,"4007.35.01, PAK, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,9.556297,16.1991658517125
+325,1695123,,ARNHEM VELPERPOORT/HOMMELSEWEG,,4018,AA020204018,"4018.33.01, niet ernstig, PAK",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,3.322157,6.70866989898123
+326,169137,,ESPERANTOLAAN 2,,0507,AA020200507,"olie, restverontreiniging in putwand na sanering 0507.46.01 Diepte van 1,50m tot 2,50m",Restverontreinigingscontour,REV,Grond,,,,I,,,,,,13.33855,17.7140008839797
+327,168081,,ACHTERSTRAAT 20,,0716,AA020200716,"PAK, spotje in bovengrond, uit 0716.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.592035975,6.93835152004089
+328,166887,,DRIEKONINGENSTRAAT 45,,2798,AA020202798,"Zink spot uit 350437-02, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,,,,0,0,,0.94431245,3.61037372902282
+329,164755,,DR C LELYWEG OPHOOGLAAG,,0615,AA020200615,"Koper, GW-spotje uit VO 0615.33.05",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,2,3,,17.282595555,15.3161479746578
+330,1642369,,LEKSTRAAT 3,,3972,AA020203972,"3972.46.01, div. spots met lood en koper: gesaneerd tot onder de I-waarde",Saneringscontour,SAN,Grond,,,,,,,,,,13.683331,31.0324467905854
+331,1641552,,MOOIEWEG 218-220,,3968,AA020203968,"Loodspot, afgeperkt via 3968.35.02, gesaneerd via pva 3968.39.01, eval 3968.46.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,1.783153935,4.94591302618999
+332,1638048,,KAREL VAN GELDERSTRAAT 23-25,,3955,AA020203955,Lood/zink-spot uit onderzoek 3955.33.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,2.58559941,5.95582521712949
+333,1637508,,THOMAS A KEMPISLAAN (ONG.) - BAROKTUIN,,3950,AA020203950,"Lood-spot, uit VO 3950.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,16.220145755,14.9212016180549
+334,1637506,,THOMAS A KEMPISLAAN (ONG.) - BAROKTUIN,,3950,AA020203950,PAK-spot uit NO 3950.33.03,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,8.75667204,11.1139094328565
+335,163872,,RINGOVEN 26,,0718,AA020200718,"0718.35.01, contour uit NO",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,11.965333,12.766668634329
+336,1633643,,RODENBURGSTRAAT 65-67,,3937,AA020203937,"Lood/zink, contour uit nader onderzoek 3937.33.01 en 3937.35.01. Nog geen ernstig geval, afperkingsonderzoek buiten perceel nodig. Gebruiksadvies: verharding handhaven.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,30,15,0,0,,25.00663536,21.2382664535754
+337,1633212,,RODENBURGSTRAAT 69 / RIJNKADE 59-60,,3936,AA020203936,"PAK in bovengrond, contour uit NO 3936.35.01. Niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.866604,3.42977275978626
+338,1633210,,RODENBURGSTRAAT 69 / RIJNKADE 59-60,,3936,AA020203936,"Koper in ondergrond, contour uit NO 3936.35.01. Niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,3,3,,1.4015245,4.35718862024088
+339,1632303,,TRANS 29-30 / NIEUWSTRAAT 27-31,,3931,AA020203931,"PAK-spot, uit 3931.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,0.7468629,3.26294364434315
+340,1629863,,RIJNKADE/RODENBURGSTRAAT/EUSEBIUSPLEIN (HAVENGEBIED),,3924,AA020203924,"Koper, spot uit VO 3924.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,2.8665745,6.2772951058109
+341,1629509,,TRANS/BROERENSTRAAT,,3922,AA020203922,"Zink, spot uit 4418.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,2.555169445,6.01364240135052
+342,1629508,,TRANS/BROERENSTRAAT,,3922,AA020203922,"Zink, spot uit VO 3922.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.357129,4.36995451964045
+343,1629507,,TRANS/BROERENSTRAAT,,3922,AA020203922,"Lood, spot uit VO 3922.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,1.58738,4.67901554613456
+344,3001822,,"WESTERVOORTSEDIJK 73, IPKW GEBOUW KB",,1903,AA020201903,"Functionele sanering tpv parkeerterrein. 50 cm afgegraven, doek aan gebracht tpv restverontreinigingen, aangevuld met schoon puin als fundament voor parkeerterrein. Wanden klasse Industrie of schoner. Beschikt via 1903.53.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,1722.124593,270.41855253044
+345,1623658,,MOOIEWEG 31,,1769,AA020201769,"Koper, contour uit VO 1769.33.02. Gesaneerd tot waarde Wonen.",Saneringscontour,SAN,Grond,,,,,,,0,0,,31.6717115,21.0022656565569
+346,1621444,,BROEKSTRAAT 20A,,1740,AA020201740,PCB-spot uit BUS-evaluatie 0017.46.63,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,1.57887364,4.75278953581282
+347,1618739,,VINKENSTRAAT 2-12,,1086,AA020201086,"1086.35.01, contour uit NO",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,5,0,1,,0.6273205,2.9543478812122
+348,1617408,,DIJKSTRAAT 31-77/ KASTANJELAAN 22G-22H,,1108,AA020201108,"Zink > I, niet ernstig. Spot uit VO 1108.33.01. Geen risico's (verhardingslaag).",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.559727,7.85002841445495
+349,5275913,,BAKKERSTRAAT 16A-17,,3370,AA020203370,"Lood, spot uit 3370.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.439621875,2.46604176423355
+350,1609067,,NABIJ CLEMENT VAN MAASDIJKLAAN 5 (ORANJEKAZERNE),,1873,AA020201873,"3 PAK-spotjes uit 1873.35.01, beschikt als niet-ernstig geval",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,164,20,0,1,,35.18121664,39.1237674284866
+351,1602813,,SONSBEEKSINGEL 2-3,,1721,AA020201721,"Lood/koperspot, uit NO 1721.33.03 en 1721.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,22,0,1,,1.848733,5.06002697747833
+352,1602346,,ROZENSTRAAT 33-55 EO,,1715,AA020201715,"Lood, verontreiniging buiten beschikte gevalscontour, uit VO 4720.33.05",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,44.106374155,38.8750277683708
+353,1600658,,MESDAGLAAN 78-80,,1707,AA020201707,"1707.35.01, contour uit NO
+PAK, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,20,0,0,,1.606398,4.88962415785672
+354,1598634,,EUSEBIUSBUITENSINGEL 1-2A,,1123,AA020201123,"Lood, spots uit VO 3902.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,21.89565,24.9052608876615
+355,1598396,,EMMASTRAAT 50A-52A,,1122,AA020201122,"Lood/zink > I, diffuus??",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.244116155,5.84747420473081
+356,6712949,,PRINSESSESTRAAT 18-24 EN GRAVENSTRAAT 1-9,,1152,AA020201152,"Loodspotje, uit 1152.33.02, geen risico's",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.08320625,3.8597455462765
+357,1593908,,PRINSESSESTRAAT 13-15,,1151,AA020201151,"1151.35.01, contour uit NO
+Zink, ook 6 m3 PAK",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,26,13,0,0,,17.9234955,17.1439213204698
+358,1591175,,KAREL VAN GELDERSTRAAT 33,,1137,AA020201137,"Spot met Lood > I, AW, uit onderzoek 2980.33.04, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,0.852111,3.37441192448075
+359,1584636,,MAISVELD 1-61 (NAAST HOOGSTEDELAAN 63),,4597,AA020204597,"4597.35.01, MO-spot tgv tank",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,2,3,,5.35766,9.33853870652132
+360,1584638,,MAISVELD 1-61 (NAAST HOOGSTEDELAAN 63),,4597,AA020204597,"Sanering minerale olie verontreiniging tpv vml tank.
+Lichte restverontreiniging in ZW-deel",Saneringscontour,SAN,Grond,,,,,,20,0,3,,5.35766,9.33853870652132
+361,1580655,,KONINGSWEG VRIJLAND NOORD,,1881,AA020201881,"MO/aromaten, thv werkplaats gebouw 1-A. Spot uit NO 1881-3551188, niet ernstig. (Lokatie-5)",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,3,5,0,2,,3.646649,7.04626069624542
+362,1580656,,KONINGSWEG VRIJLAND NOORD,,1881,AA020201881,"PAK aan zuidzijde gebouw 14. Spot uit NO 1881-3551188, niet ernstig.  (Lokatie-4)",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,20,10,0,0,,13.832423,15.2320275226244
+363,1574553,,BLANKENWEG 24-28,,2001,AA020202001,"Lood, spots uit NO 2001.35.01. Niet afgeperkt, NO nodig ter bepaling ernst.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,21.23169395,21.5202602659888
+364,1573631,,AMSTERDAMSEWEG 21-23 / ROZENSTRAAT 51-55,,1659,AA020201659,"Benzeen, spot uit onderzoek 1659-3358066. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.9391005,7.27792094411491
+365,1565894,,SPIJKERSTRAAT/EMMASTRAAT ONG. -BESTEDELINGENTUIN,,1191,AA020201191,"Lood-spot, uit VO 1191.35.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,4.79526644,8.3829399483816
+366,1563353,,"IJSSELLAAN 119, ONDERSTATION PRESIKHAAF",,4750,AA020204750,"Minerale olie, sanering lekkage via 4750.46.01",Saneringscontour,SAN,Grond,,,,,,1,0,0,,3.06078506,6.47876968428553
+367,1551390,,MIDDACHTENSINGEL 143-145,,1635,AA020201635,"Arseenspot in grondwater, uit onderzoeken 21592380 en 1635.33.02.",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,1,2,,21.527424655,17.3996990248943
+368,1551388,,MIDDACHTENSINGEL 143-145,,1635,AA020201635,"Koper, verontreiniging uit onderzoek 1635.33.02. NO nodog om ernst te bepalen.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,2,,24.33614921,31.384053924033
+369,1539749,,RIJNKADE 47-49,,1264,AA020201264,"1264.35.01, zinkverontreiniging, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,1.2099675,4.1583778102447
+370,1538038,,NIEUWSTRAAT 33-35,,1248,AA020201248,"PAK-spot, tpv oliecilinder, verwijderd, zie 3931.33.",Saneringscontour,SAN,Grond,,,,,,,0,0,,0.94403253,3.89643094507985
+371,152890,,WESTERVOORTSEDIJK (NIEUWE KADE-OUDE VEERWEG),,0263,AA020200263,"PAK-spot, uit 1207.33.05 en 0616.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,8.3243256,10.6768937990724
+372,152892,,WESTERVOORTSEDIJK (NIEUWE KADE-OUDE VEERWEG),,0263,AA020200263,"Lood, koper, zink, PAK, spot uit 0263.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,11.323358585,12.6671796153642
+373,152086,,ROSENDAALSESTRAAT 204/206 (TERRA),,2733,AA020202733,Zink/Loodspotje uit VO 22544293,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.4032965,4.83007036378445
+374,1508845,,RIJNKADE 76-77,,1267,AA020201267,"Asbest in zandbed opslagruimte, uit asbestinventarisatie 1267.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,Maximale Waarde,,,0,0,,11.937663675,13.978535841695
+375,1508757,,BOLWERK ONG,,1311,AA020201311,"1311.33.01, sterke verontreiniging met koper in diepere ondergrond, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,5,5,,1.8064195,4.96036038811082
+376,5951109,,MEGINHARDWEG 11 -15,,3199,AA020203199,"Xylenen-spot in grondwater, uit 3199.33.02, niet afgeperkt aan noordzijde",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,S,,40,5,6,,79.276640625,32.0401149440491
+377,6865905,,KASTANJELAAN 30-38 / DIJKSTRAAT 15-16,,3187,AA020203187,"Loodspotje, in bovengrond geen humane risico's. Uit 3187.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.179853125,8.20269080404402
+378,6874741,,KASTANJELAAN 30-38 / DIJKSTRAAT 15-16,,3187,AA020203187,Lood spotje uit 3187.33.04,Verontreinigingscontour (niet beschikt),VERO,,,,,I,,,0,0,,1.94866875,5.13651296424513
+379,1501118,,ZWANENSTRAAT 3,,1566,AA020201566,"Lood in bovengrond, PAK in ondergrond. Contour uit NO 1566.35.01.
+Nog vervolgonderzoek nodig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,35,18,0,2,,22.4041025,17.6831158574968
+380,1499871,,TRANS 17-19,,1297,AA020201297,"Minerale olie uit VO 1297.33.02, vermoedelijk niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,3,4,,2.626790555,5.88431809076398
+381,1498137,,ALEXANDERSTRAAT 17,,1318,AA020201318,contour uit NO 1318.35.01. Niet ernstig,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,5,,,,1.4766375,4.60605054159398
+382,1494002,,MARIENDAAL (OLIEDRUKKABEL),,2373,AA020202373,"Minerale olie, lekkage, sanering beoordeeld via 2373.46.01. Kleine restverontreinging tpv boom.",Saneringscontour,SAN,Grond,,,,,45,,,,,40.071804,30.5484372407429
+383,1494001,,MARIENDAAL (OLIEDRUKKABEL),,2373,AA020202373,"Minerale olie, restverontreiniging tpv boom, beoordeeld via 2373.46.01.",Restverontreinigingscontour,REV,Grond,,,,I,,,,,,1.3574385,4.79160654681337
+384,4877544,,LEEGHWATERSTRAAT/EMPLACEMENTSTRAAT,,2295,AA020202295,PCB-spot uit 2295.33.02,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,6.317325,9.22910515919249
+385,1484253,,WESTERVOORTSEDIJK THV SNELLIUSWEG,,2289,AA020202289,"Zinkspot in ondergrond, uit 2289.33.03, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,2,2,,8.391703045,10.7312183699891
+386,1484250,,WESTERVOORTSEDIJK THV SNELLIUSWEG,,2289,AA020202289,"Olie en aromaten in grond en grondwater. Afgeperkt via 2289.35.01, niet ernstig. Diverse onwelwordingen bij graafwerkzaamheden.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,2,2,,6.038799405,9.19143913877859
+387,1478816,,BRINK/KERKPAD,,3004,AA020203004,"PAK-spots, uit onderzoek 25522500-01. ",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,20.858529,28.9036054002958
+388,1477114,,LEONINUSSTRAAT 32 EO,,0892,AA020200892,"lood/zink-spot, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.725831,4.83079060005443
+389,1475036,,RIJKSWEG WEST 5 / ELDERHOFSEWEG 6,,3847,AA020203847,"PAK-spot, verontreinigde grond is afgevoerd.",Saneringscontour,SAN,Grond,,,,,10,3,0,0,,3.9362576,7.27503764849882
+390,1474790,,VAN OLDENBARNEVELDTSTRAAT (ZUIDELIJK DEEL),,0866,AA020200866,PAK-spot uit onderzoek 330017-02. ,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,2,3,,14.5661705,14.0913224827059
+391,1472048,,NIEUWE HAVEN - IPKW GEBOUW MB / FC,,2363,AA020202363,"PAK, uit 332417-01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,14.06876386,13.9335421774583
+392,1472046,,NIEUWE HAVEN - IPKW GEBOUW MB / FC,,2363,AA020202363,"Zink-spot, uit VO 2363.33.03 en NO 2363.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,7.87139894,10.5982980285739
+393,4513092,,NIEUWE HAVEN - IPKW GEBOUW MB / FC,,2363,AA020202363,"PCB-spots, uit onderzoek 2363.35.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,,,,5.6889,13.1938534610277
+394,1470764,,WESTERVOORTSEDIJK 73 - GBW LE01,,2347,AA020202347,"Koper, uit 2347.33.02 en afp 2347.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.43830427,5.72158005878034
+395,1467615,,BEEKSTRAAT 71 / KROMME ELLEBOOGSTEEG 25,,1493,AA020201493,"Minerale olie en xylenen, spot uit 1493.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,2,,,,2.07961266,5.56228748869704
+396,1467564,,BEEKSTRAAT 70,,1492,AA020201492,"1492.35.01, contour uit NO
+sterk lood en matig zink. Niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,2.5233855,5.89207590921323
+397,1467392,,BEEKSTRAAT 63,,1491,AA020201491,"Lood, contour uit VO 1491.33.01
+",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,3.9770545,7.70687204219853
+398,1466784,,KONINGSTRAAT 38,,1483,AA020201483,"Loodspot, uit VO 2087.33.09",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.45989734,5.95494114108016
+399,1464585,,VOSSENSTRAAT 10,,1462,AA020201462,"Loodspot > I, uit NO 1462.335.01. Niet afgeperkt.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,0.3884095,2.47088167380816
+400,1458313,,VRIJ NEDERLANDSTRAAT 55,,4658,AA020204658,,Saneringscontour,SAN,Grond en Grondwater  ,,,,,37,,1,3,,37.234739,31.7370564431523
+401,1458312,,VRIJ NEDERLANDSTRAAT 55,,4658,AA020204658,,Verontreinigingscontour (niet beschikt),VERO,Grond en Grondwater  ,,,,I,37,20,1,3,,37.063476,31.7117743945558
+402,1448742,,SPIJKERSTRAAT - WESTELIJK DEEL,,2329,AA020202329,"Lood en Zink, afgeperkte spot uit 2980.33.34",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,5.42231452,8.5051725205908
+403,5543651,,SPIJKERSTRAAT - WESTELIJK DEEL,,2329,AA020202329,"Lood, gesaneerd via 2329.46.01 (teruggeplaatst, gehaltes waren<AW)",Saneringscontour,SAN,Grond,,,,BGW,,,0,1,,3.283291755,6.71123812177993
+404,5502750,,SPIJKERSTRAAT - WESTELIJK DEEL,,2329,AA020202329,"Nikkel en PAK, gesaneerd via 2329.46.03",Saneringscontour,SAN,Grond,,,,,,,0,0,,3.67959375,7.07899339729972
+405,1447000,,ZOOMSTRAAT 1,,1856,AA020201856,"Lood, spotje uit 5491.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.71954502,7.19298435119823
+406,1445249,,ROERMONDSPLEIN 37-38 / RIJNKADE 3-8,,1454,AA020201454,"contour uit NO, 2852.35.01, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,10.0401815,11.7596591624983
+407,1443490,,OUDE OEVERSTRAAT 66-67,,1423,AA020201423,"1423.35.01, contour uit NO
+lood, geen ernstig geval.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,40,20,0,1,,32.533034,21.9878351832573
+408,1442118,,VELPERWEG 45-49,,0837,AA020200837,"Lood uit VO 0837.33.01, afgeperkt, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,2.3718805,5.72576947656698
+409,1437328,,KLARENDALSEWEG 193-194,,4686,AA020204686,"asbestsanering, uit evaluatierapport 5324.46.01",Saneringscontour,SAN,Grond,,,,,,,,,,82.898566,38.9496150949766
+410,1431098,,MOLENKOM 16-17,,1407,AA020201407,koper > I uit VO 1407.35.01. Nog vervolgonderzoek nodig.,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,2,2,,2.1288165,5.38795976619893
+411,1427423,,HEIJENOORD/LOMBOK,,3920,AA020203920,"Lood/koper, spotje uit 3920.33.01, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,4.254907,7.66535112949382
+412,1422782,,RIETGRACHTSTRAAT,,2218,AA020202218,"Zink, spotje >I uit onderzoek 2980.33.05. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,5.5226825,9.3443568215326
+413,1421652,,JANSBINNENSINGEL 14,,1383,AA020201383,"Zink, contour uit NO 1383.35.01, NO nodig ter afperking.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,14,21,0,1,,14.1452415,15.4336651853144
+414,1420731,,WILHELMINASTRAAT 19,,1364,AA020201364,"Lood en zink, contour uit NO 1364.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,35,18,0,0,,12.858013,18.4551011666511
+415,1419620,,UTRECHTSEWEG 302-1/7-304,,1360,AA020201360,"Lood-spotje tpv boring A en F, uit 1360.39.01, gesaneerd via 1360.46.01",Saneringscontour,SAN,Grond,,,,,,8,0,0,,5.01225432,9.34801585463882
+416,1419619,,UTRECHTSEWEG 302-1/7-304,,1360,AA020201360,"Lood-spotje tpv boring 202, uit NO 1360.35.01, gesaneerd via 1360.46.01",Saneringscontour,SAN,Grond,,,,,,5,0,0,,3.679269375,7.10450740816642
+417,1418493,,BERGSTRAAT 1 / STATIONSPLEIN 19-20,,1350,AA020201350,"1350.33.03, lood",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,0.36493513,2.23524162583893
+418,1418491,,BERGSTRAAT 1 / STATIONSPLEIN 19-20,,1350,AA020201350,"1350.35.01, koper, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,10.7252675,13.0666805309006
+419,1417244,,MOLENBEEKSTRAAT 30-32A,,0766,AA020200766,contour uit NO 0766.35.01 (MO-verontreiniging tgv ondergrondse tank),Verontreinigingscontour (niet beschikt),VERO,Grond en Grondwater  ,,,,I,10,9,1,2,,4.768956,8.30212900680552
+420,1413352,,HOLWIERDEPAD ONG / GRONINGENPARK,,0872,AA020200872,"Zware metalen in ophooglaag, contour uit NO 0872-3541078. Niet ernstig. ",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,529.762388,89.8540515814367
+421,1407692,,LOOIERSTRAAT - OPENBARE WEG,,2204,AA020202204,"koper, spotje uit VO 0366.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,2.2597295,5.58696991521509
+422,1403256,,ORANJESTRAAT 41,,1339,AA020201339,"lood, zink en PAK, contour uit NO 1339.35.01 > geval",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,58.097262,30.1074037145678
+423,1401979,,KLINGELBEEKSEWEG 45,,1329,AA020201329,"Minerale olie en aromaten, spot in ondergrond uit NO 1329.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,5,5,,2.16751941,5.47898635819593
+424,1400085,,NIEUWE AANLEG 1-3 EO / GARAGES BONTE WETERING,,1008,AA020201008,contour uit NO 1008.35.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,0,1,,10.5003755,13.4463369751539
+425,1387680,,NAELL TYNNEGIETERSTRAAT 58,,1007,AA020201007,contour uit NO 1007.35.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,12,0,0,,17.507869,16.8450464662309
+426,1386327,,KLARENDALSEWEG 400-402,,0995,AA020200995,"zink>I, koper>T, spot uit NO 4186.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.446218,4.59082628444325
+427,1386325,,KLARENDALSEWEG 400-402,,0995,AA020200995,"Lood, niet ernstig, spot uit VO 4186.33.01.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,0,0,,0.9716995,3.73017890574951
+428,1365265,,DR. C. LELYWEG 2 A,,3582,AA020203582,"Oliespot thv stortgat olietank, uit onderzoek 26531800. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,5,,,,4.53253222,7.78792720756021
+429,1364512,,APELDOORNSEWEG 41,,3891,AA020203891,"3891.35.01, contour uit NO, lood/zink, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,20,0,1,,17.1641385,17.9352783264516
+430,1363402,,EUSEBIUSBUITENSINGEL 38-39,,3887,AA020203887,"Zink, contour uit VO 3887.33.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,5.9701895,12.2681962506885
+431,1354643,,KRUIDENBUURT,,3084,AA020203084,"Zink en Lood, uit onderzoek 3084.33.01. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.1488176,7.53795587244726
+432,1354646,,KRUIDENBUURT,,3084,AA020203084,"Zink en Lood, uit onderzoek 3084.33.01. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,11.58921619,12.6441110828895
+433,1354041,,VAN OLDENBARNEVELDTSTRAAT / BROEKSTRAAT (VML. STORT),,2307,AA020202307,"Lood/PAK > I, div. spots uit VO 2307.33.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,11.74417154,25.6008503968249
+434,6720559,,STIELTJESWEG 6-6A,,2057,AA020202057,"Koperspotje in ondergrond, uit 2057.33.02, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,2,,1.371234375,4.48287193107799
+435,1350703,,JACOB CREMERSTRAAT 48,,0955,AA020200955,contour uit NO 0955.35.01. Lood-spot in kelder niet meer aangetoond in 2011 (0955.35.02),Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,24,0,0,,14.813156,21.3433055214674
+436,1347186,,KLARESTRAAT 14-16,,2885,AA020202885,"contour uit VO (23551282-B). Zink/lood, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,6,0,0,,2.3822515,5.69631199786039
+437,1343806,,KONINGSWEG 23A (KAMP KONINGSWEG-NOORD EN ZEVEN-PROVINCIEEN),,3037,AA020203037,"minerale olie, niet ernstig, locatie 4, tank 429, uit 3037.33.14. Gesaneerd via 3037.46.02.",Saneringscontour,SAN,Grond,,,,,,,0,0,,1.560794,4.60817608603955
+438,1343805,,KONINGSWEG 23A (KAMP KONINGSWEG-NOORD EN ZEVEN-PROVINCIEEN),,3037,AA020203037,"minerale olie, niet ernstig, locatie 5, tank 426, uit 3037.33.14. Gesaneerd via 3037.46.02.",Saneringscontour,SAN,Grond,,,,,,,0,2,,5.877842,8.90658228420679
+439,1343804,,KONINGSWEG 23A (KAMP KONINGSWEG-NOORD EN ZEVEN-PROVINCIEEN),,3037,AA020203037,"minerale olie, niet ernstig, locatie 9, tank 437, uit 3037.33.14. Gesaneerd via 3037.46.02.",Saneringscontour,SAN,Grond,,,,,,,0,1,,8.8515755,12.1524179471414
+440,1339406,,SCHELMSEWEG 107 (DE GALGENBERG),,2584,AA020202584,"PAK-spot uit VO 2584.33.04, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,11.769265,13.1327830177764
+441,1334604,,LAAN VAN KLARENBEEK 90,,0728,AA020200728,"0728.35.01, contour uit NO.
+5 m3 > I",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,S,,15,,0,,1.6107005,4.66980966083847
+442,1333726,,TIVOLILAAN 251 / NOVALAAN,,0731,AA020200731,"PAK, spotje in ondergrond grenzend aan Akzo-terrein, uit 0731.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,4.58033239,8.53289118492654
+443,1333728,,TIVOLILAAN 251 / NOVALAAN,,0731,AA020200731,"PCB-spot uit 0731.35.02, afgeperkt, niet ernstig, gesaneerd via 0731.46.01",Saneringscontour,SAN,Grond,,,,,,20,0,0,,17.14278632,15.3969515433197
+444,1320556,,PIETER CALANDWEG 13,,2039,AA020202039,"Nikkel-spot, uit VO 2039.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,4.14704175,10.7150862432663
+445,1320552,,PIETER CALANDWEG 13,,2039,AA020202039,"Zink-spot, uit 2039.35.01 en 2039.33.02
+Eerder aangetroffen PAK nu < AW",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,3.665575705,6.98023804110861
+446,1320554,,PIETER CALANDWEG 13,,2039,AA020202039,"Spot met minerale olie >I in grondwater, licht in grond.
+uit onderzoek 2039.33.02, afgeperkt tpv boring 105.",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,1,3,,6.165924085,9.23363314699994
+447,1313114,,APELDOORNSEWEG / WAGNERLAAN (PERCEEL 6986),,0907,AA020200907,"contour uit NO 0907.35.01, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,18,0,0,,14.970483,14.4968860073061
+448,1312555,,ONDER DE LINDEN 2 / AGNIETENSTRAAT 200,,0901,AA020200901,"0901.35.01, contour uit NO, koper en lood, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,20,20,0,1,,6.377501775,9.33609983548244
+449,1311647,,SLOETSTRAAT 5-11,,1041,AA020201041,"1041.35.01, contour uit NO, lood/zink, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,15,0,0,,16.76254,24.0955932092219
+450,1310425,,PAULSTRAAT 23-34,,1027,AA020201027,"1027.35.01, contour uit NO, MO-verontreiniging a.g.v. tank.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,18,,,,5.487588,9.27237302912297
+451,1310427,,PAULSTRAAT 23-34,,1027,AA020201027,tanksanering (nw geval),Saneringscontour,SAN,Grond,,,,,,,,,,6.284039,9.94816865786548
+452,5965946,,BOULEVARD HEUVELINK 181-193,,3435,AA020203435,"Lood, uit VO 3435.33.02. Niet ernstig, <25 m3",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,47.264175,29.5594170807811
+453,6260342,,BOULEVARD HEUVELINK 181-193,,3435,AA020203435,"Lood, spot uit 3435.33.03",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.38088125,4.79348602725281
+454,6260344,,BOULEVARD HEUVELINK 181-193,,3435,AA020203435,"Lood-spot, afgegraven en afgevoerd",Saneringscontour,SAN,Grond,,,,I,,,0,0,,1.38088125,4.79348602725281
+455,1300644,,SLOETSTRAAT 6-12 / STARINGSTRAAT 11,,1046,AA020201046,Lood-spot uit 4387.33.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,6.837161,10.4612818688658
+456,1292167,,BAKKERSTRAAT 56,,0259,AA020200259,"Lood en PAK spot, contour uit NO 0259.35.01. Niet ernstig, wel NO nodig ter afperking.
+",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.8360795,5.69230051783003
+457,1276049,,STADSBLOKKEN - ASM-TERREIN,,0037,AA020200037,"Div.metalen, spotje uit VO 0037.33.04",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,29.13839797,20.563645301879
+458,1250118,,SIMON STEVINWEG 32,,0268,AA020200268,"MO in grond en GW agv lekkage tank, contour uit NO 0268.35.02",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,20,65,0,4,,27.3474695,19.5955674696649
+459,1250120,,SIMON STEVINWEG 32,,0268,AA020200268,"sanering MO-verontreiniging in grond en grondwater, uit eva 0268.46.01",Saneringscontour,SAN,Grond en Grondwater  ,,,,,,,,,,29.758341,20.8106051195129
+460,1250116,,SIMON STEVINWEG 32,,0268,AA020200268,"MO in grond en GW agv lekkage tank, contour uit NO 0268.35.02",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,20,22,0,1,,21.8851745,18.8195406753122
+461,1229746,,STADSBLOKKEN (DE PRAETS)(VML STORTPL),,0029,AA020200029,"Zink-spot in wegberm uit VO 2891.33.01, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,25.97493,22.2401476894528
+462,1221798,,SPERWERSTRAAT 2-4 (HENDRIK & ZEUNER),,0250,AA020200250,"minerale olie, gesaneerd van 0250.46.02",Saneringscontour,SAN,Grond,,,,,5,1,0,0,,0.84861012,4.38480210042625
+463,1219622,,NIEUWE KADE 15,,0108,AA020200108,"minerale olie, spot in bovengrond uit 0108.33.04",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.81849852,5.0580338174108
+464,1219621,,NIEUWE KADE 15,,0108,AA020200108,"Lood, koper in ondergrond (sintels), uit 23508082-A",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,3,3,,1.129406695,3.92932352253226
+465,1207847,,UTRECHTSEWEG,,3807,AA020203807,Minerale olie uit VO 3807.33.03,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,8.454011,10.8459349994963
+466,1207845,,UTRECHTSEWEG,,3807,AA020203807,PAK-spotje uit VO 3807.33.02,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.3786315,5.83518532581086
+467,1188582,,BROUWERIJWEG 52-54,,2167,AA020202167,"Lood uit onderzoek 2167.33.02, geen geval",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,0.924615365,3.56893325222106
+468,5605666,,VAN RUISDAELSTRAAT,,1915,AA020201915,PAK-spot uit 4020.33.02,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,4.475835,7.84075907923567
+469,6874757,,KASTANJELAAN 40-42,,2149,AA020202149,"Lood-spot, uit 2149.33.03. Lokaal humaan risico",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.940059375,7.4243771916427
+470,6874759,,KASTANJELAAN 40-42,,2149,AA020202149,Lood-spotje uit 2149.33.03,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,5.31405,8.58194593687656
+471,1166282,,WEERDJESSTRAAT 149-160/VOSSENSTRAAT 16-24,,2666,AA020202666,"22501382, loodsport, afgedekt met 1m schone grond. Niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,1,1,,1.096008,3.81026713471007
+472,1164518,,DRIEKONINGENDWARSSTRAAT 1-25 / SPIJKERLAAN 28-32,,0428,AA020200428,"Lood en koper, uit VO 21583880 en 0428.33.05",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,11.4165301,13.9690515402106
+473,1154275,,LEEUWENSTEINPLEIN 4,,2923,AA020202923,"PAK-spot, niet ernstig, uit onderzoek 21606380-A.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,5,0,0,,2.81338397,6.14604411539546
+474,6246255,,DE OVERMAAT 5,,0713,AA020200713,"Minerale olie- spot in grondwater, uit onderzoek 26505100.",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,1,2,,10.574353125,11.9172194499149
+475,1142820,,WEVERSTRAAT/KORTESTRAAT,,2071,AA020202071,"Lood spots > I uit NO 1470.35.01, waarschijnlijk deel van geval 2071-01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,7.9409705,15.1134066689285
+476,1139586,,TRANS 8 (VML DRUKKERIJ),,0118,AA020200118,"Minerale olie, uit VO 0118.33.03. Niet ernstig. Circa 50 m3 > S. Aangepakt via tanksanering, niet meer ingetekend.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,10,1,1,,12.25789871,12.6591003739992
+477,1139588,,TRANS 8 (VML DRUKKERIJ),,0118,AA020200118,"Minerale olie, gesaneerd, marginale restverontreinging. Zie 0118.46.01",Saneringscontour,SAN,Grond,,,,,,10,0,2,,12.25789871,12.6591003739992
+478,6260326,,RIJNWIJK,,0084,AA020200084,"Zink, spot in bovengrond uit 0084.33.07",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.594490625,4.67603756103244
+479,1135695,,BOVENBEEKSTRAAT/DOELENSTRAAT/VELPERPOORTSLANGSTRAAT,,0204,AA020200204,"Lood, uit VO 0204.33.03, niet ernstig",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.75489494,7.34675635487435
+480,4534894,,PRINSESSESTRAAT 9-11,,0709,AA020200709,"Zink>I in ondergrond, uit 330709-01. NO op natuurlijk moment.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,2,,1.52145,4.95371097785046
+481,1126178,,PIETER CALANDWEG 11 / CONRADWEG 10,,0606,AA020200606,"Minerale olie, niet-ernstig geval in GW tpv werkplaats. wel beschikt via 0606.51.01",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,40,1,2,,28.804114,19.4493998185639
+482,1126172,,PIETER CALANDWEG 11 / CONRADWEG 10,,0606,AA020200606,"Zink, niet ernstig, wel beschikt via 0606.51.01",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,25,,,,2.010439075,5.31023704166987
+483,1126170,,PIETER CALANDWEG 11 / CONRADWEG 10,,0606,AA020200606,"Nikkel, 40-80 m3, beschikt via 0606.51.01
+",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,60,,,,18.400378325,15.8113065502744
+484,1124488,,RINGOVEN 5,,0712,AA020200712,"minerale olie, xylenen, naftaleen lood, spotjes uit 26508401 en 0712.33.03.",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,I,,,2,3,,18.63623374,16.9248144686816
+485,4839500,,SIMON STEVINWEG 40-44,,0254,AA020200254,"Lood, spot uit 0254.33.04",Verontreinigingscontour (niet beschikt),VERO,,,,,I,,,0,1,,14.70735,14.0638556424581
+486,1116315,,MIDDELGRAAFLAAN 57 (VML CHEMISCHE WASSERIJ),,0430,AA020200430,"350430-02, contour min.olie (niet ernstig).
+grond 20 m3, GW 30 m3 >I , grond 100m3, GW 150 m3 >S",Verontreinigingscontour (niet beschikt),VERO,Grond en Grondwater  ,,,,I,,30,1,2,,2.942772,6.31037423761942
+487,1112261,,CLEMENT VAN MAASDIJKLAAN 1-2E (MC DUIVELSBERG),,0248,AA020200248,"minerale olie (calamiteit), uit VO 0248.33.05. Gesaneerd, beoordeeld via 0248.55.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,16.61460466,15.6245401173507
+488,1077470,,VELPERBUITENSINGEL 25 - MUSIS,,1818,AA020201818,"Minerale olie, spotje, gesaneerd, via BUS-besch 1818.46.02",Saneringscontour,SAN,Grond,,,,,,20,2,2,,7.12669105,10.156498369225
+489,1065715,,KLARENDALSEWEG 31-34,,1096,AA020201096,contour uit NO 1096.35.01,Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,15,0,0,,4.454373,7.76325864043478
+490,1059914,,DE PRAETS 1A / MEGINHARDWEG,,0699,AA020200699,"contour uit VO 29504000, niet ernstig: overschrijding I &lt; 25m3 Diepte van 1,50m tot 2,50m",Restverontreinigingscontour,REV,Grond,,,,S,,,,,,10.653703,13.0071315489666
+491,1059227,,BADHUISSTRAAT 9-17,,0692,AA020200692,"Per, uit 26503800-B en 21520100 > I, in 2016 niet meer >I (0692.35.02)",Verontreinigingscontour (niet beschikt),VERO,Grondwater,,,,T,,,7,8,,270.3702635,83.047740103629
+492,1053597,,KLAPSTRAAT 24B EN 42C (INTRATUIN/KWEKERIJ),,2135,AA020202135,"Zink, spot uit 2135.33.02, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,,,,4.355709,7.73550318293685
+493,1053595,,KLAPSTRAAT 24B EN 42C (INTRATUIN/KWEKERIJ),,2135,AA020202135,"Zink, spot uit 2135.33.02, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,1,,5.830746,8.92770533115007
+494,1046930,,VELPERWEG THV 35 - RIOOL,,2928,AA020202928,"Olie-spot na lekkage, gesaneerd via 24514493",Saneringscontour,SAN,Grond,,,,,,,0,1,,6.86621075,10.5316702192688
+495,1046839,,RIETGRACHTSTRAAT 58/58A,,2682,AA020202682,"lood en zink, contour uit 22514382 en 1154.33.02, niet ernstig. Lood plaatselijk tot 1m",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,10.918865195,12.8267643370542
+496,1046842,,RIETGRACHTSTRAAT 58/58A,,2682,AA020202682,"lood, contour uit 22514382, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,1.33861887,4.24056570372325
+497,1043234,,MOLENWEG 2 / ZAGERIJ,,2134,AA020202134,"2134.35.04, contour uit NO, PAK, niet ernstig.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,18,,,,39.493627,23.1927822471797
+498,1043236,,MOLENWEG 2 / ZAGERIJ,,2134,AA020202134,"sanering PAK-verontreinging, uit evaluatie 2134.46.01",Saneringscontour,SAN,Grond,,,,,,,0,0,,39.493627,23.1927822471797
+499,1043237,,MOLENWEG 2 / ZAGERIJ,,2134,AA020202134,"matig PAK-spot, gesaneerd, 2134.46.02",Saneringscontour,SAN,Grond,,,,,,,0,0,,11.25379903,13.4797570054183
+500,5021286,,KEMPERBERGERWEG 771 (CAMPING)(ILLEGALE STORTPLAATS),,0105,AA020200105,"Zink, spotje uit 22552884-2.
+Indicatief ingetekend.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,33.1135875,21.2770915587163
+501,5021284,,KEMPERBERGERWEG 771 (CAMPING)(ILLEGALE STORTPLAATS),,0105,AA020200105,"Minerale olie, spotje uit 22552884-2, tpv vatenopslag.
+Afgeperkt via 22552884-3. ligging globaal aangegeven.",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,2.84720625,6.46281550225456
+502,1040257,,KEMPERBERGERWEG 727-729 (POMPSTATION),,0125,AA020200125,"Zink, spot uit 26531200",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,,0,0,,3.77159518,7.64442878127497
+503,1040256,,KEMPERBERGERWEG 727-729 (POMPSTATION),,0125,AA020200125,"Aromaten, spot uit NO 0125.35.01",Verontreinigingscontour (niet beschikt),VERO,Grond,,,,I,,1,0,1,,1.21629696,4.15163740184363

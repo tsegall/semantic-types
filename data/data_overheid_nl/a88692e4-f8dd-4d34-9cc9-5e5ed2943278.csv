@@ -1,0 +1,317 @@
+Nummer;Totaal van;Jaar;Maand;Procedure categorie;Verblijfscluster;Nationaliteit;Aantal aanvragen
+1;Jaar;2016;;;;;3050
+2;Jaar, Maand;2016;1;;;;210
+2;Jaar, Maand;2016;2;;;;230
+2;Jaar, Maand;2016;3;;;;250
+2;Jaar, Maand;2016;4;;;;230
+2;Jaar, Maand;2016;5;;;;220
+2;Jaar, Maand;2016;6;;;;250
+2;Jaar, Maand;2016;7;;;;260
+2;Jaar, Maand;2016;8;;;;300
+2;Jaar, Maand;2016;9;;;;280
+2;Jaar, Maand;2016;10;;;;290
+2;Jaar, Maand;2016;11;;;;290
+2;Jaar, Maand;2016;12;;;;230
+3;Jaar, Procedure categorie, Verblijfscluster;2016;;EU-document;Derdelanders;;2980
+3;Jaar, Procedure categorie, Verblijfscluster;2016;;EU-document;EU-burgers;;70
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;1;EU-document;Derdelanders;;210
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;2;EU-document;Derdelanders;;220
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;2;EU-document;EU-burgers;;10
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;3;EU-document;Derdelanders;;250
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;4;EU-document;Derdelanders;;220
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;4;EU-document;EU-burgers;;10
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;5;EU-document;Derdelanders;;220
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;6;EU-document;Derdelanders;;250
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;6;EU-document;EU-burgers;;10
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;7;EU-document;Derdelanders;;260
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;8;EU-document;Derdelanders;;300
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;8;EU-document;EU-burgers;;10
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;9;EU-document;Derdelanders;;270
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;9;EU-document;EU-burgers;;10
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;10;EU-document;Derdelanders;;290
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;10;EU-document;EU-burgers;;10
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;11;EU-document;Derdelanders;;280
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;11;EU-document;EU-burgers;;10
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2016;12;EU-document;Derdelanders;;230
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Afghaanse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Albanese;70
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Algerijnse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Amerikaans burger;200
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Angolese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Argentijnse;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Armeense;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Australische;70
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Azerbeidzjaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Belarussische;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Bengalese;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Braziliaanse;250
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Bulgaarse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Burger van Bosnië-Herzegovina;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Burger van Congo;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Canadese;50
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Chileense;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Chinese;70
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Colombiaanse;70
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Cubaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Dominicaanse;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Ecuadoraanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Egyptische;80
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Filipijnse;50
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Gambiaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Georgische;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Ghanese;80
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Guinee-Bissause;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Hondurese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Indiase;60
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Indonesische;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Iraakse;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Iraanse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Israëlische;60
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Italiaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Japanse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Kaapverdische;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Kameroense;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Kazachse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Kenyaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Kosovaarse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Kroatische;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Libanese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Macedonische;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Maleisische;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Marokkaanse;220
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Mexicaanse;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Moldavische;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Montenegrijnse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Nepalese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Nieuw-Zeelandse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Nigeriaanse;70
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Oekraïense;110
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Onbekend;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Pakistaanse;80
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Peruaanse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Russische;110
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Senegalese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Servische;50
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Sri Lankaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Surinaamse;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Taiwanese;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Thaise;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Tunesische;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Turkse;170
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Ugandese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Venezolaanse;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Vietnamese;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Zuid-Afrikaanse;60
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;Derdelanders;Zuid-Koreaanse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2016;;EU-document;EU-burgers;Kroatische;50
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Marokkaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;1;EU-document;Derdelanders;Turkse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Amerikaans burger;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Marokkaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;2;EU-document;EU-burgers;Kroatische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Braziliaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Chileense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Georgische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Indonesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Iraanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Marokkaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Mexicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Oekraïense;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;3;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Dominicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Marokkaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Turkse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;4;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Amerikaans burger;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Kaapverdische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Marokkaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Mexicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Oekraïense;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;5;EU-document;Derdelanders;Turkse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Marokkaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Nieuw-Zeelandse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Surinaamse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;6;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Amerikaans burger;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Macedonische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Marokkaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Russische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;7;EU-document;Derdelanders;Turkse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Amerikaans burger;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Kaapverdische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Marokkaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Mexicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Turkse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Vietnamese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;8;EU-document;EU-burgers;Kroatische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Amerikaans burger;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Georgische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Indonesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Macedonische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Marokkaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Onbekend;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Peruaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;9;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Amerikaans burger;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Dominicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Marokkaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Mexicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Surinaamse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;10;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Amerikaans burger;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Bengalese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Braziliaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Chileense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Japanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Kaapverdische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Marokkaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;11;EU-document;EU-burgers;Kroatische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Braziliaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Marokkaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2016;12;EU-document;Derdelanders;Zuid-Afrikaanse;10

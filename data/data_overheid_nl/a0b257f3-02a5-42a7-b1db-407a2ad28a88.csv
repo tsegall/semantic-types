@@ -1,0 +1,23 @@
+﻿OBJECTID,PGO_GEBIED_NAAM,PGO_GEBIED_NR,OPC_GEBIED_NAAM,OPC_GEBIED_NR,ONDERHOUDSREGIO_NAAM,ONDERHOUDSREGIO_AFKORTING,PCA,TECHNIEKVELD,Shape__Area,Shape__Length,PRORAIL_GEBIED
+6,,,HSL,70,Randstad Zuid,RZ,Infraspeed,Kunstwerken,62797080.8698105,192348.395805633,Zuid-Holland Zuid
+9,Limburg,340,,,Zuid,Z,Strukton Rail,Kunstwerken,1215513509.91955,315982.176714356,Zuid-Oost
+18,Kennemerland,240,,,Randstad Noord,RN,Strukton Rail,Kunstwerken,789270893.190384,152362.805534215,Noord-West
+22,Dordrecht,140,,,Randstad Zuid,RZ,ASSET Rail,Kunstwerken,734973028.648628,199225.502944674,Zuid-Holland Zuid
+31,Zee-Zevenaar,130,,,Randstad Zuid,RZ,VolkerRail,Kunstwerken,1046578625.18245,405119.931292272,Zee-Zevenaar
+38,Neerlands Midden,250,,,Randstad Noord,RN,ASSET Rail,Kunstwerken,675011879.0836,116711.124569057,Midden
+46,Drenthe,440,,,Noord-Oost,NO,ASSET Rail,Kunstwerken,4580875665.19857,338730.295190136,Noord
+47,Wadden,420,,,Noord-Oost,NO,Strukton Rail,Kunstwerken,9834253542.66689,454561.202773999,Noord
+62,Gelre,400,,,Noord-Oost,NO,ASSET Rail,Kunstwerken,2270327830.37269,402910.301701109,Oost
+67,Amstelsepoort,230,,,Randstad Noord,RN,Strukton Rail,Kunstwerken,1738515903.7748,213942.291050319,Midden
+73,Veluwe,430,,,Noord-Oost,NO,Strukton Rail,Kunstwerken,2446994282.27435,252966.215952472,Oost
+84,Brabant,330,,,Zuid,Z,ASSET Rail,Kunstwerken,1917422441.3101,351247.784631714,Zuid-West
+86,Betuwe,320,,,Zuid,Z,Strukton Rail,Kunstwerken,1501157657.52005,243560.491392696,Zuid-West
+93,Twente,410,,,Noord-Oost,NO,VolkerRail,Kunstwerken,1826940064.9546,256853.026876353,Oost
+101,Hollands Noorderkwartier,210,,,Randstad Noord,RN,VolkerRail,Kunstwerken,4574779616.71055,287176.683856775,Noord-West
+112,Rotterdam,120,,,Randstad Zuid,RZ,VolkerRail,Kunstwerken,230495289.8752,119870.767321358,Zuid-Holland Zuid
+115,De Peel,300,,,Zuid,Z,ASSET Rail,Kunstwerken,1946499625.25505,227093.391017048,Zuid-Oost
+122,Eemland,200,,,Randstad Noord,RN,ASSET Rail,Kunstwerken,759602012.29485,132486.012210083,Midden
+127,Zeeland,310,,,Zuid,Z,Strukton Rail,Kunstwerken,5095813349.688,426244.072380946,Zuid-West
+128,Amsterdam,220,,,Randstad Noord,RN,VolkerRail,Kunstwerken,87808720.0978,44825.410485728,Midden
+136,Den Haag,110,,,Randstad Zuid,RZ,VolkerRail,Kunstwerken,674117499.80135,153040.731517668,Zuid-Holland Noord
+138,Rijn en Gouwe,100,,,Randstad Zuid,RZ,BAM Rail,Kunstwerken,722475655.2533,175745.047381788,Zuid-Holland Noord

@@ -1,0 +1,176 @@
+,MeldPeriodeJAAR,R_strategie,primair,EURAL_EURAL_2_cijfer_benaming,Geproduceerd afval (in KG),Verwerkt afval (in KG)
+0,2016,Opslag_overslag,False,Afval van anorganische chemische processen,379010.0,
+1,2016,Opslag_overslag,False,"Afval van bereiding, formulering, levering en gebruik (BFLG) van coatings (verf, lak en email), lijm, kit en drukinkt",698060.0,1163733.0
+2,2016,Opslag_overslag,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",56121344.0,70003338.0
+3,2016,Opslag_overslag,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",2759901.0,53359.0
+4,2016,Opslag_overslag,False,"Afval van olieraffinage, aardgaszuivering en de pyrolytische behandeling van kool",7430.0,
+5,2016,Opslag_overslag,False,Afval van organische chemische processen,4856715.0,4186411.0
+6,2016,Opslag_overslag,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),647040428.0,467489046.0
+7,2016,Opslag_overslag,False,Niet elders in de lijst genoemd afval,1171103.0,4682512.0
+8,2016,Opslag_overslag,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",78675810.0,87780176.0
+9,2016,Opslag_overslag,False,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",2161330.0,4301330.0
+10,2016,Opslag_overslag,True,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",24380.0,497840.0
+11,2016,Opslag_overslag,True,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",154420.0,3502360.0
+12,2016,Opslag_overslag,True,Afval van organische chemische processen,422995.0,
+13,2016,Opslag_overslag,True,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),28983790.0,74637179.0
+14,2016,Opslag_overslag,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",107290178.0,139802017.0
+15,2016,R5-Recycle,False,"Afval van bereiding, formulering, levering en gebruik (BFLG) van coatings (verf, lak en email), lijm, kit en drukinkt",115351.0,
+16,2016,R5-Recycle,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,4029376.0,
+17,2016,R5-Recycle,False,"Afval van houtbewerking en de productie van panelen en meubelen alsmede pulp, papier en karton",106094.0,
+18,2016,R5-Recycle,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",186313322.0,445404876.0
+19,2016,R5-Recycle,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",84367492.0,118321025.0
+20,2016,R5-Recycle,False,Afval van organische chemische processen,1074668.0,
+21,2016,R5-Recycle,False,Afval van thermische processen,12953180.0,13438860.0
+22,2016,R5-Recycle,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),838350783.0,960340195.0
+23,2016,R5-Recycle,False,Niet elders in de lijst genoemd afval,1979176.0,58779882.0
+24,2016,R5-Recycle,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",75817214.0,367123770.0
+25,2016,R5-Recycle,False,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",3507961.0,
+26,2016,R5-Recycle,True,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",5789360.0,
+27,2016,R5-Recycle,True,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),699022018.0,1064923711.0
+28,2016,R5-Recycle,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",87742125.0,100643152.0
+29,2016,R6-Recover,False,Afval van de gezondheidszorg bij mens of dier en/of verwant onderzoek (exclusief keuken- en restaurantafval dat niet rechtstreeks van de gezondheidszorg afkomstig is),4801974.0,
+30,2016,R6-Recover,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",234285568.0,
+31,2016,R6-Recover,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",102734420.0,
+32,2016,R6-Recover,True,Afval van de gezondheidszorg bij mens of dier en/of verwant onderzoek (exclusief keuken- en restaurantafval dat niet rechtstreeks van de gezondheidszorg afkomstig is),382020.0,
+33,2016,R6-Recover,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",222369890.0,
+34,2016,Verlies,False,Afval van anorganische chemische processen,230659.0,
+35,2016,Verlies,False,Afval van de gezondheidszorg bij mens of dier en/of verwant onderzoek (exclusief keuken- en restaurantafval dat niet rechtstreeks van de gezondheidszorg afkomstig is),6760.0,
+36,2016,Verlies,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,919200.0,
+37,2016,Verlies,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",171484368.0,19594490.0
+38,2016,Verlies,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",81182982.0,
+39,2016,Verlies,False,Afval van organische chemische processen,1382300.0,
+40,2016,Verlies,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),9455448.0,
+41,2016,Verlies,False,Niet elders in de lijst genoemd afval,48906510.0,40624770.0
+42,2016,Verlies,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",13406056.0,
+43,2017,Opslag_overslag,False,Afval van anorganische chemische processen,255878.0,
+44,2017,Opslag_overslag,False,"Afval van bereiding, formulering, levering en gebruik (BFLG) van coatings (verf, lak en email), lijm, kit en drukinkt",553442.0,1018931.0
+45,2017,Opslag_overslag,False,Afval van de gezondheidszorg bij mens of dier en/of verwant onderzoek (exclusief keuken- en restaurantafval dat niet rechtstreeks van de gezondheidszorg afkomstig is),8444.0,43820.0
+46,2017,Opslag_overslag,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,677618.0,22436804.0
+47,2017,Opslag_overslag,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",75594324.0,61001814.0
+48,2017,Opslag_overslag,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",2501033.0,10763.0
+49,2017,Opslag_overslag,False,Afval van organische chemische processen,4500542.0,2502137.0
+50,2017,Opslag_overslag,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),609564818.0,661648974.0
+51,2017,Opslag_overslag,False,Niet elders in de lijst genoemd afval,970968.0,3776284.0
+52,2017,Opslag_overslag,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",87005288.0,97640903.0
+53,2017,Opslag_overslag,False,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",2613232.0,4510325.0
+54,2017,Opslag_overslag,True,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",1376020.0,2241760.0
+55,2017,Opslag_overslag,True,Afval van organische chemische processen,315741.0,
+56,2017,Opslag_overslag,True,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),28327174.0,73946208.0
+57,2017,Opslag_overslag,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",97698237.0,124082999.0
+58,2017,R5-Recycle,False,"Afval van bereiding, formulering, levering en gebruik (BFLG) van coatings (verf, lak en email), lijm, kit en drukinkt",273977.0,
+59,2017,R5-Recycle,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,4775408.0,
+60,2017,R5-Recycle,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",164476922.0,442277933.0
+61,2017,R5-Recycle,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",76133318.0,79604600.0
+62,2017,R5-Recycle,False,Afval van organische chemische processen,807874.0,
+63,2017,R5-Recycle,False,Afval van thermische processen,11658740.0,22317000.0
+64,2017,R5-Recycle,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),804624315.0,993402315.0
+65,2017,R5-Recycle,False,Niet elders in de lijst genoemd afval,1258146.0,70625738.0
+66,2017,R5-Recycle,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",93501173.0,374947220.0
+67,2017,R5-Recycle,False,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",4689119.0,
+68,2017,R5-Recycle,True,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",5408510.0,
+69,2017,R5-Recycle,True,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),725803343.0,1302455472.0
+70,2017,R5-Recycle,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",109316393.0,136132515.0
+71,2017,R6-Recover,False,Afval van de gezondheidszorg bij mens of dier en/of verwant onderzoek (exclusief keuken- en restaurantafval dat niet rechtstreeks van de gezondheidszorg afkomstig is),4333800.0,
+72,2017,R6-Recover,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",194259410.0,
+73,2017,R6-Recover,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",122664002.0,
+74,2017,R6-Recover,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",216763160.0,277972900.0
+75,2017,Verlies,False,Afval van anorganische chemische processen,250657.0,
+76,2017,Verlies,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,884680.0,
+77,2017,Verlies,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",134150002.0,22516700.0
+78,2017,Verlies,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",87837940.0,
+79,2017,Verlies,False,Afval van organische chemische processen,1018820.0,
+80,2017,Verlies,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),7417320.0,
+81,2017,Verlies,False,Niet elders in de lijst genoemd afval,51909736.0,51104796.0
+82,2017,Verlies,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",25107055.0,
+83,2018,Opslag_overslag,False,Afval van anorganische chemische processen,249863.0,
+84,2018,Opslag_overslag,False,"Afval van bereiding, formulering, levering en gebruik (BFLG) van coatings (verf, lak en email), lijm, kit en drukinkt",445845.0,845942.0
+85,2018,Opslag_overslag,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,1641305.0,
+86,2018,Opslag_overslag,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",106685020.0,53274804.0
+87,2018,Opslag_overslag,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",3239727.0,37562.0
+88,2018,Opslag_overslag,False,Afval van organische chemische processen,4960921.0,2152859.0
+89,2018,Opslag_overslag,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),649532569.0,736763935.0
+90,2018,Opslag_overslag,False,Niet elders in de lijst genoemd afval,3037444.0,6611718.0
+91,2018,Opslag_overslag,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",81864395.0,220500888.0
+92,2018,Opslag_overslag,False,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",2958308.0,3874559.0
+93,2018,Opslag_overslag,True,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",70680.0,5282960.0
+94,2018,Opslag_overslag,True,Afval van organische chemische processen,291499.0,
+95,2018,Opslag_overslag,True,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),24933189.0,73636759.0
+96,2018,Opslag_overslag,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",86444703.0,121728430.0
+97,2018,R5-Recycle,False,"Afval van bereiding, formulering, levering en gebruik (BFLG) van coatings (verf, lak en email), lijm, kit en drukinkt",241973.0,
+98,2018,R5-Recycle,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,3872265.0,
+99,2018,R5-Recycle,False,"Afval van houtbewerking en de productie van panelen en meubelen alsmede pulp, papier en karton",20440.0,
+100,2018,R5-Recycle,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",168704577.0,344939369.0
+101,2018,R5-Recycle,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",73056991.0,71511262.0
+102,2018,R5-Recycle,False,Afval van organische chemische processen,707836.0,
+103,2018,R5-Recycle,False,Afval van thermische processen,1341660.0,
+104,2018,R5-Recycle,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),604383695.0,774029062.0
+105,2018,R5-Recycle,False,Niet elders in de lijst genoemd afval,1942766.0,
+106,2018,R5-Recycle,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",221790121.0,572947462.0
+107,2018,R5-Recycle,False,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",4788373.0,
+108,2018,R5-Recycle,True,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",7445062.0,
+109,2018,R5-Recycle,True,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),628349477.0,1200073676.0
+110,2018,R5-Recycle,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",122703980.0,177094575.0
+111,2018,R6-Recover,False,Afval van de gezondheidszorg bij mens of dier en/of verwant onderzoek (exclusief keuken- en restaurantafval dat niet rechtstreeks van de gezondheidszorg afkomstig is),4130640.0,
+112,2018,R6-Recover,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",125153090.0,
+113,2018,R6-Recover,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",149646830.0,
+114,2018,R6-Recover,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",115687810.0,187803130.0
+115,2018,Verlies,False,Afval van anorganische chemische processen,379379.0,
+116,2018,Verlies,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,1016440.0,
+117,2018,Verlies,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",139168105.0,12883520.0
+118,2018,Verlies,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",79642740.0,96229760.0
+119,2018,Verlies,False,Afval van organische chemische processen,2108136.0,
+120,2018,Verlies,False,Afval van thermische processen,15055.0,
+121,2018,Verlies,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),3338420.0,
+122,2018,Verlies,False,Niet elders in de lijst genoemd afval,58562483.0,56864614.0
+123,2018,Verlies,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",32376585.0,
+124,2019,Opslag_overslag,False,Afval van anorganische chemische processen,157579.0,134642.0
+125,2019,Opslag_overslag,False,"Afval van bereiding, formulering, levering en gebruik (BFLG) van coatings (verf, lak en email), lijm, kit en drukinkt",481720.0,479422.0
+126,2019,Opslag_overslag,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,387606.0,14461736.0
+127,2019,Opslag_overslag,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",103202202.0,138854035.0
+128,2019,Opslag_overslag,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",1510616.0,826100.0
+129,2019,Opslag_overslag,False,Afval van organische chemische processen,2662006.0,903965.0
+130,2019,Opslag_overslag,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),492034387.0,502808264.0
+131,2019,Opslag_overslag,False,Niet elders in de lijst genoemd afval,1878936.0,6665569.0
+132,2019,Opslag_overslag,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",73444869.0,197399038.0
+133,2019,Opslag_overslag,False,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",4509646.0,5142395.0
+134,2019,Opslag_overslag,True,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",46660.0,
+135,2019,Opslag_overslag,True,Afval van organische chemische processen,420210.0,
+136,2019,Opslag_overslag,True,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),32607519.0,70456104.0
+137,2019,Opslag_overslag,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",63821231.0,130106112.0
+138,2019,R5-Recycle,False,"Afval van bereiding, formulering, levering en gebruik (BFLG) van coatings (verf, lak en email), lijm, kit en drukinkt",88486.0,
+139,2019,R5-Recycle,False,Afval van de machinale bewerking en de fysische en mechanische oppervlaktebehandeling van metalen en kunststoffen,5320540.0,
+140,2019,R5-Recycle,False,"Afval van houtbewerking en de productie van panelen en meubelen alsmede pulp, papier en karton",12880.0,
+141,2019,R5-Recycle,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",229524064.0,367498452.0
+142,2019,R5-Recycle,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",78268491.0,72219642.0
+143,2019,R5-Recycle,False,Afval van organische chemische processen,209859.0,
+144,2019,R5-Recycle,False,Afval van thermische processen,228935.0,
+145,2019,R5-Recycle,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),753037625.0,957289185.0
+146,2019,R5-Recycle,False,Niet elders in de lijst genoemd afval,2571902.0,
+147,2019,R5-Recycle,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",239009110.0,580839976.0
+148,2019,R5-Recycle,False,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",6148772.0,
+149,2019,R5-Recycle,True,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",3826020.0,5420000.0
+150,2019,R5-Recycle,True,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),568710297.0,988344789.0
+151,2019,R5-Recycle,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",97603011.0,175351149.0
+152,2019,R6-Recover,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",133734780.0,
+153,2019,R6-Recover,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",131848360.0,345209664.0
+154,2019,R6-Recover,True,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",87375580.0,137372366.0
+155,2019,Verlies,False,Afval van anorganische chemische processen,241780.0,
+156,2019,Verlies,False,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",87588371.0,18930238.0
+157,2019,Verlies,False,"Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en -verwerking",84839060.0,92136880.0
+158,2019,Verlies,False,Bouw- en sloopafval (inclusief afgegraven grond van verontreinigde locaties),34330958.0,
+159,2019,Verlies,False,Niet elders in de lijst genoemd afval,87860345.0,72330005.0
+160,2019,Verlies,False,"Stedelijk afval (huishoudelijk afval en soortgelijk bedrijfsafval, industrieel afval en afval van instellingen), inclusief gescheiden ingezamelde fracties",19821824.0,
+161,2019,Verlies,False,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",2153.0,
+201,2016,Opslag_overslag,True,Afval van de gezondheidszorg bij mens of dier en/of verwant onderzoek (exclusief keuken- en restaurantafval dat niet rechtstreeks van de gezondheidszorg afkomstig is),,301460.0
+202,2016,Opslag_overslag,True,"Verpakkingsafval; absorbentia, poetsdoeken, filtermateriaal en beschermende kleding (niet elders genoemd)",,244780.0
+203,2017,Opslag_overslag,False,"Afval van houtbewerking en de productie van panelen en meubelen alsmede pulp, papier en karton",,602620.0
+204,2017,Opslag_overslag,False,Afval van thermische processen,,113169.0
+205,2017,Opslag_overslag,True,Afval van de gezondheidszorg bij mens of dier en/of verwant onderzoek (exclusief keuken- en restaurantafval dat niet rechtstreeks van de gezondheidszorg afkomstig is),,58480.0
+206,2018,Opslag_overslag,False,Afval van de gezondheidszorg bij mens of dier en/of verwant onderzoek (exclusief keuken- en restaurantafval dat niet rechtstreeks van de gezondheidszorg afkomstig is),,41140.0
+207,2018,Opslag_overslag,False,"Afval van houtbewerking en de productie van panelen en meubelen alsmede pulp, papier en karton",,591472.0
+208,2018,Opslag_overslag,False,Afval van thermische processen,,14529799.0
+209,2018,Opslag_overslag,True,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",,447143.0
+210,2019,Opslag_overslag,False,Afval van thermische processen,,7162079.0
+211,2019,Opslag_overslag,True,"Afval van installaties voor afvalbeheer, off-site waterzuiveringsinstallaties en de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik",,522406.0
+212,2019,Verlies,False,"Afval van bereiding, formulering, levering en gebruik (BFLG) van coatings (verf, lak en email), lijm, kit en drukinkt",,77920.0
+213,2019,Verlies,False,Afval van organische chemische processen,,780800.0

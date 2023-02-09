@@ -1,0 +1,143 @@
+systeem;feitgroep;projcode;mate;aantal;initieelbedrag;;;;;;;A4 (Hoofddorp rechts);KL0601
+WAHV ;Snelheid;19TR05;A tem_10km;6.684;250.083;;;;;;;A4 (Hoofddorp links);KL0602
+WAHV ;Snelheid;19TR05;B 11_tem_15km;896;89.093;;;;;;;A12 (Harmelen - Woerden);KL0603
+WAHV ;Snelheid;19TR05;C 16_tem_20km;374;54.083;;;;;;;A13 (Rotterdam links);KL0604
+WAHV ;Snelheid;19TR05;D 20_tem_25km;191;35.416;;;;;;;A13 (Rotterdam rechts);KL0605
+WAHV ;Snelheid;19TR05;E 25_tem_30km;100;22.433;;;;;;;A20 (Rotterdam links);KL0606
+WAHV ;Snelheid;19TR06;A tem_10km;6.242;237.268;;;;;;;A20 (Rotterdam rechts);KL0607
+WAHV ;Snelheid;19TR06;B 11_tem_15km;707;69.431;;;;;;;A12 (Den Haag-Voorburg links);KL0608
+WAHV ;Snelheid;19TR06;C 16_tem_20km;253;35.949;;;;;;;A12 (Den Haag-Voorburg rechts);KL0609
+WAHV ;Snelheid;19TR06;D 20_tem_25km;142;27.301;;;;;;;A12 (Utrecht hoofdrijbaan links);KL0610
+WAHV ;Snelheid;19TR06;E 25_tem_30km;51;13.664;;;;;;;A12 (Utrecht hoofdrijbaan rechts);KL0611
+WAHV ;Snelheid;KL0601;A tem_10km;50.053;1.208.310;;;;;;;A12 (Utrecht parallelrijbaan links);KL0612
+WAHV ;Snelheid;KL0601;B 11_tem_15km;2.887;245.417;;;;;;;A12 (Utrecht parallelrijbaan rechts);KL0613
+WAHV ;Snelheid;KL0601;C 16_tem_20km;1.279;133.736;;;;;;;A10 (West rechts richting Zaandam);KL0614
+WAHV ;Snelheid;KL0601;D 20_tem_25km;560;70.366;;;;;;;A10 (West links richting Amstelveen);KL0615
+WAHV ;Snelheid;KL0601;E 25_tem_30km;351;41.205;;;;;;;A58 (Bergen op Zoom - Roosendaal links);KL0618
+WAHV ;Snelheid;KL0601;F 31_tem_39km;269;30.780;;;;;;;A58 (Roosendaal - Bergen op Zoom rechts);KL0619
+WAHV ;Snelheid;KL0602;A tem_10km;103.967;2.738.968;;;;;;;A2 (Utrecht - Amsterdam links);KL0620
+WAHV ;Snelheid;KL0602;B 11_tem_15km;5.952;539.726;;;;;;;A2 (Amsterdam - Utrecht rechts);KL0621
+WAHV ;Snelheid;KL0602;C 16_tem_20km;2.339;272.694;;;;;;;A4 (Den Haag - Amsterdam) Leidschendam links;KL0622
+WAHV ;Snelheid;KL0602;D 20_tem_25km;1.083;159.992;;;;;;;A4 (Amsterdam - Den Haag) Leidschedam recht;KL0623
+WAHV ;Snelheid;KL0602;E 25_tem_30km;605;98.788;;;;;;;A2 (Maastricht A2 en N2 rechts);KL0624
+WAHV ;Snelheid;KL0602;F 31_tem_39km;439;67.519;;;;;;;A2 (Maastricht A2 en N2 links);KL0625
+WAHV ;Snelheid;KL0604;A tem_10km;55.262;1.821.389;;;;;;;;
+WAHV ;Snelheid;KL0604;B 11_tem_15km;7.878;653.118;;;;;;;;
+WAHV ;Snelheid;KL0604;C 16_tem_20km;3.179;354.643;;;;;;;Zeeland: Westerscheldetunnel westbuis;19TR05
+WAHV ;Snelheid;KL0604;D 20_tem_25km;995;138.844;;;;;;;Zeeland: Westerscheldetunnel oostbuis;19TR06
+WAHV ;Snelheid;KL0604;E 25_tem_30km;506;72.455;;;;;;;;
+WAHV ;Snelheid;KL0604;F 31_tem_39km;370;66.131;;;;;;;;
+WAHV ;Snelheid;KL0605;A tem_10km;23.802;778.248;;;;;;;;
+WAHV ;Snelheid;KL0605;B 11_tem_15km;3.301;274.184;;;;;;;;
+WAHV ;Snelheid;KL0605;C 16_tem_20km;1.291;146.043;;;;;;;;
+WAHV ;Snelheid;KL0605;D 20_tem_25km;423;57.181;;;;;;;;
+WAHV ;Snelheid;KL0605;E 25_tem_30km;216;29.159;;;;;;;;
+WAHV ;Snelheid;KL0605;F 31_tem_39km;199;32.435;;;;;;;;
+WAHV ;Snelheid;KL0606;A tem_10km;64.746;2.204.942;;;;;;;;
+WAHV ;Snelheid;KL0606;B 11_tem_15km;8.531;763.812;;;;;;;;
+WAHV ;Snelheid;KL0606;C 16_tem_20km;3.537;440.231;;;;;;;;
+WAHV ;Snelheid;KL0606;D 20_tem_25km;1.109;175.348;;;;;;;;
+WAHV ;Snelheid;KL0606;E 25_tem_30km;575;98.808;;;;;;;;
+WAHV ;Snelheid;KL0606;F 31_tem_39km;442;78.238;;;;;;;;
+WAHV ;Snelheid;KL0607;A tem_10km;79.916;2.685.492;;;;;;;;
+WAHV ;Snelheid;KL0607;B 11_tem_15km;9.499;843.392;;;;;;;;
+WAHV ;Snelheid;KL0607;C 16_tem_20km;3.639;446.834;;;;;;;;
+WAHV ;Snelheid;KL0607;D 20_tem_25km;1.142;175.335;;;;;;;;
+WAHV ;Snelheid;KL0607;E 25_tem_30km;578;96.093;;;;;;;;
+WAHV ;Snelheid;KL0607;F 31_tem_39km;497;87.121;;;;;;;;
+WAHV ;Snelheid;KL0608;A tem_10km;51.965;1.750.869;;;;;;;;
+WAHV ;Snelheid;KL0608;B 11_tem_15km;6.194;536.944;;;;;;;;
+WAHV ;Snelheid;KL0608;C 16_tem_20km;2.164;253.508;;;;;;;;
+WAHV ;Snelheid;KL0608;D 20_tem_25km;666;101.696;;;;;;;;
+WAHV ;Snelheid;KL0608;E 25_tem_30km;293;47.640;;;;;;;;
+WAHV ;Snelheid;KL0608;F 31_tem_39km;206;37.366;;;;;;;;
+WAHV ;Snelheid;KL0609;A tem_10km;34.972;1.205.531;;;;;;;;
+WAHV ;Snelheid;KL0609;B 11_tem_15km;4.769;411.985;;;;;;;;
+WAHV ;Snelheid;KL0609;C 16_tem_20km;1.540;186.677;;;;;;;;
+WAHV ;Snelheid;KL0609;D 20_tem_25km;611;92.621;;;;;;;;
+WAHV ;Snelheid;KL0609;E 25_tem_30km;322;54.333;;;;;;;;
+WAHV ;Snelheid;KL0609;F 31_tem_39km;177;35.739;;;;;;;;
+WAHV ;Snelheid;KL0610;A tem_10km;51.191;1.790.334;;;;;;;;
+WAHV ;Snelheid;KL0610;B 11_tem_15km;5.985;545.421;;;;;;;;
+WAHV ;Snelheid;KL0610;C 16_tem_20km;2.156;280.335;;;;;;;;
+WAHV ;Snelheid;KL0610;D 20_tem_25km;922;161.214;;;;;;;;
+WAHV ;Snelheid;KL0610;E 25_tem_30km;432;89.850;;;;;;;;
+WAHV ;Snelheid;KL0610;F 31_tem_39km;266;69.515;;;;;;;;
+WAHV ;Snelheid;KL0611;A tem_10km;85.965;3.066.719;;;;;;;;
+WAHV ;Snelheid;KL0611;B 11_tem_15km;9.635;867.709;;;;;;;;
+WAHV ;Snelheid;KL0611;C 16_tem_20km;3.464;442.147;;;;;;;;
+WAHV ;Snelheid;KL0611;D 20_tem_25km;1.397;242.405;;;;;;;;
+WAHV ;Snelheid;KL0611;E 25_tem_30km;728;146.383;;;;;;;;
+WAHV ;Snelheid;KL0611;F 31_tem_39km;388;93.940;;;;;;;;
+WAHV ;Snelheid;KL0612;A tem_10km;79.057;2.836.742;;;;;;;;
+WAHV ;Snelheid;KL0612;B 11_tem_15km;14.802;1.370.768;;;;;;;;
+WAHV ;Snelheid;KL0612;C 16_tem_20km;6.001;793.479;;;;;;;;
+WAHV ;Snelheid;KL0612;D 20_tem_25km;1.580;274.577;;;;;;;;
+WAHV ;Snelheid;KL0612;E 25_tem_30km;702;143.611;;;;;;;;
+WAHV ;Snelheid;KL0612;F 31_tem_39km;439;102.743;;;;;;;;
+WAHV ;Snelheid;KL0613;A tem_10km;76.889;2.705.376;;;;;;;;
+WAHV ;Snelheid;KL0613;B 11_tem_15km;12.431;1.149.549;;;;;;;;
+WAHV ;Snelheid;KL0613;C 16_tem_20km;5.074;662.202;;;;;;;;
+WAHV ;Snelheid;KL0613;D 20_tem_25km;1.363;239.698;;;;;;;;
+WAHV ;Snelheid;KL0613;E 25_tem_30km;531;108.344;;;;;;;;
+WAHV ;Snelheid;KL0613;F 31_tem_39km;322;80.236;;;;;;;;
+WAHV ;Snelheid;KL0614;A tem_10km;126.450;4.114.807;;;;;;;;
+WAHV ;Snelheid;KL0614;B 11_tem_15km;15.409;1.301.046;;;;;;;;
+WAHV ;Snelheid;KL0614;C 16_tem_20km;6.154;704.409;;;;;;;;
+WAHV ;Snelheid;KL0614;D 20_tem_25km;1.953;285.193;;;;;;;;
+WAHV ;Snelheid;KL0614;E 25_tem_30km;1.056;171.090;;;;;;;;
+WAHV ;Snelheid;KL0614;F 31_tem_39km;817;150.939;;;;;;;;
+WAHV ;Snelheid;KL0615;A tem_10km;91.541;2.922.679;;;;;;;;
+WAHV ;Snelheid;KL0615;B 11_tem_15km;10.399;851.327;;;;;;;;
+WAHV ;Snelheid;KL0615;C 16_tem_20km;4.163;451.020;;;;;;;;
+WAHV ;Snelheid;KL0615;D 20_tem_25km;1.296;182.924;;;;;;;;
+WAHV ;Snelheid;KL0615;E 25_tem_30km;668;102.584;;;;;;;;
+WAHV ;Snelheid;KL0615;F 31_tem_39km;545;94.104;;;;;;;;
+WAHV ;Snelheid;KL0618;A tem_10km;39.446;1.265.322;;;;;;;;
+WAHV ;Snelheid;KL0618;B 11_tem_15km;2.788;283.782;;;;;;;;
+WAHV ;Snelheid;KL0618;C 16_tem_20km;1.163;167.828;;;;;;;;
+WAHV ;Snelheid;KL0618;D 20_tem_25km;483;90.024;;;;;;;;
+WAHV ;Snelheid;KL0618;E 25_tem_30km;245;54.577;;;;;;;;
+WAHV ;Snelheid;KL0618;F 31_tem_39km;102;24.393;;;;;;;;
+WAHV ;Snelheid;KL0619;A tem_10km;38.545;1.306.523;;;;;;;;
+WAHV ;Snelheid;KL0619;B 11_tem_15km;2.224;229.110;;;;;;;;
+WAHV ;Snelheid;KL0619;C 16_tem_20km;895;129.470;;;;;;;;
+WAHV ;Snelheid;KL0619;D 20_tem_25km;358;64.155;;;;;;;;
+WAHV ;Snelheid;KL0619;E 25_tem_30km;181;39.775;;;;;;;;
+WAHV ;Snelheid;KL0619;F 31_tem_39km;92;21.479;;;;;;;;
+WAHV ;Snelheid;KL0620;A tem_10km;279.547;9.545.191;;;;;;;;
+WAHV ;Snelheid;KL0620;B 11_tem_15km;49.688;4.279.139;;;;;;;;
+WAHV ;Snelheid;KL0620;C 16_tem_20km;23.140;2.840.291;;;;;;;;
+WAHV ;Snelheid;KL0620;D 20_tem_25km;11.701;1.937.862;;;;;;;;
+WAHV ;Snelheid;KL0620;E 25_tem_30km;6.284;1.231.403;;;;;;;;
+WAHV ;Snelheid;KL0620;F 31_tem_39km;3.897;980.057;;;;;;;;
+WAHV ;Snelheid;KL0621;A tem_10km;206.016;6.904.165;;;;;;;;
+WAHV ;Snelheid;KL0621;B 11_tem_15km;35.573;3.068.718;;;;;;;;
+WAHV ;Snelheid;KL0621;C 16_tem_20km;16.003;1.985.189;;;;;;;;
+WAHV ;Snelheid;KL0621;D 20_tem_25km;8.050;1.336.763;;;;;;;;
+WAHV ;Snelheid;KL0621;E 25_tem_30km;4.169;810.472;;;;;;;;
+WAHV ;Snelheid;KL0621;F 31_tem_39km;2.319;543.823;;;;;;;;
+WAHV ;Snelheid;KL0622;A tem_10km;43.108;1.499.368;;;;;;;;
+WAHV ;Snelheid;KL0622;B 11_tem_15km;5.773;522.995;;;;;;;;
+WAHV ;Snelheid;KL0622;C 16_tem_20km;1.800;234.565;;;;;;;;
+WAHV ;Snelheid;KL0622;D 20_tem_25km;628;110.715;;;;;;;;
+WAHV ;Snelheid;KL0622;E 25_tem_30km;259;51.826;;;;;;;;
+WAHV ;Snelheid;KL0622;F 31_tem_39km;107;23.082;;;;;;;;
+WAHV ;Snelheid;KL0623;A tem_10km;30.706;1.058.370;;;;;;;;
+WAHV ;Snelheid;KL0623;B 11_tem_15km;3.790;340.868;;;;;;;;
+WAHV ;Snelheid;KL0623;C 16_tem_20km;1.226;161.221;;;;;;;;
+WAHV ;Snelheid;KL0623;D 20_tem_25km;493;86.818;;;;;;;;
+WAHV ;Snelheid;KL0623;E 25_tem_30km;186;38.002;;;;;;;;
+WAHV ;Snelheid;KL0623;F 31_tem_39km;80;19.109;;;;;;;;
+WAHV ;Snelheid;KL0624;A tem_10km;43.678;1.654.961;;;;;;;;
+WAHV ;Snelheid;KL0624;B 11_tem_15km;5.100;478.935;;;;;;;;
+WAHV ;Snelheid;KL0624;C 16_tem_20km;1.816;243.755;;;;;;;;
+WAHV ;Snelheid;KL0624;D 20_tem_25km;685;121.052;;;;;;;;
+WAHV ;Snelheid;KL0624;E 25_tem_30km;323;68.977;;;;;;;;
+WAHV ;Snelheid;KL0624;F 31_tem_39km;115;31.920;;;;;;;;
+WAHV ;Snelheid;KL0625;A tem_10km;22.102;800.085;;;;;;;;
+WAHV ;Snelheid;KL0625;B 11_tem_15km;3.309;309.594;;;;;;;;
+WAHV ;Snelheid;KL0625;C 16_tem_20km;1.125;152.696;;;;;;;;
+WAHV ;Snelheid;KL0625;D 20_tem_25km;398;73.320;;;;;;;;
+WAHV ;Snelheid;KL0625;E 25_tem_30km;167;34.398;;;;;;;;
+WAHV ;Snelheid;KL0625;F 31_tem_39km;78;20.320;;;;;;;;

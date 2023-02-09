@@ -1,0 +1,23 @@
+﻿OBJECTID,PGO_GEBIED_NAAM,PGO_GEBIED_NR,OPC_GEBIED_NAAM,OPC_GEBIED_NR,ONDERHOUDSREGIO_NAAM,ONDERHOUDSREGIO_AFKORTING,PCA,TECHNIEKVELD,Shape__Area,Shape__Length,PRORAIL_GEBIED
+2,,,HSL,70,Randstad Zuid,RZ,Infraspeed,Baan,62813770.8019105,203723.04621933,Zuid-Holland Zuid
+8,Limburg,340,,,Zuid,Z,Strukton Rail,Baan,1215511775.2709,315980.703134042,Zuid-Oost
+21,Kennemerland,240,,,Randstad Noord,RN,Strukton Rail,Baan,789278320.745634,152362.707704561,Noord-West
+26,Dordrecht,140,,,Randstad Zuid,RZ,ASSET Rail,Baan,734969108.368513,199203.920338237,Zuid-Holland Zuid
+34,Zee-Zevenaar,130,,,Randstad Zuid,RZ,VolkerRail,Baan,1046578917.61141,405587.637590984,Zee-Zevenaar
+37,Neerlands Midden,250,,,Randstad Noord,RN,ASSET Rail,Baan,675011902.5298,124773.687006104,Midden
+43,Drenthe,440,,,Noord-Oost,NO,ASSET Rail,Baan,4581228054.95089,339201.675310796,Noord
+51,Wadden,420,,,Noord-Oost,NO,Strukton Rail,Baan,9834253587.97538,454561.156253956,Noord
+58,Gelre,400,,,Noord-Oost,NO,ASSET Rail,Baan,2269898164.02351,402339.585112809,Oost
+64,Amstelsepoort,230,,,Randstad Noord,RN,Strukton Rail,Baan,1738515919.23265,213942.305773948,Midden
+77,Veluwe,430,,,Noord-Oost,NO,Strukton Rail,Baan,2447742741.75007,252249.894748683,Oost
+78,Brabant,330,,,Zuid,Z,ASSET Rail,Baan,1917423044.1788,351247.835318551,Zuid-West
+88,Betuwe,320,,,Zuid,Z,Strukton Rail,Baan,1501157058.30718,243560.538683649,Zuid-West
+94,Zeeland,310,,,Zuid,Z,Strukton Rail,Baan,5095813240.46492,426243.996486586,Zuid-West
+103,Eemland,200,,,Randstad Noord,RN,ASSET Rail,Baan,759601991.47185,132485.990246564,Midden
+104,Den Haag,110,,,Randstad Zuid,RZ,VolkerRail,Baan,674213562.45225,151855.831936336,Zuid-Holland Noord
+106,Hollands Noorderkwartier,210,,,Randstad Noord,RN,VolkerRail,Baan,4574779616.03405,287176.683857098,Noord-West
+110,De Peel,300,,,Zuid,Z,ASSET Rail,Baan,1946499444.17205,227097.225367584,Zuid-Oost
+113,Rijn en Gouwe,100,,,Randstad Zuid,RZ,BAM Rail,Baan,722167861.98105,175103.677456304,Zuid-Holland Noord
+121,Rotterdam,120,,,Randstad Zuid,RZ,VolkerRail,Baan,230699962.22775,119327.605937649,Zuid-Holland Zuid
+123,Amsterdam,220,,,Randstad Noord,RN,VolkerRail,Baan,87808720.7743,44825.4104860507,Midden
+150,Twente,410,,,Noord-Oost,NO,VolkerRail,Baan,1826234622.24885,255103.925312234,Oost

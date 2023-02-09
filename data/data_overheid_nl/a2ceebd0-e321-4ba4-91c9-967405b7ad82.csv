@@ -1,0 +1,2000 @@
+﻿ID,SUBTYPE,TIJDSTIP_REGISTRATIE,BGTBRONHOUDERCODE,BGTBRONHOUDER,BGTSTATUS,RELATIEVEHOOGTELIGGING,POSITIONELE_NAUWKEURIGHEID_MM,NAAM,STATUS,OPPERVLAKTE
+3520211,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,4.782
+3520212,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,173.043
+3520213,steiger,2018/11/28 08:47:32+00,G0547,Leiderdorp,bestaand,1,283,,,30.882
+3520214,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,27.516
+3520215,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,358.723
+3520217,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,53.982
+3520219,steiger,2013/09/10 10:07:59+00,G0599,Rotterdam,bestaand,1,283,,,21.612
+3520222,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3520224,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,1525.634
+3520225,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3520226,steiger,2017/02/24 20:45:22+00,G0546,Leiden,bestaand,1,283,,,1.94
+3520236,steiger,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,1,283,,,8.812
+3520237,steiger,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,1,283,,,39.04
+3520238,steiger,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,1,283,,,3.535
+3520246,steiger,2022/03/15 13:54:08+00,G0479,Zaanstad,bestaand,1,283,,,3.801
+3520247,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,95.129
+3520248,steiger,2022/03/15 13:54:08+00,G0479,Zaanstad,bestaand,1,283,,,3.436
+3520249,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,337.089
+3520250,stuw,2022/11/22 17:39:19+00,W0663,Waterschap Vechtstromen,bestaand,-1,283,,,0.24
+3520254,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,7.07
+3520256,strekdam,2014/10/02 08:58:03+00,G0599,Rotterdam,bestaand,0,283,,,1561.337
+3520257,steiger,2014/09/19 14:49:39+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,4.272
+3520258,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,394.147
+3520261,stuw,2016/11/22 09:46:35+00,G0400,,bestaand,0,283,,,2.7
+3520262,stuw,2016/11/22 09:46:35+00,G0400,,bestaand,0,283,,,2.824
+3520263,steiger,2020/03/31 10:17:12+00,G0599,Rotterdam,bestaand,1,283,,,34.16
+3520264,niet-bgt: vispassage,2020/04/06 10:47:41+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,74.116
+3520265,niet-bgt: vispassage,2020/04/06 10:47:41+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,16.121
+3520266,steiger,2020/04/10 09:43:08+00,G0363,Amsterdam,bestaand,1,283,,,12.499
+3520267,steiger,2015/10/12 08:25:54+00,G0518,'s-Gravenhage,bestaand,1,283,,,6.521
+3520268,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,16.595
+3520269,steiger,2015/10/12 08:25:58+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.823
+3520270,steiger,2015/10/12 08:26:21+00,G0518,'s-Gravenhage,bestaand,1,283,,,121.269
+3520271,steiger,2015/10/12 08:26:21+00,G0518,'s-Gravenhage,bestaand,1,283,,,0.504
+3520272,steiger,2015/10/12 08:25:55+00,G0518,'s-Gravenhage,bestaand,1,283,,,2.79
+3520273,steiger,2015/10/12 08:25:57+00,G0518,'s-Gravenhage,bestaand,1,283,,,1.764
+3520274,steiger,2015/10/12 08:27:10+00,G0518,'s-Gravenhage,bestaand,1,283,,,2.557
+3520275,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,14.175
+3520276,steiger,2015/10/12 08:25:57+00,G0518,'s-Gravenhage,bestaand,1,283,,,3.374
+3520277,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,7.964
+3520278,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,185.759
+3520280,gemaal,2022/09/26 13:47:56+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,31.13
+3520282,gemaal,2022/03/30 09:50:53+00,G1892,Zuidplas,bestaand,0,283,,,3.063
+3520283,steiger,2015/09/22 09:33:46+00,G1700,Twenterand,bestaand,1,283,,,13.883
+3520284,steiger,2015/09/22 09:33:46+00,G1700,Twenterand,bestaand,1,283,,,12.685
+3520286,stuw,2022/05/25 06:29:34+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,15.947
+3520287,stuw,2022/05/24 15:25:04+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,31.908
+3520290,stuw,2022/05/24 15:25:04+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,31.452
+3520291,stuw,2022/03/21 15:46:15+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,21.493
+3520304,gemaal,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,0,283,,,2.948
+3520306,steiger,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,1,283,,,43.926
+3520308,steiger,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,1,283,,,13.875
+3520313,niet-bgt: ponton,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,415.743
+3520314,gemaal,2015/07/06 12:37:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,4.017
+3520315,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,95.037
+3520316,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,419.08
+3520317,steiger,2019/01/04 10:01:22+00,G0363,Amsterdam,bestaand,1,283,,,316.134
+3520318,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,101.456
+3520320,steiger,2019/02/20 13:27:28+00,G0479,Zaanstad,bestaand,1,283,,,26.031
+3520321,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,4234.254
+3520323,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.137
+3520324,steiger,2022/07/13 08:03:37+00,G0518,'s-Gravenhage,bestaand,2,283,,,27.859
+3520325,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,0.9
+3520326,steiger,2015/10/12 08:27:26+00,G0518,'s-Gravenhage,bestaand,1,283,,,1
+3520327,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.312
+3520328,steiger,2015/10/12 08:27:19+00,G0518,'s-Gravenhage,bestaand,1,283,,,4.57
+3520329,steiger,2015/10/12 08:25:55+00,G0518,'s-Gravenhage,bestaand,1,283,,,1.752
+3520330,steiger,2015/10/12 08:25:55+00,G0518,'s-Gravenhage,bestaand,1,283,,,1.842
+3520331,steiger,2015/10/12 08:26:23+00,G0518,'s-Gravenhage,bestaand,1,283,,,4.247
+3520332,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.131
+3520333,steiger,2015/10/12 08:25:57+00,G0518,'s-Gravenhage,bestaand,1,283,,,2.807
+3520334,steiger,2015/10/12 08:26:00+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.737
+3520335,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,12.917
+3520336,steiger,2015/10/12 08:25:57+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.58
+3520337,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.918
+3520338,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,12.856
+3520339,steiger,2015/10/12 08:25:57+00,G0518,'s-Gravenhage,bestaand,1,283,,,187.382
+3520340,steiger,2015/10/12 08:25:58+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.517
+3520341,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.232
+3520343,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,12.154
+3520344,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,2.465
+3520345,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,33.456
+3520346,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,124.042
+3520347,stuw,2022/12/16 10:19:45+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,9.047
+3520348,stuw,2015/05/07 12:59:00+00,G0405,,bestaand,0,283,,,6.81
+3520349,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,38.717
+3520350,stuw,2019/03/18 08:01:26+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,3.409
+3520351,stuw,2015/05/07 12:59:00+00,G0405,,bestaand,0,283,,,6.151
+3520352,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,78.994
+3520356,hoogspanningsmast,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,0,283,,,21.843
+3520364,stuw,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,0,283,,,4.956
+3520369,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,6241.372
+3520370,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,33.97
+3520372,gemaal,2019/10/23 08:50:37+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,1.96
+3520373,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3520374,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,10.022
+3520376,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,69.714
+3520378,hoogspanningsmast,2019/10/23 02:24:49+00,G0678,Kapelle,bestaand,0,283,,,1.44
+3520379,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,184.532
+3520380,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,124.735
+3520381,steiger,2015/11/16 17:11:17+00,G0502,Capelle aan den IJssel,bestaand,1,283,,,41.468
+3520383,hoogspanningsmast,2015/10/16 07:18:07+00,G0505,Dordrecht,bestaand,0,283,,,314.61
+3520384,steiger,2017/02/06 11:45:49+00,G0599,Rotterdam,bestaand,1,283,,,4.607
+3520385,hoogspanningsmast,2017/01/25 18:17:49+00,G0855,Tilburg,bestaand,0,283,,,2.561
+3520386,hoogspanningsmast,2015/10/16 07:18:07+00,G0505,Dordrecht,bestaand,0,283,,,24.267
+3520387,hoogspanningsmast,2017/01/25 18:17:49+00,G0855,Tilburg,bestaand,0,283,,,12.983
+3520388,gemaal,2020/02/20 03:28:31+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,3.645
+3520389,stuw,2020/02/12 04:08:22+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.823
+3520390,hoogspanningsmast,2017/01/25 18:17:49+00,G0855,Tilburg,bestaand,0,283,,,1.283
+3520391,gemaal,2020/02/12 04:08:22+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,2.027
+3520392,stuw,2017/11/23 09:34:15+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,4.718
+3520393,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,77.41
+3520394,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,6.937
+3520395,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,79.355
+3520396,stuw,2020/11/19 23:53:25+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.096
+3520397,stuw,2015/05/07 12:59:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,1.312
+3520398,steiger,2015/05/07 12:59:00+00,G0405,,bestaand,1,283,,,37.958
+3520399,steiger,2018/07/23 11:59:24+00,G0396,,bestaand,1,283,,,15.574
+3520400,steiger,2015/11/11 08:53:04+00,G0396,,bestaand,1,283,,,7.776
+3520401,steiger,2015/11/11 08:53:04+00,G0396,,bestaand,1,283,,,62.695
+3520402,hoogspanningsmast,2016/12/15 16:26:14+00,G0268,Nijmegen,bestaand,0,283,,,94.719
+3520403,steiger,2017/01/05 10:56:52+00,G0599,Rotterdam,bestaand,1,283,,,1.944
+3520405,niet-bgt: keermuur,2016/06/21 07:05:01+00,P0025,Gelderland,bestaand,0,283,,,3.998
+3520406,gemaal,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,0,283,,,2.178
+3520412,hoogspanningsmast,2015/11/06 09:11:47+00,G0505,Dordrecht,bestaand,0,283,,,3.573
+3520422,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,443.377
+3520423,hoogspanningsmast,2019/10/23 02:24:49+00,G0678,Kapelle,bestaand,0,283,,,1.44
+3520425,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,24.079
+3520426,hoogspanningsmast,2019/10/23 02:24:49+00,G0678,Kapelle,bestaand,0,283,,,1.44
+3520427,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,787.933
+3520428,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,31.002
+3520429,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,30.123
+3520431,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,35.731
+3520433,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,3.845
+3520434,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3520435,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,22.784
+3520436,steiger,2014/09/19 14:49:39+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,10.378
+3520437,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,0.645
+3520438,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3520440,hoogspanningsmast,2015/10/16 07:18:07+00,G0505,Dordrecht,bestaand,0,283,,,16.77
+3520442,steiger,2019/04/26 15:04:32+00,G0505,Dordrecht,bestaand,1,283,,,30.856
+3520443,hoogspanningsmast,2017/01/25 18:17:49+00,G0855,Tilburg,bestaand,0,283,,,1.283
+3520444,hoogspanningsmast,2017/01/25 18:17:49+00,G0855,Tilburg,bestaand,0,283,,,1.283
+3520445,hoogspanningsmast,2017/07/12 14:40:50+00,G0505,Dordrecht,bestaand,0,283,,,16.281
+3520446,steiger,2021/08/25 08:04:43+00,G0505,Dordrecht,bestaand,1,283,,,88.186
+3520448,hoogspanningsmast,2015/10/16 07:18:07+00,G0505,Dordrecht,bestaand,0,283,,,5.553
+3520451,hoogspanningsmast,2015/10/16 07:18:07+00,G0505,Dordrecht,bestaand,0,283,,,18.736
+3520452,steiger,2017/03/31 06:51:04+00,G0505,Dordrecht,bestaand,1,283,,,40.01
+3520453,niet-bgt: keermuur,2015/08/07 11:00:46+00,P0025,Gelderland,bestaand,0,283,,,1.312
+3520454,steiger,2020/10/08 17:45:27+00,G0532,Stede Broec,bestaand,1,283,,,17.903
+3520456,niet-bgt: keermuur,2014/11/06 10:09:50+00,P0025,Gelderland,bestaand,0,283,,,29.869
+3520457,niet-bgt: keermuur,2015/02/17 09:55:37+00,P0025,Gelderland,bestaand,0,283,,,2.251
+3520460,niet-bgt: keermuur,2015/06/03 09:18:04+00,P0025,Gelderland,bestaand,0,283,,,4.016
+3520461,niet-bgt: keermuur,2021/09/01 13:18:45+00,P0025,Gelderland,bestaand,-1,283,,,24.919
+3520462,niet-bgt: keermuur,2019/08/08 10:33:05+00,P0025,Gelderland,bestaand,0,283,,,2.444
+3520464,stuw,2016/11/09 12:16:14+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,0.765
+3520465,niet-bgt: keermuur,2015/02/17 09:55:37+00,P0025,Gelderland,bestaand,-1,283,,,3.62
+3520467,steiger,2016/11/09 12:16:14+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,9.326
+3520468,stuw,2020/09/08 15:08:44+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,0.789
+3520469,steiger,2020/10/08 17:45:27+00,G0532,Stede Broec,bestaand,1,283,,,35.374
+3520470,steiger,2021/01/26 10:19:47+00,G0532,Stede Broec,bestaand,1,283,,,10.927
+3520474,steiger,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,1,283,,,5.927
+3520477,steiger,2015/10/20 09:02:30+00,G0505,Dordrecht,bestaand,1,283,,,5.602
+3520479,steiger,2015/10/20 09:02:30+00,G0505,Dordrecht,bestaand,1,283,,,48.241
+3520486,stuw,2019/02/06 11:34:50+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.416
+3520490,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,2.501
+3520491,steiger,2023/02/02 09:55:21+00,G0546,Leiden,bestaand,1,283,,,29.144
+3520492,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,4.823
+3520493,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,2310.193
+3520494,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,40.143
+3520496,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.092
+3520497,gemaal,2014/10/14 11:03:30+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,3.031
+3520498,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.156
+3520499,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.149
+3520500,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.163
+3520501,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.317
+3520502,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.309
+3520503,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.092
+3520504,steiger,2019/04/26 15:04:32+00,G0505,Dordrecht,bestaand,1,283,,,30.799
+3520506,hoogspanningsmast,2017/01/25 18:17:49+00,G0855,Tilburg,bestaand,0,283,,,2.328
+3520507,hoogspanningsmast,2015/10/16 07:18:07+00,G0505,Dordrecht,bestaand,0,283,,,3.141
+3520508,steiger,2019/04/26 15:04:32+00,G0505,Dordrecht,bestaand,1,283,,,28.402
+3520509,hoogspanningsmast,2015/10/16 07:18:07+00,G0505,Dordrecht,bestaand,0,283,,,5.618
+3520511,steiger,2019/04/29 11:26:38+00,G0627,Waddinxveen,bestaand,1,283,,,82.606
+3520512,gemaal,2018/10/03 14:29:03+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,38.445
+3520513,steiger,2017/03/31 06:51:04+00,G0505,Dordrecht,bestaand,1,283,,,50.566
+3520515,hoogspanningsmast,2017/01/25 18:17:49+00,G0855,Tilburg,bestaand,0,283,,,3.684
+3520519,niet-bgt: keermuur,2021/09/01 13:18:45+00,P0025,Gelderland,bestaand,-1,283,,,24.914
+3520520,niet-bgt: keermuur,2015/02/17 09:55:37+00,P0025,Gelderland,bestaand,0,283,,,2.21
+3520521,niet-bgt: keermuur,2015/01/29 09:52:47+00,P0025,Gelderland,bestaand,0,283,,,5.748
+3520522,niet-bgt: keermuur,2015/06/03 09:18:04+00,P0025,Gelderland,bestaand,0,283,,,6.858
+3520525,steiger,2016/04/18 07:50:40+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,1,283,,,3.197
+3520527,niet-bgt: keermuur,2015/06/03 09:18:04+00,P0025,Gelderland,bestaand,0,283,,,6.05
+3520528,niet-bgt: keermuur,2015/03/15 13:04:55+00,P0025,Gelderland,bestaand,0,283,,,5.985
+3520529,niet-bgt: keermuur,2015/06/03 09:18:04+00,P0025,Gelderland,bestaand,0,283,,,13.443
+3520531,niet-bgt: keermuur,2015/06/03 09:18:04+00,P0025,Gelderland,bestaand,-1,283,,,5.264
+3520532,niet-bgt: keermuur,2015/08/07 11:00:46+00,P0025,Gelderland,bestaand,0,283,,,1.563
+3520541,steiger,2015/11/06 09:11:47+00,G0505,Dordrecht,bestaand,1,283,,,12.856
+3520554,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.36
+3520555,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.136
+3520556,gemaal,2015/02/23 12:05:11+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,35.971
+3520557,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.18
+3520558,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.319
+3520559,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.223
+3520560,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.153
+3520561,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.138
+3520562,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.076
+3520563,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.153
+3520564,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.049
+3520565,steiger,2015/01/30 11:49:17+00,G1892,Zuidplas,bestaand,1,283,,,17.443
+3520566,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.273
+3520567,steiger,2015/01/08 14:47:58+00,G1892,Zuidplas,bestaand,1,283,,,17.319
+3520568,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.315
+3520569,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.095
+3520570,steiger,2015/01/30 11:49:17+00,G1892,Zuidplas,bestaand,1,283,,,17.531
+3520571,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.174
+3520572,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.071
+3520573,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,236.792
+3520576,steiger,2017/11/07 09:35:28+00,G0505,Dordrecht,bestaand,1,283,,,8.42
+3520578,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,8.886
+3520579,stuw,2017/06/09 12:41:09+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,0,283,,,21.493
+3520580,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,4.959
+3520582,stuw,2017/06/09 12:41:09+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,0,283,,,22.638
+3520585,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,1.424
+3520586,stuw,2017/06/09 12:41:09+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,0,283,,,4.927
+3520588,stuw,2016/11/29 12:00:51+00,W0636,Hoogheemraadschap De Stichtse Rijnlanden,bestaand,0,283,,,2.862
+3520590,niet-bgt: keermuur,2015/08/07 11:00:46+00,P0025,Gelderland,bestaand,1,283,,,0.642
+3520591,steiger,2016/07/27 12:30:17+00,L0003,Ministerie van Defensie,bestaand,1,283,,,35.506
+3520592,niet-bgt: keermuur,2015/01/26 10:50:17+00,P0025,Gelderland,bestaand,0,283,,,2.483
+3520593,niet-bgt: keermuur,2015/02/17 09:55:37+00,P0025,Gelderland,bestaand,0,283,,,2.392
+3520594,niet-bgt: keermuur,2015/08/07 11:00:46+00,P0025,Gelderland,bestaand,1,283,,,0.706
+3520596,gemaal,2015/05/22 09:44:48+00,W0662,Waterschap Vallei en Veluwe,bestaand,0,283,,,3.523
+3520597,niet-bgt: keermuur,2014/11/06 10:09:50+00,P0025,Gelderland,bestaand,0,283,,,4.223
+3520598,niet-bgt: keermuur,2016/06/21 07:05:01+00,P0025,Gelderland,bestaand,0,283,,,4.138
+3520599,hoogspanningsmast,2016/07/27 12:30:17+00,L0003,Ministerie van Defensie,bestaand,0,283,,,46.448
+3520600,niet-bgt: keermuur,2019/03/19 07:38:02+00,P0025,Gelderland,bestaand,-1,283,,,4.793
+3520601,niet-bgt: keermuur,2015/06/03 09:18:04+00,P0025,Gelderland,bestaand,0,283,,,4.342
+3520602,niet-bgt: keermuur,2021/07/15 07:19:21+00,P0025,Gelderland,bestaand,0,283,,,61.775
+3520603,niet-bgt: keermuur,2014/10/08 07:48:56+00,P0025,Gelderland,bestaand,1,283,,,1.585
+3520605,steiger,2016/07/27 12:30:17+00,L0003,Ministerie van Defensie,bestaand,0,283,,,8.939
+3520606,niet-bgt: keermuur,2014/11/06 10:09:50+00,P0025,Gelderland,bestaand,0,283,,,16.763
+3520607,hoogspanningsmast,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,0,283,,,1.431
+3520608,steiger,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,1,283,,,23.342
+3520618,gemaal,2015/11/05 14:50:46+00,G0505,Dordrecht,bestaand,0,283,,,13.686
+3520626,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.17
+3520627,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.166
+3520628,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.306
+3520629,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.09
+3520630,gemaal,2015/02/11 11:48:27+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,0.586
+3520631,steiger,2015/01/09 15:09:42+00,G1892,Zuidplas,bestaand,1,283,,,100.369
+3520632,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.136
+3520633,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.1
+3520634,steiger,2015/01/09 15:09:42+00,G1892,Zuidplas,bestaand,1,283,,,180.473
+3520635,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.185
+3520636,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.078
+3520642,gemaal,2015/01/05 15:32:48+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,0.21
+3520644,steiger,2015/10/12 08:25:27+00,G0518,'s-Gravenhage,bestaand,1,283,,,39.447
+3520645,steiger,2015/10/12 08:27:09+00,G0518,'s-Gravenhage,bestaand,1,283,,,8.646
+3520646,gemaal,2017/04/03 15:41:15+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,24.101
+3520647,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,4.496
+3520648,gemaal,2017/04/03 15:41:15+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,7.991
+3520650,hoogspanningsmast,2017/04/03 15:41:15+00,G1525,Teylingen,bestaand,0,283,,,5.899
+3520651,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,14.599
+3520653,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,7.12
+3520654,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,470.645
+3520656,steiger,2017/04/03 15:41:15+00,W0616,Hoogheemraadschap van Rijnland,bestaand,1,283,,,82.252
+3520657,gemaal,2017/04/03 15:41:15+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,1.477
+3520658,gemaal,2017/04/03 15:41:15+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,12.674
+3520660,hoogspanningsmast,2017/04/03 15:41:15+00,G1525,Teylingen,bestaand,0,283,,,1.451
+3520661,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,0.874
+3520662,gemaal,2017/04/03 15:41:15+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,0.842
+3520663,stuw,2016/04/29 09:39:21+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,6.193
+3520664,stuw,2016/04/29 09:39:21+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,5.619
+3520665,stuw,2016/04/29 09:39:21+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,4.223
+3520667,stuw,2018/12/11 10:19:03+00,W0539,Waterschap De Dommel,bestaand,0,283,,,0.845
+3520668,steiger,2018/04/13 14:27:23+00,G1901,Bodegraven-Reeuwijk,bestaand,1,283,,,6.343
+3520671,niet-bgt: keermuur,2021/06/18 11:35:58+00,P0025,Gelderland,bestaand,0,283,,,16.982
+3520674,niet-bgt: keermuur,2015/06/03 09:18:04+00,P0025,Gelderland,bestaand,-1,283,,,5.501
+3520675,niet-bgt: keermuur,2019/03/19 07:38:02+00,P0025,Gelderland,bestaand,-1,283,,,4.609
+3520678,steiger,2018/04/13 14:27:23+00,G1901,Bodegraven-Reeuwijk,bestaand,1,283,,,5.005
+3520679,stuw,2015/10/20 09:02:30+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,1.724
+3520684,gemaal,2015/10/20 09:02:30+00,G0505,Dordrecht,bestaand,0,283,,,2.765
+3520685,steiger,2021/03/10 19:47:04+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,4.631
+3520686,steiger,2021/03/10 19:47:04+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,24.116
+3520692,stuw,2015/11/05 15:25:17+00,G0505,Dordrecht,bestaand,0,283,,,2.39
+3520695,steiger,2021/03/10 19:47:04+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,11.246
+3520698,steiger,2015/10/12 08:25:27+00,G0518,'s-Gravenhage,bestaand,1,283,,,39.576
+3520699,steiger,2015/10/12 08:27:12+00,G0518,'s-Gravenhage,bestaand,1,283,,,9.567
+3520703,steiger,2015/10/12 08:28:32+00,G0518,'s-Gravenhage,bestaand,1,283,,,214.43
+3520704,steiger,2015/10/12 08:28:32+00,G0518,'s-Gravenhage,bestaand,1,283,,,56.889
+3520705,steiger,2015/10/12 08:27:19+00,G0518,'s-Gravenhage,bestaand,1,283,,,4.669
+3520706,steiger,2015/10/12 08:25:55+00,G0518,'s-Gravenhage,bestaand,1,283,,,1.107
+3520707,steiger,2015/10/12 08:25:57+00,G0518,'s-Gravenhage,bestaand,1,283,,,22.998
+3520708,steiger,2015/10/12 08:26:37+00,G0518,'s-Gravenhage,bestaand,1,283,,,51.479
+3520709,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,14.159
+3520710,steiger,2015/10/12 08:25:57+00,G0518,'s-Gravenhage,bestaand,1,283,,,4.075
+3520711,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.41
+3520712,steiger,2015/10/12 08:25:59+00,G0518,'s-Gravenhage,bestaand,1,283,,,13.355
+3520713,stuw,2020/11/19 22:40:40+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,2.277
+3520714,steiger,2017/05/31 05:53:17+00,G0637,Zoetermeer,bestaand,1,283,,,37.76
+3520715,steiger,2017/05/31 05:53:17+00,G0637,Zoetermeer,bestaand,1,283,,,27.607
+3520720,steiger,2017/05/31 05:53:17+00,G0637,Zoetermeer,bestaand,1,283,,,68.126
+3520724,steiger,2017/05/31 05:53:17+00,G0637,Zoetermeer,bestaand,1,283,,,8.249
+3520725,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,22.469
+3520727,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,35.273
+3520731,steiger,2018/04/13 14:27:23+00,G1901,Bodegraven-Reeuwijk,bestaand,1,283,,,19.306
+3520735,steiger,2015/01/09 15:21:12+00,G0363,Amsterdam,bestaand,1,283,,,172.623
+3520737,steiger,2018/04/13 14:27:23+00,G1901,Bodegraven-Reeuwijk,bestaand,1,283,,,3.114
+3520738,niet-bgt: keermuur,2015/08/07 11:00:46+00,P0025,Gelderland,bestaand,1,283,,,0.414
+3520740,niet-bgt: keermuur,2015/02/17 09:55:37+00,P0025,Gelderland,bestaand,0,283,,,2.148
+3520741,niet-bgt: keermuur,2015/02/17 09:55:37+00,P0025,Gelderland,bestaand,-1,283,,,4.868
+3520742,niet-bgt: keermuur,2015/08/07 11:00:46+00,P0025,Gelderland,bestaand,0,283,,,0.456
+3520743,steiger,2018/04/13 14:27:23+00,G1901,Bodegraven-Reeuwijk,bestaand,1,283,,,64.207
+3520746,steiger,2015/01/09 15:21:12+00,G0363,Amsterdam,bestaand,1,283,,,25.409
+3520748,stuw,2015/07/07 13:46:52+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,2.648
+3520749,stuw,2015/05/20 14:27:55+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,3.371
+3520750,steiger,2019/06/13 10:43:43+00,G0758,Breda,bestaand,1,283,,,120.465
+3520751,steiger,2019/06/13 10:43:43+00,G0758,Breda,bestaand,1,283,,,96.119
+3520752,stuw,2015/03/09 16:09:18+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,2.628
+3520753,niet-bgt: keermuur,2023/02/01 11:53:48+00,G1901,Bodegraven-Reeuwijk,bestaand,0,283,,,11.221
+3520758,steiger,2021/08/20 16:03:48+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,2.429
+3520760,steiger,2021/08/20 16:03:48+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,3.442
+3520765,stuw,2022/05/27 06:18:45+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,12.289
+3520766,gemaal,2019/07/10 10:44:51+00,G0988,Weert,bestaand,0,283,,,33.091
+3520770,gemaal,2015/09/03 14:45:16+00,P0027,Noord-Holland,bestaand,0,283,,,9.281
+3520777,gemaal,2015/09/03 14:45:16+00,P0027,Noord-Holland,bestaand,0,283,,,44.562
+3520778,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,192.816
+3520779,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,30.427
+3520781,steiger,2015/10/22 11:05:10+00,G0505,Dordrecht,bestaand,1,283,,,1934.621
+3520783,gemaal,2017/05/23 00:00:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,13.415
+3520784,stuw,2017/05/23 00:00:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,5.187
+3520785,steiger,2017/03/31 06:51:04+00,G0505,Dordrecht,bestaand,1,283,,,86.308
+3520786,gemaal,2017/05/23 00:00:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,18.062
+3520787,gemaal,2017/05/23 00:00:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,22.77
+3520788,stuw,2021/12/09 12:36:50+00,G0957,Roermond,bestaand,0,283,,,2.55
+3520791,hoogspanningsmast,2015/11/05 11:49:05+00,G0505,Dordrecht,bestaand,0,283,,,1.191
+3520795,niet-bgt: keermuur,2014/11/06 10:09:50+00,P0025,Gelderland,bestaand,0,283,,,4.225
+3520796,hoogspanningsmast,2021/01/15 10:43:25+00,G0753,Best,bestaand,0,283,,,3.656
+3520799,niet-bgt: keermuur,2014/11/18 12:42:32+00,P0025,Gelderland,bestaand,0,283,,,62.275
+3520801,hoogspanningsmast,2014/10/28 15:41:33+00,P0025,Gelderland,bestaand,0,283,,,51.484
+3520802,niet-bgt: keermuur,2015/08/07 11:00:46+00,P0025,Gelderland,bestaand,1,283,,,0.505
+3520803,niet-bgt: keermuur,2015/06/03 09:18:04+00,P0025,Gelderland,bestaand,0,283,,,11.376
+3520804,gemaal,2022/09/26 16:39:03+00,W0636,Hoogheemraadschap De Stichtse Rijnlanden,bestaand,0,283,,,7.977
+3520805,stuw,2022/09/26 16:39:03+00,W0636,Hoogheemraadschap De Stichtse Rijnlanden,bestaand,0,283,,,1.629
+3520807,stuw,2016/07/25 15:27:12+00,W0636,Hoogheemraadschap De Stichtse Rijnlanden,bestaand,0,283,,,1.711
+3520816,gemaal,2015/01/06 15:06:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,13.713
+3520817,gemaal,2015/01/06 15:06:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,0.636
+3520818,gemaal,2021/01/12 07:38:35+00,G1892,Zuidplas,bestaand,0,283,,,5.976
+3520819,gemaal,2015/01/06 15:06:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,1.223
+3520820,steiger,2015/02/26 15:38:41+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,53.85
+3520821,gemaal,2015/01/06 15:06:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,11.12
+3520822,gemaal,2015/01/06 15:06:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,0.529
+3520823,gemaal,2015/04/14 09:37:31+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,35.648
+3520824,gemaal,2015/01/06 15:06:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,13.679
+3520830,steiger,2018/06/22 09:35:01+00,G0363,Amsterdam,bestaand,1,283,,,50.089
+3520834,stuw,2016/02/05 09:18:00+00,G0047,Veendam,bestaand,0,283,,,22.876
+3520835,steiger,2018/06/22 09:35:01+00,G0363,Amsterdam,bestaand,1,283,,,298.192
+3520844,hoogspanningsmast,2015/11/05 11:49:05+00,G0505,Dordrecht,bestaand,0,283,,,1.221
+3520850,hoogspanningsmast,2015/11/05 11:49:05+00,G0505,Dordrecht,bestaand,0,283,,,5.248
+3520852,steiger,2022/08/09 17:01:21+00,G0505,Dordrecht,bestaand,1,283,,,21.018
+3520855,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,1
+3520856,steiger,2021/11/02 10:47:12+00,G0828,Oss,bestaand,1,283,,,102.727
+3520857,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,1
+3520858,steiger,2021/05/31 08:37:45+00,G0344,Utrecht,bestaand,1,283,,,6.476
+3520861,stuw,2017/06/06 07:43:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,1.294
+3520862,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,1
+3520863,steiger,2021/05/31 08:37:45+00,G0344,Utrecht,bestaand,1,283,,,10.761
+3520864,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,0.995
+3520866,steiger,2018/04/13 14:27:23+00,G1901,Bodegraven-Reeuwijk,bestaand,1,283,,,13.027
+3520867,stuw,2021/06/10 13:30:41+00,W0662,Waterschap Vallei en Veluwe,bestaand,0,283,,,1.187
+3520868,stuw,2021/07/27 11:30:18+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,5.458
+3520869,gemaal,2015/01/09 11:09:36+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,109.178
+3520870,gemaal,2017/06/26 12:15:04+00,G0957,Roermond,bestaand,0,283,,,20.7
+3520871,gemaal,2015/03/20 15:00:26+00,G1892,Zuidplas,bestaand,0,283,,,6.738
+3520872,steiger,2021/12/10 11:03:35+00,G0141,Almelo,bestaand,1,283,,,11.548
+3520873,stuw,2017/06/30 10:39:24+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,0.883
+3520874,steiger,2021/12/10 11:03:35+00,G0141,Almelo,bestaand,1,283,,,24.191
+3520875,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,3.944
+3520876,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.159
+3520877,gemaal,2015/08/11 11:16:47+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,0,283,,,2.732
+3520878,steiger,2015/01/30 11:49:17+00,G1892,Zuidplas,bestaand,1,283,,,17.421
+3520879,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.143
+3520880,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.167
+3520881,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.155
+3520882,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.166
+3520883,steiger,2021/12/10 11:03:35+00,G0141,Almelo,bestaand,1,283,,,23.659
+3520884,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.124
+3520885,steiger,2015/01/30 11:49:17+00,G1892,Zuidplas,bestaand,1,283,,,17.069
+3520886,steiger,2015/02/04 13:04:02+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,4.229
+3520899,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,4.782
+3520900,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,153.238
+3520901,steiger,2017/02/24 20:45:22+00,G0546,Leiden,bestaand,1,283,,,2.579
+3520902,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3520903,steiger,2018/09/12 11:21:06+00,G1945,Groesbeek,bestaand,1,283,,,12.08
+3520904,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,1.209
+3520905,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,268.709
+3520906,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,3353.356
+3520907,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,35.548
+3520908,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,677.191
+3520909,steiger,2018/09/12 11:21:06+00,G1945,Groesbeek,bestaand,1,283,,,7.881
+3520910,niet-bgt: ponton,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,62.974
+3520911,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,18.534
+3520912,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3520913,gemaal,2020/12/03 09:20:15+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,24.19
+3520914,stuw,2015/07/29 10:19:09+00,G0119,Meppel,bestaand,0,283,,,2.8
+3520915,hoogspanningsmast,2015/07/29 10:19:08+00,G0119,Meppel,bestaand,0,283,,,1.426
+3520916,hoogspanningsmast,2015/09/17 14:38:48+00,G0119,Meppel,bestaand,0,283,,,1.711
+3520917,stuw,2015/07/29 10:19:09+00,G0119,Meppel,bestaand,0,283,,,2.221
+3520918,hoogspanningsmast,2015/07/29 10:19:08+00,G0119,Meppel,bestaand,0,283,,,1.173
+3520919,hoogspanningsmast,2015/07/29 10:19:08+00,G0119,Meppel,bestaand,0,283,,,1.253
+3520920,hoogspanningsmast,2015/07/29 10:19:08+00,G0119,Meppel,bestaand,0,283,,,1.316
+3520921,gemaal,2017/05/23 00:00:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,14.856
+3520922,gemaal,2017/05/23 00:00:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,3.031
+3520923,stuw,2015/01/13 10:37:24+00,G0935,Maastricht,bestaand,0,283,,,0.301
+3520925,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,0.998
+3520926,steiger,2017/05/23 00:00:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,1,283,,,41.41
+3520927,gemaal,2017/05/23 00:00:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,5.398
+3520928,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,1.47
+3520929,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,2793.511
+3520931,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,26.03
+3520933,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,488.438
+3520935,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,66.117
+3520938,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3520939,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3520940,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,4.782
+3520941,stuw,2018/12/10 07:18:02+00,G0453,Velsen,bestaand,0,283,,,0.711
+3520942,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,9.97
+3520943,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,498.505
+3520955,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,0.769
+3520957,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,16.475
+3520959,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,91.792
+3520960,steiger,2020/12/09 12:18:25+00,G0599,Rotterdam,bestaand,1,283,,,129.634
+3520962,steiger,2019/12/06 10:57:52+00,G0363,Amsterdam,bestaand,1,283,,,125.471
+3520964,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,20.007
+3520965,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.838
+3520966,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,931.655
+3520967,niet-bgt: ponton,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,2.778
+3520969,steiger,2017/02/24 20:45:22+00,G0546,Leiden,bestaand,1,283,,,2.941
+3520970,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.825
+3520971,stuw,2021/06/10 13:30:41+00,W0662,Waterschap Vallei en Veluwe,bestaand,0,283,,,2.202
+3520972,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,11.209
+3520974,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,0.995
+3520975,steiger,2019/05/23 16:08:17+00,G0935,Maastricht,bestaand,1,283,,,302.584
+3520976,niet-bgt: overkluizing,2021/06/08 17:11:39+00,G1711,Echt-Susteren,bestaand,-1,283,,,69.066
+3520977,steiger,2021/06/23 15:14:53+00,G1892,Zuidplas,bestaand,1,283,,,4.883
+3520978,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,1
+3520979,stuw,2021/05/28 09:24:40+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,2.549
+3520981,stuw,2017/06/06 07:43:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,0.399
+3520982,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,0.995
+3520984,steiger,2021/06/23 15:14:53+00,G1892,Zuidplas,bestaand,1,283,,,4.882
+3520985,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,33.123
+3520986,steiger,2015/08/17 14:15:54+00,G0518,'s-Gravenhage,bestaand,1,283,,,9.005
+3520987,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,54.337
+3520989,steiger,2013/08/27 15:48:00+00,G0599,Rotterdam,bestaand,1,283,,,502.648
+3520990,niet-bgt: ponton,2015/03/05 10:17:06+00,G0599,Rotterdam,bestaand,1,283,,,112.878
+3520991,steiger,2019/07/27 10:19:28+00,G0363,Amsterdam,bestaand,1,283,,,1180.958
+3520992,steiger,2020/11/17 15:32:09+00,G0599,Rotterdam,bestaand,1,283,,,452.19
+3520993,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,1671.362
+3520995,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,66.533
+3520996,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,0.815
+3520997,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,120.267
+3521000,stuw,2018/11/13 15:07:24+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,0,283,,,16.093
+3521005,stuw,2017/05/15 11:13:08+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,1.32
+3521006,stuw,2018/01/15 13:06:14+00,W0636,Hoogheemraadschap De Stichtse Rijnlanden,bestaand,0,283,,,5.63
+3521007,hoogspanningsmast,2017/01/09 10:23:20+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521008,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,419.525
+3521009,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,43.24
+3521010,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,969.307
+3521012,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,59.531
+3521013,gemaal,2015/04/10 17:39:47+00,G0518,'s-Gravenhage,bestaand,0,283,,,1.132
+3521014,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,1045.347
+3521016,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,6.161
+3521018,steiger,2018/02/19 17:55:01+00,G0632,Woerden,bestaand,1,283,,,6.203
+3521019,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521020,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521021,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,1077.117
+3521022,gemaal,2021/04/08 06:18:06+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,21.661
+3521023,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,1.32
+3521024,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,0.995
+3521025,stuw,2020/04/15 14:29:27+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,3.801
+3521026,gemaal,2018/12/13 12:39:28+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,4.499
+3521027,stuw,2017/05/31 20:38:04+00,W0636,Hoogheemraadschap De Stichtse Rijnlanden,bestaand,0,283,,,3.869
+3521028,stuw,2017/06/06 07:43:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,0.769
+3521029,steiger,2019/05/23 16:05:15+00,G0935,Maastricht,bestaand,1,283,,,11.792
+3521031,hoogspanningsmast,2015/04/15 13:24:21+00,G0971,Stein,bestaand,0,283,,,0.995
+3521032,stuw,2017/05/23 08:45:56+00,G1507,Horst aan de Maas,bestaand,0,283,,,1.689
+3521035,sluis,2016/04/10 11:05:39+00,G0935,Maastricht,bestaand,0,283,,,154.051
+3521036,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,179.125
+3521038,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,691.658
+3521040,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,4.788
+3521041,steiger,2018/12/18 09:53:22+00,G0473,Zandvoort,bestaand,1,283,,,470.863
+3521042,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,2.023
+3521043,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521044,steiger,2022/01/17 10:43:21+00,G1982,Land van Cuijk,bestaand,1,283,,,352.501
+3521045,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521046,gemaal,2015/07/06 12:37:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,2.92
+3521047,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,13.675
+3521048,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,200.195
+3521049,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,1274.379
+3521050,stuw,2021/02/08 14:37:52+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.377
+3521051,stuw,2021/02/08 14:37:52+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.403
+3521052,stuw,2017/05/15 11:13:08+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,31.271
+3521053,steiger,2019/10/23 15:34:04+00,G0160,Hardenberg,bestaand,1,283,,,13.033
+3521054,stuw,2020/03/02 10:13:36+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,50.966
+3521055,steiger,2015/11/13 08:45:44+00,G0160,Hardenberg,bestaand,1,283,,,114.267
+3521056,steiger,2015/11/13 08:45:44+00,G0160,Hardenberg,bestaand,1,283,,,19.992
+3521057,steiger,2018/09/25 15:58:06+00,G0160,Hardenberg,bestaand,1,283,,,95.82
+3521058,stuw,2022/03/21 16:28:11+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,23.627
+3521061,stuw,2020/03/03 08:01:37+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,12.563
+3521062,stuw,2017/05/15 11:13:08+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,6.658
+3521063,steiger,2019/10/23 15:34:04+00,G0160,Hardenberg,bestaand,1,283,,,159.924
+3521066,niet-bgt: overkluizing,2021/02/16 15:52:05+00,G0796,'s-Hertogenbosch,bestaand,0,283,,,110.119
+3521067,steiger,2017/01/05 10:56:52+00,G0599,Rotterdam,bestaand,1,283,,,3052.156
+3521068,gemaal,2020/01/22 12:00:31+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,12.838
+3521069,steiger,2020/02/24 14:07:47+00,W0616,Hoogheemraadschap van Rijnland,bestaand,1,283,,,14.726
+3521070,strekdam,2014/06/30 06:41:04+00,G0599,Rotterdam,bestaand,0,283,,,31.852
+3521071,stuw,2020/02/24 14:04:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,3.299
+3521072,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,699.545
+3521073,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,207.251
+3521074,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,35.592
+3521076,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,106.242
+3521078,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,36.282
+3521079,niet-bgt: ponton,2015/03/03 10:48:12+00,G0599,Rotterdam,bestaand,1,283,,,111.981
+3521080,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,2.281
+3521082,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521083,gemaal,2020/02/24 14:04:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,16.061
+3521084,steiger,2015/11/13 09:19:08+00,G0160,Hardenberg,bestaand,1,283,,,166.669
+3521085,stuw,2022/12/05 15:01:59+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,94.062
+3521086,stuw,2022/05/30 12:11:00+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,8.234
+3521087,stuw,2022/04/15 05:42:23+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,7.537
+3521088,steiger,2015/11/13 09:19:08+00,G0160,Hardenberg,bestaand,1,283,,,22.822
+3521089,steiger,2014/11/18 13:50:11+00,G0758,Breda,bestaand,1,283,,,52.963
+3521090,stuw,2018/10/25 10:19:02+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,7.622
+3521091,steiger,2018/06/07 14:59:01+00,P0028,Zuid-Holland,bestaand,1,283,,,49.519
+3521092,steiger,2015/05/12 15:21:36+00,G0758,Breda,bestaand,1,283,,,121.576
+3521093,stuw,2015/11/30 10:52:07+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,2.517
+3521094,stuw,2015/11/30 10:52:07+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,9.979
+3521098,steiger,2018/06/07 14:59:01+00,P0028,Zuid-Holland,bestaand,1,283,,,105.338
+3521100,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,497.312
+3521101,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,33.145
+3521102,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,394.686
+3521104,steiger,2017/01/05 16:36:14+00,G0599,Rotterdam,bestaand,1,283,,,5.593
+3521105,niet-bgt: ponton,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,114.138
+3521106,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,1459.696
+3521107,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,1134.962
+3521108,steiger,2017/01/05 16:36:14+00,G0599,Rotterdam,bestaand,1,283,,,65.315
+3521109,niet-bgt: ponton,2017/01/05 16:36:14+00,G0599,Rotterdam,bestaand,1,283,,,237.941
+3521111,steiger,2018/02/19 17:55:01+00,G0632,Woerden,bestaand,1,283,,,11.532
+3521112,steiger,2020/02/24 14:13:12+00,W0616,Hoogheemraadschap van Rijnland,bestaand,1,283,,,12.567
+3521113,steiger,2020/02/24 14:13:12+00,W0616,Hoogheemraadschap van Rijnland,bestaand,1,283,,,13.583
+3521114,stuw,2022/06/17 11:19:26+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,1.658
+3521115,stuw,2022/05/31 07:19:33+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,11.817
+3521116,gemaal,2020/03/27 11:44:57+00,G0489,Barendrecht,bestaand,0,283,,,19.6
+3521117,stuw,2020/03/28 13:26:16+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,1.493
+3521118,stuw,2016/01/22 07:02:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,0.595
+3521119,stuw,2016/01/22 07:02:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,1.214
+3521120,stuw,2016/01/22 09:30:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,2.417
+3521121,stuw,2016/01/22 07:02:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,1.954
+3521122,stuw,2016/01/22 09:30:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,0.137
+3521123,stuw,2016/01/22 09:30:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,0.138
+3521124,stuw,2016/01/22 09:30:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,0.999
+3521125,stuw,2016/01/21 11:41:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,1.142
+3521126,stuw,2016/01/21 11:48:00+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,0.977
+3521127,steiger,2018/02/19 17:55:01+00,G0632,Woerden,bestaand,1,283,,,8.704
+3521128,steiger,2018/02/19 17:55:01+00,G0632,Woerden,bestaand,1,283,,,11.516
+3521129,stuw,2020/02/24 14:04:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,1.189
+3521130,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,99.486
+3521131,gemaal,2015/07/06 12:37:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,5.83
+3521132,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,4843.694
+3521134,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,3936.54
+3521136,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,421.44
+3521137,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,94.448
+3521138,stuw,2020/02/24 14:04:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,0.892
+3521139,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,4.66
+3521141,steiger,2016/06/06 07:30:25+00,G0546,Leiden,bestaand,1,283,,,44.619
+3521142,stuw,2020/02/24 14:04:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,1.277
+3521143,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,19.255
+3521144,steiger,2022/02/04 13:47:10+00,G1901,Bodegraven-Reeuwijk,bestaand,1,283,,,33.549
+3521145,stuw,2016/11/23 11:35:54+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,11.761
+3521147,steiger,2019/06/06 14:46:41+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,24.916
+3521152,steiger,2020/08/27 20:08:03+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,20.403
+3521154,steiger,2019/10/24 12:26:08+00,G0995,Lelystad,bestaand,1,283,,,36.215
+3521155,stuw,2016/11/23 11:35:54+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,9.765
+3521156,steiger,2020/08/25 16:07:59+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,256.585
+3521163,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,243.455
+3521165,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,130.153
+3521166,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,11.99
+3521167,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521168,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,19.919
+3521169,niet-bgt: ponton,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,224.395
+3521172,gemaal,2020/10/22 07:26:59+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,2.277
+3521174,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,571.742
+3521176,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,62.818
+3521177,steiger,2014/10/16 09:30:29+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,15.545
+3521179,steiger,2015/09/01 08:08:15+00,W0372,Hoogheemraadschap van Delfland,bestaand,1,283,,,44.752
+3521182,hoogspanningsmast,2015/07/15 13:16:49+00,G0599,Rotterdam,bestaand,0,283,,,77.273
+3521191,hoogspanningsmast,2019/09/03 14:22:30+00,G0037,Stadskanaal,bestaand,0,283,,,1.697
+3521193,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,4280.182
+3521194,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,2201.484
+3521195,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,103.147
+3521197,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,339.578
+3521198,stuw,2018/12/07 09:47:41+00,G0889,Beesel,bestaand,0,283,,,1.389
+3521199,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,36.205
+3521200,niet-bgt: ponton,2015/03/03 10:48:12+00,G0599,Rotterdam,bestaand,1,283,,,111.277
+3521201,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,12.402
+3521202,niet-bgt: ponton,2015/03/05 07:32:03+00,G0599,Rotterdam,bestaand,1,283,,,133.605
+3521203,hoogspanningsmast,2019/10/11 09:34:54+00,G1706,Cranendonck,bestaand,0,283,,,37.421
+3521204,hoogspanningsmast,2019/04/24 08:07:26+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521205,steiger,2020/03/24 15:56:57+00,G0599,Rotterdam,bestaand,1,283,,,179.021
+3521207,steiger,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,1,283,,,7.054
+3521208,steiger,2015/05/20 16:32:14+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,6.39
+3521209,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.703
+3521210,steiger,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,1,283,,,5.99
+3521212,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,14.058
+3521213,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.261
+3521214,sluis,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,0,283,,,0.901
+3521215,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.261
+3521216,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.227
+3521217,steiger,2015/05/20 16:32:11+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,108.843
+3521218,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,196.962
+3521219,stuw,2017/02/20 13:50:44+00,W0647,Waterschap Noorderzijlvest,bestaand,0,283,,,1.73
+3521220,steiger,2015/05/20 16:31:07+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,37.449
+3521221,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,643.639
+3521222,sluis,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,0,283,,,1.238
+3521223,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,19.055
+3521224,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,108.228
+3521226,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,209.11
+3521228,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521229,stuw,2019/07/15 12:47:27+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,2.376
+3521230,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,597.213
+3521231,steiger,2018/01/03 14:22:55+00,G1892,Zuidplas,bestaand,1,283,,,7.914
+3521233,stuw,2019/07/15 12:47:27+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,2.885
+3521234,stuw,2019/07/15 12:47:27+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,0.231
+3521235,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,4.783
+3521238,steiger,2020/08/25 16:07:59+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,15.63
+3521241,steiger,2019/10/24 12:26:08+00,G0995,Lelystad,bestaand,1,283,,,55.177
+3521247,niet-bgt: keermuur,2017/12/14 14:19:17+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,37.28
+3521248,niet-bgt: keermuur,2015/02/18 16:39:57+00,G0995,Lelystad,bestaand,-1,283,,,25.748
+3521250,steiger,2018/07/05 10:05:16+00,G0546,Leiden,bestaand,1,283,,,20.545
+3521251,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,912.333
+3521253,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,1712.652
+3521255,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,88.142
+3521257,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,70.938
+3521258,niet-bgt: ponton,2015/03/13 13:18:37+00,G0599,Rotterdam,bestaand,1,283,,,59.196
+3521259,steiger,2020/12/03 15:21:27+00,G0014,Groningen,bestaand,1,283,,,90.779
+3521260,steiger,2018/07/05 10:05:16+00,G0546,Leiden,bestaand,1,283,,,14.168
+3521261,hoogspanningsmast,2020/12/17 10:49:09+00,G0163,Hellendoorn,bestaand,0,283,,,0.75
+3521262,steiger,2020/12/28 07:32:52+00,G0599,Rotterdam,bestaand,1,283,,,20.981
+3521263,steiger,2018/12/17 13:56:22+00,G0047,Veendam,bestaand,1,283,,,194.917
+3521264,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,231.927
+3521265,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,349.272
+3521266,stuw,2015/08/16 18:11:22+00,W0647,Waterschap Noorderzijlvest,bestaand,0,283,,,3.739
+3521267,steiger,2015/05/20 16:31:07+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,33.748
+3521268,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,77.966
+3521269,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.258
+3521270,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,3.071
+3521271,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,7.671
+3521272,steiger,2015/05/20 16:31:07+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,60.054
+3521273,sluis,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,0,283,,,1.083
+3521274,sluis,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,0,283,,,1.596
+3521275,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.261
+3521276,strekdam,2015/08/18 12:14:31+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,952.848
+3521277,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,93.083
+3521278,stuw,2018/12/12 12:30:15+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,59.772
+3521279,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,43.147
+3521280,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,1429.039
+3521281,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,2268.425
+3521282,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,87.901
+3521284,steiger,2013/08/27 15:48:01+00,G0599,Rotterdam,bestaand,1,283,,,41.808
+3521285,niet-bgt: keermuur,2022/11/03 08:59:01+00,G0243,Harderwijk,bestaand,0,283,,,10.116
+3521286,niet-bgt: ponton,2015/03/04 08:59:52+00,G0599,Rotterdam,bestaand,1,283,,,78.892
+3521287,stuw,2021/01/08 07:41:24+00,G1740,Neder-Betuwe,bestaand,0,283,,,3.024
+3521288,niet-bgt: ponton,2015/03/03 09:44:35+00,G0599,Rotterdam,bestaand,1,283,,,203.806
+3521289,steiger,2018/12/14 12:49:15+00,G0047,Veendam,bestaand,1,283,,,7.323
+3521290,steiger,2018/12/14 12:49:15+00,G0047,Veendam,bestaand,1,283,,,5.015
+3521291,steiger,2018/12/14 12:49:15+00,G0047,Veendam,bestaand,1,283,,,7.878
+3521292,niet-bgt: keermuur,2022/11/03 08:59:01+00,G0243,Harderwijk,bestaand,0,283,,,45.894
+3521293,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,81.19
+3521295,steiger,2019/06/06 14:46:41+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,6.26
+3521296,stuw,2021/12/23 10:10:23+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,3.296
+3521298,niet-bgt: keermuur,2020/11/06 17:53:30+00,G0995,Lelystad,bestaand,0,283,,,19.701
+3521299,stuw,2021/12/23 10:10:23+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.749
+3521303,stuw,2021/12/23 10:10:23+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.964
+3521307,steiger,2019/05/20 15:18:36+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,35.085
+3521309,stuw,2021/03/12 17:08:48+00,W0650,Waterschap Zuiderzeeland,bestaand,-2,283,,,224.582
+3521310,steiger,2022/01/10 17:58:28+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,58.412
+3521311,steiger,2022/01/10 17:58:28+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,131.045
+3521312,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,342.234
+3521314,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,102.273
+3521315,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,415.935
+3521317,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,65.706
+3521319,gemaal,2015/07/06 12:37:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,10.384
+3521320,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.842
+3521321,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521322,steiger,2018/12/14 12:49:15+00,G0047,Veendam,bestaand,1,283,,,22.203
+3521323,steiger,2018/12/14 12:49:15+00,G0047,Veendam,bestaand,1,283,,,5.009
+3521324,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521325,steiger,2019/03/11 10:40:13+00,G0047,Veendam,bestaand,0,283,,,5.53
+3521326,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,43.104
+3521327,steiger,2019/11/22 07:54:39+00,G0047,Veendam,bestaand,1,283,,,6.489
+3521328,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,2.63
+3521329,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,208.415
+3521330,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,10.851
+3521331,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.273
+3521333,steiger,2015/05/20 16:31:12+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,2.649
+3521334,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,2.779
+3521335,steiger,2015/05/20 16:32:11+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,44.782
+3521336,sluis,2015/08/18 12:16:07+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,4.089
+3521337,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,8.474
+3521338,stuw,2021/06/10 10:36:29+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,3.237
+3521339,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,89.31
+3521340,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,342.851
+3521341,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,654.56
+3521343,stuw,2020/03/24 20:12:37+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,3.22
+3521345,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,5.547
+3521346,niet-bgt: ponton,2015/05/22 08:21:03+00,G0599,Rotterdam,bestaand,1,283,,,15.119
+3521348,niet-bgt: ponton,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,3.131
+3521349,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,73.257
+3521350,sluis,2020/06/15 13:39:04+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,7.973
+3521351,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521352,sluis,2020/06/15 13:39:04+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,2.663
+3521353,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,8482.694
+3521354,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,423.045
+3521361,stuw,2014/12/05 15:32:38+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,8.483
+3521363,steiger,2019/09/23 08:07:01+00,G0163,Hellendoorn,bestaand,1,283,,,11.954
+3521370,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,3,283,,,157.238
+3521371,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,10.982
+3521372,steiger,2017/01/27 10:30:00+00,G0599,Rotterdam,bestaand,1,283,,,365.338
+3521375,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,71.55
+3521377,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,16.672
+3521378,niet-bgt: ponton,2015/03/03 10:48:12+00,G0599,Rotterdam,bestaand,1,283,,,73.634
+3521379,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,2.06
+3521380,steiger,2018/03/26 08:58:14+00,G0599,Rotterdam,bestaand,1,283,,,2816.249
+3521381,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,25.095
+3521382,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521383,hoogspanningsmast,2019/10/11 09:34:54+00,G1706,Cranendonck,bestaand,0,283,,,19.595
+3521384,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521385,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,8938.268
+3521386,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,14.205
+3521387,sluis,2018/07/06 12:04:08+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,51.22
+3521388,steiger,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,1,283,,,6.612
+3521389,stuw,2017/02/20 13:50:44+00,W0647,Waterschap Noorderzijlvest,bestaand,0,283,,,2.22
+3521391,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.443
+3521392,stuw,2019/11/08 02:09:13+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.665
+3521393,sluis,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,0,283,,,1.497
+3521394,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,443.477
+3521395,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,76.664
+3521396,sluis,2020/03/31 15:01:16+00,G0037,Stadskanaal,bestaand,0,283,,,5.004
+3521397,stuw,2019/11/08 02:28:19+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,2.703
+3521398,sluis,2015/08/18 12:15:59+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,10.302
+3521399,stuw,2019/11/08 02:28:19+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.35
+3521400,steiger,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,1,283,,,5.591
+3521401,steiger,2019/11/07 15:46:31+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,1783.196
+3521402,steiger,2015/05/20 16:32:12+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,10.939
+3521403,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.264
+3521404,steiger,2014/10/16 09:30:29+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,15.235
+3521405,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,1023.643
+3521406,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,233.576
+3521407,steiger,2014/09/19 14:49:39+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,4.272
+3521408,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,21.94
+3521410,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,18.276
+3521412,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,1999.129
+3521414,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521415,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.821
+3521418,steiger,2020/09/03 12:26:50+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,12.014
+3521420,niet-bgt: keermuur,2019/02/27 11:51:03+00,G0995,Lelystad,bestaand,0,283,,,26.748
+3521428,steiger,2019/05/20 15:58:07+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,34.92
+3521430,niet-bgt: ponton,2022/01/18 07:43:25+00,G0599,Rotterdam,bestaand,1,283,,,97.299
+3521431,steiger,2020/08/06 10:15:14+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,21.109
+3521432,niet-bgt: ponton,2022/01/18 07:43:25+00,G0599,Rotterdam,bestaand,1,283,,,128.339
+3521435,steiger,2014/10/16 11:09:52+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,77.193
+3521436,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,84.649
+3521437,steiger,2018/08/08 14:04:13+00,G0518,'s-Gravenhage,bestaand,1,283,,,376.063
+3521438,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,22.768
+3521440,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,570.822
+3521442,steiger,2017/01/05 10:56:52+00,G0599,Rotterdam,bestaand,1,283,,,69.726
+3521443,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,1.913
+3521445,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,167.12
+3521446,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,13.825
+3521447,steiger,2018/12/11 15:10:34+00,G0599,Rotterdam,bestaand,1,283,,,43.476
+3521450,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,143.607
+3521451,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,84.38
+3521453,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,11.122
+3521454,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,12.521
+3521455,strekdam,2015/08/18 12:14:24+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,1469.233
+3521456,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.258
+3521457,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,2.125
+3521458,steiger,2020/03/31 15:01:16+00,G0037,Stadskanaal,bestaand,1,283,,,7.35
+3521459,steiger,2015/05/20 16:31:08+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,17.492
+3521460,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.378
+3521461,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.261
+3521462,strekdam,2019/05/27 11:38:40+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,336.531
+3521463,sluis,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,0,283,,,1.526
+3521464,steiger,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,1,283,,,13.915
+3521465,steiger,2015/05/20 16:32:11+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,26.771
+3521466,sluis,2015/08/18 12:16:07+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,3.742
+3521467,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,399.192
+3521468,steiger,2017/01/27 10:30:00+00,G0599,Rotterdam,bestaand,1,283,,,1207.953
+3521469,gemaal,2015/04/10 17:28:23+00,G0518,'s-Gravenhage,bestaand,0,283,,,0.931
+3521470,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,64.316
+3521472,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,62.925
+3521474,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,33.988
+3521475,niet-bgt: ponton,2015/03/03 10:48:12+00,G0599,Rotterdam,bestaand,1,283,,,88.431
+3521476,hoogspanningsmast,2019/04/24 08:07:26+00,G0613,Albrandswaard,bestaand,0,283,,,1
+3521477,steiger,2019/04/24 08:07:26+00,G0599,Rotterdam,bestaand,1,283,,,33.97
+3521478,hoogspanningsmast,2019/04/24 08:07:26+00,G0613,Albrandswaard,bestaand,0,283,,,0.25
+3521479,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,55.063
+3521480,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,209.682
+3521482,steiger,2014/03/31 15:07:07+00,G0599,Rotterdam,bestaand,1,283,,,559.052
+3521483,steiger,2017/01/05 15:33:24+00,G0599,Rotterdam,bestaand,1,283,,,23.44
+3521484,steiger,2017/01/05 15:33:24+00,G0599,Rotterdam,bestaand,1,283,,,793.06
+3521485,steiger,2017/01/05 15:33:24+00,G0599,Rotterdam,bestaand,1,283,,,138.124
+3521486,steiger,2020/08/20 21:45:02+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,23.674
+3521487,sluis,2019/07/10 13:32:05+00,P0023,Overijssel,bestaand,0,283,,,6.018
+3521492,steiger,2019/07/19 10:12:17+00,G0715,Terneuzen,bestaand,1,283,,,19.493
+3521495,steiger,2022/10/26 09:44:32+00,G0303,Dronten,bestaand,1,283,,,56.986
+3521503,stuw,2022/02/02 14:37:01+00,G0222,Doetinchem,bestaand,0,283,,,1.818
+3521504,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,1798.422
+3521505,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,59.343
+3521506,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,141.229
+3521508,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,27.36
+3521510,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,1.962
+3521511,niet-bgt: ponton,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,39.726
+3521512,gemaal,2015/07/06 12:37:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,5.16
+3521513,niet-bgt: ponton,2015/03/03 10:20:56+00,G0599,Rotterdam,bestaand,1,283,,,117.547
+3521517,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521518,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,35.803
+3521519,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,22.102
+3521521,steiger,2019/05/09 10:55:07+00,G0599,Rotterdam,bestaand,1,283,,,418.594
+3521522,steiger,2015/05/20 16:32:11+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,26.067
+3521523,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,8.251
+3521524,stuw,2015/06/25 16:09:58+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,13.375
+3521525,sluis,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,0,283,,,1.957
+3521526,sluis,2015/08/18 12:16:08+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,3.09
+3521527,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,836.547
+3521528,stuw,2015/08/16 18:11:23+00,W0647,Waterschap Noorderzijlvest,bestaand,0,283,,,2.051
+3521529,steiger,2015/05/20 16:32:13+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,8.786
+3521530,steiger,2015/05/20 16:31:05+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,2259.485
+3521531,steiger,2017/01/05 15:33:24+00,G0599,Rotterdam,bestaand,1,283,,,1572.094
+3521533,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,238.474
+3521535,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,1.837
+3521539,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.842
+3521540,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521541,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,8.101
+3521542,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,1020.691
+3521543,steiger,2019/07/22 17:06:08+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,247.454
+3521549,niet-bgt: keermuur,2021/01/05 16:27:11+00,G0995,Lelystad,bestaand,0,283,,,39.56
+3521552,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,22.339
+3521553,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,2,283,,,3173.741
+3521554,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521555,steiger,2017/05/30 22:57:07+00,G0546,Leiden,bestaand,1,283,,,186.277
+3521556,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,49.408
+3521557,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,1157.783
+3521559,steiger,2022/01/18 10:55:03+00,G1901,Bodegraven-Reeuwijk,bestaand,1,283,,,14.486
+3521561,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,11.735
+3521563,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,144.757
+3521564,niet-bgt: ponton,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,114.233
+3521565,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,32.784
+3521567,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,2.373
+3521572,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,71.989
+3521573,gemaal,2015/07/06 12:37:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,4.667
+3521575,steiger,2022/01/18 10:55:03+00,G1901,Bodegraven-Reeuwijk,bestaand,1,283,,,9.197
+3521576,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,80.486
+3521577,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,11.245
+3521578,steiger,2021/04/14 14:33:23+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,854.978
+3521579,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.173
+3521580,steiger,2019/06/20 14:57:24+00,G0037,Stadskanaal,bestaand,1,283,,,9.068
+3521581,steiger,2015/05/20 16:32:14+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,3.508
+3521582,niet-bgt: vispassage,2015/07/06 16:42:58+00,W0647,Waterschap Noorderzijlvest,bestaand,0,283,,,252.2
+3521583,steiger,2018/11/27 15:57:10+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,1488.743
+3521584,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.586
+3521585,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,71.73
+3521586,sluis,2015/08/18 12:16:07+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,3.57
+3521588,steiger,2021/04/30 09:40:08+00,G1979,Eemsdelta,bestaand,1,283,,,4.912
+3521590,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,71.453
+3521591,gemaal,2015/04/10 17:28:19+00,G0518,'s-Gravenhage,bestaand,0,283,,,1.029
+3521592,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,70.101
+3521595,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,1.86
+3521596,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521597,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521598,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,3735.019
+3521599,steiger,2015/01/27 14:45:04+00,G0599,Rotterdam,bestaand,1,283,,,176.005
+3521600,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521601,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,7.322
+3521603,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,347.668
+3521604,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.837
+3521605,steiger,2014/02/27 12:45:59+00,G0546,Leiden,bestaand,1,283,,,14.787
+3521607,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,1.922
+3521608,steiger,2017/01/05 15:33:24+00,G0599,Rotterdam,bestaand,1,283,,,62.125
+3521609,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,417.903
+3521612,niet-bgt: ponton,2015/03/04 08:59:52+00,G0599,Rotterdam,bestaand,1,283,,,207.521
+3521614,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,4.782
+3521615,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521616,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,4.17
+3521617,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,878.679
+3521618,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,128.564
+3521620,steiger,2015/07/21 12:44:29+00,G0599,Rotterdam,bestaand,1,283,,,66.287
+3521621,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,162.582
+3521623,steiger,2013/08/27 15:48:01+00,G0599,Rotterdam,bestaand,1,283,,,38.295
+3521625,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521626,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,2011.695
+3521627,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521628,hoogspanningsmast,2019/04/24 08:07:26+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521629,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,115.869
+3521630,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,991.044
+3521631,steiger,2015/05/20 16:32:14+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,4.504
+3521632,steiger,2015/05/20 16:31:05+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,1205.653
+3521633,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,27.438
+3521634,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,433.332
+3521635,steiger,2020/02/21 10:07:54+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,620.018
+3521636,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.643
+3521637,steiger,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,1,283,,,13.63
+3521638,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.261
+3521639,steiger,2020/11/17 15:32:09+00,G0599,Rotterdam,bestaand,1,283,,,274.837
+3521640,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,77.156
+3521642,steiger,2013/08/27 15:48:01+00,G0599,Rotterdam,bestaand,1,283,,,358.738
+3521643,steiger,2020/11/17 15:32:09+00,G0599,Rotterdam,bestaand,1,283,,,335.838
+3521644,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.843
+3521645,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521646,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521647,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,217.632
+3521648,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,1781.02
+3521649,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,34.336
+3521650,stuw,2021/01/22 16:02:27+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,0,283,,,2.394
+3521651,stuw,2017/04/18 10:47:43+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,0,283,,,1.945
+3521655,stuw,2015/02/20 14:38:19+00,W0539,Waterschap De Dommel,bestaand,0,283,,,0.565
+3521667,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,427.089
+3521670,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,36.273
+3521671,niet-bgt: ponton,2015/03/03 10:48:12+00,G0599,Rotterdam,bestaand,1,283,,,112.225
+3521673,steiger,2019/04/15 10:49:11+00,G0546,Leiden,bestaand,1,283,,,5.302
+3521675,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,0.897
+3521677,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,4.771
+3521678,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,337.503
+3521679,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,288.384
+3521681,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,198.408
+3521683,steiger,2015/05/20 16:31:07+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,38.924
+3521684,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,93.958
+3521685,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,49.743
+3521686,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,13.705
+3521687,stuw,2015/08/18 12:00:22+00,W0647,Waterschap Noorderzijlvest,bestaand,0,283,,,2.138
+3521688,steiger,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,1,283,,,5.904
+3521689,steiger,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,1,283,,,5.969
+3521690,gemaal,2020/05/15 10:11:21+00,W0647,Waterschap Noorderzijlvest,bestaand,0,283,,,2.25
+3521691,steiger,2015/05/20 16:32:13+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,8.161
+3521692,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.591
+3521694,steiger,2015/05/20 16:32:11+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,54.073
+3521696,sluis,2015/08/18 12:16:32+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,171.277
+3521697,steiger,2015/05/20 16:31:07+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,31.69
+3521698,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,24.913
+3521701,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,268.318
+3521702,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,265.905
+3521704,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,163.257
+3521706,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,70.569
+3521708,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,88.099
+3521709,niet-bgt: ponton,2015/03/03 10:48:12+00,G0599,Rotterdam,bestaand,1,283,,,262.519
+3521710,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,444.843
+3521711,steiger,2015/07/06 12:37:31+00,G0546,Leiden,bestaand,1,283,,,87.024
+3521712,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521713,stuw,2019/02/23 14:06:28+00,W0539,Waterschap De Dommel,bestaand,0,283,,,0.231
+3521721,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,1806.698
+3521723,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,10.182
+3521724,niet-bgt: ponton,2015/05/22 08:51:25+00,G0599,Rotterdam,bestaand,1,283,,,147.379
+3521725,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,1.347
+3521726,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521728,stuw,2021/08/23 15:25:57+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,14.456
+3521731,stuw,2014/12/05 15:32:38+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,9.222
+3521733,niet-bgt: bodemval,2021/10/05 12:08:13+00,W0663,Waterschap Vechtstromen,bestaand,-1,283,,,0.734
+3521736,niet-bgt: keermuur,2022/11/16 08:05:23+00,G1960,West Betuwe,bestaand,0,283,,,35.477
+3521737,stuw,2016/11/23 11:35:54+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,11.595
+3521738,steiger,2020/05/12 15:25:10+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,7.836
+3521739,gemaal,2020/03/03 15:39:49+00,G0402,,bestaand,0,283,,,6.278
+3521743,steiger,2020/08/13 17:53:04+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,13.561
+3521744,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,12.337
+3521745,sluis,2015/08/18 12:16:07+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,3.662
+3521746,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.551
+3521747,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.264
+3521748,sluis,2015/06/25 16:00:54+00,G0037,Stadskanaal,bestaand,0,283,,,1.046
+3521749,steiger,2015/05/20 16:32:13+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,8.382
+3521750,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.258
+3521751,steiger,2021/04/30 09:40:08+00,G1979,Eemsdelta,bestaand,1,283,,,6.464
+3521752,steiger,2015/05/20 16:32:12+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,9.774
+3521753,steiger,2015/05/20 16:31:06+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,648.424
+3521754,steiger,2015/05/20 16:32:14+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,5.049
+3521756,steiger,2015/05/20 16:31:07+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,39.071
+3521757,sluis,2015/08/18 12:15:59+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,9.776
+3521758,steiger,2021/01/12 11:03:42+00,G1979,Eemsdelta,bestaand,1,283,,,12.207
+3521759,stuw,2015/08/16 18:11:21+00,W0647,Waterschap Noorderzijlvest,bestaand,0,283,,,5.024
+3521769,stuw,2019/11/07 10:48:06+00,L0004,Prorail,bestaand,0,283,,gerealiseerd,1.144
+3521770,stuw,2019/11/08 02:09:13+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.069
+3521771,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,106.932
+3521773,gemaal,2015/04/10 17:28:21+00,G0518,'s-Gravenhage,bestaand,0,283,,,1.193
+3521774,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,123.804
+3521776,steiger,2018/01/25 10:38:30+00,G1952,Hoogezand-Sappemeer,bestaand,1,283,,,34.704
+3521777,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.838
+3521778,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521779,stuw,2019/11/08 02:09:13+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.608
+3521780,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,3709.522
+3521781,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,106.416
+3521783,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,28.197
+3521784,stuw,2019/11/08 02:09:13+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.699
+3521785,stuw,2019/11/08 02:09:13+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.397
+3521787,stuw,2019/11/08 02:28:19+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.7
+3521800,stuw,2019/11/08 02:28:19+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.299
+3521802,stuw,2021/03/12 17:08:48+00,W0650,Waterschap Zuiderzeeland,bestaand,-2,283,,,213.146
+3521804,steiger,2015/05/20 16:31:05+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,2592.661
+3521805,steiger,2020/03/31 15:01:16+00,G0037,Stadskanaal,bestaand,1,283,,,6.417
+3521807,steiger,2021/09/13 09:30:34+00,W0646,Waterschap Hunze en Aa's,bestaand,1,283,,,6.261
+3521808,sluis,2015/06/25 16:09:58+00,G0037,Stadskanaal,bestaand,0,283,,,1.311
+3521810,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,21.596
+3521811,steiger,2017/12/11 08:51:04+00,G0392,Haarlem,bestaand,1,283,,,8.898
+3521812,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,64.823
+3521813,gemaal,2015/07/06 12:37:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,1.802
+3521814,stuw,2020/02/25 09:47:58+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,1.122
+3521815,stuw,2020/02/25 09:47:58+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,2.64
+3521816,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,1.987
+3521817,steiger,2020/02/28 11:13:37+00,G0473,Zandvoort,bestaand,1,283,,,55.169
+3521819,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,21.647
+3521820,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,35.033
+3521826,stuw,2015/04/30 13:05:36+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,6.754
+3521828,steiger,2020/09/28 13:31:41+00,G0484,Alphen aan den Rijn,bestaand,1,283,,,9.445
+3521833,niet-bgt: ponton,2015/03/03 10:48:12+00,G0599,Rotterdam,bestaand,1,283,,,109.109
+3521834,steiger,2018/09/25 13:26:53+00,G0453,Velsen,bestaand,1,283,,,3.124
+3521835,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521836,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,12.337
+3521837,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,557.811
+3521839,steiger,2013/08/27 15:48:01+00,G0599,Rotterdam,bestaand,1,283,,,255.612
+3521840,niet-bgt: ponton,2015/03/13 10:08:47+00,G0599,Rotterdam,bestaand,1,283,,,365.954
+3521841,steiger,2020/06/24 08:27:25+00,G0546,Leiden,bestaand,1,283,,,87.755
+3521845,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,34.002
+3521846,steiger,2014/10/16 09:30:29+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,13.945
+3521847,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,30.205
+3521850,hoogspanningsmast,2019/10/11 09:34:54+00,G1706,Cranendonck,bestaand,0,283,,,30.604
+3521852,steiger,2020/08/25 16:07:59+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,138.906
+3521856,steiger,2020/08/27 12:25:29+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,2.126
+3521860,hoogspanningsmast,2019/10/11 09:34:54+00,G1706,Cranendonck,bestaand,0,283,,,24.936
+3521863,steiger,2020/08/20 21:45:02+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,23.809
+3521865,stuw,2019/11/08 02:28:19+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.401
+3521868,stuw,2019/11/08 02:28:19+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.651
+3521869,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,419.268
+3521870,steiger,2014/10/02 13:57:32+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,17.798
+3521871,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,18.934
+3521872,steiger,2018/08/08 14:04:13+00,G0518,'s-Gravenhage,bestaand,1,283,,,52.509
+3521873,steiger,2013/09/10 10:07:59+00,G0599,Rotterdam,bestaand,1,283,,,23.927
+3521875,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521876,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,878.78
+3521877,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521878,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521879,steiger,2020/03/31 10:17:12+00,G0599,Rotterdam,bestaand,2,283,,,67.003
+3521880,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,1.913
+3521881,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,611.258
+3521882,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,48.476
+3521883,gemaal,2015/04/10 17:28:22+00,G0518,'s-Gravenhage,bestaand,0,283,,,0.75
+3521885,stuw,2015/04/30 13:05:36+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.224
+3521887,gemaal,2015/12/11 09:39:30+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,18.915
+3521888,stuw,2021/07/21 09:52:21+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,2.584
+3521893,gemaal,2015/12/11 09:39:30+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,23.866
+3521896,stuw,2022/03/21 14:00:03+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,3.125
+3521899,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3521900,steiger,2014/10/01 14:44:11+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,3.649
+3521901,steiger,2020/12/01 09:36:58+00,G0599,Rotterdam,bestaand,1,283,,,1331.208
+3521902,steiger,2022/01/06 07:22:03+00,G0599,Rotterdam,bestaand,1,283,,,941.213
+3521903,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,64.926
+3521904,niet-bgt: ponton,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,18.49
+3521905,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521907,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,1839.05
+3521908,steiger,2017/01/27 10:30:00+00,G0599,Rotterdam,bestaand,1,283,,,550.74
+3521909,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,837.288
+3521914,niet-bgt: keermuur,2015/02/18 16:39:57+00,G0995,Lelystad,bestaand,-1,283,,,26.161
+3521924,steiger,2020/08/13 17:53:05+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,13.248
+3521929,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,76.601
+3521931,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,75.955
+3521933,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,21.313
+3521934,niet-bgt: ponton,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,1,283,,,79.034
+3521935,gemaal,2015/07/06 12:37:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,5.185
+3521938,gemaal,2017/06/07 11:01:26+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,1.225
+3521939,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,199.241
+3521940,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,3.344
+3521941,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,36.684
+3521943,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,57.234
+3521944,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,69.131
+3521947,stuw,2015/12/11 09:39:30+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,5.155
+3521948,stuw,2019/07/25 16:06:46+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,6.451
+3521952,stuw,2015/09/08 14:34:50+00,G1507,Horst aan de Maas,bestaand,0,283,,,3.441
+3521953,stuw,2021/08/03 14:21:33+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,2.376
+3521954,steiger,2021/12/24 13:38:02+00,G0301,Zutphen,bestaand,1,283,,,15.287
+3521956,stuw,2021/08/19 10:39:56+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,7.799
+3521957,steiger,2021/08/12 12:55:41+00,G0361,Alkmaar,bestaand,1,283,,,2.42
+3521959,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,83.317
+3521960,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,39.071
+3521961,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,34.853
+3521963,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,90.043
+3521964,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,8.202
+3521965,niet-bgt: ponton,2015/03/03 09:44:35+00,G0599,Rotterdam,bestaand,1,283,,,106.5
+3521966,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3521967,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3521968,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,4.656
+3521969,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,8.05
+3521971,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,1104.484
+3521976,steiger,2014/10/24 12:34:06+00,G0995,Lelystad,bestaand,1,283,,,24.894
+3521977,stuw,2021/12/24 12:46:01+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,0.579
+3521978,niet-bgt: ponton,2022/01/18 07:43:25+00,G0599,Rotterdam,bestaand,1,283,,,208.347
+3521983,stuw,2021/05/11 17:22:44+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,5.331
+3521991,steiger,2013/08/27 15:48:00+00,G0599,Rotterdam,bestaand,1,283,,,37.949
+3521992,niet-bgt: ponton,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,113.169
+3521993,steiger,2016/03/30 08:43:47+00,G0546,Leiden,bestaand,1,283,,,78.317
+3521994,stuw,2020/10/22 14:10:20+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.035
+3521996,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,157.78
+3521997,strekdam,2015/07/21 11:13:08+00,G0599,Rotterdam,bestaand,0,283,,,6023.603
+3521999,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.842
+3522000,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,338.838
+3522001,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,2,283,,,39.053
+3522006,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,1.55
+3522009,stuw,2020/06/24 11:32:23+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,39.993
+3522013,steiger,2017/01/05 15:33:24+00,G0599,Rotterdam,bestaand,1,283,,,1562.066
+3522016,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,100.144
+3522017,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3522018,steiger,2018/07/05 10:05:16+00,G0546,Leiden,bestaand,1,283,,,12.409
+3522019,niet-bgt: ponton,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,958.244
+3522021,steiger,2017/02/24 20:45:22+00,G0546,Leiden,bestaand,1,283,,,2.504
+3522023,hoogspanningsmast,2018/10/02 08:22:46+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3522027,stuw,2020/08/12 17:03:06+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,13.068
+3522033,niet-bgt: keermuur,2015/02/18 16:40:15+00,G0995,Lelystad,bestaand,0,283,,,61.908
+3522038,steiger,2020/08/27 12:25:29+00,W0650,Waterschap Zuiderzeeland,bestaand,1,283,,,2.09
+3522046,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,128.558
+3522047,steiger,2014/09/19 14:49:39+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,10.371
+3522048,steiger,2015/09/23 11:14:45+00,G0599,Rotterdam,bestaand,1,283,,,64.254
+3522050,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,1,283,,,284.776
+3522052,steiger,2015/03/05 14:23:38+00,G0599,Rotterdam,bestaand,1,283,,,480.198
+3522056,hoogspanningsmast,2018/08/23 06:49:53+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3522057,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,10.308
+3522058,steiger,2014/02/13 08:23:47+00,G0546,Leiden,bestaand,1,283,,,73.681
+3522059,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,738.827
+3522060,steiger,2015/09/23 15:01:35+00,G0599,Rotterdam,bestaand,2,283,,,35.091
+3522061,steiger,2014/10/01 14:44:11+00,G0531,Hendrik-Ido-Ambacht,bestaand,1,283,,,4.453
+3522062,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,263.884
+3522063,gemaal,2018/04/17 17:51:24+00,G1916,Leidschendam-Voorburg,bestaand,0,283,,,8.749
+3522066,steiger,2017/05/04 12:10:50+00,G0599,Rotterdam,bestaand,1,283,,,46.043
+3522067,steiger,2017/05/04 12:10:50+00,G0599,Rotterdam,bestaand,1,283,,,57.25
+3522069,steiger,2017/05/04 12:10:50+00,G0599,Rotterdam,bestaand,1,283,,,45.994
+3522071,hoogspanningsmast,2015/07/15 13:16:49+00,G0599,Rotterdam,bestaand,0,283,,,27.058
+3522072,steiger,2017/05/04 12:10:50+00,G0599,Rotterdam,bestaand,1,283,,,57.138
+3522076,stuw,2020/12/10 04:53:41+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.836
+3522077,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,9325.026
+3522079,steiger,2015/09/11 09:19:57+00,G0599,Rotterdam,bestaand,1,283,,,70.409
+3522080,gemaal,2015/04/10 17:28:20+00,G0518,'s-Gravenhage,bestaand,0,283,,,0.869
+3522081,steiger,2015/09/16 10:14:20+00,G0599,Rotterdam,bestaand,1,283,,,92.475
+3522084,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3522085,stuw,2018/11/27 11:43:47+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,2.236
+3522086,steiger,2015/09/24 06:38:00+00,G0599,Rotterdam,bestaand,1,283,,,1125.18
+3522087,stuw,2020/12/10 04:53:41+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.924
+3522088,steiger,2015/01/27 14:45:06+00,G0599,Rotterdam,bestaand,1,283,,,28.369
+3522089,gemaal,2015/07/06 12:37:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,13.284
+3522090,stuw,2018/12/07 09:47:41+00,G0889,Beesel,bestaand,0,283,,,0.691
+3522091,stuw,2018/12/07 09:47:41+00,G0889,Beesel,bestaand,0,283,,,0.699
+3522094,steiger,2020/01/15 15:59:34+00,G0855,Tilburg,bestaand,1,283,,,20.128
+3522101,steiger,2020/01/15 15:59:34+00,G0855,Tilburg,bestaand,1,283,,,85.086
+3522102,steiger,2014/10/24 12:33:29+00,G0995,Lelystad,bestaand,1,283,,,20.245
+3522107,stuw,2020/02/25 09:47:58+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,7.621
+3522109,hoogspanningsmast,2017/11/15 15:03:26+00,G0228,Ede,bestaand,0,283,,,33.039
+3522110,hoogspanningsmast,2017/09/15 08:20:08+00,G0228,Ede,bestaand,0,283,,,6.924
+3522113,stuw,2022/04/15 04:04:52+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.366
+3522114,hoogspanningsmast,2019/07/30 13:36:06+00,G0228,Ede,bestaand,0,283,,,32.301
+3522119,steiger,2019/01/24 18:44:35+00,W0539,Waterschap De Dommel,bestaand,1,283,,,4.748
+3522121,gemaal,2015/09/24 12:40:24+00,G1674,Roosendaal,bestaand,0,283,,,2.376
+3522122,gemaal,2015/09/24 12:40:22+00,G1674,Roosendaal,bestaand,0,283,,,3.887
+3522123,stuw,2021/04/21 15:12:09+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,0.205
+3522124,stuw,2018/05/02 10:01:55+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.949
+3522125,stuw,2018/04/30 15:57:58+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,3.517
+3522126,stuw,2015/09/24 12:38:28+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,3.456
+3522127,steiger,2019/02/21 16:30:30+00,G0632,Woerden,bestaand,1,283,,,18.118
+3522128,stuw,2018/09/04 16:52:08+00,G1674,Roosendaal,bestaand,-1,283,,,23.427
+3522130,stuw,2021/12/16 13:46:35+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,1.786
+3522131,steiger,2019/10/24 11:38:36+00,G0995,Lelystad,bestaand,1,283,,,8.818
+3522132,stuw,2021/12/16 13:46:35+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,1.142
+3522133,steiger,2019/10/24 11:43:31+00,G0995,Lelystad,bestaand,1,283,,,52.451
+3522134,steiger,2019/10/24 11:43:31+00,G0995,Lelystad,bestaand,1,283,,,51.799
+3522135,steiger,2022/11/14 14:34:45+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,2.65
+3522136,stuw,2021/04/21 15:12:09+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,0.219
+3522137,steiger,2021/12/16 14:02:12+00,W0647,Waterschap Noorderzijlvest,bestaand,1,283,,,21.212
+3522148,steiger,2015/11/05 15:12:55+00,G0384,Diemen,bestaand,1,283,,,2.348
+3522149,hoogspanningsmast,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,0,283,,,4.841
+3522151,gemaal,2016/06/03 16:34:14+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,8.971
+3522153,steiger,2015/02/18 16:07:26+00,G0384,Diemen,bestaand,1,283,,,10.77
+3522157,steiger,2016/04/11 11:03:50+00,G0384,Diemen,bestaand,1,283,,,3.604
+3522159,steiger,2015/05/13 15:33:15+00,L0004,Prorail,bestaand,1,283,,,19.843
+3522160,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522161,gemaal,2016/06/03 16:34:14+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,3.318
+3522162,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522166,steiger,2021/11/25 15:58:30+00,G0361,Alkmaar,bestaand,1,283,,,6.786
+3522168,steiger,2021/11/25 15:58:30+00,G0361,Alkmaar,bestaand,1,283,,,2.479
+3522169,steiger,2021/11/25 15:58:30+00,G0361,Alkmaar,bestaand,1,283,,,1.235
+3522173,steiger,2021/11/25 15:58:30+00,G0361,Alkmaar,bestaand,1,283,,,1.383
+3522174,stuw,2021/12/01 05:19:12+00,L0003,Ministerie van Defensie,bestaand,0,283,,,0.732
+3522180,steiger,2019/10/24 11:38:36+00,G0995,Lelystad,bestaand,1,283,,,8.792
+3522182,niet-bgt: overkluizing,2021/12/16 16:32:57+00,G0193,Zwolle,bestaand,-1,283,,,52.042
+3522183,steiger,2019/10/24 11:38:36+00,G0995,Lelystad,bestaand,1,283,,,8.869
+3522184,steiger,2019/10/24 11:38:36+00,G0995,Lelystad,bestaand,1,283,,,8.911
+3522185,steiger,2019/10/24 11:43:31+00,G0995,Lelystad,bestaand,1,283,,,49.512
+3522186,steiger,2019/10/24 11:38:36+00,G0995,Lelystad,bestaand,1,283,,,8.931
+3522189,niet-bgt: overkluizing,2021/12/16 16:32:57+00,G0193,Zwolle,bestaand,-1,283,,,36.202
+3522190,steiger,2019/10/24 12:13:52+00,G0995,Lelystad,bestaand,1,283,,,33.12
+3522191,niet-bgt: overkluizing,2021/12/16 16:32:57+00,G0193,Zwolle,bestaand,-1,283,,,32.687
+3522192,steiger,2019/10/24 11:43:31+00,G0995,Lelystad,bestaand,1,283,,,47.694
+3522193,steiger,2019/10/24 11:38:37+00,G0995,Lelystad,bestaand,1,283,,,8.856
+3522194,steiger,2019/10/24 11:43:31+00,G0995,Lelystad,bestaand,1,283,,,67.129
+3522195,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,1.766
+3522199,steiger,2013/08/09 14:58:32+00,G0599,Rotterdam,bestaand,1,283,,,1056.576
+3522200,steiger,2013/08/09 14:46:17+00,G0599,Rotterdam,bestaand,1,283,,,10.35
+3522201,steiger,2014/02/20 15:18:49+00,G0599,Rotterdam,bestaand,1,283,,,13.976
+3522202,stuw,2020/11/20 00:18:31+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.517
+3522203,steiger,2014/02/20 15:18:50+00,G0599,Rotterdam,bestaand,1,283,,,14.878
+3522204,steiger,2013/08/09 14:46:16+00,G0599,Rotterdam,bestaand,1,283,,,10.464
+3522205,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,9.44
+3522206,steiger,2013/08/09 14:58:32+00,G0599,Rotterdam,bestaand,1,283,,,5.841
+3522207,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,5.958
+3522208,stuw,2020/11/19 23:46:11+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.641
+3522209,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,9.451
+3522210,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,9.527
+3522212,steiger,2016/04/11 11:03:50+00,G0384,Diemen,bestaand,1,283,,,5.355
+3522216,gemaal,2016/06/03 16:34:14+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,2.409
+3522218,steiger,2016/03/04 16:54:03+00,G0384,Diemen,bestaand,1,283,,,29.488
+3522223,stuw,2020/09/17 10:35:33+00,G0384,Diemen,bestaand,0,283,,,24.786
+3522224,gemaal,2016/06/03 16:34:14+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,1.056
+3522234,niet-bgt: ponton,2015/10/15 07:11:17+00,G0599,Rotterdam,bestaand,1,283,,,16.158
+3522235,gemaal,2015/10/16 07:33:17+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,1.516
+3522236,gemaal,2015/12/11 08:01:36+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,12.066
+3522237,niet-bgt: ponton,2015/10/15 07:11:17+00,G0599,Rotterdam,bestaand,1,283,,,16.158
+3522238,steiger,2013/08/13 14:27:26+00,G0599,Rotterdam,bestaand,1,283,,,13.507
+3522240,gemaal,2015/12/11 08:01:36+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,11.056
+3522241,steiger,2015/10/16 07:33:17+00,W0655,Waterschap Hollandse Delta,bestaand,1,283,,,5.511
+3522244,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,32.692
+3522245,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,37.046
+3522246,gemaal,2015/09/07 12:04:14+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.32
+3522247,stuw,2015/08/04 08:43:13+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,1.234
+3522248,steiger,2022/04/09 18:41:11+00,G0363,Amsterdam,bestaand,1,283,,,42.933
+3522249,stuw,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,0,283,,,1.088
+3522250,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,139.809
+3522251,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,28.069
+3522252,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,20.686
+3522253,sluis,2015/09/08 15:55:13+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.76
+3522254,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,3.286
+3522255,steiger,2022/04/09 18:41:11+00,G0363,Amsterdam,bestaand,1,283,,,83.263
+3522256,stuw,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,0,283,,,1.046
+3522257,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,31.729
+3522258,steiger,2013/08/09 14:46:16+00,G0599,Rotterdam,bestaand,1,283,,,188.598
+3522259,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,5.969
+3522260,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,6.06
+3522261,steiger,2013/08/09 14:46:16+00,G0599,Rotterdam,bestaand,1,283,,,39.192
+3522262,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,6.19
+3522263,steiger,2013/10/02 15:35:12+00,G0599,Rotterdam,bestaand,1,283,,,36.183
+3522264,steiger,2015/07/17 13:17:23+00,G0599,Rotterdam,bestaand,1,283,,,100.109
+3522265,niet-bgt: ponton,2015/04/13 12:05:37+00,G0599,Rotterdam,bestaand,1,283,,,716.781
+3522266,steiger,2013/08/09 14:46:17+00,G0599,Rotterdam,bestaand,1,283,,,124.174
+3522267,steiger,2014/02/20 15:18:50+00,G0599,Rotterdam,bestaand,1,283,,,14.928
+3522268,steiger,2015/05/12 10:13:03+00,G0599,Rotterdam,bestaand,1,283,,,6.791
+3522269,steiger,2017/01/30 13:05:49+00,G0599,Rotterdam,bestaand,1,283,,,203.24
+3522270,steiger,2014/05/08 10:33:04+00,G0599,Rotterdam,bestaand,1,283,,,135.724
+3522271,steiger,2015/11/12 08:50:47+00,G0599,Rotterdam,bestaand,1,283,,,30.385
+3522274,stuw,2016/02/01 12:36:32+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,8.592
+3522279,stuw,2016/03/22 17:04:32+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,7.951
+3522283,steiger,2021/08/27 09:47:26+00,G0642,Zwijndrecht,bestaand,1,283,,,67.346
+3522284,gemaal,2015/12/11 08:01:36+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,4.444
+3522286,steiger,2015/06/23 09:55:50+00,G0599,Rotterdam,bestaand,1,283,,,59.5
+3522288,steiger,2015/09/29 09:47:26+00,W0655,Waterschap Hollandse Delta,bestaand,1,283,,,20.903
+3522290,steiger,2015/02/24 15:55:58+00,G0281,Tiel,bestaand,1,283,,,3.716
+3522291,gemaal,2015/02/24 16:00:36+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,29.477
+3522292,stuw,2022/02/03 14:59:07+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,119.71
+3522293,gemaal,2015/02/24 15:59:56+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,4.408
+3522294,gemaal,2015/02/24 15:57:48+00,G0281,Tiel,bestaand,0,283,,,7.377
+3522295,gemaal,2015/02/24 15:59:58+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,6.038
+3522298,sluis,2015/09/08 15:55:13+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.78
+3522299,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,37.41
+3522300,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,38.786
+3522301,stuw,2014/06/24 13:21:38+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.634
+3522302,sluis,2015/09/08 14:07:30+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,1.44
+3522303,sluis,2015/09/08 15:55:13+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.67
+3522304,steiger,2022/04/09 18:41:11+00,G0363,Amsterdam,bestaand,1,283,,,93.084
+3522305,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,105.785
+3522306,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,49.033
+3522307,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,3.019
+3522308,gemaal,2014/06/25 11:15:40+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,36.932
+3522309,sluis,2015/09/08 14:07:30+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,2.083
+3522310,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,33.979
+3522311,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,31.218
+3522312,sluis,2015/09/08 14:07:30+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,1.631
+3522313,gemaal,2021/06/28 08:11:37+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,1.628
+3522314,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,11.786
+3522315,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,50.167
+3522316,sluis,2015/09/08 15:55:13+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.786
+3522317,steiger,2014/06/11 09:26:48+00,G0599,Rotterdam,bestaand,1,283,,,1266.441
+3522318,gemaal,2015/11/11 07:53:18+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,7.861
+3522321,gemaal,2015/11/11 07:53:18+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,1.491
+3522323,gemaal,2015/11/11 07:39:43+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,5.066
+3522326,steiger,2015/05/08 00:00:00+00,G0344,Utrecht,bestaand,1,283,,,11.662
+3522327,stuw,2022/07/28 09:15:29+00,G0344,Utrecht,bestaand,0,283,,,3.597
+3522328,steiger,2018/12/18 11:48:39+00,G0342,Soest,bestaand,1,283,,,27.098
+3522329,steiger,2018/12/18 11:48:39+00,G0342,Soest,bestaand,1,283,,,17.769
+3522330,steiger,2018/12/18 11:48:39+00,G0342,Soest,bestaand,1,283,,,6.379
+3522331,steiger,2018/12/18 11:48:39+00,G0342,Soest,bestaand,1,283,,,22.13
+3522332,steiger,2018/12/18 11:48:39+00,G0342,Soest,bestaand,1,283,,,4.009
+3522333,steiger,2018/12/18 11:48:39+00,G0342,Soest,bestaand,1,283,,,3.045
+3522334,steiger,2018/12/18 11:48:39+00,G0342,Soest,bestaand,1,283,,,36.995
+3522335,steiger,2016/02/01 13:49:53+00,G0222,Doetinchem,bestaand,1,283,,,303.916
+3522340,steiger,2019/11/14 14:36:11+00,W0656,Hoogheemraadschap van Schieland en de Krimpenerwaard,bestaand,1,283,,,16.711
+3522342,gemaal,2018/01/29 17:11:47+00,G0917,Heerlen,bestaand,0,283,,,7.073
+3522344,gemaal,2019/11/15 12:29:48+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.874
+3522345,gemaal,2018/01/29 17:11:47+00,G0917,Heerlen,bestaand,0,283,,,26.757
+3522346,stuw,2019/11/15 12:29:48+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,0.98
+3522355,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,5.844
+3522356,steiger,2022/04/10 08:54:40+00,G0363,Amsterdam,bestaand,1,283,,,58.268
+3522357,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,40.239
+3522358,steiger,2022/04/09 16:44:43+00,G0363,Amsterdam,bestaand,1,283,,,26.258
+3522359,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,42.075
+3522360,steiger,2022/04/09 19:29:27+00,G0363,Amsterdam,bestaand,1,283,,,270.79
+3522361,stuw,2014/06/24 16:13:47+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.923
+3522362,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,32.309
+3522363,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,12.007
+3522364,sluis,2015/09/08 15:55:13+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.597
+3522365,steiger,2022/04/09 18:08:15+00,G0363,Amsterdam,bestaand,1,283,,,26.541
+3522366,sluis,2015/09/08 15:55:13+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.64
+3522367,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,6.372
+3522368,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,6.476
+3522369,sluis,2015/09/08 15:55:13+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.671
+3522370,steiger,2022/04/09 18:41:11+00,G0363,Amsterdam,bestaand,1,283,,,131.271
+3522371,steiger,2018/12/18 11:48:39+00,G0342,Soest,bestaand,1,283,,,10.13
+3522373,stuw,2019/04/10 08:20:43+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,1.849
+3522374,gemaal,2019/04/24 12:48:00+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,2.187
+3522375,gemaal,2019/04/24 12:48:00+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,0.678
+3522376,gemaal,2019/04/24 12:48:00+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,4.328
+3522377,gemaal,2019/04/24 12:48:00+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,2.827
+3522378,gemaal,2019/04/24 12:48:00+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,3.189
+3522379,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,2.847
+3522383,steiger,2020/02/05 07:44:48+00,G0484,Alphen aan den Rijn,bestaand,1,283,,,16.277
+3522386,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522387,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522388,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522389,sluis,2019/10/11 06:40:52+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,1.464
+3522391,steiger,2020/03/23 09:38:39+00,G0484,Alphen aan den Rijn,bestaand,1,283,,,26.273
+3522392,gemaal,2015/11/30 10:15:05+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,4.847
+3522393,steiger,2015/09/25 11:22:12+00,W0372,Hoogheemraadschap van Delfland,bestaand,1,283,,,138.127
+3522394,gemaal,2015/10/13 12:03:57+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,18.031
+3522395,steiger,2015/09/16 10:42:07+00,W0372,Hoogheemraadschap van Delfland,bestaand,2,283,,,18.202
+3522396,gemaal,2015/11/30 10:15:05+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,20.43
+3522397,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.042
+3522399,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.424
+3522403,steiger,2019/01/14 14:53:29+00,G1900,Súdwest Fryslân,bestaand,1,283,,,2.981
+3522404,stuw,2019/11/15 12:29:48+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.598
+3522407,steiger,2019/01/14 14:53:28+00,G1900,Súdwest Fryslân,bestaand,1,283,,,2.789
+3522408,steiger,2019/01/14 14:53:29+00,G1900,Súdwest Fryslân,bestaand,1,283,,,3.57
+3522412,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.074
+3522413,steiger,2021/01/07 11:53:44+00,G0546,Leiden,bestaand,1,283,,,2.787
+3522415,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,3.104
+3522416,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.938
+3522417,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.096
+3522418,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,0.922
+3522419,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.124
+3522420,steiger,2019/01/14 14:53:29+00,G1900,Súdwest Fryslân,bestaand,1,283,,,3.845
+3522421,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,97.887
+3522422,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,30.784
+3522423,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,240.333
+3522424,sluis,2015/11/20 14:15:45+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,1.58
+3522425,stuw,2014/06/24 16:13:47+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,1.28
+3522426,stuw,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,0,283,,,1.877
+3522427,sluis,2015/09/08 15:55:13+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,0.753
+3522428,steiger,2022/04/09 18:41:11+00,G0363,Amsterdam,bestaand,1,283,,,91.558
+3522429,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,30.872
+3522430,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,36.661
+3522431,steiger,2022/04/09 18:41:11+00,G0363,Amsterdam,bestaand,1,283,,,90.535
+3522432,stuw,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,0,283,,,0.764
+3522433,stuw,2014/07/01 13:43:00+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,21.878
+3522434,steiger,2022/04/10 08:06:49+00,G0363,Amsterdam,bestaand,1,283,,,14.52
+3522435,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522436,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522438,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522441,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.499
+3522442,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522443,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522444,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522446,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.501
+3522447,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.499
+3522448,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.499
+3522449,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522450,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522451,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522452,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522453,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522454,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522455,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522458,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.052
+3522459,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,3.702
+3522460,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.767
+3522461,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.239
+3522462,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,1.959
+3522463,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.075
+3522464,hoogspanningsmast,2015/12/02 10:07:12+00,G0882,Landgraaf,bestaand,0,283,,,2.56
+3522465,hoogspanningsmast,2015/12/02 10:07:12+00,G0882,Landgraaf,bestaand,0,283,,,2.558
+3522466,hoogspanningsmast,2015/12/02 10:07:12+00,G0882,Landgraaf,bestaand,0,283,,,2.56
+3522467,gemaal,2015/12/23 10:10:08+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,6.857
+3522469,stuw,2021/01/08 07:41:24+00,G1740,Neder-Betuwe,bestaand,0,283,,,1.253
+3522470,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.062
+3522471,steiger,2019/02/21 16:30:30+00,G0632,Woerden,bestaand,1,283,,,3.932
+3522474,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.05
+3522476,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.137
+3522477,steiger,2019/02/21 16:30:30+00,G0632,Woerden,bestaand,1,283,,,3.855
+3522478,steiger,2016/03/16 10:27:21+00,G0383,Castricum,bestaand,1,283,,,1.938
+3522479,steiger,2019/02/21 16:30:30+00,G0632,Woerden,bestaand,1,283,,,4.057
+3522480,steiger,2016/07/29 12:04:07+00,P0029,Zeeland,bestaand,1,283,,,8.167
+3522481,stuw,2018/01/03 16:46:51+00,G1740,Neder-Betuwe,bestaand,0,283,,,2.34
+3522482,steiger,2019/02/21 16:30:30+00,G0632,Woerden,bestaand,1,283,,,4.034
+3522483,steiger,2019/02/21 16:30:30+00,G0632,Woerden,bestaand,1,283,,,4.177
+3522484,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.036
+3522485,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.544
+3522486,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,1.145
+3522487,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.878
+3522488,stuw,2014/06/24 16:13:47+00,W0155,"Waterschap Amstel, Gooi en Vecht",bestaand,0,283,,,2.034
+3522489,steiger,2015/06/19 11:16:15+00,G0362,Amstelveen,bestaand,1,283,,,20.6
+3522491,steiger,2015/06/19 11:16:15+00,G0362,Amstelveen,bestaand,1,283,,,13.396
+3522492,steiger,2015/06/19 11:16:15+00,G0362,Amstelveen,bestaand,1,283,,,18.721
+3522493,steiger,2015/06/19 11:16:15+00,G0362,Amstelveen,bestaand,1,283,,,9.816
+3522494,steiger,2015/06/19 11:16:15+00,G0362,Amstelveen,bestaand,1,283,,,61.027
+3522496,steiger,2015/06/25 09:03:39+00,G0362,Amstelveen,bestaand,1,283,,,104.172
+3522497,hoogspanningsmast,2017/01/25 18:17:49+00,G0855,Tilburg,bestaand,0,283,,,2.56
+3522498,stuw,2020/11/19 22:43:42+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,1.891
+3522499,stuw,2020/11/20 00:04:15+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.317
+3522500,stuw,2020/11/20 00:10:51+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.316
+3522503,hoogspanningsmast,2019/01/16 13:15:05+00,G1978,Molenlanden,bestaand,0,283,,,0.766
+3522504,stuw,2020/11/16 09:28:42+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,1.014
+3522508,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.499
+3522509,steiger,2018/02/16 23:32:46+00,P0028,Zuid-Holland,bestaand,1,283,,,19.224
+3522510,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.501
+3522511,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.5
+3522512,stuw,2015/12/16 16:08:57+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,3.676
+3522513,gemaal,2015/11/13 13:51:51+00,G0394,Haarlemmermeer,bestaand,0,283,,,67.706
+3522514,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.501
+3522515,niet-bgt: overkluizing,2018/03/01 15:42:18+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,-1,283,,,82.724
+3522516,niet-bgt: overkluizing,2018/03/01 15:42:18+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,-1,283,,,66.408
+3522517,steiger,2019/04/23 07:20:44+00,G0394,Haarlemmermeer,bestaand,1,283,,,53.074
+3522519,steiger,2018/04/10 10:55:30+00,G0388,Enkhuizen,bestaand,1,283,,,31.082
+3522522,steiger,2019/02/08 15:46:03+00,G1970,Noardeast-Fryslân,bestaand,1,283,,,21.549
+3522523,steiger,2018/06/03 22:07:18+00,G1621,Lansingerland,bestaand,1,283,,,8.733
+3522524,steiger,2020/02/19 15:41:53+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,1.499
+3522525,stuw,2015/12/23 10:10:08+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,2.035
+3522526,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,2.843
+3522527,stuw,2022/02/10 15:39:19+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,3.263
+3522528,stuw,2022/02/10 16:30:45+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,1.596
+3522529,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,1.997
+3522530,steiger,2021/03/18 11:35:41+00,G0362,Amstelveen,bestaand,1,283,,,7.728
+3522531,steiger,2015/08/12 15:18:11+00,G0362,Amstelveen,bestaand,1,283,,,141.901
+3522532,steiger,2015/08/12 15:18:11+00,G0362,Amstelveen,bestaand,1,283,,,129.436
+3522533,steiger,2015/08/12 15:18:11+00,G0362,Amstelveen,bestaand,1,283,,,81.43
+3522534,steiger,2015/11/30 10:06:52+00,G0362,Amstelveen,bestaand,1,283,,,45.286
+3522535,steiger,2015/08/12 15:18:11+00,G0362,Amstelveen,bestaand,1,283,,,80.916
+3522536,steiger,2015/08/12 15:18:11+00,G0362,Amstelveen,bestaand,1,283,,,142.483
+3522539,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,5.195
+3522540,steiger,2020/01/24 10:30:16+00,G0546,Leiden,bestaand,1,283,,,4.362
+3522542,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,1.086
+3522543,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,6.169
+3522547,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,1.123
+3522549,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,2.161
+3522555,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,0.868
+3522556,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,5.39
+3522561,stuw,2015/05/12 10:57:34+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,5.04
+3522562,steiger,2016/09/14 12:17:34+00,G0995,Lelystad,bestaand,1,283,,,34.195
+3522563,stuw,2015/09/03 08:20:02+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,2.849
+3522564,steiger,2015/09/29 10:19:37+00,G0394,Haarlemmermeer,bestaand,1,283,,,116.64
+3522568,steiger,2015/09/29 10:19:37+00,G0394,Haarlemmermeer,bestaand,1,283,,,165.409
+3522570,steiger,2015/09/29 10:19:37+00,G0394,Haarlemmermeer,bestaand,1,283,,,118.081
+3522571,niet-bgt: keermuur,2017/10/10 10:13:40+00,G0394,Haarlemmermeer,bestaand,1,283,,,3.539
+3522573,stuw,2016/01/05 16:19:00+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,2.077
+3522578,niet-bgt: keermuur,2016/01/05 16:19:00+00,G0489,Barendrecht,bestaand,-1,283,,,8.781
+3522580,gemaal,2016/01/05 16:19:00+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,7.359
+3522582,gemaal,2016/01/05 16:19:00+00,G0489,Barendrecht,bestaand,0,283,,,4.786
+3522584,niet-bgt: keermuur,2021/08/06 10:55:51+00,G0394,Haarlemmermeer,bestaand,1,283,,,3.678
+3522585,niet-bgt: keermuur,2017/10/10 10:13:40+00,G0394,Haarlemmermeer,bestaand,1,283,,,3.761
+3522586,niet-bgt: keermuur,2017/10/10 10:13:40+00,G0394,Haarlemmermeer,bestaand,1,283,,,353.767
+3522587,gemaal,2015/12/09 09:08:55+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.694
+3522588,steiger,2019/06/20 14:57:24+00,G0037,Stadskanaal,bestaand,1,283,,,347.747
+3522589,steiger,2016/01/15 11:35:50+00,G0362,Amstelveen,bestaand,1,283,,,65.31
+3522592,steiger,2022/06/13 08:05:43+00,G0484,Alphen aan den Rijn,bestaand,1,283,,,261.311
+3522594,steiger,2022/06/29 12:45:56+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,168.543
+3522606,hoogspanningsmast,2015/11/06 09:11:47+00,G0505,Dordrecht,bestaand,0,283,,,1.59
+3522607,steiger,2015/11/06 09:11:47+00,G0505,Dordrecht,bestaand,1,283,,,8.195
+3522615,steiger,2017/11/16 09:13:30+00,P0028,Zuid-Holland,bestaand,1,283,,,3.394
+3522616,steiger,2015/11/27 10:24:41+00,P0028,Zuid-Holland,bestaand,1,283,,,1.14
+3522617,steiger,2015/11/27 10:24:41+00,P0028,Zuid-Holland,bestaand,1,283,,,0.969
+3522618,steiger,2015/11/27 10:24:41+00,P0028,Zuid-Holland,bestaand,1,283,,,2.217
+3522619,steiger,2015/11/27 10:24:41+00,P0028,Zuid-Holland,bestaand,1,283,,,2.219
+3522620,steiger,2015/11/27 10:24:41+00,P0028,Zuid-Holland,bestaand,1,283,,,22.202
+3522621,steiger,2015/11/27 10:24:41+00,P0028,Zuid-Holland,bestaand,1,283,,,180.381
+3522622,hoogspanningsmast,2015/07/15 13:16:49+00,G0599,Rotterdam,bestaand,0,283,,,27.056
+3522630,hoogspanningsmast,2019/01/15 13:55:23+00,G1731,Midden-Drenthe,bestaand,0,283,,,24.432
+3522634,niet-bgt: vispassage,2019/02/06 14:23:43+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,0,283,,,38.649
+3522636,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,7.846
+3522641,steiger,2016/01/05 16:19:00+00,G0489,Barendrecht,bestaand,1,283,,,40.659
+3522648,niet-bgt: keermuur,2016/01/05 16:19:00+00,G0489,Barendrecht,bestaand,-1,283,,,7.134
+3522649,gemaal,2016/01/05 16:19:00+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,4.366
+3522652,stuw,2016/01/05 16:19:00+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,1.448
+3522653,niet-bgt: overkluizing,2021/03/10 19:47:04+00,G0796,'s-Hertogenbosch,bestaand,0,283,,,111.151
+3522654,stuw,2022/01/24 13:04:16+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,0.304
+3522655,niet-bgt: overkluizing,2021/03/10 19:47:04+00,G0796,'s-Hertogenbosch,bestaand,0,283,,,52.766
+3522656,stuw,2022/01/21 04:58:45+00,W0663,Waterschap Vechtstromen,bestaand,-1,283,,,0.375
+3522662,stuw,2022/02/04 16:29:31+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,0.913
+3522673,steiger,2015/11/27 10:24:41+00,P0028,Zuid-Holland,bestaand,1,283,,,0.944
+3522674,steiger,2015/12/01 08:46:36+00,G0546,Leiden,bestaand,1,283,,,4.834
+3522675,steiger,2015/12/01 08:46:36+00,G0546,Leiden,bestaand,1,283,,,240.809
+3522676,gemaal,2015/11/20 13:10:48+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,1.591
+3522677,stuw,2022/04/25 10:37:05+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,2.246
+3522678,stuw,2022/04/25 10:37:05+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,2.544
+3522679,stuw,2022/03/28 14:47:32+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,10.418
+3522680,hoogspanningsmast,2015/11/20 08:31:06+00,G1742,Rijssen-Holten,bestaand,0,283,,,0.702
+3522681,hoogspanningsmast,2015/11/20 08:31:06+00,G1742,Rijssen-Holten,bestaand,0,283,,,1.004
+3522682,hoogspanningsmast,2015/11/20 08:31:06+00,G1742,Rijssen-Holten,bestaand,0,283,,,1.039
+3522683,steiger,2015/11/20 09:58:50+00,G1742,Rijssen-Holten,bestaand,1,283,,,15.252
+3522684,steiger,2015/11/20 09:58:50+00,G1742,Rijssen-Holten,bestaand,1,283,,,15.281
+3522685,gemaal,2015/11/30 10:53:46+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,13.376
+3522686,sluis,2017/01/05 10:56:52+00,G0599,Rotterdam,bestaand,0,283,,,22.097
+3522688,steiger,2015/07/27 08:22:31+00,G0599,Rotterdam,bestaand,1,283,,,3339.075
+3522689,niet-bgt: keermuur,2021/08/24 12:18:34+00,G1507,Horst aan de Maas,bestaand,0,283,,,5.88
+3522694,stuw,2022/03/21 16:28:11+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,23.961
+3522695,stuw,2020/11/20 00:22:45+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.689
+3522696,niet-bgt: keermuur,2021/08/24 12:18:34+00,G1507,Horst aan de Maas,bestaand,0,283,,,6.132
+3522698,stuw,2020/11/19 23:43:58+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.507
+3522700,stuw,2020/11/20 00:04:22+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.623
+3522703,stuw,2020/11/19 23:46:20+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.648
+3522704,stuw,2018/02/20 07:23:30+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,0.97
+3522708,stuw,2016/01/05 16:19:00+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,2.594
+3522723,steiger,2021/07/15 11:13:07+00,G0363,Amsterdam,bestaand,1,283,,,3.794
+3522726,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,58.122
+3522727,hoogspanningsmast,2021/04/28 11:42:30+00,G0703,Reimerswaal,bestaand,0,283,,,12.926
+3522728,hoogspanningsmast,2021/04/28 11:42:30+00,G0703,Reimerswaal,bestaand,0,283,,,12.39
+3522729,steiger,2021/07/15 11:13:07+00,G0363,Amsterdam,bestaand,1,283,,,423.751
+3522730,steiger,2020/03/31 10:17:12+00,G0599,Rotterdam,bestaand,1,283,,,99.331
+3522731,steiger,2013/08/27 15:48:01+00,G0599,Rotterdam,bestaand,1,283,,,2890.237
+3522732,steiger,2013/08/27 15:04:00+00,G0599,Rotterdam,bestaand,1,283,,,647.182
+3522733,steiger,2019/04/02 12:26:23+00,G0599,Rotterdam,bestaand,1,283,,,12.416
+3522734,sluis,2017/01/05 10:56:52+00,G0599,Rotterdam,bestaand,0,283,,,21.595
+3522736,sluis,2017/01/05 10:56:52+00,G0599,Rotterdam,bestaand,0,283,,,19.517
+3522737,niet-bgt: ponton,2020/03/31 10:17:12+00,G0599,Rotterdam,bestaand,1,283,,,81.998
+3522738,niet-bgt: ponton,2015/03/10 10:15:04+00,G0599,Rotterdam,bestaand,1,283,,,1842.882
+3522739,steiger,2013/08/27 15:48:01+00,G0599,Rotterdam,bestaand,1,283,,,55.161
+3522740,steiger,2015/06/11 07:27:58+00,G0599,Rotterdam,bestaand,1,283,,,265.187
+3522741,steiger,2014/06/26 10:50:14+00,G0599,Rotterdam,bestaand,1,283,,,1147.017
+3522742,stuw,2020/11/17 21:21:52+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,36.052
+3522743,stuw,2020/11/19 23:45:42+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.558
+3522746,stuw,2020/11/20 00:14:57+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,0.377
+3522748,stuw,2020/11/19 23:48:02+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,1.094
+3522750,stuw,2018/04/19 08:46:44+00,G0855,Tilburg,bestaand,0,283,,,2.485
+3522751,stuw,2018/04/19 08:46:44+00,G0855,Tilburg,bestaand,0,283,,,2.566
+3522752,steiger,2022/01/06 18:38:30+00,G1621,Lansingerland,bestaand,1,283,,,51.114
+3522753,steiger,2018/06/03 22:07:18+00,G1621,Lansingerland,bestaand,1,283,,,25.262
+3522754,stuw,2020/11/20 00:05:00+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,1.891
+3522755,steiger,2018/06/03 22:07:18+00,G1621,Lansingerland,bestaand,1,283,,,4.254
+3522756,gemaal,2020/05/15 13:42:07+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,5.121
+3522757,steiger,2016/05/27 13:50:06+00,G0489,Barendrecht,bestaand,1,283,,,10.936
+3522758,steiger,2018/06/03 22:07:18+00,G1621,Lansingerland,bestaand,1,283,,,77.565
+3522759,steiger,2016/05/27 13:50:06+00,G0489,Barendrecht,bestaand,1,283,,,8.606
+3522760,stuw,2022/02/07 16:28:24+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,0.414
+3522761,stuw,2022/02/07 16:28:24+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,3.884
+3522764,stuw,2015/11/20 10:34:19+00,G0222,Doetinchem,bestaand,0,283,,,1.721
+3522766,stuw,2016/04/29 09:39:21+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,9.444
+3522775,stuw,2021/01/15 08:20:01+00,G1740,Neder-Betuwe,bestaand,0,283,,,1.277
+3522776,gemaal,2018/01/03 16:46:51+00,G1740,Neder-Betuwe,bestaand,0,283,,,5.269
+3522778,niet-bgt: ponton,2015/03/09 11:10:41+00,G0599,Rotterdam,bestaand,1,283,,,153.84
+3522780,sluis,2017/01/05 10:56:52+00,G0599,Rotterdam,bestaand,0,283,,,20.423
+3522781,steiger,2020/03/31 10:17:12+00,G0599,Rotterdam,bestaand,1,283,,,110.605
+3522782,steiger,2013/08/27 15:48:01+00,G0599,Rotterdam,bestaand,1,283,,,59.121
+3522783,steiger,2013/08/27 14:04:42+00,G0599,Rotterdam,bestaand,1,283,,,15.847
+3522784,sluis,2017/01/05 10:56:52+00,G0599,Rotterdam,bestaand,0,283,,,19.93
+3522792,gemaal,2021/01/12 15:05:14+00,G0080,Leeuwarden,bestaand,0,283,,,112.936
+3522793,gemaal,2021/01/12 15:05:14+00,G0080,Leeuwarden,bestaand,0,283,,,107.741
+3522794,stuw,2015/11/18 15:30:03+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,3.038
+3522795,steiger,2017/07/19 08:20:34+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,78.718
+3522796,steiger,2017/07/19 08:20:34+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,9.654
+3522797,steiger,2017/08/16 15:36:57+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,1025.209
+3522798,steiger,2017/07/19 08:20:34+00,G0796,'s-Hertogenbosch,bestaand,1,283,,,12.75
+3522809,gemaal,2015/11/30 10:15:05+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,2.406
+3522811,gemaal,2015/10/13 12:01:57+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,105.358
+3522827,stuw,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,9.821
+3522829,gemaal,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,3.341
+3522830,niet-bgt: keermuur,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,70.288
+3522832,stuw,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,2.889
+3522833,gemaal,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,7.472
+3522834,gemaal,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,3.276
+3522837,stuw,2021/01/11 04:21:40+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,3.328
+3522841,stuw,2021/01/11 04:21:41+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,9.294
+3522843,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,8.811
+3522844,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,6.013
+3522845,steiger,2013/08/09 14:46:16+00,G0599,Rotterdam,bestaand,1,283,,,10.431
+3522846,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,5.93
+3522847,steiger,2017/01/30 13:05:49+00,G0599,Rotterdam,bestaand,1,283,,,2208.567
+3522848,steiger,2013/08/09 14:46:16+00,G0599,Rotterdam,bestaand,1,283,,,10.212
+3522849,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,6.048
+3522850,steiger,2013/08/09 14:46:17+00,G0599,Rotterdam,bestaand,1,283,,,125.845
+3522851,steiger,2013/08/09 14:46:17+00,G0599,Rotterdam,bestaand,1,283,,,10.43
+3522852,steiger,2014/02/20 15:18:50+00,G0599,Rotterdam,bestaand,1,283,,,15.188
+3522853,steiger,2015/11/12 08:47:11+00,G0599,Rotterdam,bestaand,1,283,,,54.198
+3522854,gemaal,2015/11/17 10:12:01+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,4.851
+3522855,steiger,2015/11/12 08:50:47+00,G0599,Rotterdam,bestaand,1,283,,,27.908
+3522856,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,5.953
+3522857,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,5.891
+3522858,steiger,2013/08/09 14:46:16+00,G0599,Rotterdam,bestaand,1,283,,,223.036
+3522859,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,5.883
+3522860,steiger,2013/08/09 14:46:16+00,G0599,Rotterdam,bestaand,1,283,,,18.019
+3522861,steiger,2013/08/09 14:58:33+00,G0599,Rotterdam,bestaand,1,283,,,6.034
+3522862,stuw,2022/05/31 15:49:25+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,0.464
+3522863,steiger,2016/02/11 16:31:47+00,G0222,Doetinchem,bestaand,1,283,,,15.045
+3522865,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,58.646
+3522866,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,57.653
+3522870,stuw,2015/11/20 10:34:14+00,G0222,Doetinchem,bestaand,0,283,,,0.919
+3522871,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,22.561
+3522873,stuw,2015/11/20 10:34:12+00,G0222,Doetinchem,bestaand,0,283,,,0.665
+3522876,steiger,2016/02/11 16:32:23+00,G0222,Doetinchem,bestaand,1,283,,,15.018
+3522891,hoogspanningsmast,2019/05/09 16:51:43+00,G1709,Moerdijk,bestaand,0,283,,,2.99
+3522892,hoogspanningsmast,2019/05/09 16:51:43+00,G1709,Moerdijk,bestaand,0,283,,,2.612
+3522893,hoogspanningsmast,2019/05/09 16:51:43+00,G1709,Moerdijk,bestaand,0,283,,,2.202
+3522894,stuw,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.149
+3522895,stuw,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.413
+3522896,stuw,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,13.753
+3522897,hoogspanningsmast,2019/05/09 16:51:43+00,G1709,Moerdijk,bestaand,0,283,,,1.765
+3522901,gemaal,2016/10/05 12:23:20+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,1.034
+3522902,gemaal,2016/10/05 12:23:20+00,G0150,Deventer,bestaand,0,283,,,7.099
+3522905,gemaal,2016/10/05 12:23:20+00,G0150,Deventer,bestaand,0,283,,,0.49
+3522906,steiger,2020/08/20 14:46:55+00,G0388,Enkhuizen,bestaand,1,283,,,20.101
+3522907,gemaal,2016/10/05 12:23:20+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,9.235
+3522908,steiger,2022/04/09 17:38:54+00,G0363,Amsterdam,bestaand,1,283,,,20.587
+3522914,stuw,2019/07/25 16:06:46+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,2.719
+3522917,stuw,2019/08/26 17:17:12+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,2.608
+3522920,steiger,2015/09/18 13:03:31+00,G0599,Rotterdam,bestaand,1,283,,,13.623
+3522932,hoogspanningsmast,2019/05/09 16:51:43+00,G1709,Moerdijk,bestaand,0,283,,,2.15
+3522933,stuw,2015/12/04 16:48:32+00,G1709,Moerdijk,bestaand,0,283,,,1.621
+3522934,hoogspanningsmast,2019/05/09 16:51:43+00,G1709,Moerdijk,bestaand,0,283,,,0.996
+3522935,stuw,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,0.646
+3522936,hoogspanningsmast,2019/05/09 16:51:43+00,G1709,Moerdijk,bestaand,0,283,,,2.639
+3522937,stuw,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,0.933
+3522938,stuw,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,3.999
+3522939,steiger,2015/12/04 16:48:32+00,G1709,Moerdijk,bestaand,1,283,,,166.826
+3522940,stuw,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,0.694
+3522941,stuw,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,3.078
+3522942,hoogspanningsmast,2019/05/09 16:51:43+00,G1709,Moerdijk,bestaand,0,283,,,1.773
+3522943,hoogspanningsmast,2019/05/09 16:51:43+00,G1709,Moerdijk,bestaand,0,283,,,0.909
+3522944,stuw,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,2.607
+3522945,gemaal,2020/06/02 13:49:11+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,3.084
+3522946,gemaal,2020/03/19 13:27:03+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,14.789
+3522950,stuw,2022/06/27 05:35:00+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,48.492
+3522952,gemaal,2020/03/19 13:27:03+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,44.213
+3522954,stuw,2022/03/18 15:08:13+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,4.245
+3522955,stuw,2022/03/18 15:08:13+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,16.604
+3522956,stuw,2022/03/18 15:08:13+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,4.191
+3522957,stuw,2019/12/09 10:42:51+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,0,283,,,7.968
+3522961,steiger,2016/03/04 16:54:03+00,G0384,Diemen,bestaand,1,283,,,5.058
+3522975,gemaal,2016/10/05 12:23:20+00,G0150,Deventer,bestaand,0,283,,,0.49
+3522976,steiger,2020/10/07 07:44:18+00,W0616,Hoogheemraadschap van Rijnland,bestaand,1,283,,,5.493
+3522978,stuw,2022/04/15 04:04:52+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,1.607
+3522979,stuw,2022/10/27 16:25:47+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,14.911
+3522981,gemaal,2022/10/27 16:25:47+00,W0663,Waterschap Vechtstromen,bestaand,-1,283,,,18.025
+3522983,gemaal,2015/12/04 16:48:32+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,2.788
+3522984,stuw,2015/12/06 19:40:12+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,0.843
+3522985,gemaal,2021/01/29 15:37:43+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,8.361
+3522986,stuw,2015/12/06 19:40:12+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,3.242
+3522988,stuw,2015/12/06 19:40:12+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.554
+3522989,stuw,2015/12/06 19:40:12+00,G1709,Moerdijk,bestaand,0,283,,,1.146
+3522990,stuw,2017/10/31 15:07:58+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,2.732
+3522991,stuw,2015/12/06 19:40:12+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.225
+3522992,stuw,2019/02/07 13:36:02+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.575
+3522993,stuw,2015/12/06 19:40:12+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.271
+3522994,hoogspanningsmast,2017/05/01 12:51:58+00,G1948,Schijndel,bestaand,0,283,,,0.368
+3522997,stuw,2015/09/23 13:13:26+00,G1674,Roosendaal,bestaand,0,283,,,3.399
+3522998,stuw,2022/11/10 15:03:46+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,2.607
+3522999,steiger,2021/01/07 11:53:44+00,G0546,Leiden,bestaand,1,283,,,1.782
+3523000,stuw,2018/11/12 19:02:36+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.332
+3523001,steiger,2021/01/13 19:56:33+00,G0532,Stede Broec,bestaand,1,283,,,15.598
+3523007,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,1.95
+3523008,stuw,2015/12/06 19:44:30+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,3.478
+3523009,stuw,2015/12/06 19:44:30+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,4.389
+3523010,stuw,2015/12/06 19:44:30+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.124
+3523011,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,1.874
+3523012,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,1.804
+3523013,gemaal,2015/12/06 19:44:30+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,3.447
+3523014,steiger,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,1,283,,,145.372
+3523015,gemaal,2022/09/01 15:30:04+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,5.071
+3523016,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,2.132
+3523017,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,1.811
+3523018,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,1.847
+3523019,gemaal,2015/12/06 19:44:30+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,1.35
+3523020,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,1.885
+3523021,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,2.06
+3523022,steiger,2017/01/20 08:57:37+00,G0599,Rotterdam,bestaand,1,283,,,0.742
+3523023,hoogspanningsmast,2016/07/27 12:30:17+00,L0003,Ministerie van Defensie,bestaand,0,283,,,49.746
+3523024,niet-bgt: keermuur,2022/11/21 15:51:47+00,G0233,Ermelo,bestaand,0,283,,,2.521
+3523029,steiger,2019/03/05 09:47:40+00,G0547,Leiderdorp,bestaand,1,283,,,16.915
+3523032,stuw,2016/04/29 09:39:21+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,19.262
+3523033,gemaal,2016/02/10 10:11:36+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,4.626
+3523035,steiger,2022/11/17 13:15:47+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,15.427
+3523036,steiger,2022/11/17 13:15:47+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,118.25
+3523037,steiger,2023/01/31 15:16:14+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,8.892
+3523038,steiger,2022/11/17 13:15:47+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,8.991
+3523039,steiger,2022/11/17 13:15:47+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,49.942
+3523041,niet-bgt: keermuur,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,1307.385
+3523047,stuw,2015/11/18 15:30:03+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,0.303
+3523048,niet-bgt: keermuur,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,90.859
+3523052,gemaal,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,4.807
+3523053,niet-bgt: ponton,2015/03/18 10:45:11+00,G0599,Rotterdam,bestaand,1,283,,,20.567
+3523054,hoogspanningsmast,2017/01/30 17:33:45+00,G0599,Rotterdam,bestaand,0,283,,,4.839
+3523055,steiger,2013/08/13 14:20:51+00,G0599,Rotterdam,bestaand,1,283,,,38.911
+3523056,steiger,2013/08/13 14:20:50+00,G0599,Rotterdam,bestaand,1,283,,,37.317
+3523057,niet-bgt: ponton,2015/03/18 16:26:42+00,G0599,Rotterdam,bestaand,1,283,,,238.843
+3523058,steiger,2015/03/17 08:16:14+00,G0599,Rotterdam,bestaand,2,283,,,76.081
+3523059,steiger,2015/03/18 10:45:11+00,G0599,Rotterdam,bestaand,1,283,,,181.931
+3523060,steiger,2015/02/17 17:06:42+00,G0599,Rotterdam,bestaand,1,283,,,1433.964
+3523061,steiger,2013/08/13 13:59:51+00,G0599,Rotterdam,bestaand,1,283,,,194.371
+3523062,steiger,2013/08/13 14:20:50+00,G0599,Rotterdam,bestaand,1,283,,,38.8
+3523063,niet-bgt: ponton,2015/03/18 16:26:42+00,G0599,Rotterdam,bestaand,1,283,,,89.705
+3523064,steiger,2015/03/18 11:42:37+00,G0599,Rotterdam,bestaand,1,283,,,51.709
+3523065,steiger,2014/04/30 14:29:47+00,G0599,Rotterdam,bestaand,2,283,,,118.995
+3523066,steiger,2013/08/27 09:58:23+00,G0599,Rotterdam,bestaand,1,283,,,30.373
+3523067,steiger,2013/08/13 14:55:21+00,G0599,Rotterdam,bestaand,1,283,,,3305.569
+3523068,steiger,2013/08/13 14:20:51+00,G0599,Rotterdam,bestaand,1,283,,,39.001
+3523069,niet-bgt: ponton,2015/03/18 16:26:42+00,G0599,Rotterdam,bestaand,1,283,,,244.078
+3523070,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,1.718
+3523071,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,1.254
+3523072,steiger,2021/07/09 14:40:18+00,G1709,Moerdijk,bestaand,2,283,,,15.6
+3523073,steiger,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,1,283,,,406.923
+3523074,gemaal,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,33.357
+3523075,stuw,2019/01/16 13:15:05+00,G1978,Molenlanden,bestaand,0,283,,,1.847
+3523076,stuw,2017/06/27 10:19:55+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,19.146
+3523077,steiger,2018/09/28 15:31:16+00,G0484,Alphen aan den Rijn,bestaand,1,283,,,18.191
+3523078,steiger,2019/10/24 11:29:45+00,G0995,Lelystad,bestaand,1,283,,,12.79
+3523083,stuw,2014/09/25 07:49:54+00,W0650,Waterschap Zuiderzeeland,bestaand,0,283,,,10.09
+3523084,stuw,2017/06/23 12:11:06+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,2.446
+3523085,steiger,2017/07/06 13:23:47+00,G0484,Alphen aan den Rijn,bestaand,1,283,,,9.386
+3523087,stuw,2016/02/10 10:11:21+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,6.249
+3523089,stuw,2020/05/11 12:19:18+00,W0647,Waterschap Noorderzijlvest,bestaand,0,283,,,11.049
+3523090,steiger,2015/05/11 13:30:50+00,G0363,Amsterdam,bestaand,1,283,,,601.552
+3523093,stuw,2016/07/04 10:08:46+00,W0664,Waterschap Drents Overijsselse Delta,bestaand,0,283,,,28.706
+3523094,steiger,2015/11/26 16:46:56+00,G0363,Amsterdam,bestaand,1,283,,,152.231
+3523097,steiger,2015/07/14 10:22:03+00,L0004,Prorail,bestaand,1,283,,,7.261
+3523101,niet-bgt: keermuur,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,513.695
+3523109,niet-bgt: keermuur,2015/11/18 15:30:03+00,G0489,Barendrecht,bestaand,0,283,,,740.868
+3523110,stuw,2015/11/18 15:30:03+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,3.502
+3523112,steiger,2015/06/04 07:05:26+00,G0599,Rotterdam,bestaand,1,283,,,4.181
+3523113,niet-bgt: ponton,2015/03/17 16:09:54+00,G0599,Rotterdam,bestaand,1,283,,,139.792
+3523114,steiger,2014/04/28 07:23:17+00,G0599,Rotterdam,bestaand,1,283,,,60.112
+3523115,steiger,2013/08/13 13:59:51+00,G0599,Rotterdam,bestaand,1,283,,,5.98
+3523116,steiger,2013/08/13 14:55:22+00,G0599,Rotterdam,bestaand,1,283,,,1965.054
+3523117,steiger,2013/08/13 14:20:51+00,G0599,Rotterdam,bestaand,1,283,,,103.689
+3523119,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,7.812
+3523120,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,4.845
+3523121,steiger,2015/11/09 15:01:41+00,G1900,Súdwest Fryslân,bestaand,1,283,,,531.726
+3523122,steiger,2015/10/23 09:46:59+00,G1900,Súdwest Fryslân,bestaand,1,283,,,7.172
+3523127,gemaal,2019/11/20 14:12:09+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,53.522
+3523129,steiger,2022/04/09 15:45:23+00,G0363,Amsterdam,bestaand,1,283,,,143.686
+3523130,sluis,2018/04/04 23:50:41+00,G0281,Tiel,bestaand,0,283,,,141.062
+3523131,sluis,2015/12/09 10:33:13+00,G0281,Tiel,bestaand,0,283,,,3.245
+3523132,sluis,2015/12/09 10:26:26+00,G0281,Tiel,bestaand,0,283,,,121.839
+3523133,sluis,2015/12/09 10:32:27+00,G0281,Tiel,bestaand,0,283,,,66.766
+3523134,gemaal,2015/02/24 15:56:54+00,G0281,Tiel,bestaand,0,283,,,1.949
+3523142,stuw,2020/11/13 11:19:48+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,12.621
+3523144,stuw,2020/11/13 11:19:49+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,3.265
+3523150,gemaal,2020/09/17 14:41:10+00,G0865,Vught,bestaand,0,283,,,7.48
+3523153,steiger,2015/08/27 12:52:26+00,W0372,Hoogheemraadschap van Delfland,bestaand,1,283,,,77.451
+3523154,gemaal,2015/08/28 08:36:44+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,49.19
+3523156,gemaal,2017/01/05 08:59:21+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,112.712
+3523157,hoogspanningsmast,2017/02/05 15:40:03+00,G1916,Leidschendam-Voorburg,bestaand,0,283,,,8.249
+3523158,hoogspanningsmast,2017/02/05 15:40:56+00,G1916,Leidschendam-Voorburg,bestaand,0,283,,,4.096
+3523159,hoogspanningsmast,2017/02/05 15:40:56+00,G1916,Leidschendam-Voorburg,bestaand,0,283,,,4.096
+3523160,hoogspanningsmast,2019/04/24 08:07:26+00,G0599,Rotterdam,bestaand,0,283,,,9.872
+3523161,gemaal,2020/02/14 15:23:50+00,W0636,Hoogheemraadschap De Stichtse Rijnlanden,bestaand,0,283,,,2.471
+3523162,stuw,2017/01/05 08:59:21+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,0,283,,,264.922
+3523163,hoogspanningsmast,2019/04/24 08:07:26+00,G0599,Rotterdam,bestaand,0,283,,,11.071
+3523165,hoogspanningsmast,2017/02/05 15:39:56+00,G1916,Leidschendam-Voorburg,bestaand,0,283,,,9.013
+3523166,gemaal,2015/09/01 08:08:15+00,W0372,Hoogheemraadschap van Delfland,bestaand,0,283,,,10.443
+3523167,sluis,2015/12/07 10:28:00+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,2.832
+3523169,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,30.425
+3523170,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,3.319
+3523174,sluis,2015/09/30 10:57:50+00,G1900,Súdwest Fryslân,bestaand,1,283,,,6.39
+3523175,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,244.588
+3523176,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,166.693
+3523177,steiger,2015/08/06 00:00:00+00,G1900,Súdwest Fryslân,bestaand,0,283,,,8.083
+3523178,steiger,2015/08/06 00:00:00+00,G1900,Súdwest Fryslân,bestaand,0,283,,,18.348
+3523181,sluis,2015/12/07 10:28:00+00,W0646,Waterschap Hunze en Aa's,bestaand,0,283,,,3.465
+3523190,steiger,2019/07/12 19:01:32+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,457.716
+3523191,steiger,2019/07/12 19:01:32+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,356.89
+3523194,steiger,2019/07/12 19:01:32+00,L0002,Ministerie van Infrastructuur en Waterstaat (IenW),bestaand,1,283,,,300.564
+3523195,stuw,2015/11/06 15:10:39+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,4.356
+3523202,steiger,2019/08/15 14:38:03+00,W0621,Waterschap Rivierenland,bestaand,1,283,,,7.272
+3523206,steiger,2019/08/20 11:30:31+00,W0152,Waterschap Rijn en IJssel,bestaand,1,283,,,0.426
+3523211,steiger,2019/08/20 11:30:31+00,W0152,Waterschap Rijn en IJssel,bestaand,1,283,,,0.416
+3523213,steiger,2019/08/28 16:35:47+00,G0166,Kampen,bestaand,1,283,,,8.781
+3523214,steiger,2015/09/01 08:08:15+00,W0372,Hoogheemraadschap van Delfland,bestaand,1,283,,,170.098
+3523216,steiger,2015/09/01 08:08:15+00,W0372,Hoogheemraadschap van Delfland,bestaand,1,283,,,113.026
+3523218,hoogspanningsmast,2015/07/15 13:16:49+00,G0599,Rotterdam,bestaand,0,283,,,12.124
+3523219,steiger,2015/08/27 12:52:26+00,W0372,Hoogheemraadschap van Delfland,bestaand,1,283,,,18.885
+3523222,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,2.178
+3523223,steiger,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,1,283,,,33.552
+3523224,hoogspanningsmast,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,0,283,,,1.02
+3523225,steiger,2015/12/06 19:44:30+00,G1709,Moerdijk,bestaand,1,283,,,429.948
+3523231,steiger,2018/04/06 20:16:20+00,G0518,'s-Gravenhage,bestaand,1,283,,,27.156
+3523232,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,2.718
+3523233,stuw,2022/06/27 05:35:32+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,5.649
+3523234,stuw,2022/03/25 16:13:38+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,8.43
+3523235,steiger,2015/09/30 10:53:44+00,G1900,Súdwest Fryslân,bestaand,1,283,,,230.553
+3523236,steiger,2018/04/06 20:16:20+00,G0518,'s-Gravenhage,bestaand,1,283,,,23.668
+3523237,steiger,2018/04/06 20:16:20+00,G0518,'s-Gravenhage,bestaand,1,283,,,20.762
+3523238,steiger,2018/07/10 14:05:30+00,G0150,Deventer,bestaand,2,283,,,4.649
+3523240,stuw,2022/06/27 05:35:32+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,2.596
+3523241,steiger,2015/08/06 00:00:00+00,G1900,Súdwest Fryslân,bestaand,0,283,,,3.181
+3523242,gemaal,2015/10/30 13:22:22+00,W0652,Waterschap Brabantse Delta,bestaand,0,283,,,49.741
+3523244,steiger,2019/08/15 16:05:51+00,G1966,Het Hogeland,bestaand,1,283,,,204.204
+3523249,steiger,2019/09/06 09:27:16+00,W0651,Hoogheemraadschap Hollands Noorderkwartier,bestaand,1,283,,,303.05
+3523255,gemaal,2018/01/11 10:51:10+00,W0539,Waterschap De Dommel,bestaand,0,283,,,4.768
+3523264,steiger,2019/01/21 09:02:00+00,G1960,West Betuwe,bestaand,1,283,,,24.93
+3523268,gemaal,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,0,283,,,2.574
+3523269,hoogspanningsmast,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523270,hoogspanningsmast,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523271,steiger,2022/01/03 17:06:43+00,G0080,Leeuwarden,bestaand,1,283,,,90.573
+3523272,hoogspanningsmast,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523273,gemaal,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,0,283,,,6.606
+3523274,steiger,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,1,283,,,10.321
+3523275,hoogspanningsmast,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523276,hoogspanningsmast,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523277,steiger,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,1,283,,,64.037
+3523279,gemaal,2015/12/03 12:39:16+00,G0080,Leeuwarden,bestaand,0,283,,,2.635
+3523281,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,30.871
+3523282,steiger,2015/08/06 00:00:00+00,G1900,Súdwest Fryslân,bestaand,0,283,,,67.385
+3523286,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,11.049
+3523287,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,10.487
+3523288,stuw,2022/04/16 00:22:18+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,17.643
+3523289,stuw,2022/03/18 17:17:19+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,41.352
+3523290,steiger,2015/09/11 00:00:00+00,G1900,Súdwest Fryslân,bestaand,1,283,,,12.556
+3523291,steiger,2015/08/06 00:00:00+00,G1900,Súdwest Fryslân,bestaand,0,283,,,57.644
+3523295,stuw,2016/04/11 10:28:22+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,8.729
+3523296,stuw,2016/04/11 10:28:22+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,5.141
+3523297,stuw,2021/12/20 15:38:07+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,7.54
+3523298,steiger,2022/04/09 17:38:54+00,G0363,Amsterdam,bestaand,1,283,,,99.376
+3523300,steiger,2022/04/09 18:08:15+00,G0363,Amsterdam,bestaand,1,283,,,21.485
+3523303,steiger,2022/04/09 17:38:54+00,G0363,Amsterdam,bestaand,1,283,,,134.668
+3523314,stuw,2020/10/07 15:33:09+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,22.349
+3523324,steiger,2021/01/13 19:56:33+00,G0532,Stede Broec,bestaand,1,283,,,12.905
+3523329,stuw,2015/09/08 14:34:50+00,G1507,Horst aan de Maas,bestaand,0,283,,,3.651
+3523330,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,3.032
+3523331,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,0.347
+3523332,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,0.3
+3523333,stuw,2019/07/24 16:39:01+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,6.984
+3523334,stuw,2021/08/03 14:21:33+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,10.322
+3523335,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,25.929
+3523336,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,2.992
+3523337,stuw,2019/07/24 16:39:01+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,5.558
+3523338,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,3.219
+3523339,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,2.785
+3523340,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,3.049
+3523341,stuw,2020/03/30 08:11:06+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,4.336
+3523346,steiger,2022/04/09 17:38:54+00,G0363,Amsterdam,bestaand,1,283,,,23.926
+3523348,steiger,2022/04/09 17:38:54+00,G0363,Amsterdam,bestaand,1,283,,,14.797
+3523351,steiger,2022/04/09 18:08:15+00,G0363,Amsterdam,bestaand,1,283,,,42.267
+3523353,steiger,2022/04/09 17:38:54+00,G0363,Amsterdam,bestaand,1,283,,,25.731
+3523354,steiger,2022/04/09 17:38:54+00,G0363,Amsterdam,bestaand,1,283,,,7.968
+3523355,steiger,2022/04/09 17:38:54+00,G0363,Amsterdam,bestaand,1,283,,,14.165
+3523356,steiger,2022/04/09 17:38:54+00,G0363,Amsterdam,bestaand,1,283,,,41.704
+3523364,stuw,2019/08/29 10:43:16+00,W0662,Waterschap Vallei en Veluwe,bestaand,0,283,,,1.383
+3523370,hoogspanningsmast,2019/04/25 13:56:34+00,G0228,Ede,bestaand,0,283,,,38.997
+3523371,hoogspanningsmast,2019/04/25 13:56:34+00,G0228,Ede,bestaand,0,283,,,11.155
+3523373,stuw,2015/11/25 16:04:38+00,W0616,Hoogheemraadschap van Rijnland,bestaand,0,283,,,0.407
+3523376,hoogspanningsmast,2019/04/25 13:56:34+00,G0228,Ede,bestaand,0,283,,,10.883
+3523377,hoogspanningsmast,2019/04/25 13:56:34+00,G0228,Ede,bestaand,0,283,,,27.493
+3523378,steiger,2014/08/24 13:54:19+00,G0392,Haarlem,bestaand,1,283,,,8.638
+3523379,stuw,2020/07/28 17:17:52+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,1.73
+3523380,stuw,2017/04/20 10:39:43+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,3.677
+3523381,stuw,2020/07/28 17:17:52+00,W0665,Waterschap Zeeuwse Eilanden,bestaand,0,283,,,17.54
+3523383,steiger,2018/07/26 11:33:06+00,G0546,Leiden,bestaand,1,283,,,5.806
+3523386,stuw,2016/01/28 08:58:04+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,1.228
+3523388,niet-bgt: bodemval,2022/09/07 16:37:51+00,W0663,Waterschap Vechtstromen,bestaand,-1,283,,,0.542
+3523394,stuw,2021/12/25 18:36:22+00,W0152,Waterschap Rijn en IJssel,bestaand,0,283,,,2.696
+3523397,steiger,2022/11/29 12:53:50+00,G0392,Haarlem,bestaand,1,283,,,14.354
+3523406,niet-bgt: keermuur,2022/12/15 11:22:39+00,G0402,,bestaand,0,283,,,7.005
+3523411,steiger,2015/01/09 15:21:12+00,G0363,Amsterdam,bestaand,1,283,,,19.072
+3523427,steiger,2014/09/15 11:20:35+00,G0995,Lelystad,bestaand,1,283,,,13.097
+3523430,steiger,2015/01/21 09:15:11+00,G0363,Amsterdam,bestaand,1,283,,,1.875
+3523432,steiger,2015/01/21 09:15:11+00,G0363,Amsterdam,bestaand,1,283,,,15.764
+3523437,steiger,2015/06/01 15:47:03+00,G0363,Amsterdam,bestaand,1,283,,,26.287
+3523446,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,11.228
+3523447,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.336
+3523448,gemaal,2023/01/20 17:14:18+00,G0080,Leeuwarden,bestaand,0,283,,,0.517
+3523449,hoogspanningsmast,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,0,283,,,13.773
+3523450,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.45
+3523451,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,9.896
+3523452,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,50.485
+3523453,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.215
+3523454,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.283
+3523455,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,12.38
+3523456,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.315
+3523457,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,10.111
+3523458,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.143
+3523459,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.52
+3523460,gemaal,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,0,283,,,0.788
+3523461,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,49.144
+3523474,steiger,2018/04/06 20:16:20+00,G0518,'s-Gravenhage,bestaand,1,283,,,0.726
+3523475,gemaal,2019/12/16 08:17:59+00,G1655,Halderberge,bestaand,0,283,,,3.23
+3523479,steiger,2018/04/06 20:16:20+00,G0518,'s-Gravenhage,bestaand,1,283,,,19.341
+3523480,steiger,2018/04/06 20:16:20+00,G0518,'s-Gravenhage,bestaand,1,283,,,19.426
+3523482,stuw,2016/02/02 11:34:20+00,W0654,Waterschap Aa en Maas,bestaand,0,283,,,0.656
+3523483,stuw,2016/02/02 11:34:20+00,W0654,Waterschap Aa en Maas,bestaand,0,283,,,0.509
+3523484,gemaal,2016/02/02 11:34:20+00,G0794,Helmond,bestaand,0,283,,,13.081
+3523485,stuw,2022/04/06 09:44:13+00,W0654,Waterschap Aa en Maas,bestaand,-1,283,,,5.793
+3523486,hoogspanningsmast,2018/05/30 11:13:15+00,L0001,"Ministerie van Landbouw, Natuur en Voedselkwaliteit (LNV)",bestaand,0,283,,,5.151
+3523487,stuw,2018/05/29 14:42:03+00,W0621,Waterschap Rivierenland,bestaand,0,283,,,3.798
+3523488,stuw,2022/04/06 09:44:13+00,W0654,Waterschap Aa en Maas,bestaand,-1,283,,,3.424
+3523489,hoogspanningsmast,2016/02/02 11:34:20+00,G0794,Helmond,bestaand,0,283,,,24.482
+3523490,steiger,2018/07/10 14:05:30+00,G0150,Deventer,bestaand,1,283,,,5.599
+3523492,steiger,2014/08/24 13:54:30+00,G0392,Haarlem,bestaand,1,283,,,214.376
+3523493,stuw,2022/01/25 14:40:31+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,7.302
+3523494,stuw,2016/02/10 11:09:32+00,G0613,Albrandswaard,bestaand,0,283,,,0.552
+3523495,gemaal,2016/02/10 11:09:32+00,W0655,Waterschap Hollandse Delta,bestaand,0,283,,,1.961
+3523497,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,77.117
+3523498,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.356
+3523499,gemaal,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,0,283,,,0.818
+3523500,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,26.471
+3523501,gemaal,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,0,283,,,1.036
+3523502,stuw,2023/01/23 16:47:01+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,3.471
+3523503,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.125
+3523504,steiger,2015/11/20 08:00:17+00,G0080,Leeuwarden,bestaand,1,283,,,5.345
+3523508,stuw,2022/10/05 12:05:17+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,1.747
+3523514,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,12.566
+3523515,steiger,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,1,283,,,56.418
+3523516,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523517,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523518,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523519,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523520,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,12.566
+3523521,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523522,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523523,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523524,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1.001
+3523525,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523527,niet-bgt: keermuur,2018/04/16 13:40:46+00,G0344,Utrecht,bestaand,0,283,,,1.036
+3523529,niet-bgt: keermuur,2018/04/16 13:40:43+00,G0344,Utrecht,bestaand,0,283,,,0.877
+3523531,steiger,2021/01/21 06:55:27+00,G0479,Zaanstad,bestaand,1,283,,,22.267
+3523534,strekdam,2021/01/22 16:02:20+00,G1731,Midden-Drenthe,bestaand,0,283,,,0.772
+3523536,steiger,2014/04/29 14:41:35+00,G0599,Rotterdam,bestaand,1,283,,,393.956
+3523539,stuw,2016/09/27 10:07:47+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,16.222
+3523540,stuw,2016/09/27 10:07:47+00,G0153,Enschede,bestaand,0,283,,,2.086
+3523541,steiger,2016/09/27 10:07:47+00,W0663,Waterschap Vechtstromen,bestaand,1,283,,,99.676
+3523544,stuw,2016/09/27 10:07:47+00,G0153,Enschede,bestaand,0,283,,,1.061
+3523546,stuw,2022/03/16 10:34:47+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,4.988
+3523547,stuw,2020/03/28 13:58:09+00,W0663,Waterschap Vechtstromen,bestaand,0,283,,,5.972
+3523549,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,1.811
+3523550,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,2.317
+3523551,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,13.926
+3523552,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,36.032
+3523553,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,14.185
+3523554,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,16.38
+3523555,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,88.179
+3523556,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,9.193
+3523557,gemaal,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,0,283,,,2.428
+3523558,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,23.443
+3523559,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,25.786
+3523560,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,44.54
+3523561,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,81.472
+3523562,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,14.779
+3523563,gemaal,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,0,283,,,4.095
+3523564,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,160.521
+3523565,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,8.107
+3523566,steiger,2015/11/20 08:17:20+00,G0080,Leeuwarden,bestaand,1,283,,,26.494
+3523568,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523569,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523570,hoogspanningsmast,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523571,steiger,2015/11/20 08:27:34+00,G0080,Leeuwarden,bestaand,1,283,,,13.203
+3523572,gemaal,2015/11/20 08:35:36+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,15.114
+3523573,hoogspanningsmast,2015/11/20 08:35:36+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523574,gemaal,2015/11/20 08:35:36+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,36.226
+3523575,gemaal,2015/11/20 08:35:36+00,W0653,Wetterskip Fryslân,bestaand,0,283,,,30.25
+3523576,gemaal,2018/10/17 16:14:08+00,G0080,Leeuwarden,bestaand,0,283,,,5.195
+3523577,steiger,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,1,283,,,13.675
+3523578,hoogspanningsmast,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523579,hoogspanningsmast,2015/11/20 08:41:24+00,G0080,Leeuwarden,bestaand,0,283,,,1
+3523580,steiger,2016/12/22 11:43:46+00,G0599,Rotterdam,bestaand,1,283,,,1657.391
+3523581,steiger,2017/04/25 08:31:03+00,G0599,Rotterdam,bestaand,1,283,,,835.49
+3523582,niet-bgt: ponton,2015/04/24 07:11:27+00,G0599,Rotterdam,bestaand,1,283,,,531.158
+3523583,steiger,2015/02/17 17:06:42+00,G0599,Rotterdam,bestaand,1,283,,,48.855
+3523584,gemaal,2018/01/31 10:48:24+00,G0599,Rotterdam,bestaand,0,283,,,14.779
+3523585,steiger,2019/05/20 08:26:25+00,G0074,Heerenveen,bestaand,1,283,,,7.562
+3523586,steiger,2019/05/20 08:26:25+00,G0074,Heerenveen,bestaand,1,283,,,2.18
+3523588,steiger,2014/07/02 13:27:26+00,G0599,Rotterdam,bestaand,1,283,,,4692.783
+3523589,hoogspanningsmast,2017/01/30 17:33:45+00,G0599,Rotterdam,bestaand,0,283,,,4.84
+3523590,steiger,2014/04/30 14:29:47+00,G0599,Rotterdam,bestaand,1,283,,,2176.863
+3523591,steiger,2013/08/13 14:10:52+00,G0599,Rotterdam,bestaand,1,283,,,92.694
+3523592,niet-bgt: ponton,2015/03/02 14:45:29+00,G0599,Rotterdam,bestaand,1,283,,,45.711
+3523593,steiger,2015/03/18 10:45:11+00,G0599,Rotterdam,bestaand,1,283,,,110.982
+3523594,steiger,2019/05/20 08:26:25+00,G0074,Heerenveen,bestaand,1,283,,,3
+3523595,niet-bgt: ponton,2015/03/18 16:26:42+00,G0599,Rotterdam,bestaand,1,283,,,405.415
+3523599,hoogspanningsmast,2017/01/26 03:58:02+00,G0855,Tilburg,bestaand,0,283,,,1.284
+3523600,stuw,2016/02/02 11:34:20+00,W0654,Waterschap Aa en Maas,bestaand,0,283,,,0.748
+3523601,gemaal,2020/03/05 10:16:19+00,G0794,Helmond,bestaand,0,283,,,2.661
+3523602,stuw,2016/02/02 11:34:20+00,W0654,Waterschap Aa en Maas,bestaand,0,283,,,0.749
+3523603,stuw,2016/02/02 11:34:20+00,W0654,Waterschap Aa en Maas,bestaand,0,283,,,0.674
+3523604,stuw,2016/02/02 11:34:20+00,W0654,Waterschap Aa en Maas,bestaand,0,283,,,0.808
+3523605,stuw,2016/06/28 06:55:37+00,G0794,Helmond,bestaand,0,283,,,27.31
+3523606,stuw,2016/02/02 11:34:20+00,W0654,Waterschap Aa en Maas,bestaand,0,283,,,0.686
+3523608,stuw,2016/02/02 11:34:20+00,W0654,Waterschap Aa en Maas,bestaand,0,283,,,1.599
+3523609,stuw,2016/02/02 11:34:20+00,W0654,Waterschap Aa en Maas,bestaand,0,283,,,0.721

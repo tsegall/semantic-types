@@ -1,0 +1,71 @@
+﻿OBJECTID,OMSCHRIJVING,GEBIED_ID,ONTVANGST_ID,STELSELTYPE,AFVOER_RWZI,Shape__Area,Shape__Length
+1,02 Noord Willemskanaal Noord,02,01,Gemengd/DWA,Via gemaal Hoboken,1537904.39930725,6557.95605926342
+2,08 Centrum West,08,07,Gemengd/DWA,Via gemaal Hoboken,805563.94883728,4732.16530042609
+3,07 Centrum Oost,07,01,Gemengd/DWA,Via gemaal Hoboken,670232.917892456,5544.37918305074
+4,06 Pittelo Noord,06,02,Gemengd,Via gemaal Hoboken,717631.546546936,3820.47733170166
+5,03 Noorderpark,03,02,Gemengd,Via gemaal Hoboken,610260.950889587,3679.04394466985
+6,18 Peelo Zuid,18,Ringpersleiding,Gemengd/DWA,Via ringpersleiding,842048.334938049,4339.45672995101
+7,17 Peelo 2,17,18,Gemengd/DWA,Via ringpersleiding,205645.515533447,2246.65319427386
+8,16 Peelo 1,16,18,Gemengd/DWA,Via ringpersleiding,322547.649658203,2383.46484842056
+9,20 Marsdijk 2,20,21,Gemengd/DWA,Via ringpersleiding,568177.044769287,4067.63783405998
+10,19 Marsdijk 1,19,22,Gemengd/DWA,Via gemaal Hoboken,506586.267669678,3416.73033384983
+11,22 Marsdijk Zuid,22,01,DWA,Via gemaal Hoboken,236796.096244812,2195.14472797332
+12,21 Marsdijk 3,21,Ringpersleiding,Gemengd/DWA,Via ringpersleiding,1058707.9236908,6185.76674355771
+13,26 Stoepveld,26,21,DWA,Via ringpersleiding,362492.099189758,2496.27621695459
+14,24 Marsdijk Noord,24,21,Gemengd,Via ringpersleiding,495650.324081421,3736.07739216459
+15,28 Oude Sluis,28,01,DWA,Via gemaal Hoboken,230881.064971924,2396.92912101889
+16,01 Dichtershof,01,RWZI,DWA,Via gemaal Hoboken,1850926.41007233,7033.37061281581
+17,09 Assen Oost,09,07,Gemengd/DWA,Via gemaal Hoboken,1487910.7237854,8144.59101487645
+18,33 Houtlaan,33,09,DWA,Via gemaal Hoboken,160547.490188599,2027.92436649659
+19,10 Valkenstein,10,09,Gemengd,Via gemaal Hoboken,195770.278587341,2223.03870972916
+20,05 Pittelo Zuid,05,04,Gemengd,Via gemaal Hoboken,470766.285118103,3597.28049009425
+21,04 De Lariks,04,02,Gemengd/DWA,Via gemaal Hoboken,704655.096511841,4000.34975324112
+22,30 Zendmastlocatie,30,Ringpersleiding,Gemengd/DWA,Via ringpersleiding,252586.226799011,2199.88942084621
+23,23 Oude Grachtpad,23,13,DWA,Via ringpersleiding,84634.8983306885,1187.92151747343
+24,12 Baggelhuizen Centrum,12,14,Gemengd,Via ringpersleiding,1033065.4178772,13692.7970580591
+25,14 Baggelhuizen Zuid,14,Ringpersleiding,Gemengd,Via ringpersleiding,680605.112876892,4476.40475091033
+26,38 Kloosterhage,38,31,DWA,Via ringpersleiding,737104.744361877,4141.46410443735
+27,71 Drukriool Asserstraat,71,Vries,DWA,Niet naar RWZI Assen,589151.34197998,10115.0787346111
+28,73 Drukriool Anreep Schieven,73,09,DWA,Via gemaal Hoboken,793954.791969299,6156.25663717152
+29,39 Kloostertuinen Kloosterhaven,39,31,DWA,Via ringpersleiding,263989.71207428,3136.65235061286
+30,31 Kloosterveen 2,31,Ringpersleiding,DWA,Via ringpersleiding,1420794.12931061,7720.03374018811
+31,34 Groene Dijk,34,Ringpersleiding,DWA,Via ringpersleiding,393728.216491699,4709.25534881803
+32,29 Kloosterveen Sterrenbeelden Planetenbuurt,29,Ringpersleiding,DWA,Via ringpersleiding,561433.351379395,5084.28804654254
+33,32 Loon,32,01,Gemengd,Via gemaal Hoboken,234774.308059692,2476.31640056926
+34,15 Zuiderpark,15,07,Gemengd,Via gemaal Hoboken,530510.47883606,5659.28786238693
+35,35 Messchenveld,35,24,DWA,Via gemaal Hoboken,1033174.86103058,6552.75185908616
+36,27 Peelerpark,27 ,Ringpersleiding,DWA,Via ringpersleiding,403640.680168152,2827.36438905635
+37,36 Ter Aard,36,Zeijen,Gemengd,Niet naar RWZI Assen,116554.465179443,2383.05650414262
+38,59 TT World,59,53,DWA,Via ringpersleiding,156124.173858643,1777.07916681343
+39,60A NAM Oost,60A,15,DWA,Via gemaal Hoboken,20255.2079238892,562.516247399336
+40,58 GGZ Zuid,58,51,Gemengd,Via gemaal Hoboken,127581.727607727,1964.88571543109
+41,75 Drukriool Witterweg,74,Bovensmilde,DWA,Niet naar RWZI Assen,255670.422874451,4933.43456348135
+42,52 Forenische Psychiatrisch Kliniek,52,50,DWA,Via gemaal Hoboken,54496.4499664307,943.310201067385
+43,79 Drukriool Graswijk,79,15,DWA,Via gemaal Hoboken,690594.570678711,9597.06676870499
+44,50 Diepstroeten,50,58,DWA,Via gemaal Hoboken,517390.162086487,3033.51429192862
+45,57 Recreatiepark Witterzomer,57,12,DWA,Via ringpersleiding,548909.888801575,3279.11565602554
+46,51 GGZ ,51,09,Gemengd,Via gemaal Hoboken,246979.767089844,2152.02780044551
+47,54 Verkeerspark,54,14,DWA,Via ringpersleiding,66217.8433074951,1044.91730090365
+48,56 Wilhelminaziekenhuis,56,07,DWA,Via gemaal Hoboken,115220.469787598,1364.83946090745
+49,77 Drukriool Rolderhoofdweg,77,09,DWA,Via gemaal Hoboken,133223.638183594,2667.13142897878
+50,76 Drukriool Lonerstraat Noord,76,01,DWA,Via gemaal Hoboken,216475.921485901,4271.88299602519
+51,80 Drukriool Lonerstraat Zuid,80,09,DWA,Via gemaal Hoboken,82509.5965652466,1397.44890868183
+52,75 Drukriool Peeloerweg,75,32,DWA,Via gemaal Hoboken,58826.4264373779,1108.74761521862
+53,55 JWF Kazerne,55,11,DWA,Via gemaal Hoboken,423058.371086121,2722.75404834333
+54,72 Drukriool Minister Cremerstraat,72,Zeijen,DWA,Niet naar RWZI Assen,169444.490562439,6184.28786879941
+55,13 baggelhuizen Stuwgebied,13,12,Gemengd,Via ringpersleiding,139428.264060974,1693.69626941506
+56,53 TT Circuit,53,14,DWA,Via ringpersleiding,793081.621620178,5330.36890715545
+57,11 Stuwgebied Centrum West,11,08,Gemengd,Via gemaal Hoboken,430111.828186035,3624.39487554761
+58,25A Schepersmaat Zuid,25A,15,DWA,Via gemaal Hoboken,181455.95665741,1876.76187755631
+59,81_Drukriool Witterhaar,81,12,DWA,Via ringpersleiding,66283.6676712036,2282.49112082541
+62,44 Assen Zuid,44,79,DWA,Via gemaal Hoboken,41851.2187728882,833.626386760876
+64,25B Schepersmaat Noord,25B,15,DWA,Via gemaal Hoboken,52515.0333786011,997.679730724069
+66,60B NAM West,60B,15,DWA,Via gemaal Hoboken,18918.3584671021,537.767003991038
+68,24D Marsdijk Noord,24D,24B,Gemengd,Via ringpersleiding,18940.3968200684,550.112400977779
+70,24B Marsdijk Noord,24B,24,Gemengd,Via ringpersleiding,103625.488418579,1571.42599266957
+71,,,,,,,
+72,,,,,,,
+73,,,,,,,
+74,,,,,,,
+76,24A Marsdijk Noord,24A,24,Gemengd,Via ringpersleiding,82837.5640716553,1319.00715684193
+78,24C Marsdijk Noord,24C,24,Gemengd,Via ringpersleiding,76892.2646789551,1416.73526962269

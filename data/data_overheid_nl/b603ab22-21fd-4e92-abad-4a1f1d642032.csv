@@ -1,0 +1,23 @@
+﻿OBJECTID,PGO_GEBIED_NAAM,PGO_GEBIED_NR,OPC_GEBIED_NAAM,OPC_GEBIED_NR,ONDERHOUDSREGIO_NAAM,ONDERHOUDSREGIO_AFKORTING,PCA,TECHNIEKVELD,Shape__Area,Shape__Length,PRORAIL_GEBIED
+4,,,HSL,70,Randstad Zuid,RZ,Infraspeed,Telecom,62797062.4406375,192348.368690481,Zuid-Holland Zuid
+10,Limburg,340,,,Zuid,Z,Strukton Rail,Telecom,1215513293.5659,315981.152675044,Zuid-Oost
+15,Kennemerland,240,,,Randstad Noord,RN,Strukton Rail,Telecom,789278388.616734,152362.521278419,Noord-West
+25,Dordrecht,140,,,Randstad Zuid,RZ,ASSET Rail,Telecom,734973026.819474,199225.599095681,Zuid-Holland Zuid
+35,Zee-Zevenaar,130,,,Randstad Zuid,RZ,VolkerRail,Telecom,1046579693.11022,405301.0944999,Zee-Zevenaar
+42,Neerlands Midden,250,,,Randstad Noord,RN,ASSET Rail,Telecom,675382731.69715,117699.755155385,Midden
+48,Wadden,420,,,Noord-Oost,NO,Strukton Rail,Telecom,9834253542.19201,454561.193885053,Noord
+55,Drenthe,440,,,Noord-Oost,NO,ASSET Rail,Telecom,4580875527.84129,338730.291264614,Noord
+63,Gelre,400,,,Noord-Oost,NO,ASSET Rail,Telecom,2270254058.57773,402920.970968857,Oost
+71,Amstelsepoort,230,,,Randstad Noord,RN,Strukton Rail,Telecom,1738515913.47725,213942.29105031,Midden
+74,Veluwe,430,,,Noord-Oost,NO,Strukton Rail,Telecom,2446994433.4509,252966.201982344,Oost
+82,Brabant,330,,,Zuid,Z,ASSET Rail,Telecom,1917422415.15625,351247.854826292,Zuid-West
+90,Betuwe,320,,,Zuid,Z,Strukton Rail,Telecom,1501157671.92805,243560.506129138,Zuid-West
+95,De Peel,300,,,Zuid,Z,ASSET Rail,Telecom,1946499885.10375,227092.061802361,Zuid-Oost
+97,Rotterdam,120,,,Randstad Zuid,RZ,VolkerRail,Telecom,230577656.4014,119601.14119377,Zuid-Holland Zuid
+114,Eemland,200,,,Randstad Noord,RN,ASSET Rail,Telecom,759601902.3221,132484.001481508,Midden
+116,Twente,410,,,Noord-Oost,NO,VolkerRail,Telecom,1826940206.312,256853.039335924,Oost
+117,Zeeland,310,,,Zuid,Z,Strukton Rail,Telecom,5095813363.66425,426243.841794402,Zuid-West
+119,Den Haag,110,,,Randstad Zuid,RZ,VolkerRail,Telecom,674608094.35425,152857.748821219,Zuid-Holland Noord
+129,Hollands Noorderkwartier,210,,,Randstad Noord,RN,VolkerRail,Telecom,4574779616.71055,287176.683856775,Noord-West
+132,Rijn en Gouwe,100,,,Randstad Zuid,RZ,BAM Rail,Telecom,721524264.7854,176822.303323738,Zuid-Holland Noord
+148,Amsterdam,220,,,Randstad Noord,RN,VolkerRail,Telecom,87808720.0978,44825.410485728,Midden

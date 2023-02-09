@@ -1,0 +1,323 @@
+﻿DEVICETYPE;DESCRIPTIO;OPERATOR;OWNER;LOC_CLASS;COUNTRY;STREET;CITY;LOC_TYPE;PARKINGBAY;Y;X;ID;OBJECTID;LONG;LAT
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Prins Hendrikplein, The Hague, Netherlands;DenHaag;off-street;;455425.552369967;80116.1300836887;2E6195;1;4.294717999995959;52.08202999998639
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Plein, Den Haag, Nederland;DenHaag;on-street;;455212.07758344;81522.7656364626;2E6212;2;4.315281999995874;52.08029999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Zwarteweg, Den Haag, Nederland;DenHaag;on-street;;455103.577063787;82014.7962185077;2E6217;3;4.322481999995847;52.079389999986404
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Louis Couperusplein, Den Haag, Nederland;DenHaag;on-street;;455664.542466911;81175.5096752758;2E626E;4;4.310118999995897;52.084319999986384
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Zwarteweg, Den Haag, Nederland;DenHaag;off-street;;455109.200919718;82010.6965445616;2E62A4;5;4.322420999995845;52.07943999998642
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Smidsplein, Den Haag, Nederland;DenHaag;on-street;;455499.500253694;81575.546315891;2E7581;6;4.315989999995875;52.0828899999864
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Televisiestraat, Den Haag, Nederland;DenHaag;on-street;;452990.441632238;80961.9631784172;2E762F;7;4.307583999995903;52.06025999998643
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Scheepersstraat, Den Haag, Nederland;DenHaag;on-street;;453786.025825793;79629.2349669777;2E7645;8;4.287977999995982;52.067229999986445
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Gedempte Gracht, Den Haag, Nederland;DenHaag;off-street;;454775.982088645;81440.5625995314;2E7F77;9;4.314176999995879;52.07636999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455742.108665547;81272.5641328844;2E7F7D;10;4.311517999995891;52.08502999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455094.35559875;80832.2001887137;2E7F7E;11;4.305234999995915;52.07914999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455760.055902011;81338.0223197561;2E7F7F;12;4.312468999995887;52.0851999999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455788.113104396;81321.9169368736;2E7F85;13;4.312227999995891;52.08544999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455650.021579128;81254.2670799017;2E7F8A;14;4.311270999995894;52.08419999998639
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Kerkhoflaan, Den Haag, Nederland;DenHaag;on-street;;456857.446627284;80650.195944044;2E7F8B;15;4.3021959999959325;52.0949699999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455845.559566441;81350.0505292774;2E7F8D;16;4.3126259999958885;52.08596999998638
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455610.945643761;81338.1456273739;2E7F8F;17;4.312502999995888;52.08385999998641
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455816.186210951;81229.6523613083;2E7F90;18;4.310875999995896;52.08568999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Kleine Nobelstraat, Den Haag, Nederland;DenHaag;on-street;;454975.999200045;80859.3695337551;2E7FE3;19;4.305656999995913;52.07808999998641
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Schouwburgstraat, The Hague, Netherlands;DenHaag;public;;455387.859347089;81600.3616820303;2E7FE8;20;4.316375999995872;52.08188999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455890.322588621;81332.9588266297;2E7FE9;21;4.312366999995889;52.08636999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455089.826925749;80837.4118699681;2E7FEF;22;4.305311999995914;52.079109999986414
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455836.615896675;81352.865798719;2E7FF5;23;4.3126689999958865;52.08588999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455736.641586979;81416.3728617403;2E7FF6;24;4.313616999995881;52.08499999998639
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455809.565034382;81225.9210092196;2E7FF9;25;4.310822999995896;52.08562999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455747.862939599;81410.0264303985;2E7FFC;26;4.313521999995884;52.085099999986404
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455844.144418132;81295.3266047327;2E7FFD;27;4.311827999995892;52.08594999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;on-street;;455947.184518943;81250.3084252659;2E7FFE;28;4.311148999995896;52.086869999986384
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455804.074285742;81371.235544934;2E8004;29;4.312943999995885;52.085599999986385
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455097.74827602;80828.548479199;2E8006;30;4.3051809999959145;52.07917999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455872.508287068;81333.6547622091;2E8007;31;4.312380999995885;52.086209999986394
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455756.94748819;81397.6844623186;2E8008;32;4.313339999995886;52.0851799999864
+Parking_Sensor;;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455689.657411259;81282.8238403934;2E8009;33;4.31167899999589;52.08455999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455799.454904491;81382.6151516015;2E800C;34;4.313110999995886;52.08555999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455691.853991376;81284.7758455417;2E800D;35;4.31170699999589;52.08457999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455760.166735195;81255.4196862904;2E801C;36;4.3112639999958935;52.08518999998637
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455714.03709015;81289.6289144588;2E802E;37;4.31177299999589;52.08477999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455909.418871213;81320.8341639658;2E8033;38;4.3121859999958865;52.08653999998642
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Stationsweg, Den Haag, Nederland;DenHaag;on-street;;454274.804891752;81848.0131652665;2E8053;39;4.320226999995853;52.071919999986434
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455680.692382767;81287.078371301;2E8054;40;4.311742999995892;52.08447999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455736.758153675;81408.4911593188;2E8063;41;4.313501999995886;52.084999999986415
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455892.609500714;81328.8111719646;2E8065;42;4.312305999995889;52.0863899999864
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455755.681160801;81257.7525018791;2E8067;43;4.311298999995893;52.0851499999864
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455806.180773476;81229.0241602981;2E8069;44;4.310868999995893;52.085599999986414
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;off-street;;455570.626435225;81280.5804779867;2E806D;45;4.31167199999589;52.08348999998636
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455744.34586344;81271.7746650064;2E806E;46;4.311505999995891;52.0850499999864
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455607.751200654;81328.4323150175;2E806F;47;4.312361999995888;52.0838299999864
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455792.721983007;81236.1595519891;2E8072;48;4.310975999995894;52.085479999986426
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455167.590172705;80771.4508413837;2E8075;49;4.304332999995918;52.07979999998641
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Varkenmarkt, Den Haag, Nederland;DenHaag;on-street;;454597.387679461;80877.9334685483;2E8079;50;4.3060099999959105;52.07468999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455831.899494186;81220.5624934045;2E8080;51;4.310739999995895;52.085829999986395
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455769.0411822;81332.3970486161;2E8085;52;4.312384999995888;52.08527999998639
+Parking_Sensor;;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455682.071957168;81269.0695411732;2E8088;53;4.311479999995892;52.08448999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455822.866712876;81304.471363128;2E809E;54;4.311965999995892;52.085759999986394
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Noordeinde, Den Haag, Nederland;DenHaag;on-street;;455437.51981548;80877.5569635815;2E80A2;55;4.305821999995914;52.082239999986406
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455820.765931728;81371.2083476955;2E80A3;56;4.312939999995887;52.0857499999864
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Fruitweg, Den Haag, Nederland;DenHaag;on-street;;452988.257417956;80959.1871167641;2E80A4;57;4.307543999995905;52.06023999998645
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Steijnlaan, Den Haag, Nederland;DenHaag;on-street;;454012.032016313;79916.0130559327;2E80A5;58;4.292109999995965;52.069299999986455
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455740.114931476;81407.2383288692;2E80A6;59;4.313482999995884;52.085029999986425
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Van Mierisstraat, Den Haag, Nederland;DenHaag;on-street;;453689.472532051;80872.0250769106;2E80A8;60;4.306120999995911;52.06652999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455816.183162517;81229.8579676854;2E80B1;61;4.310878999995895;52.08568999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455105.670664045;80819.6165714911;2E80D8;62;4.305048999995916;52.07924999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455805.183749097;81371.4576146858;2E80E1;63;4.312946999995887;52.085609999986424
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455846.497239804;81211.6617905471;2E80E5;64;4.310606999995895;52.08595999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455679.60424582;81285.4169939794;2E80E6;65;4.311718999995889;52.08446999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Stationsweg, Den Haag, Nederland;DenHaag;on-street;;454325.347294179;81816.1162673951;2E80E7;66;4.319750999995857;52.07236999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455542.370672239;81234.984585853;2EA3CD;67;4.311012999995894;52.08322999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Nobelstraat, Den Haag, Nederland;DenHaag;on-street;;455002.072450171;80901.854973417;2EA3D6;68;4.3062709999959115;52.07832999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public; Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;off-street;;455970.819428833;81232.2877957887;2EA3E0;69;4.310880999995894;52.08707999998638
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Vaillantlaan, Den Haag, Nederland;DenHaag;on-street;;453541.834442572;80922.7720364881;2EA3E2;70;4.306892999995904;52.065209999986436
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455820.658958382;81303.2733055416;2EA3F3;71;4.3119489999958915;52.08573999998644
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455677.448282086;81280.7234898034;2EA413;72;4.311650999995892;52.08444999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Smidsplein, Den Haag, Nederland;DenHaag;on-street;;455493.875021356;81579.7137085603;2EA416;73;4.316051999995872;52.0828399999864
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455675.253734494;81278.6344026091;2EA41C;74;4.311620999995892;52.084429999986405
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;on-street;;455925.87117578;81261.8514765103;2EA41D;75;4.311321999995894;52.0866799999864
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455656.573707292;81262.6590667859;2EA42A;76;4.311391999995893;52.084259999986415
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Elandstraat, Den Haag, Nederland;DenHaag;on-street;;455114.075525099;80035.9573805946;2EA443;77;4.2936169999959635;52.079219999986435
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Zwarteweg, Den Haag, Nederland;DenHaag;off-street;;455184.552471947;81956.3375924843;2EA444;78;4.32161199999585;52.080109999986405
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455832.125295645;81355.5413392132;2EA44F;79;4.3127089999958885;52.08584999998642
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455604.394403548;81329.6851290717;2EA45B;80;4.312380999995887;52.08379999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455046.820630804;80885.8608523567;2EA45E;81;4.306027999995914;52.07872999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455827.346174865;81302.5497512258;2EA484;82;4.31193699999589;52.08579999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455820.766945925;81371.1398123083;2EA49B;83;4.312938999995887;52.08574999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455678.525247998;81283.1387797585;2EA4AF;84;4.311685999995889;52.08445999998639
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455687.210048802;81297.8005294692;2EA4C1;85;4.3118979999958915;52.084539999986404
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Zwarteweg, Den Haag, Nederland;DenHaag;on-street;;455113.680100449;82008.7740049421;2EA4C4;86;4.3223919999958476;52.07947999998639
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455655.503861313;81259.7639980221;2EA4C6;87;4.31134999999589;52.08424999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455821.904220422;81219.2489211909;2EA4C7;88;4.310722999995895;52.085739999986394
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455709.67235749;81283.8058896928;2EA4CC;89;4.3116889999958925;52.08473999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455853.436386764;81344.134729687;2EA4CD;90;4.312537999995887;52.0860399999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455838.716138364;81361.3285553197;2EA4D0;91;4.312791999995888;52.0859099999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455863.523006496;81339.279912266;2EA4D1;92;4.312464999995886;52.086129999986404
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455724.24155158;81276.8238009196;2EA4DD;93;4.311583999995889;52.08486999998642
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455898.215667192;81325.9465601542;2EAA6D;94;4.31226299999589;52.0864399999864
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455685.298779495;81276.5895581606;2EAAE5;95;4.311588999995889;52.0845199999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455774.795234014;81394.7265788018;2ECBB2;96;4.313292999995884;52.0853399999864
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;on-street;;455955.124451049;81240.1438277635;2ECBF1;97;4.3109989999958955;52.08693999998637
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455811.693511129;81232.4648745692;2ECC20;98;4.310917999995892;52.08564999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;pickup;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455148.495636529;80783.3696928783;2ECC69;99;4.304510999995917;52.07962999998639
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455070.595700558;80858.5162987407;2ECC77;100;4.305623999995916;52.0789399999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455038.888156203;80895.4784338676;2ECCF7;101;4.30616999999591;52.0786599999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455845.445949531;81357.7264545962;2ECD75;102;4.312737999995887;52.085969999986425
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455677.441174068;81281.2032513743;2ED152;103;4.3116579999958935;52.0844499999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455794.962291899;81385.4278112335;2ED154;104;4.313152999995884;52.0855199999864
+Parking_Sensor;Busy;YazamTec;DenHaag;pickup;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455027.587572793;80907.1027450191;2ED1BC;105;4.306341999995911;52.078559999986425
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455738.728496413;81275.3932126489;2ED1C0;106;4.31155999999589;52.08499999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;on-street;;455970.819428833;81232.2877957887;2ED1D0;107;4.310880999995894;52.08707999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455834.057755476;81300.1813541535;2ED1DF;108;4.311900999995892;52.08585999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455897.062568972;81328.6714602165;2ED1F0;109;4.3123029999958895;52.0864299999864
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455659.821847358;81268.7398362442;2ED1F2;110;4.31147999999589;52.08428999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Gedempte Gracht, Den Haag, Nederland;DenHaag;on-street;;454757.426209691;81416.1534565529;2ED239;111;4.31382499999588;52.07619999998643
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455824.127790591;81369.6128885857;2ED245;112;4.312915999995886;52.08577999998637
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Kalvermarkt, The Hague, Netherlands;DenHaag;on-street;;454996.620967339;81645.3949904647;2ED268;113;4.317116999995867;52.07837999998644
+Parking_Sensor;;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455779.385180727;81385.3344469983;2ED269;114;4.313154999995884;52.08537999998638
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455734.238981725;81353.1327728263;2ED310;115;4.312694999995887;52.08496999998639
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Lange Voorhout, The Hague, Netherlands;DenHaag;on-street;;455359.632705783;81176.6074707965;2ED881;116;4.310200999995895;52.0815799999864
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Plein, Den Haag, Nederland;DenHaag;on-street;;455214.228715549;81527.8021819864;2ED8E9;117;4.315354999995873;52.08031999998641
+Parking_Sensor;Free;Yazamtec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;Den Haag, Nederland;on-street;;455029.84217619;80905.1480286236;368467;118;4.306312999995912;52.07857999998641
+Parking_Sensor;Busy;Yazamtec;Den haag;public;Nederland;Prinsestraat, Den Haag, Nederland;Den Haag ;on-street;;455193.441569357;80754.1481399235;386A82;119;4.3040749999959225;52.08002999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455888.095547214;81333.0629518011;3C6F68;120;4.312368999995889;52.08634999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455051.353336036;80880.3748975754;3C6FAA;121;4.3059469999959115;52.07876999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;on-street;;455930.353702432;81259.7243439362;3C6FCB;122;4.311289999995895;52.0867199999864
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455629.370928202;81296.1897121493;3C6FCD;123;4.311886999995888;52.08401999998638
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Noordeinde, Den Haag, Nederland;DenHaag;on-street;;455434.149632154;80879.7005522215;3C6FDC;124;4.305853999995914;52.082209999986425
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Louis Couperusplein, Den Haag, Nederland;DenHaag;on-street;;455758.97158067;81110.9643101508;3C6FDE;125;4.309156999995901;52.08515999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455874.613568968;81341.7747938014;3C70B5;126;4.3124989999958885;52.08622999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455835.275630095;81218.0076461853;3C70C0;127;4.310701999995896;52.08585999998639
+Parking_Sensor;;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455647.680773522;81262.04740973;3C70D0;128;4.311384999995892;52.084179999986404
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455796.088993928;81384.484770797;3C70D6;129;4.3131389999958865;52.0855299999864
+Parking_Sensor;;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455657.658789685;81264.5260696664;3C7132;130;4.311418999995893;52.08426999998642
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455709.666265144;81284.2171112316;3C713B;131;4.3116949999958925;52.084739999986404
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455736.589807112;81269.5346374179;3D52EB;132;4.311474999995894;52.08497999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Paul Krugerlaan, Den Haag, Nederland;DenHaag;on-street;;453919.901388368;79900.9079552006;2E80EB;133;4.2919099999959665;52.06846999998643
+Parking_Sensor;;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455843.123133264;81214.0795573262;2E80F0;134;4.3106429999958955;52.085929999986405
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455641.726260164;81288.420589149;2E80F1;135;4.311770999995893;52.08412999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Nobelstraat, Den Haag, Nederland;DenHaag;on-street;;454996.615060256;80894.7118340728;2E80F9;136;4.306167999995912;52.0782799999864
+Parking_Sensor;;YazamTec;DenHaag;public;Nederland;Mauritskade, Den Haag, Nederland;DenHaag;on-street;;455860.962862298;81211.6706706061;2E8109;137;4.310603999995895;52.08608999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Kalvermarkt, The Hague, Netherlands;DenHaag;off-street;;454994.481841435;81639.5357200427;2E8111;138;4.317031999995868;52.0783599999864
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455687.503480919;81277.9932699197;2E8112;139;4.311608999995891;52.08453999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Hoefkade, Den Haag, Nederland;DenHaag;on-street;;453186.379653107;80433.6704393295;2E8116;140;4.299838999995932;52.06194999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455132.739662566;80795.2698591798;2E8117;141;4.304687999995917;52.079489999986414
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;off-street;;455573.916227198;81283.8512478694;2E8119;142;4.31171899999589;52.0835199999864
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455650.057132604;81251.868258773;2E811E;143;4.311235999995892;52.084199999986424
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455727.498010368;81357.4888564291;2E8131;144;4.312759999995886;52.08490999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455743.316637076;81266.1381902741;2E8135;145;4.311423999995892;52.08503999998639
+Parking_Sensor;Free;Yazamtec;Den Haag;disabled;Nederland;Prinsestraat, Den Haag, Nederland;Den Haag, Nederland;on-street;;455072.868705819;80855.3277985301;2E8152;146;4.305576999995914;52.07895999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455614.209094345;81343.1983269942;2E8158;147;4.312575999995889;52.0838899999864
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455776.021299273;81387.0670040107;2E815A;148;4.313180999995886;52.08534999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455848.626929673;81293.1994048383;2EA2F9;149;4.311795999995893;52.0859899999864
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Mauritskade, Den Haag, Nederland;DenHaag;on-street;;455873.996877028;81233.1829366417;2EA32F;150;4.310914999995892;52.086209999986416
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455544.487986069;81242.2827256829;2EA33F;151;4.311118999995892;52.083249999986364
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455799.453890453;81382.6836872815;2EA344;152;4.313111999995884;52.08555999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455143.992466419;80786.8676536547;2EA360;153;4.304562999995919;52.07958999998644
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Doedijnsstraat, Den Haag, Nederland;DenHaag;on-street;;453798.739778089;81231.9056006322;2EA363;154;4.311344999995889;52.067559999986415
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455719.652415752;81286.1474056165;2EA364;155;4.311720999995889;52.0848299999864
+Parking_Sensor;Busy;Yazamtec;Den haag;public;Nederland;Prinsestraat, Den Haag, Nederland;Den haag;on-street;;455188.951672172;80756.7549679995;2EA36F;156;4.304113999995921;52.07998999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455903.822850257;81323.013420735;2EA370;157;4.312218999995888;52.086489999986405
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Vaillantlaan, Den Haag, Nederland;DenHaag;on-street;;453563.69452951;80874.5414583812;2EA374;158;4.3061849999959065;52.06539999998644
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455154.101089747;80780.5737769199;2EA395;159;4.304468999995918;52.07967999998643
+Parking_Sensor;;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455159.733125522;80775.9957096422;2EA3A4;160;4.304400999995918;52.07972999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Van der Vennestraat, Den Haag, Nederland;DenHaag;on-street;;453620.199630549;80741.6498939403;2EA3AB;161;4.304234999995917;52.06588999998646
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Torenstraat, Den Haag, Nederland;DenHaag;on-street;;455042.270990212;80743.1854282317;2EA3AC;162;4.303947999995922;52.07866999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Prinsegracht, Den Haag, Nederland;DenHaag;on-street;;454504.723453697;80749.1526717722;2EA3B7;163;4.304151999995918;52.073839999986404
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455739.851157185;81274.7243316601;2EA3CB;164;4.311549999995892;52.08500999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455872.360148431;81343.6608251107;3D52EC;165;4.312526999995888;52.08620999998638
+Parking_Sensor;Busy;Yazamtec;Den haag;public;Netherland;Prinsestraat, Den Haag, Nederland;Den Haag, Nederland;on-street;;455183.332911595;80760.4419111571;3D52F2;166;4.30416899999592;52.07993999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Herman Costerstraat, Den Haag, Nederland;DenHaag;on-street;;453265.749726951;80483.6237617592;3D535C;167;4.30054999999593;52.06266999998644
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Schouwburgstraat, The Hague, Netherlands;DenHaag;on-street;;455439.628239957;81560.8831902454;3D536A;168;4.315788999995872;52.08234999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455872.508287068;81333.6547622091;3D53CC;169;4.312380999995885;52.086209999986394
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455877.984569373;81339.5625614868;3D53D1;170;4.31246599999589;52.08625999998639
+Parking_Sensor;Busy;Yazamtec;Den Haag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455093.221642254;80833.623062661;3D53DB;171;4.305255999995916;52.0791399999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455784.861523924;81391.24229526;3D53F0;172;4.313239999995883;52.085429999986424
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;off-street;;455995.486621171;81219.6979450553;3D53F2;173;4.310691999995894;52.0872999999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455894.94512981;81321.3738713881;3D53F3;174;4.312196999995891;52.086409999986394
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455896.058650657;81321.3218115233;3D5433;175;4.312195999995889;52.08641999998639
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455877.714536713;81282.6623630372;3D5434;176;4.311635999995891;52.08624999998639
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Van Ostadestraat, Den Haag, Nederland;DenHaag;on-street;;454578.097454572;80903.0162505926;3D5443;177;4.306379999995912;52.07451999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455729.751424936;81355.6027618243;3D546C;178;4.312731999995886;52.08492999998639
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455797.198457851;81384.7068378793;3D548B;179;4.313141999995884;52.08553999998641
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Lange Voorhout, The Hague, Netherlands;DenHaag;on-street;;455355.267088373;81170.8524822218;3D549B;180;4.310117999995898;52.0815399999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;off-street;;455991.001027921;81222.0306112186;3D54AC;181;4.310726999995895;52.08725999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455756.939377597;81398.232752437;3D54C4;182;4.3133479999958855;52.0851799999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455069.479112105;80858.7739074402;3D54E0;183;4.305627999995916;52.078929999986414
+Parking_Sensor;Free;Yazamtec;Den Haag;public;Nederland;Prinsestraat, Den Haag, Nederland;Den Haag;on-street;;455165.345739814;80772.7199974782;3D54E9;184;4.3043519999959186;52.07977999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455138.369640194;80790.8288447096;3D54FB;185;4.304621999995918;52.07953999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Mauritskade, Den Haag, Nederland;DenHaag;on-street;;455866.397332149;81220.3885456381;3D5507;186;4.310729999995897;52.0861399999864
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455825.172631738;81223.9588150068;3D5513;187;4.310790999995894;52.08576999998639
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Gedempte Gracht, Den Haag, Nederland;DenHaag;off-street;;454770.510755865;81434.3108978834;3D5521;188;4.314086999995879;52.07631999998643
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455682.857490059;81291.1550339689;3D552B;189;4.3118019999958905;52.0844999999864
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;De Bockstraat, Den Haag, Nederland;DenHaag;on-street;;453438.671357123;80677.1484740525;3D5533;190;4.303333999995919;52.064249999986444
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455764.659421498;81252.6071218509;3D553D;191;4.311221999995894;52.08522999998641
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455782.624087227;81241.7681314722;3D554C;192;4.311059999995894;52.085389999986404
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455685.023615921;81295.1631557963;3D5554;193;4.3118599999958915;52.08451999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Fruitweg, Den Haag, Nederland;DenHaag;on-street;;452988.255378565;80959.3242656274;3D5557;194;4.307545999995903;52.060239999986436
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Van Mierisstraat, Den Haag, Nederland;DenHaag;on-street;;453915.022717528;80745.3617705907;3D555F;195;4.304224999995918;52.0685399999864
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455845.446963915;81357.6579195482;3D556A;196;4.312736999995888;52.085969999986396
+Parking_Sensor;Free;Yazamtec;Den haag;public;Nederland;Prinsestraat, Den Haag, Nederland;Den haag;on-street;;455170.948131923;80770.1297366424;3D556C;197;4.30431299999592;52.07982999998639
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455834.252563246;81211.9600502171;3D557F;198;4.310613999995896;52.085849999986365
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455724.138991817;81283.7460099741;3D558A;199;4.311684999995891;52.08486999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455569.527130532;81279.6729906832;3D5590;200;4.311658999995889;52.08347999998641
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Herman Costerstraat, Den Haag, Nederland;DenHaag;on-street;;453273.577251914;80481.0660629067;3D5598;201;4.300510999995932;52.062739999986434
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Zwarteweg, Den Haag, Nederland;DenHaag;off-street;;455174.438303907;81963.1135970334;3D559A;202;4.3217129999958495;52.080019999986376
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Plein, Den Haag, Nederland;DenHaag;on-street;;455209.928480698;81517.5919989333;3D55AD;203;4.315206999995879;52.08027999998639
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455796.092035968;81384.279163618;3D55DD;204;4.313135999995883;52.085529999986385
+Parking_Sensor;;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455658.739810264;81266.6672222307;3D55E8;205;4.311449999995894;52.084279999986414
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455838.638554962;81216.3437594416;3D55F6;206;4.310676999995895;52.08588999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455090.968031842;80835.5091758614;3D55F8;207;4.3052839999959165;52.0791199999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455792.721056126;81386.4914641308;3D5602;208;4.313168999995885;52.08549999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455762.321500334;81335.3138123276;3D5603;209;4.312428999995888;52.0852199999864
+Parking_Sensor;;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455603.310311539;81327.7495829007;3D5614;210;4.3123529999958885;52.0837899999864
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Kalvermarkt, The Hague, Netherlands;DenHaag;public;;454998.764141283;81650.9800689744;3D5617;211;4.3171979999958685;52.0783999999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455820.757818185;81371.7566307934;3D5631;212;4.312947999995887;52.085749999986405
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455681.901350517;81280.5838084242;3D563A;213;4.311647999995891;52.084489999986374
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Bakhuizenstraat, Den Haag, Nederland;DenHaag;on-street;;453946.372045735;80286.2975206203;3D5641;214;4.297523999995945;52.06875999998641
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455800.468880848;81239.0164306838;3D5643;215;4.311015999995894;52.08554999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Torenstraat, Den Haag, Nederland;DenHaag;on-street;;455062.489375348;80730.5290588038;3D564E;216;4.303758999995923;52.078849999986396
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Van Ostadestraat, Den Haag, Nederland;DenHaag;on-street;;453758.144649148;81043.054944224;3D5652;217;4.3085999999958995;52.06716999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455761.18477661;81261.810042874;3D5661;218;4.311356999995893;52.08519999998642
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Scheepersstraat, Den Haag, Nederland;DenHaag;on-street;;453785.937593581;79635.0628667411;3D5665;219;4.288062999995981;52.067229999986445
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Hoefkade, Den Haag, Nederland;DenHaag;on-street;;453185.658489023;80407.5279419248;3D566A;220;4.299457999995934;52.06193999998647
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;on-street;;455949.515186247;81243.2139097976;3D5670;221;4.311044999995894;52.08688999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Sumatrastraat, Den Haag, Nederland;DenHaag;on-street;;456520.171943667;80806.63746342;3D5672;222;4.3045519999959225;52.09195999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455692.940097396;81286.5742933174;3D5683;223;4.3117329999958915;52.084589999986385
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Lange Voorhout, The Hague, Netherlands;DenHaag;on-street;;455420.137694987;81298.6435005358;3D5687;224;4.31196799999589;52.08213999998641
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Jan Evertstraat, The Hague, Netherlands;DenHaag;on-street;;455635.6447681;81549.1743677299;3D5690;225;4.315575999995875;52.08410999998644
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455891.457418835;81331.4675413582;3D5691;226;4.312344999995887;52.08637999998639
+Parking_Sensor;Free;Yazamtec;Den haag;public;Nederland;Prinsestraat, Den Haag, Nederland;Den haag;on-street;;455174.343923009;80766.272493535;3D5697;227;4.304255999995919;52.07985999998644
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455833.094778747;81365.2212713925;3D56A2;228;4.312849999995887;52.08585999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455815.108071571;81377.5683662347;3D56A3;229;4.313033999995887;52.08569999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455764.546511908;81335.3467539212;3D56C2;230;4.3124289999958885;52.0852399999864
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455779.26421915;81243.2264473509;3D56C5;231;4.311081999995894;52.08535999998639
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Kalvermarkt, The Hague, Netherlands;DenHaag;on-street;;454991.20495417;81635.3737136966;3D56C8;232;4.316971999995867;52.078329999986394
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455685.06118029;81292.62727711;3D56D9;233;4.311822999995889;52.08451999998639
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Zeestraat, Den Haag, Nederland;DenHaag;on-street;;455894.709863902;80589.4665961827;3D56E7;234;4.301519999995933;52.08630999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Beijerstraat Den Haag;DenHaag;on-street;;453717.194387714;79765.8332238559;3D56EA;235;4.289984999995975;52.06662999998643
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455646.776504347;81247.9806755285;3D5707;236;4.311179999995892;52.08416999998641
+Parking_Sensor;Free;Yazamtec;DenHaag;public;Netherland;Prinsestraat, Den Haag, Nederland;den haag;on-street;;455160.854830309;80775.3954022167;3D5719;237;4.304391999995921;52.079739999986394
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455821.80259613;81226.1024593329;3D5725;238;4.310822999995896;52.085739999986394
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Mauritskade, Den Haag, Nederland;DenHaag;on-street;;455878.293479475;81243.5976379876;3D5727;239;4.311065999995895;52.08624999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455035.498590679;80898.9245938938;3D574E;240;4.30622099999591;52.078629999986404
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Prinsegracht, Den Haag, Nederland;DenHaag;on-street;;454488.092165741;80745.1332684602;3D5754;241;4.304096999995917;52.07368999998642
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Kleine Nobelstraat, Den Haag, Nederland;DenHaag;on-street;;454990.130928212;80881.7941752159;3D5757;242;4.305980999995913;52.07821999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455101.134825958;80825.3080466985;3D5760;243;4.305132999995915;52.07920999998643
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455833.103907302;81364.6044544333;3D577F;244;4.3128409999958865;52.085859999986354
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Schouwburgstraat, The Hague, Netherlands;DenHaag;public;;455388.995106455;81598.801641555;3D5795;245;4.316352999995873;52.08189999998638
+Parking_Sensor;;YazamTec;DenHaag;disabled;Nederland;Oranjebuitensingel, The Hague, Netherlands;DenHaag;public;;455212.380222435;81955.7176734538;3D57B6;246;4.32159699999585;52.08035999998639
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455876.610154263;81282.0976029821;3D57B8;247;4.311627999995888;52.0862399999864
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;off-street;;455986.510354677;81224.7059472682;3D57BB;248;4.310766999995895;52.087219999986395
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455817.312942715;81228.7093597504;3D57CD;249;4.310861999995893;52.08569999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Beijerstraat Den Haag;DenHaag;on-street;;453702.777494128;79762.5978144383;3D57CE;250;4.289940999995974;52.06649999998643
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455804.966657131;81235.8612268244;3D57DC;251;4.310968999995894;52.08558999998644
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Westeinde, Den Haag, Nederland;DenHaag;on-street;;454618.493784547;80433.3832163946;3D57F9;252;4.299521999995939;52.074819999986445
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Paletplein, Den Haag, Nederland;DenHaag;on-street;;453953.514140261;80626.7500891546;3D5816;253;4.302486999995923;52.068869999986426
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455754.614002138;81404.9849323311;3D581E;254;4.313446999995883;52.08515999998642
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Kaapseplein, Den Haag, Nederland;DenHaag;on-street;;453194.572966545;80184.2048267351;3D5847;255;4.296199999995947;52.06198999998645
+Parking_Sensor;;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455760.098518142;81335.1437982881;3D584B;256;4.312426999995887;52.085199999986386
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455824.133875921;81369.2016765399;3D585B;257;4.312909999995885;52.085779999986386
+Parking_Sensor;;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;on-street;;455959.608003349;81237.9481944826;3D5889;258;4.310965999995895;52.08697999998639
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455900.557390216;81318.0980635588;3D588C;259;4.31214799999589;52.086459999986424
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Kleine Nobelstraat, Den Haag, Nederland;DenHaag;on-street;;454980.324635202;80867.7985623619;3D5896;260;4.305778999995915;52.078129999986416
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;off-street;;455778.139522135;81244.0323876808;3D589B;261;4.311093999995892;52.085349999986406
+Parking_Sensor;;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455759.095451871;81402.9261297969;3D58AE;262;4.313415999995883;52.0851999999864
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455684.215723628;81274.5854936098;3D58B3;263;4.311559999995891;52.08450999998642
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Plein, Den Haag, Nederland;DenHaag;on-street;;455206.732673853;81507.9465785836;3D58B4;264;4.315066999995878;52.08024999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455771.385247593;81249.2792538893;3D58C2;265;4.311171999995893;52.08528999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;on-street;;455976.423619861;81229.5604061599;3D5903;266;4.310839999995894;52.0871299999864
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Lange Voorhout, The Hague, Netherlands;DenHaag;on-street;;455350.908596675;81164.6176904446;3D5904;267;4.310027999995895;52.08149999998643
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Elandstraat, Den Haag, Nederland;DenHaag;on-street;;455110.815463624;80030.7662114078;3D5913;268;4.2935419999959645;52.0791899999864
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Zwarteweg, Den Haag, Nederland;DenHaag;off-street;;455292.531857206;81877.6417962457;3D5915;269;4.320440999995854;52.08106999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455760.064145425;81262.3418454913;3D5916;270;4.3113649999958925;52.08518999998638
+Parking_Sensor;;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455782.509981225;81324.5760040512;3D595B;271;4.312267999995888;52.08539999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455761.44110734;81394.803232899;3D59C4;272;4.313296999995886;52.085219999986414
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455764.550570664;81335.0726092655;3D59D3;273;4.312424999995889;52.085239999986385
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455723.001326746;81360.5756834779;3D59D4;274;4.312805999995887;52.08486999998642
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455674.171693293;81276.5617971369;3D5A04;275;4.311590999995893;52.08441999998638
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455567.36914107;81275.1164595186;3D5A34;276;4.311592999995891;52.08345999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Torenstraat, Den Haag, Nederland;DenHaag;on-street;;455071.449758915;80726.6176831782;3D5A44;277;4.30369999999592;52.07892999998641
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Westeinde, Den Haag, Nederland;DenHaag;on-street;;454767.37818132;80671.5469575288;3D5A4E;278;4.302962999995923;52.07618999998639
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Frederikstraat, Den Haag, Nederland;DenHaag;on-street;;455984.274164512;81225.4268188519;3D5A80;279;4.310777999995895;52.08719999998644
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455556.508151246;81257.1314761172;3D5A82;280;4.31133299999589;52.083359999986406
+Parking_Sensor;Free;Yazamtec;Den haag;public;Nederland;Prinsestraat, Den Haag, Nederland;Den haag;on-street;;455187.812580757;80758.5205181258;3D5A83;281;4.304139999995918;52.07997999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;invisible;Nederland;Kazernestraat, Den Haag, Nederland;DenHaag;on-street;;455554.349166557;81252.643462122;3D5AB5;282;4.311267999995892;52.083339999986386
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455877.979496204;81339.9052344912;3D5AC4;283;4.312470999995888;52.08625999998638
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455684.257360711;81271.7754653688;3D5AFC;284;4.311518999995892;52.08450999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Van der Vennestraat, Den Haag, Nederland;DenHaag;on-street;;453621.426683623;80733.9871269422;3D5B21;285;4.304122999995916;52.06589999998641
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Nobelstraat, Den Haag, Nederland;DenHaag;on-street;;455000.982400254;80900.3303814066;3D5B5A;286;4.306248999995912;52.07831999998641
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455688.581460945;81280.3400184725;3D5B5B;287;4.311642999995891;52.08454999998642
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Prins Hendrikstraat, Den Haag, Nederland;DenHaag;on-street;;455257.851741545;79799.4013299847;3D5B68;288;4.290134999995977;52.08047999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455787.241676339;81380.7892271117;3D5B7A;289;4.313086999995885;52.0854499999864
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Lange Voorhout, The Hague, Netherlands;DenHaag;public;;455349.835756172;81161.92804964;3D5B87;290;4.309988999995897;52.081489999986395
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455826.383229497;81367.5897560727;3D5BAD;291;4.312885999995886;52.08579999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455893.718962336;81329.0332479342;3D7315;292;4.3123089999958895;52.08639999998639
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Oranjebuitensingel, The Hague, Netherlands;DenHaag;on-street;;455302.363136026;81890.1265732708;3D7317;293;4.320620999995856;52.08115999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455173.214037257;80767.4211519593;3D732B;294;4.30427299999592;52.079849999986415
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Torenstraat, Den Haag, Nederland;DenHaag;on-street;;455042.164624117;80750.314227983;3D7357;295;4.304051999995921;52.07866999998642
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Hoefkade, Den Haag, Nederland;DenHaag;on-street;;453198.710606482;80427.613698705;3D735D;296;4.299747999995935;52.06205999998645
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Van der Neerstraat, Den Haag, Nederland;DenHaag;on-street;;454021.072285771;80424.9814583785;3D737C;297;4.299529999995936;52.06944999998644
+Parking_Sensor;Busy;Yazamtec;Den haag;public;Nederland;Prinsestraat, Den Haag, Nederland;Den haag;on-street;;455167.595284808;80771.1081192699;3D7393;298;4.304327999995918;52.07979999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Westeinde, Den Haag, Nederland;DenHaag;on-street;;454617.379228545;80433.5036530179;3D7396;299;4.299523999995936;52.07480999998641
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Kerkhoflaan, Den Haag, Nederland;DenHaag;on-street;;456856.376114177;80647.3699475209;3D73A3;300;4.302154999995933;52.094959999986386
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Spijkermakersstraat, Den Haag, Nederland;DenHaag;on-street;;453704.157529354;80187.8845176429;3D73A7;301;4.29614199999595;52.06656999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Torenstraat, Den Haag, Nederland;DenHaag;on-street;;455066.972124235;80728.40200464;3D73AA;302;4.303726999995923;52.078889999986416
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Schouwburgstraat, The Hague, Netherlands;DenHaag;public;;455385.614115362;81601.6996895491;3D73C3;303;4.3163959999958745;52.0818699999864
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Torenstraat, Den Haag, Nederland;DenHaag;on-street;;455046.835562863;80735.5746663956;3D73FE;304;4.30383599999592;52.07870999998643
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455903.921296668;81316.3655989241;3D7405;305;4.312121999995891;52.08648999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Torenstraat, Den Haag, Nederland;DenHaag;on-street;;455089.407369402;80716.3273375322;3D7410;306;4.3035459999959205;52.07908999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455840.966508927;81359.6481081997;3D7427;307;4.312766999995889;52.08592999998638
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Mauritskade, Den Haag, Nederland;DenHaag;on-street;;455879.399889496;81244.0253373169;3D742D;308;4.311071999995896;52.086259999986396
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455787.108842254;81389.767423344;3D746B;309;4.313217999995886;52.08544999998642
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Gedempte Gracht, Den Haag, Nederland;DenHaag;on-street;;454760.695819866;81420.7956508242;3D746C;310;4.313891999995879;52.07622999998643
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Van Mierisstraat, Den Haag, Nederland;DenHaag;on-street;;453686.103378709;80874.1008904732;3D746E;311;4.306151999995909;52.06649999998645
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Lange Voorhout, The Hague, Netherlands;DenHaag;on-street;;455385.419636378;81163.5529611381;3D747C;312;4.310004999995899;52.081809999986405
+Parking_Sensor;Free;YazamTec;DenHaag;invisible;Nederland;Nieuwe Schoolstraat, Den Haag, Nederland;DenHaag;on-street;;455654.416749211;81258.0340686489;3D74AD;313;4.311324999995894;52.08423999998642
+Parking_Sensor;Busy;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455791.730235107;81378.250710162;3D74DB;314;4.313048999995885;52.08548999998641
+Parking_Sensor;Busy;YazamTec;DenHaag;disabled;Nederland;Paul Krugerlaan, Den Haag, Nederland;DenHaag;on-street;;453918.695802668;79907.0617231141;3D84E0;315;4.291999999995964;52.06845999998646
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455910.528332507;81321.0562410986;3D84F6;316;4.312188999995888;52.0865499999864
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Sumatrastraat, Den Haag, Nederland;DenHaag;on-street;;456519.10645178;80803.4686842341;3D84F8;317;4.304505999995923;52.091949999986376
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Prinsestraat, Den Haag, Nederland;DenHaag;on-street;;455067.198960945;80862.4422320058;3D8506;318;4.305681999995913;52.078909999986436
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Fruitweg, Den Haag, Nederland;DenHaag;on-street;;452971.781005774;80944.7440201442;3D8566;319;4.307336999995905;52.060089999986445
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Denneweg, Den Haag, Nederland;DenHaag;on-street;;455834.076028795;81298.9477204023;3D85D2;320;4.311882999995889;52.08585999998639
+Parking_Sensor;Free;YazamTec;DenHaag;public;Nederland;Hooikade, Den Haag, Nederland;DenHaag;on-street;;455752.37277075;81406.0486031977;3D85DE;321;4.313462999995885;52.085139999986396
+Parking_Sensor;Free;YazamTec;DenHaag;disabled;Nederland;Fruitweg, Den Haag, Nederland;DenHaag;on-street;;452988.250280102;80959.6671377857;3D8652;322;4.307550999995902;52.06023999998643
