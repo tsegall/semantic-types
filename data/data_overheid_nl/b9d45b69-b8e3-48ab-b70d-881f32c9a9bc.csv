@@ -1,0 +1,2000 @@
+{
+	"name" : "Beperkingen",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.400192320944351, 51.911215014715474 ],
+						[ 4.400248338492395, 51.91118045567636 ],
+						[ 4.400173144995957, 51.9111338462703 ],
+						[ 4.400170061982962, 51.91113194170994 ],
+						[ 4.400274465566361, 51.91106749665493 ],
+						[ 4.400277705662435, 51.911069528375414 ],
+						[ 4.4004619721838605, 51.9111852428866 ],
+						[ 4.400302696730909, 51.91128369951138 ],
+						[ 4.400192320944351, 51.911215014715474 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1483",
+				"VOLGNUMMER" : "3",
+				"BEPERKINGTYPE" : "WU - Bestuursdwangbesluit of dwangsombesluit, Woningwet",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT14759",
+				"REGISTERNUMMER" : "1470",
+				"OMSCHRIJVING" : "Dwangsombesluit: Stillegging bouw",
+				"DATUM_BESLUIT" : "20090901000000",
+				"DATUM_INWERKING" : "20090901000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87095.70550000001",
+				"inside_y" : "436315.4017923636",
+				"inside_lat" : "51.91118577224622",
+				"inside_lon" : "4.400315420276758"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.397693840347876, 51.920461833489604 ],
+						[ 4.397400064155849, 51.92039694149858 ],
+						[ 4.397451404978862, 51.92033376888585 ],
+						[ 4.397560228265317, 51.920267817311725 ],
+						[ 4.397710361597943, 51.9203604976938 ],
+						[ 4.397747676851467, 51.92036716692861 ],
+						[ 4.397738382123489, 51.9203826034008 ],
+						[ 4.397736143964987, 51.92038653964373 ],
+						[ 4.397693840347876, 51.920461833489604 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1487",
+				"VOLGNUMMER" : "3",
+				"BEPERKINGTYPE" : "WU - Bestuursdwangbesluit of dwangsombesluit, Woningwet",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT06566",
+				"REGISTERNUMMER" : "1474",
+				"OMSCHRIJVING" : "Dwangsombesluit: Stilleggen sloopwerkzaamheden",
+				"DATUM_BESLUIT" : "20090427000000",
+				"DATUM_INWERKING" : "20090427000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "86921.65777396789",
+				"inside_y" : "437339.0785",
+				"inside_lat" : "51.92036446066505",
+				"inside_lon" : "4.39758371109318"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.400461973649201, 51.906884047732774 ],
+						[ 4.400469810185702, 51.90685740768819 ],
+						[ 4.400566321380594, 51.906867368674234 ],
+						[ 4.400717688061778, 51.90688420812066 ],
+						[ 4.400692385952122, 51.90697033352943 ],
+						[ 4.400536685412244, 51.90695627117142 ],
+						[ 4.400443912668962, 51.90694547862538 ],
+						[ 4.400451153293526, 51.906920829101 ],
+						[ 4.400461973649201, 51.906884047732774 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1469",
+				"VOLGNUMMER" : "3",
+				"BEPERKINGTYPE" : "WU - Bestuursdwangbesluit of dwangsombesluit, Woningwet",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "10UIT03581",
+				"REGISTERNUMMER" : "1419",
+				"OMSCHRIJVING" : "1. Buitenschilderwerk\r\n2. Ramen 2e verdieping\r\n3. Kozijn en ramen 2e verdieping achtergevel",
+				"DATUM_BESLUIT" : "20100303000000",
+				"DATUM_INWERKING" : "20100303000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87107.53326819098",
+				"inside_y" : "435839.9085",
+				"inside_lat" : "51.90691387057208",
+				"inside_lon" : "4.400581087295778"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.407187519406292, 51.92684336787395 ],
+						[ 4.407358138350641, 51.9269259591508 ],
+						[ 4.407398696332437, 51.926945587201516 ],
+						[ 4.407129354235092, 51.92716236319495 ],
+						[ 4.406919270879861, 51.92705998172098 ],
+						[ 4.407139553007509, 51.92688277041547 ],
+						[ 4.407187519406292, 51.92684336787395 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "280",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT01197",
+				"REGISTERNUMMER" : "1669",
+				"OMSCHRIJVING" : "instand houden leef-of verhardingslaag door aanwezigheid restverontreiniging (186)",
+				"DATUM_BESLUIT" : "20010720000000",
+				"DATUM_INWERKING" : "20010720000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87590.29550000002",
+				"inside_y" : "438068.6458170055",
+				"inside_lat" : "51.92700263477371",
+				"inside_lon" : "4.407158987180337"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 4.401371119233397, 51.92896079960577 ],
+							[ 4.401421877989822, 51.92888112203915 ],
+							[ 4.401535582857017, 51.928910351888554 ],
+							[ 4.401552505353275, 51.928949766551725 ],
+							[ 4.401495854903386, 51.92898385158041 ],
+							[ 4.401371119233397, 51.92896079960577 ]
+						]
+					],
+					[
+						[
+							[ 4.402018664498413, 51.92917990049845 ],
+							[ 4.40199719801913, 51.92918195539374 ],
+							[ 4.401969210054271, 51.929182612727246 ],
+							[ 4.401931342534872, 51.92917129897362 ],
+							[ 4.401926442678586, 51.92915588499349 ],
+							[ 4.401939398401505, 51.929137044341765 ],
+							[ 4.401963964872721, 51.92907417592496 ],
+							[ 4.402007292309628, 51.9290682554091 ],
+							[ 4.40205030977937, 51.92907647047632 ],
+							[ 4.402062736450417, 51.92908451469828 ],
+							[ 4.402061924105647, 51.92909812733369 ],
+							[ 4.402018664498413, 51.92917990049845 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "315",
+				"VOLGNUMMER" : "7",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT08022",
+				"REGISTERNUMMER" : "1711",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid Zie ook: 08UIT04956",
+				"DATUM_BESLUIT" : "20080423000000",
+				"DATUM_INWERKING" : "20080423000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87201.74786193247",
+				"inside_y" : "438288.642964671",
+				"inside_lat" : "51.928932558895",
+				"inside_lon" : "4.401467462151292"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.405264932301471, 51.9308335998185 ],
+						[ 4.405379604654992, 51.93062107344304 ],
+						[ 4.405765406129119, 51.93069956725594 ],
+						[ 4.405789002182596, 51.93070436651695 ],
+						[ 4.405764280172137, 51.930751108660324 ],
+						[ 4.405702535721594, 51.93086784315285 ],
+						[ 4.405675917759871, 51.93091816497054 ],
+						[ 4.405420429175269, 51.930865487468616 ],
+						[ 4.405392303753319, 51.93085968850347 ],
+						[ 4.405264932301471, 51.9308335998185 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "423",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT08998",
+				"REGISTERNUMMER" : "1705",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid",
+				"DATUM_BESLUIT" : "20070110000000",
+				"DATUM_INWERKING" : "20070110000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87483.70817022778",
+				"inside_y" : "438489.235",
+				"inside_lat" : "51.930769612826175",
+				"inside_lon" : "4.405526985421154"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.411067728441649, 51.91606587942547 ],
+						[ 4.411224505719862, 51.916056718435016 ],
+						[ 4.411234737875811, 51.91605609328644 ],
+						[ 4.411274301950741, 51.91605350944214 ],
+						[ 4.411279059197079, 51.91608344575179 ],
+						[ 4.411229114962137, 51.91608744453379 ],
+						[ 4.411190318375113, 51.91609016058001 ],
+						[ 4.411163007891009, 51.91609207311954 ],
+						[ 4.411165822833203, 51.91610970559027 ],
+						[ 4.411075340226834, 51.91611563282892 ],
+						[ 4.411067728441649, 51.91606587942547 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1495",
+				"VOLGNUMMER" : "3",
+				"BEPERKINGTYPE" : "WV - Plicht tot het treffen van voorzieningen, Woningwet",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT15077",
+				"REGISTERNUMMER" : "1484",
+				"OMSCHRIJVING" : "Vooraankondiging dwangsom: Vlonder",
+				"DATUM_BESLUIT" : "20090929000000",
+				"DATUM_INWERKING" : "20090929000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87849.41095075489",
+				"inside_y" : "436850.3005",
+				"inside_lat" : "51.9160844770938",
+				"inside_lon" : "4.41116349191715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.399125159993597, 51.902053256841 ],
+						[ 4.398959499110979, 51.90204160742562 ],
+						[ 4.398824950143224, 51.90203257455455 ],
+						[ 4.398504212743464, 51.902013660370166 ],
+						[ 4.398384899280072, 51.90200564508329 ],
+						[ 4.398450220238831, 51.90164204747912 ],
+						[ 4.399026274988373, 51.90168102404156 ],
+						[ 4.399133210191304, 51.901686921093265 ],
+						[ 4.39939311729908, 51.90170125925099 ],
+						[ 4.399326135133596, 51.902067396199364 ],
+						[ 4.399125159993597, 51.902053256841 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "305",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT00832",
+				"REGISTERNUMMER" : "1652",
+				"OMSCHRIJVING" : "in stand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging. (zie ook 09UIT02681)",
+				"DATUM_BESLUIT" : "19970116000000",
+				"DATUM_INWERKING" : "19970116000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "86983.41474976753",
+				"inside_y" : "435278.66599999997",
+				"inside_lat" : "51.901854725555324",
+				"inside_lon" : "4.398888520659006"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 4.394203210922436, 51.90873429861062 ],
+							[ 4.394186239158111, 51.90868832437279 ],
+							[ 4.394242209380386, 51.90868032082893 ],
+							[ 4.394235538051058, 51.90866389576988 ],
+							[ 4.3942626485100185, 51.90865968435017 ],
+							[ 4.394269443676059, 51.90867642506348 ],
+							[ 4.394274517399767, 51.908675694892345 ],
+							[ 4.3942880043327595, 51.90871385863221 ],
+							[ 4.394293379673243, 51.90871723891123 ],
+							[ 4.394296238080661, 51.908721397931366 ],
+							[ 4.394296453145903, 51.90872613687034 ],
+							[ 4.394293946576341, 51.90873039438277 ],
+							[ 4.394309359570283, 51.90877216094297 ],
+							[ 4.394221673093938, 51.908784310053136 ],
+							[ 4.394203210922436, 51.90873429861062 ]
+						]
+					],
+					[
+						[
+							[ 4.394240171502113, 51.90859843409456 ],
+							[ 4.394278158907808, 51.90859241703398 ],
+							[ 4.394302098857303, 51.90865004942476 ],
+							[ 4.394298835107829, 51.90865053383367 ],
+							[ 4.394299871984871, 51.90865425498768 ],
+							[ 4.394262925147007, 51.90865900353528 ],
+							[ 4.394240171502113, 51.90859843409456 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1505",
+				"VOLGNUMMER" : "3",
+				"BEPERKINGTYPE" : "WU - Bestuursdwangbesluit of dwangsombesluit, Woningwet",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "10UIT09007",
+				"REGISTERNUMMER" : "1302",
+				"OMSCHRIJVING" : "Uitvoering gemeentewege",
+				"DATUM_BESLUIT" : "20100525000000",
+				"DATUM_INWERKING" : "20100526000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "86674.4995000005",
+				"inside_y" : "436046.9175159724",
+				"inside_lat" : "51.90872130058457",
+				"inside_lon" : "4.3942479968190415"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.382286212834162, 51.9251356248237 ],
+						[ 4.382288373563499, 51.92507910106523 ],
+						[ 4.382393099452287, 51.92508692552991 ],
+						[ 4.382384159942473, 51.92514588585267 ],
+						[ 4.382286212834162, 51.9251356248237 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "557",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT06148",
+				"REGISTERNUMMER" : "1693",
+				"OMSCHRIJVING" : "in stand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging",
+				"DATUM_BESLUIT" : "20040310000000",
+				"DATUM_INWERKING" : "20040310000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "85880.22616720878",
+				"inside_y" : "437881.68440153083",
+				"inside_lat" : "51.925112509429255",
+				"inside_lon" : "4.382338133728544"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.405174351829381, 51.934739943935114 ],
+						[ 4.405206365307377, 51.934735627054216 ],
+						[ 4.405382985524682, 51.93471184367058 ],
+						[ 4.40544745741724, 51.934891106426605 ],
+						[ 4.405450294758984, 51.93489901329966 ],
+						[ 4.405464460658138, 51.93493883513159 ],
+						[ 4.405482079111169, 51.93498835774245 ],
+						[ 4.405498051861836, 51.93502934522416 ],
+						[ 4.405502458298743, 51.935040644987524 ],
+						[ 4.4055284292016905, 51.935113877882806 ],
+						[ 4.4055411401034235, 51.93514975045929 ],
+						[ 4.4053279312957265, 51.935178172356 ],
+						[ 4.405270482124873, 51.9350142581487 ],
+						[ 4.4052539061998495, 51.9349669464691 ],
+						[ 4.405174351829381, 51.934739943935114 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "230",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT09964",
+				"REGISTERNUMMER" : "1659",
+				"OMSCHRIJVING" : "in stand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging",
+				"DATUM_BESLUIT" : "20060214000000",
+				"DATUM_INWERKING" : "20060214000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87478.34449999995",
+				"inside_y" : "438953.8704407179",
+				"inside_lat" : "51.93494471649438",
+				"inside_lon" : "4.405357747991882"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.405473576745249, 51.9061830190733 ],
+						[ 4.40552070432376, 51.90614706627319 ],
+						[ 4.405566636584551, 51.90611201598648 ],
+						[ 4.405570316776815, 51.90611385348496 ],
+						[ 4.4056241990423555, 51.90614066783295 ],
+						[ 4.405639049815669, 51.90614805486022 ],
+						[ 4.405679130866711, 51.90616800328587 ],
+						[ 4.405682063560944, 51.906169465995056 ],
+						[ 4.40573453027494, 51.906195890936935 ],
+						[ 4.405762995084237, 51.906210070357815 ],
+						[ 4.4057155751612225, 51.90624669931916 ],
+						[ 4.405740280072763, 51.906259364183875 ],
+						[ 4.405796049352429, 51.90628695826228 ],
+						[ 4.405777867426632, 51.90630101776274 ],
+						[ 4.405781217183237, 51.9063026817069 ],
+						[ 4.405753149088638, 51.90632316719686 ],
+						[ 4.4056709832375915, 51.90628193989629 ],
+						[ 4.405585587404644, 51.906238616083826 ],
+						[ 4.40552863291505, 51.90621065772939 ],
+						[ 4.405473576745249, 51.9061830190733 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "415",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT06159",
+				"REGISTERNUMMER" : "1714",
+				"OMSCHRIJVING" : "Beschikking vaststelling ernst van een geval van bodemverontreiniginge en noodzaak spoedige sanering.",
+				"DATUM_BESLUIT" : "20090421000000",
+				"DATUM_INWERKING" : "20090421000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87455.038600314",
+				"inside_y" : "435757.7165357515",
+				"inside_lat" : "51.90621747972019",
+				"inside_lon" : "4.405646494820397"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.399696354420904, 51.93801488854831 ],
+						[ 4.399838406975394, 51.937866380332466 ],
+						[ 4.399895470307498, 51.93787022361668 ],
+						[ 4.39991223882528, 51.93785017998999 ],
+						[ 4.400178003981978, 51.93794930507124 ],
+						[ 4.400012658770638, 51.9381100568782 ],
+						[ 4.399696354420904, 51.93801488854831 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "560",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT09056",
+				"REGISTERNUMMER" : "1690",
+				"OMSCHRIJVING" : "in stand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging",
+				"DATUM_BESLUIT" : "20080603000000",
+				"DATUM_INWERKING" : "20080603000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87110.23774001552",
+				"inside_y" : "439296.58389820345",
+				"inside_lat" : "51.93797991400558",
+				"inside_lon" : "4.3999381022912045"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.406993684002352, 51.93351900504942 ],
+						[ 4.406977044867286, 51.93347053352814 ],
+						[ 4.4068970112028625, 51.93325655292706 ],
+						[ 4.40700061903285, 51.93324265950418 ],
+						[ 4.4070005145730216, 51.93323390285543 ],
+						[ 4.407000630418676, 51.9332285936471 ],
+						[ 4.407016066167365, 51.93321013673615 ],
+						[ 4.407037740731242, 51.933201024644276 ],
+						[ 4.407061475590919, 51.933195912356325 ],
+						[ 4.407083034302999, 51.93319210946449 ],
+						[ 4.407115242053367, 51.93319237797884 ],
+						[ 4.407147420847137, 51.933193973786516 ],
+						[ 4.407177249766542, 51.93320484280086 ],
+						[ 4.4072006972842, 51.933215829475174 ],
+						[ 4.407540525783568, 51.933170258407486 ],
+						[ 4.407634710834719, 51.933434262294284 ],
+						[ 4.406993684002352, 51.93351900504942 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "558",
+				"VOLGNUMMER" : "9",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT01846",
+				"REGISTERNUMMER" : "1692",
+				"OMSCHRIJVING" : "in stand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging",
+				"DATUM_BESLUIT" : "20060727000000",
+				"DATUM_INWERKING" : "20060727000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87607.19128607045",
+				"inside_y" : "438774.0895",
+				"inside_lat" : "51.93334462548121",
+				"inside_lon" : "4.407266317757981"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.374259775738332, 51.90570161377035 ],
+						[ 4.374228604195413, 51.90567739601574 ],
+						[ 4.374232724838617, 51.90563303042454 ],
+						[ 4.374256046328979, 51.905567595033254 ],
+						[ 4.374319759158129, 51.905510229733395 ],
+						[ 4.37439543168805, 51.90547613327809 ],
+						[ 4.374583410072905, 51.90547530067862 ],
+						[ 4.374648141381119, 51.90548024158021 ],
+						[ 4.3746824224200775, 51.9054824674509 ],
+						[ 4.374730808478404, 51.90550196880057 ],
+						[ 4.37472463029879, 51.90554846755159 ],
+						[ 4.374683325948709, 51.90558092987254 ],
+						[ 4.3746273758019, 51.90557079535054 ],
+						[ 4.374571512626778, 51.90555680058507 ],
+						[ 4.3745244014004765, 51.905581543922374 ],
+						[ 4.37447685672628, 51.905602316450434 ],
+						[ 4.374457308133954, 51.90563882715337 ],
+						[ 4.374431779539216, 51.90566370341538 ],
+						[ 4.374390605315159, 51.905690375307046 ],
+						[ 4.374324641570695, 51.90570911158099 ],
+						[ 4.374259775738332, 51.90570161377035 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1464",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "10UIT01036",
+				"REGISTERNUMMER" : "1748",
+				"OMSCHRIJVING" : "Instemming met een nazorgplan, zie ook 10UIT01027 (wbb 1027)",
+				"DATUM_BESLUIT" : "20100127000000",
+				"DATUM_INWERKING" : "20100127000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "85302.13906463535",
+				"inside_y" : "435717.60175624455",
+				"inside_lat" : "51.90559151223519",
+				"inside_lon" : "4.374373508014758"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.409459482254896, 51.91012984335343 ],
+						[ 4.409433214860885, 51.91006483505382 ],
+						[ 4.409420038272312, 51.910006638041274 ],
+						[ 4.409427561013657, 51.909937442609994 ],
+						[ 4.4094472140477, 51.909863879846306 ],
+						[ 4.409467438717381, 51.909819365517336 ],
+						[ 4.409482267129077, 51.909801615844025 ],
+						[ 4.40951504803282, 51.9097884837898 ],
+						[ 4.409564529530885, 51.90978219304414 ],
+						[ 4.40963311826677, 51.909782763614345 ],
+						[ 4.409678682186963, 51.90979058972479 ],
+						[ 4.409710815408205, 51.90980724062572 ],
+						[ 4.4097354697219355, 51.90983574466681 ],
+						[ 4.409760744570095, 51.90989106342576 ],
+						[ 4.409777207719952, 51.90996418192256 ],
+						[ 4.409772982577152, 51.909992445755556 ],
+						[ 4.40976524460556, 51.910016212115465 ],
+						[ 4.409733084081762, 51.9100561589613 ],
+						[ 4.409696320706472, 51.9100863862769 ],
+						[ 4.409667020074464, 51.910105505008815 ],
+						[ 4.40963545849775, 51.910117902542474 ],
+						[ 4.409584579004124, 51.910133118210794 ],
+						[ 4.40952774764686, 51.910145305490005 ],
+						[ 4.409493973686496, 51.910148748059875 ],
+						[ 4.409472346306457, 51.910147078714964 ],
+						[ 4.4094617431341945, 51.91013656455641 ],
+						[ 4.409459482254896, 51.91012984335343 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "435",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "08UIT16065",
+				"REGISTERNUMMER" : "1700",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid",
+				"DATUM_BESLUIT" : "20070110000000",
+				"DATUM_INWERKING" : "20070110000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87732.6275565",
+				"inside_y" : "436169.9788687322",
+				"inside_lat" : "51.909956185544544",
+				"inside_lon" : "4.409599258630353"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.403844370322616, 51.930484249638695 ],
+						[ 4.4039555585624175, 51.93027572245042 ],
+						[ 4.404050011195794, 51.93010235424688 ],
+						[ 4.404186041013272, 51.929853548999624 ],
+						[ 4.404348509414872, 51.92955527450819 ],
+						[ 4.4051608909595545, 51.929722262425 ],
+						[ 4.4053359757236334, 51.92975785543817 ],
+						[ 4.405530180528465, 51.92979679888359 ],
+						[ 4.4049975804727595, 51.93077888970495 ],
+						[ 4.404920901919793, 51.93076257253957 ],
+						[ 4.4048022766633, 51.93073816542739 ],
+						[ 4.404710997237718, 51.930719299128434 ],
+						[ 4.404592338810836, 51.93069508927947 ],
+						[ 4.40381753852536, 51.930534955778974 ],
+						[ 4.403844370322616, 51.930484249638695 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "556",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT01343",
+				"REGISTERNUMMER" : "1694",
+				"OMSCHRIJVING" : "in stand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging",
+				"DATUM_BESLUIT" : "20000720000000",
+				"DATUM_INWERKING" : "20000720000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87424.12799999997",
+				"inside_y" : "438422.98120278073",
+				"inside_lat" : "51.93016694278569",
+				"inside_lon" : "4.404673843319621"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.408864308871365, 51.91279357324776 ],
+						[ 4.408781220546713, 51.91276297238229 ],
+						[ 4.408837348712915, 51.91257980680327 ],
+						[ 4.408914021397304, 51.91261081808448 ],
+						[ 4.408864308871365, 51.91279357324776 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "438",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "08UIT00019",
+				"REGISTERNUMMER" : "1699",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid",
+				"DATUM_BESLUIT" : "20080116000000",
+				"DATUM_INWERKING" : "20080116000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87684.99991416151",
+				"inside_y" : "436474.3359788898",
+				"inside_lat" : "51.91268574382491",
+				"inside_lon" : "4.408847646146201"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.402676678879728, 51.90963190905289 ],
+						[ 4.402723409583427, 51.90960217249162 ],
+						[ 4.402798775270711, 51.909647588757956 ],
+						[ 4.402749394107918, 51.909678117417535 ],
+						[ 4.402676678879728, 51.90963190905289 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1467",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT04743",
+				"REGISTERNUMMER" : "1750",
+				"OMSCHRIJVING" : "vaststelling nazorgplan en gebruiksbeperking door aanwezigheid restverontreiniging\r\n",
+				"DATUM_BESLUIT" : "20041001000000",
+				"DATUM_INWERKING" : "20041001000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87260.06366022938",
+				"inside_y" : "436141.193143127",
+				"inside_lat" : "51.90964015893954",
+				"inside_lon" : "4.402738071161795"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.402060723746863, 51.929794399989305 ],
+						[ 4.4020561293151195, 51.92980300872361 ],
+						[ 4.401877994999153, 51.93013529731831 ],
+						[ 4.400863084705893, 51.92992572450973 ],
+						[ 4.400862585143424, 51.92992562135049 ],
+						[ 4.400849035849057, 51.92992287394292 ],
+						[ 4.4010378029297215, 51.92957812767416 ],
+						[ 4.401724332782688, 51.9297250183081 ],
+						[ 4.402060723746863, 51.929794399989305 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "580",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT09052",
+				"REGISTERNUMMER" : "1689",
+				"OMSCHRIJVING" : "beschikking ernst, urgentie of spoedeisendheid",
+				"DATUM_BESLUIT" : "20061011000000",
+				"DATUM_INWERKING" : "20061011000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87202.37717565431",
+				"inside_y" : "438391.4635",
+				"inside_lat" : "51.92985670016243",
+				"inside_lon" : "4.401456336133716"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.3961213537846, 51.91510426499963 ],
+						[ 4.396124832252003, 51.91510603816683 ],
+						[ 4.396265678976579, 51.91517993649698 ],
+						[ 4.396275775689449, 51.915172929435265 ],
+						[ 4.396306990354956, 51.91515216772724 ],
+						[ 4.396330234639018, 51.915166575050776 ],
+						[ 4.396335819610081, 51.91516312548003 ],
+						[ 4.3964531426690705, 51.91523069486797 ],
+						[ 4.396554573383926, 51.91527806709907 ],
+						[ 4.396516269330566, 51.9154219700943 ],
+						[ 4.396437563280309, 51.91539740531451 ],
+						[ 4.3964446677570255, 51.91537843584003 ],
+						[ 4.396335725056858, 51.91534015980659 ],
+						[ 4.396341800121065, 51.91533426041529 ],
+						[ 4.39629953993779, 51.91531605229122 ],
+						[ 4.39630712019963, 51.915309788061144 ],
+						[ 4.39602079919602, 51.91518923342771 ],
+						[ 4.396017358775132, 51.91518771226576 ],
+						[ 4.396021855602401, 51.915184172633296 ],
+						[ 4.396057976118834, 51.91515385228722 ],
+						[ 4.3961213537846, 51.91510426499963 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "376",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT03796",
+				"REGISTERNUMMER" : "1725",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie (wbb 259)",
+				"DATUM_BESLUIT" : "19980723000000",
+				"DATUM_INWERKING" : "19980723000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "86829.74556142799",
+				"inside_y" : "436772.744",
+				"inside_lat" : "51.91526346531956",
+				"inside_lon" : "4.396360041157772"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.40445602278788, 51.913311157067064 ],
+						[ 4.4047259731311055, 51.913429729529305 ],
+						[ 4.404760039232643, 51.91344518744947 ],
+						[ 4.404895973169789, 51.91350618929539 ],
+						[ 4.404796058336196, 51.91358409627273 ],
+						[ 4.404565940829971, 51.91348308861659 ],
+						[ 4.4043488404156905, 51.913385730962844 ],
+						[ 4.404366850270343, 51.91337371070249 ],
+						[ 4.40445602278788, 51.913311157067064 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "563",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT08520",
+				"REGISTERNUMMER" : "1729",
+				"OMSCHRIJVING" : "beschikking ernst, urgentie of spoedeisendheid (wbb 479)",
+				"DATUM_BESLUIT" : "20071107000000",
+				"DATUM_INWERKING" : "20071107000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87395.70247356061",
+				"inside_y" : "436563.01300000004",
+				"inside_lat" : "51.91344762788308",
+				"inside_lon" : "4.404626170451825"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.407024264591091, 51.911014224394506 ],
+						[ 4.407282847106269, 51.91108923526195 ],
+						[ 4.407161659285256, 51.91124868427548 ],
+						[ 4.406902035672987, 51.91117339479793 ],
+						[ 4.406963067867972, 51.9110939212861 ],
+						[ 4.407024264591091, 51.911014224394506 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "424",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT01119",
+				"REGISTERNUMMER" : "1704",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid",
+				"DATUM_BESLUIT" : "19970123000000",
+				"DATUM_INWERKING" : "19970123000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87561.91239018389",
+				"inside_y" : "436303.049",
+				"inside_lat" : "51.911131450585316",
+				"inside_lon" : "4.407092509689153"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 4.402205741169721, 51.9289789153322 ],
+							[ 4.402225609426569, 51.92894746409696 ],
+							[ 4.402289483462551, 51.92894997538529 ],
+							[ 4.402336945066556, 51.9289721102063 ],
+							[ 4.4023201428154355, 51.92900951546838 ],
+							[ 4.402274491040066, 51.92905063122861 ],
+							[ 4.40221376942084, 51.929050122454285 ],
+							[ 4.402194940704151, 51.92903415582974 ],
+							[ 4.402205741169721, 51.9289789153322 ]
+						]
+					],
+					[
+						[
+							[ 4.402424749252986, 51.92890368205448 ],
+							[ 4.402470833781238, 51.92884280879194 ],
+							[ 4.402462631940282, 51.92877950466149 ],
+							[ 4.402428776701901, 51.928719937841166 ],
+							[ 4.402468902379019, 51.92863925358945 ],
+							[ 4.4026625581178145, 51.928553926964184 ],
+							[ 4.402866399287959, 51.928587251730725 ],
+							[ 4.40304450089077, 51.928628265079446 ],
+							[ 4.402934709662489, 51.928824956541774 ],
+							[ 4.4027614685172844, 51.92914561129594 ],
+							[ 4.402596191941932, 51.92910272884527 ],
+							[ 4.402565358959502, 51.929051091810784 ],
+							[ 4.402582767212533, 51.928986026093824 ],
+							[ 4.402451909750621, 51.9289770255405 ],
+							[ 4.402424749252986, 51.92890368205448 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1322",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT04731",
+				"REGISTERNUMMER" : "1736",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid \r\n",
+				"DATUM_BESLUIT" : "20000928000000",
+				"DATUM_INWERKING" : "20000928000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87288.64784610778",
+				"inside_y" : "438278.44360114005",
+				"inside_lat" : "51.928851481916084",
+				"inside_lon" : "4.402732752375332"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.4014513985503, 51.9167927972213 ],
+						[ 4.401444635597531, 51.91676181893036 ],
+						[ 4.401674451734536, 51.916744438219716 ],
+						[ 4.401732066001276, 51.91674007633783 ],
+						[ 4.4017254716953165, 51.91671266804267 ],
+						[ 4.401747023792722, 51.916711554360084 ],
+						[ 4.402012095769991, 51.9166978483928 ],
+						[ 4.402011870412287, 51.91668757227384 ],
+						[ 4.402237214553613, 51.91668717781874 ],
+						[ 4.402232211223108, 51.91674634529379 ],
+						[ 4.402228530660063, 51.91678893047874 ],
+						[ 4.40222351293317, 51.91683615168079 ],
+						[ 4.402220577849344, 51.91686660819598 ],
+						[ 4.402220299383142, 51.91686936543219 ],
+						[ 4.402063280762894, 51.91686809436183 ],
+						[ 4.402056252167929, 51.91686778376126 ],
+						[ 4.4020310269580305, 51.9168667004048 ],
+						[ 4.4017054018503465, 51.9168874852699 ],
+						[ 4.40170053966022, 51.91686129600056 ],
+						[ 4.401632096457564, 51.916866960329514 ],
+						[ 4.401472186946307, 51.916880190173394 ],
+						[ 4.401462921648608, 51.91683737957685 ],
+						[ 4.401459807592864, 51.91682759159182 ],
+						[ 4.4014513985503, 51.9167927972213 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "75",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "08UIT07080",
+				"REGISTERNUMMER" : "1646",
+				"OMSCHRIJVING" : "Artikel 39d:\r\n- in stand houden  isolatielaag (verharding van klinkers)\r\n- melden aan bevoegd gezag Wbb van graafwerkzaamheden etc.",
+				"DATUM_BESLUIT" : "20080610000000",
+				"DATUM_INWERKING" : "20080623000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87208.97054502199",
+				"inside_y" : "436937.025",
+				"inside_lat" : "51.916786221495705",
+				"inside_lon" : "4.4018388605835295"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.402458468777546, 51.93338278643757 ],
+						[ 4.402582632835397, 51.93313473807458 ],
+						[ 4.403051857836563, 51.93322985120051 ],
+						[ 4.402913307524527, 51.933477779594035 ],
+						[ 4.402458468777546, 51.93338278643757 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1053",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT05363",
+				"REGISTERNUMMER" : "1778",
+				"OMSCHRIJVING" : "in stand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging (wbb 339)",
+				"DATUM_BESLUIT" : "20021128000000",
+				"DATUM_INWERKING" : "20021128000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87296.74591440335",
+				"inside_y" : "438774.02086526953",
+				"inside_lat" : "51.93330630009995",
+				"inside_lon" : "4.402752883486578"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.369480711317782, 51.951525567526126 ],
+						[ 4.3700446349936115, 51.95162120204372 ],
+						[ 4.370146930841462, 51.95164317583388 ],
+						[ 4.37009456057205, 51.95169826082074 ],
+						[ 4.370055697874871, 51.95181712214569 ],
+						[ 4.369993170632232, 51.951992184700835 ],
+						[ 4.369920681314262, 51.95212153291952 ],
+						[ 4.369871741471487, 51.952258264290066 ],
+						[ 4.36985597769513, 51.95226983480803 ],
+						[ 4.369826630301963, 51.95227277370136 ],
+						[ 4.369792189054888, 51.9522724757273 ],
+						[ 4.36908925625598, 51.952129102034725 ],
+						[ 4.369202773177769, 51.95198428073252 ],
+						[ 4.369352804812849, 51.95174824875017 ],
+						[ 4.369480711317782, 51.951525567526126 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "85",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "08UIT09557",
+				"REGISTERNUMMER" : "1647",
+				"OMSCHRIJVING" : "Instemming met nazorgplan",
+				"DATUM_BESLUIT" : "20080730000000",
+				"DATUM_INWERKING" : "20080730000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "85047.02472301839",
+				"inside_y" : "440873.13567165274",
+				"inside_lat" : "51.951892755551874",
+				"inside_lon" : "4.3696179464719265"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.411992193605132, 51.92357764803933 ],
+						[ 4.411893062028964, 51.923371170607766 ],
+						[ 4.412005958723327, 51.923352008331136 ],
+						[ 4.412124307181998, 51.92360820037572 ],
+						[ 4.412109319739812, 51.92361081763377 ],
+						[ 4.411992193605132, 51.92357764803933 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1327",
+				"VOLGNUMMER" : "7",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT03134",
+				"REGISTERNUMMER" : "1819",
+				"OMSCHRIJVING" : "in stand houden verhardingslaag door aanwezigheid restverontreiniging. Instandhouding nazorgplan (wbb 0262)",
+				"DATUM_BESLUIT" : "20080213000000",
+				"DATUM_INWERKING" : "20080213000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87918.61099999998",
+				"inside_y" : "437671.464695294",
+				"inside_lat" : "51.923472786893605",
+				"inside_lon" : "4.4120090510368275"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.412233654427099, 51.937174410024724 ],
+						[ 4.412344890426455, 51.93703569155542 ],
+						[ 4.412453582728512, 51.93703694332457 ],
+						[ 4.412752949779215, 51.93685413003065 ],
+						[ 4.412901354996055, 51.936890335358385 ],
+						[ 4.413046332058787, 51.93692570310088 ],
+						[ 4.413293928300438, 51.93698688264964 ],
+						[ 4.413994683338691, 51.93730041663166 ],
+						[ 4.414165139377485, 51.93737547264491 ],
+						[ 4.414136723654553, 51.937400289218665 ],
+						[ 4.414025592809049, 51.93753571133504 ],
+						[ 4.414339899907135, 51.93767549047171 ],
+						[ 4.414352963361142, 51.93768134240344 ],
+						[ 4.414597584373036, 51.93779087220171 ],
+						[ 4.414612911949176, 51.93779357878089 ],
+						[ 4.415324495793386, 51.93811105943331 ],
+						[ 4.415567495867075, 51.93821506365475 ],
+						[ 4.415249419122393, 51.93849242625977 ],
+						[ 4.414413738964482, 51.93812309588163 ],
+						[ 4.413576551050843, 51.93775417844071 ],
+						[ 4.4133929558107985, 51.93767339475842 ],
+						[ 4.412889178020376, 51.937451719232264 ],
+						[ 4.41270925862965, 51.93737254695386 ],
+						[ 4.4125685426393435, 51.93732572645416 ],
+						[ 4.412577063400924, 51.937318408304144 ],
+						[ 4.412233654427099, 51.937174410024724 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1082",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT08828",
+				"REGISTERNUMMER" : "1781",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid (wbb 0393)",
+				"DATUM_BESLUIT" : "20081029000000",
+				"DATUM_INWERKING" : "20081029000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "88069.908",
+				"inside_y" : "439239.0029356554",
+				"inside_lat" : "51.937578768538195",
+				"inside_lon" : "4.413903068934631"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.399701005045098, 51.911031937559365 ],
+						[ 4.399837812553076, 51.91094467284635 ],
+						[ 4.399822509885396, 51.91093400936081 ],
+						[ 4.399845989900128, 51.910919770560206 ],
+						[ 4.399934521936893, 51.91086526894451 ],
+						[ 4.3999439985476005, 51.910859955253436 ],
+						[ 4.4001185861061, 51.91096960244034 ],
+						[ 4.399861966525994, 51.91112936266378 ],
+						[ 4.399792988033475, 51.91108633783892 ],
+						[ 4.399791517520192, 51.91108711650127 ],
+						[ 4.399701005045098, 51.911031937559365 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "583",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT03552",
+				"REGISTERNUMMER" : "1734",
+				"OMSCHRIJVING" : "in stand houden van de lee cq isolatieflaag (als betonfundering) (wbb 701)",
+				"DATUM_BESLUIT" : "20090401000000",
+				"DATUM_INWERKING" : "20090401000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87067.5175",
+				"inside_y" : "436293.98989531235",
+				"inside_lat" : "51.91098989925249",
+				"inside_lon" : "4.3999100344818025"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.3981648345602435, 51.91076401500609 ],
+						[ 4.398172422583468, 51.910759332758936 ],
+						[ 4.398460078287525, 51.91058229110535 ],
+						[ 4.398519778000824, 51.91054554362058 ],
+						[ 4.398580179002278, 51.91058330150211 ],
+						[ 4.398616078433014, 51.91060574300696 ],
+						[ 4.398932775485698, 51.91080593638624 ],
+						[ 4.398974833842551, 51.91083251949261 ],
+						[ 4.398945656371509, 51.91087121378203 ],
+						[ 4.399018013135214, 51.910916541694895 ],
+						[ 4.398995523650559, 51.910930006631844 ],
+						[ 4.398929144483328, 51.91097109372907 ],
+						[ 4.398913982656701, 51.91098047641714 ],
+						[ 4.398752262396794, 51.91107961152817 ],
+						[ 4.398628299319487, 51.91100104908424 ],
+						[ 4.3985881548047105, 51.911025565522266 ],
+						[ 4.3981648345602435, 51.91076401500609 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1333",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT02274",
+				"REGISTERNUMMER" : "1738",
+				"OMSCHRIJVING" : "Instand houden leef-en verhardingslaag door aanwezigheid restverontreiniging (wbb 232)\r\n",
+				"DATUM_BESLUIT" : "19991129000000",
+				"DATUM_INWERKING" : "19991129000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "86976.61224937643",
+				"inside_y" : "436275.4545",
+				"inside_lat" : "51.910812213394316",
+				"inside_lon" : "4.3985927198136885"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.397093970550924, 51.91350879485675 ],
+						[ 4.397080494350561, 51.9134478242243 ],
+						[ 4.397297885483605, 51.913315956908086 ],
+						[ 4.397400339152487, 51.91332560121544 ],
+						[ 4.397093970550924, 51.91350879485675 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1336",
+				"VOLGNUMMER" : "7",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT01858",
+				"REGISTERNUMMER" : "1740",
+				"OMSCHRIJVING" : "Vaststellen nazorgplan en gebruiksbeperking door aanwezigheid restverontreiniging (wbb 224).\r\n",
+				"DATUM_BESLUIT" : "20000914000000",
+				"DATUM_INWERKING" : "20000914000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "86887.46924497565",
+				"inside_y" : "436563.05333508964",
+				"inside_lat" : "51.91338600932907",
+				"inside_lon" : "4.397240432462656"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.400613126071733, 51.91923423926594 ],
+						[ 4.400662867753437, 51.919035050909656 ],
+						[ 4.400771991108703, 51.91904778709969 ],
+						[ 4.400792217889695, 51.919050150127575 ],
+						[ 4.4008119163834785, 51.919052077254776 ],
+						[ 4.401003373626744, 51.91907086151107 ],
+						[ 4.401095188528053, 51.91907477795228 ],
+						[ 4.40108433311684, 51.9191667054856 ],
+						[ 4.401048585446475, 51.919164805547545 ],
+						[ 4.401039937927312, 51.91922368171143 ],
+						[ 4.401038807171094, 51.919259312917816 ],
+						[ 4.400983979791906, 51.91925245284082 ],
+						[ 4.40084502999439, 51.91924419467424 ],
+						[ 4.400735160191379, 51.91923961414444 ],
+						[ 4.400613126071733, 51.91923423926594 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "293",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09INK08318",
+				"REGISTERNUMMER" : "1651",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie",
+				"DATUM_BESLUIT" : "19980706000000",
+				"DATUM_INWERKING" : "19980706000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87145.25372891026",
+				"inside_y" : "437200.60199999996",
+				"inside_lat" : "51.91914726618869",
+				"inside_lon" : "4.400860861526617"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.402303459374157, 51.92837091614855 ],
+						[ 4.402386002835109, 51.92820600709727 ],
+						[ 4.402579435992014, 51.92824333037174 ],
+						[ 4.4024907132094855, 51.928409533637776 ],
+						[ 4.402303459374157, 51.92837091614855 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "284",
+				"VOLGNUMMER" : "9",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT00808",
+				"REGISTERNUMMER" : "1653",
+				"OMSCHRIJVING" : "vaststelling nazorgplan en gebruiksbeperking door aanwezigheid restverontreiniging. ",
+				"DATUM_BESLUIT" : "20050321000000",
+				"DATUM_INWERKING" : "20050321000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87267.79231257644",
+				"inside_y" : "438218.2555113629",
+				"inside_lat" : "51.92830802233742",
+				"inside_lon" : "4.402441428174495"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.412517766030408, 51.907439728285084 ],
+						[ 4.412124670446342, 51.907318911346195 ],
+						[ 4.412331991406719, 51.907059092508945 ],
+						[ 4.412394280131042, 51.906980615415634 ],
+						[ 4.412440651590677, 51.90693448289095 ],
+						[ 4.412451378346914, 51.90693574940412 ],
+						[ 4.41247543196367, 51.90695241645278 ],
+						[ 4.4125866722672304, 51.90702919580317 ],
+						[ 4.412638236853953, 51.90706796978466 ],
+						[ 4.412688295738, 51.90711385939588 ],
+						[ 4.412743104181726, 51.90716121759313 ],
+						[ 4.412517766030408, 51.907439728285084 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "296",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT01517",
+				"REGISTERNUMMER" : "1655",
+				"OMSCHRIJVING" : "in stand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging.",
+				"DATUM_BESLUIT" : "20001205000000",
+				"DATUM_INWERKING" : "20001205000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87923.61349999999",
+				"inside_y" : "435857.80979301943",
+				"inside_lat" : "51.90717371044391",
+				"inside_lon" : "4.412435326570077"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.408389579762613, 51.909602474643144 ],
+						[ 4.408517292540964, 51.90961821705443 ],
+						[ 4.408645295442177, 51.90963398870861 ],
+						[ 4.408956700270017, 51.909672365841466 ],
+						[ 4.408954315486039, 51.90967977076185 ],
+						[ 4.4089762751720185, 51.909682470428734 ],
+						[ 4.408978645421545, 51.90967506538695 ],
+						[ 4.409035261868168, 51.90968204456043 ],
+						[ 4.409164830573166, 51.90969800845594 ],
+						[ 4.409179818079105, 51.90969985904221 ],
+						[ 4.409372497101509, 51.909723601897234 ],
+						[ 4.409390891145189, 51.90967107142924 ],
+						[ 4.409561726218319, 51.90969146815244 ],
+						[ 4.409606710719097, 51.90955098745015 ],
+						[ 4.409885608074926, 51.909587177076375 ],
+						[ 4.409739336866051, 51.909771894435394 ],
+						[ 4.4095522788679595, 51.9100029063463 ],
+						[ 4.409550261458808, 51.91000344687055 ],
+						[ 4.40910084991869, 51.909947994587334 ],
+						[ 4.409093573505356, 51.909947098065075 ],
+						[ 4.409078616351661, 51.90994518479916 ],
+						[ 4.409068963883155, 51.90994394490133 ],
+						[ 4.408994134936049, 51.90993436019979 ],
+						[ 4.408951563774279, 51.90992910692539 ],
+						[ 4.408567959559553, 51.90988178694156 ],
+						[ 4.408436129764545, 51.90986552490466 ],
+						[ 4.4083084455708725, 51.909849773658856 ],
+						[ 4.408145988815288, 51.90982972356848 ],
+						[ 4.407875541516891, 51.909795919350486 ],
+						[ 4.40766107160327, 51.90976908901658 ],
+						[ 4.40783952145976, 51.90953467346556 ],
+						[ 4.408227514633156, 51.909582499832375 ],
+						[ 4.408389579762613, 51.909602474643144 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "302",
+				"VOLGNUMMER" : "8",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT09815",
+				"REGISTERNUMMER" : "1657",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie",
+				"DATUM_BESLUIT" : "19990205000000",
+				"DATUM_INWERKING" : "19990205000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87670.55005571175",
+				"inside_y" : "436149.999",
+				"inside_lat" : "51.90976911512504",
+				"inside_lon" : "4.4087011143316195"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.391192674327692, 51.94232737103489 ],
+						[ 4.391197439060515, 51.94231910573747 ],
+						[ 4.391207664933683, 51.94230134058561 ],
+						[ 4.391213806349995, 51.94229067794846 ],
+						[ 4.391222984110838, 51.94231558278336 ],
+						[ 4.3913013224079895, 51.94251417093422 ],
+						[ 4.391307245858211, 51.94252776724154 ],
+						[ 4.391405988578889, 51.94250342590579 ],
+						[ 4.39143545908999, 51.94256032296794 ],
+						[ 4.391483044832638, 51.942628034160414 ],
+						[ 4.391578698530438, 51.9427358199809 ],
+						[ 4.391820796185097, 51.94307477027133 ],
+						[ 4.391833525007536, 51.9430943477856 ],
+						[ 4.391727229645733, 51.94313982114962 ],
+						[ 4.39169741921962, 51.94316055762388 ],
+						[ 4.391641643466111, 51.94314076842725 ],
+						[ 4.391610985152573, 51.94317350674783 ],
+						[ 4.391586305916044, 51.94319109561528 ],
+						[ 4.391540383416111, 51.94334419963268 ],
+						[ 4.3911887818567665, 51.94364462996798 ],
+						[ 4.391056890063244, 51.94380728872287 ],
+						[ 4.390983905488012, 51.94391085065235 ],
+						[ 4.390838053103809, 51.944106110140524 ],
+						[ 4.390736710483395, 51.944225162025965 ],
+						[ 4.390695537038619, 51.94427353242237 ],
+						[ 4.390529529200535, 51.94422340604127 ],
+						[ 4.390377001721936, 51.94417734878308 ],
+						[ 4.390445996657709, 51.944086517509774 ],
+						[ 4.390215557852035, 51.94402322417876 ],
+						[ 4.391170756215086, 51.94236540577975 ],
+						[ 4.391192674327692, 51.94232737103489 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "330",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT06386",
+				"REGISTERNUMMER" : "1665",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid (382)",
+				"DATUM_BESLUIT" : "20050517000000",
+				"DATUM_INWERKING" : "20050517000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "86505.8275",
+				"inside_y" : "439888.13647337025",
+				"inside_lat" : "51.94322214455804",
+				"inside_lon" : "4.391032017237276"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.370213536978371, 51.946395652759094 ],
+						[ 4.370487023280778, 51.94652412210982 ],
+						[ 4.3704679243983255, 51.94653956157323 ],
+						[ 4.370440068333284, 51.94656209839532 ],
+						[ 4.370166158567585, 51.94643369718456 ],
+						[ 4.370213536978371, 51.946395652759094 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1498",
+				"VOLGNUMMER" : "3",
+				"BEPERKINGTYPE" : "WV - Plicht tot het treffen van voorzieningen, Woningwet",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UVH00026",
+				"REGISTERNUMMER" : "1486",
+				"OMSCHRIJVING" : "Vooraankodiging dwangsom: Erfafscheiding",
+				"DATUM_BESLUIT" : "20090108000000",
+				"DATUM_INWERKING" : "20090108000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "85087.31050242428",
+				"inside_y" : "440270.1635",
+				"inside_lat" : "51.94647887399704",
+				"inside_lon" : "4.370326613425476"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.3812787890688485, 51.92551618281606 ],
+						[ 4.381278738588139, 51.92550625400164 ],
+						[ 4.3812811480080285, 51.925503374994385 ],
+						[ 4.38129098039064, 51.92548316175217 ],
+						[ 4.38130283277311, 51.92547746392671 ],
+						[ 4.3813171594686215, 51.92546598802107 ],
+						[ 4.381356918879049, 51.925470677689134 ],
+						[ 4.3814035496078905, 51.92548267520475 ],
+						[ 4.381419636751428, 51.92549731098631 ],
+						[ 4.381416870424017, 51.9255161348867 ],
+						[ 4.3814117920226465, 51.92553348919058 ],
+						[ 4.381402186815614, 51.92554355569457 ],
+						[ 4.381383235973527, 51.92555209241653 ],
+						[ 4.381362005501778, 51.92555771000254 ],
+						[ 4.381317492074107, 51.92555587928132 ],
+						[ 4.381289714799155, 51.92553969363402 ],
+						[ 4.3812787890688485, 51.92551618281606 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1744",
+				"VOLGNUMMER" : "8",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT39714",
+				"REGISTERNUMMER" : "1890",
+				"OMSCHRIJVING" : "beschikking ernst en spoed (geen spoed) (wbb 0511)",
+				"DATUM_BESLUIT" : "20091202000000",
+				"DATUM_INWERKING" : "20091202000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "85812.80374193519",
+				"inside_y" : "437927.2344515132",
+				"inside_lat" : "51.92551349099187",
+				"inside_lon" : "4.381348925571772"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.404761438921527, 51.9130552997258 ],
+						[ 4.404766425016842, 51.91305061328289 ],
+						[ 4.40484572125123, 51.91298101944206 ],
+						[ 4.404857442360169, 51.91297076228473 ],
+						[ 4.405309873465613, 51.91316659843106 ],
+						[ 4.405229679194785, 51.913239394089196 ],
+						[ 4.405214407565976, 51.91325382838809 ],
+						[ 4.404965804607631, 51.91314607823667 ],
+						[ 4.404761438921527, 51.9130552997258 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "561",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT08526",
+				"REGISTERNUMMER" : "1728",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid (wbb 441)",
+				"DATUM_BESLUIT" : "20071107000000",
+				"DATUM_INWERKING" : "20071107000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87423.47349270678",
+				"inside_y" : "436525.32649999997",
+				"inside_lat" : "51.91311230567247",
+				"inside_lon" : "4.405037144990559"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.4111949827336225, 51.90846457695826 ],
+						[ 4.411810973639891, 51.9086568027319 ],
+						[ 4.411779690464802, 51.90869666919463 ],
+						[ 4.411550363989301, 51.90897884834592 ],
+						[ 4.4109860710989635, 51.90880373396389 ],
+						[ 4.410935254701973, 51.90878736564091 ],
+						[ 4.4111949827336225, 51.90846457695826 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "565",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT08921",
+				"REGISTERNUMMER" : "1730",
+				"OMSCHRIJVING" : "in stand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging (458)",
+				"DATUM_BESLUIT" : "20070123000000",
+				"DATUM_INWERKING" : "20070123000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87852.87457585872",
+				"inside_y" : "436031.005",
+				"inside_lat" : "51.90872172124353",
+				"inside_lon" : "4.411373690599227"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.403969762891482, 51.91016879233874 ],
+						[ 4.403793840771054, 51.910074025239595 ],
+						[ 4.4038573862855825, 51.91003398138336 ],
+						[ 4.404027245843177, 51.91012965916279 ],
+						[ 4.403969762891482, 51.91016879233874 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "449",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT04834",
+				"REGISTERNUMMER" : "1726",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid (wbb 293)",
+				"DATUM_BESLUIT" : "20000822000000",
+				"DATUM_INWERKING" : "20000822000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87341.44705886528",
+				"inside_y" : "436191.4095",
+				"inside_lat" : "51.91010136347702",
+				"inside_lon" : "4.403910778122103"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.404548141339754, 51.917446625582315 ],
+						[ 4.404472480284473, 51.91739545781026 ],
+						[ 4.4044954896673385, 51.91738288606777 ],
+						[ 4.404510539952473, 51.91737466128735 ],
+						[ 4.4046329127007855, 51.917307818767334 ],
+						[ 4.404692685452648, 51.91727588677649 ],
+						[ 4.404697539788204, 51.91727924423217 ],
+						[ 4.4047748111595375, 51.91733255567128 ],
+						[ 4.40473237646698, 51.91735666853876 ],
+						[ 4.4047159732268595, 51.917366940478196 ],
+						[ 4.404704710256217, 51.91735818110124 ],
+						[ 4.404673125766503, 51.91737602056093 ],
+						[ 4.404548141339754, 51.917446625582315 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1494",
+				"VOLGNUMMER" : "3",
+				"BEPERKINGTYPE" : "WV - Plicht tot het treffen van voorzieningen, Woningwet",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT39293",
+				"REGISTERNUMMER" : "1483",
+				"OMSCHRIJVING" : "Vooraankondiging dwangsom: Verwijderen dakterras",
+				"DATUM_BESLUIT" : "20091120000000",
+				"DATUM_INWERKING" : "20091120000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87400.97426684764",
+				"inside_y" : "436998.40650000004",
+				"inside_lat" : "51.91736122968681",
+				"inside_lon" : "4.404617241852132"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.388283968152368, 51.91472305039832 ]
+			},
+			"properties" : {
+				"ID" : "1520",
+				"VOLGNUMMER" : "3",
+				"BEPERKINGTYPE" : "WU - Bestuursdwangbesluit of dwangsombesluit, Woningwet",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "10UIT14984",
+				"REGISTERNUMMER" : "1317",
+				"OMSCHRIJVING" : "Lastgeving onder bestuursdwang",
+				"DATUM_BESLUIT" : "20100726000000",
+				"DATUM_INWERKING" : "20100727000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "86273.3073274336",
+				"inside_y" : "436720.228858407",
+				"inside_lat" : "51.91472305039832",
+				"inside_lon" : "4.388283968152368"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.401376881774641, 51.917451772399545 ],
+						[ 4.401386311426729, 51.917493056276975 ],
+						[ 4.401138165898393, 51.91752943785993 ],
+						[ 4.401120990398159, 51.91748940134394 ],
+						[ 4.401376881774641, 51.917451772399545 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "1480",
+				"VOLGNUMMER" : "3",
+				"BEPERKINGTYPE" : "WU - Bestuursdwangbesluit of dwangsombesluit, Woningwet",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT38512",
+				"REGISTERNUMMER" : "1467",
+				"OMSCHRIJVING" : "Dwangsom: Stillegging bouwwerkzaamheden",
+				"DATUM_BESLUIT" : "20091111000000",
+				"DATUM_INWERKING" : "20091111000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87169.76408279702",
+				"inside_y" : "437015.92949999997",
+				"inside_lat" : "51.917490571490674",
+				"inside_lon" : "4.401253506634036"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.393956171741296, 51.94560126169941 ],
+						[ 4.393873733618151, 51.94546428607368 ],
+						[ 4.394238088834797, 51.94537100357516 ],
+						[ 4.39437135646344, 51.9455471139176 ],
+						[ 4.394391094373066, 51.94558329870314 ],
+						[ 4.394490632238042, 51.945764031984005 ],
+						[ 4.3945061643814896, 51.94579111154012 ],
+						[ 4.394515730050899, 51.94580779461298 ],
+						[ 4.39450228730032, 51.94581121372258 ],
+						[ 4.394323157871994, 51.94585676665498 ],
+						[ 4.394291664882291, 51.94584568719637 ],
+						[ 4.39404487467657, 51.94575883857765 ],
+						[ 4.394015608732346, 51.94570954848054 ],
+						[ 4.394012291138791, 51.94570368672564 ],
+						[ 4.393986069299916, 51.945655527955495 ],
+						[ 4.393956171741296, 51.94560126169941 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "323",
+				"VOLGNUMMER" : "6",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT05815",
+				"REGISTERNUMMER" : "1672",
+				"OMSCHRIJVING" : "instand houden leeflaag of verhardingslaag door aanwezigheid restverontreiniging (353)",
+				"DATUM_BESLUIT" : "20060418000000",
+				"DATUM_INWERKING" : "20060418000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "86726.94799999995",
+				"inside_y" : "440149.18722259725",
+				"inside_lat" : "51.945595438957355",
+				"inside_lon" : "4.394195628429852"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.406280803746834, 51.90609793872926 ],
+						[ 4.406284312949485, 51.906099806523486 ],
+						[ 4.406274703282993, 51.90610796906915 ],
+						[ 4.406236461024156, 51.90613694445001 ],
+						[ 4.406215448386879, 51.90615286804242 ],
+						[ 4.406187667717523, 51.90617393067705 ],
+						[ 4.4061870774863525, 51.90617438225976 ],
+						[ 4.406123106182942, 51.90614500494354 ],
+						[ 4.406174386802771, 51.90610591814285 ],
+						[ 4.406222186892265, 51.90606998602381 ],
+						[ 4.406223793491267, 51.90607078874185 ],
+						[ 4.406223408460543, 51.906071118114575 ],
+						[ 4.406224314621999, 51.90607154815439 ],
+						[ 4.40622502468521, 51.90607121357986 ],
+						[ 4.4062750973981615, 51.90609590035339 ],
+						[ 4.406280803746834, 51.90609793872926 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "713",
+				"VOLGNUMMER" : "7",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT01110",
+				"REGISTERNUMMER" : "1766",
+				"OMSCHRIJVING" : "vaststelling nazorgplan en gebruiksbeperking door aanwezigheid restverontreiniging (wbb 0189)",
+				"DATUM_BESLUIT" : "19990128000000",
+				"DATUM_INWERKING" : "19990128000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87493.2385",
+				"inside_y" : "435746.66939600755",
+				"inside_lat" : "51.90612283171862",
+				"inside_lon" : "4.406203700312101"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.408764782615101, 51.913155960692585 ],
+						[ 4.408765560067789, 51.91313693782484 ],
+						[ 4.408808167706002, 51.91298707131467 ],
+						[ 4.409041000108799, 51.913013063513226 ],
+						[ 4.40930486658561, 51.91311311172139 ],
+						[ 4.4094312170654755, 51.91315988014358 ],
+						[ 4.4093184460369725, 51.91327327071063 ],
+						[ 4.409238026416759, 51.91335337510509 ],
+						[ 4.409095914834409, 51.91336227792238 ],
+						[ 4.408806181180281, 51.91338149335709 ],
+						[ 4.408803705007717, 51.91337906373821 ],
+						[ 4.408788288140008, 51.91329004491378 ],
+						[ 4.408780555177296, 51.91324666339347 ],
+						[ 4.408764782615101, 51.913155960692585 ]
+					]
+				]
+			},
+			"properties" : {
+				"ID" : "439",
+				"VOLGNUMMER" : "5",
+				"BEPERKINGTYPE" : "KW - Melding, bevel, beschikking of vordering Wet bodembescherming",
+				"ORGAAN" : "College Burgemeester en Wethouders",
+				"KENMERK" : "09UIT08453",
+				"REGISTERNUMMER" : "1698",
+				"OMSCHRIJVING" : "beschikking ernst en urgentie of spoedeisendheid",
+				"DATUM_BESLUIT" : "20070321000000",
+				"DATUM_INWERKING" : "20070321000000",
+				"DATUM_EINDE" : null,
+				"AARD" : "Opleggen",
+				"STATUS" : "Geregistreerd",
+				"inside_x" : "87702.13776222183",
+				"inside_y" : "436529.83550000004",
+				"inside_lat" : "51.913186601893386",
+				"inside_lon" : "4.4090858389322864"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 4.40476883210002, 51.93413728136943 ],
+						[ 4.404838382528901, 51.93400769569575 ],
+						[ 4.405070692447164, 51.9335782639879 ],
+						[ 4.405072366369078, 51.93357486222666 ],
+						[ 4.405698746335876, 51.933704138905924 ],
+						[ 4.405908024023574, 51.93374617374973 ],

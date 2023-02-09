@@ -1,0 +1,341 @@
+BRIN NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM VESTIGING;PLAATSNAAM VESTIGING;PROVINCIE VESTIGING;ONDERWIJSTYPE VO EN LEER- OF VERBLIJFSJAAR;VMBO SECTOR;AFDELING;ELEMENTCODE;OPLEIDINGSNAAM;LEER- OF VERBLIJFSJAAR 1 - MAN;LEER- OF VERBLIJFSJAAR 1 - VROUW;LEER- OF VERBLIJFSJAAR 2 - MAN;LEER- OF VERBLIJFSJAAR 2 - VROUW;LEER- OF VERBLIJFSJAAR 3 - MAN;LEER- OF VERBLIJFSJAAR 3 - VROUW;LEER- OF VERBLIJFSJAAR 4 - MAN;LEER- OF VERBLIJFSJAAR 4 - VROUW;LEER- OF VERBLIJFSJAAR 5 - MAN;LEER- OF VERBLIJFSJAAR 5 - VROUW;LEER- OF VERBLIJFSJAAR 6 - MAN;LEER- OF VERBLIJFSJAAR 6 - VROUW
+01UH;00;Maartenscollege;HAREN GN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0011;Ljvb op HAVO/VMBO-Th/Gm Lw;39;45;27;25;0;0;0;0;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0015;Ljvb op VWO/HAVO;34;38;32;51;0;0;0;0;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;Engelse Stroom;N.v.t.;N.v.t.;0700;International Baccalaureate middle years programme;13;6;8;10;9;11;13;9;18;16;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Cultuur en Maatschappij;0373;HAVO Prf Cul/Maat;0;0;0;0;0;0;0;0;1;5;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;20;7;12;11;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0379;HAVO Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;2;2;0;2;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;11;13;9;15;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;1;0;1;2;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0374;HAVO Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;9;1;5;4;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4031;HAVO NW naar VAVO;0;0;0;0;0;0;0;1;3;2;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4036;HAVO NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;2;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0015;Ljvb op VWO/HAVO;0;0;0;0;40;58;0;0;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;9;9;0;0;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;Int. Baccelaureaat;N.v.t.;N.v.t.;0800;International Baccalaureate diplom programme;0;0;0;0;0;0;0;0;11;13;12;8
+01UH;00;Maartenscollege;HAREN GN;Groningen;Int. Baccelaureaat;N.v.t.;N.v.t.;0801;International Baccalaureate diplom programme Dutch Residents;0;0;0;0;0;0;0;0;4;6;9;15
+01UH;00;Maartenscollege;HAREN GN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;0;0;26;15;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VMBO TL lj 3-4;Landbouw;N.v.t.;0473;MAVO/Theor Lw-Profiel Landbouw;0;0;0;0;0;0;0;1;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VMBO TL lj 3-4;N.v.t.;N.v.t.;0474;MAVO/Theor Lw-Profielloos leerjaar 3;0;0;0;0;25;13;0;0;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VMBO TL lj 3-4;Techniek;N.v.t.;0470;MAVO/Theor Lw-Profiel Techniek;0;0;0;0;0;0;5;4;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;0;0;5;11;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VMBO uitbest. aan VAVO;N.v.t.;N.v.t.;4040;VMBO-TL naar VAVO;0;0;0;0;0;0;1;1;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0173;VWO-ATH Prf Cul/Maat;0;0;0;0;0;0;2;0;1;1;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;7;0;11;5;16;3
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0179;VWO-ATH Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;2;9;2;5
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;3;0;7;9;8;8
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0271;VWO-GYM Prf Nat/Gezond;0;0;0;0;0;0;0;0;0;1;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid / Cultuur en Maatschappij;0177;VWO-ATH Prf Nat/Gezond & Cul/Maat;0;0;0;0;0;0;0;1;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid / Economie en Maatschappij;0178;VWO-ATH Prf Nat/Gezond & Ec/Maat;0;0;0;0;0;0;5;3;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid / Economie en Maatschappij;0278;VWO-GYM Prf Nat/Gezond & Ec/Maat;0;0;0;0;0;0;1;1;0;0;0;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;0;0;0;0;3;0
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0174;VWO-ATH Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;12;11;9;5;6;12
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0274;VWO-GYM Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;0;1;3;0;0;6
+01UH;00;Maartenscollege;HAREN GN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4011;VWO-ATH NW naar VAVO;0;0;0;0;0;0;0;0;0;0;2;0
+02CR;00;Willem Lodewijkgymnasium;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0200;VWO-GYMNASIUMSTROOM;78;63;66;52;0;0;0;0;0;0;0;0
+02CR;00;Willem Lodewijkgymnasium;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0200;VWO-GYMNASIUMSTROOM;0;0;0;0;63;57;0;0;0;0;0;0
+02CR;00;Willem Lodewijkgymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0273;VWO-GYM Prf Cul/Maat;0;0;0;0;0;0;2;8;4;12;0;9
+02CR;00;Willem Lodewijkgymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0272;VWO-GYM Prf Ec/Maat;0;0;0;0;0;0;18;17;17;19;25;16
+02CR;00;Willem Lodewijkgymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0271;VWO-GYM Prf Nat/Gezond;0;0;0;0;0;0;20;28;13;23;11;17
+02CR;00;Willem Lodewijkgymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0270;VWO-GYM Prf Nat/Tech;0;0;0;0;0;0;17;4;21;14;24;8
+02CR;00;Willem Lodewijkgymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0274;VWO-GYM Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;0;0;0;0;0;1
+02CR;00;Willem Lodewijkgymnasium;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4011;VWO-ATH NW naar VAVO;0;0;0;0;0;0;0;0;0;0;0;1
+02CR;00;Willem Lodewijkgymnasium;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4016;VWO-ATH NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;0;0;5;1
+02UV;00;Gomarus College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Cultuur en Maatschappij;0373;HAVO Prf Cul/Maat;0;0;0;0;0;0;12;19;2;15;0;0
+02UV;00;Gomarus College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;45;40;51;28;0;0
+02UV;00;Gomarus College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;11;18;7;25;0;0
+02UV;00;Gomarus College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;14;3;14;2;0;0
+02UV;00;Gomarus College;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4031;HAVO NW naar VAVO;0;0;0;0;1;0;0;0;0;0;0;0
+02UV;00;Gomarus College;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4036;HAVO NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;2;1;0;0
+02UV;00;Gomarus College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0173;VWO-ATH Prf Cul/Maat;0;0;0;0;0;0;5;12;4;13;4;5
+02UV;00;Gomarus College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0273;VWO-GYM Prf Cul/Maat;0;0;0;0;0;0;3;3;0;4;3;2
+02UV;00;Gomarus College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;16;24;15;15;25;10
+02UV;00;Gomarus College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0272;VWO-GYM Prf Ec/Maat;0;0;0;0;0;0;3;1;0;1;3;5
+02UV;00;Gomarus College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;9;27;16;13;6;18
+02UV;00;Gomarus College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0271;VWO-GYM Prf Nat/Gezond;0;0;0;0;0;0;0;9;1;8;2;3
+02UV;00;Gomarus College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;18;2;25;3;18;2
+02UV;00;Gomarus College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0270;VWO-GYM Prf Nat/Tech;0;0;0;0;0;0;4;2;2;1;2;1
+02UV;00;Gomarus College;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4016;VWO-ATH NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;0;0;0;2
+02UV;08;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0013;Ljvb op VMBO-Th/Gm Lw;16;18;21;18;0;0;0;0;0;0;0;0
+02UV;08;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0017;Ljvb op VWO;9;7;8;9;0;0;0;0;0;0;0;0
+02UV;08;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0031;Ljvb op VMBO-BBg Lw;17;9;7;4;0;0;0;0;0;0;0;0
+02UV;08;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0032;Ljvb op VMBO-Kbg Lw;18;11;14;20;0;0;0;0;0;0;0;0
+02UV;08;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0300;HAVO;34;25;25;26;0;0;0;0;0;0;0;0
+02UV;08;Gomarus College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0017;Ljvb op VWO;0;0;0;0;21;8;0;0;0;0;0;0
+02UV;08;Gomarus College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;18;16;0;0;0;0;0;0
+02UV;10;Gomarus College;GRONINGEN;Groningen;Praktijkonderwijs alle vj;N.v.t.;N.v.t.;0090;Praktijkonderwijs;8;5;12;7;9;9;7;2;6;2;6;1
+02UV;17;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0013;Ljvb op VMBO-Th/Gm Lw;21;28;25;17;0;0;0;0;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0015;Ljvb op VWO/HAVO;6;3;6;3;0;0;0;0;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0031;Ljvb op VMBO-BBg Lw;2;2;3;2;0;0;0;0;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0032;Ljvb op VMBO-Kbg Lw;8;15;12;6;0;0;0;0;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO BL lj 3-4;Economie;Economie en ondernemen;6411;VMBO BB Economie en ondernemen;0;0;0;0;2;0;2;2;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO BL lj 3-4;Techniek;Bouwen, wonen en interieur;6011;VMBO BB Bouwen, wonen en interieur;0;0;0;0;3;1;2;2;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO BL lj 3-4;Techniek;Produceren, installeren en energie;6111;VMBO BB Produceren, installeren en energie;0;0;0;0;2;0;5;0;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO BL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6611;VMBO BB Zorg en welzijn;0;0;0;0;3;13;2;6;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO GL lj 3-4;Economie;Economie en ondernemen;6431;VMBO GL Economie en ondernemen;0;0;0;0;13;14;18;3;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO GL lj 3-4;Techniek;Bouwen, wonen en interieur;6031;VMBO GL Bouwen, wonen en interieur;0;0;0;0;5;2;15;3;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO GL lj 3-4;Techniek;Produceren, installeren en energie;6131;VMBO GL Produceren, installeren en energie;0;0;0;0;17;1;12;1;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO GL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6631;VMBO GL Zorg en welzijn;0;0;0;0;10;22;8;39;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO KL lj 3-4;Economie;Economie en ondernemen;6421;VMBO KB Economie en ondernemen;0;0;0;0;7;3;8;5;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO KL lj 3-4;Techniek;Bouwen, wonen en interieur;6021;VMBO KB Bouwen, wonen en interieur;0;0;0;0;14;0;11;2;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO KL lj 3-4;Techniek;Produceren, installeren en energie;6121;VMBO KB Produceren, installeren en energie;0;0;0;0;21;0;27;0;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO KL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6621;VMBO KB Zorg en welzijn;0;0;0;0;19;31;8;24;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO KL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6665;LWOO KB Zorg en welzijn;0;0;0;0;1;0;0;0;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;0;0;3;1;0;0;0;0
+02UV;17;Gomarus College;GRONINGEN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;0;0;0;4;0;0;0;0
+02UV;18;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0015;Ljvb op VWO/HAVO;17;17;28;26;0;0;0;0;0;0;0;0
+02UV;18;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0017;Ljvb op VWO;32;31;25;25;0;0;0;0;0;0;0;0
+02UV;18;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;9;10;14;15;0;0;0;0;0;0;0;0
+02UV;18;Gomarus College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0200;VWO-GYMNASIUMSTROOM;0;0;1;6;0;0;0;0;0;0;0;0
+02UV;18;Gomarus College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0017;Ljvb op VWO;0;0;0;0;28;20;0;0;0;0;0;0
+02UV;18;Gomarus College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;0;0;16;6;0;0;0;0;0;0
+02UV;18;Gomarus College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0200;VWO-GYMNASIUMSTROOM;0;0;0;0;1;7;0;0;0;0;0;0
+02UV;18;Gomarus College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;28;33;0;0;0;0;0;0
+05OP;00;Praktijkschool De Bolster;GRONINGEN;Groningen;Praktijkonderwijs alle vj;N.v.t.;N.v.t.;0090;Praktijkonderwijs;47;21;42;28;44;14;21;11;16;11;6;9
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0011;Ljvb op HAVO/VMBO-Th/Gm Lw;84;70;0;0;0;0;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0015;Ljvb op VWO/HAVO;39;46;0;0;0;0;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0017;Ljvb op VWO;13;10;0;0;0;0;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;33;26;0;0;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0300;HAVO;0;0;46;67;0;0;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0400;MAVO/Theor Lw-VMBO;0;0;30;22;0;0;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Cultuur en Maatschappij;0373;HAVO Prf Cul/Maat;0;0;0;0;0;0;3;7;1;7;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;39;28;32;14;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0379;HAVO Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;0;1;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;17;27;7;17;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;2;2;3;3;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0374;HAVO Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;5;3;5;3;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4031;HAVO NW naar VAVO;0;0;0;0;0;0;2;2;0;1;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4036;HAVO NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;0;1;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;0;0;36;26;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;65;47;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;0;0;17;13;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VMBO TL lj 3-4;Landbouw;N.v.t.;0473;MAVO/Theor Lw-Profiel Landbouw;0;0;0;0;0;0;0;2;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VMBO TL lj 3-4;N.v.t.;N.v.t.;0474;MAVO/Theor Lw-Profielloos leerjaar 3;0;0;0;0;43;38;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VMBO TL lj 3-4;Techniek;N.v.t.;0470;MAVO/Theor Lw-Profiel Techniek;0;0;0;0;0;0;8;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;0;0;17;21;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VMBO uitbest. aan VAVO;N.v.t.;N.v.t.;4040;VMBO-TL naar VAVO;0;0;0;0;5;5;0;0;0;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0173;VWO-ATH Prf Cul/Maat;0;0;0;0;0;0;0;3;2;2;0;3
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;8;12;14;14;5;2
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0179;VWO-ATH Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;2;0;3;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;7;12;7;14;6;7
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;8;2;6;0;0;0
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0174;VWO-ATH Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;1;9;5;11;6;2
+13ZU;00;Reitdiepcollege;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4011;VWO-ATH NW naar VAVO;0;0;0;0;0;0;0;0;0;0;0;1
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0024;Ljvb op VWO/HAVO/VMBO-Alle Lw;74;92;69;103;0;0;0;0;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO BL lj 3-4;Economie;Economie en ondernemen;6411;VMBO BB Economie en ondernemen;0;0;0;0;4;7;4;2;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO BL lj 3-4;Techniek;Produceren, installeren en energie;6111;VMBO BB Produceren, installeren en energie;0;0;0;0;8;5;5;0;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO BL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6611;VMBO BB Zorg en welzijn;0;0;0;0;2;8;1;3;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO GL lj 3-4;Economie;Economie en ondernemen;6431;VMBO GL Economie en ondernemen;0;0;0;0;0;1;6;1;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO GL lj 3-4;Techniek;Produceren, installeren en energie;6131;VMBO GL Produceren, installeren en energie;0;0;0;0;3;3;3;0;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO GL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6631;VMBO GL Zorg en welzijn;0;0;0;0;1;0;0;4;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO KL lj 3-4;Economie;Economie en ondernemen;6421;VMBO KB Economie en ondernemen;0;0;0;0;3;7;18;5;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO KL lj 3-4;Techniek;Produceren, installeren en energie;6121;VMBO KB Produceren, installeren en energie;0;0;0;0;30;9;8;2;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO KL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6621;VMBO KB Zorg en welzijn;0;0;0;0;4;25;6;28;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;5;5;22;15;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO TL lj 3-4;Techniek;N.v.t.;0470;MAVO/Theor Lw-Profiel Techniek;0;0;0;0;15;2;4;1;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;3;12;6;17;0;0;0;0
+13ZU;02;Reitdiepcollege;GRONINGEN;Groningen;VMBO uitbest. aan VAVO;N.v.t.;N.v.t.;4045;VMBO-TL naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;1;0;0;0;0;0
+13ZU;03;Reitdiepcollege;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0023;Ljvb op VMBO-Alle Lw;62;23;19;23;0;0;0;0;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0016;Ljvb op VWO/HAVO/VMBO-Th/Gm Lw;88;86;0;0;0;0;0;0;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;21;21;0;0;0;0;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0300;HAVO;0;0;34;70;0;0;0;0;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0400;MAVO/Theor Lw-VMBO;0;0;32;16;0;0;0;0;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Cultuur en Maatschappij;0373;HAVO Prf Cul/Maat;0;0;0;0;0;0;3;14;3;17;0;0
+14RP;00;CSG;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;39;16;22;21;0;0
+14RP;00;CSG;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;6;10;12;18;0;0
+14RP;00;CSG;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;2;4;5;3;0;0
+14RP;00;CSG;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;0;0;19;19;0;0;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;29;44;0;0;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;35;35;22;5;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;VMBO TL lj 3-4;Techniek;N.v.t.;0470;MAVO/Theor Lw-Profiel Techniek;0;0;0;0;0;0;7;1;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;0;0;5;18;0;0;0;0
+14RP;00;CSG;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0173;VWO-ATH Prf Cul/Maat;0;0;0;0;0;0;0;4;2;5;0;1
+14RP;00;CSG;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;9;6;1;4;6;2
+14RP;00;CSG;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0179;VWO-ATH Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;1;5;3;1;2;4
+14RP;00;CSG;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;2;3;0;5;2;5
+14RP;00;CSG;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;0;0;0;0;0;1
+14RP;00;CSG;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0174;VWO-ATH Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;2;5;3;5;5;2
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0011;Ljvb op HAVO/VMBO-Th/Gm Lw;58;51;0;0;0;0;0;0;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0015;Ljvb op VWO/HAVO;63;38;0;0;0;0;0;0;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;19;26;29;28;0;0;0;0;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0300;HAVO;0;0;51;51;0;0;0;0;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0400;MAVO/Theor Lw-VMBO;0;0;36;30;0;0;0;0;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Cultuur en Maatschappij;0373;HAVO Prf Cul/Maat;0;0;0;0;0;0;3;15;2;15;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;51;35;33;36;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0379;HAVO Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;1;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;12;20;13;27;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;7;3;12;1;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0374;HAVO Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;4;1;5;4;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4031;HAVO NW naar VAVO;0;0;0;0;0;0;4;5;4;6;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4036;HAVO NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;1;1;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;0;0;24;34;0;0;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;38;53;0;0;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;48;19;45;17;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VMBO TL lj 3-4;Landbouw;N.v.t.;0473;MAVO/Theor Lw-Profiel Landbouw;0;0;0;0;0;0;1;1;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VMBO TL lj 3-4;Techniek;N.v.t.;0470;MAVO/Theor Lw-Profiel Techniek;0;0;0;0;0;0;3;1;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;0;0;4;16;0;0;0;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0173;VWO-ATH Prf Cul/Maat;0;0;0;0;0;0;0;5;0;1;0;6
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;10;15;8;9;10;9
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0179;VWO-ATH Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;4;1;0;1;0
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;5;13;5;5;3;10
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;11;3;9;1;4;4
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0174;VWO-ATH Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;1;0;3;5;0;12
+14RP;01;CSG - locatie Augustinus;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4016;VWO-ATH NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;0;0;2;0
+14RP;02;CSG - locatieKluiverboom;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0023;Ljvb op VMBO-Alle Lw;18;25;21;21;0;0;0;0;0;0;0;0
+14RP;02;CSG - locatieKluiverboom;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0400;MAVO/Theor Lw-VMBO;6;4;7;7;0;0;0;0;0;0;0;0
+14RP;02;CSG - locatieKluiverboom;GRONINGEN;Groningen;VMBO BL lj 3-4;Techniek;Mobiliteit en transport;6211;VMBO BB Mobiliteit en transport;0;0;0;0;5;0;7;0;0;0;0;0
+14RP;02;CSG - locatieKluiverboom;GRONINGEN;Groningen;VMBO BL lj 3-4;Techniek;Produceren, installeren en energie;6111;VMBO BB Produceren, installeren en energie;0;0;0;0;4;1;12;1;0;0;0;0
+14RP;02;CSG - locatieKluiverboom;GRONINGEN;Groningen;VMBO BL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6611;VMBO BB Zorg en welzijn;0;0;0;0;0;8;2;14;0;0;0;0
+14RP;02;CSG - locatieKluiverboom;GRONINGEN;Groningen;VMBO KL lj 3-4;Techniek;Mobiliteit en transport;6221;VMBO KB Mobiliteit en transport;0;0;0;0;8;0;6;0;0;0;0;0
+14RP;02;CSG - locatieKluiverboom;GRONINGEN;Groningen;VMBO KL lj 3-4;Techniek;Produceren, installeren en energie;6121;VMBO KB Produceren, installeren en energie;0;0;0;0;3;0;6;0;0;0;0;0
+14RP;02;CSG - locatieKluiverboom;GRONINGEN;Groningen;VMBO KL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6621;VMBO KB Zorg en welzijn;0;0;0;0;7;4;4;18;0;0;0;0
+14RP;02;CSG - locatieKluiverboom;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;3;9;0;0;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0033;Ljvb op VMBO-Bbg/Kbg Lw;50;47;52;42;0;0;0;0;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0400;MAVO/Theor Lw-VMBO;13;10;18;11;0;0;0;0;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO BL lj 3-4;Economie;Economie en ondernemen;6411;VMBO BB Economie en ondernemen;0;0;0;0;2;1;3;1;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO BL lj 3-4;Techniek;Bouwen, wonen en interieur;6011;VMBO BB Bouwen, wonen en interieur;0;0;0;0;11;1;4;5;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO BL lj 3-4;Techniek;Produceren, installeren en energie;6111;VMBO BB Produceren, installeren en energie;0;0;0;0;5;0;5;0;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO BL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6611;VMBO BB Zorg en welzijn;0;0;0;0;10;6;6;12;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO KL lj 3-4;Economie;Economie en ondernemen;6421;VMBO KB Economie en ondernemen;0;0;0;0;7;1;6;1;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO KL lj 3-4;Techniek;Bouwen, wonen en interieur;6021;VMBO KB Bouwen, wonen en interieur;0;0;0;0;1;0;6;1;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO KL lj 3-4;Techniek;Produceren, installeren en energie;6121;VMBO KB Produceren, installeren en energie;0;0;0;0;7;0;7;0;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO KL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6621;VMBO KB Zorg en welzijn;0;0;0;0;5;10;4;10;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;19;9;0;0;0;0;0;0
+14RP;03;CSG - locatie Diamantlaan;GRONINGEN;Groningen;VMBO TL lj 3-4;Techniek;N.v.t.;0470;MAVO/Theor Lw-Profiel Techniek;0;0;0;0;0;0;10;4;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0016;Ljvb op VWO/HAVO/VMBO-Th/Gm Lw;54;72;52;90;0;0;0;0;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Cultuur en Maatschappij;0373;HAVO Prf Cul/Maat;0;0;0;0;0;0;17;41;4;31;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;14;18;6;7;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;9;27;5;9;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;14;5;8;4;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4031;HAVO NW naar VAVO;0;0;0;0;0;0;0;0;0;5;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4036;HAVO NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;0;1;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;0;0;5;40;0;0;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;25;50;0;0;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;0;0;9;9;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VMBO TL lj 3-4;Landbouw;N.v.t.;0473;MAVO/Theor Lw-Profiel Landbouw;0;0;0;0;0;0;0;2;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VMBO TL lj 3-4;Techniek;N.v.t.;0470;MAVO/Theor Lw-Profiel Techniek;0;0;0;0;0;0;7;0;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;36;38;5;16;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VMBO uitbest. aan VAVO;N.v.t.;N.v.t.;4040;VMBO-TL naar VAVO;0;0;0;0;0;0;1;1;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VMBO uitbest. aan VAVO;N.v.t.;N.v.t.;4045;VMBO-TL naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;1;0;0;0;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0173;VWO-ATH Prf Cul/Maat;0;0;0;0;0;0;1;13;2;9;2;12
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;0;5;5;5;2;7
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0179;VWO-ATH Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;0;0;2;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;0;7;1;15;1;7
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;6;6;9;2;11;5
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0174;VWO-ATH Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;0;0;0;0;1;0
+16NK;01;Vrije school Zutphen-Groningen;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4011;VWO-ATH NW naar VAVO;0;0;0;0;0;0;0;0;0;0;0;1
+17SG;00;Heyerdahl College;GRONINGEN;Groningen;Praktijkonderwijs alle vj;N.v.t.;N.v.t.;0090;Praktijkonderwijs;24;19;18;17;24;10;25;10;9;6;9;3
+20BV;00;Praedinius Gymnasium;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0200;VWO-GYMNASIUMSTROOM;89;57;72;71;0;0;0;0;0;0;0;0
+20BV;00;Praedinius Gymnasium;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0200;VWO-GYMNASIUMSTROOM;0;0;0;0;66;84;0;0;0;0;0;0
+20BV;00;Praedinius Gymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0273;VWO-GYM Prf Cul/Maat;0;0;0;0;0;0;10;14;12;16;10;19
+20BV;00;Praedinius Gymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0272;VWO-GYM Prf Ec/Maat;0;0;0;0;0;0;0;0;12;16;4;1
+20BV;00;Praedinius Gymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0279;VWO-GYM Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;0;0;8;3
+20BV;00;Praedinius Gymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0271;VWO-GYM Prf Nat/Gezond;0;0;0;0;0;0;22;28;29;25;12;9
+20BV;00;Praedinius Gymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0270;VWO-GYM Prf Nat/Tech;0;0;0;0;0;0;25;21;24;12;11;7
+20BV;00;Praedinius Gymnasium;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0274;VWO-GYM Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;0;0;0;0;31;14
+20BV;00;Praedinius Gymnasium;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4026;VWO-GYM NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;0;0;2;1
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0015;Ljvb op VWO/HAVO;38;45;35;50;0;0;0;0;0;0;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0017;Ljvb op VWO;33;51;51;63;0;0;0;0;0;0;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0300;HAVO;37;47;17;36;0;0;0;0;0;0;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Cultuur en Maatschappij;0373;HAVO Prf Cul/Maat;0;0;0;0;0;0;4;14;1;11;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;33;37;37;20;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0379;HAVO Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;1;8;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;11;15;14;12;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;5;2;4;0;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0374;HAVO Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;0;0;11;9;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4031;HAVO NW naar VAVO;0;0;0;0;0;0;1;0;3;2;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4036;HAVO NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;2;0;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0017;Ljvb op VWO;0;0;0;0;61;77;0;0;0;0;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;52;56;0;0;0;0;0;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0173;VWO-ATH Prf Cul/Maat;0;0;0;0;0;0;2;15;4;10;2;14
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;21;23;15;26;12;11
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0179;VWO-ATH Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;0;0;15;26
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;14;27;16;27;13;24
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;20;6;14;8;2;3
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0174;VWO-ATH Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;0;0;1;0;31;44
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4011;VWO-ATH NW naar VAVO;0;0;0;0;0;0;0;0;0;0;1;0
+20EM;00;H.N. Werkman College;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4016;VWO-ATH NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;0;0;2;3
+20EM;01;locatie, Sprint;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0024;Ljvb op VWO/HAVO/VMBO-Alle Lw;81;54;0;0;0;0;0;0;0;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0032;Ljvb op VMBO-Kbg Lw;8;3;8;2;0;0;0;0;0;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;9;4;9;2;0;0;0;0;0;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0300;HAVO;9;4;13;6;0;0;0;0;0;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0400;MAVO/Theor Lw-VMBO;15;5;12;9;0;0;0;0;0;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;14;7;12;13;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;3;8;6;9;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;2;1;3;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;0;0;10;3;0;0;0;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;10;12;0;0;0;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;5;4;11;3;0;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;8;7;6;5;0;0;0;0
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;6;1;9;4;4;2
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;4;4;1;2;5;3
+20EM;03;locatie, Topsporttalentsch Gr.;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;4;1;5;3;3;2
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0012;Ljvb op VMBO-Gm Lw;0;0;2;2;0;0;0;0;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0031;Ljvb op VMBO-BBg Lw;7;14;15;12;0;0;0;0;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0032;Ljvb op VMBO-Kbg Lw;16;21;21;15;0;0;0;0;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0400;MAVO/Theor Lw-VMBO;5;4;9;5;0;0;0;0;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;VMBO BL lj 3-4;Economie;Horeca, bakkerij en recreatie;6511;VMBO BB Horeca, bakkerij en recreatie;0;0;0;0;0;0;1;2;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;VMBO BL lj 3-4;Intersect. programma;Dienstverlening en producten;6911;VMBO BB Dienstverlening en producten;0;0;0;0;13;8;10;5;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;VMBO GL lj 3-4;Intersect. programma;Dienstverlening en producten;6931;VMBO GL Dienstverlening en producten;0;0;0;0;0;1;5;3;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;VMBO KL lj 3-4;Economie;Horeca, bakkerij en recreatie;6521;VMBO KB Horeca, bakkerij en recreatie;0;0;0;0;0;0;2;2;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;VMBO KL lj 3-4;Intersect. programma;Dienstverlening en producten;6921;VMBO KB Dienstverlening en producten;0;0;0;0;17;14;13;15;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;0;0;2;4;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;VMBO TL lj 3-4;Techniek;N.v.t.;0470;MAVO/Theor Lw-Profiel Techniek;0;0;0;0;0;0;2;1;0;0;0;0
+20EM;04;locatie, WerkmanVMBO;GRONINGEN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;1;6;2;11;0;0;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0011;Ljvb op HAVO/VMBO-Th/Gm Lw;17;12;30;47;0;0;0;0;0;0;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0015;Ljvb op VWO/HAVO;27;36;32;58;0;0;0;0;0;0;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;21;35;35;23;0;0;0;0;0;0;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0300;HAVO;21;41;29;31;0;0;0;0;0;0;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Cultuur en Maatschappij;0373;HAVO Prf Cul/Maat;0;0;0;0;0;0;11;23;3;12;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;21;17;10;11;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0379;HAVO Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;1;3;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;10;18;11;25;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;6;1;2;0;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0374;HAVO Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;0;0;10;5;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4031;HAVO NW naar VAVO;0;0;0;0;0;0;0;0;0;3;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;0;0;42;79;0;0;0;0;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;33;58;0;0;0;0;0;0
+20ER;00;Zernike College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0173;VWO-ATH Prf Cul/Maat;0;0;0;0;0;0;4;19;0;8;2;11
+20ER;00;Zernike College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;12;10;7;6;7;4
+20ER;00;Zernike College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0179;VWO-ATH Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;0;0;1;4
+20ER;00;Zernike College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;4;25;15;25;7;19
+20ER;00;Zernike College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;7;5;5;7;0;1
+20ER;00;Zernike College;GRONINGEN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0174;VWO-ATH Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;0;0;0;0;9;22
+20ER;00;Zernike College;GRONINGEN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4016;VWO-ATH NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;0;0;1;0
+20ER;04;Zernike College;HAREN GN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0016;Ljvb op VWO/HAVO/VMBO-Th/Gm Lw;70;55;114;63;0;0;0;0;0;0;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0017;Ljvb op VWO;49;34;28;23;0;0;0;0;0;0;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Cultuur en Maatschappij;0373;HAVO Prf Cul/Maat;0;0;0;0;0;0;6;7;2;8;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Economie en Maatschappij;0372;HAVO Prf Ec/Maat;0;0;0;0;0;0;35;22;42;25;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Gezondheid;0371;HAVO Prf Nat/Gezond;0;0;0;0;0;0;10;28;9;11;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;HAVO lj 4-5;N.v.t.;Natuur en Techniek;0370;HAVO Prf Nat/Tech;0;0;0;0;0;0;9;3;11;1;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4031;HAVO NW naar VAVO;0;0;0;0;0;0;0;0;5;0;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;HAVO uitbest. aan VAVO;N.v.t.;N.v.t.;4036;HAVO NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;3;1;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0100;VWO-ATHENEUMSTROOM;0;0;0;0;92;68;0;0;0;0;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;HAVO/VWO lj 3;N.v.t.;N.v.t.;0300;HAVO;0;0;0;0;63;34;0;0;0;0;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;12;8;21;4;0;0;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;0;0;1;1;0;0;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;VMBO uitbest. aan VAVO;N.v.t.;N.v.t.;4040;VMBO-TL naar VAVO;0;0;0;0;0;0;1;0;0;0;0;0
+20ER;04;Zernike College;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Cultuur en Maatschappij;0173;VWO-ATH Prf Cul/Maat;0;0;0;0;0;0;3;8;5;5;1;4
+20ER;04;Zernike College;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij;0172;VWO-ATH Prf Ec/Maat;0;0;0;0;0;0;27;29;24;27;29;17
+20ER;04;Zernike College;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Economie en Maatschappij / Cultuur en Maatschappij;0179;VWO-ATH Prf Ec/Maat & Cul/Maat;0;0;0;0;0;0;0;0;0;0;0;1
+20ER;04;Zernike College;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Gezondheid;0171;VWO-ATH Prf Nat/Gezond;0;0;0;0;0;0;30;23;38;31;11;30
+20ER;04;Zernike College;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek;0170;VWO-ATH Prf Nat/Tech;0;0;0;0;0;0;20;7;25;12;26;2
+20ER;04;Zernike College;HAREN GN;Groningen;VWO lj 4-6;N.v.t.;Natuur en Techniek / Natuur en Gezondheid;0174;VWO-ATH Prf Nat/Tech & Nat/Gezond;0;0;0;0;0;0;1;0;1;0;2;2
+20ER;04;Zernike College;HAREN GN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4011;VWO-ATH NW naar VAVO;0;0;0;0;0;0;0;0;0;0;0;1
+20ER;04;Zernike College;HAREN GN;Groningen;VWO uitbest. aan VAVO;N.v.t.;N.v.t.;4016;VWO-ATH NW naar VAVO teruggekeerd gezakt;0;0;0;0;0;0;0;0;0;0;0;1
+20ER;08;Zernike College;GRONINGEN;Groningen;VMBO BL lj 3-4;Economie;Economie en ondernemen;6411;VMBO BB Economie en ondernemen;0;0;0;0;2;1;1;0;0;0;0;0
+20ER;08;Zernike College;GRONINGEN;Groningen;VMBO BL lj 3-4;Techniek;Media, vormgeving en ICT;6311;VMBO BB Media, vormgeving en ICT;0;0;0;0;4;3;5;0;0;0;0;0
+20ER;08;Zernike College;GRONINGEN;Groningen;VMBO BL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6611;VMBO BB Zorg en welzijn;0;0;0;0;0;5;0;8;0;0;0;0
+20ER;08;Zernike College;GRONINGEN;Groningen;VMBO KL lj 3-4;Economie;Economie en ondernemen;6421;VMBO KB Economie en ondernemen;0;0;0;0;7;2;15;1;0;0;0;0
+20ER;08;Zernike College;GRONINGEN;Groningen;VMBO KL lj 3-4;Techniek;Media, vormgeving en ICT;6321;VMBO KB Media, vormgeving en ICT;0;0;0;0;11;2;11;6;0;0;0;0
+20ER;08;Zernike College;GRONINGEN;Groningen;VMBO KL lj 3-4;Zorg & Welzijn;Zorg en welzijn;6621;VMBO KB Zorg en welzijn;0;0;0;0;2;15;1;16;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0013;Ljvb op VMBO-Th/Gm Lw;7;18;6;20;0;0;0;0;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0016;Ljvb op VWO/HAVO/VMBO-Th/Gm Lw;6;6;4;7;0;0;0;0;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0031;Ljvb op VMBO-BBg Lw;11;9;6;4;0;0;0;0;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;Brugjaar 1-2;N.v.t.;N.v.t.;0032;Ljvb op VMBO-Kbg Lw;10;30;11;14;0;0;0;0;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;VMBO GL lj 3-4;Techniek;Media, vormgeving en ICT;6331;VMBO GL Media, vormgeving en ICT;0;0;0;0;4;5;0;0;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;VMBO TL lj 3-4;Economie;N.v.t.;0472;MAVO/Theor Lw-Profiel Economie;0;0;0;0;26;32;19;13;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;VMBO TL lj 3-4;Landbouw;N.v.t.;0473;MAVO/Theor Lw-Profiel Landbouw;0;0;0;0;0;0;1;0;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;VMBO TL lj 3-4;Techniek;N.v.t.;0470;MAVO/Theor Lw-Profiel Techniek;0;0;0;0;0;0;13;0;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;VMBO TL lj 3-4;Zorg & Welzijn;N.v.t.;0471;MAVO/Theor Lw-Profiel Zorg en Welzijn;0;0;0;0;0;0;5;30;0;0;0;0
+20ER;09;Zernike College;GRONINGEN;Groningen;VMBO uitbest. aan VAVO;N.v.t.;N.v.t.;4040;VMBO-TL naar VAVO;0;0;0;0;0;1;0;0;0;0;0;0

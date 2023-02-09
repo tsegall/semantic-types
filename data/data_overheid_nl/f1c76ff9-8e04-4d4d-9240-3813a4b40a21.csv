@@ -1,0 +1,23 @@
+﻿OBJECTID,PGO_GEBIED_NAAM,PGO_GEBIED_NR,OPC_GEBIED_NAAM,OPC_GEBIED_NR,ONDERHOUDSREGIO_NAAM,ONDERHOUDSREGIO_AFKORTING,PCA,TECHNIEKVELD,Shape__Area,Shape__Length,PRORAIL_GEBIED
+5,,,HSL,70,Randstad Zuid,RZ,Infraspeed,Seinwezen,62797062.7934375,192348.340304929,Zuid-Holland Zuid
+14,Limburg,340,,,Zuid,Z,Strukton Rail,Seinwezen,1215623448.11495,315973.961948121,Zuid-Oost
+20,Kennemerland,240,,,Randstad Noord,RN,Strukton Rail,Seinwezen,789614948.879734,153243.03577945,Noord-West
+24,Dordrecht,140,,,Randstad Zuid,RZ,ASSET Rail,Seinwezen,734934441.787538,199188.67126342,Zuid-Holland Zuid
+32,Zee-Zevenaar,130,,,Randstad Zuid,RZ,VolkerRail,Seinwezen,1056958448.45717,424499.687169316,Zee-Zevenaar
+41,Neerlands Midden,250,,,Randstad Noord,RN,ASSET Rail,Seinwezen,675037183.4796,118042.628049244,Midden
+53,Drenthe,440,,,Noord-Oost,NO,ASSET Rail,Seinwezen,4580871396.01131,338757.457917,Noord
+54,Wadden,420,,,Noord-Oost,NO,Strukton Rail,Seinwezen,9834267258.50188,454563.361152214,Noord
+57,Gelre,400,,,Noord-Oost,NO,ASSET Rail,Seinwezen,2269799197.83114,402953.936055168,Oost
+68,Veluwe,430,,,Noord-Oost,NO,Strukton Rail,Seinwezen,2446929800.66351,253235.477839186,Oost
+70,Amstelsepoort,230,,,Randstad Noord,RN,Strukton Rail,Seinwezen,1738504616.57464,213921.383139753,Midden
+80,Brabant,330,,,Zuid,Z,ASSET Rail,Seinwezen,1917429581.87945,351277.364103488,Zuid-West
+85,Betuwe,320,,,Zuid,Z,Strukton Rail,Seinwezen,1501169234.14115,243643.421886942,Zuid-West
+92,Zeeland,310,,,Zuid,Z,Strukton Rail,Seinwezen,5095873085.84821,426427.258279859,Zuid-West
+100,Rijn en Gouwe,100,,,Randstad Zuid,RZ,BAM Rail,Seinwezen,721533317.13475,176780.985901067,Zuid-Holland Noord
+111,Hollands Noorderkwartier,210,,,Randstad Noord,RN,VolkerRail,Seinwezen,4574781079.1673,287176.76246709,Noord-West
+124,Amsterdam,220,,,Randstad Noord,RN,VolkerRail,Seinwezen,87808733.7665,44825.5251822367,Midden
+130,Twente,410,,,Noord-Oost,NO,VolkerRail,Seinwezen,1831771153.78445,270672.348300745,Oost
+134,Eemland,200,,,Randstad Noord,RN,ASSET Rail,Seinwezen,759737582.90515,132712.374786064,Midden
+140,Rotterdam,120,,,Randstad Zuid,RZ,VolkerRail,Seinwezen,230577656.4014,119601.14119377,Zuid-Holland Zuid
+146,De Peel,300,,,Zuid,Z,ASSET Rail,Seinwezen,1946455945.4676,227081.239256923,Zuid-Oost
+153,Den Haag,110,,,Randstad Zuid,RZ,VolkerRail,Seinwezen,674608096.59785,152857.748831967,Zuid-Holland Noord

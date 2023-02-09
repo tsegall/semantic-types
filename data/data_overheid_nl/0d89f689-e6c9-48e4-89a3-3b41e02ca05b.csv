@@ -1,0 +1,2000 @@
+﻿OBJECTID,BGTBRONHOUDERCODE,BGTBRONHOUDER,BGTSTATUS,RELATIEVEHOOGTELIGGING,SUBTYPE,LENGTE,POSITIONELE_NAUWKEURIGHEID_MM,STATUS,Shape__Length
+1,G0518,'s-Gravenhage,bestaand,0,tram,115.685,283,,115.684806113538
+2,G0518,'s-Gravenhage,bestaand,1,sneltram,5.73,283,,5.73045347245748
+3,G0518,'s-Gravenhage,bestaand,0,tram,6.952,283,,6.95180242814768
+4,G0518,'s-Gravenhage,bestaand,0,tram,67.578,283,,67.5775584125381
+5,G0518,'s-Gravenhage,bestaand,1,sneltram,4.353,283,,4.35262001557683
+6,G0518,'s-Gravenhage,bestaand,0,sneltram,10.988,283,,10.9875187371854
+7,G0518,'s-Gravenhage,bestaand,0,sneltram,11.014,283,,11.0138974936214
+8,G0518,'s-Gravenhage,bestaand,0,tram,10.137,283,,10.1365398435561
+9,G0518,'s-Gravenhage,bestaand,1,sneltram,4.345,283,,4.34540090210328
+10,G0518,'s-Gravenhage,bestaand,0,sneltram,6.436,283,,6.43605445906108
+11,G0363,Amsterdam,bestaand,0,sneltram,31.597,283,,31.5966364156508
+12,G0518,'s-Gravenhage,bestaand,0,tram,1.906,283,,1.90598452249749
+13,G0518,'s-Gravenhage,bestaand,0,tram,2.648,283,,2.64795203884058
+14,G0518,'s-Gravenhage,bestaand,0,tram,415.429,283,,415.42866935766
+15,G0518,'s-Gravenhage,bestaand,0,tram,1.771,283,,1.77107650879345
+16,G0518,'s-Gravenhage,bestaand,0,tram,15.806,283,,15.8058705549552
+17,G0518,'s-Gravenhage,bestaand,0,tram,3.531,283,,3.53107589836299
+18,G0518,'s-Gravenhage,bestaand,0,tram,1.685,283,,1.68533468486233
+19,G0518,'s-Gravenhage,bestaand,0,tram,2.276,283,,2.27636135092827
+20,G0518,'s-Gravenhage,bestaand,1,sneltram,40.978,283,,40.9775414106311
+21,G0518,'s-Gravenhage,bestaand,0,sneltram,10.469,283,,10.4693891416835
+22,G0518,'s-Gravenhage,bestaand,0,tram,1.875,283,,1.87454127721958
+23,G0518,'s-Gravenhage,bestaand,0,sneltram,7.431,283,,7.43115832155392
+24,G0363,Amsterdam,bestaand,0,sneltram,15.018,283,,15.0180250366019
+25,G0518,'s-Gravenhage,bestaand,0,sneltram,0.882,283,,0.882145112779071
+26,G0518,'s-Gravenhage,bestaand,0,tram,79.713,283,,79.7133880130401
+27,G0363,Amsterdam,bestaand,0,sneltram,15.511,283,,15.5110580232298
+28,G0363,Amsterdam,bestaand,0,sneltram,30.1,283,,30.0998690362599
+29,G0363,Amsterdam,bestaand,0,sneltram,30.902,283,,30.9022461643163
+30,G0363,Amsterdam,bestaand,0,sneltram,15.511,283,,15.5108349227242
+31,G0518,'s-Gravenhage,bestaand,0,tram,1.685,283,,1.68537236241728
+32,G0518,'s-Gravenhage,bestaand,0,tram,632.498,283,,632.497596669402
+33,G0518,'s-Gravenhage,bestaand,0,tram,1.225,283,,1.22516447875377
+34,G0518,'s-Gravenhage,bestaand,0,tram,1.742,283,,1.74240293847319
+35,G0518,'s-Gravenhage,bestaand,0,sneltram,14.481,283,,14.4814331473097
+36,G0518,'s-Gravenhage,bestaand,0,tram,43.754,283,,43.7537744934707
+37,G0518,'s-Gravenhage,bestaand,0,tram,1.623,283,,1.62254275752598
+38,G0518,'s-Gravenhage,bestaand,0,sneltram,100.008,283,,100.007568658577
+39,G0518,'s-Gravenhage,bestaand,0,tram,458.533,283,,458.532550472038
+40,G0518,'s-Gravenhage,bestaand,1,sneltram,14.027,283,,14.0274573961214
+41,G0518,'s-Gravenhage,bestaand,0,tram,2.91,283,,2.9097946662952
+42,G0518,'s-Gravenhage,bestaand,1,sneltram,12.132,283,,12.1316470852065
+43,G0518,'s-Gravenhage,bestaand,0,sneltram,11.913,283,,11.9132395678086
+44,G0518,'s-Gravenhage,bestaand,0,tram,13.936,283,,13.9364911294056
+45,G0518,'s-Gravenhage,bestaand,1,sneltram,11.082,283,,11.0819377818142
+46,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.24503020016763
+47,G0518,'s-Gravenhage,bestaand,0,tram,1.771,283,,1.77130601534574
+48,G0518,'s-Gravenhage,bestaand,0,tram,273.723,283,,273.72329235894
+49,G0518,'s-Gravenhage,bestaand,1,sneltram,5.729,283,,5.72939831046856
+50,G0518,'s-Gravenhage,bestaand,0,tram,3.396,283,,3.39646890166832
+51,G0518,'s-Gravenhage,bestaand,0,sneltram,16.056,283,,16.056417066083
+52,G0518,'s-Gravenhage,bestaand,0,tram,3.397,283,,3.39669324490746
+53,G0518,'s-Gravenhage,bestaand,0,tram,3.515,283,,3.51457109758787
+54,G0518,'s-Gravenhage,bestaand,0,tram,3.313,283,,3.31300060368241
+55,G0518,'s-Gravenhage,bestaand,0,tram,1.902,283,,1.9023998002523
+56,G0518,'s-Gravenhage,bestaand,1,tram,18.198,283,,18.1981586980661
+57,G0518,'s-Gravenhage,bestaand,0,tram,1.687,283,,1.6866526020494
+58,G0518,'s-Gravenhage,bestaand,0,tram,1.772,283,,1.77158827045112
+59,G0518,'s-Gravenhage,bestaand,1,sneltram,131.104,283,,131.103612291958
+60,G0384,Diemen,bestaand,0,tram,17.979,283,,17.9790965568351
+61,G0384,Diemen,bestaand,0,tram,12.126,283,,12.1259531584119
+62,G0518,'s-Gravenhage,bestaand,0,tram,3.243,283,,3.24338496019205
+63,G0518,'s-Gravenhage,bestaand,0,tram,2.344,283,,2.34370049281046
+64,G0518,'s-Gravenhage,bestaand,0,tram,3.604,283,,3.60420823482773
+65,G0518,'s-Gravenhage,bestaand,0,tram,3.865,283,,3.86501448897672
+66,G0518,'s-Gravenhage,bestaand,1,tram,4.608,283,,4.60799142794342
+67,G0518,'s-Gravenhage,bestaand,0,tram,1.687,283,,1.68663570459065
+68,G0518,'s-Gravenhage,bestaand,0,tram,1.771,283,,1.77142936635927
+69,G0518,'s-Gravenhage,bestaand,0,tram,1.686,283,,1.6860011862392
+70,G0518,'s-Gravenhage,bestaand,0,tram,1.772,283,,1.77152279127309
+71,G0518,'s-Gravenhage,bestaand,0,tram,1.874,283,,1.87447806068783
+72,G0518,'s-Gravenhage,bestaand,0,sneltram,7.055,283,,7.05506371339055
+73,G0363,Amsterdam,bestaand,1,sneltram,64.583,283,,64.5832009271761
+74,G0363,Amsterdam,bestaand,0,sneltram,30.412,283,,30.4123870815824
+75,G0518,'s-Gravenhage,bestaand,1,sneltram,31.681,283,,31.6810742399938
+76,G0518,'s-Gravenhage,bestaand,0,sneltram,11.828,283,,11.8276821905224
+77,G0518,'s-Gravenhage,bestaand,0,tram,2.909,283,,2.90886094545614
+78,G0518,'s-Gravenhage,bestaand,-1,tram,3.29,283,,3.28956805675152
+79,G0518,'s-Gravenhage,bestaand,1,sneltram,22.789,283,,22.7892361653479
+80,G0518,'s-Gravenhage,bestaand,0,tram,3.484,283,,3.48355048764906
+81,G0518,'s-Gravenhage,bestaand,0,sneltram,18.27,283,,18.2696148289995
+82,G0518,'s-Gravenhage,bestaand,0,tram,10.137,283,,10.1373726379176
+83,G0518,'s-Gravenhage,bestaand,0,tram,66.562,283,,66.5621717750327
+84,G0518,'s-Gravenhage,bestaand,1,sneltram,17.907,283,,17.9072691943803
+85,G0518,'s-Gravenhage,bestaand,0,sneltram,22.824,283,,22.8242332839463
+86,G0518,'s-Gravenhage,bestaand,0,sneltram,7.666,283,,7.66579734926511
+87,G0518,'s-Gravenhage,bestaand,0,sneltram,9.919,283,,9.91867012255171
+88,G0518,'s-Gravenhage,bestaand,-1,tram,141.171,283,,141.170994922709
+89,G0518,'s-Gravenhage,bestaand,0,tram,1.226,283,,1.22570673490848
+90,G0518,'s-Gravenhage,bestaand,0,tram,2.447,283,,2.44669838762362
+91,G0518,'s-Gravenhage,bestaand,0,tram,30.957,283,,30.9573482594244
+92,G0518,'s-Gravenhage,bestaand,0,tram,2.45,283,,2.45009489612137
+93,G0518,'s-Gravenhage,bestaand,0,sneltram,6.868,283,,6.86793891935565
+94,G0518,'s-Gravenhage,bestaand,0,tram,589.946,283,,589.946143939428
+95,G0518,'s-Gravenhage,bestaand,0,sneltram,9.449,283,,9.44878854668682
+96,G0518,'s-Gravenhage,bestaand,0,tram,45.362,283,,45.3619220207031
+97,G0518,'s-Gravenhage,bestaand,1,sneltram,17.935,283,,17.9350562307454
+98,G0518,'s-Gravenhage,bestaand,0,sneltram,7.121,283,,7.12056184580964
+99,G0518,'s-Gravenhage,bestaand,0,tram,12.852,283,,12.8518305700005
+100,G0518,'s-Gravenhage,bestaand,0,tram,9.139,283,,9.13873612705827
+101,G0518,'s-Gravenhage,bestaand,1,sneltram,3.026,283,,3.02630137296337
+102,G0518,'s-Gravenhage,bestaand,0,tram,2.822,283,,2.822067504508
+103,G0518,'s-Gravenhage,bestaand,0,tram,2.279,283,,2.27855436625945
+104,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.743,283,,303.743272526323
+105,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,173.31,283,,173.310407535151
+106,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,279.331,283,,279.330521157284
+107,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,48.891,283,,48.8913284744851
+108,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.671,283,,302.670574311412
+109,G0518,'s-Gravenhage,bestaand,0,tram,46.986,283,,46.9860814823108
+110,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.627,283,,302.627247167204
+111,G0518,'s-Gravenhage,bestaand,0,tram,10.995,283,,10.9954820267235
+112,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.99,283,,302.990046206142
+113,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,185.806,283,,185.805558582083
+114,G0518,'s-Gravenhage,bestaand,1,tram,293.019,283,,293.018745134577
+115,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,89.858,283,,89.8577963506784
+116,G0384,Diemen,bestaand,0,sneltram,94.34,283,,94.340428950485
+117,G0363,Amsterdam,bestaand,-2,sneltram,45.985,283,,45.9848418529377
+118,G0603,Rijswijk,bestaand,0,tram,12.288,283,,12.2881426047226
+119,G0603,Rijswijk,bestaand,0,tram,48.63,283,,48.6186636836999
+120,L0004,Prorail,bestaand,0,sneltram,96.835,283,,96.8345102191009
+121,G0363,Amsterdam,bestaand,-2,sneltram,30.448,283,,30.4480418804821
+122,G0363,Amsterdam,bestaand,-2,sneltram,26.948,283,,26.9477724657132
+123,G0518,'s-Gravenhage,bestaand,0,tram,3.372,283,,3.3721745209879
+124,G0518,'s-Gravenhage,bestaand,0,sneltram,10.731,283,,10.731054002287
+125,G0518,'s-Gravenhage,bestaand,1,sneltram,4.385,283,,4.38459436486891
+126,G0518,'s-Gravenhage,bestaand,0,tram,3.244,283,,3.24426632692201
+127,G0518,'s-Gravenhage,bestaand,0,sneltram,113.3,283,,113.300287678364
+128,G0437,Ouder-Amstel,bestaand,1,sneltram,46.349,283,,46.3487952809995
+129,G0363,Amsterdam,bestaand,0,sneltram,15.681,283,,15.6812959923598
+130,G0363,Amsterdam,bestaand,1,sneltram,159.909,283,,159.909074978064
+131,G0384,Diemen,bestaand,0,tram,1.467,283,,1.46747396771968
+132,G0384,Diemen,bestaand,0,tram,17,283,,16.9998564993943
+133,G0384,Diemen,bestaand,0,tram,3,283,,3.00013530722007
+134,G0384,Diemen,bestaand,0,tram,2.957,283,,2.95743131788381
+135,G0384,Diemen,bestaand,0,tram,18.001,283,,18.000872478855
+136,G0518,'s-Gravenhage,bestaand,0,tram,52.141,283,,52.1414401770503
+137,G0518,'s-Gravenhage,bestaand,0,sneltram,6.457,283,,6.45665548097465
+138,G0518,'s-Gravenhage,bestaand,0,tram,3.512,283,,3.51215517880403
+139,G0518,'s-Gravenhage,bestaand,0,sneltram,17.274,283,,17.2736183239065
+140,G0518,'s-Gravenhage,bestaand,0,sneltram,4.118,283,,4.1177967409769
+141,G0518,'s-Gravenhage,bestaand,0,tram,23.598,283,,23.5981446044768
+142,G0518,'s-Gravenhage,bestaand,0,tram,14.724,283,,14.7240966106583
+143,G0518,'s-Gravenhage,bestaand,0,sneltram,13.167,283,,13.1670874531918
+144,G0518,'s-Gravenhage,bestaand,0,tram,1.876,283,,1.87569347175918
+145,G0518,'s-Gravenhage,bestaand,0,sneltram,10.881,283,,10.8807214834311
+146,G0518,'s-Gravenhage,bestaand,0,tram,6.145,283,,6.14523270511378
+147,G0518,'s-Gravenhage,bestaand,0,sneltram,2.924,283,,2.92393792683771
+148,G0518,'s-Gravenhage,bestaand,0,tram,29.883,283,,29.8831335705346
+149,G0518,'s-Gravenhage,bestaand,0,tram,1.269,283,,1.26887745665214
+150,G0518,'s-Gravenhage,bestaand,0,sneltram,14.88,283,,14.8801639775911
+151,G0518,'s-Gravenhage,bestaand,1,tram,5.193,283,,5.192738845418
+152,G0518,'s-Gravenhage,bestaand,0,tram,1.623,283,,1.62267217884575
+153,G0518,'s-Gravenhage,bestaand,0,sneltram,20.623,283,,20.6225180324809
+154,G0518,'s-Gravenhage,bestaand,0,tram,38.136,283,,38.135700671813
+155,G0518,'s-Gravenhage,bestaand,1,sneltram,34.896,283,,34.8959317113041
+156,G0518,'s-Gravenhage,bestaand,0,tram,1.942,283,,1.94171728117149
+157,G0518,'s-Gravenhage,bestaand,0,sneltram,10.644,283,,10.644147358995
+158,G0599,Rotterdam,bestaand,1,sneltram,58.325,283,,58.3248042465745
+159,G0599,Rotterdam,bestaand,0,sneltram,93.961,283,,93.960428702692
+160,G0599,Rotterdam,bestaand,0,tram,140.232,283,,140.232184130463
+161,G0599,Rotterdam,bestaand,0,sneltram,19.722,283,,19.7221322376664
+162,G0599,Rotterdam,bestaand,1,sneltram,25.214,283,,25.2144376230006
+163,G0599,Rotterdam,bestaand,0,sneltram,437.681,283,,437.679053385415
+164,G0599,Rotterdam,bestaand,1,sneltram,5.256,283,,5.25552756628676
+165,G0599,Rotterdam,bestaand,0,sneltram,102.618,283,,102.617783327197
+166,G0599,Rotterdam,bestaand,0,sneltram,59.536,283,,59.5350131297658
+167,G0599,Rotterdam,bestaand,0,sneltram,20.33,283,,20.329777691849
+168,G0599,Rotterdam,bestaand,0,sneltram,33.207,283,,33.2067576075932
+169,G0599,Rotterdam,bestaand,1,sneltram,14.62,283,,14.6202770151595
+170,G0599,Rotterdam,bestaand,1,sneltram,75.856,283,,75.8560443208054
+171,G0599,Rotterdam,bestaand,0,sneltram,45.696,283,,45.695860566656
+172,G0599,Rotterdam,bestaand,1,sneltram,77.659,283,,77.6594860535913
+173,G0599,Rotterdam,bestaand,0,tram,133.934,283,,133.911027463406
+174,G0599,Rotterdam,bestaand,1,sneltram,46.57,283,,46.570111702679
+175,G0599,Rotterdam,bestaand,1,sneltram,76.36,283,,76.3596686040202
+176,G0599,Rotterdam,bestaand,0,sneltram,39.119,283,,39.1187052353512
+177,G0599,Rotterdam,bestaand,0,sneltram,28.312,283,,28.3124866445885
+178,G0599,Rotterdam,bestaand,0,tram,197.388,283,,197.388405888065
+179,G0599,Rotterdam,bestaand,0,sneltram,38.32,283,,38.3197768782648
+180,G0599,Rotterdam,bestaand,1,sneltram,71.561,283,,71.5607001119254
+181,G0599,Rotterdam,bestaand,0,sneltram,135.336,283,,135.336144844438
+182,G0599,Rotterdam,bestaand,0,sneltram,168.213,283,,168.208000932698
+183,G0599,Rotterdam,bestaand,0,sneltram,70.586,283,,70.5862373636798
+184,G0599,Rotterdam,bestaand,0,sneltram,77.538,283,,77.5384137637597
+185,G0599,Rotterdam,bestaand,1,sneltram,28.151,283,,28.150670844582
+186,G0599,Rotterdam,bestaand,1,sneltram,9.124,283,,9.12445428505179
+187,G0384,Diemen,bestaand,0,tram,0.431,283,,0.430503193948663
+188,G0384,Diemen,bestaand,0,tram,17.541,283,,17.5413897628603
+189,G0384,Diemen,bestaand,0,tram,2.193,283,,2.19344705885508
+190,G0384,Diemen,bestaand,0,tram,1.545,283,,1.5449096541426
+191,G0384,Diemen,bestaand,0,tram,5.843,283,,5.8431831222374
+192,G0606,Schiedam,bestaand,0,sneltram,181.265,283,,181.265177791827
+193,G0606,Schiedam,bestaand,0,sneltram,1.405,283,,1.40528858246269
+194,G0606,Schiedam,bestaand,1,sneltram,7.451,283,,7.45054427542042
+195,G0606,Schiedam,bestaand,0,sneltram,140.989,283,,140.98934690411
+196,G0606,Schiedam,bestaand,1,sneltram,1.805,283,,1.80492686832459
+197,G0606,Schiedam,bestaand,2,sneltram,23.196,283,,23.1956309894773
+198,G0363,Amsterdam,bestaand,0,tram,32.755,283,,32.7519533743663
+199,G0363,Amsterdam,bestaand,0,tram,19.304,283,,19.3001852832974
+200,G0518,'s-Gravenhage,bestaand,0,sneltram,77.479,283,,77.4785035090379
+201,G0606,Schiedam,bestaand,1,sneltram,32.563,283,,32.5633237861248
+202,G0606,Schiedam,bestaand,1,sneltram,25.986,283,,25.9855604903954
+203,G0622,Vlaardingen,bestaand,0,sneltram,31.935,283,,31.9353877057147
+204,G0363,Amsterdam,bestaand,0,sneltram,363.434,283,,363.43447628794
+205,G0363,Amsterdam,bestaand,0,sneltram,200.118,283,,200.118095303432
+206,G0518,'s-Gravenhage,bestaand,0,tram,504.696,283,,504.695767632222
+207,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.24495577781886
+208,G0518,'s-Gravenhage,bestaand,0,tram,11.659,283,,11.6594250715891
+209,G0518,'s-Gravenhage,bestaand,0,tram,4.065,283,,4.06451669943672
+210,G0518,'s-Gravenhage,bestaand,0,tram,2.278,283,,2.2784216027768
+211,G0518,'s-Gravenhage,bestaand,0,tram,2.641,283,,2.6412120323821
+212,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.627,283,,303.627080480316
+213,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+214,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.732968723128
+215,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+216,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+217,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+218,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.732,283,,347.731986909459
+219,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,27.473,283,,27.4728008765033
+220,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+221,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,794.391,283,,794.391176655328
+222,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+223,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.732968723128
+224,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,268.632,283,,268.632130989575
+225,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,463.528,283,,463.527595926068
+226,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+227,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+228,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.732968723128
+229,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+230,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+231,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+232,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+233,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.732,283,,347.731986909459
+234,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1298.106,283,,1298.10590061966
+235,G0518,'s-Gravenhage,bestaand,0,sneltram,23.428,283,,23.4283415119381
+236,G0518,'s-Gravenhage,bestaand,0,sneltram,14.102,283,,14.1018081819318
+237,G0518,'s-Gravenhage,bestaand,0,sneltram,52.447,283,,52.4469384139818
+238,G0518,'s-Gravenhage,bestaand,1,sneltram,42.826,283,,42.8262345669459
+239,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,125.947,283,,125.946802261907
+240,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,84.954,283,,84.9536327004325
+241,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,285.788,283,,285.788177419921
+242,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,2614.553,283,,2614.55259455609
+243,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,334.329,283,,334.329074292081
+244,G0518,'s-Gravenhage,bestaand,0,sneltram,3.492,283,,3.49163815421931
+245,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,332.917,283,,332.917001094867
+246,G0518,'s-Gravenhage,bestaand,0,tram,498.222,283,,498.221850968284
+247,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.218,283,,333.218172062989
+248,G0518,'s-Gravenhage,bestaand,0,tram,42.544,283,,42.5443525124266
+249,G0518,'s-Gravenhage,bestaand,0,tram,3.664,283,,3.66413673325655
+250,G0518,'s-Gravenhage,bestaand,1,tram,5.49,283,,5.49030636667937
+251,G0518,'s-Gravenhage,bestaand,0,sneltram,8.274,283,,8.2739381191788
+252,G0518,'s-Gravenhage,bestaand,1,sneltram,5.865,283,,5.86499957410797
+253,G0518,'s-Gravenhage,bestaand,0,sneltram,23.117,283,,23.117423173575
+254,G0518,'s-Gravenhage,bestaand,1,sneltram,5.012,283,,5.01212868948913
+255,G0518,'s-Gravenhage,bestaand,0,tram,2.916,283,,2.91593295533351
+256,G0518,'s-Gravenhage,bestaand,0,tram,12.999,283,,12.9986105411309
+257,G0518,'s-Gravenhage,bestaand,0,tram,1.875,283,,1.87539249225329
+258,G0518,'s-Gravenhage,bestaand,0,tram,2.982,283,,2.98214503336105
+259,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,314.988,283,,314.988242753599
+260,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,201.166,283,,201.166241949289
+261,G0518,'s-Gravenhage,bestaand,0,sneltram,155.613,283,,155.612946916691
+262,G0363,Amsterdam,bestaand,0,tram,22.279,283,,22.2785981329311
+263,G0363,Amsterdam,bestaand,0,tram,32.796,283,,32.7914264251542
+264,G0603,Rijswijk,bestaand,0,tram,3.682,283,,3.6822308046035
+265,G0518,'s-Gravenhage,bestaand,0,sneltram,293.298,283,,293.297687683036
+266,G0518,'s-Gravenhage,bestaand,0,sneltram,160.56,283,,160.559831319217
+267,G0518,'s-Gravenhage,bestaand,0,sneltram,179.071,283,,179.07127283847
+268,G0518,'s-Gravenhage,bestaand,0,sneltram,198.658,283,,198.658499482585
+269,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,174.366,283,,174.3660164711
+270,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,224.006,283,,224.006232279372
+271,G0599,Rotterdam,bestaand,0,sneltram,20.664,283,,20.6640999078111
+272,G0599,Rotterdam,bestaand,0,sneltram,20.227,283,,20.2273603988127
+273,G0599,Rotterdam,bestaand,0,sneltram,7.194,283,,7.19436585113657
+274,G0599,Rotterdam,bestaand,0,sneltram,37.356,283,,37.3555089922156
+275,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,120.359,283,,120.358936519064
+276,G0599,Rotterdam,bestaand,0,sneltram,89.395,283,,89.3948147265824
+277,G0599,Rotterdam,bestaand,0,sneltram,170.586,283,,170.585957486619
+278,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,187.218,283,,187.21808272707
+279,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,723.894,283,,723.893500457077
+280,G0599,Rotterdam,bestaand,1,sneltram,393.81,283,,393.799692828964
+281,G0363,Amsterdam,bestaand,-2,sneltram,110.035,283,,110.035428500266
+282,G0599,Rotterdam,bestaand,1,sneltram,24.277,283,,24.276906722233
+283,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,190.522,283,,190.522459320691
+284,G0599,Rotterdam,bestaand,0,sneltram,96.612,283,,96.6124041156207
+285,G0599,Rotterdam,bestaand,0,sneltram,9.925,283,,9.92470150684644
+286,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,57.78,283,,57.7803470048424
+287,G0599,Rotterdam,bestaand,0,sneltram,104.443,283,,104.441880580139
+288,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,414.941,283,,414.94127103724
+289,G0599,Rotterdam,bestaand,0,sneltram,68.303,283,,68.3028551272383
+290,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,83.398,283,,83.3981880678471
+291,G0599,Rotterdam,bestaand,0,sneltram,28.119,283,,28.1188936523603
+292,G0599,Rotterdam,bestaand,0,sneltram,112.652,283,,112.651618605105
+293,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,119.364,283,,119.363612755312
+294,G0599,Rotterdam,bestaand,0,sneltram,5.378,283,,5.37750443979361
+295,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,143.022,283,,143.022447652223
+296,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,101.238,283,,101.23846107088
+297,G0599,Rotterdam,bestaand,0,sneltram,50.103,283,,50.1029534320625
+298,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,187.377,283,,187.377271834126
+299,G0599,Rotterdam,bestaand,0,sneltram,37.447,283,,37.4467955905442
+300,G0599,Rotterdam,bestaand,1,sneltram,28.687,283,,28.686565113307
+301,G0599,Rotterdam,bestaand,0,sneltram,15.715,283,,15.7151201077179
+302,G0599,Rotterdam,bestaand,1,sneltram,11.954,283,,11.9538730125428
+303,G0599,Rotterdam,bestaand,0,sneltram,59.975,283,,59.9752362563083
+304,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,884.228,283,,884.228145517346
+305,G0599,Rotterdam,bestaand,0,sneltram,148.041,283,,148.040704111657
+306,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,8.94,283,,8.93955100578608
+307,G0599,Rotterdam,bestaand,0,sneltram,98.48,283,,98.4672390933838
+308,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,220.969,283,,220.968801825054
+309,G0603,Rijswijk,bestaand,0,tram,11.343,283,,11.3430915914891
+310,G0603,Rijswijk,bestaand,0,tram,20.24,283,,20.2396999729154
+311,G0603,Rijswijk,bestaand,0,tram,12.634,283,,12.6340771722481
+312,G0603,Rijswijk,bestaand,0,tram,20.246,283,,20.2455814839213
+313,G0603,Rijswijk,bestaand,0,tram,11.767,283,,11.7666802064847
+314,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,52.08,283,,52.0796015729767
+315,G0599,Rotterdam,bestaand,0,sneltram,402.208,283,,402.206868275374
+316,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,0.246,283,,0.245967477524977
+317,G0599,Rotterdam,bestaand,0,sneltram,1.248,283,,1.24828882875719
+318,G0599,Rotterdam,bestaand,0,sneltram,30.499,283,,30.4988062225393
+319,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,147.965,283,,147.965390885842
+320,G0599,Rotterdam,bestaand,0,sneltram,93.723,283,,93.7227460651895
+321,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,165.817,283,,165.816825744555
+322,G0599,Rotterdam,bestaand,0,sneltram,29.879,283,,29.8787270100063
+323,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,168.039,283,,168.039405497639
+324,G0599,Rotterdam,bestaand,0,sneltram,23.729,283,,23.7285949225823
+325,G0599,Rotterdam,bestaand,0,sneltram,19.211,283,,19.2112573768611
+326,G0599,Rotterdam,bestaand,0,sneltram,26.004,283,,26.0040823648512
+327,G0599,Rotterdam,bestaand,0,sneltram,49.703,283,,49.7027658879524
+328,G0599,Rotterdam,bestaand,0,sneltram,229.294,283,,229.293077170215
+329,L0004,Prorail,bestaand,1,sneltram,26.452,283,,26.4522251341944
+330,G0518,'s-Gravenhage,bestaand,0,tram,3.528,283,,3.52766735960181
+331,G0518,'s-Gravenhage,bestaand,0,sneltram,10.84,283,,10.8403554369771
+332,G0363,Amsterdam,bestaand,0,sneltram,43.917,283,,43.9166002077926
+333,G0363,Amsterdam,bestaand,1,sneltram,36.67,283,,36.6697383274002
+334,G0363,Amsterdam,bestaand,0,sneltram,44.685,283,,44.6851038541248
+335,G0363,Amsterdam,bestaand,0,sneltram,26.452,283,,26.4520857400697
+336,G0518,'s-Gravenhage,bestaand,1,sneltram,1.174,283,,1.17422740557355
+337,G0518,'s-Gravenhage,bestaand,0,sneltram,19.406,283,,19.4057095979508
+338,G0518,'s-Gravenhage,bestaand,0,tram,39.584,283,,39.5835456569272
+339,G0518,'s-Gravenhage,bestaand,1,sneltram,4.479,283,,4.47879503884694
+340,G0518,'s-Gravenhage,bestaand,0,tram,6.063,283,,6.06282747569152
+341,G0518,'s-Gravenhage,bestaand,0,tram,3.533,283,,3.53290616914743
+342,G0518,'s-Gravenhage,bestaand,0,tram,2.344,283,,2.34415741792227
+343,G0518,'s-Gravenhage,bestaand,0,tram,3.244,283,,3.24408769918447
+344,G0518,'s-Gravenhage,bestaand,0,tram,2.558,283,,2.55758675317183
+345,G0518,'s-Gravenhage,bestaand,0,tram,33.672,283,,33.671971749461
+346,G0518,'s-Gravenhage,bestaand,0,tram,3.397,283,,3.39665865226402
+347,G0518,'s-Gravenhage,bestaand,0,tram,3.514,283,,3.5139585939507
+348,G0518,'s-Gravenhage,bestaand,0,tram,3.396,283,,3.39572113107069
+349,G0363,Amsterdam,bestaand,0,sneltram,181.227,283,,181.226885262573
+350,G0363,Amsterdam,bestaand,0,sneltram,32.948,283,,32.94808261869
+351,G0363,Amsterdam,bestaand,0,sneltram,42.879,283,,42.8787954229913
+352,G0437,Ouder-Amstel,bestaand,1,sneltram,7.955,283,,7.95504734478493
+353,G0363,Amsterdam,bestaand,0,sneltram,25.302,283,,25.3018022548118
+354,G0363,Amsterdam,bestaand,0,sneltram,41.812,283,,41.8118091136681
+355,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.561,283,,302.56132008735
+356,G0518,'s-Gravenhage,bestaand,0,tram,5.539,283,,5.53931439800992
+357,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.973,283,,303.973437367478
+358,G0363,Amsterdam,bestaand,-2,sneltram,90.14,283,,90.1399011670374
+359,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,115.811,283,,115.810685603704
+360,G0599,Rotterdam,bestaand,0,sneltram,90.625,283,,90.6249753002763
+361,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,82.194,283,,82.1938112025474
+362,G0599,Rotterdam,bestaand,0,sneltram,20.952,283,,20.9524452033647
+363,G0599,Rotterdam,bestaand,0,sneltram,30.16,283,,30.1602898692967
+364,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,173.785,283,,173.78527037698
+365,G0599,Rotterdam,bestaand,0,sneltram,20.635,283,,20.6349078263025
+366,G0599,Rotterdam,bestaand,0,sneltram,15.428,283,,15.4276650858126
+367,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,94.361,283,,94.3606478623372
+368,G0599,Rotterdam,bestaand,0,sneltram,116.467,283,,116.467355037669
+369,G0603,Rijswijk,bestaand,0,tram,11.341,283,,11.3408282276013
+370,G0603,Rijswijk,bestaand,0,tram,11.093,283,,11.0925426870832
+371,G0599,Rotterdam,bestaand,0,sneltram,18.506,283,,18.5055544364388
+372,G0599,Rotterdam,bestaand,0,sneltram,30,283,,29.9998833331065
+373,G0599,Rotterdam,bestaand,1,sneltram,423.332,283,,423.332358887036
+374,G0599,Rotterdam,bestaand,0,sneltram,35.562,283,,35.5622026520547
+375,G0599,Rotterdam,bestaand,1,sneltram,37.981,283,,37.9804631082102
+376,G0599,Rotterdam,bestaand,0,sneltram,26.806,283,,26.8059340445357
+377,G0599,Rotterdam,bestaand,1,sneltram,21.83,283,,21.8297617943944
+378,G0599,Rotterdam,bestaand,1,sneltram,15.984,283,,15.9842547527246
+379,G0599,Rotterdam,bestaand,0,sneltram,160.756,283,,160.755156037626
+380,G0599,Rotterdam,bestaand,0,sneltram,74.902,283,,74.9018990197223
+381,G0599,Rotterdam,bestaand,0,tram,207.04,283,,207.040399712466
+382,G0599,Rotterdam,bestaand,1,sneltram,46.661,283,,46.6612252326612
+383,G0599,Rotterdam,bestaand,0,sneltram,36.017,283,,36.0166239395088
+384,G0599,Rotterdam,bestaand,1,sneltram,40.365,283,,40.3654751569898
+385,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.679,283,,303.678805292697
+386,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,16.295,283,,16.295228043817
+387,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.732968723128
+388,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,206.282,283,,206.281677797159
+389,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,295.117,283,,295.116728202588
+390,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.821,283,,302.820535784811
+391,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,702.505,283,,702.504657706979
+392,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,334.298,283,,334.298454140907
+393,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.401,283,,303.401459564716
+394,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.224,283,,303.224025486108
+395,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,185.819,283,,185.818619357695
+396,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,91.82,283,,91.8195801558687
+397,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,315.043,283,,315.042909194922
+398,G0518,'s-Gravenhage,bestaand,0,tram,231.698,283,,231.69834709162
+399,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,201.166,283,,201.166241949289
+400,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,343.64,283,,343.640240078196
+401,G0518,'s-Gravenhage,bestaand,0,sneltram,18.418,283,,18.4183921393807
+402,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,146.09,283,,146.08998357177
+403,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,305.359,283,,305.358869851524
+404,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,144.057,283,,144.056940756077
+405,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,921.684,283,,921.683959296786
+406,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,170.369,283,,170.369217876939
+407,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,0.211,283,,0.210717820793591
+408,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,289.201,283,,289.201108969174
+409,G0363,Amsterdam,bestaand,0,sneltram,57.415,283,,57.4150558103374
+410,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,305.009,283,,305.008787022604
+411,G0518,'s-Gravenhage,bestaand,0,tram,2.223,283,,2.22288551212158
+412,G0518,'s-Gravenhage,bestaand,0,tram,2.651,283,,2.65112353540909
+413,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,344.19,283,,344.190294728076
+414,G0518,'s-Gravenhage,bestaand,0,sneltram,9.578,283,,9.57781337258145
+415,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,145.675,283,,145.675008838167
+416,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,144.06,283,,144.059743162342
+417,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,921.662,283,,921.661801972936
+418,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,332.789,283,,332.788612365267
+419,G0599,Rotterdam,bestaand,0,tram,107.354,283,,107.354086168157
+420,G0599,Rotterdam,bestaand,0,tram,13.023,283,,13.0231168792674
+421,G0599,Rotterdam,bestaand,1,tram,269.861,283,,269.861068417397
+422,G0599,Rotterdam,bestaand,0,tram,191.548,283,,191.548118627757
+423,G0599,Rotterdam,bestaand,0,tram,79.692,283,,79.6924858866299
+424,G0599,Rotterdam,bestaand,0,tram,6.413,283,,6.41258615626572
+425,G0606,Schiedam,bestaand,0,sneltram,3.445,283,,3.44451998244552
+426,G0363,Amsterdam,bestaand,0,sneltram,8.494,283,,8.49398671235245
+427,G0363,Amsterdam,bestaand,1,sneltram,1.867,283,,1.86701713971779
+428,G0363,Amsterdam,bestaand,0,sneltram,13.561,283,,13.5610001106113
+429,G0363,Amsterdam,bestaand,0,sneltram,27.09,283,,27.089948633616
+430,G0363,Amsterdam,bestaand,1,sneltram,24.326,283,,24.3261816156996
+431,G0363,Amsterdam,bestaand,0,sneltram,63.901,283,,63.9014812426128
+432,G0363,Amsterdam,bestaand,0,sneltram,74.652,283,,74.6523212298184
+433,G0363,Amsterdam,bestaand,0,sneltram,154.37,283,,154.36981654366
+434,G0599,Rotterdam,bestaand,0,sneltram,38.446,283,,38.4457071642835
+435,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,414.766,283,,414.766226421583
+436,G0599,Rotterdam,bestaand,0,sneltram,30.205,283,,30.2049951498092
+437,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,205.554,283,,205.55413345394
+438,G0599,Rotterdam,bestaand,0,sneltram,36.039,283,,36.0392393485768
+439,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,108.63,283,,108.630007364448
+440,G0599,Rotterdam,bestaand,0,sneltram,44.778,283,,44.7784121312938
+441,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,155.019,283,,155.018593078379
+442,G0599,Rotterdam,bestaand,0,sneltram,69.996,283,,69.9960676498825
+443,G0599,Rotterdam,bestaand,0,sneltram,191.596,283,,191.594567398984
+444,G0599,Rotterdam,bestaand,0,sneltram,22.951,283,,22.9505975957054
+445,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,21.502,283,,21.5020351827449
+446,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,131.651,283,,131.650549562089
+447,G0599,Rotterdam,bestaand,0,sneltram,30.848,283,,30.8478569391439
+448,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,135.337,283,,135.336586701453
+449,G0599,Rotterdam,bestaand,0,sneltram,16.247,283,,16.2471363172821
+450,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,143.107,283,,143.107353409949
+451,G0599,Rotterdam,bestaand,0,sneltram,292.678,283,,292.674413932025
+452,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,0.17,283,,0.17
+453,G0599,Rotterdam,bestaand,0,sneltram,88.131,283,,88.1312268315691
+454,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,12.493,283,,12.4926472548385
+455,G0599,Rotterdam,bestaand,0,sneltram,125.089,283,,125.088731673332
+456,G0599,Rotterdam,bestaand,0,sneltram,18.711,283,,18.7110541124759
+457,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,87.081,283,,87.0812046310798
+458,G0599,Rotterdam,bestaand,0,sneltram,40.078,283,,40.0776173516725
+459,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,171.312,283,,171.311684764934
+460,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,129.796,283,,129.795587752435
+461,G0599,Rotterdam,bestaand,0,sneltram,21.057,283,,21.0566979842519
+462,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,118.876,283,,118.876019448836
+463,G0599,Rotterdam,bestaand,0,sneltram,7.267,283,,7.26742168860456
+464,G0599,Rotterdam,bestaand,0,sneltram,40.983,283,,40.9833308038303
+465,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,98.519,283,,98.5192001591568
+466,G0599,Rotterdam,bestaand,1,sneltram,29.64,283,,29.6395182821854
+467,G0599,Rotterdam,bestaand,0,sneltram,22.681,283,,22.6813174440992
+468,G0599,Rotterdam,bestaand,1,sneltram,22.692,283,,22.6919472060024
+469,G0599,Rotterdam,bestaand,0,sneltram,35.362,283,,35.3619121390115
+470,G0599,Rotterdam,bestaand,0,sneltram,5.068,283,,5.06755365043134
+471,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,170.482,283,,170.481786458261
+472,G0599,Rotterdam,bestaand,0,sneltram,6.466,283,,6.46621720946644
+473,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,0.973,283,,0.972933855990611
+474,G0599,Rotterdam,bestaand,0,sneltram,35.665,283,,35.664662622826
+475,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,607.916,283,,607.91604919265
+476,G0599,Rotterdam,bestaand,0,sneltram,26.673,283,,26.6727963663355
+477,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,223.993,283,,223.9927222032
+478,G0599,Rotterdam,bestaand,0,sneltram,4.296,283,,4.29590410902809
+479,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,179.756,283,,179.755748169565
+480,G0599,Rotterdam,bestaand,0,sneltram,9.513,283,,9.51300005255965
+481,G0599,Rotterdam,bestaand,0,sneltram,43.866,283,,43.8660129821609
+482,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,332.818,283,,332.818459373875
+483,G0599,Rotterdam,bestaand,0,sneltram,5.277,283,,5.27695906749332
+484,G0599,Rotterdam,bestaand,0,sneltram,108.39,283,,108.390045582087
+485,G0599,Rotterdam,bestaand,0,sneltram,403.437,283,,403.435427520501
+486,G0599,Rotterdam,bestaand,0,sneltram,25.487,283,,25.4871621952161
+487,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,60.971,283,,60.9485221803955
+488,G0599,Rotterdam,bestaand,0,sneltram,45.027,283,,45.0267081741493
+489,G0363,Amsterdam,bestaand,0,sneltram,17.579,283,,17.5793789068792
+490,G0599,Rotterdam,bestaand,0,tram,33.184,283,,33.1840790375063
+491,G0599,Rotterdam,bestaand,0,tram,29.49,283,,29.4902243906553
+492,G0599,Rotterdam,bestaand,0,tram,47.696,283,,47.6893344424622
+493,G0599,Rotterdam,bestaand,-1,sneltram,346.249,283,,346.24945938733
+494,G0599,Rotterdam,bestaand,0,tram,208.36,283,,208.360085670393
+495,G0599,Rotterdam,bestaand,0,sneltram,173.39,283,,173.389940488149
+496,G0363,Amsterdam,bestaand,-1,sneltram,78.374,283,,78.3741284109298
+497,G0518,'s-Gravenhage,bestaand,0,tram,3.396,283,,3.39592815000553
+498,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,230.005,283,,230.004815601761
+499,G0599,Rotterdam,bestaand,1,sneltram,53.925,283,,53.9247149852711
+500,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,7.273,283,,7.27228027469245
+501,G0518,'s-Gravenhage,bestaand,0,tram,1191.544,283,,1191.54400324406
+502,G0518,'s-Gravenhage,bestaand,0,tram,3.292,283,,3.29162042161608
+503,G0518,'s-Gravenhage,bestaand,0,tram,8.638,283,,8.63750270622244
+504,G0518,'s-Gravenhage,bestaand,0,tram,4.583,283,,4.58319113718815
+505,G0518,'s-Gravenhage,bestaand,0,sneltram,9.559,283,,9.55900936289948
+506,G0518,'s-Gravenhage,bestaand,0,tram,1.686,283,,1.68638429783961
+507,G0518,'s-Gravenhage,bestaand,0,tram,1.771,283,,1.77090287706582
+508,G0518,'s-Gravenhage,bestaand,0,tram,93.465,283,,93.4647511731886
+509,G0518,'s-Gravenhage,bestaand,0,tram,2.49,283,,2.48984055714417
+510,G0518,'s-Gravenhage,bestaand,0,tram,43.75,283,,43.7500067314281
+511,G0518,'s-Gravenhage,bestaand,-1,tram,100.141,283,,100.140888499366
+512,G0518,'s-Gravenhage,bestaand,0,tram,1.225,283,,1.22507999738793
+513,G0518,'s-Gravenhage,bestaand,1,tram,105.966,283,,105.966098356975
+514,G0518,'s-Gravenhage,bestaand,-1,tram,34.06,283,,34.0595777425381
+515,G0518,'s-Gravenhage,bestaand,0,tram,3.666,283,,3.66621453272991
+516,G0518,'s-Gravenhage,bestaand,0,tram,39.68,283,,39.6802892976756
+517,G0518,'s-Gravenhage,bestaand,0,sneltram,16.654,283,,16.6540896178686
+518,G0518,'s-Gravenhage,bestaand,0,tram,3.742,283,,3.74192356950272
+519,G0518,'s-Gravenhage,bestaand,0,sneltram,10.503,283,,10.5033840737164
+520,G0556,Maassluis,bestaand,0,sneltram,508.489,283,,508.489082684399
+521,G0518,'s-Gravenhage,bestaand,0,tram,28.929,283,,28.9294349928241
+522,G0518,'s-Gravenhage,bestaand,0,tram,3.373,283,,3.37311621501543
+523,G0518,'s-Gravenhage,bestaand,0,tram,1.772,283,,1.77186286151045
+524,G0518,'s-Gravenhage,bestaand,0,sneltram,10.497,283,,10.4971005520572
+525,G0518,'s-Gravenhage,bestaand,0,sneltram,9.502,283,,9.50217601394544
+526,G0518,'s-Gravenhage,bestaand,1,sneltram,8.684,283,,8.68390096763698
+527,G0518,'s-Gravenhage,bestaand,0,tram,3.094,283,,3.09417937424449
+528,G0518,'s-Gravenhage,bestaand,0,tram,10.137,283,,10.1370747752988
+529,G0518,'s-Gravenhage,bestaand,1,sneltram,5.154,283,,5.1538619500332
+530,G0518,'s-Gravenhage,bestaand,0,sneltram,6.721,283,,6.72133855716255
+531,G0518,'s-Gravenhage,bestaand,0,tram,3.514,283,,3.51405691473545
+532,G0518,'s-Gravenhage,bestaand,0,tram,5.276,283,,5.2758354788602
+533,G0518,'s-Gravenhage,bestaand,0,tram,1.695,283,,1.69507669443008
+534,G0518,'s-Gravenhage,bestaand,0,tram,1.941,283,,1.94112467399701
+535,G0518,'s-Gravenhage,bestaand,0,tram,1.772,283,,1.77207702992844
+536,G0518,'s-Gravenhage,bestaand,0,tram,14.38,283,,14.3795090319524
+537,G0518,'s-Gravenhage,bestaand,0,tram,4.584,283,,4.58441184886349
+538,G0518,'s-Gravenhage,bestaand,0,tram,1.875,283,,1.87526744759248
+539,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.24539751032135
+540,G0518,'s-Gravenhage,bestaand,0,tram,12.081,283,,12.0811418748395
+541,G0518,'s-Gravenhage,bestaand,0,tram,3.398,283,,3.39766537493026
+542,G0518,'s-Gravenhage,bestaand,0,sneltram,17.403,283,,17.4028674936058
+543,G0518,'s-Gravenhage,bestaand,1,tram,7.711,283,,7.71058921224571
+544,G0518,'s-Gravenhage,bestaand,0,tram,1.684,283,,1.68429747966326
+545,G0518,'s-Gravenhage,bestaand,0,tram,1.771,283,,1.77117729208569
+546,G0518,'s-Gravenhage,bestaand,-1,tram,6.389,283,,6.38874017314838
+547,G0518,'s-Gravenhage,bestaand,0,tram,2.489,283,,2.48944190532738
+548,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.903,283,,302.902770124342
+549,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.818,283,,302.817966826607
+550,G0518,'s-Gravenhage,bestaand,0,sneltram,60.73,283,,60.7298949859128
+551,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.165,283,,333.16466164646
+552,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.511,283,,333.51134179215
+553,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.985,283,,333.98461545706
+554,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1286.108,283,,1286.1082671797
+555,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.816,283,,302.816179001387
+556,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.073,283,,303.072577330909
+557,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,862.228,283,,862.228411602058
+558,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1313.763,283,,1313.76306270894
+559,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+560,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+561,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+562,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,164.756,283,,164.755533139255
+563,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,338.249,283,,338.249072739306
+564,G0518,'s-Gravenhage,bestaand,0,sneltram,3.767,283,,3.7672403692889
+565,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.847,283,,333.847253554676
+566,G0363,Amsterdam,bestaand,0,sneltram,0.057,283,,0.0566480361530742
+567,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,332.67,283,,332.669744010483
+568,G0518,'s-Gravenhage,bestaand,0,sneltram,10.938,283,,10.9384017571124
+569,G0518,'s-Gravenhage,bestaand,0,sneltram,6.664,283,,6.66359437541032
+570,G0518,'s-Gravenhage,bestaand,0,sneltram,33.458,283,,33.4578723920096
+571,G0518,'s-Gravenhage,bestaand,0,sneltram,478.09,283,,478.089635585717
+572,G0518,'s-Gravenhage,bestaand,1,sneltram,14.651,283,,14.6513983503552
+573,G0518,'s-Gravenhage,bestaand,0,sneltram,26.12,283,,26.1201435294678
+574,G0518,'s-Gravenhage,bestaand,0,sneltram,59.143,283,,59.1425104049532
+575,G0518,'s-Gravenhage,bestaand,1,sneltram,6.721,283,,6.72105423278223
+576,G0518,'s-Gravenhage,bestaand,0,sneltram,18.557,283,,18.5574294017248
+577,G0518,'s-Gravenhage,bestaand,0,sneltram,20.227,283,,20.2268194484452
+578,G0518,'s-Gravenhage,bestaand,0,sneltram,44.186,283,,44.1864720587648
+579,G0518,'s-Gravenhage,bestaand,0,sneltram,253.86,283,,253.860314731815
+580,G0518,'s-Gravenhage,bestaand,0,sneltram,35.113,283,,35.1133869058512
+581,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.081,283,,303.08111964456
+582,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.169,283,,303.169157773346
+583,G0518,'s-Gravenhage,bestaand,2,sneltram,3.761,283,,3.76119994150803
+584,G0518,'s-Gravenhage,bestaand,0,sneltram,7.641,283,,7.6414710625638
+585,G0518,'s-Gravenhage,bestaand,1,sneltram,155.417,283,,155.416901520642
+586,G0518,'s-Gravenhage,bestaand,0,sneltram,77.461,283,,77.4613748355428
+587,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,317.946,283,,317.945733169986
+588,G0518,'s-Gravenhage,bestaand,0,sneltram,6.023,283,,6.02253576162068
+589,G0603,Rijswijk,bestaand,0,tram,11.522,283,,11.522025614759
+590,G0518,'s-Gravenhage,bestaand,0,sneltram,35.949,283,,35.949024392091
+591,G0518,'s-Gravenhage,bestaand,0,sneltram,47.492,283,,47.492039228318
+592,G0518,'s-Gravenhage,bestaand,0,tram,0.944,283,,0.94394915117288
+593,G0518,'s-Gravenhage,bestaand,0,sneltram,134.076,283,,134.075890982583
+594,G0518,'s-Gravenhage,bestaand,0,sneltram,79.339,283,,79.338695174549
+595,G0518,'s-Gravenhage,bestaand,0,sneltram,8.712,283,,8.71177685664641
+596,G0518,'s-Gravenhage,bestaand,0,sneltram,10.766,283,,10.7659496562078
+597,G0518,'s-Gravenhage,bestaand,0,sneltram,34.389,283,,34.3892612790528
+598,G0518,'s-Gravenhage,bestaand,0,sneltram,178.959,283,,178.95948472029
+599,G0518,'s-Gravenhage,bestaand,1,sneltram,47.113,283,,47.112639938768
+600,G0518,'s-Gravenhage,bestaand,1,sneltram,21.252,283,,21.2520921558326
+601,G0518,'s-Gravenhage,bestaand,0,sneltram,4.255,283,,4.25500293771931
+602,G0518,'s-Gravenhage,bestaand,0,sneltram,217.935,283,,217.93536605322
+603,G0518,'s-Gravenhage,bestaand,1,sneltram,6.15,283,,6.15001991866693
+604,G0599,Rotterdam,bestaand,0,tram,213.623,283,,213.623383357253
+605,G0599,Rotterdam,bestaand,0,tram,23.676,283,,23.6754413539311
+606,G0599,Rotterdam,bestaand,0,tram,39.189,283,,39.1870528006317
+607,G0599,Rotterdam,bestaand,0,tram,189.529,283,,189.529162727006
+608,G0599,Rotterdam,bestaand,0,tram,23.65,283,,23.6488428084035
+609,G0599,Rotterdam,bestaand,0,tram,27.494,283,,27.4936426227671
+610,G0599,Rotterdam,bestaand,0,sneltram,38.218,283,,38.218320541332
+611,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,83.214,283,,83.21440259955
+612,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,322.895,283,,322.895290832802
+613,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,253.82,283,,253.820113466211
+614,G0599,Rotterdam,bestaand,0,sneltram,19.089,283,,19.0892783781892
+615,G0599,Rotterdam,bestaand,0,sneltram,476.634,283,,476.630842009817
+616,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,255.559,283,,255.558722782949
+617,G0599,Rotterdam,bestaand,0,sneltram,20.183,283,,20.1827079451693
+618,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,146.026,283,,146.025983989152
+619,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,2.13,283,,2.12990187567409
+620,G0599,Rotterdam,bestaand,0,sneltram,17.903,283,,17.9030276769043
+621,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,153.068,283,,153.067574766833
+622,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,118.539,283,,118.539434788597
+623,G0363,Amsterdam,bestaand,0,tram,5.793,283,,5.79301941995709
+624,G0363,Amsterdam,bestaand,1,tram,73.657,283,,73.6572185260888
+625,G0599,Rotterdam,bestaand,0,sneltram,133.18,283,,133.179855834131
+626,G0599,Rotterdam,bestaand,0,sneltram,42.879,283,,42.8786216162601
+627,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,184.321,283,,184.321174583931
+628,G0599,Rotterdam,bestaand,0,sneltram,37.384,283,,37.3835998115283
+629,G0599,Rotterdam,bestaand,0,sneltram,27.891,283,,27.8907332280813
+630,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,205.559,283,,205.558635065535
+631,G0599,Rotterdam,bestaand,0,sneltram,39.521,283,,39.5204805137402
+632,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,135.721,283,,135.721209838404
+633,G0599,Rotterdam,bestaand,0,sneltram,29.685,283,,29.6846797186697
+634,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,157.722,283,,157.721634337208
+635,G0599,Rotterdam,bestaand,0,sneltram,27.162,283,,27.1619158749894
+636,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,177.274,283,,177.273520301256
+637,G0599,Rotterdam,bestaand,1,sneltram,0.703,283,,0.702786596343442
+638,G0599,Rotterdam,bestaand,1,sneltram,45.728,283,,45.7282069453535
+639,G0599,Rotterdam,bestaand,0,sneltram,62.715,283,,62.7151269583306
+640,G0599,Rotterdam,bestaand,0,tram,201.895,283,,201.889983326169
+641,G0599,Rotterdam,bestaand,0,sneltram,2.404,283,,2.40391846783538
+642,G0599,Rotterdam,bestaand,1,sneltram,152.656,283,,152.656149139833
+643,G0599,Rotterdam,bestaand,1,sneltram,36.79,283,,36.7904801273373
+644,G0599,Rotterdam,bestaand,0,sneltram,27.306,283,,27.3055563759466
+645,G0599,Rotterdam,bestaand,0,sneltram,86.024,283,,86.0244694273823
+646,G0599,Rotterdam,bestaand,1,sneltram,101.78,283,,101.779766772743
+647,G0599,Rotterdam,bestaand,1,sneltram,52.15,283,,52.1502369901283
+648,G0599,Rotterdam,bestaand,0,sneltram,75.165,283,,75.1651068068949
+649,G0599,Rotterdam,bestaand,0,sneltram,29.375,283,,29.374563826549
+650,G0599,Rotterdam,bestaand,1,sneltram,27.299,283,,27.299151937264
+651,G0599,Rotterdam,bestaand,1,sneltram,72.374,283,,72.3736841329817
+652,G0599,Rotterdam,bestaand,0,sneltram,94.901,283,,94.9006884403666
+653,G0518,'s-Gravenhage,bestaand,0,sneltram,503.876,283,,503.876372125737
+654,G0556,Maassluis,bestaand,0,sneltram,265.759,283,,265.758927692854
+655,G0518,'s-Gravenhage,bestaand,0,tram,62.497,283,,62.497427592022
+656,G0363,Amsterdam,bestaand,0,tram,15.781,283,,15.7808348482357
+657,G0363,Amsterdam,bestaand,0,sneltram,15.048,283,,15.0476993922659
+658,G0363,Amsterdam,bestaand,0,sneltram,386.794,283,,386.793898645002
+659,G0518,'s-Gravenhage,bestaand,1,tram,11.65,283,,11.6495040666974
+660,G0518,'s-Gravenhage,bestaand,0,tram,8.142,283,,8.1424700674307
+661,G0518,'s-Gravenhage,bestaand,0,tram,65.217,283,,65.2174463140489
+662,G0518,'s-Gravenhage,bestaand,0,tram,1.623,283,,1.62331081435442
+663,G0363,Amsterdam,bestaand,0,sneltram,20.309,283,,20.3086106368703
+664,G0518,'s-Gravenhage,bestaand,0,tram,2.756,283,,2.75593414289964
+665,G0518,'s-Gravenhage,bestaand,1,sneltram,41.042,283,,41.0423945080567
+666,G0518,'s-Gravenhage,bestaand,0,sneltram,8.671,283,,8.67096563250022
+667,G0518,'s-Gravenhage,bestaand,0,tram,4.692,283,,4.69235857538616
+668,G0518,'s-Gravenhage,bestaand,0,tram,10.201,283,,10.2008321229202
+669,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.24452061173912
+670,G0518,'s-Gravenhage,bestaand,0,tram,1.772,283,,1.77246297563588
+671,G0518,'s-Gravenhage,bestaand,0,tram,1.686,283,,1.68588404108942
+672,G0518,'s-Gravenhage,bestaand,0,sneltram,21.622,283,,21.6216809938543
+673,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,112.38,283,,112.379644509137
+674,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+675,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+676,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.732,283,,347.732176758206
+677,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+678,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+679,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+680,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,328.338,283,,328.338452248591
+681,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,50.292,283,,50.2918293562682
+682,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,279.01,283,,279.009982620694
+683,G0518,'s-Gravenhage,bestaand,0,tram,66.176,283,,66.1759052374805
+684,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,212.205,283,,212.205242395187
+685,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,318.153,283,,318.15261832806
+686,G0518,'s-Gravenhage,bestaand,0,sneltram,3.411,283,,3.41062633544046
+687,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,332.945,283,,332.945029937376
+688,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,332.975,283,,332.97458480791
+689,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,334.479,283,,334.478673779062
+690,G0518,'s-Gravenhage,bestaand,0,sneltram,15.996,283,,15.9960655162449
+691,G0518,'s-Gravenhage,bestaand,0,sneltram,9.009,283,,9.00913813857907
+692,G0518,'s-Gravenhage,bestaand,0,sneltram,13.731,283,,13.7307219038185
+693,G0518,'s-Gravenhage,bestaand,0,sneltram,14.914,283,,14.9139029432272
+694,G0518,'s-Gravenhage,bestaand,0,sneltram,41.321,283,,41.3206313601329
+695,G0518,'s-Gravenhage,bestaand,0,sneltram,9.661,283,,9.66118212228711
+696,G0518,'s-Gravenhage,bestaand,0,sneltram,41.386,283,,41.38622635612
+697,G0518,'s-Gravenhage,bestaand,0,sneltram,49.929,283,,49.9286121277169
+698,G0518,'s-Gravenhage,bestaand,0,sneltram,12.758,283,,12.7577969885086
+699,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,334.165,283,,334.164727368105
+700,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.234,283,,303.233987456881
+701,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.17,283,,303.169613234902
+702,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.827,283,,302.827036104771
+703,G0518,'s-Gravenhage,bestaand,0,tram,1.622,283,,1.62216552792864
+704,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.168,283,,333.167738309099
+705,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,212.202,283,,212.201900085744
+706,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+707,G0518,'s-Gravenhage,bestaand,0,tram,32.913,283,,32.9126743373625
+708,G0518,'s-Gravenhage,bestaand,0,tram,3.395,283,,3.39494830593928
+709,G0518,'s-Gravenhage,bestaand,0,sneltram,12.293,283,,12.2934797758812
+710,G0518,'s-Gravenhage,bestaand,0,tram,2.016,283,,2.01603893811603
+711,G0518,'s-Gravenhage,bestaand,0,sneltram,3.058,283,,3.0583567483209
+712,G0503,Delft,bestaand,1,tram,10.662,283,,10.661525688193
+713,G0518,'s-Gravenhage,bestaand,-1,tram,7.322,283,,7.32170280740758
+714,G0518,'s-Gravenhage,bestaand,0,tram,4.633,283,,4.63345227665075
+715,G0518,'s-Gravenhage,bestaand,0,tram,22.447,283,,22.4470762144104
+716,G0518,'s-Gravenhage,bestaand,0,tram,1.226,283,,1.22603955890501
+717,G0518,'s-Gravenhage,bestaand,0,tram,266.158,283,,266.157995060686
+718,G0518,'s-Gravenhage,bestaand,-1,tram,6.761,283,,6.76067038798728
+719,G0599,Rotterdam,bestaand,0,tram,20.036,283,,20.0359832648984
+720,G0599,Rotterdam,bestaand,0,tram,21.229,283,,21.2290157628678
+721,G0599,Rotterdam,bestaand,0,tram,44.494,283,,44.4942413917414
+722,G0599,Rotterdam,bestaand,0,tram,83.814,283,,83.8128030039295
+723,G0599,Rotterdam,bestaand,0,tram,10.893,283,,10.8933941617627
+724,G0599,Rotterdam,bestaand,0,tram,106.422,283,,106.42151572403
+725,G0599,Rotterdam,bestaand,0,tram,189.546,283,,189.546052612551
+726,G0599,Rotterdam,bestaand,0,tram,21.253,283,,21.2527015132515
+727,G0599,Rotterdam,bestaand,0,tram,19.27,283,,19.2702242910659
+728,G0599,Rotterdam,bestaand,0,tram,143.867,283,,143.863418342582
+729,G0603,Rijswijk,bestaand,0,tram,7.03,283,,7.02988675729742
+730,G0599,Rotterdam,bestaand,0,tram,39.968,283,,39.9679633145562
+731,G0603,Rijswijk,bestaand,0,tram,4.029,283,,4.02890210589014
+732,G0599,Rotterdam,bestaand,0,tram,56.285,283,,56.2848700890274
+733,G0599,Rotterdam,bestaand,0,tram,19.894,283,,19.8937310367208
+734,G0363,Amsterdam,bestaand,0,sneltram,197.393,283,,197.392893081848
+735,G0599,Rotterdam,bestaand,0,sneltram,86.21,283,,86.2099681011425
+736,G0599,Rotterdam,bestaand,0,sneltram,147.321,283,,147.320694674922
+737,G0363,Amsterdam,bestaand,-2,sneltram,62.993,283,,62.9923495642935
+738,G0363,Amsterdam,bestaand,-2,sneltram,32.536,283,,32.5364162891963
+739,G0363,Amsterdam,bestaand,-2,sneltram,5,283,,4.99972507894085
+740,G0363,Amsterdam,bestaand,-2,sneltram,53.994,283,,53.9935907963179
+741,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,111.611,283,,111.610517425554
+742,G0599,Rotterdam,bestaand,0,sneltram,27.548,283,,27.5478107478616
+743,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,262.627,283,,262.627041448515
+744,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,116.005,283,,116.005167557312
+745,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,87.091,283,,87.0908037625099
+746,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,166.763,283,,166.76268467496
+747,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,626.939,283,,626.939412530429
+748,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1049.009,283,,1048.9923912849
+749,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,111.248,283,,111.247997734791
+750,G0599,Rotterdam,bestaand,0,sneltram,34.147,283,,34.1472927653366
+751,G0599,Rotterdam,bestaand,0,sneltram,3.582,283,,3.58198269119213
+752,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,148.77,283,,148.770040666796
+753,G0599,Rotterdam,bestaand,0,sneltram,67.51,283,,67.5097340164408
+754,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,174.066,283,,174.065507209211
+755,G0599,Rotterdam,bestaand,0,sneltram,22.489,283,,22.4892587401551
+756,G0599,Rotterdam,bestaand,0,sneltram,20.614,283,,20.6138852475704
+757,G0599,Rotterdam,bestaand,0,sneltram,16.422,283,,16.4218825047557
+758,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,208.327,283,,208.326801204262
+759,G0599,Rotterdam,bestaand,1,sneltram,29.989,283,,29.9886087873379
+760,G0599,Rotterdam,bestaand,0,sneltram,12.048,283,,12.0477450587236
+761,G0599,Rotterdam,bestaand,1,sneltram,700.682,283,,700.682483779922
+762,G0599,Rotterdam,bestaand,0,sneltram,181.904,283,,181.903669583864
+763,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,619.314,283,,619.313854891847
+764,G0599,Rotterdam,bestaand,0,sneltram,5.603,283,,5.6034632148342
+765,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,230.911,283,,230.911018405359
+766,G0599,Rotterdam,bestaand,0,sneltram,32.6,283,,32.5996239370157
+767,G0599,Rotterdam,bestaand,0,sneltram,78.76,283,,78.759960798619
+768,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,74.875,283,,74.8745229443333
+769,G0603,Rijswijk,bestaand,0,tram,21.502,283,,21.5021847606921
+770,G0603,Rijswijk,bestaand,0,tram,17.957,283,,17.956660622202
+771,G0599,Rotterdam,bestaand,0,sneltram,29.819,283,,29.8185926227245
+772,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,24.941,283,,24.9408119354603
+773,G0599,Rotterdam,bestaand,0,sneltram,31.086,283,,31.086256555796
+774,G0599,Rotterdam,bestaand,0,sneltram,29.722,283,,29.7221385670681
+775,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,283.201,283,,283.201230576422
+776,G0599,Rotterdam,bestaand,0,sneltram,49.903,283,,49.9028947459083
+777,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,186.5,283,,186.499724396579
+778,G0599,Rotterdam,bestaand,0,sneltram,43.258,283,,43.257810847654
+779,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,83.214,283,,83.21440259955
+780,G0599,Rotterdam,bestaand,1,sneltram,3.313,283,,3.31285979178111
+781,G0599,Rotterdam,bestaand,-1,sneltram,159.321,283,,159.318423057009
+782,G0599,Rotterdam,bestaand,0,sneltram,19.779,283,,19.779210232425
+783,G0599,Rotterdam,bestaand,0,sneltram,21.295,283,,21.2945526709612
+784,G0599,Rotterdam,bestaand,0,tram,160.656,283,,160.65620521704
+785,G0599,Rotterdam,bestaand,0,sneltram,123.206,283,,123.206209593831
+786,G0599,Rotterdam,bestaand,1,sneltram,25.689,283,,25.688611812607
+787,G0599,Rotterdam,bestaand,0,sneltram,25.229,283,,25.2290648168519
+788,G0599,Rotterdam,bestaand,1,sneltram,393.199,283,,393.199116150457
+789,G0599,Rotterdam,bestaand,0,sneltram,39.061,283,,39.0608594709356
+790,G0599,Rotterdam,bestaand,0,tram,128.729,283,,128.707133220852
+791,G0599,Rotterdam,bestaand,1,sneltram,12.316,283,,12.316143877042
+792,G0599,Rotterdam,bestaand,0,sneltram,88.884,283,,88.8829558134918
+793,G0599,Rotterdam,bestaand,0,sneltram,25.537,283,,25.5365890623135
+794,G0599,Rotterdam,bestaand,0,tram,78.522,283,,78.5224270919826
+795,G0518,'s-Gravenhage,bestaand,0,tram,23.176,283,,23.1762935804701
+796,G0606,Schiedam,bestaand,0,sneltram,276.484,283,,276.483658813069
+797,G0606,Schiedam,bestaand,1,sneltram,1.842,283,,1.84192969464092
+798,G0518,'s-Gravenhage,bestaand,1,tram,10.589,283,,10.5887982793139
+799,G0518,'s-Gravenhage,bestaand,-1,tram,18.172,283,,18.1721748970237
+800,G0518,'s-Gravenhage,bestaand,0,tram,3.356,283,,3.35585249973833
+801,G0518,'s-Gravenhage,bestaand,0,tram,2.525,283,,2.52475444350535
+802,G0518,'s-Gravenhage,bestaand,0,sneltram,9.432,283,,9.43229818230955
+803,G0518,'s-Gravenhage,bestaand,0,sneltram,1.819,283,,1.81852357697116
+804,G0518,'s-Gravenhage,bestaand,1,sneltram,4.694,283,,4.69429951563968
+805,G0363,Amsterdam,bestaand,0,sneltram,631.282,283,,631.281775179529
+806,G0518,'s-Gravenhage,bestaand,1,sneltram,9.206,283,,9.20562579412993
+807,G0363,Amsterdam,bestaand,0,sneltram,33.787,283,,33.7865313713552
+808,G0518,'s-Gravenhage,bestaand,1,tram,4.377,283,,4.37716495005614
+809,G0518,'s-Gravenhage,bestaand,1,sneltram,9.207,283,,9.20722721561709
+810,G0518,'s-Gravenhage,bestaand,0,tram,6.967,283,,6.96701672166789
+811,G0518,'s-Gravenhage,bestaand,0,sneltram,10.109,283,,10.108962409664
+812,G0518,'s-Gravenhage,bestaand,0,sneltram,11.827,283,,11.8268825985549
+813,G0518,'s-Gravenhage,bestaand,0,tram,20.85,283,,20.8495156584383
+814,G0518,'s-Gravenhage,bestaand,0,tram,1.225,283,,1.22500693875586
+815,G0518,'s-Gravenhage,bestaand,0,tram,35.9,283,,35.899936408775
+816,G0518,'s-Gravenhage,bestaand,0,sneltram,20.532,283,,20.5323857844139
+817,G0363,Amsterdam,bestaand,0,sneltram,93.725,283,,93.7246278093437
+818,G0518,'s-Gravenhage,bestaand,0,tram,2.49,283,,2.48950215906715
+819,G0363,Amsterdam,bestaand,0,sneltram,59.257,283,,59.2567004228214
+820,G0518,'s-Gravenhage,bestaand,0,tram,0.153,283,,0.152738338343718
+821,G0518,'s-Gravenhage,bestaand,1,sneltram,9.21,283,,9.21011506563365
+822,G0363,Amsterdam,bestaand,0,sneltram,41.427,283,,41.4267503848022
+823,G0363,Amsterdam,bestaand,0,sneltram,113.152,283,,113.152253017759
+824,G0363,Amsterdam,bestaand,0,sneltram,32.423,283,,32.4230653094437
+825,G0363,Amsterdam,bestaand,0,sneltram,28.494,283,,28.49436462877
+826,G0437,Ouder-Amstel,bestaand,0,sneltram,94.029,283,,94.0287076691238
+827,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.093,283,,333.092705020689
+828,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,332.981,283,,332.981016230655
+829,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.433,283,,333.432980180425
+830,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.71,283,,302.710157061173
+831,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,318.153,283,,318.153457051782
+832,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,201.166,283,,201.166241949289
+833,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,295.422,283,,295.422024156968
+834,G0518,'s-Gravenhage,bestaand,0,tram,64.144,283,,64.144285022128
+835,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,139.7,283,,139.700321044728
+836,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,305.244,283,,305.244115712326
+837,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,210.301,283,,210.301271988545
+838,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,117.728,283,,117.728151109454
+839,G0599,Rotterdam,bestaand,0,tram,58.206,283,,58.205833640915
+840,G0599,Rotterdam,bestaand,0,tram,32.553,283,,32.5530210473537
+841,G0599,Rotterdam,bestaand,0,tram,197.542,283,,197.541811391918
+842,G0599,Rotterdam,bestaand,0,tram,143.591,283,,143.589685394714
+843,G0637,Zoetermeer,bestaand,1,tram,15.301,283,,15.3008503358474
+844,G0637,Zoetermeer,bestaand,0,tram,208.523,283,,208.522672677714
+845,G0613,Albrandswaard,bestaand,0,sneltram,898.113,283,,898.113323201437
+846,G0613,Albrandswaard,bestaand,0,sneltram,898.712,283,,898.712221865477
+847,G0599,Rotterdam,bestaand,1,sneltram,139.877,283,,139.875951686387
+848,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,421.036,283,,421.036304491667
+849,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,144.965,283,,144.965452780999
+850,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,383.135,283,,383.134783775581
+851,G0599,Rotterdam,bestaand,0,sneltram,148.121,283,,148.120944163883
+852,G0518,'s-Gravenhage,bestaand,0,tram,2.758,283,,2.75794071727439
+853,G0518,'s-Gravenhage,bestaand,0,tram,2.483,283,,2.48330102887266
+854,G0518,'s-Gravenhage,bestaand,0,tram,2.193,283,,2.19328269951687
+855,G0518,'s-Gravenhage,bestaand,0,tram,5.114,283,,5.11375097164498
+856,G0518,'s-Gravenhage,bestaand,0,tram,118.579,283,,118.578537349724
+857,G0518,'s-Gravenhage,bestaand,0,tram,2.559,283,,2.55875985586768
+858,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.301,283,,303.301414174085
+859,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,61.597,283,,61.5973350154047
+860,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,168.974,283,,168.974463529256
+861,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,42.76,283,,42.7600748362301
+862,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+863,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,142.847,283,,142.846519033542
+864,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,337.995,283,,337.99536556734
+865,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+866,G0518,'s-Gravenhage,bestaand,1,tram,161.431,283,,161.430610941031
+867,G0518,'s-Gravenhage,bestaand,0,sneltram,18.73,283,,18.7303937491981
+868,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1896.14,283,,1896.14045646516
+869,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,185.031,283,,185.031344641928
+870,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,332.966,283,,332.966380119675
+871,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,298.279,283,,298.278867989336
+872,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.57,283,,303.569816846142
+873,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.728,283,,302.72827775416
+874,G0518,'s-Gravenhage,bestaand,0,sneltram,21.976,283,,21.9757421945198
+875,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.208,283,,303.208286055972
+876,G0518,'s-Gravenhage,bestaand,0,tram,72.005,283,,72.0049734185077
+877,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.883,283,,333.882776345232
+878,G0503,Delft,bestaand,1,tram,10.644,283,,10.6439083517287
+879,G0518,'s-Gravenhage,bestaand,0,tram,28.414,283,,28.4141028758555
+880,G0518,'s-Gravenhage,bestaand,0,tram,65.099,283,,65.0991550903237
+881,G0518,'s-Gravenhage,bestaand,0,tram,41.451,283,,41.4507072195397
+882,G0503,Delft,bestaand,0,tram,21.815,283,,21.8150612192586
+883,G0503,Delft,bestaand,0,tram,22.699,283,,22.6992671687876
+884,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.744,283,,303.74364197461
+885,G0599,Rotterdam,bestaand,0,sneltram,108.74,283,,108.740169869029
+886,G0599,Rotterdam,bestaand,0,tram,215.265,283,,215.26452108046
+887,G0599,Rotterdam,bestaand,0,tram,55.918,283,,55.9180511923842
+888,G0599,Rotterdam,bestaand,0,tram,43.653,283,,43.6519272487615
+889,G0599,Rotterdam,bestaand,0,sneltram,16.058,283,,16.0575371710608
+890,G0599,Rotterdam,bestaand,0,sneltram,108.102,283,,108.101604113158
+891,G0518,'s-Gravenhage,bestaand,0,tram,6.38,283,,6.37971278657909
+892,G0363,Amsterdam,bestaand,0,sneltram,59.649,283,,59.6492974496738
+893,G0363,Amsterdam,bestaand,0,sneltram,20.387,283,,20.3871451655204
+894,G0363,Amsterdam,bestaand,0,sneltram,160.128,283,,160.127798339025
+895,G0363,Amsterdam,bestaand,0,sneltram,629.82,283,,629.81974480862
+896,G0363,Amsterdam,bestaand,0,sneltram,488.45,283,,488.450296990377
+897,G0599,Rotterdam,bestaand,0,sneltram,94.63,283,,94.6285427940464
+898,G0599,Rotterdam,bestaand,0,sneltram,78.363,283,,78.3626237437211
+899,G0599,Rotterdam,bestaand,0,sneltram,53.615,283,,53.6146878229567
+900,G0599,Rotterdam,bestaand,0,sneltram,6.239,283,,6.23874322279736
+901,G0599,Rotterdam,bestaand,0,sneltram,100.578,283,,100.577723488861
+902,G0599,Rotterdam,bestaand,0,sneltram,217.206,283,,217.205649091557
+903,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,3.78,283,,3.77976189726284
+904,G0599,Rotterdam,bestaand,0,sneltram,27.609,283,,27.608852493358
+905,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,35.871,283,,35.8708028903731
+906,G0599,Rotterdam,bestaand,0,sneltram,44.094,283,,44.0941001258895
+907,G0599,Rotterdam,bestaand,0,sneltram,34.02,283,,34.0203025412767
+908,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,58.61,283,,58.6100034123869
+909,G0599,Rotterdam,bestaand,0,sneltram,142.435,283,,142.43511387646
+910,G0599,Rotterdam,bestaand,0,sneltram,25.739,283,,25.7387717902818
+911,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,377.944,283,,377.944243270077
+912,G0599,Rotterdam,bestaand,1,sneltram,107.895,283,,107.894739197661
+913,G0599,Rotterdam,bestaand,0,sneltram,155.761,283,,155.761084448186
+914,G0599,Rotterdam,bestaand,0,sneltram,21.624,283,,21.623821226145
+915,G0599,Rotterdam,bestaand,0,sneltram,8.138,283,,8.13838379572987
+916,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,56.338,283,,56.3384176206609
+917,G0599,Rotterdam,bestaand,0,sneltram,18.378,283,,18.3780439655585
+918,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,166.28,283,,166.279535145284
+919,G0599,Rotterdam,bestaand,0,sneltram,28.102,283,,28.1018348985007
+920,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,124.636,283,,124.636192576635
+921,G0599,Rotterdam,bestaand,0,sneltram,21.422,283,,21.4224655251169
+922,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,138.607,283,,138.607106599914
+923,G0599,Rotterdam,bestaand,0,sneltram,215.046,283,,215.044459600559
+924,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,144.732,283,,144.731575338625
+925,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,172.696,283,,172.695724176947
+926,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,194.994,283,,194.994352995157
+927,G0599,Rotterdam,bestaand,0,sneltram,37.051,283,,37.0514052716875
+928,G0599,Rotterdam,bestaand,0,sneltram,5.265,283,,5.26515052016559
+929,G0599,Rotterdam,bestaand,0,sneltram,67.377,283,,67.3768860548801
+930,G0599,Rotterdam,bestaand,0,sneltram,28.036,283,,28.0364120386329
+931,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,185.406,283,,185.406425185321
+932,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,2.878,283,,2.87800277970679
+933,G0599,Rotterdam,bestaand,0,sneltram,152.094,283,,152.092852372686
+934,G0603,Rijswijk,bestaand,0,tram,10.555,283,,10.5546717603836
+935,G0606,Schiedam,bestaand,0,tram,4.226,283,,4.22624774474947
+936,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,249.413,283,,249.413176275834
+937,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,316.508,283,,316.508389936191
+938,G0599,Rotterdam,bestaand,0,sneltram,33.229,283,,33.2292930222507
+939,G0599,Rotterdam,bestaand,0,sneltram,31.82,283,,31.8203263796967
+940,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,923.575,283,,923.574781441113
+941,G0599,Rotterdam,bestaand,0,sneltram,166.982,283,,166.981684951542
+942,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,9.17,283,,9.16989094809747
+943,G0599,Rotterdam,bestaand,1,sneltram,75.806,283,,75.805613835652
+944,G0599,Rotterdam,bestaand,0,sneltram,28.789,283,,28.7893765128736
+945,G0599,Rotterdam,bestaand,1,sneltram,102.672,283,,102.672001303318
+946,G0599,Rotterdam,bestaand,0,sneltram,9.357,283,,9.35733402203854
+947,G0599,Rotterdam,bestaand,1,sneltram,123.93,283,,123.930353932021
+948,G0599,Rotterdam,bestaand,1,sneltram,88.281,283,,88.2810353775601
+949,G0599,Rotterdam,bestaand,0,sneltram,25.309,283,,25.3091089545717
+950,G0599,Rotterdam,bestaand,0,sneltram,99.951,283,,99.9508774159294
+951,G0599,Rotterdam,bestaand,1,sneltram,11.438,283,,11.43795873397
+952,G0599,Rotterdam,bestaand,1,sneltram,16.595,283,,16.5949902078911
+953,G0599,Rotterdam,bestaand,0,sneltram,14.655,283,,14.6549837256819
+954,G0599,Rotterdam,bestaand,0,sneltram,19.006,283,,19.0060786329006
+955,G0599,Rotterdam,bestaand,1,sneltram,20.726,283,,20.7263552029777
+956,G0599,Rotterdam,bestaand,1,sneltram,32.396,283,,32.395933216995
+957,G0599,Rotterdam,bestaand,0,sneltram,18.855,283,,18.8551136034764
+958,G0599,Rotterdam,bestaand,0,sneltram,66.107,283,,66.1066449004939
+959,G0599,Rotterdam,bestaand,1,sneltram,12.673,283,,12.6732000700267
+960,G0599,Rotterdam,bestaand,0,sneltram,126.04,283,,126.039658178505
+961,G0599,Rotterdam,bestaand,0,sneltram,439.043,283,,439.03946203834
+962,G0599,Rotterdam,bestaand,0,sneltram,66.359,283,,66.3587247695401
+963,G0599,Rotterdam,bestaand,1,sneltram,38.558,283,,38.5577689188573
+964,G0599,Rotterdam,bestaand,1,sneltram,48.097,283,,48.0965384117525
+965,G0518,'s-Gravenhage,bestaand,0,sneltram,70.717,283,,70.7171243843092
+966,G0518,'s-Gravenhage,bestaand,1,sneltram,80.203,283,,80.2031463285575
+967,G0518,'s-Gravenhage,bestaand,0,tram,1.875,283,,1.8746994425774
+968,G0518,'s-Gravenhage,bestaand,0,tram,53.686,283,,53.686141216475
+969,G0363,Amsterdam,bestaand,0,sneltram,162.482,283,,162.482023832886
+970,G0363,Amsterdam,bestaand,0,sneltram,68.041,283,,68.0405130879251
+971,G0518,'s-Gravenhage,bestaand,0,sneltram,11.564,283,,11.5639498442357
+972,G0518,'s-Gravenhage,bestaand,1,sneltram,3.184,283,,3.18443118939631
+973,G0518,'s-Gravenhage,bestaand,0,tram,7.937,283,,7.93747386630987
+974,G0518,'s-Gravenhage,bestaand,0,tram,2.301,283,,2.30098609296102
+975,G0518,'s-Gravenhage,bestaand,0,tram,1.75,283,,1.75019656038972
+976,G0437,Ouder-Amstel,bestaand,0,sneltram,97.194,283,,97.1943617847697
+977,G0437,Ouder-Amstel,bestaand,0,sneltram,82.285,283,,82.2850390396299
+978,G0363,Amsterdam,bestaand,0,sneltram,30.1,283,,30.0998690362599
+979,G0363,Amsterdam,bestaand,0,sneltram,81.733,283,,81.7330062062567
+980,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.24498150996273
+981,G0363,Amsterdam,bestaand,0,sneltram,87.118,283,,87.1178986890754
+982,G0363,Amsterdam,bestaand,1,sneltram,27.953,283,,27.9533328245488
+983,G0518,'s-Gravenhage,bestaand,0,tram,3.396,283,,3.39606595931233
+984,G0518,'s-Gravenhage,bestaand,0,tram,53.608,283,,53.6082980330471
+985,G0518,'s-Gravenhage,bestaand,0,tram,37.085,283,,37.0854249996597
+986,G0518,'s-Gravenhage,bestaand,1,sneltram,3.227,283,,3.2266460915322
+987,G0518,'s-Gravenhage,bestaand,0,sneltram,8.578,283,,8.57769042341818
+988,G0518,'s-Gravenhage,bestaand,0,tram,2.413,283,,2.41348876110911
+989,G0518,'s-Gravenhage,bestaand,0,tram,3.197,283,,3.19675648118527
+990,G0518,'s-Gravenhage,bestaand,0,tram,1.224,283,,1.22425038288742
+991,G0518,'s-Gravenhage,bestaand,-1,tram,10.701,283,,10.7005876646564
+992,G0518,'s-Gravenhage,bestaand,0,tram,2.214,283,,2.21433963067999
+993,G0518,'s-Gravenhage,bestaand,0,tram,10.598,283,,10.5982037654122
+994,G0518,'s-Gravenhage,bestaand,1,sneltram,21.788,283,,21.7880478473864
+995,G0518,'s-Gravenhage,bestaand,1,sneltram,4.381,283,,4.38135828521733
+996,G0518,'s-Gravenhage,bestaand,0,sneltram,9.709,283,,9.70880801128542
+997,G0518,'s-Gravenhage,bestaand,0,tram,6.145,283,,6.14496908047551
+998,G0518,'s-Gravenhage,bestaand,1,sneltram,4.431,283,,4.43098725625191
+999,G0518,'s-Gravenhage,bestaand,0,sneltram,32.62,283,,32.6198814988651
+1000,G0518,'s-Gravenhage,bestaand,1,sneltram,17.576,283,,17.5759796313036
+1001,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,144.938,283,,144.937788378325
+1002,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,324.336,283,,324.335956224406
+1003,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,171.31,283,,171.309878757765
+1004,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,282.302,283,,282.302161920521
+1005,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,60.526,283,,60.525960876305
+1006,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,321.722,283,,321.722247822559
+1007,G0518,'s-Gravenhage,bestaand,0,sneltram,5.082,283,,5.08228000015741
+1008,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.492,283,,333.49159382809
+1009,G0518,'s-Gravenhage,bestaand,0,tram,450.995,283,,450.995340040055
+1010,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1011,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1012,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1013,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+1014,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1015,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+1016,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1017,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,459.708,283,,459.708239075869
+1018,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+1019,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1589.691,283,,1589.69117574915
+1020,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.4,283,,303.399568445639
+1021,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.953,283,,302.95261725392
+1022,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.537,283,,302.537047068619
+1023,G0518,'s-Gravenhage,bestaand,0,sneltram,4.126,283,,4.12586621208202
+1024,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.392,283,,303.392425866237
+1025,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,61.731,283,,61.7309039298794
+1026,G0518,'s-Gravenhage,bestaand,0,sneltram,33.227,283,,33.2269840039688
+1027,G0518,'s-Gravenhage,bestaand,1,sneltram,6.975,283,,6.97488437180144
+1028,G0518,'s-Gravenhage,bestaand,0,sneltram,13.853,283,,13.8529376667911
+1029,G0518,'s-Gravenhage,bestaand,0,sneltram,13.731,283,,13.7305593840892
+1030,G0518,'s-Gravenhage,bestaand,0,sneltram,17.063,283,,17.0632718140455
+1031,G0518,'s-Gravenhage,bestaand,1,sneltram,13.04,283,,13.0401775268879
+1032,G0518,'s-Gravenhage,bestaand,0,sneltram,12.871,283,,12.8712281076827
+1033,G0518,'s-Gravenhage,bestaand,0,sneltram,14.103,283,,14.1031814850409
+1034,G0518,'s-Gravenhage,bestaand,0,sneltram,8.475,283,,8.4745200454067
+1035,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,447.513,283,,447.513213861893
+1036,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.252,283,,302.25155417301
+1037,G0518,'s-Gravenhage,bestaand,0,tram,29.788,283,,29.787883241345
+1038,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.423,283,,303.422870126825
+1039,G0518,'s-Gravenhage,bestaand,0,tram,1.48,283,,1.48021383590345
+1040,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.168,283,,303.167869316654
+1041,G0599,Rotterdam,bestaand,0,sneltram,295.806,283,,295.804233032759
+1042,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,402.632,283,,402.632071242468
+1043,G0518,'s-Gravenhage,bestaand,1,tram,4.543,283,,4.5429197659655
+1044,G0599,Rotterdam,bestaand,0,sneltram,87.442,283,,87.4420852394246
+1045,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,296.622,283,,296.622386857432
+1046,G0518,'s-Gravenhage,bestaand,1,sneltram,24.376,283,,24.3758247655336
+1047,G0518,'s-Gravenhage,bestaand,0,tram,386.815,283,,386.81456234039
+1048,G0518,'s-Gravenhage,bestaand,0,sneltram,5.657,283,,5.65740187718709
+1049,G0518,'s-Gravenhage,bestaand,0,sneltram,117.11,283,,117.109789297245
+1050,G0518,'s-Gravenhage,bestaand,0,sneltram,293.265,283,,293.264587229627
+1051,G0518,'s-Gravenhage,bestaand,0,sneltram,196.459,283,,196.459403514906
+1052,G0518,'s-Gravenhage,bestaand,0,sneltram,157.28,283,,157.27980523292
+1053,G0518,'s-Gravenhage,bestaand,0,sneltram,194.104,283,,194.103629417172
+1054,G0599,Rotterdam,bestaand,0,tram,84.806,283,,84.8060266199416
+1055,G0599,Rotterdam,bestaand,0,tram,148.688,283,,148.687894564607
+1056,G0599,Rotterdam,bestaand,0,tram,130.169,283,,130.168634004645
+1057,G0599,Rotterdam,bestaand,0,tram,200.181,283,,200.180727616322
+1058,G0599,Rotterdam,bestaand,0,tram,11.576,283,,11.5763811297979
+1059,G0599,Rotterdam,bestaand,0,tram,50.532,283,,50.5317496238903
+1060,G0599,Rotterdam,bestaand,0,tram,77.408,283,,77.405988203253
+1061,G0599,Rotterdam,bestaand,0,sneltram,39.976,283,,39.975777716012
+1062,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,120.669,283,,120.669078889333
+1063,G0599,Rotterdam,bestaand,0,sneltram,57.258,283,,57.2582249042555
+1064,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,85.981,283,,85.9805210498285
+1065,G0599,Rotterdam,bestaand,0,sneltram,163.846,283,,163.846424045707
+1066,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,193.548,283,,193.548494440024
+1067,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,402.986,283,,402.986257830214
+1068,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,446.28,283,,446.280094223348
+1069,G0599,Rotterdam,bestaand,0,sneltram,80.932,283,,80.9305842091429
+1070,G0599,Rotterdam,bestaand,0,sneltram,163.211,283,,163.210630078429
+1071,G0599,Rotterdam,bestaand,0,sneltram,27.728,283,,27.727734893535
+1072,G0599,Rotterdam,bestaand,1,sneltram,583.77,283,,583.769906625033
+1073,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,447.597,283,,447.597127230504
+1074,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,307.258,283,,307.257699008503
+1075,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,76.118,283,,76.1180044404739
+1076,G0363,Amsterdam,bestaand,0,sneltram,182.107,283,,182.107378486816
+1077,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,187.207,283,,187.206503676863
+1078,G0599,Rotterdam,bestaand,1,sneltram,26.558,283,,26.5583431147352
+1079,G0599,Rotterdam,bestaand,0,sneltram,1.568,283,,1.5683089619077
+1080,G0599,Rotterdam,bestaand,0,sneltram,128,283,,128.000116156204
+1081,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,124.69,283,,124.690345368036
+1082,G0599,Rotterdam,bestaand,0,sneltram,20.726,283,,20.7261597986699
+1083,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,231.098,283,,231.098310208015
+1084,G0599,Rotterdam,bestaand,0,sneltram,30.602,283,,30.6020416951804
+1085,G0599,Rotterdam,bestaand,0,sneltram,38.213,283,,38.2134776355149
+1086,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,83.028,283,,83.0280752757764
+1087,G0599,Rotterdam,bestaand,0,sneltram,5.61,283,,5.60970730074217
+1088,G0599,Rotterdam,bestaand,0,sneltram,26.57,283,,26.57040417327
+1089,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,178.647,283,,178.64743602974
+1090,G0599,Rotterdam,bestaand,0,sneltram,22.329,283,,22.3291036318075
+1091,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,118.969,283,,118.969281749534
+1092,G0599,Rotterdam,bestaand,0,sneltram,145.882,283,,145.882037962184
+1093,G0363,Amsterdam,bestaand,-2,sneltram,144.196,283,,144.195639852697
+1094,G0363,Amsterdam,bestaand,-2,sneltram,52.228,283,,52.2278252514701
+1095,G0014,Groningen,bestaand,0,niet-bgt: (haven)kraan,5.101,283,,5.10117966748869
+1096,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,176.959,283,,176.959215641413
+1097,G0599,Rotterdam,bestaand,1,sneltram,30.086,283,,30.0859401880679
+1098,G0599,Rotterdam,bestaand,0,sneltram,19.027,283,,19.0268518152636
+1099,G0599,Rotterdam,bestaand,0,sneltram,17.889,283,,17.8892376863856
+1100,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,243.88,283,,243.880375614767
+1101,G0599,Rotterdam,bestaand,0,sneltram,24.73,283,,24.7300885926063
+1102,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,160.49,283,,160.490100940837
+1103,G0599,Rotterdam,bestaand,0,sneltram,83.676,283,,83.6749924459697
+1104,G0599,Rotterdam,bestaand,0,sneltram,26.705,283,,26.7050917916051
+1105,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,119.312,283,,119.311709609745
+1106,G0599,Rotterdam,bestaand,0,sneltram,56.451,283,,56.4510614751715
+1107,G0606,Schiedam,bestaand,0,sneltram,9.176,283,,9.17597586090984
+1108,G0606,Schiedam,bestaand,0,sneltram,12.526,283,,12.5259159345734
+1109,G0606,Schiedam,bestaand,2,sneltram,23.207,283,,23.207098590733
+1110,G0606,Schiedam,bestaand,0,sneltram,249.072,283,,249.072262859634
+1111,G0363,Amsterdam,bestaand,0,tram,46.767,283,,46.7621602223
+1112,L0004,Prorail,bestaand,1,sneltram,81.183,283,,81.1830033011837
+1113,L0004,Prorail,bestaand,1,sneltram,45.708,283,,45.7082811862358
+1114,G0363,Amsterdam,bestaand,0,tram,881.612,283,,881.607369690232
+1115,G0363,Amsterdam,bestaand,0,tram,887.197,283,,887.189819508908
+1116,G0518,'s-Gravenhage,bestaand,0,sneltram,9.728,283,,9.72790131528892
+1117,G0518,'s-Gravenhage,bestaand,0,tram,61.721,283,,61.7209061582864
+1118,G0599,Rotterdam,bestaand,0,sneltram,11.227,283,,11.2266287459771
+1119,G0599,Rotterdam,bestaand,0,sneltram,262.989,283,,262.986190273631
+1120,G0518,'s-Gravenhage,bestaand,0,tram,3.396,283,,3.39634111949904
+1121,G0518,'s-Gravenhage,bestaand,0,tram,2.343,283,,2.3428113453712
+1122,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.24517149007568
+1123,G0518,'s-Gravenhage,bestaand,0,tram,2.724,283,,2.72413949716236
+1124,G0518,'s-Gravenhage,bestaand,0,tram,39.145,283,,39.1447855148585
+1125,G0518,'s-Gravenhage,bestaand,1,sneltram,17.91,283,,17.9104379064276
+1126,G0518,'s-Gravenhage,bestaand,0,tram,3.307,283,,3.30739323334858
+1127,G0518,'s-Gravenhage,bestaand,0,tram,5.966,283,,5.96562561681505
+1128,G0518,'s-Gravenhage,bestaand,0,tram,1.685,283,,1.68545691134481
+1129,G0518,'s-Gravenhage,bestaand,0,tram,1.772,283,,1.77220540570217
+1130,G0518,'s-Gravenhage,bestaand,0,tram,35.249,283,,35.2488599106411
+1131,G0518,'s-Gravenhage,bestaand,1,sneltram,23.06,283,,23.0595826312904
+1132,G0518,'s-Gravenhage,bestaand,0,sneltram,4.636,283,,4.63646212105739
+1133,G0518,'s-Gravenhage,bestaand,0,sneltram,6.341,283,,6.34110163930527
+1134,G0518,'s-Gravenhage,bestaand,1,tram,4.39,283,,4.39019418704913
+1135,G0518,'s-Gravenhage,bestaand,0,tram,1.876,283,,1.87566654819027
+1136,G0518,'s-Gravenhage,bestaand,0,tram,9.002,283,,9.00169084032291
+1137,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.24512018267429
+1138,G0518,'s-Gravenhage,bestaand,0,sneltram,29.665,283,,29.6645826533933
+1139,G0518,'s-Gravenhage,bestaand,1,tram,93.336,283,,93.3361373618035
+1140,G0518,'s-Gravenhage,bestaand,1,sneltram,34.611,283,,34.6109101007182
+1141,G0518,'s-Gravenhage,bestaand,0,tram,1.941,283,,1.94052492898185
+1142,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1143,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.732,283,,347.732176758206
+1144,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,774.715,283,,774.714858260767
+1145,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1146,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1147,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,331.245,283,,331.244808394034
+1148,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1149,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1150,G0518,'s-Gravenhage,bestaand,-1,tram,102.322,283,,102.321990529895
+1151,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.096,283,,303.096195490805
+1152,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.427,283,,302.426784536357
+1153,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.119,283,,303.118931078216
+1154,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,862.756,283,,862.756274163799
+1155,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,76.276,283,,76.2758159969462
+1156,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,19.676,283,,19.6761708673207
+1157,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,169.154,283,,169.153569917989
+1158,G0518,'s-Gravenhage,bestaand,1,sneltram,38.797,283,,38.7972511066887
+1159,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,8.661,283,,8.66123807547166
+1160,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,288.709,283,,288.709444911316
+1161,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,154.904,283,,154.90411292151
+1162,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,338.097,283,,338.097408657623
+1163,G0518,'s-Gravenhage,bestaand,0,sneltram,4.305,283,,4.30456745794511
+1164,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.654,283,,333.654451386461
+1165,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.014,283,,333.013699575558
+1166,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,248.458,283,,248.458464102151
+1167,G0518,'s-Gravenhage,bestaand,0,sneltram,15.753,283,,15.7526074512744
+1168,G0518,'s-Gravenhage,bestaand,1,sneltram,13.402,283,,13.4022203253232
+1169,G0518,'s-Gravenhage,bestaand,1,sneltram,9.995,283,,9.99479529555258
+1170,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1171,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1172,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1173,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1174,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1175,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,331.009,283,,331.009270640567
+1176,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1177,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1178,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1179,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1180,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,328.224,283,,328.224023704847
+1181,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1182,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1183,G0518,'s-Gravenhage,bestaand,0,tram,2.349,283,,2.34886802524109
+1184,G0518,'s-Gravenhage,bestaand,0,tram,10.543,283,,10.5433872226623
+1185,G0518,'s-Gravenhage,bestaand,1,sneltram,21.831,283,,21.8312675994776
+1186,G0518,'s-Gravenhage,bestaand,0,tram,150.904,283,,150.904173523409
+1187,G0518,'s-Gravenhage,bestaand,1,sneltram,8.779,283,,8.77889108375912
+1188,G0518,'s-Gravenhage,bestaand,0,sneltram,11.218,283,,11.2181934820184
+1189,G0599,Rotterdam,bestaand,0,tram,4.189,283,,4.18939771215122
+1190,G0599,Rotterdam,bestaand,1,tram,266.349,283,,266.348849806696
+1191,G0599,Rotterdam,bestaand,0,tram,10.986,283,,10.985742178633
+1192,G0599,Rotterdam,bestaand,0,tram,7.839,283,,7.83851092901762
+1193,G0599,Rotterdam,bestaand,0,tram,74.21,283,,74.2093297507167
+1194,G0599,Rotterdam,bestaand,0,tram,158.618,283,,158.617083004863
+1195,G0599,Rotterdam,bestaand,0,tram,87.306,283,,87.3060155173999
+1196,G0599,Rotterdam,bestaand,0,tram,202.545,283,,202.545259555864
+1197,G0599,Rotterdam,bestaand,0,tram,130.926,283,,130.925997506814
+1198,G0599,Rotterdam,bestaand,0,tram,47.037,283,,47.0373949214877
+1199,G0599,Rotterdam,bestaand,0,tram,239.613,283,,239.61279800502
+1200,G0384,Diemen,bestaand,0,sneltram,13.204,283,,13.2039310859038
+1201,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,107.794,283,,107.793759095784
+1202,G0603,Rijswijk,bestaand,0,tram,282.33,283,,282.32973589273
+1203,G0603,Rijswijk,bestaand,0,tram,7.608,283,,7.60787976171974
+1204,G0603,Rijswijk,bestaand,0,tram,3.396,283,,3.39584998099564
+1205,G0363,Amsterdam,bestaand,0,sneltram,131.311,283,,131.311123333533
+1206,G0599,Rotterdam,bestaand,-1,sneltram,261.61,283,,261.610318879581
+1207,G0363,Amsterdam,bestaand,-2,sneltram,198.68,283,,198.664407724379
+1208,G0363,Amsterdam,bestaand,-2,sneltram,54.489,283,,54.4888205243258
+1209,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,962.796,283,,962.796254510787
+1210,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,150.182,283,,150.18179706847
+1211,G0599,Rotterdam,bestaand,0,sneltram,6.106,283,,6.10636733254723
+1212,G0599,Rotterdam,bestaand,0,sneltram,25.181,283,,25.1810203327824
+1213,G0599,Rotterdam,bestaand,0,sneltram,15.615,283,,15.6154090564417
+1214,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,144.385,283,,144.384542455209
+1215,G0599,Rotterdam,bestaand,0,sneltram,39.119,283,,39.1188407710795
+1216,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,882.948,283,,882.94816866342
+1217,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,358.97,283,,358.969940642667
+1218,G0603,Rijswijk,bestaand,0,tram,9.841,283,,9.84121455478522
+1219,G0603,Rijswijk,bestaand,0,tram,10.199,283,,10.1991654562818
+1220,G0603,Rijswijk,bestaand,0,tram,82.975,283,,82.9752485193906
+1221,G0603,Rijswijk,bestaand,0,tram,83.064,283,,83.0636896522347
+1222,G0603,Rijswijk,bestaand,0,tram,18.634,283,,18.6338800621724
+1223,G0637,Zoetermeer,bestaand,1,tram,15.486,283,,15.4862935526872
+1224,G0599,Rotterdam,bestaand,0,sneltram,85.537,283,,85.5372791927824
+1225,G0606,Schiedam,bestaand,1,sneltram,1.818,283,,1.81785175413178
+1226,G0599,Rotterdam,bestaand,0,tram,182.569,283,,182.566266880049
+1227,G0599,Rotterdam,bestaand,0,tram,29.592,283,,29.5918551632033
+1228,G0599,Rotterdam,bestaand,0,tram,29.418,283,,29.4179722353894
+1229,G0606,Schiedam,bestaand,0,tram,3.705,283,,3.70499730094369
+1230,G0606,Schiedam,bestaand,0,tram,3.534,283,,3.5336001471587
+1231,G0606,Schiedam,bestaand,0,sneltram,0.007,283,,0.00721110255092798
+1232,G0518,'s-Gravenhage,bestaand,0,tram,1.686,283,,1.68619097376306
+1233,G0518,'s-Gravenhage,bestaand,0,tram,120.144,283,,120.143872274037
+1234,L0004,Prorail,bestaand,0,sneltram,294.532,283,,294.531771543552
+1235,G0518,'s-Gravenhage,bestaand,0,tram,1.623,283,,1.62255662458972
+1236,G0518,'s-Gravenhage,bestaand,0,sneltram,34.598,283,,34.5976814252054
+1237,G0518,'s-Gravenhage,bestaand,0,tram,4.585,283,,4.58506379453983
+1238,G0518,'s-Gravenhage,bestaand,0,tram,3.396,283,,3.39598144871258
+1239,G0518,'s-Gravenhage,bestaand,0,sneltram,33.458,283,,33.4578950025252
+1240,G0518,'s-Gravenhage,bestaand,0,tram,1.772,283,,1.77165064276228
+1241,G0518,'s-Gravenhage,bestaand,0,tram,15.188,283,,15.1884056108599
+1242,G0518,'s-Gravenhage,bestaand,0,tram,104.696,283,,104.696185041075
+1243,G0518,'s-Gravenhage,bestaand,0,tram,1.226,283,,1.22583237026928
+1244,G0518,'s-Gravenhage,bestaand,1,tram,42.957,283,,42.9567015609905
+1245,G0518,'s-Gravenhage,bestaand,0,tram,2.279,283,,2.27941330170726
+1246,G0518,'s-Gravenhage,bestaand,0,tram,67.194,283,,67.1941069334799
+1247,G0518,'s-Gravenhage,bestaand,0,tram,3.552,283,,3.55197480283856
+1248,G0518,'s-Gravenhage,bestaand,0,tram,4.408,283,,4.40836749829231
+1249,G0518,'s-Gravenhage,bestaand,0,tram,3.406,283,,3.40563885343117
+1250,G0518,'s-Gravenhage,bestaand,0,sneltram,4.644,283,,4.6442223245663
+1251,G0518,'s-Gravenhage,bestaand,0,tram,285.77,283,,285.770186219464
+1252,G0518,'s-Gravenhage,bestaand,0,sneltram,11.409,283,,11.4092974367399
+1253,G0518,'s-Gravenhage,bestaand,0,tram,49.429,283,,49.4286909341961
+1254,G0518,'s-Gravenhage,bestaand,0,tram,1.225,283,,1.22492775297158
+1255,G0518,'s-Gravenhage,bestaand,0,tram,62.175,283,,62.1746752455484
+1256,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,283.258,283,,283.258052414701
+1257,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.015,283,,303.015378819294
+1258,G0518,'s-Gravenhage,bestaand,0,sneltram,2.82,283,,2.81992092087704
+1259,G0518,'s-Gravenhage,bestaand,0,tram,29.884,283,,29.8843953797371
+1260,G0518,'s-Gravenhage,bestaand,0,tram,1.267,283,,1.26743717793033
+1261,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,324.622,283,,324.621913434691
+1262,G0599,Rotterdam,bestaand,0,sneltram,82.637,283,,82.6365956826965
+1263,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.455,283,,302.454978859664
+1264,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,29.367,283,,29.3669627302518
+1265,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.732968723128
+1266,G0518,'s-Gravenhage,bestaand,1,tram,7.443,283,,7.44296929995012
+1267,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,127.998,283,,127.998411318266
+1268,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,324.838,283,,324.837521139415
+1269,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,14.766,283,,14.7658558844383
+1270,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,286.013,283,,286.013318798269
+1271,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,211.268,283,,211.267992843213
+1272,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,119.523,283,,119.522952073118
+1273,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.732,283,,347.732176758206
+1274,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.732968723128
+1275,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1276,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1277,G0599,Rotterdam,bestaand,0,tram,12.51,283,,12.5102131946202
+1278,G0599,Rotterdam,bestaand,0,tram,22.061,283,,22.0603748400597
+1279,G0599,Rotterdam,bestaand,0,tram,154.111,283,,154.108103024843
+1280,G0599,Rotterdam,bestaand,0,tram,146.744,283,,146.742747509059
+1281,G0599,Rotterdam,bestaand,0,tram,24.004,283,,24.0033006158027
+1282,G0599,Rotterdam,bestaand,0,sneltram,31.295,283,,31.2949708091708
+1283,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,111.224,283,,111.224184550843
+1284,G0599,Rotterdam,bestaand,0,sneltram,27.301,283,,27.3012775869554
+1285,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,109.741,283,,109.741300338569
+1286,G0599,Rotterdam,bestaand,0,sneltram,39.902,283,,39.9016010115279
+1287,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,176.409,283,,176.408938944751
+1288,G0518,'s-Gravenhage,bestaand,0,tram,130.413,283,,130.413379336817
+1289,G0518,'s-Gravenhage,bestaand,1,sneltram,3.196,283,,3.19634040740344
+1290,G0518,'s-Gravenhage,bestaand,0,tram,6.333,283,,6.33273795447119
+1291,G0518,'s-Gravenhage,bestaand,0,tram,3.396,283,,3.39620405747358
+1292,G0518,'s-Gravenhage,bestaand,0,tram,1.251,283,,1.25129641256904
+1293,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.24484206087138
+1294,G0518,'s-Gravenhage,bestaand,0,tram,4.037,283,,4.03664377918092
+1295,G0518,'s-Gravenhage,bestaand,0,tram,4.003,283,,4.00319197641082
+1296,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.732,283,,347.731986909459
+1297,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.432,283,,333.43232113429
+1298,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,60.319,283,,60.3187209745034
+1299,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,820.933,283,,820.933307209568
+1300,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,248.18,283,,248.17974044027
+1301,G0518,'s-Gravenhage,bestaand,1,sneltram,89.784,283,,89.7840235788083
+1302,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.058,283,,303.058053865922
+1303,G0518,'s-Gravenhage,bestaand,0,sneltram,152.057,283,,152.056704836281
+1304,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.932,283,,303.931565616341
+1305,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.762,283,,302.762137226569
+1306,G0518,'s-Gravenhage,bestaand,1,sneltram,48.795,283,,48.795175125648
+1307,G0518,'s-Gravenhage,bestaand,1,sneltram,44.632,283,,44.6315648056395
+1308,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.453,283,,303.452841575095
+1309,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,402.571,283,,402.57124762705
+1310,G0518,'s-Gravenhage,bestaand,2,tram,5.463,283,,5.46343207150963
+1311,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,296.542,283,,296.542239207166
+1312,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,292.069,283,,292.06933015981
+1313,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1309.584,283,,1309.58357709733
+1314,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,298.705,283,,298.704872958243
+1315,G0518,'s-Gravenhage,bestaand,0,tram,93.936,283,,93.9355173350315
+1316,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,160.211,283,,160.211006319791
+1317,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,308.533,283,,308.533334892682
+1318,G0518,'s-Gravenhage,bestaand,0,sneltram,12.123,283,,12.1234874520494
+1319,G0599,Rotterdam,bestaand,0,tram,4.557,283,,4.55638163636269
+1320,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.359,283,,333.358828747642
+1321,G0599,Rotterdam,bestaand,0,tram,226.887,283,,226.887373884892
+1322,G0603,Rijswijk,bestaand,0,tram,171.896,283,,171.896117945475
+1323,G0603,Rijswijk,bestaand,0,tram,168.406,283,,168.40631481285
+1324,G0622,Vlaardingen,bestaand,0,sneltram,574.702,283,,574.701353742378
+1325,G0603,Rijswijk,bestaand,0,tram,44.331,283,,44.3314952826994
+1326,G0622,Vlaardingen,bestaand,0,sneltram,143.788,283,,143.787928635432
+1327,G0603,Rijswijk,bestaand,0,tram,3.997,283,,3.99740005216674
+1328,G0622,Vlaardingen,bestaand,0,sneltram,53.848,283,,53.8480107803436
+1329,G0622,Vlaardingen,bestaand,0,sneltram,573.89,283,,573.88757610779
+1330,L0004,Prorail,bestaand,0,sneltram,5.89,283,,5.88977588707754
+1331,G0599,Rotterdam,bestaand,0,tram,74.542,283,,74.539431562418
+1332,G0599,Rotterdam,bestaand,0,tram,207.065,283,,207.06509476393
+1333,G0599,Rotterdam,bestaand,0,tram,206.023,283,,206.023215487964
+1334,G0599,Rotterdam,bestaand,0,tram,207.814,283,,207.813961797335
+1335,G0599,Rotterdam,bestaand,0,sneltram,18.824,283,,18.823947513739
+1336,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,276.982,283,,276.982040031479
+1337,G0599,Rotterdam,bestaand,1,sneltram,121.371,283,,121.371484952189
+1338,G0599,Rotterdam,bestaand,-1,sneltram,158.059,283,,158.055638611225
+1339,G0599,Rotterdam,bestaand,0,sneltram,24.375,283,,24.3752701318365
+1340,G0599,Rotterdam,bestaand,0,sneltram,65.863,283,,65.8633225667431
+1341,G0599,Rotterdam,bestaand,0,sneltram,33.392,283,,33.3922504931908
+1342,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,15.982,283,,15.9823684102201
+1343,G0599,Rotterdam,bestaand,0,sneltram,229.057,283,,229.056920146668
+1344,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,0.801,283,,0.800812135851767
+1345,G0599,Rotterdam,bestaand,0,sneltram,22.908,283,,22.9075572682903
+1346,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,102.129,283,,102.129265639189
+1347,G0599,Rotterdam,bestaand,0,sneltram,32.062,283,,32.0624556763826
+1348,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,109.67,283,,109.670400746965
+1349,G0599,Rotterdam,bestaand,0,sneltram,21.363,283,,21.3631995088002
+1350,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,198.007,283,,198.007400366754
+1351,G0599,Rotterdam,bestaand,0,sneltram,22.199,283,,22.198541078188
+1352,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,186.593,283,,186.593428876796
+1353,G0518,'s-Gravenhage,bestaand,0,tram,6.001,283,,6.00049280209607
+1354,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,384.414,283,,384.413794367476
+1355,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,495.656,283,,495.656401249898
+1356,G0599,Rotterdam,bestaand,1,sneltram,118.509,283,,118.508781169644
+1357,G0599,Rotterdam,bestaand,0,sneltram,45.745,283,,45.7445114335396
+1358,G0599,Rotterdam,bestaand,0,sneltram,26.557,283,,26.5574354371803
+1359,G0599,Rotterdam,bestaand,0,sneltram,40.457,283,,40.456512829477
+1360,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,243.716,283,,243.716362212306
+1361,G0599,Rotterdam,bestaand,0,sneltram,24.689,283,,24.6885462456569
+1362,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,31.871,283,,31.8706927756521
+1363,G0599,Rotterdam,bestaand,0,sneltram,30.625,283,,30.6251619870686
+1364,G0599,Rotterdam,bestaand,0,sneltram,407.671,283,,407.669251389611
+1365,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,22.238,283,,22.2378528639795
+1366,G0599,Rotterdam,bestaand,0,sneltram,11.205,283,,11.2051149034715
+1367,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,72.427,283,,72.4272000011046
+1368,G0599,Rotterdam,bestaand,0,sneltram,149.825,283,,149.825090986123
+1369,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,166.981,283,,166.980732421438
+1370,G0599,Rotterdam,bestaand,0,sneltram,61.642,283,,61.6416676283178
+1371,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,153.105,283,,153.105084174236
+1372,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,230.008,283,,230.007691175752
+1373,G0599,Rotterdam,bestaand,0,sneltram,13.002,283,,13.0022374997536
+1374,G0599,Rotterdam,bestaand,0,sneltram,16.632,283,,16.6315184584993
+1375,G0599,Rotterdam,bestaand,0,sneltram,39.543,283,,39.542746446059
+1376,G0599,Rotterdam,bestaand,0,sneltram,31.711,283,,31.7113347977966
+1377,G0599,Rotterdam,bestaand,0,sneltram,76.453,283,,76.4529192286515
+1378,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,7.279,283,,7.27887175322785
+1379,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,67.362,283,,67.3599777870663
+1380,G0599,Rotterdam,bestaand,1,sneltram,397.554,283,,397.53846735851
+1381,G0599,Rotterdam,bestaand,0,sneltram,139.195,283,,139.195366508346
+1382,G0599,Rotterdam,bestaand,0,sneltram,10.939,283,,10.9385244434521
+1383,G0599,Rotterdam,bestaand,0,sneltram,39.812,283,,39.8112884103256
+1384,G0606,Schiedam,bestaand,1,sneltram,7.456,283,,7.45579083665844
+1385,G0606,Schiedam,bestaand,0,sneltram,137.596,283,,137.595500295813
+1386,G0606,Schiedam,bestaand,0,sneltram,2.145,283,,2.14472958668453
+1387,G0599,Rotterdam,bestaand,0,tram,127.592,283,,127.592149365235
+1388,G0606,Schiedam,bestaand,0,sneltram,275.577,283,,275.577304271649
+1389,G0606,Schiedam,bestaand,1,sneltram,32.532,283,,32.5320368700694
+1390,G0606,Schiedam,bestaand,0,sneltram,35.649,283,,35.6487291218074
+1391,G0599,Rotterdam,bestaand,-1,sneltram,373.534,283,,373.533903054938
+1392,G0599,Rotterdam,bestaand,0,tram,5.989,283,,5.98943236041614
+1393,G0599,Rotterdam,bestaand,0,tram,13.606,283,,13.6064787876952
+1394,G0599,Rotterdam,bestaand,0,tram,8.013,283,,8.01260631754737
+1395,G0599,Rotterdam,bestaand,0,tram,3.062,283,,3.06247024475341
+1396,G0518,'s-Gravenhage,bestaand,0,sneltram,215.585,283,,215.585433890448
+1397,G0599,Rotterdam,bestaand,0,tram,42.12,283,,42.118947895251
+1398,G0599,Rotterdam,bestaand,0,tram,206.623,283,,206.622718174429
+1399,G0599,Rotterdam,bestaand,0,tram,3.838,283,,3.83792144265617
+1400,G0599,Rotterdam,bestaand,0,tram,5.751,283,,5.75148511256006
+1401,G0599,Rotterdam,bestaand,-1,sneltram,335.992,283,,335.991563933736
+1402,G0599,Rotterdam,bestaand,0,tram,101.761,283,,101.760883495016
+1403,G0599,Rotterdam,bestaand,0,tram,44.4,283,,44.4004495134903
+1404,G0599,Rotterdam,bestaand,0,tram,0.496,283,,0.496472557146918
+1405,G0599,Rotterdam,bestaand,0,tram,5.536,283,,5.53585205727176
+1406,G0599,Rotterdam,bestaand,0,tram,31.442,283,,31.4420334634136
+1407,G0599,Rotterdam,bestaand,-1,sneltram,166.988,283,,166.987761788939
+1408,G0599,Rotterdam,bestaand,0,tram,84.306,283,,84.3053585214235
+1409,G0599,Rotterdam,bestaand,0,tram,192.616,283,,192.616157637158
+1410,G0599,Rotterdam,bestaand,-1,sneltram,36.031,283,,36.0310534955613
+1411,G0599,Rotterdam,bestaand,-1,sneltram,40.142,283,,40.1423344612642
+1412,G0599,Rotterdam,bestaand,0,tram,44.577,283,,44.5773982752517
+1413,G0599,Rotterdam,bestaand,0,tram,234.75,283,,234.750162915811
+1414,G0599,Rotterdam,bestaand,0,tram,163.811,283,,163.806089430438
+1415,G0599,Rotterdam,bestaand,0,tram,47.907,283,,47.8981962425025
+1416,G0599,Rotterdam,bestaand,-1,sneltram,210.524,283,,210.524152414043
+1417,G0599,Rotterdam,bestaand,0,tram,55.233,283,,55.2301923839858
+1418,G0599,Rotterdam,bestaand,-2,sneltram,136.769,283,,136.769038502434
+1419,G0599,Rotterdam,bestaand,0,tram,30.02,283,,30.0203510305926
+1420,G0599,Rotterdam,bestaand,0,tram,39.661,283,,39.6584453271259
+1421,G0599,Rotterdam,bestaand,0,tram,66.236,283,,66.2362649082812
+1422,G0599,Rotterdam,bestaand,0,tram,43.352,283,,43.3506540179825
+1423,G0599,Rotterdam,bestaand,0,tram,43.045,283,,43.0428294482883
+1424,G0518,'s-Gravenhage,bestaand,0,tram,285.609,283,,285.609113647041
+1425,G0599,Rotterdam,bestaand,0,tram,56.088,283,,56.0880803229348
+1426,G0599,Rotterdam,bestaand,0,tram,252.37,283,,252.370034626197
+1427,G0518,'s-Gravenhage,bestaand,-1,tram,11.262,283,,11.2622318793279
+1428,G0518,'s-Gravenhage,bestaand,0,tram,2.851,283,,2.85060011225707
+1429,G0518,'s-Gravenhage,bestaand,0,tram,5.718,283,,5.71804730655492
+1430,G0518,'s-Gravenhage,bestaand,0,tram,2.278,283,,2.27831385019711
+1431,G0518,'s-Gravenhage,bestaand,0,sneltram,4.36,283,,4.360400899
+1432,G0384,Diemen,bestaand,0,tram,0.344,283,,0.343517102922111
+1433,G0384,Diemen,bestaand,0,tram,1.215,283,,1.21510327092524
+1434,G0384,Diemen,bestaand,0,tram,2.2,283,,2.20039455695142
+1435,G0384,Diemen,bestaand,0,tram,9.568,283,,9.56755794338346
+1436,G0384,Diemen,bestaand,0,tram,18,283,,18.000441022375
+1437,G0518,'s-Gravenhage,bestaand,0,tram,1.94,283,,1.93991443110257
+1438,G0518,'s-Gravenhage,bestaand,0,tram,2.31,283,,2.31015692107701
+1439,G0518,'s-Gravenhage,bestaand,0,tram,1.876,283,,1.87580649321832
+1440,G0518,'s-Gravenhage,bestaand,0,tram,2.911,283,,2.91095259322442
+1441,G0518,'s-Gravenhage,bestaand,0,tram,31.355,283,,31.3550554709951
+1442,G0518,'s-Gravenhage,bestaand,0,tram,3.396,283,,3.39561275766245
+1443,G0518,'s-Gravenhage,bestaand,0,tram,3.514,283,,3.51436025472631
+1444,G0518,'s-Gravenhage,bestaand,0,tram,3.397,283,,3.39663789650884
+1445,G0518,'s-Gravenhage,bestaand,0,sneltram,8.959,283,,8.95884663335633
+1446,G0518,'s-Gravenhage,bestaand,0,sneltram,24.004,283,,24.0042250447708
+1447,G0518,'s-Gravenhage,bestaand,-1,tram,17.312,283,,17.3124349818274
+1448,G0518,'s-Gravenhage,bestaand,0,tram,3.372,283,,3.37240804174109
+1449,G0518,'s-Gravenhage,bestaand,0,tram,23.045,283,,23.0450078115829
+1450,G0518,'s-Gravenhage,bestaand,0,tram,1.225,283,,1.2249183646268
+1451,G0518,'s-Gravenhage,bestaand,0,tram,133.979,283,,133.978694950786
+1452,G0518,'s-Gravenhage,bestaand,0,tram,5.503,283,,5.50346917861816
+1453,G0518,'s-Gravenhage,bestaand,0,sneltram,7.987,283,,7.98652446311911
+1454,G0599,Rotterdam,bestaand,0,sneltram,81.484,283,,81.4839191506838
+1455,G0599,Rotterdam,bestaand,0,sneltram,24.785,283,,24.7853250533456
+1456,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,17.164,283,,17.1638107948089
+1457,G0518,'s-Gravenhage,bestaand,1,sneltram,17.575,283,,17.575404234327
+1458,G0384,Diemen,bestaand,0,tram,478.049,283,,478.048939511835
+1459,G0518,'s-Gravenhage,bestaand,0,tram,0.968,283,,0.9679555774931
+1460,G0518,'s-Gravenhage,bestaand,0,tram,58.351,283,,58.3514185345995
+1461,G0518,'s-Gravenhage,bestaand,0,tram,2.671,283,,2.67128302506492
+1462,G0518,'s-Gravenhage,bestaand,0,tram,25.274,283,,25.274333115937
+1463,G0518,'s-Gravenhage,bestaand,1,sneltram,4.39,283,,4.38967720908953
+1464,G0518,'s-Gravenhage,bestaand,0,tram,2.693,283,,2.69287244406414
+1465,G0518,'s-Gravenhage,bestaand,0,tram,1.941,283,,1.94080498762756
+1466,G0518,'s-Gravenhage,bestaand,0,tram,2.309,283,,2.30895344257956
+1467,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.24511324917945
+1468,G0518,'s-Gravenhage,bestaand,0,tram,2.908,283,,2.90753521044888
+1469,G0518,'s-Gravenhage,bestaand,1,sneltram,127.474,283,,127.473529444352
+1470,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,296.048,283,,296.048021261754
+1471,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1576.683,283,,1576.68321200441
+1472,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,298.981,283,,298.981273288144
+1473,G0518,'s-Gravenhage,bestaand,0,sneltram,80.76,283,,80.7601273896965
+1474,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,117.064,283,,117.063511821575
+1475,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,308.491,283,,308.49147621936
+1476,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.637,283,,333.637287611862
+1477,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.498,283,,333.49755744233
+1478,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,628.746,283,,628.74594923546
+1479,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1154.665,283,,1154.66510003391
+1480,G0599,Rotterdam,bestaand,0,tram,212.45,283,,212.449795975426
+1481,G0599,Rotterdam,bestaand,0,tram,133.181,283,,133.181124937853
+1482,G0599,Rotterdam,bestaand,0,tram,220.401,283,,220.400743801673
+1483,G0599,Rotterdam,bestaand,0,tram,203.413,283,,203.412877139534
+1484,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.224,283,,303.224300833558
+1485,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.241,283,,303.241438739827
+1486,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+1487,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.732,283,,347.732176758206
+1488,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,6.057,283,,6.05704895142841
+1489,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,481.099,283,,481.099307300478
+1490,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+1491,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+1492,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.732968723128
+1493,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.732968723128
+1494,G0599,Rotterdam,bestaand,0,tram,125.934,283,,125.934197257223
+1495,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1.534,283,,1.53404698531021
+1496,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,44.985,283,,44.9849330331835
+1497,G0599,Rotterdam,bestaand,0,tram,122.072,283,,122.071616265088
+1498,G0599,Rotterdam,bestaand,0,tram,107.525,283,,107.524555566218
+1499,G0599,Rotterdam,bestaand,0,tram,111.011,283,,111.010672149139
+1500,G0606,Schiedam,bestaand,0,tram,3.722,283,,3.7215256280187
+1501,G0384,Diemen,bestaand,0,sneltram,101.738,283,,101.73797151571
+1502,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,197.33,283,,197.330226869445
+1503,G0599,Rotterdam,bestaand,0,tram,76.388,283,,76.3880199198512
+1504,G0599,Rotterdam,bestaand,0,tram,100.182,283,,100.18147185074
+1505,G0599,Rotterdam,bestaand,0,tram,59.967,283,,59.9669348221505
+1506,G0599,Rotterdam,bestaand,0,tram,35.912,283,,35.9119464440806
+1507,G0599,Rotterdam,bestaand,0,tram,28.244,283,,28.24438997394
+1508,G0599,Rotterdam,bestaand,0,tram,26.98,283,,26.9787924518172
+1509,G0599,Rotterdam,bestaand,0,tram,152.64,283,,152.639993996177
+1510,G0599,Rotterdam,bestaand,0,tram,136.628,283,,136.628059380102
+1511,G0599,Rotterdam,bestaand,0,tram,99.597,283,,99.5914565984708
+1512,G0599,Rotterdam,bestaand,0,sneltram,217.285,283,,217.28438523154
+1513,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,197.425,283,,197.424854564971
+1514,G0599,Rotterdam,bestaand,0,sneltram,15.363,283,,15.3627519670142
+1515,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,332.928,283,,332.928471897493
+1516,G0599,Rotterdam,bestaand,0,sneltram,157.115,283,,157.115162413836
+1517,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,208.31,283,,208.31001536172
+1518,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,424.636,283,,424.636147542811
+1519,G0599,Rotterdam,bestaand,0,sneltram,66.122,283,,66.1202770860574
+1520,G0599,Rotterdam,bestaand,0,sneltram,193.494,283,,193.494355357225
+1521,G0599,Rotterdam,bestaand,0,sneltram,13.649,283,,13.6494139068313
+1522,G0599,Rotterdam,bestaand,0,sneltram,408.028,283,,408.025472429524
+1523,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,189.705,283,,189.705246007759
+1524,G0599,Rotterdam,bestaand,0,sneltram,16.678,283,,16.678219629205
+1525,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,67.927,283,,67.9020937170572
+1526,G0606,Schiedam,bestaand,1,sneltram,25.957,283,,25.9566076558552
+1527,G0606,Schiedam,bestaand,0,sneltram,249.1,283,,249.100357279669
+1528,G0518,'s-Gravenhage,bestaand,0,sneltram,238.104,283,,238.10446764475
+1529,G0518,'s-Gravenhage,bestaand,0,sneltram,35.839,283,,35.8389739957418
+1530,G0599,Rotterdam,bestaand,0,tram,23.239,283,,23.239327528997
+1531,G0599,Rotterdam,bestaand,2,tram,177.288,283,,177.287745440862
+1532,G0599,Rotterdam,bestaand,0,tram,109.264,283,,109.264228753055
+1533,G0599,Rotterdam,bestaand,-2,sneltram,529.503,283,,529.502727334991
+1534,G0599,Rotterdam,bestaand,0,tram,138.583,283,,138.583224847194
+1535,G0599,Rotterdam,bestaand,0,tram,35.229,283,,35.2285008764211
+1536,G0599,Rotterdam,bestaand,0,tram,9.297,283,,9.29690491507792
+1537,G0599,Rotterdam,bestaand,0,tram,6.57,283,,6.5698249596165
+1538,G0599,Rotterdam,bestaand,0,tram,14.624,283,,14.6242227143872
+1539,G0599,Rotterdam,bestaand,2,tram,297.985,283,,297.984992544511
+1540,G0599,Rotterdam,bestaand,0,tram,4.537,283,,4.53711868884179
+1541,G0599,Rotterdam,bestaand,0,tram,32.897,283,,32.8967994339875
+1542,G0599,Rotterdam,bestaand,0,tram,113.92,283,,113.911640623517
+1543,G0599,Rotterdam,bestaand,0,tram,231.416,283,,231.41633901738
+1544,G0599,Rotterdam,bestaand,0,tram,104.123,283,,104.122846565967
+1545,G0599,Rotterdam,bestaand,0,tram,227.993,283,,227.993339148318
+1546,G0599,Rotterdam,bestaand,0,tram,2.951,283,,2.95051426270079
+1547,G0599,Rotterdam,bestaand,0,tram,4.331,283,,4.33055818261017
+1548,G0599,Rotterdam,bestaand,0,tram,21.322,283,,21.3192025684039
+1549,G0599,Rotterdam,bestaand,1,tram,4.016,283,,4.01589554147017
+1550,G0599,Rotterdam,bestaand,0,tram,272.45,283,,272.449517492248
+1551,G0599,Rotterdam,bestaand,0,tram,114.023,283,,114.022375706069
+1552,G0599,Rotterdam,bestaand,-1,sneltram,294.351,283,,294.351245385117
+1553,G0599,Rotterdam,bestaand,0,tram,47.408,283,,47.3971720530196
+1554,G0599,Rotterdam,bestaand,0,tram,77.073,283,,77.0729181123671
+1555,G0599,Rotterdam,bestaand,0,tram,132.93,283,,132.924904864925
+1556,G0599,Rotterdam,bestaand,0,tram,25.039,283,,25.0388147478353
+1557,G0599,Rotterdam,bestaand,0,tram,144.285,283,,144.284440254423
+1558,G0599,Rotterdam,bestaand,-1,sneltram,20.835,283,,20.8354504858824
+1559,G1916,Leidschendam-Voorburg,bestaand,0,tram,2.299,283,,2.2986058818336
+1560,G0363,Amsterdam,bestaand,0,sneltram,18.579,283,,18.57884087381
+1561,G0599,Rotterdam,bestaand,0,tram,45.776,283,,45.7764212394052
+1562,G0599,Rotterdam,bestaand,-1,sneltram,50.933,283,,50.9331940410101
+1563,G0437,Ouder-Amstel,bestaand,1,sneltram,21.815,283,,21.8150173203705
+1564,G0599,Rotterdam,bestaand,0,tram,76.112,283,,76.1119981750636
+1565,G0599,Rotterdam,bestaand,0,tram,39.388,283,,39.3874285292365
+1566,G0599,Rotterdam,bestaand,0,tram,125.198,283,,125.193248119633
+1567,G0599,Rotterdam,bestaand,-1,sneltram,302.071,283,,302.071045064005
+1568,G0599,Rotterdam,bestaand,0,tram,336.751,283,,336.744635217947
+1569,G0599,Rotterdam,bestaand,-2,sneltram,27.566,283,,27.5656772169217
+1570,G0599,Rotterdam,bestaand,0,tram,18.081,283,,18.0805261538485
+1571,G0599,Rotterdam,bestaand,0,tram,124.362,283,,124.361825091973
+1572,G0599,Rotterdam,bestaand,0,tram,295.074,283,,295.07323572118
+1573,G0599,Rotterdam,bestaand,0,tram,202.661,283,,202.660792345239
+1574,G0599,Rotterdam,bestaand,0,tram,4.643,283,,4.64258100464765
+1575,G0599,Rotterdam,bestaand,0,tram,31.642,283,,31.6418670378276
+1576,G0599,Rotterdam,bestaand,0,tram,122.757,283,,122.748960022684
+1577,G0599,Rotterdam,bestaand,0,tram,159.29,283,,159.290280052697
+1578,G0599,Rotterdam,bestaand,0,tram,222.027,283,,222.024061304215
+1579,G0599,Rotterdam,bestaand,0,tram,48.453,283,,48.4455077629732
+1580,G0599,Rotterdam,bestaand,0,tram,3.15,283,,3.14974344300699
+1581,G0518,'s-Gravenhage,bestaand,0,tram,289.442,283,,289.442484762295
+1582,G0518,'s-Gravenhage,bestaand,0,tram,15.072,283,,15.072352337973
+1583,G0518,'s-Gravenhage,bestaand,0,sneltram,11.475,283,,11.475144312818
+1584,G0518,'s-Gravenhage,bestaand,0,tram,9.824,283,,9.82354654186399
+1585,G0518,'s-Gravenhage,bestaand,0,tram,3.373,283,,3.37272189781488
+1586,G0518,'s-Gravenhage,bestaand,0,sneltram,13.508,283,,13.5080648873182
+1587,G0518,'s-Gravenhage,bestaand,0,tram,11.424,283,,11.424137793511
+1588,G0518,'s-Gravenhage,bestaand,-1,tram,10.54,283,,10.5404440402862
+1589,G0518,'s-Gravenhage,bestaand,0,tram,2.333,283,,2.33327452306838
+1590,G0518,'s-Gravenhage,bestaand,0,tram,5.163,283,,5.16283216849047
+1591,G0518,'s-Gravenhage,bestaand,0,tram,1.226,283,,1.22610032215965
+1592,G0518,'s-Gravenhage,bestaand,-1,tram,36.125,283,,36.1250786672806
+1593,G0518,'s-Gravenhage,bestaand,0,tram,1.228,283,,1.2279454385273
+1594,G0518,'s-Gravenhage,bestaand,0,sneltram,16.92,283,,16.920129136623
+1595,G0518,'s-Gravenhage,bestaand,0,tram,62.701,283,,62.7009946013618
+1596,G0518,'s-Gravenhage,bestaand,0,tram,2.754,283,,2.75355788027054
+1597,G0518,'s-Gravenhage,bestaand,0,sneltram,90.373,283,,90.3725262787314
+1598,G0518,'s-Gravenhage,bestaand,0,tram,338.417,283,,338.416974009245
+1599,G0518,'s-Gravenhage,bestaand,0,tram,67.995,283,,67.9948068849489
+1600,G0518,'s-Gravenhage,bestaand,0,sneltram,11.147,283,,11.1465977769004
+1601,G0518,'s-Gravenhage,bestaand,0,sneltram,31.137,283,,31.1374633681037
+1602,G0518,'s-Gravenhage,bestaand,0,sneltram,120.68,283,,120.679854578528
+1603,G0518,'s-Gravenhage,bestaand,0,sneltram,480.401,283,,480.401222512709
+1604,G0518,'s-Gravenhage,bestaand,1,sneltram,7.242,283,,7.24199364816071
+1605,G0518,'s-Gravenhage,bestaand,0,sneltram,13.854,283,,13.8537233984225
+1606,G0599,Rotterdam,bestaand,0,tram,5.132,283,,5.13227856561046
+1607,G0599,Rotterdam,bestaand,0,tram,4.995,283,,4.99499049048144
+1608,G0518,'s-Gravenhage,bestaand,1,sneltram,6.807,283,,6.80653289127438
+1609,G0518,'s-Gravenhage,bestaand,0,sneltram,8.413,283,,8.41283596654541
+1610,G0518,'s-Gravenhage,bestaand,0,sneltram,8.848,283,,8.84848789341998
+1611,G0518,'s-Gravenhage,bestaand,0,sneltram,33.042,283,,33.0416835224841
+1612,G0518,'s-Gravenhage,bestaand,0,sneltram,23.564,283,,23.5636956566664
+1613,G0518,'s-Gravenhage,bestaand,0,sneltram,13.826,283,,13.826405534339
+1614,G0518,'s-Gravenhage,bestaand,0,sneltram,12.182,283,,12.1822955554362
+1615,G0518,'s-Gravenhage,bestaand,0,sneltram,13.731,283,,13.7308121391271
+1616,G0518,'s-Gravenhage,bestaand,0,sneltram,26.89,283,,26.8903221438495
+1617,G0518,'s-Gravenhage,bestaand,0,sneltram,7.369,283,,7.36878097109692
+1618,G0518,'s-Gravenhage,bestaand,0,sneltram,561.63,283,,561.630238007371
+1619,G0599,Rotterdam,bestaand,0,tram,194.052,283,,194.052425272141
+1620,G0599,Rotterdam,bestaand,0,tram,1.138,283,,1.13808435539726
+1621,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,109.286,283,,109.28605080247
+1622,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,324.737,283,,324.736805922889
+1623,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,19.571,283,,19.5709223083635
+1624,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.322,283,,303.321972644581
+1625,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.873,283,,303.87305247422
+1626,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.934,283,,302.933663835831
+1627,G0518,'s-Gravenhage,bestaand,0,sneltram,13.982,283,,13.9824331215994
+1628,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.156,283,,303.155520728223
+1629,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,116.296,283,,116.296259613111
+1630,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.576,283,,333.576256184399
+1631,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,334.163,283,,334.163000480305
+1632,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1148.063,283,,1148.06307612299
+1633,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,331.594,283,,331.593976563206
+1634,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,459.88,283,,459.87986069516
+1635,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1636,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1637,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1638,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1639,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1640,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1641,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.732,283,,347.732176758206
+1642,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1643,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,292.317,283,,292.317024069759
+1644,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,109.397,283,,109.397012756291
+1645,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,276.255,283,,276.255292041619
+1646,G0518,'s-Gravenhage,bestaand,0,sneltram,165.176,283,,165.175713653672
+1647,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,160.796,283,,160.79600873467
+1648,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,311.961,283,,311.960629778823
+1649,G0518,'s-Gravenhage,bestaand,0,sneltram,14.831,283,,14.8312332932902
+1650,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,334.282,283,,334.281761687652
+1651,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.401,283,,333.401128387413
+1652,G0599,Rotterdam,bestaand,0,tram,200.697,283,,200.69704731382
+1653,G0384,Diemen,bestaand,1,sneltram,12.413,283,,12.412780832674
+1654,G0599,Rotterdam,bestaand,0,tram,198.638,283,,198.637317819383
+1655,G0599,Rotterdam,bestaand,1,tram,255.731,283,,255.724071982492
+1656,G0599,Rotterdam,bestaand,0,tram,48.388,283,,48.3880243448728
+1657,G0599,Rotterdam,bestaand,0,tram,231.493,283,,231.493013734373
+1658,G0599,Rotterdam,bestaand,0,tram,219.324,283,,219.324198785724
+1659,G0384,Diemen,bestaand,0,sneltram,67.492,283,,67.4920095320497
+1660,G0599,Rotterdam,bestaand,0,sneltram,204.016,283,,204.016239776502
+1661,G0384,Diemen,bestaand,0,sneltram,129.513,283,,129.513417772374
+1662,G0384,Diemen,bestaand,0,sneltram,20.836,283,,20.8364264626918
+1663,G0384,Diemen,bestaand,1,sneltram,36.496,283,,36.4957829181908
+1664,G0384,Diemen,bestaand,1,sneltram,27.861,283,,27.8606025048745
+1665,G0384,Diemen,bestaand,1,sneltram,43.048,283,,43.0476481673488
+1666,G0384,Diemen,bestaand,1,sneltram,34.31,283,,34.3098354354778
+1667,G0384,Diemen,bestaand,0,sneltram,292.775,283,,292.775146052249
+1668,G0384,Diemen,bestaand,0,sneltram,97.182,283,,97.1824987092843
+1669,G0599,Rotterdam,bestaand,0,sneltram,148.849,283,,148.848686240849
+1670,G0599,Rotterdam,bestaand,0,sneltram,247.732,283,,247.732281177376
+1671,G0599,Rotterdam,bestaand,0,sneltram,11.901,283,,11.9005733055177
+1672,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,57.54,283,,57.5403614865253
+1673,G0599,Rotterdam,bestaand,0,sneltram,10.227,283,,10.2272674747461
+1674,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,133.074,283,,133.073737829821
+1675,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,186.627,283,,186.627483407156
+1676,G0599,Rotterdam,bestaand,0,sneltram,49.121,283,,49.1207363465055
+1677,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,128.163,283,,128.162904149368
+1678,G0599,Rotterdam,bestaand,0,sneltram,21.398,283,,21.3980195578937
+1679,G0599,Rotterdam,bestaand,0,tram,47.15,283,,47.15046388658
+1680,G0518,'s-Gravenhage,bestaand,0,sneltram,13.549,283,,13.5485321432338
+1681,G0599,Rotterdam,bestaand,0,tram,118.146,283,,118.136900698225
+1682,G0599,Rotterdam,bestaand,0,tram,257.349,283,,257.34948855989
+1683,G0599,Rotterdam,bestaand,0,tram,80.154,283,,80.1544538327333
+1684,G0599,Rotterdam,bestaand,0,tram,192.617,283,,192.616715850835
+1685,G0599,Rotterdam,bestaand,-1,sneltram,36.313,283,,36.3128766279952
+1686,G0599,Rotterdam,bestaand,-1,sneltram,50.071,283,,50.0706843587816
+1687,G0518,'s-Gravenhage,bestaand,1,sneltram,18.453,283,,18.452979407131
+1688,G0518,'s-Gravenhage,bestaand,0,sneltram,177.436,283,,177.382366232104
+1689,G0518,'s-Gravenhage,bestaand,0,sneltram,270.076,283,,269.983255411744
+1690,G0518,'s-Gravenhage,bestaand,0,sneltram,270.513,283,,270.513050727229
+1691,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.174,283,,333.173925090185
+1692,G0518,'s-Gravenhage,bestaand,-1,sneltram,107.035,283,,107.034954164516
+1693,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.444,283,,333.44410383751
+1694,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.287,283,,303.287064112533
+1695,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.551,283,,302.551397935954
+1696,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.013,283,,303.013075262438
+1697,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.562,283,,302.562386432947
+1698,G0518,'s-Gravenhage,bestaand,1,sneltram,5.966,283,,5.96564673778124
+1699,G0518,'s-Gravenhage,bestaand,1,sneltram,6.812,283,,6.81186318124491
+1700,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.732968723128
+1701,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,911.231,283,,911.230815203873
+1702,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,340.936,283,,340.936159337786
+1703,G0518,'s-Gravenhage,bestaand,0,tram,97.629,283,,97.6285246215963
+1704,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1316.397,283,,1316.39708695948
+1705,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,298.649,283,,298.648627267898
+1706,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,243.499,283,,243.498563987552
+1707,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,419.197,283,,419.197477546084
+1708,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,811.363,283,,811.362926359037
+1709,G0518,'s-Gravenhage,bestaand,0,sneltram,7.578,283,,7.57772162328493
+1710,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,367.064,283,,367.063885379946
+1711,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,115.815,283,,115.814692440122
+1712,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.658,283,,333.657900107281
+1713,G0518,'s-Gravenhage,bestaand,0,tram,1.686,283,,1.6858104875697
+1714,G0518,'s-Gravenhage,bestaand,0,sneltram,4.602,283,,4.60152692049063
+1715,G0518,'s-Gravenhage,bestaand,0,sneltram,3.297,283,,3.29702669082311
+1716,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.349,283,,333.348970854869
+1717,G0518,'s-Gravenhage,bestaand,0,tram,457.206,283,,457.205762413547
+1718,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,334.139,283,,334.138535715353
+1719,G0599,Rotterdam,bestaand,-1,sneltram,53.165,283,,53.1646852563107
+1720,G0599,Rotterdam,bestaand,0,tram,161.237,283,,161.236234658074
+1721,G0599,Rotterdam,bestaand,0,tram,113.323,283,,113.322603545817
+1722,G0599,Rotterdam,bestaand,0,tram,168.834,283,,168.825537439088
+1723,G0599,Rotterdam,bestaand,0,tram,100.852,283,,100.852391459721
+1724,G0599,Rotterdam,bestaand,0,tram,49.705,283,,49.7043362250331
+1725,G0599,Rotterdam,bestaand,-1,sneltram,44.219,283,,44.2193548686545
+1726,G0599,Rotterdam,bestaand,-1,sneltram,13.451,283,,13.4508832423748
+1727,G0599,Rotterdam,bestaand,0,tram,158.633,283,,158.633050449434
+1728,G0599,Rotterdam,bestaand,0,tram,185.982,283,,185.970363250149
+1729,G0599,Rotterdam,bestaand,0,tram,74.681,283,,74.6805967671511
+1730,G0599,Rotterdam,bestaand,-1,sneltram,190.404,283,,190.404308629866
+1731,G0599,Rotterdam,bestaand,-1,sneltram,471.296,283,,471.296132834145
+1732,G0599,Rotterdam,bestaand,0,tram,144.143,283,,144.138727146305
+1733,G0599,Rotterdam,bestaand,0,tram,79.212,283,,79.2120289668311
+1734,G0599,Rotterdam,bestaand,0,tram,1.102,283,,1.10247448950078
+1735,G0599,Rotterdam,bestaand,0,tram,1.653,283,,1.65261399001703
+1736,G0599,Rotterdam,bestaand,0,tram,98.643,283,,98.6413636700336
+1737,G0599,Rotterdam,bestaand,-1,sneltram,235.66,283,,235.660107177973
+1738,G0599,Rotterdam,bestaand,0,tram,163.687,283,,163.686806306441
+1739,G0518,'s-Gravenhage,bestaand,0,tram,15.855,283,,15.8552272187042
+1740,G0518,'s-Gravenhage,bestaand,1,sneltram,4.602,283,,4.60215592877299
+1741,G0518,'s-Gravenhage,bestaand,0,tram,3.243,283,,3.24289531129206
+1742,G0518,'s-Gravenhage,bestaand,0,tram,273.744,283,,273.743511650029
+1743,G0518,'s-Gravenhage,bestaand,1,sneltram,3.043,283,,3.04344311594615
+1744,G0518,'s-Gravenhage,bestaand,0,tram,3.395,283,,3.39541926718925
+1745,G0518,'s-Gravenhage,bestaand,0,sneltram,2.218,283,,2.2180002254283
+1746,G0518,'s-Gravenhage,bestaand,0,sneltram,12.86,283,,12.8598409399183
+1747,G0518,'s-Gravenhage,bestaand,0,tram,80.476,283,,80.4764275723015
+1748,G0518,'s-Gravenhage,bestaand,0,tram,1.896,283,,1.89591270896104
+1749,G0518,'s-Gravenhage,bestaand,0,sneltram,18.45,283,,18.4496803495345
+1750,G0518,'s-Gravenhage,bestaand,0,sneltram,10.024,283,,10.0241464973333
+1751,G0518,'s-Gravenhage,bestaand,0,tram,1.77,283,,1.77046999409761
+1752,G0518,'s-Gravenhage,bestaand,0,tram,3.371,283,,3.37103485594557
+1753,G0518,'s-Gravenhage,bestaand,0,sneltram,7.954,283,,7.95443530365293
+1754,G0637,Zoetermeer,bestaand,0,tram,1180.044,283,,1180.04379624179
+1755,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,61.256,283,,61.2555148537664
+1756,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,282.571,283,,282.57073193981
+1757,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,288.117,283,,288.116683495904
+1758,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,321.478,283,,321.477662715468
+1759,G0518,'s-Gravenhage,bestaand,0,sneltram,4.329,283,,4.32882524479795
+1760,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.306,283,,333.306083336323
+1761,G0518,'s-Gravenhage,bestaand,0,tram,404.676,283,,404.676325026398
+1762,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.276,283,,333.275741308905
+1763,G0518,'s-Gravenhage,bestaand,-1,sneltram,107.002,283,,107.001834937537
+1764,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,333.782,283,,333.78227355718
+1765,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.172,283,,303.171739707051
+1766,G0518,'s-Gravenhage,bestaand,0,sneltram,99.726,283,,99.7157984338357
+1767,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,116.306,283,,116.305967602699
+1768,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.804,283,,302.804479785224
+1769,G0518,'s-Gravenhage,bestaand,0,tram,3.371,283,,3.37127765098041
+1770,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.92,283,,303.920243685741
+1771,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.504,283,,303.503990611326
+1772,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.102,283,,303.10219116496
+1773,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.703,283,,303.702864082642
+1774,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.533,283,,302.53342591522
+1775,G0518,'s-Gravenhage,bestaand,0,tram,3.515,283,,3.51515646877916
+1776,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.749,283,,302.749056707036
+1777,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,125.947,283,,125.946802261907
+1778,G0518,'s-Gravenhage,bestaand,0,tram,3.36,283,,3.36030549206467
+1779,G0518,'s-Gravenhage,bestaand,0,tram,18.408,283,,18.4078289051153
+1780,G0518,'s-Gravenhage,bestaand,0,tram,49.963,283,,49.9629583191388
+1781,G0518,'s-Gravenhage,bestaand,0,tram,59.477,283,,59.4770557442111
+1782,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,334.173,283,,334.173109750022
+1783,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.861,283,,302.860886588216
+1784,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.383,283,,303.382760199059
+1785,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.384,283,,303.383840744691
+1786,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,342.184,283,,342.1843678253
+1787,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,297.489,283,,297.488940206186
+1788,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,292.26,283,,292.259783316145
+1789,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,70.041,283,,70.0405043956709
+1790,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,279.589,283,,279.588759325192
+1791,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.534,283,,303.533937517702
+1792,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.138,283,,303.137649250303
+1793,G0599,Rotterdam,bestaand,0,tram,204.152,283,,204.151825129832
+1794,G0599,Rotterdam,bestaand,0,tram,210.291,283,,210.290761826996
+1795,G0599,Rotterdam,bestaand,0,tram,190.293,283,,190.293263689494
+1796,G0599,Rotterdam,bestaand,0,tram,237.399,283,,237.399311993259
+1797,G0599,Rotterdam,bestaand,1,tram,251.063,283,,251.056666727367
+1798,G0599,Rotterdam,bestaand,0,tram,138.176,283,,138.175652271
+1799,G0599,Rotterdam,bestaand,0,tram,220.282,283,,220.281604421908
+1800,G0599,Rotterdam,bestaand,0,tram,199.74,283,,199.740382321501
+1801,G0518,'s-Gravenhage,bestaand,0,sneltram,68.581,283,,68.5809756277223
+1802,G0518,'s-Gravenhage,bestaand,0,sneltram,6.039,283,,6.03867551703186
+1803,G0518,'s-Gravenhage,bestaand,0,sneltram,26.252,283,,26.2523971285922
+1804,G0518,'s-Gravenhage,bestaand,0,sneltram,70.24,283,,70.2402634634993
+1805,G0518,'s-Gravenhage,bestaand,0,sneltram,31.88,283,,31.8797706128405
+1806,G0518,'s-Gravenhage,bestaand,0,sneltram,5.121,283,,5.1206444906867
+1807,G0518,'s-Gravenhage,bestaand,0,sneltram,6.074,283,,6.07383700802055
+1808,G0599,Rotterdam,bestaand,0,sneltram,58.748,283,,58.7480145944732
+1809,G0599,Rotterdam,bestaand,0,sneltram,20.217,283,,20.2165716430853
+1810,G0599,Rotterdam,bestaand,1,sneltram,74.435,283,,74.4352183738494
+1811,G0599,Rotterdam,bestaand,1,sneltram,74.353,283,,74.3534594357619
+1812,G0603,Rijswijk,bestaand,0,tram,168.451,283,,168.451317276423
+1813,L0004,Prorail,bestaand,0,sneltram,23.729,283,,23.7290954039266
+1814,L0004,Prorail,bestaand,1,sneltram,33.948,283,,33.9478837337469
+1815,G0603,Rijswijk,bestaand,0,tram,18.871,283,,18.870894499664
+1816,G0603,Rijswijk,bestaand,0,tram,296.622,283,,296.621658970606
+1817,G0603,Rijswijk,bestaand,0,tram,3.032,283,,3.03213096621527
+1818,G0603,Rijswijk,bestaand,0,tram,342.766,283,,342.765740496535
+1819,G0363,Amsterdam,bestaand,0,sneltram,6.978,283,,6.97805223540208
+1820,G0363,Amsterdam,bestaand,1,tram,97.258,283,,97.2581939130487
+1821,G0363,Amsterdam,bestaand,0,tram,127.571,283,,127.570138155325
+1822,G0363,Amsterdam,bestaand,0,sneltram,8.277,283,,8.27670375209842
+1823,G0363,Amsterdam,bestaand,0,sneltram,4.623,283,,4.62259234629228
+1824,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,114.782,283,,114.782493874284
+1825,G0599,Rotterdam,bestaand,0,sneltram,8.381,283,,8.38079668050717
+1826,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,135.064,283,,135.063748282061
+1827,G0599,Rotterdam,bestaand,0,sneltram,80.658,283,,80.6579510617769
+1828,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,98.519,283,,98.5192001591568
+1829,G0599,Rotterdam,bestaand,1,sneltram,30.017,283,,30.0171426355008
+1830,G0599,Rotterdam,bestaand,0,sneltram,41.815,283,,41.815364730378
+1831,G0599,Rotterdam,bestaand,1,sneltram,16.418,283,,16.4176155394138
+1832,G0599,Rotterdam,bestaand,0,sneltram,34.571,283,,34.5710068991888
+1833,G0599,Rotterdam,bestaand,0,sneltram,2.56,283,,2.55958531797633
+1834,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,39.168,283,,39.1676432020105
+1835,G0599,Rotterdam,bestaand,0,sneltram,37.696,283,,37.695599172497
+1836,G0599,Rotterdam,bestaand,0,tram,140.043,283,,140.042518753533
+1837,G0599,Rotterdam,bestaand,0,tram,189.572,283,,189.568266351654
+1838,G0599,Rotterdam,bestaand,1,sneltram,8.645,283,,8.64451884143936
+1839,G0599,Rotterdam,bestaand,0,sneltram,49.244,283,,49.2439844960074
+1840,G0599,Rotterdam,bestaand,1,sneltram,6.291,283,,6.29148016032397
+1841,G0599,Rotterdam,bestaand,1,sneltram,31.881,283,,31.8811862698343
+1842,G0599,Rotterdam,bestaand,1,sneltram,25.141,283,,25.1408196662407
+1843,G0599,Rotterdam,bestaand,1,sneltram,57.701,283,,57.7005384807001
+1844,G0599,Rotterdam,bestaand,1,sneltram,101.783,283,,101.783447082519
+1845,G0599,Rotterdam,bestaand,0,sneltram,80.175,283,,80.1751602709731
+1846,G0599,Rotterdam,bestaand,0,sneltram,85.655,283,,85.6547740475888
+1847,G0599,Rotterdam,bestaand,1,sneltram,90.313,283,,90.3130192466209
+1848,G0599,Rotterdam,bestaand,1,sneltram,101.83,283,,101.829853077349
+1849,G0599,Rotterdam,bestaand,0,sneltram,23.822,283,,23.8218056253568
+1850,G0599,Rotterdam,bestaand,0,sneltram,107.506,283,,107.505502886057
+1851,G0599,Rotterdam,bestaand,1,sneltram,20.732,283,,20.7317722663619
+1852,G0599,Rotterdam,bestaand,-1,sneltram,460.286,283,,460.28562692534
+1853,G0606,Schiedam,bestaand,1,sneltram,1.791,283,,1.79147536963253
+1854,G0518,'s-Gravenhage,bestaand,1,tram,34.744,283,,34.7439032925203
+1855,G0518,'s-Gravenhage,bestaand,0,tram,361.545,283,,361.544985685147
+1856,G0518,'s-Gravenhage,bestaand,0,tram,176.437,283,,176.436857682855
+1857,G0599,Rotterdam,bestaand,0,tram,68.95,283,,68.9499597872375
+1858,G0599,Rotterdam,bestaand,0,tram,26.533,283,,26.5330814267774
+1859,G0599,Rotterdam,bestaand,0,tram,18.629,283,,18.6286548360315
+1860,G0599,Rotterdam,bestaand,0,tram,101.458,283,,101.45828645327
+1861,G0599,Rotterdam,bestaand,0,tram,200.515,283,,200.515444991153
+1862,G0599,Rotterdam,bestaand,0,tram,196.099,283,,196.098748200782
+1863,G0599,Rotterdam,bestaand,0,tram,112.749,283,,112.748676739556
+1864,G0599,Rotterdam,bestaand,0,tram,177.52,283,,177.520260431533
+1865,G0599,Rotterdam,bestaand,0,tram,147.907,283,,147.905816974986
+1866,G0599,Rotterdam,bestaand,0,tram,45.917,283,,45.9170662630904
+1867,G0599,Rotterdam,bestaand,0,tram,118.232,283,,118.226510383557
+1868,G0599,Rotterdam,bestaand,0,tram,54.703,283,,54.6928324409081
+1869,G0599,Rotterdam,bestaand,0,tram,49.866,283,,49.8659352805598
+1870,G0599,Rotterdam,bestaand,-1,sneltram,45.862,283,,45.8624598617126
+1871,G0599,Rotterdam,bestaand,0,tram,3.3,283,,3.30034255797788
+1872,G0599,Rotterdam,bestaand,0,tram,103.079,283,,103.078983663014
+1873,G0599,Rotterdam,bestaand,0,tram,101.559,283,,101.555404559826
+1874,G0599,Rotterdam,bestaand,0,tram,92.85,283,,92.8449996886008
+1875,G0599,Rotterdam,bestaand,0,tram,32.956,283,,32.9559962777103
+1876,G0599,Rotterdam,bestaand,1,tram,4.02,283,,4.01954052100486
+1877,G0599,Rotterdam,bestaand,0,tram,304.575,283,,304.574745268296
+1878,G0599,Rotterdam,bestaand,0,tram,134.68,283,,134.680027891802
+1879,G0518,'s-Gravenhage,bestaand,0,tram,9.222,283,,9.22210225490913
+1880,G0518,'s-Gravenhage,bestaand,0,tram,18.353,283,,18.3531902676347
+1881,G0363,Amsterdam,bestaand,0,tram,11.917,283,,11.9128921261285
+1882,G0363,Amsterdam,bestaand,0,sneltram,59.277,283,,59.2766526402988
+1883,G0363,Amsterdam,bestaand,0,sneltram,355.816,283,,355.816188909762
+1884,G0363,Amsterdam,bestaand,0,sneltram,24.736,283,,24.735668193926
+1885,G0518,'s-Gravenhage,bestaand,0,tram,160.135,283,,160.135446549178
+1886,G0518,'s-Gravenhage,bestaand,0,sneltram,6.442,283,,6.44209406947772
+1887,G0518,'s-Gravenhage,bestaand,1,sneltram,0.047,283,,0.0470425339453563
+1888,G0518,'s-Gravenhage,bestaand,0,tram,2.322,283,,2.32182794366852
+1889,G0363,Amsterdam,bestaand,0,sneltram,114.086,283,,114.085883752096
+1890,G0599,Rotterdam,bestaand,0,sneltram,82.525,283,,82.5247624367419
+1891,G0518,'s-Gravenhage,bestaand,0,tram,3.175,283,,3.17494330658045
+1892,G0518,'s-Gravenhage,bestaand,0,sneltram,11.594,283,,11.5944472916996
+1893,G0518,'s-Gravenhage,bestaand,1,sneltram,9.259,283,,9.25855820308972
+1894,G0518,'s-Gravenhage,bestaand,0,tram,2.064,283,,2.06431707835788
+1895,G0518,'s-Gravenhage,bestaand,0,tram,1.875,283,,1.8750114666316
+1896,G0518,'s-Gravenhage,bestaand,0,tram,3.288,283,,3.28843503812984
+1897,G0518,'s-Gravenhage,bestaand,0,tram,40.263,283,,40.2625007832896
+1898,G0518,'s-Gravenhage,bestaand,0,tram,3.245,283,,3.2451397504576
+1899,G0518,'s-Gravenhage,bestaand,0,tram,11.981,283,,11.9812508385037
+1900,G0518,'s-Gravenhage,bestaand,0,tram,45.655,283,,45.6549329518687
+1901,G0518,'s-Gravenhage,bestaand,0,tram,286.945,283,,286.944622712458
+1902,G0518,'s-Gravenhage,bestaand,0,tram,15.855,283,,15.8547885245569
+1903,G0518,'s-Gravenhage,bestaand,1,sneltram,4.607,283,,4.60664935426255
+1904,G0518,'s-Gravenhage,bestaand,0,tram,125.982,283,,125.982471254297
+1905,G0518,'s-Gravenhage,bestaand,-1,tram,13.438,283,,13.4379803167088
+1906,G0518,'s-Gravenhage,bestaand,0,tram,3.243,283,,3.24292213905915
+1907,G0518,'s-Gravenhage,bestaand,0,tram,8.592,283,,8.5919538868836
+1908,G0518,'s-Gravenhage,bestaand,-1,tram,18.555,283,,18.554781591606
+1909,G0518,'s-Gravenhage,bestaand,1,tram,11.847,283,,11.8466623569679
+1910,G0518,'s-Gravenhage,bestaand,0,tram,11.895,283,,11.8945590319437
+1911,G0518,'s-Gravenhage,bestaand,1,sneltram,0.179,283,,0.179201004461471
+1912,G0518,'s-Gravenhage,bestaand,0,tram,179.493,283,,179.492552151715
+1913,G0518,'s-Gravenhage,bestaand,1,sneltram,3.083,283,,3.08279483585918
+1914,G0518,'s-Gravenhage,bestaand,0,sneltram,10.87,283,,10.8704219789298
+1915,G0518,'s-Gravenhage,bestaand,0,tram,11.752,283,,11.7524879229924
+1916,G0518,'s-Gravenhage,bestaand,1,sneltram,8.777,283,,8.77682909711702
+1917,G0518,'s-Gravenhage,bestaand,0,tram,2.491,283,,2.49082737258125
+1918,G0518,'s-Gravenhage,bestaand,0,tram,3.396,283,,3.39597011176483
+1919,G0518,'s-Gravenhage,bestaand,0,tram,3.515,283,,3.51500227595943
+1920,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,203.205,283,,203.204804323126
+1921,G0518,'s-Gravenhage,bestaand,1,sneltram,44.626,283,,44.6263041714189
+1922,G0518,'s-Gravenhage,bestaand,0,sneltram,250.552,283,,250.55231342102
+1923,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,288.101,283,,288.101235679405
+1924,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,311.866,283,,311.86613834304
+1925,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,161.912,283,,161.912218022606
+1926,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,344.211,283,,344.210856460106
+1927,G0518,'s-Gravenhage,bestaand,0,tram,120.366,283,,120.365564742887
+1928,G0518,'s-Gravenhage,bestaand,0,sneltram,13.549,283,,13.5491301991488
+1929,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,302.085,283,,302.085125461351
+1930,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,245.228,283,,245.227941311752
+1931,G0518,'s-Gravenhage,bestaand,0,sneltram,28.763,283,,28.7625359456368
+1932,G0518,'s-Gravenhage,bestaand,0,sneltram,43.855,283,,43.8554920848005
+1933,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,490.005,283,,490.004921200798
+1934,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1935,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,108.373,283,,108.37250297008
+1936,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,328.265,283,,328.264749153789
+1937,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,63.989,283,,63.9887608959573
+1938,G0599,Rotterdam,bestaand,1,niet-bgt: (haven)kraan,169.008,283,,169.007638288925
+1939,G0518,'s-Gravenhage,bestaand,1,tram,4.549,283,,4.54909441537544
+1940,G0518,'s-Gravenhage,bestaand,0,sneltram,18.527,283,,18.5274121236615
+1941,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,1.404,283,,1.40417235416594
+1942,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,307.216,283,,307.216066575301
+1943,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,169.116,283,,169.116076592381
+1944,G0637,Zoetermeer,bestaand,1,tram,154.051,283,,154.050580435464
+1945,G0603,Rijswijk,bestaand,0,tram,17.65,283,,17.6496298751399
+1946,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,171.63,283,,171.629774806122
+1947,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1948,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,623.98,283,,623.980033304595
+1949,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,303.509,283,,303.50860720744
+1950,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,285.482,283,,285.481734233558
+1951,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,297.177,283,,297.177211207387
+1952,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+1953,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.379331394451
+1954,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.732,283,,347.732176758206
+1955,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1956,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1957,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.378711997476
+1958,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,347.733,283,,347.733158571339
+1959,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1960,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.38,283,,352.380116472255
+1961,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,352.379,283,,352.37949707666
+1962,G0518,'s-Gravenhage,bestaand,0,sneltram,178.86,283,,178.859596979018
+1963,G0518,'s-Gravenhage,bestaand,0,sneltram,17.934,283,,17.9342921800667
+1964,G0518,'s-Gravenhage,bestaand,1,sneltram,22.529,283,,22.5294445169781
+1965,G0518,'s-Gravenhage,bestaand,0,sneltram,13.761,283,,13.7605640872749
+1966,G0518,'s-Gravenhage,bestaand,1,sneltram,6.807,283,,6.80701190594637
+1967,G0518,'s-Gravenhage,bestaand,1,sneltram,4.679,283,,4.67933606401592
+1968,G0518,'s-Gravenhage,bestaand,0,sneltram,3.466,283,,3.46646361584829
+1969,G0518,'s-Gravenhage,bestaand,0,sneltram,148.054,283,,148.053632102372
+1970,G0518,'s-Gravenhage,bestaand,1,sneltram,7.109,283,,7.10874965192182
+1971,G0518,'s-Gravenhage,bestaand,0,sneltram,4.893,283,,4.89276864362091
+1972,G0518,'s-Gravenhage,bestaand,0,sneltram,129.898,283,,129.897792249293
+1973,G0599,Rotterdam,bestaand,0,tram,3.782,283,,3.78249706423078
+1974,G0518,'s-Gravenhage,bestaand,0,tram,9.137,283,,9.13737697591601
+1975,L0004,Prorail,bestaand,1,sneltram,33.942,283,,33.9415412879262
+1976,L0004,Prorail,bestaand,1,sneltram,11.047,283,,11.0470083455185
+1977,L0004,Prorail,bestaand,1,sneltram,7.914,283,,7.91406456885462
+1978,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,241.713,283,,241.712909047076
+1979,G0599,Rotterdam,bestaand,0,sneltram,39.6,283,,39.5997734624303
+1980,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,72.007,283,,72.0069802171984
+1981,G0599,Rotterdam,bestaand,0,sneltram,236.582,283,,236.579869303907
+1982,G0599,Rotterdam,bestaand,0,sneltram,20.673,283,,20.6733570084783
+1983,G0599,Rotterdam,bestaand,0,niet-bgt: (haven)kraan,330.108,283,,330.107656265346
+1984,G0599,Rotterdam,bestaand,0,tram,52.808,283,,52.7966109269915
+1985,G0599,Rotterdam,bestaand,1,sneltram,14.689,283,,14.6888869557908
+1986,G0599,Rotterdam,bestaand,1,sneltram,2.07,283,,2.07005434711265
+1987,L0004,Prorail,bestaand,0,sneltram,164.887,283,,164.887410187946
+1988,G0622,Vlaardingen,bestaand,0,sneltram,886.316,283,,886.312558752773
+1989,G0606,Schiedam,bestaand,2,sneltram,3.149,283,,3.14915163178911
+1990,G0599,Rotterdam,bestaand,0,tram,12.202,283,,12.2021288923836
+1991,G0599,Rotterdam,bestaand,0,tram,12.181,283,,12.1810269897706
+1992,G0599,Rotterdam,bestaand,0,tram,11.43,283,,11.4292328717125
+1993,G0599,Rotterdam,bestaand,0,tram,43.464,283,,43.4602837762423
+1994,G0599,Rotterdam,bestaand,0,tram,45.431,283,,45.4289042182599
+1995,G0599,Rotterdam,bestaand,0,tram,6.274,283,,6.27352238298666
+1996,G0599,Rotterdam,bestaand,0,tram,12.245,283,,12.2454635681954
+1997,G0599,Rotterdam,bestaand,0,tram,5.459,283,,5.45834914372816
+1998,G0599,Rotterdam,bestaand,0,tram,47.419,283,,47.4165916842765
+1999,G0599,Rotterdam,bestaand,0,tram,69.05,283,,69.048607369502

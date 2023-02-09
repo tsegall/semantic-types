@@ -1,0 +1,841 @@
+,Jaar,Stroom,COROPplus_nr,COROPplus_naam,Goederengroep_nr,Goederengroep_naam,Waarde,Brutogew,Sf_waarde,Sf_brutogew
+50,2015,Aanbod_eigen_regio,26,Amsterdam,1,Land- en tuinbouwproducten,373.6209945,238.6449937,141.4597405,106.0924986
+51,2015,Aanbod_eigen_regio,26,Amsterdam,2,Bosbouwproducten,1.751407497,5.816485279,0.299131428,0.722241029
+52,2015,Aanbod_eigen_regio,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",28.2025729,24.48220842,5.214207106,2.372284766
+53,2015,Aanbod_eigen_regio,26,Amsterdam,4,"Voedsel, plantaardig",68.09368932,62.24047776,19.66920227,18.64099499
+54,2015,Aanbod_eigen_regio,26,Amsterdam,5,"Voedsel, dierlijk",177.6674613,69.07911533,27.01936536,10.45726874
+55,2015,Aanbod_eigen_regio,26,Amsterdam,6,"Voedsel, overig",884.5465685,566.4346651,309.7768884,106.3427713
+56,2015,Aanbod_eigen_regio,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",0.444207054,1.55207314,0.253105456,0.818555713
+57,2015,Aanbod_eigen_regio,26,Amsterdam,8,Cokes en aardolieproducten,53.60725874,77.04650133,31.32204185,41.71107318
+58,2015,Aanbod_eigen_regio,26,Amsterdam,9,Ertsen,0.185142273,0.138389418,0.15711548,0.125396557
+59,2015,Aanbod_eigen_regio,26,Amsterdam,10,"Zout, zand, grind, klei",24.41199894,373.7212243,8.842607269,122.5280259
+60,2015,Aanbod_eigen_regio,26,Amsterdam,11,Overige minerale producten,170.4614357,306.9726757,89.17831232,108.973395
+61,2015,Aanbod_eigen_regio,26,Amsterdam,12,Chemische producten en kunstmest,228.7316837,253.0828764,49.93876592,51.91632919
+62,2015,Aanbod_eigen_regio,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,303.752324,37.69428815,68.14814492,5.059271032
+63,2015,Aanbod_eigen_regio,26,Amsterdam,14,"Kunststoffen, rubber",177.3648894,57.87983453,40.17053657,11.89606398
+64,2015,Aanbod_eigen_regio,26,Amsterdam,15,Basismetalen en basismetaalproducten,114.7159331,59.567671,79.57021672,36.87612101
+65,2015,Aanbod_eigen_regio,26,Amsterdam,16,Metaalproducten,123.5468906,34.6719106,23.98502539,4.095915741
+66,2015,Aanbod_eigen_regio,26,Amsterdam,17,Machines en apparaten voor de industrie,453.4421418,64.5048718,217.4896828,30.7638042
+67,2015,Aanbod_eigen_regio,26,Amsterdam,18,Overige machines en apparaten,2849.938418,33.81593172,388.3681245,6.53620021
+68,2015,Aanbod_eigen_regio,26,Amsterdam,19,Transportmiddelen,288.3089265,34.93061473,170.7279635,18.89279059
+69,2015,Aanbod_eigen_regio,26,Amsterdam,20,Textiel,168.9302458,32.0700094,22.20658221,3.620081674
+70,2015,Aanbod_eigen_regio,26,Amsterdam,21,"Kleding, bont en leer",61.29451175,3.652396172,38.02448629,2.353141245
+71,2015,Aanbod_eigen_regio,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",68.2241165,75.27512083,15.12075324,16.52527605
+72,2015,Aanbod_eigen_regio,26,Amsterdam,23,Meubels,86.37151193,19.44690024,8.60112055,1.978638555
+74,2015,Aanbod_eigen_regio,26,Amsterdam,25,Overige goederen,560.6620613,108.1781579,103.1145893,16.8287063
+400,2015,Distributie,26,Amsterdam,1,Land- en tuinbouwproducten,863.4479445,412.2094923,212.2337055,116.8777624
+401,2015,Distributie,26,Amsterdam,2,Bosbouwproducten,0.147981536,0.605972582,0.409316792,0.850172474
+402,2015,Distributie,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",4.077220256,2.03162489,6.389938413,2.95588059
+403,2015,Distributie,26,Amsterdam,4,"Voedsel, plantaardig",19.75657958,20.32226741,22.23717062,19.61293282
+404,2015,Distributie,26,Amsterdam,5,"Voedsel, dierlijk",19.54545131,9.455163774,34.28678512,11.8262066
+405,2015,Distributie,26,Amsterdam,6,"Voedsel, overig",832.0422344,134.1373334,372.6474915,117.5117183
+406,2015,Distributie,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",0.438799328,1.677653725,0.399180011,0.905666782
+407,2015,Distributie,26,Amsterdam,8,Cokes en aardolieproducten,56.35032126,73.02315317,34.04552577,43.22473757
+408,2015,Distributie,26,Amsterdam,9,Ertsen,0.203873642,0.215315594,0.256995673,0.230780592
+409,2015,Distributie,26,Amsterdam,10,"Zout, zand, grind, klei",16.76423545,356.4360583,10.10453305,134.4709304
+410,2015,Distributie,26,Amsterdam,11,Overige minerale producten,676.214338,717.8457236,137.8404976,133.6837812
+411,2015,Distributie,26,Amsterdam,12,Chemische producten en kunstmest,53.17450524,56.2104909,59.17918964,56.39566341
+412,2015,Distributie,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,69.42075963,4.64606304,79.99171424,5.886127616
+413,2015,Distributie,26,Amsterdam,14,"Kunststoffen, rubber",70.60841908,17.21413115,49.20171983,13.08633602
+414,2015,Distributie,26,Amsterdam,15,Basismetalen en basismetaalproducten,240.1209145,82.70347599,91.09809712,38.38031143
+415,2015,Distributie,26,Amsterdam,16,Metaalproducten,24.02891098,3.79458135,28.93919349,4.885664638
+416,2015,Distributie,26,Amsterdam,17,Machines en apparaten voor de industrie,771.230057,106.4791617,264.8857336,33.33921963
+417,2015,Distributie,26,Amsterdam,18,Overige machines en apparaten,242.869912,6.179393774,505.0670181,7.159445287
+418,2015,Distributie,26,Amsterdam,19,Transportmiddelen,447.7047357,47.63258011,193.6579962,19.86988441
+419,2015,Distributie,26,Amsterdam,20,Textiel,14.51767959,2.896272759,29.06031174,4.360057281
+420,2015,Distributie,26,Amsterdam,21,"Kleding, bont en leer",194.0339271,9.510104456,49.47866443,2.553176548
+421,2015,Distributie,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",13.81642146,17.17100496,17.72800115,17.84489013
+422,2015,Distributie,26,Amsterdam,23,Meubels,4.419205081,1.667636418,11.80070314,2.428451172
+424,2015,Distributie,26,Amsterdam,25,Overige goederen,96.03127178,23.75105388,125.7569272,19.24326748
+750,2015,Doorvoer,26,Amsterdam,1,Land- en tuinbouwproducten,829.0954099,492.6064088,539.9016268,522.9482915
+751,2015,Doorvoer,26,Amsterdam,2,Bosbouwproducten,0.522621722,3.007949705,5.807331958,7.188160934
+752,2015,Doorvoer,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",9.138306896,4.745104538,71.26151404,13.84377808
+753,2015,Doorvoer,26,Amsterdam,4,"Voedsel, plantaardig",443.3263283,948.1144861,378.6507327,631.5699986
+754,2015,Doorvoer,26,Amsterdam,5,"Voedsel, dierlijk",95.48021848,54.10746273,238.7311272,134.6861399
+755,2015,Doorvoer,26,Amsterdam,6,"Voedsel, overig",958.4121447,489.0774269,894.252253,680.334828
+756,2015,Doorvoer,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",810.980605,11557.72286,190.7214935,2040.223333
+757,2015,Doorvoer,26,Amsterdam,8,Cokes en aardolieproducten,7807.271752,19375.02701,2110.275884,4116.52059
+758,2015,Doorvoer,26,Amsterdam,9,Ertsen,12.62589871,131.303818,52.57815674,471.4021925
+759,2015,Doorvoer,26,Amsterdam,10,"Zout, zand, grind, klei",157.6603877,3595.6284,55.54632067,1114.562185
+760,2015,Doorvoer,26,Amsterdam,11,Overige minerale producten,360.3089622,536.3218808,312.2342547,397.78045
+761,2015,Doorvoer,26,Amsterdam,12,Chemische producten en kunstmest,2828.213684,2638.48683,882.9931601,921.6217472
+762,2015,Doorvoer,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,2220.864061,36.020025,1376.052977,83.08236027
+763,2015,Doorvoer,26,Amsterdam,14,"Kunststoffen, rubber",81.67569012,72.48300511,211.2337458,81.40087289
+764,2015,Doorvoer,26,Amsterdam,15,Basismetalen en basismetaalproducten,1990.788366,1241.395993,557.3720889,328.7458163
+765,2015,Doorvoer,26,Amsterdam,16,Metaalproducten,157.7598274,19.02767371,217.3466921,31.78593559
+766,2015,Doorvoer,26,Amsterdam,17,Machines en apparaten voor de industrie,842.5042294,120.533282,778.4455749,111.3917147
+767,2015,Doorvoer,26,Amsterdam,18,Overige machines en apparaten,2557.535044,61.76793445,4882.040755,93.54560151
+768,2015,Doorvoer,26,Amsterdam,19,Transportmiddelen,6101.965111,217.7293441,1567.828366,90.58267529
+769,2015,Doorvoer,26,Amsterdam,20,Textiel,212.7531948,22.47750089,249.2113588,25.14147057
+770,2015,Doorvoer,26,Amsterdam,21,"Kleding, bont en leer",1187.064098,38.41830861,414.8710201,16.28002626
+771,2015,Doorvoer,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",53.902938,93.48088953,128.7453298,195.0243042
+772,2015,Doorvoer,26,Amsterdam,23,Meubels,19.64237432,6.987753206,48.79159876,12.81663228
+774,2015,Doorvoer,26,Amsterdam,25,Overige goederen,1989.676542,176.9781631,901.3417367,79.93101521
+1100,2015,Invoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,2016.6123,3038.252084,358.881647,418.8264114
+1101,2015,Invoer_internationaal,26,Amsterdam,2,Bosbouwproducten,10.9797102,18.67649741,5.574980758,5.513086892
+1102,2015,Invoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",140.5226511,94.71613744,12.82345971,8.243994192
+1103,2015,Invoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",347.3089376,583.9647426,119.7429643,184.9124055
+1104,2015,Invoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",648.3044237,365.8444906,111.7237223,107.3033588
+1105,2015,Invoer_internationaal,26,Amsterdam,6,"Voedsel, overig",1184.839731,2044.546327,452.3088781,516.4602083
+1106,2015,Invoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",486.111594,6565.688825,110.4071846,1487.711615
+1107,2015,Invoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,3656.413848,7809.765717,1001.184915,2428.857765
+1108,2015,Invoer_internationaal,26,Amsterdam,9,Ertsen,308.5692892,3445.933484,42.40277267,413.2177839
+1109,2015,Invoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",99.97440555,2718.734698,28.91611139,763.034238
+1110,2015,Invoer_internationaal,26,Amsterdam,11,Overige minerale producten,106.969115,952.3684921,95.20490685,278.8540565
+1111,2015,Invoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,1422.478929,2795.567205,434.3797242,619.5217961
+1112,2015,Invoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,2334.317789,382.4236743,468.6792682,59.3461494
+1113,2015,Invoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",1315.790385,342.4604806,123.7702523,60.96793704
+1114,2015,Invoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1250.443667,700.8086529,307.7892074,193.4915889
+1115,2015,Invoer_internationaal,26,Amsterdam,16,Metaalproducten,325.640965,72.94048788,72.24222282,15.56772776
+1116,2015,Invoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,2920.748584,488.6068768,466.8363458,82.21332797
+1117,2015,Invoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,8994.394066,265.372912,1364.827966,69.29218596
+1118,2015,Invoer_internationaal,26,Amsterdam,19,Transportmiddelen,2225.975217,266.645461,728.6051417,57.32860595
+1119,2015,Invoer_internationaal,26,Amsterdam,20,Textiel,155.1511937,48.05985941,73.52801555,10.23781934
+1120,2015,Invoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",1588.974523,76.6917353,255.3678923,13.23474374
+1121,2015,Invoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",437.4601703,486.3441189,66.46615103,141.5442273
+1122,2015,Invoer_internationaal,26,Amsterdam,23,Meubels,220.8056871,37.67517787,29.07649805,10.03977026
+1124,2015,Invoer_internationaal,26,Amsterdam,25,Overige goederen,303.1382871,62.89907218,209.8200604,34.33543444
+1450,2015,Invoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,1203.322527,1827.84834,350.1806915,409.78554
+1451,2015,Invoer_regionaal,26,Amsterdam,2,Bosbouwproducten,3.222668967,12.00717977,1.277662209,4.693391868
+1452,2015,Invoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",39.31166526,29.01353933,9.835218502,4.12441399
+1453,2015,Invoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",747.597172,656.6892611,157.1451963,317.4353955
+1454,2015,Invoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",897.1438947,290.7414807,174.7782664,110.38861
+1455,2015,Invoer_regionaal,26,Amsterdam,6,"Voedsel, overig",2019.270135,2222.318055,462.8468306,536.2643184
+1456,2015,Invoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",362.2391941,4923.598033,110.6096443,1533.718445
+1457,2015,Invoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,1562.504841,4412.825138,928.9132913,2326.713798
+1458,2015,Invoer_regionaal,26,Amsterdam,9,Ertsen,113.6583371,2149.796329,35.71007299,457.9212312
+1459,2015,Invoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",96.01266594,3345.365243,30.03960001,815.1619758
+1460,2015,Invoer_regionaal,26,Amsterdam,11,Overige minerale producten,427.9031441,1088.954322,184.5268301,293.721806
+1461,2015,Invoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,805.702879,1570.325643,348.7283797,577.1304184
+1462,2015,Invoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,1005.925154,197.7997131,398.1236905,59.74441668
+1463,2015,Invoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",505.2289558,260.8760622,116.1567878,56.77374438
+1464,2015,Invoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,384.5713206,260.871442,204.4351364,138.819492
+1465,2015,Invoer_regionaal,26,Amsterdam,16,Metaalproducten,514.3990626,86.32073614,112.2821866,18.79078455
+1466,2015,Invoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,1868.565735,316.0983701,474.1406791,76.28867837
+1467,2015,Invoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,9944.252138,154.5292991,1950.674983,67.26998184
+1468,2015,Invoer_regionaal,26,Amsterdam,19,Transportmiddelen,1836.979547,180.7680255,735.8174485,53.67271031
+1469,2015,Invoer_regionaal,26,Amsterdam,20,Textiel,688.920881,68.29827704,138.36989,17.04048147
+1470,2015,Invoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",304.4159488,15.88874271,172.6571098,8.416046936
+1471,2015,Invoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",451.4218856,358.6464765,91.95539517,149.1572514
+1472,2015,Invoer_regionaal,26,Amsterdam,23,Meubels,113.841272,31.7417017,24.70945757,8.858879886
+1474,2015,Invoer_regionaal,26,Amsterdam,25,Overige goederen,2110.005544,293.8981956,441.6855082,56.96691458
+1800,2015,Uitvoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,1670.570527,901.8571267,223.745611,210.2007568
+1801,2015,Uitvoer_internationaal,26,Amsterdam,2,Bosbouwproducten,2.475565928,6.141846927,0.770088475,4.701281254
+1802,2015,Uitvoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",211.5394279,39.94203423,70.80047439,10.77024365
+1803,2015,Uitvoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",875.2638066,1700.141743,258.1637702,463.1351647
+1804,2015,Uitvoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",885.1697502,257.1772775,126.7010895,69.13086614
+1805,2015,Uitvoer_internationaal,26,Amsterdam,6,"Voedsel, overig",2165.019344,1452.07701,490.6116152,352.4232388
+1806,2015,Uitvoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",846.5372688,3170.580344,120.5237465,972.3987531
+1807,2015,Uitvoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,6421.217309,12525.53793,1308.66005,2850.076003
+1808,2015,Uitvoer_internationaal,26,Amsterdam,9,Ertsen,57.53200579,79.26057061,7.138587256,22.3032694
+1809,2015,Uitvoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",60.74989656,177.3932139,26.8303019,162.7476766
+1810,2015,Uitvoer_internationaal,26,Amsterdam,11,Overige minerale producten,75.36800251,105.2296792,64.13046028,87.20143951
+1811,2015,Uitvoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,2141.087666,2490.479094,548.7859424,554.8159462
+1812,2015,Uitvoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,6232.800826,173.2897161,912.5032663,49.65440153
+1813,2015,Uitvoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",791.2850044,87.94109332,132.6136372,50.05059295
+1814,2015,Uitvoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1502.287252,1386.848707,326.2171267,231.7160005
+1815,2015,Uitvoer_internationaal,26,Amsterdam,16,Metaalproducten,772.3018585,108.5144344,152.8189765,24.80100671
+1816,2015,Uitvoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,3136.15099,302.1841901,389.0438637,65.51031918
+1817,2015,Uitvoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,14234.51256,218.7819726,2978.104523,43.25790078
+1818,2015,Uitvoer_internationaal,26,Amsterdam,19,Transportmiddelen,2036.841034,258.7572369,849.6854013,54.51961205
+1819,2015,Uitvoer_internationaal,26,Amsterdam,20,Textiel,473.8665795,53.10630405,155.6448211,15.37155176
+1820,2015,Uitvoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",1054.835315,37.3752212,229.9047235,10.50388559
+1821,2015,Uitvoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",534.1087812,419.7612783,70.39281611,110.8353386
+1822,2015,Uitvoer_internationaal,26,Amsterdam,23,Meubels,156.6792971,23.47336477,21.72268035,7.55892039
+1824,2015,Uitvoer_internationaal,26,Amsterdam,25,Overige goederen,668.9722662,60.37349846,380.4674123,32.86713521
+2150,2015,Uitvoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,570.9206376,415.0002386,162.4343033,121.4567529
+2151,2015,Uitvoer_regionaal,26,Amsterdam,2,Bosbouwproducten,2.594372775,15.08653047,0.63309442,4.789427048
+2152,2015,Uitvoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",52.3803251,34.86290294,18.75406404,10.40847435
+2153,2015,Uitvoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",1463.297265,3243.764696,270.2901214,496.4728961
+2154,2015,Uitvoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",599.651109,248.946204,125.3775346,70.02981568
+2155,2015,Uitvoer_regionaal,26,Amsterdam,6,"Voedsel, overig",2059.976685,1468.486399,461.250578,339.3046874
+2156,2015,Uitvoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",310.7268939,1632.802503,80.47897575,685.2101984
+2157,2015,Uitvoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,1784.554395,3948.149179,1090.816228,2208.683394
+2158,2015,Uitvoer_regionaal,26,Amsterdam,9,Ertsen,3.24646608,16.08835091,2.693911653,12.40550711
+2159,2015,Uitvoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",177.5631321,2749.318844,31.38694528,749.1616233
+2160,2015,Uitvoer_regionaal,26,Amsterdam,11,Overige minerale producten,436.1869785,745.9668399,165.4078149,189.9370712
+2161,2015,Uitvoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,1352.521974,1457.693489,521.1522001,515.4060833
+2162,2015,Uitvoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,4139.582301,127.0701332,961.710754,45.4261128
+2163,2015,Uitvoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",262.6028334,117.9114635,60.15399546,32.31847445
+2164,2015,Uitvoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,577.0400174,398.4548291,284.5183155,204.9423104
+2165,2015,Uitvoer_regionaal,26,Amsterdam,16,Metaalproducten,687.4493477,75.46892497,144.2055246,23.41733727
+2166,2015,Uitvoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,895.6785505,132.853106,282.7357906,38.53118043
+2167,2015,Uitvoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,30185.14673,220.5440111,4017.594221,65.42250329
+2168,2015,Uitvoer_regionaal,26,Amsterdam,19,Transportmiddelen,1916.961885,175.4915789,893.0829261,53.93533386
+2169,2015,Uitvoer_regionaal,26,Amsterdam,20,Textiel,1182.26092,79.69815422,177.7837799,21.84467886
+2170,2015,Uitvoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",395.809522,16.92174056,203.4239134,7.097836481
+2171,2015,Uitvoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",398.9379465,398.2966634,69.16444455,113.7756564
+2172,2015,Uitvoer_regionaal,26,Amsterdam,23,Meubels,209.563839,33.72298948,37.19009811,7.817670995
+2174,2015,Uitvoer_regionaal,26,Amsterdam,25,Overige goederen,5882.11,270.5639682,701.9574882,68.34792943
+2500,2016,Aanbod_eigen_regio,26,Amsterdam,1,Land- en tuinbouwproducten,192.4130244,128.398181,79.42422696,56.82132282
+2501,2016,Aanbod_eigen_regio,26,Amsterdam,2,Bosbouwproducten,1.505446223,3.906128106,0.31989988,0.500107436
+2502,2016,Aanbod_eigen_regio,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",4.384989204,5.425228163,2.094495502,0.946085179
+2503,2016,Aanbod_eigen_regio,26,Amsterdam,4,"Voedsel, plantaardig",86.09315561,67.77157078,16.49697265,21.71298725
+2504,2016,Aanbod_eigen_regio,26,Amsterdam,5,"Voedsel, dierlijk",36.94708079,16.04009374,13.10816044,5.869877037
+2505,2016,Aanbod_eigen_regio,26,Amsterdam,6,"Voedsel, overig",729.05378,502.6917245,264.2189793,92.16661381
+2506,2016,Aanbod_eigen_regio,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",110.440767,176.6217831,12.32864077,31.5402843
+2507,2016,Aanbod_eigen_regio,26,Amsterdam,8,Cokes en aardolieproducten,54.31026085,82.41579915,27.30913958,40.12735212
+2508,2016,Aanbod_eigen_regio,26,Amsterdam,9,Ertsen,0.182821569,0.136755435,0.155623076,0.123323713
+2509,2016,Aanbod_eigen_regio,26,Amsterdam,10,"Zout, zand, grind, klei",68.55282363,1109.21498,14.33460978,255.8107253
+2510,2016,Aanbod_eigen_regio,26,Amsterdam,11,Overige minerale producten,180.6638869,402.7135771,71.67271373,132.9485755
+2511,2016,Aanbod_eigen_regio,26,Amsterdam,12,Chemische producten en kunstmest,63.85180616,81.02750491,26.76300633,35.93070498
+2512,2016,Aanbod_eigen_regio,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,48.00572871,5.856819784,17.24089974,2.649553042
+2513,2016,Aanbod_eigen_regio,26,Amsterdam,14,"Kunststoffen, rubber",165.8879261,73.01874089,50.6459107,20.26105185
+2514,2016,Aanbod_eigen_regio,26,Amsterdam,15,Basismetalen en basismetaalproducten,79.00205019,58.17823716,48.50665402,36.57905405
+2515,2016,Aanbod_eigen_regio,26,Amsterdam,16,Metaalproducten,87.6131746,24.00808655,20.20884205,3.489432287
+2516,2016,Aanbod_eigen_regio,26,Amsterdam,17,Machines en apparaten voor de industrie,382.782303,58.72262991,192.2820068,31.24168556
+2517,2016,Aanbod_eigen_regio,26,Amsterdam,18,Overige machines en apparaten,1307.732584,24.71042608,364.5188292,5.328635003
+2518,2016,Aanbod_eigen_regio,26,Amsterdam,19,Transportmiddelen,294.3779453,42.78094403,174.338804,18.08729195
+2519,2016,Aanbod_eigen_regio,26,Amsterdam,20,Textiel,44.65183941,10.26537564,11.73820687,1.818273483
+2520,2016,Aanbod_eigen_regio,26,Amsterdam,21,"Kleding, bont en leer",117.4386558,6.450993096,53.13796489,2.922646982
+2521,2016,Aanbod_eigen_regio,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",34.52985838,47.65519813,11.02870501,14.76433673
+2522,2016,Aanbod_eigen_regio,26,Amsterdam,23,Meubels,23.64116423,5.982513074,5.301690604,1.471437757
+2524,2016,Aanbod_eigen_regio,26,Amsterdam,25,Overige goederen,222.8727116,82.38694664,43.4088601,11.32168226
+2850,2016,Distributie,26,Amsterdam,1,Land- en tuinbouwproducten,128.2335739,86.95415194,88.09369248,58.96667046
+2851,2016,Distributie,26,Amsterdam,2,Bosbouwproducten,0.212641521,0.426440114,0.428168905,0.58990972
+2852,2016,Distributie,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",2.894481931,0.898613982,2.271026764,1.049933444
+2853,2016,Distributie,26,Amsterdam,4,"Voedsel, plantaardig",14.62034257,26.22581076,19.87827807,22.78754855
+2854,2016,Distributie,26,Amsterdam,5,"Voedsel, dierlijk",14.03976189,6.993462692,14.4668925,6.108678876
+2855,2016,Distributie,26,Amsterdam,6,"Voedsel, overig",577.6142893,112.1945139,309.854868,101.9430279
+2856,2016,Distributie,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",5.549109903,31.31063894,16.64928688,34.77768802
+2857,2016,Distributie,26,Amsterdam,8,Cokes en aardolieproducten,47.98475276,69.89315854,29.83936091,41.65520327
+2858,2016,Distributie,26,Amsterdam,9,Ertsen,0.201901791,0.210589996,0.256065419,0.228561445
+2859,2016,Distributie,26,Amsterdam,10,"Zout, zand, grind, klei",62.94922038,1329.030799,21.84845755,316.1939906
+2860,2016,Distributie,26,Amsterdam,11,Overige minerale producten,592.2896647,1031.037209,119.8230536,171.6477445
+2861,2016,Distributie,26,Amsterdam,12,Chemische producten en kunstmest,34.14113948,49.75610206,29.1640409,37.23413821
+2862,2016,Distributie,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,20.12435126,3.648018988,19.04911223,2.742101166
+2863,2016,Distributie,26,Amsterdam,14,"Kunststoffen, rubber",97.41631054,42.72501247,59.75120687,21.99218293
+2864,2016,Distributie,26,Amsterdam,15,Basismetalen en basismetaalproducten,99.22070553,80.35007221,53.17463425,38.01995777
+2865,2016,Distributie,26,Amsterdam,16,Metaalproducten,19.16819932,3.293780511,23.52245847,3.986651556
+2866,2016,Distributie,26,Amsterdam,17,Machines en apparaten voor de industrie,483.8742235,85.58191528,219.476731,33.03632191
+2867,2016,Distributie,26,Amsterdam,18,Overige machines en apparaten,355.6676014,5.37570235,411.4965446,5.761437781
+2868,2016,Distributie,26,Amsterdam,19,Transportmiddelen,337.5336932,29.06172849,190.9921586,18.86710644
+2869,2016,Distributie,26,Amsterdam,20,Textiel,11.05121025,1.666660585,13.38204633,2.013096359
+2870,2016,Distributie,26,Amsterdam,21,"Kleding, bont en leer",261.9379205,15.16302426,71.18357692,3.341265417
+2871,2016,Distributie,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",11.45842083,16.75748054,12.30296681,15.4852689
+2872,2016,Distributie,26,Amsterdam,23,Meubels,5.054456794,1.628478108,6.193601404,1.574889754
+2874,2016,Distributie,26,Amsterdam,25,Overige goederen,37.49903942,12.19783793,52.23601374,13.08157858
+3200,2016,Doorvoer,26,Amsterdam,1,Land- en tuinbouwproducten,557.1673089,315.1751376,456.6425193,411.720083
+3201,2016,Doorvoer,26,Amsterdam,2,Bosbouwproducten,1.220973013,3.86889013,4.759675479,7.87618069
+3202,2016,Doorvoer,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",19.88109845,4.25509597,51.94118756,11.23386174
+3203,2016,Doorvoer,26,Amsterdam,4,"Voedsel, plantaardig",220.6733079,633.1568047,240.6047055,534.0045716
+3204,2016,Doorvoer,26,Amsterdam,5,"Voedsel, dierlijk",67.77420658,52.03347506,239.0899806,130.0223502
+3205,2016,Doorvoer,26,Amsterdam,6,"Voedsel, overig",1612.426052,375.3461865,892.3658381,596.0604375
+3206,2016,Doorvoer,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",739.8622525,10777.8259,184.3471167,1946.233374
+3207,2016,Doorvoer,26,Amsterdam,8,Cokes en aardolieproducten,5495.551784,16840.6967,1679.447511,4158.4384
+3208,2016,Doorvoer,26,Amsterdam,9,Ertsen,41.32459712,153.3886841,38.78731382,444.9389843
+3209,2016,Doorvoer,26,Amsterdam,10,"Zout, zand, grind, klei",167.3582866,4048.740092,58.56122278,1275.895254
+3210,2016,Doorvoer,26,Amsterdam,11,Overige minerale producten,1037.324471,569.4230984,296.3302642,389.2010913
+3211,2016,Doorvoer,26,Amsterdam,12,Chemische producten en kunstmest,1900.138183,2490.504279,733.428342,1010.350703
+3212,2016,Doorvoer,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,2734.0702,61.60183629,1185.921497,82.49863251
+3213,2016,Doorvoer,26,Amsterdam,14,"Kunststoffen, rubber",90.66683717,81.68979201,223.9405389,86.04781034
+3214,2016,Doorvoer,26,Amsterdam,15,Basismetalen en basismetaalproducten,1207.657483,1181.811597,447.8417451,317.7373641
+3215,2016,Doorvoer,26,Amsterdam,16,Metaalproducten,126.122869,18.77335934,177.9609107,32.58686084
+3216,2016,Doorvoer,26,Amsterdam,17,Machines en apparaten voor de industrie,863.9297988,150.5248069,727.1615548,115.9539917
+3217,2016,Doorvoer,26,Amsterdam,18,Overige machines en apparaten,7935.446926,69.35377719,5063.20096,107.0656073
+3218,2016,Doorvoer,26,Amsterdam,19,Transportmiddelen,5490.372053,93.46975657,1719.490422,111.5281821
+3219,2016,Doorvoer,26,Amsterdam,20,Textiel,145.7582616,16.67014636,210.9058775,27.56755631
+3220,2016,Doorvoer,26,Amsterdam,21,"Kleding, bont en leer",622.1713946,25.26651668,352.2801916,15.66567665
+3221,2016,Doorvoer,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",42.32090857,82.68567664,120.0322358,185.1631554
+3222,2016,Doorvoer,26,Amsterdam,23,Meubels,20.45102209,10.00451389,68.7271724,17.54979095
+3224,2016,Doorvoer,26,Amsterdam,25,Overige goederen,462.5176232,99.33900345,638.5090952,80.5163277
+3550,2016,Invoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,1883.816673,2727.255295,292.8327701,341.7974425
+3551,2016,Invoer_internationaal,26,Amsterdam,2,Bosbouwproducten,24.22918435,12.65299884,3.4130617,6.240684799
+3552,2016,Invoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",130.6058312,57.3811575,17.55579437,7.65235555
+3553,2016,Invoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",420.2097578,690.2222293,100.0289073,156.2440371
+3554,2016,Invoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",656.8347971,412.6215695,125.6858684,97.21644969
+3555,2016,Invoer_internationaal,26,Amsterdam,6,"Voedsel, overig",1525.926437,2291.886327,507.0188824,429.3840866
+3556,2016,Invoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",509.1886385,6463.632607,113.6937995,1370.942949
+3557,2016,Invoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,3706.431489,10092.98694,883.4106125,2630.076447
+3558,2016,Invoer_internationaal,26,Amsterdam,9,Ertsen,186.2262426,2948.158663,30.29419637,401.4342124
+3559,2016,Invoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",123.2582288,3532.453395,31.78188513,875.4939158
+3560,2016,Invoer_internationaal,26,Amsterdam,11,Overige minerale producten,218.1638911,756.0610325,141.4395871,257.0628558
+3561,2016,Invoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,1431.311212,2639.172179,367.1784642,564.525694
+3562,2016,Invoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,3234.335454,380.565948,591.7022946,50.73048468
+3563,2016,Invoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",1185.800079,246.084812,144.6703134,56.4203868
+3564,2016,Invoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1372.76282,809.6055404,274.3746011,198.7487868
+3565,2016,Invoer_internationaal,26,Amsterdam,16,Metaalproducten,337.57081,70.3215274,72.40324702,16.48740214
+3566,2016,Invoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,2540.553019,495.680571,407.3448885,84.67079282
+3567,2016,Invoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,7760.143039,286.4936455,2182.862297,65.90379537
+3568,2016,Invoer_internationaal,26,Amsterdam,19,Transportmiddelen,3677.199313,382.5401583,770.0015391,78.35750428
+3569,2016,Invoer_internationaal,26,Amsterdam,20,Textiel,175.3127907,50.08610716,90.36919639,16.47362986
+3570,2016,Invoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",1866.625954,93.82286162,238.4538821,13.65458389
+3571,2016,Invoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",461.2908067,510.3648965,67.91658018,135.197072
+3572,2016,Invoer_internationaal,26,Amsterdam,23,Meubels,308.957845,60.10079347,51.10663753,14.55746469
+3574,2016,Invoer_internationaal,26,Amsterdam,25,Overige goederen,423.0677042,77.45479446,202.1435573,34.29438296
+3900,2016,Invoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,875.8694383,1273.86387,288.4472929,270.2818102
+3901,2016,Invoer_regionaal,26,Amsterdam,2,Bosbouwproducten,9.961012931,16.09117601,3.962484533,6.533985265
+3902,2016,Invoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",66.82351804,9.807457048,25.60591863,3.980631523
+3903,2016,Invoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",682.187098,486.4928399,147.2453925,244.0336331
+3904,2016,Invoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",988.8518702,209.6963649,182.8381042,93.96880935
+3905,2016,Invoer_regionaal,26,Amsterdam,6,"Voedsel, overig",2916.063505,2368.018554,535.4813795,456.6258833
+3906,2016,Invoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",467.0895266,5437.765093,114.4176797,1467.883255
+3907,2016,Invoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,1541.914941,5712.622041,834.2813987,2577.85867
+3908,2016,Invoer_regionaal,26,Amsterdam,9,Ertsen,102.7079205,2565.004971,30.34227189,425.9081622
+3909,2016,Invoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",129.9714983,4146.628895,31.92278168,957.9908843
+3910,2016,Invoer_regionaal,26,Amsterdam,11,Overige minerale producten,630.2347212,1211.976348,205.29581,283.1790715
+3911,2016,Invoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,721.8197606,1299.09113,336.7790808,529.2756029
+3912,2016,Invoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,802.0129723,312.613564,478.6762758,54.68318206
+3913,2016,Invoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",407.6759883,223.9617278,112.4123459,50.59883414
+3914,2016,Invoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,428.9904819,305.0877772,221.4725994,152.9346494
+3915,2016,Invoer_regionaal,26,Amsterdam,16,Metaalproducten,553.4667714,93.59533952,107.3353923,22.2323596
+3916,2016,Invoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,1898.503936,292.8744414,448.6083804,72.76193427
+3917,2016,Invoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,12906.64216,281.0165449,2277.549354,82.41842603
+3918,2016,Invoer_regionaal,26,Amsterdam,19,Transportmiddelen,1835.999302,220.4208459,767.8929943,64.6842704
+3919,2016,Invoer_regionaal,26,Amsterdam,20,Textiel,916.3929889,125.9982828,141.6071416,23.15010883
+3920,2016,Invoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",421.4463659,18.9460089,195.6736283,8.392175589
+3921,2016,Invoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",521.4998767,509.7087386,85.23419906,150.3314483
+3922,2016,Invoer_regionaal,26,Amsterdam,23,Meubels,111.5937922,29.19724723,50.05678946,14.76356129
+3924,2016,Invoer_regionaal,26,Amsterdam,25,Overige goederen,2199.767626,291.8540053,346.1400043,55.6861872
+4250,2016,Uitvoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,1859.6309,1047.692401,232.9240436,212.217955
+4251,2016,Uitvoer_internationaal,26,Amsterdam,2,Bosbouwproducten,4.069002437,6.000009882,1.585311052,4.118519082
+4252,2016,Uitvoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",288.5003653,22.61899259,36.99163565,8.647051176
+4253,2016,Uitvoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",712.7409821,1816.861573,147.2993031,395.6239645
+4254,2016,Uitvoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",723.6290117,181.2648298,126.2611828,74.21663555
+4255,2016,Uitvoer_internationaal,26,Amsterdam,6,"Voedsel, overig",2041.269921,1511.723037,405.7029347,311.2560899
+4256,2016,Uitvoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",676.2531746,2708.482512,102.9514239,930.3151898
+4257,2016,Uitvoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,5356.093769,13350.17459,978.935418,2643.750723
+4258,2016,Uitvoer_internationaal,26,Amsterdam,9,Ertsen,21.19512541,22.36939014,6.054130061,14.24325929
+4259,2016,Uitvoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",73.25989547,224.3279155,25.73734334,202.1927407
+4260,2016,Uitvoer_internationaal,26,Amsterdam,11,Overige minerale producten,101.2144451,133.668756,78.42236941,102.4512796
+4261,2016,Uitvoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,2201.692049,3871.130781,443.8471686,676.8561066
+4262,2016,Uitvoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,4646.68251,114.6867624,701.1612169,58.77012415
+4263,2016,Uitvoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",1406.817711,251.758122,146.7519944,67.41783084
+4264,2016,Uitvoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1497.61223,1238.715895,239.5283269,217.2094929
+4265,2016,Uitvoer_internationaal,26,Amsterdam,16,Metaalproducten,596.5669076,101.4860549,109.8645402,24.63864403
+4266,2016,Uitvoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,3176.72982,385.8461961,390.9072641,70.10213216
+4267,2016,Uitvoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,4373.567386,162.7110622,2412.012668,48.05848127
+4268,2016,Uitvoer_internationaal,26,Amsterdam,19,Transportmiddelen,2929.847819,485.2631966,926.7355755,76.92870856
+4269,2016,Uitvoer_internationaal,26,Amsterdam,20,Textiel,252.8582704,45.1814177,101.3661279,14.32633774
+4270,2016,Uitvoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",1128.337296,24.95180901,159.0075976,9.831408094
+4271,2016,Uitvoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",438.1394688,437.4536079,61.13252557,109.3942029
+4272,2016,Uitvoer_internationaal,26,Amsterdam,23,Meubels,185.0078213,27.24029463,25.89741637,7.542837282
+4274,2016,Uitvoer_internationaal,26,Amsterdam,25,Overige goederen,698.8237579,83.28947481,307.9925353,36.10769181
+4600,2016,Uitvoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,514.6439736,428.0579013,179.0759238,140.4382956
+4601,2016,Uitvoer_regionaal,26,Amsterdam,2,Bosbouwproducten,4.326003046,13.28361516,1.37593854,4.353867098
+4602,2016,Uitvoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",93.19764463,17.9812035,33.93709818,8.39966186
+4603,2016,Uitvoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",1075.698186,2860.755256,147.447466,447.9963996
+4604,2016,Uitvoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",294.6306371,147.8817919,131.2337935,88.13375377
+4605,2016,Uitvoer_regionaal,26,Amsterdam,6,"Voedsel, overig",1992.91005,1181.185634,392.2953021,291.1523547
+4606,2016,Uitvoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",338.0349274,1716.778797,79.40978283,675.0509695
+4607,2016,Uitvoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,1410.86186,3563.982082,821.4696464,2102.378851
+4608,2016,Uitvoer_regionaal,26,Amsterdam,9,Ertsen,4.101237279,14.19781844,3.119840322,10.93614958
+4609,2016,Uitvoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",183.8750044,2886.216564,33.12350704,786.0374841
+4610,2016,Uitvoer_regionaal,26,Amsterdam,11,Overige minerale producten,441.2228345,809.9184035,134.4725291,206.917698
+4611,2016,Uitvoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,1313.388223,2080.151729,440.0254086,677.9604009
+4612,2016,Uitvoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,2468.678082,104.2442267,729.0028501,43.96466392
+4613,2016,Uitvoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",289.9465856,164.0406895,82.99984329,41.56496028
+4614,2016,Uitvoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,390.0806823,362.3377632,196.1933388,181.5822574
+4615,2016,Uitvoer_regionaal,26,Amsterdam,16,Metaalproducten,554.3155471,69.543097,105.4217233,21.98091663
+4616,2016,Uitvoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,923.3891985,144.186048,289.9461801,47.85443583
+4617,2016,Uitvoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,24720.55995,356.6921595,3548.956543,78.52017921
+4618,2016,Uitvoer_regionaal,26,Amsterdam,19,Transportmiddelen,2535.682981,217.3646057,1070.584085,59.81967308
+4619,2016,Uitvoer_regionaal,26,Amsterdam,20,Textiel,908.577153,37.26140223,150.3973925,17.35559992
+4620,2016,Uitvoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",276.4760812,14.42673578,116.2989577,4.730906262
+4621,2016,Uitvoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",284.2913232,241.7887819,71.80919493,93.61807775
+4622,2016,Uitvoer_regionaal,26,Amsterdam,23,Meubels,165.6859929,36.45242579,37.0784118,8.123399136
+4624,2016,Uitvoer_regionaal,26,Amsterdam,25,Overige goederen,4219.017427,283.7724414,503.0511407,69.08899111
+4950,2017,Aanbod_eigen_regio,26,Amsterdam,1,Land- en tuinbouwproducten,177.9976611,116.4216347,82.69870158,58.74078056
+4951,2017,Aanbod_eigen_regio,26,Amsterdam,2,Bosbouwproducten,3.150050595,2.569304373,0.263981891,1.026400961
+4952,2017,Aanbod_eigen_regio,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",8.652177876,7.611923729,3.484056687,1.736213414
+4953,2017,Aanbod_eigen_regio,26,Amsterdam,4,"Voedsel, plantaardig",17.32415196,16.92953796,8.835727483,8.828505392
+4954,2017,Aanbod_eigen_regio,26,Amsterdam,5,"Voedsel, dierlijk",35.95086013,13.86063776,17.4787994,6.506122871
+4955,2017,Aanbod_eigen_regio,26,Amsterdam,6,"Voedsel, overig",737.3092036,413.6510366,260.030138,80.61856763
+4956,2017,Aanbod_eigen_regio,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",0.578296624,2.727452845,0.315841662,1.649984593
+4957,2017,Aanbod_eigen_regio,26,Amsterdam,8,Cokes en aardolieproducten,91.71664091,119.787501,41.91065065,54.21317501
+4958,2017,Aanbod_eigen_regio,26,Amsterdam,9,Ertsen,0.178023545,0.11880203,0.152279692,0.11128803
+4959,2017,Aanbod_eigen_regio,26,Amsterdam,10,"Zout, zand, grind, klei",77.98504373,623.5537915,18.19089965,240.3184706
+4960,2017,Aanbod_eigen_regio,26,Amsterdam,11,Overige minerale producten,232.7834694,440.1831804,84.48681411,134.8849771
+4961,2017,Aanbod_eigen_regio,26,Amsterdam,12,Chemische producten en kunstmest,481.3490199,278.7426962,104.6708382,56.57574029
+4962,2017,Aanbod_eigen_regio,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,802.1494841,120.0645978,202.8764516,18.37233889
+4963,2017,Aanbod_eigen_regio,26,Amsterdam,14,"Kunststoffen, rubber",217.5740605,79.8837982,33.71128632,11.93761477
+4964,2017,Aanbod_eigen_regio,26,Amsterdam,15,Basismetalen en basismetaalproducten,111.1979489,82.6027928,73.09318726,50.43874527
+4965,2017,Aanbod_eigen_regio,26,Amsterdam,16,Metaalproducten,43.38614858,12.42999299,13.56376231,2.348315366
+4966,2017,Aanbod_eigen_regio,26,Amsterdam,17,Machines en apparaten voor de industrie,344.4583968,47.27547826,210.1758427,30.21804304
+4967,2017,Aanbod_eigen_regio,26,Amsterdam,18,Overige machines en apparaten,523.9517282,15.72466373,192.7281826,4.020729398
+4968,2017,Aanbod_eigen_regio,26,Amsterdam,19,Transportmiddelen,410.4819408,55.61129515,195.6443032,18.83924851
+4969,2017,Aanbod_eigen_regio,26,Amsterdam,20,Textiel,41.17502379,9.942091567,12.71512393,1.830664166
+4970,2017,Aanbod_eigen_regio,26,Amsterdam,21,"Kleding, bont en leer",165.973963,8.986864024,98.03574052,3.792025556
+4971,2017,Aanbod_eigen_regio,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",24.67740957,25.77015863,9.036718111,10.25618489
+4972,2017,Aanbod_eigen_regio,26,Amsterdam,23,Meubels,67.75687184,16.55420961,8.396342572,1.739393426
+4974,2017,Aanbod_eigen_regio,26,Amsterdam,25,Overige goederen,231.5621984,61.12888354,38.56646707,6.381212419
+5300,2017,Distributie,26,Amsterdam,1,Land- en tuinbouwproducten,150.4766,101.551975,91.90285314,60.84630769
+5301,2017,Distributie,26,Amsterdam,2,Bosbouwproducten,0.056005718,1.310715854,0.371623879,1.071910173
+5302,2017,Distributie,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",4.237829096,1.662652283,3.808398801,1.864520536
+5303,2017,Distributie,26,Amsterdam,4,"Voedsel, plantaardig",12.79375431,13.68424904,9.589470053,9.113505049
+5304,2017,Distributie,26,Amsterdam,5,"Voedsel, dierlijk",24.01956591,9.22522948,18.92421075,6.728174222
+5305,2017,Distributie,26,Amsterdam,6,"Voedsel, overig",461.7778199,89.66996254,296.2366068,88.2574707
+5306,2017,Distributie,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",0.596763733,6.030883701,0.46834739,1.774324231
+5307,2017,Distributie,26,Amsterdam,8,Cokes en aardolieproducten,110.9899009,126.0146001,48.85945321,57.03163468
+5308,2017,Distributie,26,Amsterdam,9,Ertsen,0.207395404,0.223968968,0.254873171,0.223914563
+5309,2017,Distributie,26,Amsterdam,10,"Zout, zand, grind, klei",98.50625371,1538.671507,28.60020881,290.5397311
+5310,2017,Distributie,26,Amsterdam,11,Overige minerale producten,933.6609388,1090.674117,170.9057467,177.1591756
+5311,2017,Distributie,26,Amsterdam,12,Chemische producten en kunstmest,156.4892529,57.97309995,127.162364,61.52302635
+5312,2017,Distributie,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,550.3439407,26.34369546,262.4560872,21.11405654
+5313,2017,Distributie,26,Amsterdam,14,"Kunststoffen, rubber",38.71407152,16.78483483,43.00244354,13.75323383
+5314,2017,Distributie,26,Amsterdam,15,Basismetalen en basismetaalproducten,181.692896,149.745407,81.59791638,53.36497975
+5315,2017,Distributie,26,Amsterdam,16,Metaalproducten,14.58223862,2.321256029,15.16481616,2.572343173
+5316,2017,Distributie,26,Amsterdam,17,Machines en apparaten voor de industrie,534.1685813,86.20179041,235.7698663,31.75708515
+5317,2017,Distributie,26,Amsterdam,18,Overige machines en apparaten,214.8922555,4.180181704,211.934036,4.278995679
+5318,2017,Distributie,26,Amsterdam,19,Transportmiddelen,561.3056849,55.44490093,229.1441055,20.58123274
+5319,2017,Distributie,26,Amsterdam,20,Textiel,13.46377853,1.700357195,14.23740861,2.017636501
+5320,2017,Distributie,26,Amsterdam,21,"Kleding, bont en leer",1155.039128,64.17812183,191.0479989,6.687099319
+5321,2017,Distributie,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",10.08289922,13.31619383,9.936638484,10.65942467
+5322,2017,Distributie,26,Amsterdam,23,Meubels,5.539026038,1.495418784,11.08334539,2.122980401
+5324,2017,Distributie,26,Amsterdam,25,Overige goederen,28.74176127,5.139306559,47.9678416,7.798521105
+5650,2017,Doorvoer,26,Amsterdam,1,Land- en tuinbouwproducten,1106.134883,539.9189736,550.6190744,520.7093558
+5651,2017,Doorvoer,26,Amsterdam,2,Bosbouwproducten,22.13921822,5.333870876,4.423091403,15.53242579
+5652,2017,Doorvoer,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",27.15610467,5.906875047,69.17610054,13.80488157
+5653,2017,Doorvoer,26,Amsterdam,4,"Voedsel, plantaardig",345.3901527,765.3327735,337.0420458,545.9440906
+5654,2017,Doorvoer,26,Amsterdam,5,"Voedsel, dierlijk",132.2506241,60.35895218,291.0978696,135.9276607
+5655,2017,Doorvoer,26,Amsterdam,6,"Voedsel, overig",986.5974974,354.0552276,945.8712605,652.2953938
+5656,2017,Doorvoer,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",1108.793008,10586.11201,224.5186745,1872.539677
+5657,2017,Doorvoer,26,Amsterdam,8,Cokes en aardolieproducten,7102.608644,17151.46395,2087.637158,4102.876016
+5658,2017,Doorvoer,26,Amsterdam,9,Ertsen,57.52234881,154.7971274,59.77824109,389.9117158
+5659,2017,Doorvoer,26,Amsterdam,10,"Zout, zand, grind, klei",146.7972697,4389.236665,69.83800339,1152.276504
+5660,2017,Doorvoer,26,Amsterdam,11,Overige minerale producten,161.6083143,614.5431464,229.4009129,395.7517878
+5661,2017,Doorvoer,26,Amsterdam,12,Chemische producten en kunstmest,2135.47281,1766.887308,824.7327146,946.9306782
+5662,2017,Doorvoer,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,4806.033671,74.31703154,1571.395199,97.89558619
+5663,2017,Doorvoer,26,Amsterdam,14,"Kunststoffen, rubber",53.8187288,33.75523386,181.399212,72.4656607
+5664,2017,Doorvoer,26,Amsterdam,15,Basismetalen en basismetaalproducten,1969.280677,1273.39753,573.472674,358.2617227
+5665,2017,Doorvoer,26,Amsterdam,16,Metaalproducten,105.5006923,11.72667044,235.4256211,28.03335137
+5666,2017,Doorvoer,26,Amsterdam,17,Machines en apparaten voor de industrie,2011.234572,329.8967733,1051.726966,139.4183688
+5667,2017,Doorvoer,26,Amsterdam,18,Overige machines en apparaten,4514.356241,63.42789686,5123.833816,101.6791298
+5668,2017,Doorvoer,26,Amsterdam,19,Transportmiddelen,5106.898819,114.7787239,2270.369399,105.0349378
+5669,2017,Doorvoer,26,Amsterdam,20,Textiel,242.784284,18.31244751,239.4224068,26.99362785
+5670,2017,Doorvoer,26,Amsterdam,21,"Kleding, bont en leer",1285.326528,30.44470313,518.1656333,19.49369553
+5671,2017,Doorvoer,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",43.71987316,81.82517948,128.8290506,155.624985
+5672,2017,Doorvoer,26,Amsterdam,23,Meubels,24.71909544,7.976171288,78.70672031,20.46186906
+5674,2017,Doorvoer,26,Amsterdam,25,Overige goederen,310.6511794,49.72472051,545.1732782,51.34961052
+6000,2017,Invoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,1714.920158,2705.527704,309.8245392,405.2789426
+6001,2017,Invoer_internationaal,26,Amsterdam,2,Bosbouwproducten,58.67268303,64.8485004,1.599385275,8.417065735
+6002,2017,Invoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",133.9354992,51.82373379,19.03164134,10.94687547
+6003,2017,Invoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",414.6085531,667.654435,126.2024237,179.9933897
+6004,2017,Invoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",680.8596247,397.4628036,171.3655361,85.62935645
+6005,2017,Invoer_internationaal,26,Amsterdam,6,"Voedsel, overig",1228.432686,2515.669337,557.0135613,497.4933542
+6006,2017,Invoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",617.612661,6195.386005,137.8293978,1399.415123
+6007,2017,Invoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,4714.001374,10177.41889,1078.621505,2584.560975
+6008,2017,Invoer_internationaal,26,Amsterdam,9,Ertsen,274.7110651,3650.562318,47.56143407,334.6289943
+6009,2017,Invoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",110.3356206,4314.103375,38.1011512,835.8795527
+6010,2017,Invoer_internationaal,26,Amsterdam,11,Overige minerale producten,211.1219934,623.100995,116.7844837,258.7854213
+6011,2017,Invoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,1691.323296,2858.070726,380.7406336,511.6134854
+6012,2017,Invoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,3558.530443,538.4462639,761.360914,68.41263514
+6013,2017,Invoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",796.1200185,175.3018676,119.3814026,50.47948881
+6014,2017,Invoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1411.772292,871.8042847,334.6228546,210.3466505
+6015,2017,Invoer_internationaal,26,Amsterdam,16,Metaalproducten,362.0061124,67.20625154,61.3190336,15.29395792
+6016,2017,Invoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,2730.021472,567.5125459,622.3018894,96.96520859
+6017,2017,Invoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,8002.71368,273.0131617,1761.761508,62.98521738
+6018,2017,Invoer_internationaal,26,Amsterdam,19,Transportmiddelen,5501.381705,312.8752555,902.0897845,87.16744824
+6019,2017,Invoer_internationaal,26,Amsterdam,20,Textiel,167.0524718,56.22781868,90.13685065,17.47178675
+6020,2017,Invoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",2063.117661,138.5530319,367.8355586,15.29624625
+6021,2017,Invoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",432.013111,455.1552877,70.1079495,90.95059747
+6022,2017,Invoer_internationaal,26,Amsterdam,23,Meubels,377.8227367,81.77573712,52.2903839,18.28006239
+6024,2017,Invoer_internationaal,26,Amsterdam,25,Overige goederen,606.0538647,98.25627111,189.9246583,21.30562006
+6350,2017,Invoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,778.7812418,1291.095404,285.7768664,384.6837506
+6351,2017,Invoer_regionaal,26,Amsterdam,2,Bosbouwproducten,3.134065451,24.90032414,0.263542126,7.931795943
+6352,2017,Invoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",66.80739094,20.91620258,24.64364602,10.03943888
+6353,2017,Invoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",835.7895258,563.0040549,177.1087454,287.6395296
+6354,2017,Invoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",1225.566694,316.782647,197.8937243,99.19542725
+6355,2017,Invoer_regionaal,26,Amsterdam,6,"Voedsel, overig",2604.649972,2408.983699,578.8372955,524.2872442
+6356,2017,Invoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",497.955835,4740.696227,139.0021988,1396.190677
+6357,2017,Invoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,1802.688005,5114.086432,1027.210782,2580.190201
+6358,2017,Invoer_regionaal,26,Amsterdam,9,Ertsen,190.3087604,2973.357809,49.29747062,296.6522454
+6359,2017,Invoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",139.8316101,2916.720478,36.17910726,887.4442902
+6360,2017,Invoer_regionaal,26,Amsterdam,11,Overige minerale producten,490.7947084,1232.181643,127.7897998,266.053697
+6361,2017,Invoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,947.1392772,1446.605222,298.5209034,492.0437198
+6362,2017,Invoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,1356.038056,388.0591417,472.5120654,73.57433373
+6363,2017,Invoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",393.4042235,145.5688171,100.969781,46.19212561
+6364,2017,Invoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,461.699929,321.185518,237.9844275,158.6484321
+6365,2017,Invoer_regionaal,26,Amsterdam,16,Metaalproducten,349.2966441,33.7669595,96.55656112,14.54549258
+6366,2017,Invoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,2420.051539,375.1587056,656.5687457,101.1699115
+6367,2017,Invoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,11532.73731,262.0660009,2020.009408,71.12496028
+6368,2017,Invoer_regionaal,26,Amsterdam,19,Transportmiddelen,1918.447532,208.8848314,812.6448597,63.65153121
+6369,2017,Invoer_regionaal,26,Amsterdam,20,Textiel,827.4161661,114.1533764,147.6175051,23.37646597
+6370,2017,Invoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",672.4785836,37.24074311,310.5617035,13.66531369
+6371,2017,Invoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",505.4151527,510.7579902,85.37348874,112.03192
+6372,2017,Invoer_regionaal,26,Amsterdam,23,Meubels,193.3939762,39.32369295,63.66350376,17.08737746
+6374,2017,Invoer_regionaal,26,Amsterdam,25,Overige goederen,1547.899629,138.9189417,283.3278384,33.58399675
+6700,2017,Uitvoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,1908.114938,1410.649799,301.054495,249.6712004
+6701,2017,Uitvoer_internationaal,26,Amsterdam,2,Bosbouwproducten,14.50771977,32.60469035,2.570264605,12.68316893
+6702,2017,Uitvoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",356.6629182,42.20042893,47.27589456,7.895580425
+6703,2017,Uitvoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",845.3802877,1859.344415,215.5828931,395.3655713
+6704,2017,Uitvoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",1000.104464,297.2457876,140.3026604,84.2435013
+6705,2017,Uitvoer_internationaal,26,Amsterdam,6,"Voedsel, overig",1945.685457,1305.929612,414.8127388,317.0193276
+6706,2017,Uitvoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",788.0156598,2898.423698,119.9839564,860.7414038
+6707,2017,Uitvoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,7273.593489,14423.26921,1187.72524,2567.067166
+6708,2017,Uitvoer_internationaal,26,Amsterdam,9,Ertsen,16.90714962,20.75673316,7.024685453,13.69410699
+6709,2017,Uitvoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",46.78748297,154.4032839,27.22584544,141.5803193
+6710,2017,Uitvoer_internationaal,26,Amsterdam,11,Overige minerale producten,84.49225861,147.2400778,74.72354124,119.0265467
+6711,2017,Uitvoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,2587.085009,4121.862729,537.5845171,674.3435601
+6712,2017,Uitvoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,5751.452362,156.259401,948.129113,55.10728913
+6713,2017,Uitvoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",954.5249642,220.6758423,126.4320019,50.86434048
+6714,2017,Uitvoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1590.594053,1595.449465,331.1485008,253.1627462
+6715,2017,Uitvoer_internationaal,26,Amsterdam,16,Metaalproducten,823.3977538,88.72958212,149.0877356,21.25302797
+6716,2017,Uitvoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,3617.205346,335.2023554,484.2028996,71.44193505
+6717,2017,Uitvoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,9637.111563,121.220418,3356.948182,46.26252356
+6718,2017,Uitvoer_internationaal,26,Amsterdam,19,Transportmiddelen,3534.983562,382.1884299,1205.015287,58.6418848
+6719,2017,Uitvoer_internationaal,26,Amsterdam,20,Textiel,358.8089429,40.59327648,140.8997723,11.71571393
+6720,2017,Uitvoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",1079.746309,26.05891607,206.6289616,9.742605549
+6721,2017,Uitvoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",458.5773762,420.2723271,64.54285704,109.0175638
+6722,2017,Uitvoer_internationaal,26,Amsterdam,23,Meubels,216.4082338,31.4430217,28.78818484,8.272433005
+6724,2017,Uitvoer_internationaal,26,Amsterdam,25,Overige goederen,838.02021,103.9802087,335.2799877,29.3837846
+7050,2017,Uitvoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,685.2829303,509.083568,268.8504835,196.3280277
+7051,2017,Uitvoer_regionaal,26,Amsterdam,2,Bosbouwproducten,3.885322001,18.24501642,1.115578086,11.97392252
+7052,2017,Uitvoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",146.7278396,22.10001186,54.91768649,7.040666903
+7053,2017,Uitvoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",1232.551659,2901.219295,222.7458442,417.3363942
+7054,2017,Uitvoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",804.2718686,266.9572091,166.1698598,90.3478877
+7055,2017,Uitvoer_regionaal,26,Amsterdam,6,"Voedsel, overig",2055.684226,1055.539309,411.931182,295.2034106
+7056,2017,Uitvoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",409.1008125,1625.016542,87.26634205,605.9815576
+7057,2017,Uitvoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,1673.109467,3462.401486,996.2515559,2008.314905
+7058,2017,Uitvoer_regionaal,26,Amsterdam,9,Ertsen,5.264600389,13.8639703,4.064912976,10.70963075
+7059,2017,Uitvoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",183.227124,1817.676039,38.14020586,527.3333475
+7060,2017,Uitvoer_regionaal,26,Amsterdam,11,Overige minerale producten,345.3994293,897.5691945,130.9010536,227.0503562
+7061,2017,Uitvoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,1627.667716,2321.506874,512.1649153,641.1530059
+7062,2017,Uitvoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,3290.592397,159.0103161,972.892357,31.13990659
+7063,2017,Uitvoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",330.7419879,161.9600229,63.83897547,45.61626997
+7064,2017,Uitvoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,514.6804167,463.7125166,266.2009694,217.3150005
+7065,2017,Uitvoer_regionaal,26,Amsterdam,16,Metaalproducten,778.5199153,59.24375532,175.1127501,22.45261209
+7066,2017,Uitvoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,1012.49947,140.250933,405.8562752,56.76234545
+7067,2017,Uitvoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,25879.1069,405.2989145,3658.843565,80.43835145
+7068,2017,Uitvoer_regionaal,26,Amsterdam,19,Transportmiddelen,4638.458926,173.1855512,1627.34535,56.42443634
+7069,2017,Uitvoer_regionaal,26,Amsterdam,20,Textiel,1228.94568,40.86427718,151.3101949,16.43824721
+7070,2017,Uitvoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",347.2918771,14.60719658,148.5046562,4.544797294
+7071,2017,Uitvoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",318.3001129,203.2247838,75.51190355,97.96977065
+7072,2017,Uitvoer_regionaal,26,Amsterdam,23,Meubels,171.1237385,30.34283589,36.91587353,8.069446351
+7074,2017,Uitvoer_regionaal,26,Amsterdam,25,Overige goederen,4170.877625,233.9185653,430.533772,44.80132832
+7400,2018,Aanbod_eigen_regio,26,Amsterdam,1,Land- en tuinbouwproducten,325.1846904,194.4825603,148.3635637,108.1113723
+7401,2018,Aanbod_eigen_regio,26,Amsterdam,2,Bosbouwproducten,4.141278817,9.331118449,0.32845484,1.400283773
+7402,2018,Aanbod_eigen_regio,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",7.629219714,5.0951099,2.245230991,1.216099401
+7403,2018,Aanbod_eigen_regio,26,Amsterdam,4,"Voedsel, plantaardig",18.62632513,16.2810587,9.540863109,8.221744567
+7404,2018,Aanbod_eigen_regio,26,Amsterdam,5,"Voedsel, dierlijk",72.37200447,16.98916267,20.6419947,6.215865022
+7405,2018,Aanbod_eigen_regio,26,Amsterdam,6,"Voedsel, overig",975.1431712,469.7253332,274.9482269,68.4694801
+7406,2018,Aanbod_eigen_regio,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",0.565348398,2.487735832,0.309510781,1.533763265
+7407,2018,Aanbod_eigen_regio,26,Amsterdam,8,Cokes en aardolieproducten,85.50924064,160.1872921,46.32020152,59.54429267
+7408,2018,Aanbod_eigen_regio,26,Amsterdam,9,Ertsen,0.241686962,0.264051402,0.195020218,0.205431429
+7409,2018,Aanbod_eigen_regio,26,Amsterdam,10,"Zout, zand, grind, klei",67.30574088,904.3907697,16.44758797,243.7544728
+7410,2018,Aanbod_eigen_regio,26,Amsterdam,11,Overige minerale producten,257.9718035,634.1105924,87.31544118,123.7998956
+7411,2018,Aanbod_eigen_regio,26,Amsterdam,12,Chemische producten en kunstmest,334.9303549,162.231101,124.7084748,55.05959082
+7412,2018,Aanbod_eigen_regio,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,756.1585457,117.8331732,203.2002938,25.24616313
+7413,2018,Aanbod_eigen_regio,26,Amsterdam,14,"Kunststoffen, rubber",92.63954583,28.80551879,23.21576797,8.232255829
+7414,2018,Aanbod_eigen_regio,26,Amsterdam,15,Basismetalen en basismetaalproducten,118.9718257,43.76532318,77.04488816,25.97983654
+7415,2018,Aanbod_eigen_regio,26,Amsterdam,16,Metaalproducten,89.40193243,21.18538211,31.02518243,3.427923104
+7416,2018,Aanbod_eigen_regio,26,Amsterdam,17,Machines en apparaten voor de industrie,396.9053304,48.84135877,228.4451496,24.773534
+7417,2018,Aanbod_eigen_regio,26,Amsterdam,18,Overige machines en apparaten,1029.375158,21.39283573,243.7771173,6.324205851
+7418,2018,Aanbod_eigen_regio,26,Amsterdam,19,Transportmiddelen,824.2613424,109.5782441,408.6472427,28.21254065
+7419,2018,Aanbod_eigen_regio,26,Amsterdam,20,Textiel,45.66928712,9.638061168,14.1559748,1.894162136
+7420,2018,Aanbod_eigen_regio,26,Amsterdam,21,"Kleding, bont en leer",25.7362051,1.223936451,15.37194759,0.720589909
+7421,2018,Aanbod_eigen_regio,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",54.63044236,90.07629197,14.55124942,15.89621992
+7422,2018,Aanbod_eigen_regio,26,Amsterdam,23,Meubels,74.72716808,15.39055582,10.19324312,1.90904562
+7424,2018,Aanbod_eigen_regio,26,Amsterdam,25,Overige goederen,201.4552721,59.1998931,57.04754645,11.53037298
+7750,2018,Distributie,26,Amsterdam,1,Land- en tuinbouwproducten,392.1370533,257.6608288,172.8657104,113.3847337
+7751,2018,Distributie,26,Amsterdam,2,Bosbouwproducten,0.098766122,1.352028624,0.456364556,1.588915867
+7752,2018,Distributie,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",2.182951406,1.242557158,2.528602664,1.302821404
+7753,2018,Distributie,26,Amsterdam,4,"Voedsel, plantaardig",14.22488454,12.40238629,10.32727577,8.486867311
+7754,2018,Distributie,26,Amsterdam,5,"Voedsel, dierlijk",19.6552844,7.564820437,23.36124108,6.479668154
+7755,2018,Distributie,26,Amsterdam,6,"Voedsel, overig",481.6626975,68.03799297,323.8377385,78.15714014
+7756,2018,Distributie,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",0.57497171,4.919141096,0.464566115,1.630615903
+7757,2018,Distributie,26,Amsterdam,8,Cokes en aardolieproducten,80.06522459,101.4736633,50.38338269,62.54750208
+7758,2018,Distributie,26,Amsterdam,9,Ertsen,0.251180948,0.260892922,0.304770361,0.316950266
+7759,2018,Distributie,26,Amsterdam,10,"Zout, zand, grind, klei",77.36697319,957.4941277,24.48269957,280.1622893
+7760,2018,Distributie,26,Amsterdam,11,Overige minerale producten,1007.226556,1009.199033,180.8870784,174.3733128
+7761,2018,Distributie,26,Amsterdam,12,Chemische producten en kunstmest,175.9966264,65.83230236,138.8264665,57.5378289
+7762,2018,Distributie,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,2697.951108,176.9562368,481.53602,33.74584341
+7763,2018,Distributie,26,Amsterdam,14,"Kunststoffen, rubber",22.73934258,9.503860495,26.72113927,8.697096002
+7764,2018,Distributie,26,Amsterdam,15,Basismetalen en basismetaalproducten,170.2512266,47.07399367,84.7538117,26.85085347
+7765,2018,Distributie,26,Amsterdam,16,Metaalproducten,36.00425048,3.295309231,34.38691927,3.856874411
+7766,2018,Distributie,26,Amsterdam,17,Machines en apparaten voor de industrie,541.7565676,48.27373,255.6640308,25.81941753
+7767,2018,Distributie,26,Amsterdam,18,Overige machines en apparaten,226.6170596,7.175800158,282.853933,6.664461506
+7768,2018,Distributie,26,Amsterdam,19,Transportmiddelen,2190.410624,152.1052474,556.9319136,34.36779164
+7769,2018,Distributie,26,Amsterdam,20,Textiel,14.54141852,1.831353169,15.8513312,2.065762922
+7770,2018,Distributie,26,Amsterdam,21,"Kleding, bont en leer",26.85961959,1.22564266,16.65553258,0.78617302
+7771,2018,Distributie,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",14.29439334,15.71914796,16.63097947,17.57537131
+7772,2018,Distributie,26,Amsterdam,23,Meubels,8.542939915,1.897598783,13.1717064,2.244731951
+7774,2018,Distributie,26,Amsterdam,25,Overige goederen,58.53353362,12.68709035,64.36129359,12.62445462
+8100,2018,Doorvoer,26,Amsterdam,1,Land- en tuinbouwproducten,900.6308308,733.614307,600.5805488,655.8781018
+8101,2018,Doorvoer,26,Amsterdam,2,Bosbouwproducten,6.392224076,6.318699481,4.266421783,16.17478694
+8102,2018,Doorvoer,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",9.869101159,4.839946137,38.41838793,11.09852021
+8103,2018,Doorvoer,26,Amsterdam,4,"Voedsel, plantaardig",500.4783076,829.8480454,359.938374,588.1954769
+8104,2018,Doorvoer,26,Amsterdam,5,"Voedsel, dierlijk",88.31202411,50.99509016,293.985715,125.9856667
+8105,2018,Doorvoer,26,Amsterdam,6,"Voedsel, overig",788.0460862,330.9997974,811.3644177,625.7171305
+8106,2018,Doorvoer,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",908.8659549,8925.740291,262.13862,1679.362143
+8107,2018,Doorvoer,26,Amsterdam,8,Cokes en aardolieproducten,7517.533928,14561.8801,2656.214717,4061.238772
+8108,2018,Doorvoer,26,Amsterdam,9,Ertsen,59.80576369,278.7008197,48.78693791,609.0234412
+8109,2018,Doorvoer,26,Amsterdam,10,"Zout, zand, grind, klei",282.1832165,3882.277805,74.86373937,1462.77477
+8110,2018,Doorvoer,26,Amsterdam,11,Overige minerale producten,475.8745311,476.2222773,270.773886,386.8670571
+8111,2018,Doorvoer,26,Amsterdam,12,Chemische producten en kunstmest,1883.040852,878.2890394,907.007111,935.3133782
+8112,2018,Doorvoer,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,7547.81256,193.0260277,2020.707645,114.7578788
+8113,2018,Doorvoer,26,Amsterdam,14,"Kunststoffen, rubber",52.54437294,36.215776,203.8619139,87.19091209
+8114,2018,Doorvoer,26,Amsterdam,15,Basismetalen en basismetaalproducten,1912.774743,1008.140853,577.3499918,340.4866399
+8115,2018,Doorvoer,26,Amsterdam,16,Metaalproducten,255.7824943,17.5292811,257.5970895,34.78578524
+8116,2018,Doorvoer,26,Amsterdam,17,Machines en apparaten voor de industrie,1775.96766,150.1997379,963.6347028,118.3039863
+8117,2018,Doorvoer,26,Amsterdam,18,Overige machines en apparaten,17812.42076,106.3517619,6885.827012,108.6546324
+8118,2018,Doorvoer,26,Amsterdam,19,Transportmiddelen,10045.7075,96.60274853,2666.320062,102.9847086
+8119,2018,Doorvoer,26,Amsterdam,20,Textiel,428.1592844,19.58727345,298.2642703,32.17774007
+8120,2018,Doorvoer,26,Amsterdam,21,"Kleding, bont en leer",1416.364231,19.47588584,482.2509406,17.13290875
+8121,2018,Doorvoer,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",67.38814749,90.77697958,158.5994965,181.9076054
+8122,2018,Doorvoer,26,Amsterdam,23,Meubels,41.27327609,11.63593231,90.94715003,21.79417186
+8124,2018,Doorvoer,26,Amsterdam,25,Overige goederen,733.7602289,82.2550968,718.0639736,75.71263255
+8450,2018,Invoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,2402.875835,3577.803362,391.0760312,563.96242
+8451,2018,Invoer_internationaal,26,Amsterdam,2,Bosbouwproducten,28.81870685,28.82454721,3.606739085,11.0638015
+8452,2018,Invoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",136.7862721,30.65370259,17.36868488,6.459140742
+8453,2018,Invoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",549.9938831,790.1320905,167.2483973,204.8027732
+8454,2018,Invoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",874.9723735,447.4983228,159.6145682,85.3513554
+8455,2018,Invoer_internationaal,26,Amsterdam,6,"Voedsel, overig",1652.826869,2214.038033,478.392761,505.1500995
+8456,2018,Invoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",571.0097794,5035.347974,157.4478403,1231.036673
+8457,2018,Invoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,6130.055028,11267.9615,1284.384524,2502.558493
+8458,2018,Invoer_internationaal,26,Amsterdam,9,Ertsen,270.2678672,3034.288609,38.63265738,456.4869539
+8459,2018,Invoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",123.4877253,5101.777299,40.2796262,944.9280961
+8460,2018,Invoer_internationaal,26,Amsterdam,11,Overige minerale producten,152.4959444,653.6890188,101.7326138,203.0835513
+8461,2018,Invoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,2443.763658,3843.921596,513.7027749,576.8874375
+8462,2018,Invoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,2404.195108,451.6637702,873.5958284,70.98589911
+8463,2018,Invoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",938.4630498,167.8311879,122.9224302,58.85793366
+8464,2018,Invoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1465.41595,881.4647753,334.9271576,193.1415503
+8465,2018,Invoer_internationaal,26,Amsterdam,16,Metaalproducten,363.5162845,77.0257878,102.2041702,19.73637942
+8466,2018,Invoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,2217.6294,331.5100034,558.9191649,85.71395679
+8467,2018,Invoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,8838.938725,294.9945631,2922.829068,72.38040249
+8468,2018,Invoer_internationaal,26,Amsterdam,19,Transportmiddelen,4784.217357,403.1279532,1211.059801,82.13312002
+8469,2018,Invoer_internationaal,26,Amsterdam,20,Textiel,261.0716603,49.49688024,136.106396,19.8060693
+8470,2018,Invoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",1680.458996,109.6742274,299.4975345,14.77965278
+8471,2018,Invoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",446.0092949,565.0507907,93.0492794,116.5942308
+8472,2018,Invoer_internationaal,26,Amsterdam,23,Meubels,416.2719204,74.57732618,54.39377843,17.58831302
+8474,2018,Invoer_internationaal,26,Amsterdam,25,Overige goederen,451.3657582,77.73437362,272.1331566,34.72058987
+8800,2018,Invoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,1158.037231,1876.103158,367.8742967,472.8569943
+8801,2018,Invoer_regionaal,26,Amsterdam,2,Bosbouwproducten,3.921716026,27.29307036,0.328545861,9.708085827
+8802,2018,Invoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",20.87962609,11.9500942,12.17297791,6.154364208
+8803,2018,Invoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",954.6505468,622.1906583,190.8176084,315.2188323
+8804,2018,Invoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",1184.074281,176.3152239,200.0632446,81.06984821
+8805,2018,Invoer_regionaal,26,Amsterdam,6,"Voedsel, overig",2556.439707,1398.426101,442.8579141,500.5098925
+8806,2018,Invoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",576.4512665,4568.185132,159.6837925,1266.55808
+8807,2018,Invoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,1989.734597,5189.388105,1157.822876,2463.990761
+8808,2018,Invoer_regionaal,26,Amsterdam,9,Ertsen,121.5461229,2886.178531,36.07147531,545.9550344
+8809,2018,Invoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",138.6003392,4415.153572,39.59612377,1076.175961
+8810,2018,Invoer_regionaal,26,Amsterdam,11,Overige minerale producten,541.4880587,1369.52658,131.2171109,286.4621151
+8811,2018,Invoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,1533.545624,2063.93268,503.2335382,525.4052242
+8812,2018,Invoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,1483.854273,345.7692495,572.1077599,71.8180126
+8813,2018,Invoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",382.0614925,125.547399,104.7639868,52.55292038
+8814,2018,Invoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,508.9240798,317.247921,261.7408785,165.9309183
+8815,2018,Invoer_regionaal,26,Amsterdam,16,Metaalproducten,732.9288807,101.8169037,142.9319114,25.13545173
+8816,2018,Invoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,2373.137035,307.6229417,573.8479161,92.45717583
+8817,2018,Invoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,10593.68142,303.8598935,2934.275857,84.13463362
+8818,2018,Invoer_regionaal,26,Amsterdam,19,Transportmiddelen,2576.384228,206.7896683,1065.107666,55.96791402
+8819,2018,Invoer_regionaal,26,Amsterdam,20,Textiel,1136.135394,161.4289017,192.715373,28.4138075
+8820,2018,Invoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",426.3087433,27.22182118,242.5654591,12.08597843
+8821,2018,Invoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",664.371021,619.6666412,116.4327872,125.0687305
+8822,2018,Invoer_regionaal,26,Amsterdam,23,Meubels,195.1116026,34.43113628,61.16284879,14.65405927
+8824,2018,Invoer_regionaal,26,Amsterdam,25,Overige goederen,2713.79636,313.0605875,429.790152,50.2461667
+9150,2018,Uitvoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,2274.192379,1330.020691,281.7144359,283.2088988
+9151,2018,Uitvoer_internationaal,26,Amsterdam,2,Bosbouwproducten,11.4867055,35.16181761,1.030846806,12.31793141
+9152,2018,Uitvoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",292.681676,25.59169727,28.42079267,9.209714473
+9153,2018,Uitvoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",927.5904722,2013.93558,213.8767193,434.9605516
+9154,2018,Uitvoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",1005.282704,282.7413073,160.0771214,90.73381088
+9155,2018,Uitvoer_internationaal,26,Amsterdam,6,"Voedsel, overig",2433.254723,1440.290492,393.5613172,314.4981564
+9156,2018,Uitvoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",1045.203872,2180.17392,171.9459236,768.6785987
+9157,2018,Uitvoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,12012.81119,19503.57693,1595.177273,2598.937362
+9158,2018,Uitvoer_internationaal,26,Amsterdam,9,Ertsen,47.614576,26.23753993,10.08237685,19.47542622
+9159,2018,Uitvoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",66.85952312,603.0907314,33.30513816,427.000231
+9160,2018,Uitvoer_internationaal,26,Amsterdam,11,Overige minerale producten,112.4397808,256.1560602,89.39903118,165.9211055
+9161,2018,Uitvoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,2695.77214,3088.172411,485.321709,654.2029332
+9162,2018,Uitvoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,5693.846047,399.5246281,1289.24968,82.58805325
+9163,2018,Uitvoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",996.3113638,171.016093,147.5786585,66.78725204
+9164,2018,Uitvoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1642.402981,1604.38742,333.8628094,248.9179867
+9165,2018,Uitvoer_internationaal,26,Amsterdam,16,Metaalproducten,741.5912505,105.7894813,158.1948768,24.29958986
+9166,2018,Uitvoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,3730.924241,284.375515,499.5965878,68.88207425
+9167,2018,Uitvoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,11026.38042,86.53399078,3783.722131,43.33755113
+9168,2018,Uitvoer_internationaal,26,Amsterdam,19,Transportmiddelen,4511.72211,489.6710152,1436.934282,62.61269951
+9169,2018,Uitvoer_internationaal,26,Amsterdam,20,Textiel,363.0071897,56.84378679,156.2532059,13.34098191
+9170,2018,Uitvoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",1229.685632,44.27792647,259.6313339,8.411174943
+9171,2018,Uitvoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",490.6795409,486.933047,69.01931233,114.2158154
+9172,2018,Uitvoer_internationaal,26,Amsterdam,23,Meubels,237.7496915,38.88347296,42.36328865,11.78829239
+9174,2018,Uitvoer_internationaal,26,Amsterdam,25,Overige goederen,783.2067532,63.00912246,361.9835851,33.06873982
+9500,2018,Uitvoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,635.0133954,492.2722419,220.2516871,179.690601
+9501,2018,Uitvoer_regionaal,26,Amsterdam,2,Bosbouwproducten,7.754220712,28.22442049,2.756991078,11.05582526
+9502,2018,Uitvoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",59.99077604,18.87077576,25.03782951,7.645926468
+9503,2018,Uitvoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",1384.67778,3067.027866,220.2858818,447.7271066
+9504,2018,Uitvoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",458.8028908,154.7521854,163.761541,83.45038735
+9505,2018,Uitvoer_regionaal,26,Amsterdam,6,"Voedsel, overig",2271.787017,1124.421379,381.863102,317.1961491
+9506,2018,Uitvoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",436.1820759,1706.270716,99.520357,537.2313697
+9507,2018,Uitvoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,2569.718802,3580.313963,1487.199501,2035.67527
+9508,2018,Uitvoer_regionaal,26,Amsterdam,9,Ertsen,6.794441007,22.72514716,5.290276777,17.47484953
+9509,2018,Uitvoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",220.2956034,3268.309127,38.89295863,897.9505399
+9510,2018,Uitvoer_regionaal,26,Amsterdam,11,Overige minerale producten,580.9371458,1216.712949,175.7437632,231.2906636
+9511,2018,Uitvoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,1561.899662,1715.337685,474.9679331,594.0788956
+9512,2018,Uitvoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,4227.538767,207.5555029,1308.349789,49.85072797
+9513,2018,Uitvoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",326.775441,158.4094948,99.40783704,57.59976019
+9514,2018,Uitvoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,511.2505591,412.0811509,261.009507,205.8011332
+9515,2018,Uitvoer_regionaal,26,Amsterdam,16,Metaalproducten,730.2799378,71.44298931,165.7739934,22.86151794
+9516,2018,Uitvoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,1144.04349,157.9469079,405.9200315,47.225667
+9517,2018,Uitvoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,22371.7975,464.8820285,4578.284922,73.76116481
+9518,2018,Uitvoer_regionaal,26,Amsterdam,19,Transportmiddelen,3760.166532,215.4598575,1613.530801,52.12755979
+9519,2018,Uitvoer_regionaal,26,Amsterdam,20,Textiel,1147.098658,47.18316099,173.3898477,18.42992761
+9520,2018,Uitvoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",320.271477,9.537527206,195.0345037,4.78617724
+9521,2018,Uitvoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",428.9210569,327.5808886,80.76242973,120.498302
+9522,2018,Uitvoer_regionaal,26,Amsterdam,23,Meubels,312.8222269,47.46786588,52.1121261,14.13188745
+9524,2018,Uitvoer_regionaal,26,Amsterdam,25,Overige goederen,4602.813708,353.8440202,520.9587719,64.29855843
+9850,2019,Aanbod_eigen_regio,26,Amsterdam,1,Land- en tuinbouwproducten,93.14021324,70.86822298,47.63955963,40.35029479
+9851,2019,Aanbod_eigen_regio,26,Amsterdam,2,Bosbouwproducten,0.503824578,1.951368802,0.298187131,0.788990699
+9852,2019,Aanbod_eigen_regio,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",7.485215255,5.552037227,2.222673929,1.167826305
+9853,2019,Aanbod_eigen_regio,26,Amsterdam,4,"Voedsel, plantaardig",13.26397201,16.33322332,6.80487203,8.504319796
+9854,2019,Aanbod_eigen_regio,26,Amsterdam,5,"Voedsel, dierlijk",30.35159949,11.89464264,13.1823336,5.40450637
+9855,2019,Aanbod_eigen_regio,26,Amsterdam,6,"Voedsel, overig",1353.956338,902.5201684,287.0764376,123.9864604
+9856,2019,Aanbod_eigen_regio,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",0.531823777,3.088875777,0.297081656,1.810967201
+9857,2019,Aanbod_eigen_regio,26,Amsterdam,8,Cokes en aardolieproducten,194.4076001,355.7442468,62.54620919,81.8425551
+9858,2019,Aanbod_eigen_regio,26,Amsterdam,9,Ertsen,0.191013693,0.201443887,0.160485491,0.170383367
+9859,2019,Aanbod_eigen_regio,26,Amsterdam,10,"Zout, zand, grind, klei",63.98281742,732.2123643,15.23210539,206.2018927
+9860,2019,Aanbod_eigen_regio,26,Amsterdam,11,Overige minerale producten,265.9327927,529.1766226,86.382553,149.4644277
+9861,2019,Aanbod_eigen_regio,26,Amsterdam,12,Chemische producten en kunstmest,212.8150776,286.5314119,52.76295647,74.69371715
+9862,2019,Aanbod_eigen_regio,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,421.9276058,60.7245216,93.11931577,13.31871481
+9863,2019,Aanbod_eigen_regio,26,Amsterdam,14,"Kunststoffen, rubber",124.0165155,40.83015639,27.27352912,10.57938086
+9864,2019,Aanbod_eigen_regio,26,Amsterdam,15,Basismetalen en basismetaalproducten,105.7117991,57.23484279,62.50058669,33.21789385
+9865,2019,Aanbod_eigen_regio,26,Amsterdam,16,Metaalproducten,130.1969669,30.5698936,17.1405078,3.457377871
+9866,2019,Aanbod_eigen_regio,26,Amsterdam,17,Machines en apparaten voor de industrie,472.9440065,59.1237632,185.8996216,30.66033387
+9867,2019,Aanbod_eigen_regio,26,Amsterdam,18,Overige machines en apparaten,749.4460098,18.54449686,166.5806781,5.369084346
+9868,2019,Aanbod_eigen_regio,26,Amsterdam,19,Transportmiddelen,1017.82863,75.62049156,248.7457333,17.32351974
+9869,2019,Aanbod_eigen_regio,26,Amsterdam,20,Textiel,23.95797346,5.207930326,6.401250822,1.229715082
+9870,2019,Aanbod_eigen_regio,26,Amsterdam,21,"Kleding, bont en leer",16.89750828,0.882044188,10.19671769,0.531791713
+9871,2019,Aanbod_eigen_regio,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",47.19493345,75.01325386,10.78109893,15.74018597
+9872,2019,Aanbod_eigen_regio,26,Amsterdam,23,Meubels,92.17459205,21.56604213,9.237159415,2.08559748
+9874,2019,Aanbod_eigen_regio,26,Amsterdam,25,Overige goederen,244.382797,66.00694753,48.71834499,9.99034549
+10200,2019,Distributie,26,Amsterdam,1,Land- en tuinbouwproducten,73.99374885,70.37503551,51.90431549,41.68977176
+10201,2019,Distributie,26,Amsterdam,2,Bosbouwproducten,0.306702962,0.980808199,0.409105888,0.847930227
+10202,2019,Distributie,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",2.17114137,1.223990965,2.49695316,1.264086803
+10203,2019,Distributie,26,Amsterdam,4,"Voedsel, plantaardig",9.895831956,13.04547387,7.361273266,8.782714295
+10204,2019,Distributie,26,Amsterdam,5,"Voedsel, dierlijk",16.74029503,7.47723958,14.32326102,5.589128191
+10205,2019,Distributie,26,Amsterdam,6,"Voedsel, overig",1017.408565,146.9277384,410.5066566,143.7684735
+10206,2019,Distributie,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",0.540094386,4.16241727,0.448899684,1.892046519
+10207,2019,Distributie,26,Amsterdam,8,Cokes en aardolieproducten,115.9931075,159.324271,72.63377823,90.31209124
+10208,2019,Distributie,26,Amsterdam,9,Ertsen,0.202526489,0.210683541,0.261659735,0.272139075
+10209,2019,Distributie,26,Amsterdam,10,"Zout, zand, grind, klei",31.65768188,591.4903227,18.94734604,228.411283
+10210,2019,Distributie,26,Amsterdam,11,Overige minerale producten,737.6273319,1151.428407,151.6993728,196.0891095
+10211,2019,Distributie,26,Amsterdam,12,Chemische producten en kunstmest,60.62393581,86.10250028,61.20323283,79.53398688
+10212,2019,Distributie,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,140.4560024,21.20051732,112.8718284,14.58751089
+10213,2019,Distributie,26,Amsterdam,14,"Kunststoffen, rubber",27.32645596,12.8764725,32.16961202,11.27086828
+10214,2019,Distributie,26,Amsterdam,15,Basismetalen en basismetaalproducten,160.8896456,62.02338536,70.69511395,34.34764367
+10215,2019,Distributie,26,Amsterdam,16,Metaalproducten,10.89046932,2.908702817,22.40140497,4.152831592
+10216,2019,Distributie,26,Amsterdam,17,Machines en apparaten voor de industrie,306.1770993,67.35065362,207.6949391,32.07877179
+10217,2019,Distributie,26,Amsterdam,18,Overige machines en apparaten,157.15611,6.301102271,196.0078754,5.665299207
+10218,2019,Distributie,26,Amsterdam,19,Transportmiddelen,1178.434262,32.65228948,369.3762273,19.06777923
+10219,2019,Distributie,26,Amsterdam,20,Textiel,6.273508912,1.294516859,7.305011907,1.319532792
+10220,2019,Distributie,26,Amsterdam,21,"Kleding, bont en leer",17.63740337,0.853014385,10.99772051,0.614365663
+10221,2019,Distributie,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",9.79435346,15.78043694,12.53418122,17.07407612
+10222,2019,Distributie,26,Amsterdam,23,Meubels,4.33739531,1.632502028,12.59589858,2.606529951
+10224,2019,Distributie,26,Amsterdam,25,Overige goederen,40.48333737,10.37626981,58.00245994,11.37743177
+10550,2019,Doorvoer,26,Amsterdam,1,Land- en tuinbouwproducten,468.330727,722.8494104,535.6224632,593.6768231
+10551,2019,Doorvoer,26,Amsterdam,2,Bosbouwproducten,1.429442519,4.678472364,6.310147098,19.79983723
+10552,2019,Doorvoer,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",8.604215131,4.914677503,38.8887589,12.09134392
+10553,2019,Doorvoer,26,Amsterdam,4,"Voedsel, plantaardig",168.3117482,705.625312,252.6848556,483.5771979
+10554,2019,Doorvoer,26,Amsterdam,5,"Voedsel, dierlijk",89.50781868,58.20606067,278.8017458,187.5532806
+10555,2019,Doorvoer,26,Amsterdam,6,"Voedsel, overig",826.7756015,433.649567,823.5442249,616.3092006
+10556,2019,Doorvoer,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",950.965921,9833.943137,291.5014781,1742.839179
+10557,2019,Doorvoer,26,Amsterdam,8,Cokes en aardolieproducten,5985.764883,14301.45093,2439.849952,4211.231152
+10558,2019,Doorvoer,26,Amsterdam,9,Ertsen,55.85775707,171.33628,62.51028234,477.5483251
+10559,2019,Doorvoer,26,Amsterdam,10,"Zout, zand, grind, klei",161.4666695,3612.965288,70.09973304,1338.135516
+10560,2019,Doorvoer,26,Amsterdam,11,Overige minerale producten,233.4596784,361.1811845,240.3342454,429.5591952
+10561,2019,Doorvoer,26,Amsterdam,12,Chemische producten en kunstmest,1498.731744,1008.916808,826.932494,991.6215632
+10562,2019,Doorvoer,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,2793.65833,66.09908391,1273.163367,108.3003884
+10563,2019,Doorvoer,26,Amsterdam,14,"Kunststoffen, rubber",54.14706167,38.87218708,243.502321,92.99185833
+10564,2019,Doorvoer,26,Amsterdam,15,Basismetalen en basismetaalproducten,902.6247026,926.9277807,435.6075432,345.8461936
+10565,2019,Doorvoer,26,Amsterdam,16,Metaalproducten,81.53960594,17.99197218,172.7652382,29.74616856
+10566,2019,Doorvoer,26,Amsterdam,17,Machines en apparaten voor de industrie,542.0732077,185.6881302,804.1919099,126.5526413
+10567,2019,Doorvoer,26,Amsterdam,18,Overige machines en apparaten,5191.503983,117.7934993,4180.925035,102.2564347
+10568,2019,Doorvoer,26,Amsterdam,19,Transportmiddelen,2747.536637,52.78532248,1713.039842,88.51921624
+10569,2019,Doorvoer,26,Amsterdam,20,Textiel,174.1665647,26.82980628,229.1722641,32.11394238
+10570,2019,Doorvoer,26,Amsterdam,21,"Kleding, bont en leer",551.3581916,14.96070908,406.338024,15.97702725
+10571,2019,Doorvoer,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",47.85134331,89.68268805,161.2370672,188.8984921
+10572,2019,Doorvoer,26,Amsterdam,23,Meubels,21.80960014,9.091948757,75.89372044,27.17656052
+10574,2019,Doorvoer,26,Amsterdam,25,Overige goederen,364.7276904,76.90910758,602.6983238,78.0096257
+10900,2019,Invoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,2315.243696,3817.812957,360.0944074,469.2477604
+10901,2019,Invoer_internationaal,26,Amsterdam,2,Bosbouwproducten,38.46363572,34.70293535,4.039460495,9.777592781
+10902,2019,Invoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",139.0666373,32.3228473,14.06738364,7.216557412
+10903,2019,Invoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",544.4706085,703.5653721,115.1815517,175.3384487
+10904,2019,Invoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",866.8832652,434.2661765,166.296465,143.1650374
+10905,2019,Invoer_internationaal,26,Amsterdam,6,"Voedsel, overig",1708.916244,2604.198318,446.2800807,408.3544327
+10906,2019,Invoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",778.2093456,5306.287934,197.685912,1243.625811
+10907,2019,Invoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,5731.140964,12038.71401,1169.253264,2482.888962
+10908,2019,Invoer_internationaal,26,Amsterdam,9,Ertsen,315.5806085,2967.528308,50.52178367,454.3727688
+10909,2019,Invoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",161.1080587,4730.868555,39.07201155,892.3772177
+10910,2019,Invoer_internationaal,26,Amsterdam,11,Overige minerale producten,227.710708,867.6251482,123.7726777,293.4962123
+10911,2019,Invoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,2395.212159,4166.683579,463.073313,615.0343404
+10912,2019,Invoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,3834.538504,576.664012,652.8005007,86.74223818
+10913,2019,Invoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",747.7040195,179.0865688,137.5726004,65.38492026
+10914,2019,Invoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1571.868559,862.3144908,278.6619816,190.0787867
+10915,2019,Invoer_internationaal,26,Amsterdam,16,Metaalproducten,388.4338702,75.78170762,72.41970315,18.12603102
+10916,2019,Invoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,2809.300027,409.185925,431.8649166,91.86582319
+10917,2019,Invoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,7061.097204,257.8051548,1447.358732,61.62570545
+10918,2019,Invoer_internationaal,26,Amsterdam,19,Transportmiddelen,6244.222737,293.1034513,884.6520178,67.87361745
+10919,2019,Invoer_internationaal,26,Amsterdam,20,Textiel,194.4566909,43.77419306,116.6154239,17.53158714
+10920,2019,Invoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",1983.115585,104.0719707,298.2747312,13.98494608
+10921,2019,Invoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",457.5024864,572.6940135,84.32641243,125.2308253
+10922,2019,Invoer_internationaal,26,Amsterdam,23,Meubels,425.2635466,73.49352628,64.82428594,24.98094131
+10924,2019,Invoer_internationaal,26,Amsterdam,25,Overige goederen,693.6054062,91.06459997,284.2851613,36.03371483
+11250,2019,Invoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,1128.938963,1846.556176,355.2569423,417.2151182
+11251,2019,Invoer_regionaal,26,Amsterdam,2,Bosbouwproducten,19.55189936,15.72033471,4.618581372,8.6862007
+11252,2019,Invoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",16.50946078,14.15338783,7.62401601,5.775587132
+11253,2019,Invoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",737.8408773,489.3964656,135.2042863,252.5564926
+11254,2019,Invoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",1203.493203,261.5402292,202.7483659,149.4752471
+11255,2019,Invoer_regionaal,26,Amsterdam,6,"Voedsel, overig",2644.398201,2400.868972,468.6455228,455.2796558
+11256,2019,Invoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",677.695706,4471.015833,214.207168,1246.820156
+11257,2019,Invoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,1720.095269,5150.900458,969.2762884,2468.146796
+11258,2019,Invoer_regionaal,26,Amsterdam,9,Ertsen,166.9129293,2767.493916,47.60070583,359.2944964
+11259,2019,Invoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",165.2373451,4513.751443,42.51331507,1022.510772
+11260,2019,Invoer_regionaal,26,Amsterdam,11,Overige minerale producten,587.1252557,1412.560236,139.8007447,278.9577653
+11261,2019,Invoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,1300.614795,2564.413203,440.5618253,622.844385
+11262,2019,Invoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,1074.911414,293.6568728,478.1283468,78.23412611
+11263,2019,Invoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",341.8279918,117.6431333,109.2943016,50.57682625
+11264,2019,Invoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,505.6081821,305.8791882,227.1627516,148.9585618
+11265,2019,Invoer_regionaal,26,Amsterdam,16,Metaalproducten,538.0476076,71.13572944,113.227242,19.14421247
+11266,2019,Invoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,2072.083644,313.4235535,509.1620683,89.6297347
+11267,2019,Invoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,7927.86921,220.7143047,1582.443842,65.3843107
+11268,2019,Invoer_regionaal,26,Amsterdam,19,Transportmiddelen,2416.687032,197.0469933,715.6292281,60.59770619
+11269,2019,Invoer_regionaal,26,Amsterdam,20,Textiel,1066.101508,138.2430727,147.3505773,27.01222703
+11270,2019,Invoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",604.6805615,25.93909608,276.5823426,11.39876117
+11271,2019,Invoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",646.1617571,539.937606,132.9612073,149.7856139
+11272,2019,Invoer_regionaal,26,Amsterdam,23,Meubels,183.5692088,54.91048367,47.20299828,23.50468488
+11274,2019,Invoer_regionaal,26,Amsterdam,25,Overige goederen,2769.50088,310.829344,399.4421907,52.678965
+11600,2019,Uitvoer_internationaal,26,Amsterdam,1,Land- en tuinbouwproducten,2155.943219,1466.571145,264.9361591,289.8563016
+11601,2019,Uitvoer_internationaal,26,Amsterdam,2,Bosbouwproducten,8.956580959,31.13084893,2.078411338,17.83197856
+11602,2019,Uitvoer_internationaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",252.4608157,22.30469402,26.33551212,9.948860575
+11603,2019,Uitvoer_internationaal,26,Amsterdam,4,"Voedsel, plantaardig",793.1670443,1831.450828,146.6151637,344.024504
+11604,2019,Uitvoer_internationaal,26,Amsterdam,5,"Voedsel, dierlijk",977.0618621,307.2042342,143.473123,110.5544372
+11605,2019,Uitvoer_internationaal,26,Amsterdam,6,"Voedsel, overig",2401.684029,1688.281893,363.2591487,344.1127289
+11606,2019,Uitvoer_internationaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",856.7980104,1936.814109,167.5518211,856.6469601
+11607,2019,Uitvoer_internationaal,26,Amsterdam,8,Cokes en aardolieproducten,14023.85305,22110.76358,1536.086375,2725.513681
+11608,2019,Uitvoer_internationaal,26,Amsterdam,9,Ertsen,52.62157452,31.31571754,9.941639012,17.30157333
+11609,2019,Uitvoer_internationaal,26,Amsterdam,10,"Zout, zand, grind, klei",85.34852739,429.8494165,28.88265256,318.7196
+11610,2019,Uitvoer_internationaal,26,Amsterdam,11,Overige minerale producten,99.53660574,202.3912153,75.11532255,142.2478526
+11611,2019,Uitvoer_internationaal,26,Amsterdam,12,Chemische producten en kunstmest,2801.972338,3141.067163,465.9030798,631.5292918
+11612,2019,Uitvoer_internationaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,5557.265225,320.0392262,740.5750753,56.45769636
+11613,2019,Uitvoer_internationaal,26,Amsterdam,14,"Kunststoffen, rubber",1354.530007,402.1236689,195.6636221,71.83352494
+11614,2019,Uitvoer_internationaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,1520.419545,1659.583374,220.8244562,258.192556
+11615,2019,Uitvoer_internationaal,26,Amsterdam,16,Metaalproducten,534.8764715,96.42734382,82.32029999,21.19484802
+11616,2019,Uitvoer_internationaal,26,Amsterdam,17,Machines en apparaten voor de industrie,3813.85849,327.3953991,470.7050335,79.47828496
+11617,2019,Uitvoer_internationaal,26,Amsterdam,18,Overige machines en apparaten,6351.74643,111.1661172,2453.056469,50.36022766
+11618,2019,Uitvoer_internationaal,26,Amsterdam,19,Transportmiddelen,5114.301878,354.0812131,960.5576029,57.75089646
+11619,2019,Uitvoer_internationaal,26,Amsterdam,20,Textiel,279.7827127,67.15121054,115.1443091,15.46049357
+11620,2019,Uitvoer_internationaal,26,Amsterdam,21,"Kleding, bont en leer",1170.463915,40.28751389,152.8689502,7.925934729
+11621,2019,Uitvoer_internationaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",427.8419558,468.657779,63.46242413,113.1056563
+11622,2019,Uitvoer_internationaal,26,Amsterdam,23,Meubels,217.5757325,25.96870144,35.79916617,10.12950015
+11624,2019,Uitvoer_internationaal,26,Amsterdam,25,Overige goederen,840.3693751,70.23578684,269.2900436,35.76082112
+11950,2019,Uitvoer_regionaal,26,Amsterdam,1,Land- en tuinbouwproducten,507.9772777,464.4429338,212.3591708,206.8332752
+11951,2019,Uitvoer_regionaal,26,Amsterdam,2,Bosbouwproducten,5.161938554,27.69190123,1.907713692,16.09944885
+11952,2019,Uitvoer_regionaal,26,Amsterdam,3,"Veehouderij-, jacht- en visserijproducten",57.7901972,20.4476319,31.39655665,8.897514948
+11953,2019,Uitvoer_regionaal,26,Amsterdam,4,"Voedsel, plantaardig",1212.064751,2722.02528,158.4243421,359.8714814
+11954,2019,Uitvoer_regionaal,26,Amsterdam,5,"Voedsel, dierlijk",455.484024,193.1743391,140.8170749,104.5884582
+11955,2019,Uitvoer_regionaal,26,Amsterdam,6,"Voedsel, overig",2281.862837,1511.02388,396.585478,333.6636094
+11956,2019,Uitvoer_regionaal,26,Amsterdam,7,"Steenkool, bruinkool, aardgas en ruwe aardolie",402.8220112,1695.788953,128.2572167,659.3513185
+11957,2019,Uitvoer_regionaal,26,Amsterdam,8,Cokes en aardolieproducten,2889.998299,4016.238245,1394.475422,2253.750397
+11958,2019,Uitvoer_regionaal,26,Amsterdam,9,Ertsen,6.746423041,15.53721543,5.238024212,11.8285898
+11959,2019,Uitvoer_regionaal,26,Amsterdam,10,"Zout, zand, grind, klei",204.4616906,2942.414697,38.50229522,824.5354377
+11960,2019,Uitvoer_regionaal,26,Amsterdam,11,Overige minerale producten,470.8363137,815.6790779,126.843331,201.1058072
+11961,2019,Uitvoer_regionaal,26,Amsterdam,12,Chemische producten en kunstmest,1622.798341,1885.00306,457.1534982,584.0775636
+11962,2019,Uitvoer_regionaal,26,Amsterdam,13,Farmaceutica en chemische specialiteiten,2937.145691,154.3204402,765.8134633,50.25930674
+11963,2019,Uitvoer_regionaal,26,Amsterdam,14,"Kunststoffen, rubber",332.3650048,163.1945376,103.0239052,55.15216488
+11964,2019,Uitvoer_regionaal,26,Amsterdam,15,Basismetalen en basismetaalproducten,361.3557437,477.1104079,167.6139563,219.2047594
+11965,2019,Uitvoer_regionaal,26,Amsterdam,16,Metaalproducten,588.6671139,69.41285779,102.129571,20.24700516
+11966,2019,Uitvoer_regionaal,26,Amsterdam,17,Machines en apparaten voor de industrie,1136.8142,162.9606937,328.4912089,48.97437527
+11967,2019,Uitvoer_regionaal,26,Amsterdam,18,Overige machines en apparaten,17486.32637,452.5907649,3049.70593,83.28151865
+11968,2019,Uitvoer_regionaal,26,Amsterdam,19,Transportmiddelen,3430.609663,145.2467918,1070.757248,38.72797578
+11969,2019,Uitvoer_regionaal,26,Amsterdam,20,Textiel,952.5025204,62.75362873,149.6818173,21.91740922
+11970,2019,Uitvoer_regionaal,26,Amsterdam,21,"Kleding, bont en leer",207.3100062,9.380689029,120.4818521,4.643928602
+11971,2019,Uitvoer_regionaal,26,Amsterdam,22,"Hout- en kurkproducten, papier en pulp",249.36444,315.4125827,81.41083015,112.8065386
+11972,2019,Uitvoer_regionaal,26,Amsterdam,23,Meubels,156.6405973,39.94589548,32.69410972,10.69477693
+11974,2019,Uitvoer_regionaal,26,Amsterdam,25,Overige goederen,2992.657033,334.6220442,421.345128,62.98993397

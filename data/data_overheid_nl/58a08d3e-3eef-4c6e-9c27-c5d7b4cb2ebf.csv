@@ -1,0 +1,41 @@
+﻿OBJECTID,PUIC,PROCESCONTRACTGEBIED_TYPE,NUMMER,NUMMER_T,NAAM,PCA,PGO_GEBIED,PGO_GEBIED_NR
+5,a1e7a133-a760-48a7-986a-d7d6c40744dd,BVL,26,26,Maastricht,Strukton Rail,Limburg,340
+8,c0a22108-26df-4a62-9532-48cfa979d037,BVL,25,25,Roermond,Strukton Rail,Limburg,340
+17,22995542-0bb4-42b8-8f4c-60d847b26df4,BVL,8,8,Haarlem,Strukton Rail,Kennemerland,240
+22,cddd3ec6-4dca-4e64-9a9f-34d02f07a10a,BVL,70,70,HSL,Infraspeed,,
+30,3ccc53a0-8343-4b75-95ce-6f05860554d6,BVL,5,5,Dordrecht,ASSET Rail,Dordrecht,140
+37,4f6785ca-ded2-4cb0-8b2e-dd3bb30cbbd4,BVL,4,4,Europoort,VolkerRail,Zee-Zevenaar,130
+46,848b91d5-c2f2-41e8-84f6-ddd28966f8fe,BVL,99,99,Kijfhoek,VolkerRail,Zee-Zevenaar,130
+50,71978080-e7da-4602-bdd6-84883ae7453b,BVL,15,15,Driebergen,ASSET Rail,Neerlands Midden,250
+53,3052ec88-e5c6-42d9-aaa0-609ba1ee0d62,BVL,14,14,Woerden,ASSET Rail,Neerlands Midden,250
+55,5370530e-073f-446f-8534-7be57469c144,BVL,13,13,Utrecht,ASSET Rail,Neerlands Midden,250
+72,33b2e2ed-640d-402c-b51c-19ca445c840e,BVL,35,35,Drenthe,ASSET Rail,Drenthe,440
+73,2d18c043-7d6a-4cdc-bab9-76b7c264ef98,BVL,37,37,Groningen,Strukton Rail,Wadden,420
+87,22f2e9a3-e6e1-4d2f-a97d-fd7aa185d704,BVL,71,71,A15trace,VolkerRail,Zee-Zevenaar,130
+95,1bdacc0b-e7f6-4b15-804f-663ed7159f9b,BVL,30,30,Achterhoek,ASSET Rail,Gelre,400
+102,615312af-34c9-4c52-ad2d-f56467fbea06,BVL,34,34,Overijssel,ASSET Rail,Drenthe,440
+112,fb4a5a93-c811-41ff-90cd-e91089c7d840,BVL,11,11,Weesp,Strukton Rail,Amstelsepoort,230
+117,040a06d6-294a-4078-92f9-b76c0aa1c6dc,BVL,33,33,Gelderland,Strukton Rail,Veluwe,430
+121,4c164014-434f-44c2-838a-8471287a3dfd,BVL,20,20,Breda,ASSET Rail,Brabant,330
+127,f7b81701-fca7-4066-b0ef-269356fe7c70,BVL,23,23,Boxtel,ASSET Rail,Brabant,330
+140,122cf281-b9e4-4e57-8a94-7154d58ba611,BVL,22,22,Geldermalsen,Strukton Rail,Betuwe,320
+151,e24b6cd0-8986-4e68-969b-f49ff794106e,BVL,19,19,Roosendaal,Strukton Rail,Zeeland,310
+168,907cd7cc-68e8-4a99-91b1-0caf2e0135b5,BVL,1,1,Leiden,BAM Rail,Rijn en Gouwe,100
+170,7305a3fa-1c48-4256-b046-2ea7677a21dc,BVL,32,32,Twente,VolkerRail,Twente,410
+176,1eb72278-b7db-4a9f-83e8-3ae8f59db0a9,BVL,28,28,Maas en Waal,ASSET Rail,Gelre,400
+182,20555374-56e7-4c83-8f42-c8542e01d166,BVL,7,7,Alkmaar,VolkerRail,Hollands Noorderkwartier,210
+197,2e70bc16-78ce-428b-8171-16b348834043,BVL,9,9,Amsterdam,VolkerRail,Amsterdam,220
+216,370bd09b-eaf7-4fa9-8066-77d1116698c1,BVL,2,2,Den Haag,VolkerRail,Den Haag,110
+219,3c0a43fb-a4a3-4a2f-9e1b-99b4a8f5e4f6,BVL,16,16,Maarn,ASSET Rail,Eemland,200
+222,d7fb91e8-452f-45d7-b381-a63761451e6b,BVL,6,6,Heerhugowaard,VolkerRail,Hollands Noorderkwartier,210
+233,12c3b386-14ef-4bc7-bfbc-ebd886aea0a2,BVL,29,29,Gelderse Vallei,Strukton Rail,Veluwe,430
+236,fa77c069-21a6-4782-996f-579fdce453f0,BVL,81,81,Rijn en Gouwe,BAM Rail,Rijn en Gouwe,100
+239,65fab891-0ac2-4000-b258-afc15073e450,BVL,27,27,Venlo,ASSET Rail,De Peel,300
+240,68a62376-4aac-4638-93ba-69fe32f383a5,BVL,24,24,Eindhoven,ASSET Rail,De Peel,300
+246,b045e2f6-e6ab-4ee3-a49b-f4dfcc8ab1c7,BVL,12,12,Amersfoort,ASSET Rail,Eemland,200
+253,3f6ade12-c425-4be0-bd7e-7beb7da4336a,BVL,3,3,Rotterdam,VolkerRail,Rotterdam,120
+262,b251abdf-d526-45db-a2f7-2523374d4afe,BVL,18,18,Goes,Strukton Rail,Zeeland,310
+263,abbe264b-e625-4a89-9216-35763118750e,BVL,10,10,Duivendrecht,Strukton Rail,Amstelsepoort,230
+266,49c75521-5d1e-4fca-8093-d9ff1ee8d2e4,BVL,21,21,Den Bosch,Strukton Rail,Betuwe,320
+269,26514e64-05c9-4238-aeef-559e998ef07f,BVL,36,36,Friesland,Strukton Rail,Wadden,420
+274,81c40460-7af0-4bb4-9096-4de99011f7a9,BVL,31,31,IJsselstreek,Strukton Rail,Veluwe,430

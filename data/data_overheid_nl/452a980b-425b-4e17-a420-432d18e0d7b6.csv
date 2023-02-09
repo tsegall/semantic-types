@@ -1,0 +1,807 @@
+ID;GUID;NAAM;OPMERKINGEN;ZONE_NAAM;WABO;SGH;BEHEER_DERDEN;TYPE_ECOLOGISCHE_VERBINDINGSZO;BUURT_CODE;BUURT_OMSC;STADSDEEL_CODE;STADSDEEL_OMSC;WIJK_CODE;WIJK_OMSC;BEHEERGEBIEDEN_OMSC;COUNTER
+4632013;{7B72CB05-E6C0-461D-AA83-61723A99D4B1};Haagse Beekzone, deelgebied J;Uitvoering restpunten 2015/2016deels uitgevoerd, uitvoering resterende punten gepland voor 2015/2016deels uitgevoerd, uitvoering resterende punten gepland voor 2015/2016;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;9;Vogelwijk;3;Segbroek;13;Vogelwijk;;14
+4632014;{B3C24314-AE36-4A08-A688-D8274CF1D487};Laakzone, deelgebied F;Door herinrichting van het Station Moerwijk kunnen aanpassingen nodig zijn, Bomen en struiken aanplanten. ecologisch maaibeheer;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;23;Spoorwijk;6;Laak;38;Laakkwartier en Spoorwijk;;15
+4632015;{017279F3-B0FA-4A9B-86E9-D4B733BDADF6};Zone Guntersteinweg;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;39;Moerwijk-zuid;2;Escamp;36;Moerwijk;Guntersteinweg;16
+4632016;{F46ACF19-E059-4EB7-A366-975DDAA212E6};Zone Burnierstraat;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;17
+4632017;{0DB4D56B-55A1-4CFB-8CAA-1EDC8283C6F3};Zone Van Hogenhoucklaan;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;78;Arendsdorp;7;Haagse Hout;4;Benoordenhout;;18
+4632018;{51A62EEF-D5A2-4886-9A0C-DD694139A43E};Zone Van Hogenhoucklaan;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;19
+4632019;{497A0FDD-6477-431A-AA2A-66163DFD06D1};Zone Van Hogenhoucklaan;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;20
+4632020;{FE401265-D948-473A-9561-D3DD50632194};Zone Van Hogenhoucklaan;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;21
+4632021;{C08AE737-4BDF-4D30-BD53-A775223B766A};Houtzone, deelgebied T;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;22
+4632022;{313F5A29-9EA7-4703-A77D-6732977C8798};Houtzone, deelgebied Q;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;23
+4632023;{6899BC32-06E6-4F21-8FCB-8399ADEF4CD0};Houtzone, deelgebied R;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;24
+4632024;{1E766DD9-E576-4CC2-97FD-0549FEF1F8C3};Houtzone, deelgebied G;Ecologische oever aanleggen (oever verlagen).gras ecologisch beheren;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;75;Uilennest;7;Haagse Hout;4;Benoordenhout;;25
+4632025;{451BFC81-4976-401A-844F-977D4DC90C8B};Schenkzone;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;;1
+4632026;{1184DAF4-C54A-4907-8409-469CAE51CC3C};Zone Leidschenveen;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;2
+4632027;{41E71838-6ACB-4A7C-9EB0-244AB3E2468C};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;111;De Venen;8;Leidschenveen-Ypenburg;42;Ypenburg;;3
+4632028;{B7FAD278-99BD-471C-B6C9-CF23231D2E7E};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;4
+4632029;{193BD811-8906-4319-84C5-8DE5DEBE7D56};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;5
+4632030;{9355E38C-495A-474A-865B-3F96A6985660};Zone Middelweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;6
+4632031;{1B6E053C-95E0-4633-8D32-381D24BADA24};Spoorzone Leidschenveen;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;121;Rietbuurt;8;Leidschenveen-Ypenburg;44;Leidschenveen;;7
+4632032;{D1D41506-E584-49CF-B7A4-D201D94A3190};Zone Leidschenveen, deelgebied H;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;121;Rietbuurt;8;Leidschenveen-Ypenburg;44;Leidschenveen;;8
+4632033;{32BCFAD1-F542-4286-929D-54905607EB54};Zone Leidschenveen, deelgebied H;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;9
+4632009;{9F312B91-67D6-44F6-9676-E74F85DFDBF7};Houtzone, deelgebied P;Tussen van Soutelandelaan en van Ouwenlaan;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;10
+4632010;{DE2C254E-F26F-4327-8E4D-9DDD795B3B1C};Zone Ypenburg, gebied maatregel 21;Aalscholversingel;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;11
+4632011;{F6C3A99A-170D-4AD7-938A-758261E134DA};Laakzone, deelgebied N;Gras ecologisch beheren, deels ecologische oevers aanleggen;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;26;Noordpolderbuurt;6;Laak;38;Laakkwartier en Spoorwijk;;12
+4632012;{7E2C4BE2-D7BC-4F56-9B54-A3B1AFC5D62A};Zone Segboeklaan;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;52;Bomenbuurt;3;Segbroek;12;Bomen- en Bloemenbuurt;;13
+4632043;{AD128093-A8D3-40CD-92DB-3F51B9BA747F};Zone Van Baaklaan;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;118;De Lanen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;51
+4632044;{2B2F738D-9459-46C8-A299-D861B0EAD24A};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;52
+4632045;{902C81A6-7964-4874-B364-5F60F58917DC};Zone Brasserhoutweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;53
+4632046;{CE3D9F1D-01F9-4D25-B5FD-377D60D2C6F2};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;54
+4632047;{F76F3131-0394-4C71-9641-FB4989306416};Zone Theo Mann Bouwmeesterlaan;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;55
+4632048;{3C73DEF4-BAE5-4950-9BF9-B743F0A475EA};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;121;Rietbuurt;8;Leidschenveen-Ypenburg;44;Leidschenveen;;56
+4632049;{51B1EAC5-307E-42DC-9F06-345310D1793B};Zone Verhulstplein gewenst;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;42;Stadhoudersplantsoen;4;Scheveningen;11;Duinoord;;57
+4632050;{04EA80D6-3F03-438E-B0D5-3265DE4580CF};Zone Stadhoudersplantsoen gewenst;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;42;Stadhoudersplantsoen;4;Scheveningen;11;Duinoord;;26
+4632051;{CDB9D7BA-2693-471F-89EA-0A034070BC63};Haagse Beekzone, zone Nieboerweg;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;100;Duindorp;4;Scheveningen;8;Duindorp;;27
+4632052;{E25D3A54-F744-4E02-9C08-9651957E5946};Melis Stokepark;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;89;Morgenstond-oost;2;Escamp;34;Morgenstond;;28
+4632053;{AA82475F-80B2-4DE5-8019-21740DD9B0E0};Groene Assen, deelgebied F;Nabij de tunnelmond aan de kant van de kiosk stobbenwal en geleiding plaatsen (is tijdje geleden verdwenen !);Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;89;Morgenstond-oost;2;Escamp;34;Morgenstond;;29
+4632054;{C23CF46B-BAD1-43C9-954A-1F05EEE4D4AA};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;30
+4632055;{2AE510BB-EA39-4CD3-85A5-78BEB8E90E8C};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;31
+4632056;{EA0EFD17-52D7-4872-B31D-DDD7E18953B1};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;32
+4632057;{FFF8728F-726D-4FC3-9BF7-6F3F8DBC635A};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;33
+4632058;{6FE8526B-114B-4900-959B-02D0A0082DEC};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;34
+4632059;{4E9DBF60-BF14-403B-BB0B-A434222C8D88};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;35
+4632060;{D333E6C2-2377-4AA9-9772-3D4622A3D605};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;88;Morgenstond-west;2;Escamp;34;Morgenstond;;36
+4632061;{9FB39555-AD66-44ED-A563-2A5BE8CA1E0C};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;37
+4632062;{BEA46908-1650-4A4B-BAD9-526F909838CF};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;38
+4632063;{9C3DAE0B-005C-4CA0-8482-B2CDC9B28FC5};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;92;Bohemen en Meer en Bos;1;Loosduinen;14;Bohemen en Meer en Bos;;39
+4632064;{ABA945FF-42B2-4E4E-BC23-0D1AD21CD5CA};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;90;Ockenburgh;1;Loosduinen;15;Kijkduin en Ockenburgh;;40
+4632065;{00825727-6BE2-47C4-B7A9-5407AC93EC17};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;92;Bohemen en Meer en Bos;1;Loosduinen;14;Bohemen en Meer en Bos;;41
+4632034;{82B9BD11-82CC-437F-8974-5376ED49D434};Zone Leidschenveen, deelgebied N;Gras ecologisch beheren. Struweel enbomen aanplantenGras ecologisch beheren. Struweel enbomen aanplantenGras ecologisch beheren. struweel  en bomen aanplanten;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;42
+4632035;{B78839FB-F798-45DF-9EC5-15028CAA0214};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;43
+4632036;{E249E8F4-29D0-4965-A0FE-B667ACCCEC90};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;44
+4632037;{DF920FEF-34A6-4601-9DDF-F2E0AC028779};Zone Leidschenveen, deelgebied W;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;45
+4632038;{639A7716-DCC1-4BD1-BE47-7F8B08CDF866};Zone Leidschenveen, deelgebied W;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;46
+4632039;{5EADD44D-6708-4AFD-801F-18E2C615ACB7};Zone Leidschenveen, deelgebied S;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;47
+4632040;{CFDD91C4-8E7A-433C-8D36-DC97F97548D2};Zone Leidschenveen, deelgebied T;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;48
+4632041;{5BAA4F55-E86A-45A8-B9B9-183A0C50BE04};Zone Leidschenveen, deelgebied W;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;49
+4632042;{F15AABCB-604C-4942-B382-114B425F2B78};Zone Leidschenveen, deelgebied Y;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;50
+4632077;{2BA08F5F-1A27-4C20-A196-6778C114A8F5};Zone Leidschenveen, deelgebied F;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;71
+4632078;{C1C1FB77-5148-4DB7-8C70-9B3612675616};Zone Leidschenveen, deelgebied O;Struweel op helling verder ontwikkelen;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;72
+4632079;{656977A1-6333-4FC2-BE98-EC4CE05E7702};Zone Leidschenveen, deelgebied O;Struweel op helling verder ontwikkelen;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;73
+4632080;{5BAA978F-C3B6-47B4-BC03-440B7CFB6F0A};Zone Leidschenveen, deelgebied P;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;74
+4632081;{5756DDCC-74D7-4F0A-94C4-8CB4223491B1};Zone Leidschenveen, deelgebied Q;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;75
+4632066;{19583014-DF95-4FFC-8EE2-7BB29802B077};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;92;Bohemen en Meer en Bos;1;Loosduinen;14;Bohemen en Meer en Bos;;76
+4632067;{17EBFF48-C758-43E8-8681-BBC038661C5E};Haagse Beekzone, deelgebieden H en I;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;77
+4632068;{1FD76E2E-2D2C-465E-B11E-97B94F2BA6F9};Haagse Beekzone, deelgebied C;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;42;Stadhoudersplantsoen;4;Scheveningen;11;Duinoord;;78
+4632069;{0B751DF3-3959-402D-AE0E-7275A9F42533};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;41;Zorgvliet;4;Scheveningen;10;Zorgvliet;;79
+4632070;{B249EFE0-73C0-44C5-A988-EC9D3B8E748C};Haagse Beekzone, deelgebied B;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;41;Zorgvliet;4;Scheveningen;10;Zorgvliet;;80
+4632071;{5031CC0A-E588-4B7C-91A7-3CE09AD6E871};Haagse Beekzone, deelgebieden D en E;voldoet aan wensbeeld, uitgevoerd 2009;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;52;Bomenbuurt;3;Segbroek;12;Bomen- en Bloemenbuurt;;58
+4632072;{F2F52C61-F686-4588-8246-B838D65526B6};Haagse Beekzone, deelgebied F;uitgevoerd in 2009;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;52;Bomenbuurt;3;Segbroek;12;Bomen- en Bloemenbuurt;;59
+4632073;{4346815E-04EA-4A2F-AB24-C9E1014242A3};Haagse Beekzone, deelgebied G;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;60
+4632074;{43A88D49-48D4-4C24-B064-C2610DFFE003};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;;61
+4632075;{29654426-4490-4B3C-9CD0-365958CC48D2};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;24;Laakkwartier-west;6;Laak;38;Laakkwartier en Spoorwijk;;62
+4632076;{F26E4EC7-3BC0-4881-AE61-873E2333BAAC};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;26;Noordpolderbuurt;6;Laak;38;Laakkwartier en Spoorwijk;;63
+4632082;{6ABCA42A-49B1-46A3-9CE6-2C9E89A0D0F8};Zone Leidschenveen, deelgebeid G;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;64
+4632083;{51700AA6-47B9-44E6-8FE9-B9278305CF6D};Zone Oude Middenweg;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;65
+4632084;{494AF523-54D4-495E-9691-F276CD43DB38};Zone Oude Middenweg;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;66
+4632085;{BA75E20B-D526-4732-9EA7-663EE616AC2A};Zone Oude Middenweg;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;67
+4632086;{81586048-5632-46AA-936B-20C5570627FF};Zone Oude Middenweg;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;68
+4632087;{B01091B4-C20F-4B5F-8883-C01FFF566DD7};Zone Rijnerwatering;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;103;Parkbuurt Oosteinde;2;Escamp;40;Wateringse Veld;Rijner Wateringkade;69
+4632088;{797ECF8F-C023-4A92-9834-C3D113DC34D7};Laakzone, deelgebied M;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;60;Binckhorst;6;Laak;39;Binckhorst;;70
+4632097;{7F5D13D0-FABE-4A85-B48D-3C8355B1D424};Zone Ypenburg, deelgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;111
+4632098;{B257ACF4-A6D2-46C7-8C3B-C3020758A1E4};Zone Ypenburg, deelgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;112
+4632099;{9508C89F-73C1-4811-AC24-3D8AB413B657};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;113
+4632100;{60D867F6-12D7-4A08-AB84-A932C77762EC};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;114
+4632101;{E9954397-9F98-4A8F-92B5-B59979857820};Zone Ypenburg, deelgebied C;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;115
+4632102;{47BDE7A4-E69A-4279-9024-1A07EF54E41C};Zone Ypenburg, deelgebied A1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;116
+4632103;{144C3FC7-AFE1-4D15-85C3-0865F9F912CC};Zone Veenbespad;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;117
+4632104;{69F0F97C-2659-4BA8-A640-B8CAAB75049B};Zone Machiel Vrijenhoeklaan;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;91;Kijkduin;1;Loosduinen;15;Kijkduin en Ockenburgh;;118
+4632105;{272CA73C-4C73-49FD-B0F1-E444F31D5182};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;;81
+4632106;{EA640850-CD79-4F69-90E5-074CC366E5E7};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;;82
+4632107;{085B5CDD-C54C-45C4-9149-E6F0E7E2BEA0};Zone Assumburgweg / Guntersteinweg;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;Assumburgweg;83
+4632108;{11AFB666-F97F-424C-AB0A-A5F2226E7734};Schenkzone, deelgebied F;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;61;Landen;7;Haagse Hout;25;Mariahoeve en Marlot;;84
+4632109;{A10C604A-467E-451A-B639-FB818FBB1182};Schenkzone, deelgebied F;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;61;Landen;7;Haagse Hout;25;Mariahoeve en Marlot;;85
+4632110;{476A6398-1E3C-4E7D-A532-09D1C34CA310};Schenkzone;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;61;Landen;7;Haagse Hout;25;Mariahoeve en Marlot;;86
+4632111;{C0F958CC-AB86-482C-85C6-B019992FB4B6};Schenkzone;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;65;Bezuidenhout-midden;7;Haagse Hout;26;Bezuidenhout;;87
+4632112;{760870CD-4BF9-4E8A-AB29-58C7B585D232};Schenkzone;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;65;Bezuidenhout-midden;7;Haagse Hout;26;Bezuidenhout;;88
+4632113;{9FA33C56-0C1B-427C-BCD2-39477404FA4E};Schenkzone;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;66;Bezuidenhout-oost;7;Haagse Hout;26;Bezuidenhout;;89
+4632114;{82BC85A9-AF4F-4822-9D84-789EA907045C};laakzone, deelgebied M;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;60;Binckhorst;6;Laak;39;Binckhorst;;90
+4632115;{38FFDAC1-5168-44F7-9F93-260A0D44D561};Zone Ringelwikke;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;91
+4632116;{537BC408-0DAD-4D32-A5FE-4768126BA433};Zone Haringkade;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;92
+4632117;{78860050-24C5-49BD-95BD-92AE1BB62F2B};Haagse Beekzone, deelgebied R;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;91;Kijkduin;1;Loosduinen;15;Kijkduin en Ockenburgh;;93
+4632118;{70B5944A-7894-4885-9A4C-540782F6B071};Laakzone, deelgebied M;"waar mogelijk stobbenwallen aanleggen, gras ecologisch beheren; riet/ruigte ontwikkelen";Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;26;Noordpolderbuurt;6;Laak;38;Laakkwartier en Spoorwijk;;94
+4632119;{CAD9343B-6D45-43FE-AE71-39BF9F6DA6E6};Laakzone, deelgbied M;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;60;Binckhorst;6;Laak;39;Binckhorst;;95
+4632120;{0E98C1B6-3DF1-43E7-AEA4-0B00DCEA1F72};Scheveningse Zone, deelgebied H;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;96
+4632121;{177ED25F-3DA2-44EF-BB61-3BDFE388D974};Scheveningse Zone, deelgebied H;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;97
+4632122;{A55C592E-2035-4706-B8C1-AE5173636BAF};Scheveningse Zone, deelgebied H;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;98
+4632123;{16F3FE3E-1313-43B8-BA66-864006AA3540};Scheveningse Zone, deelgebied H;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;99
+4632124;{03928F7D-BFC4-4EB3-BC6B-835AA3FD6782};Scheveningse Zone, deelgebied X;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;46;Archipelbuurt;5;Centrum;5;Archipelbuurt;;100
+4632125;{9CCF9439-7A8F-4780-93A0-BD89808397CB};Scheveningse Zone, deelgebied R;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;101
+4632126;{AA31E4DC-0AFE-4AB3-B039-C9A216CD941E};Zone langs Verversingskanaal;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;52;Bomenbuurt;3;Segbroek;12;Bomen- en Bloemenbuurt;;102
+4632089;{99298D49-EBB3-4A7B-B60E-84F4A90BD86A};Haagse Beekzone, deelgebied P;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;92;Bohemen en Meer en Bos;1;Loosduinen;14;Bohemen en Meer en Bos;;103
+4632090;{5E6E9ED2-CE25-4C33-B823-E2B5D054A17E};Haagse Beekzone, deelgebied P;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;92;Bohemen en Meer en Bos;1;Loosduinen;14;Bohemen en Meer en Bos;;104
+4632091;{A6036164-9057-47FB-ABEE-BFE79D40E5BA};Zone Oude Middenweg;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;105
+4632092;{64749856-4AAE-4565-B088-E9EE84D73AFA};Zone Ypenburg, deelgebied B1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;107;Vliegeniersbuurt;8;Leidschenveen-Ypenburg;41;Hoornwijk;;106
+4632093;{C5CB9BBA-9C85-4F74-8443-6C65F0B51721};Zone Ypenburg, deelgebied B1 - de Mok;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;107
+4632094;{1E5EF9B7-6163-4E98-888B-067A3A4E6645};Zone Ypenburg, deelgebied B1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;108
+4632095;{A5E6DF49-D7BB-4019-B706-09BA63D4822E};Zone Ypenburg, deelgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;109
+4632096;{BE876418-2233-4A72-A379-ECCFBAF75DA2};Zone Ypenburg, deelgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;110
+4632134;{A2A22687-3E34-486E-97BB-3A3030119231};Haagse Beekzone, deelgebied A;Uitgevoerd 2012;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;41;Zorgvliet;4;Scheveningen;10;Zorgvliet;;135
+4632135;{67AF7B82-4229-4219-A842-5FC974986A49};Zone Waalsdorperweg;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;136
+4632136;{6BA7FEB8-10C0-4613-9902-57367C346A65};Schenkzone, deelgebied B;Natuurvriendelijke oever aanleggen.Waterkwaliteit verbeteren. Gras ecologisch beherenNatuurvriendelijke oever aanleggen.Waterkwaliteit verbeteren. Gras ecologisch beherenNatuurvriendelijke oever aanleggen.Waterkwaliteit verbeteren. Gras ecologi;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;;137
+4632137;{69D23885-E991-4E63-ADF6-BFC6E7966369};Schenkzone, deelgebied A;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;138
+4632138;{6B327DAC-2C70-4CF3-B5D1-EA901C798739};Schenkzone, deelgebied D;Natuurvriendelijke oever aanleggen, waterkwaliteit verbeteren, mantel- en zoomvegetatie ontwikkelen;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;139
+4632127;{DCA59619-E2AA-4C19-9FB6-6A9810CF9E75};Zone langs Verversingskanaal;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;7;Statenkwartier;4;Scheveningen;9;Geuzen- en Statenkwartier;;140
+4632128;{D263C6D9-41DD-41DC-B57C-16FC436C930C};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;141
+4632129;{F13DAC37-B6FB-45B0-9F28-BF642A05AC57};Zone Rijnerwatering;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;104;Lage Veld;2;Escamp;40;Wateringse Veld;Rijner Wateringkade;142
+4632167;{32F423AF-3867-426A-812C-8E380BDFE67C};Erasmuszone;Stobbenwal aanleggen voor afscherming en geleiding. opening tunnel aan kant caravandealer vrijmaken;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;101;Erasmus Veld;2;Escamp;40;Wateringse Veld;;143
+4632130;{9B899CCF-3115-463B-861D-D1023BFA99E5};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;119
+4632131;{B8B9D627-74A9-4300-9CBA-B135C5A44F08};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;110;De Reef;8;Leidschenveen-Ypenburg;41;Hoornwijk;;120
+4632132;{E7C65AD7-676C-4287-BB63-B84DEBB011FE};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Ja;Ecologische verbindingszone;110;De Reef;8;Leidschenveen-Ypenburg;41;Hoornwijk;;121
+4632133;{D825E837-DCE7-40B8-AB46-595CA73137FB};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;111;De Venen;8;Leidschenveen-Ypenburg;42;Ypenburg;;122
+4632139;{A116D4AE-E4A8-4E25-9B30-9CF0212A93AB};Schenkzone, deelgebied D;Natuurvriendelijke oever aanleggen, waterkwaliteit verbeteren, mantel- en zoomvegetatie ontwikkelen;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;123
+4632140;{F39D882A-DF72-46F8-8822-411ED4B1D482};Schenkzone, deelgebied D;Natuurvriendelijke oever aanleggen, waterkwaliteit verbeteren, mantel- en zoomvegetatie ontwikkelen;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;124
+4632141;{E8FF910D-7A38-42BE-9C1E-A103A81956DD};Schenkzone;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;61;Landen;7;Haagse Hout;25;Mariahoeve en Marlot;;125
+4632142;{C83B6BCC-C3A0-4DB0-85ED-80848605DA51};Zone Laan van Hoornwijck;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;126
+4632143;{E0B10B1A-128B-4EA1-8F44-FFEA9EFAA044};Zone Molenslootpad;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;106;Vlietbuurt;8;Leidschenveen-Ypenburg;41;Hoornwijk;;127
+4632144;{A976A5DB-BF8F-4993-8EAD-5A1F40E94EA7};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;128
+4632145;{D06BD5F0-E409-478B-AAE9-B38BC84633BC};Zone Veenbespad;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;129
+4632146;{883C6A9A-1177-435A-B354-7DFB1576BD7B};Zone Leidschenveen, deelgebieden G en R;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;130
+4632147;{A38151E0-E9EF-4224-9D0C-A678E3F8D139};Scheveningse Zone, deelgebied V;Uitheemse soorten vervangen door inheemse soorten;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;41;Zorgvliet;4;Scheveningen;10;Zorgvliet;;131
+4632148;{CA29ACEE-A305-48DB-9C2B-8F8B2BCAF809};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;132
+4632149;{D0E4AAA9-0AC6-458A-B28E-37AC3552F0D8};Houtzone, deelgbied V;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;133
+4632150;{22528330-1FE7-43F9-9937-BF88A4F7E8D9};Zone Doorniksestraat;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;71;Belgisch Park;4;Scheveningen;2;Belgisch Park;;134
+4632162;{B48DFC31-A005-4F19-8502-9EA575CB96E5};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;169
+4632163;{5CF0BFF6-6983-4930-911C-642FA9941B01};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;;170
+4632164;{C13383BE-2B7E-4CCE-AA6B-F885994E1735};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;39;Moerwijk-zuid;2;Escamp;36;Moerwijk;;171
+4632165;{384CB49D-3C24-433E-9B06-762FE6675108};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;80;Morgenstond-zuid;2;Escamp;34;Morgenstond;;172
+4632166;{3675C4A7-AFB4-4F8E-A117-E3D5A0A127A5};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;80;Morgenstond-zuid;2;Escamp;34;Morgenstond;;173
+4632187;{D38D8963-2D46-4087-BC97-255699E86B3A};Laakzone, deelgebied I;Maaibeheer beter uitvoeren;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;24;Laakkwartier-west;6;Laak;38;Laakkwartier en Spoorwijk;;174
+4632188;{A913D166-C645-4180-9E47-37A019EB912E};Laakzone, deelgebied H;Oevers flauwer aanleggen;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;24;Laakkwartier-west;6;Laak;38;Laakkwartier en Spoorwijk;;175
+4632189;{DC1159DA-EC24-49B9-A756-032DF0F56DA2};Laakzone, deelgebied G;waar mogelijk stobbenwallen aanleggen. ecologische oever aanleggen. gras ecologisch beheren;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;24;Laakkwartier-west;6;Laak;38;Laakkwartier en Spoorwijk;;176
+4632168;{A006A44C-8C79-4464-8773-6CF8F579043C};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;144
+4632169;{6BDB7171-5DCD-4DF6-80C5-C92549AA66B6};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;145
+4632170;{61FAA1F4-DE54-4E78-A56C-3EDCDC4216EF};Wateringse Veld-zone, deelgebied A;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;101;Erasmus Veld;2;Escamp;40;Wateringse Veld;Menno ter Braakstraat;146
+4632171;{99AC57E5-CEAC-4814-8EDD-91045E12487B};Wateringse Veld-zone, deelgebied A;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;101;Erasmus Veld;2;Escamp;40;Wateringse Veld;Martinus Nijhoffweg;147
+4632172;{81B7B358-8EBF-4233-AE4A-833125F927BD};Wateringse Veld-zone, deelgebied B;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;101;Erasmus Veld;2;Escamp;40;Wateringse Veld;Martinus Nijhoffweg;148
+4632173;{99A6232B-1F44-406A-B135-F0E9101CD1EC};Doornpark;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;7;Statenkwartier;4;Scheveningen;9;Geuzen- en Statenkwartier;;149
+4632174;{92ADDC95-B28B-4B1E-8D70-9B2A05C20C55};Zone Waalsdorperweg - 't Hoenstraat;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;150
+4632175;{B1C98153-6EB4-4F32-8063-4D481F31FC84};Zone Waalsdorperweg;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;151
+4632176;{19A40A22-06C0-4E1B-AB9C-D944D80D524B};Zone Theo Mann Bouwmeesterpad;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;152
+4632177;{8B5CF84F-4C66-4CB4-8FF4-73D8D3AAB270};Schenkzone, deelgebied E;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;;153
+4632178;{FA292D18-6EAC-4E85-9CA8-A13D073FCD88};Schenkzone, deelgebied E;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;;154
+4632179;{03BD6C90-357E-4E1E-AA61-E849BDAA9E59};Schenkzone;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;;155
+4632180;{8E96FBD9-EBFD-41D3-8518-9128396ADF0C};Schenkzone, deelgebied D;Natuurvriendelijke oever aanleggen, waterkwaliteit verbeteren, mantel- en zoomvegetatie ontwikkelen;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;156
+4632181;{C29ADF62-F692-4FB7-9F3F-CE02BEAA6983};Schenkzone, deelgebied D;Natuurvriendelijke oever aanleggen, waterkwaliteit verbeteren, mantel- en zoomvegetatie ontwikkelen;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;157
+4632151;{2C5A56FD-5E05-4775-B772-6C601D388DC9};Scheveningse Zone;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;158
+4632152;{6B1ECFF4-510F-4888-AA5A-387604462CC6};Scheveningse Zone, deelgebied J;Mantel- en zoomvegetatie ontwikkelen, uitheemse soorten vervangen inheemse soorten;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;159
+4632153;{07F8B0F4-3959-42C6-B767-66C032DB71ED};Scheveningse Zone, deelgebied J;Mantel- en zoomvegetatie ontwikkelen, uitheemse soorten vervangen inheemse soorten;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;160
+4632154;{AE7308C6-245D-443F-B6CF-DA7961B43332};Zone Segbroeklaan;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;161
+4632155;{AB6506B5-C023-458A-ABBA-8512D6548E6A};Zone langs Verversingskanaal;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;8;Geuzenkwartier;4;Scheveningen;9;Geuzen- en Statenkwartier;;162
+4632156;{252BE953-1B08-4495-82A4-8F4D94ABEA81};Houtzone, deelgebied Q;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;163
+4632157;{BA56194B-224E-4261-8B83-9B6B96760D4A};Houtzone, deelgebied Q;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;164
+4632158;{A15455F3-E889-4D29-920E-E36C341AC202};Zone Waldorpstraat;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;23;Spoorwijk;6;Laak;38;Laakkwartier en Spoorwijk;;165
+4632159;{BCD1FA51-4DAA-4250-AD95-60905C0DDAFA};Zone Hildebrandplein / Station Moerwijk;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;23;Spoorwijk;6;Laak;38;Laakkwartier en Spoorwijk;;166
+4632160;{7BFEF319-F3B0-447E-B7B6-FF7E83865E4A};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;26;Noordpolderbuurt;6;Laak;38;Laakkwartier en Spoorwijk;;167
+4632161;{6D013E10-148B-4237-BEE2-B7507C7FBA62};Zone Leidschenveen, deelgebied Z;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;168
+4632199;{E8B1908A-A27B-4187-B331-E5A89A5AC95B};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;194
+4632200;{82F9F77C-7E2C-4A64-B87A-F9224B7FD07E};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;195
+4632201;{BFA4B873-7EE2-4D13-B2A1-4E9BB21FE4EA};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;196
+4632182;{8AFD4522-95C9-4DE2-A6FE-B26F43340C3F};Laakzone, deelgebied M;"waar mogelijk stobbenwallen aanleggen, gras ecologisch beheren; riet/ruigte ontwikkelen";Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;26;Noordpolderbuurt;6;Laak;38;Laakkwartier en Spoorwijk;;197
+4632183;{C5608E52-D4A0-4FCC-B23B-00196CBCB396};Laakzone, deelgebied K;waar mogelijk stobbenwallen aanleggen, deels ecologische oever aanleggen. rietkraag doortrekken;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;25;Laakkwartier-oost;6;Laak;38;Laakkwartier en Spoorwijk;;198
+4632184;{339AD10F-DA57-4589-8109-63AC15AEC393};Laakzone, deelgebied K;waar mogelijk stobbenwallen aanleggen, deels ecologische oever aanleggen. rietkraag doortrekken;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;25;Laakkwartier-oost;6;Laak;38;Laakkwartier en Spoorwijk;;199
+4632185;{4DC3C797-52BF-4B9C-8AF6-613A64B62DD8};Laakzone, deelgebied K;waar mogelijk stobbenwallen aanleggen, deels ecologische oever aanleggen. rietkraag doortrekken;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;25;Laakkwartier-oost;6;Laak;38;Laakkwartier en Spoorwijk;;200
+4632186;{8687BE1D-8907-4240-9064-CC77011A0459};Laakzone, deelgebied I;Maaibeheer beter uitvoeren;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;25;Laakkwartier-oost;6;Laak;38;Laakkwartier en Spoorwijk;;201
+4632230;{0EBCCDFE-4B0A-429E-AA46-9296E3601987};Lozerlaan-Middenberm;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;202
+4632231;{0434F7D0-10C4-4548-A1B7-B10C9791BB95};Lozerlaan-Middenberm;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;203
+4632232;{0368054E-D267-42CB-91B1-B4F5248A15BC};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;87;Venen, Oorden en Raden;2;Escamp;33;Bouwlust;;204
+4632190;{D65A0EB4-F3A7-4AB1-96FC-F11A02F4B4A0};Laakzone, deelgebied G;waar mogelijk stobbenwallen aanleggen. ecologische oever aanleggen. gras ecologisch beheren;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;23;Spoorwijk;6;Laak;38;Laakkwartier en Spoorwijk;;177
+4632191;{5DE4D944-F331-4C42-89EE-2DF1A5715068};Laakzone, deelgebied F;Uitvoering 2015 - 2016 gepland, eventueel mee met herinrichting Station Moerwijk;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;23;Spoorwijk;6;Laak;38;Laakkwartier en Spoorwijk;;178
+4632192;{8F104DC6-61C1-46CC-859D-2E3921BC6EA9};Laakzone, deelgebied F;Uitvoering 2015 - 2016 gepland, eventueel mee met herinrichting Station Moerwijk;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;23;Spoorwijk;6;Laak;38;Laakkwartier en Spoorwijk;;179
+4632193;{56AD6F43-4342-4AEA-8DB2-126105ACF2D2};Zone Guntersteinweg;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;39;Moerwijk-zuid;2;Escamp;36;Moerwijk;Guntersteinweg;180
+4632194;{46F04800-0CCA-4C17-BC4E-86FF769280BD};Zone Moezel - Taag;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;181
+4632195;{68870972-D43B-4CA9-9A9B-64ABD640313F};Zone Leidschenveen, deelgebied H;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;182
+4632196;{AB64888A-8342-40D5-BA9B-C7778FBB1BF4};Zone Leidschenveen, deelgebied O;Struweel op helling verder ontwikkelen;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;183
+4632202;{E5A400C2-CB39-4FE3-AF9D-E0D73F01F54F};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;184
+4632203;{5E6E5B59-873E-43BD-AC0C-ED330FF0CDBB};Zone Laan van Hoornwijck;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;185
+4632204;{C4A58905-DF8C-4B45-9D09-34467FD58FEC};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;186
+4632205;{6DB0B8C4-FA39-4785-8ABF-927B6292FE0D};Houtzone, deelgebied A;Ecologische oever aanleggen (oever verlagen).gras ecologisch beheren. struweel aanleggen;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;79;Van Hoytemastraat e.o.;7;Haagse Hout;4;Benoordenhout;;187
+4632206;{FEF4B8D7-CB8F-4C7A-9D22-A2B18C51F3D4};Houtzone, deelgebied A;Ecologische oever aanleggen (oever verlagen).gras ecologisch beheren. struweel aanleggen;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;79;Van Hoytemastraat e.o.;7;Haagse Hout;4;Benoordenhout;;188
+4632207;{785EA3D1-87DB-448A-B2B3-CBD42CACC38E};Zone Oude Middenweg;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;189
+4632208;{E594E940-543A-4248-8524-5BB5365801A0};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;190
+4632209;{8C2E14A0-BDD0-4157-A46A-0107AD68665D};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;191
+4632197;{3864C4E8-B184-42F0-BE8B-1335E813C1F1};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;192
+4632198;{733E32F4-E6C3-4057-A35F-148B5F0C5111};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;193
+4632222;{6481D223-77E7-4E60-828C-41823876634E};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Zevenwoudenlaan;244
+4632223;{166CD234-38B9-4064-9D21-8A7FC259BBDB};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;245
+4632224;{1B2AD268-A544-4526-8524-F7B7380BD5E6};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;246
+4632225;{EF4C4214-7B1C-4A86-B1EE-16EF538510F1};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;247
+4632226;{4D5AAF1F-E334-45DF-8328-D2E5BA26D508};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;97;Kraayenstein;1;Loosduinen;16;Kraayenstein en Vroondaal;;248
+4632227;{1247643E-6A53-4B7D-9A6B-8FAFBDD841F4};Lozerlaan-Middenberm;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;97;Kraayenstein;1;Loosduinen;16;Kraayenstein en Vroondaal;;249
+4632228;{372E476A-AA05-4914-ABB7-40CF0F9418BF};Lozerlaan-Middenberm;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;85;Kerketuinen en Zichtenburg;1;Loosduinen;17;Loosduinen;;250
+4632229;{7DE360F8-56FC-47B2-828E-A2D598D72013};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;97;Kraayenstein;1;Loosduinen;16;Kraayenstein en Vroondaal;;251
+4632264;{A73D7BB0-8F30-4FF6-BCD7-EC32E4E66A8F};Scheveningse Zone, deelgebied L;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;252
+4632265;{E6EC456F-D277-4882-BFD6-E8F82E4F8770};Scheveningse Zone, deelgebied L;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;253
+4632266;{6C569E6D-2818-41AB-91AD-F25246C97216};Scheveningse Zone, deelgebied L;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;254
+4632233;{BA71A572-BC68-4839-BEC5-4545179C20C7};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;205
+4632234;{616BBF26-C0F0-4BAD-AB79-97093387B651};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;85;Kerketuinen en Zichtenburg;1;Loosduinen;17;Loosduinen;;206
+4632235;{FA5B8C36-8AD6-4753-9DE4-123364A48018};Lozerlaan-Middenberm;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;207
+4632236;{1700F9D6-435E-4CE5-8840-578A6CA6CB18};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;85;Kerketuinen en Zichtenburg;1;Loosduinen;17;Loosduinen;;208
+4632237;{B833AF9C-A6A6-4179-B636-BE2B41E61D1B};Erasmuszone, deelgebied B;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;209
+4632238;{CD8C8C2E-2D37-4135-A23D-1687F691989F};Erasmuszone, deelgebied B;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;210
+4632239;{52C1FC01-9761-4CF9-90C7-434D0149BE24};Doornpark;;Scheveningse zone;Ja;Ja;Ja;Ecologische verbindingszone;7;Statenkwartier;4;Scheveningen;9;Geuzen- en Statenkwartier;;211
+4632240;{696F0F50-C732-4BEF-802C-9A9C5E3F375A};Doornpark;;Scheveningse zone;Ja;Ja;Ja;Ecologische verbindingszone;7;Statenkwartier;4;Scheveningen;9;Geuzen- en Statenkwartier;;212
+4632241;{87FB7E7A-1262-4F36-9F6C-8A4ED924DE6B};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;213
+4632242;{787F9C4A-4928-4643-AEF8-C1BB7C47AE5A};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;214
+4632243;{BC803167-47C0-448B-943A-C1039A6D0BF4};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;215
+4632244;{9E5706D1-A206-4DEA-BD1D-DBEAAC0B8289};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;216
+4632245;{BD9451FD-119B-4D91-8B2C-508A9DB65E2C};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;217
+4632246;{56E97F98-4002-4382-90B9-5D6CB0B7DBF5};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;218
+4632247;{826D5075-C2F0-4D91-8DB3-F552668F040A};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;219
+4632248;{0EDF860F-C4A7-4A55-AA7A-1D3893A24901};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;220
+4632249;{3289D6C7-22DC-413D-A432-EF4C53DB8093};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;221
+4632250;{1E67C581-D9BD-4151-9BFD-F766FEEE9E38};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;222
+4632251;{2DB26068-4B30-489D-844F-441B96D155CF};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;223
+4632252;{363BA7D2-52BB-46FC-B135-164601442AC7};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;224
+4632253;{5D8152F5-577B-4F8E-9DB9-18AD38A1FFE1};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;225
+4632254;{4CFDA188-0A73-44AE-9017-C5C727FD7245};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;226
+4632255;{71835D1A-7D50-490C-A267-6633A89B160A};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;227
+4632256;{7FC21ABB-315E-4291-94E8-B88E297A7921};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;228
+4632257;{D3C84445-403F-446F-8FA6-EB338EEE968A};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;229
+4632258;{2302BA6D-C54A-48ED-8EB6-D5AFC123972E};Scheveningse Zone, deelgebied S;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;230
+4632259;{E8E661AF-926A-40F0-84FC-41FB995548D2};Scheveningse Zone, deelgebied L;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;231
+4632210;{23237D06-C070-42FF-B4A5-8E765FD2220A};Laakzone, deelgebied N;Gras ecologisch beheren, deels ecologische oevers aanleggen;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;26;Noordpolderbuurt;6;Laak;38;Laakkwartier en Spoorwijk;;232
+4632211;{358EB170-5091-4B9D-9AF4-D69D313694C9};Scheveningse Zone, deelgebied T;Mantel en zoomvegetatie ontwikkelen;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;233
+4632212;{C6408FE9-DB10-421D-8FC1-EC4C862E7B64};Scheveningse Zone, deelgebied F;Bomenrij doortrekken, Waterkwaliteit verbeteren.Uitvoering gepland 2015;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;234
+4632213;{0F8C0400-376E-4570-A9B1-60E988D617D6};Houtzone, deelgebeid N;Houtwal aanleggen. Mantel en zoomvegetatie ontwikkelen voor schuilmogelijkheden, deels uitgevoerd, deels onderhoud;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;235
+4632214;{F0EAC2D7-47B6-434F-AFDC-CDD339C9FA07};Houtzone, deelgebied O;Houtwal aanleggenUitvoering niet urgent, mogelijk op te lossen met onderhoudsmaatregelen;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;236
+4632215;{97B5DC38-8632-4DAD-9A2B-99082981C45F};Houtzone, deelgebied J;Gras ecologisch beheren. struweel aanplanten, gereed;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;237
+4632216;{6EBD605E-B3FD-492C-A079-AF54AC87A2B5};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;238
+4632217;{A0F8FC92-EC48-43F4-BB92-3EA997A7B3A5};Zone Havannasingel;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Noordweg;239
+4632218;{B978BC1A-3C74-40D5-9394-9788272E18AD};Verbinding Tomatenlaan - Rijnerwatering;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Vlietpark;240
+4632219;{07B23BE8-3A3A-4840-B1BC-04145B389C9A};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;241
+4632220;{8D6A8A56-EC5C-4D6B-9904-EF9571C167E6};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;242
+4632221;{4EC7A171-A0C9-4513-93B2-3D3938B33BE1};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Zevenwoudenlaan;243
+4632278;{3FE85A7F-E196-4DAD-87AB-42226F51B984};Scheveningse Zone, deelgebied G;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;282
+4632279;{D1AA4182-E1A7-46BC-BDB2-34A8880F8D93};Scheveningse Zone, deelgebied G;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;283
+4632280;{4D65E9AD-F7DC-421D-B89F-5CBC8CF9E0C6};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;284
+4632281;{A5BDF442-488F-47CA-BEF7-5F1FC3CF65B7};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;285
+4632282;{68B7F892-9ED5-40A8-93C0-F394346C49AC};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;286
+4632283;{B4388D22-5DC6-41FA-BA06-B27BD86388E2};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;287
+4632260;{3101C59A-845F-4E72-97F0-4E94C4B24B4A};Scheveningse Zone, deelgebied L;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;288
+4632261;{2881B886-C689-46A9-ADD6-D84CE3A370E9};Scheveningse Zone, deelgebied L;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;289
+4632262;{D64A0E50-F98B-4768-87DA-BA2FD9C2A2EC};Scheveningse Zone, deelgebied L;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;290
+4632263;{3A02C05E-F7BE-4F62-9C7F-2FBEEF44240D};Scheveningse Zone, deelgebied L;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;291
+4632317;{2F28B15D-9304-48B7-B8CC-9ADA928E56AB};Zone Leidschenveen, deelgebied Z;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;292
+4632318;{FF942689-8AAA-4A7F-A083-6621736C66E7};Zone Leidschenveen, deelgebied Z;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;293
+4632319;{92BBC3D1-9F3E-4C23-A961-984E8AAF6FA2};Zone Leidschenveen, deelgebied W;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;294
+4632320;{9928BDEF-DE2E-497C-A405-5061131C2573};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;295
+4632267;{A5DC5750-59A7-494A-9406-0F000CB31F8A};Haagse Beekzone, deelgebied J;Uitvoering restpunten 2015/2016deels uitgevoerd, uitvoering resterende punten gepland voor 2015/2016;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;9;Vogelwijk;3;Segbroek;13;Vogelwijk;;255
+4632268;{C94C66DA-CE66-49CC-9939-58F3ACCA24B0};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;256
+4632269;{FD2B9921-0C2C-40E7-994E-3628ACEC5086};Vijverzone;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;257
+4632270;{9CB8CEA3-F410-4D08-814E-218E234066EA};Vijverzone;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;258
+4632271;{BE989BEC-6BF0-448B-A0B9-6ECE3A81E0CE};Vijverzone;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;259
+4632272;{0FEBDE23-BFC8-43E0-B62B-86BFBFABD6E7};Vijverzone;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;260
+4632273;{34D3EDD0-F4D4-40AA-A04C-D5BE72519E75};Vijverzone;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;261
+4632274;{783EBE58-0682-4531-8F78-61E4E7D07067};Vijverzone;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;262
+4632275;{A87EA1A4-F95E-428A-B936-50C3CFB82FC8};Vijverzone;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;263
+4632284;{418B19CC-282F-44FD-B044-079DC0F1365B};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;264
+4632285;{3A0722A2-55B6-48D6-A529-200299BA7494};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;265
+4632286;{5768D288-0B01-4903-80BC-5C4339BAE35B};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;266
+4632287;{B712675F-1ECF-4055-8406-EACFE17602CF};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;267
+4632288;{DDDE2222-8ABA-4500-94DB-13BDA1F11426};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;268
+4632289;{160CF7F7-101A-4D56-93E5-9536F85D141E};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;269
+4632290;{C674EC6E-788F-4D1C-BF21-6DD8750B1091};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;270
+4632291;{BB5D9BFB-F48B-4FEA-8FCB-A14C31F342AC};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;271
+4632292;{DA357D1C-15A2-44D5-895E-FFCACA2B89BE};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;272
+4632293;{9C40664B-F9B8-497F-A7E1-841DEEDAE28E};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;273
+4632294;{48C3D989-46AD-47FC-B12B-2EBCD297D2A2};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;274
+4632295;{0CC52EA9-92AD-4225-8E04-8A7E9B80FD57};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;275
+4632296;{CC039590-F717-4C52-B825-1D9F4FFAB4E8};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;276
+4632297;{D822666F-9E14-49B7-9D92-6D10FD036AB5};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;277
+4632298;{57B321B8-7260-45A2-B870-0BD3BA034AD8};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;278
+4632299;{4E09CAE6-0681-469E-838E-EF621AD29E06};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;279
+4632276;{61F2B36C-F5C7-43C1-8E5C-724AF3330CB0};Vijverzone;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;280
+4632277;{F55FE3A2-6CE9-4229-9BBB-6B250639A4FC};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;281
+4632311;{D70A54BA-59F4-4068-8273-302D2C01D5AA};Zone Leidschenveen, deelgebied D;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;118;De Lanen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;327
+4632312;{FC45C68C-A415-479D-850F-41D5D34865D8};Zone Leidschenveen, deelgebied B;Plas-draszone of natuurvriendelijke oever aanleggen;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;328
+4632313;{13A1D7CB-AEDF-44DB-A056-4E730660395D};Zone Leidschenveen, deelgebied M;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;329
+4632314;{12D08AAA-8DB9-47B2-A65E-9D0F6451A736};Zone Leidschenveen, deelgebied N;Gras ecologisch beheren. struweel  en bomen aanplanten;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;330
+4632315;{6B143399-D407-43F5-98AF-2AE697B77C10};Zone Leidschenveen, deelgebied M;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;331
+4632316;{2CDB881D-8AD9-40E2-9103-03CCF05C8553};Zone Leidschenveen, deelgebied Z;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;332
+4632321;{E8202651-3C6E-4B11-86E4-515D8F3B9EC7};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;296
+4632322;{C0FD27FE-9D58-4788-A836-577AABC4DACC};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;297
+4632323;{890FC210-3A6F-404B-B5AE-0E415C786262};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;298
+4632324;{CB612BF7-20AB-4571-A452-B182AA3E89E9};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;299
+4632325;{594E0808-D564-4B5D-8B4B-56F0CFE84EFE};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;300
+4632326;{57EBDB0B-A317-4A5E-B90E-35C4B62EB60F};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;301
+4632327;{9C9AEBC6-1A21-426F-AF5E-1A37D9A6F367};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;302
+4632328;{616DC521-4BAA-4F95-BABF-3009C012AA9A};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;303
+4632329;{30B12A49-24E6-4DFA-810A-D3F8AFEFF31C};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;304
+4632330;{3225490E-8BE6-4E35-8989-CB60BCE40D51};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;305
+4632331;{AAA2A835-37AD-4F41-9547-CDBAA7879121};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;306
+4632332;{FA6D1B03-7CC1-4371-9866-C1E95D4725EC};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;307
+4632333;{A679E449-AFB9-4729-9D33-9E97D31CA376};Zone Leidschenveen, deelgebied H;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;121;Rietbuurt;8;Leidschenveen-Ypenburg;44;Leidschenveen;;308
+4632334;{37980BDF-4D67-4AB4-B424-649C2DA461E0};Zone Leidschenveen, deelgebied H;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;121;Rietbuurt;8;Leidschenveen-Ypenburg;44;Leidschenveen;;309
+4632335;{A6F0C491-9601-400A-9388-A13317975BFC};Zone Leidschenveen, deelgebied H;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;310
+4632336;{7C74D9D8-EB6F-4308-B4FE-45515ED3017B};Zone Nieuweveensepad;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;121;Rietbuurt;8;Leidschenveen-Ypenburg;44;Leidschenveen;;311
+4632337;{092083F4-4AE1-4D1D-AE87-CD26F7271376};Zone Leidschenveen;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;121;Rietbuurt;8;Leidschenveen-Ypenburg;44;Leidschenveen;;312
+4632338;{045A2CA1-8880-4D0D-8D7A-71C21FAF18C0};Zone Leidschenveen;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;313
+4632339;{82487381-9C48-4C83-AB47-97A450677E4E};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;314
+4632340;{005543C4-CA5A-4ACE-9837-36676C1884CB};Houtzone, deelgebied P;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;315
+4632300;{D7B718BD-331B-42C1-AE6A-B30889A09436};Eco-lint;;Eco-lint;Nee;Nee;Nee;Uitbreiding ecologische verbindingszone;101;Erasmus Veld;2;Escamp;40;Wateringse Veld;;316
+4632301;{2A949D6C-C36C-4ACE-986F-B5CA0DFA0363};Eco-lint;;Eco-lint;Nee;Nee;Nee;Uitbreiding ecologische verbindingszone;101;Erasmus Veld;2;Escamp;40;Wateringse Veld;;317
+4632302;{35E73D3A-91EF-4B41-8B4B-A2E7B64DE2A3};Eco-lint;;Eco-lint;Nee;Nee;Nee;Uitbreiding ecologische verbindingszone;101;Erasmus Veld;2;Escamp;40;Wateringse Veld;;318
+4632303;{1A9FEC16-2E10-440D-9D39-E93AE408D6D6};Zone Middachtenweg;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;Middachtenweg;319
+4632304;{05AC56D1-94F6-4781-97DF-93299F3849AF};Zone Middachtenweg;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;Erasmusweg;320
+4632305;{7C1B078B-A8DA-4C7D-A6AC-1B21C9784DC2};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;88;Morgenstond-west;2;Escamp;34;Morgenstond;;321
+4632306;{F3430B3E-F9D7-488D-A827-C5FECAD74457};Zone Rijnerwatering;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;105;Zonne Veld;2;Escamp;40;Wateringse Veld;Middenweg;322
+4632307;{A8E32B9C-24D0-45B9-99DB-E4E7C589E1D8};Zone Rijnerwatering;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;105;Zonne Veld;2;Escamp;40;Wateringse Veld;Rijner Wateringkade;323
+4632308;{CFAE8D44-5F08-4DC0-B01E-41CAC70EADE7};Scheveningse Zone, deelgebied M;struweel beter ontwikkelen;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;324
+4632309;{23B665E3-7788-4531-9241-1955D2040D15};Laakzone, deelgebied N;Gras ecologisch beheren, deels ecologische oevers aanleggen;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;26;Noordpolderbuurt;6;Laak;38;Laakkwartier en Spoorwijk;;325
+4632310;{4B4F4077-CE4E-49D1-A2F9-8B938538F8E2};Zone Leidschenveen, deelgebied C;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;118;De Lanen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;326
+4632362;{C4A0704C-4EF9-477F-84B5-F3741D668D19};Zone Veenbespad;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;365
+4632363;{C3CEA8ED-661A-4BCD-AFE5-6C778891B569};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;366
+4632364;{F5982F33-B13A-43B8-9999-DFEF9220EAEE};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;367
+4632365;{E726D87A-20CC-4803-88B0-63B4D436D8BF};Zone Veenbespad;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;368
+4632366;{51D05F92-66E0-4868-9D27-CA24A99C89A1};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;369
+4632367;{13B1E47B-4E63-4ED4-8EA7-0B266F0E34A3};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;370
+4632368;{85701512-BCE6-4C90-A274-88B7EC4CC554};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;371
+4632369;{4FA08EC3-8AA4-4FD1-81E3-FE32A92341DF};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;372
+4632370;{3165C14D-C6DA-4BB0-88AD-A18CCD92CC39};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;373
+4632371;{EFEC1D03-B532-4FBC-A01C-EBF5708EC74C};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;374
+4632372;{909D134B-377A-4827-9D5E-80CF3EADADAA};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;375
+4632373;{8503A492-55DC-4A19-992B-05ED75616565};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;376
+4632374;{25CFEE10-E84D-440A-9E05-DC266A946821};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;377
+4632375;{61E7236F-8AD9-4925-961E-E4AB03142641};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;378
+4632376;{D776005C-D43C-4C18-A77D-4242FE3F0DB1};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;379
+4632341;{1D442B75-74AD-4D01-B2C7-8034709B45C2};Zone Ypenburg, gebied maatregel 21;Aalscholversingel;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;380
+4632342;{A6D5E349-5E01-4D00-82D9-B6EA7A398CBC};Houtzone, deelgebied 8;Boombrug aanleggen voor Eekhoorn, uitvoeren alleen als dit nodig blijkt te zijn;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;75;Uilennest;7;Haagse Hout;4;Benoordenhout;;381
+4632343;{06BA628C-7AC9-4D7C-A6C9-2DC614FE45B7};Houtzone, deelgebied 8;Boombrug aanleggen voor Eekhoorn, uitvoeren alleen als dit nodig blijkt te zijn;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;75;Uilennest;7;Haagse Hout;4;Benoordenhout;;382
+4632344;{A26EA540-307A-48C8-94C2-5D3938BDDF30};Houtzone, deelgebied 8;Boombrug aanleggen voor Eekhoorn, uitvoeren alleen als dit nodig blijkt te zijn;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;75;Uilennest;7;Haagse Hout;4;Benoordenhout;;383
+4632345;{3AB7B09D-81D2-4921-BDCD-76EDB27E9DA8};Houtzone, deelgebied 8;Boombrug aanleggen voor Eekhoorn, uitvoeren alleen als dit nodig blijkt te zijn;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;75;Uilennest;7;Haagse Hout;4;Benoordenhout;;384
+4632346;{6A193433-08B6-4F7F-BE8A-24C0F59F97D8};Houtzone, deelgebied G;Ecologische oever aanleggen (oever verlagen).gras ecologisch beheren;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;75;Uilennest;7;Haagse Hout;4;Benoordenhout;;385
+4632347;{0E1EBE20-6BD8-4702-9D67-B9A42C45A97F};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;90;Ockenburgh;1;Loosduinen;15;Kijkduin en Ockenburgh;;386
+4632348;{F3BB8D43-A0BC-4071-9B15-E4170093F04C};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;387
+4632440;{254A0EC5-0D87-4FC1-8069-B9EEB8AF7392};Zone Ypenburg, delgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;388
+4632441;{D3F54462-6C68-46ED-8B5C-6EC81AA58ECA};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;389
+4632442;{E0EFB132-2578-4F94-9571-A3216DC4F4F4};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;390
+4632349;{618392B8-CC92-4CEE-A74E-986953963B68};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;333
+4632350;{173FF3D8-CBBF-4968-8C71-8902A584D710};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;334
+4632351;{257D6C85-C22F-4A54-9587-5A394FF46196};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;335
+4632352;{9573D4D8-D47B-4918-AAFD-46F7F9D7E6E8};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;336
+4632353;{B2708CFC-C042-42DB-B822-45F6BDBBC3BD};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;337
+4632354;{BFF6622B-2C07-4F99-B178-9B2E958E467C};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;338
+4632355;{A0607579-CCE7-449C-8CE0-E2C2CA16240D};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;339
+4632356;{B6E14A2B-CBFB-421F-95C3-2BBE20951C21};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;340
+4632357;{4C28CF5F-9D3F-4DB0-97AF-0F91102DDC86};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;341
+4632358;{8F205FE7-87CD-4337-8B03-042BD450777A};Zone Brasserskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;342
+4632359;{2D69D143-7C96-4815-AE72-E44B7BE5512B};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;343
+4632377;{C8B95E70-3223-4341-BAFB-33BAECBA5559};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;344
+4632378;{FFD77D02-894A-4C70-8CBD-8A61DE6D9DF9};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;345
+4632379;{8939309C-CA06-4954-97A4-573179A2EA4A};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;346
+4632380;{1E8D0867-9BAF-4329-95C5-C391B4AE0AF3};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;347
+4632381;{3C13A243-04F4-4D68-AE66-D06CA8A20B70};Zone Brasserhoutweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;348
+4632382;{394A706C-38D2-4C49-BD59-A2B87356C79B};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;349
+4632383;{D529B9CF-76F7-48DF-A1CE-0CC40334C44F};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;350
+4632384;{4D9859B3-02E9-4010-9F71-6AEB5DDF4821};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;351
+4632385;{E3844167-4BF3-4B77-953E-D801C47D6C86};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;352
+4632386;{893D221A-9E74-44E2-AD86-D5F3B5AD4E26};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;353
+4632387;{995991FF-33D1-471B-BF9B-CCCB0445B3FF};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;354
+4632388;{BEA6555A-F580-4F9E-913B-21F8D0262110};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;355
+4632389;{52CAEB3A-8CA0-4C2D-AD2C-B3B8B57DAAC8};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;356
+4632390;{F08DD4A6-0DD5-4367-BC47-0E681AE7D7E0};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;357
+4632391;{8624001A-94B1-4ECF-AB58-C0F3AC1FB127};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;358
+4632392;{3447565A-4E77-4DA7-810E-CA94E3C51D40};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;359
+4632393;{88B69060-BDB6-4C77-9EC7-9B4FF75E85C8};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;360
+4632394;{6C85DDC1-408F-4079-B97C-9F1A95BCFC20};Zone Dwarskade;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;361
+4632395;{16027074-E26B-4CFA-BA8D-5E5C3EAA2AAF};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;362
+4632360;{4A9C44F2-BCBC-4467-BF03-2ADAE3CEB6A7};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;363
+4632361;{84171DD8-76F2-41B1-9852-EEA61C5D9686};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;364
+4632422;{6A5AA292-F30D-4968-B073-04AEE15D90DC};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;444
+4632423;{7D3D46EC-FDA0-4D05-9217-31956A326A43};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;445
+4632424;{66234A39-11EA-46BC-A1C3-A613369ABF94};Scheveningse Zone, deelgebeid M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;446
+4632425;{872C5D05-A621-4BA3-B45F-19DFF14D657F};Scheveningse Zone, deelgebeid M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;447
+4632426;{7D37F243-15F3-4FD2-A5FE-788B966C8FC1};Scheveningse Zone, deelgebeid M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;448
+4632427;{616B8EB6-3CDB-4965-A440-866D19F11C77};Scheveningse Zone, deelgebeid M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;449
+4632428;{5AE34929-D942-496D-9075-13A15010AC0F};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;450
+4632429;{4EED6099-C77E-40C4-947D-221E663327D5};Schenkzone;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;Nieuwe Veenmolenpad;451
+4632430;{71623007-972B-42B6-B916-EA0F8818071F};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;452
+4632431;{64ED14A6-A585-4050-A8C4-9BC52F8DCEDC};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;453
+4632432;{801395F7-D90B-4F1F-A0DF-D28FBF0CB0F4};Zone Ypenburg, deelgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;454
+4632433;{90101F7E-B26E-4514-92CB-6F67D7197AE5};Zone Ypenburg, delgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;455
+4632434;{61B1EEE9-4AEF-496F-970C-470DA5382285};Zone Ypenburg, delgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;456
+4632435;{310DC85C-9DEC-4D8C-86E9-FF4F14F025F2};Zone Ypenburg, delgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;457
+4632436;{BA0949BD-4306-4779-9393-209EDF419BEF};Zone Ypenburg, delgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;458
+4632437;{FDCB38BF-ACE2-404C-976E-784311619DCA};Zone Ypenburg, delgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;459
+4632438;{59709823-AFF8-4DDE-9922-80D91C11E76C};Zone Ypenburg, delgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;460
+4632439;{BE102545-62DC-414C-8257-B4CCE6AD720A};Zone Ypenburg, delgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;;461
+4632478;{77414023-ED43-4ED1-9904-4EA28D9C5B0D};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;462
+4632443;{DA6000C2-0F93-49AA-BD1F-D2746C8469F8};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;391
+4632444;{DA1CCEB9-8D59-46E8-B2DA-98E37E376CF4};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;392
+4632445;{4508D7DB-169B-4B69-91C7-DDD97169F9BA};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;393
+4632446;{330BA78B-76A0-4B43-84D9-3EECA935A1E1};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;394
+4632447;{B130A292-BA86-4845-8401-47AD612CD4FB};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;395
+4632448;{F02D39F6-28E5-40CC-83BD-3E33C7DEBE5B};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;396
+4632449;{4CB1A211-76F8-435A-ADE2-37AC9367D6F3};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;397
+4632450;{A25B6540-3E4D-4FDD-B306-512C010A5E54};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;398
+4632451;{6C585CE7-223A-404B-988D-4BDDB0D0B584};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;399
+4632452;{33408AF7-7CF6-40B6-90B6-2F9CF4CECC05};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;400
+4632453;{A0A69A59-AE80-4B86-BF2B-EE4B183B3BDE};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;401
+4632454;{9F23E46C-E798-4D80-81D3-F0053DB33F42};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;402
+4632455;{623B7E5E-D7E0-47A4-8DBB-F45025DE7032};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;403
+4632456;{444688BE-A626-494B-AB63-82633765C8BB};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;404
+4632457;{B6682A4C-6616-4EA0-87B5-3803B53F2B39};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;405
+4632458;{6F420BF5-EAE7-45A0-AA9E-B6BF26FB727D};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;406
+4632459;{1A20582B-1D66-4EA4-8C01-1B8E17761210};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;407
+4632460;{DE3D87D0-5B0D-457E-B266-DD6FEEB12FAA};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;408
+4632461;{92115BC6-23C4-49AC-A842-C9BA15C43384};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;409
+4632462;{907D16F1-724B-4EDD-860D-0AB3DA15892E};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;410
+4632463;{7E9DFB2E-DB9F-4509-959B-3B3E16EB7569};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;411
+4632464;{11669201-CE6B-4811-855E-6BD2900B5AE5};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;111;De Venen;8;Leidschenveen-Ypenburg;42;Ypenburg;;412
+4632465;{479DA89C-3254-4862-A415-67EEB57A03D7};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;413
+4632466;{BC2C03F3-F6EB-4013-A7D2-42E63B9FCCE7};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;414
+4632467;{F0E4EDF3-AB14-464E-94A7-A7326D3486F1};Zone Ypenburg, deelgebied B1 - de Mok;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;415
+4632468;{D82B9AA4-54F1-49B7-BBF6-1C489BE46158};Zone Ypenburg, deelgebied B1 - de Mok;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;416
+4632469;{14219A5E-2FF9-4031-9C59-21C756F02CF4};Zone Ypenburg, deelgebied B1 - de Mok;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;417
+4632396;{68FC7276-511C-435C-911F-C5273A532E09};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;418
+4632397;{A0841BF4-CFFB-4FAB-BCBA-2FC1998061C6};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;419
+4632398;{EB9F3EC1-9449-479D-BC46-88D98A7C42C2};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;420
+4632399;{2CC653A7-E190-46B7-9725-FC77917AC9A6};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;421
+4632400;{7409C73D-60EA-4704-9964-BBB537BFDA8F};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;422
+4632401;{69569F2A-6657-4EBE-8CBD-FB41CB8D3484};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;423
+4632402;{CA8E2D8A-D1E7-40C6-B670-8C28875D22DF};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;424
+4632403;{FAEE66A6-20F8-4831-AC6B-3693D66FF502};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;425
+4632404;{F2658EA1-5B5F-4296-B2D4-7B609F69795E};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;426
+4632405;{B1991E8E-9AA9-49B3-9E2A-5EA620695737};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;427
+4632406;{DDE7EF4A-77E5-4009-9FAB-F7BE6C7A36BA};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;428
+4632407;{CDAFE959-BCF5-4D3C-968C-521BB281CBA6};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;429
+4632408;{972841C7-03C5-45B6-A3F5-F04506B75845};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;430
+4632409;{06F0FE8B-2548-4C9F-B28C-C3158F20D3DE};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;431
+4632410;{8307BC09-753E-4B54-9D72-2976905BAF2E};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;432
+4632411;{F120F7BB-9302-4A83-9A80-50AA0A59B6E9};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;433
+4632412;{6F291833-94DD-4EA2-A9A5-84F2E9AA7D11};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;434
+4632413;{98A273A7-47D8-4A3B-9B9E-62C81DE28F39};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;435
+4632414;{152736B1-7DD0-4C79-B47F-7F2C7C0B9F5D};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;436
+4632415;{AC09E853-D82A-45F4-810E-CDB5D9115BB8};Zone Bostonsingel;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Bostonsingel;437
+4632416;{1ADE073E-C542-470F-BC18-59D8E059DA10};Scheveningse Zone, deelgebied M;;Scheveningse zone;Nee;Nee;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;438
+4632417;{9C050C52-6142-4A31-8150-17004CD8E4D0};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;439
+4632418;{A8CF4104-3D77-466A-8590-E943CD09FB06};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;440
+4632419;{A9046848-5B3B-46D6-9DCC-E6E491CBFEB6};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;441
+4632420;{C8ED4AA5-9618-4C39-A69E-9A634238C39A};Scheveningse Zone, deelgebied M;;Scheveningse zone;Nee;Nee;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;442
+4632421;{CADFCCAA-49D7-40CD-A955-D0AE53AE0C47};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;443
+4632495;{B5A152C4-97AF-4EF8-950D-16E9E6F2AD1B};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;490
+4632496;{646839A5-F432-4464-8936-DB0E1E786621};Zone Leidschenveen, deelgebied O;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;491
+4632497;{09DD3C31-0A80-415F-A478-BCBC0F0A372E};Zone Leidschenveen, deelgebied O;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;492
+4632498;{E26165F2-99AD-4A60-98AE-DE77CD79166C};Zone Leidschenveen, deelgebied F;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;493
+4632499;{F9FF6078-E746-464E-BB2C-9E7757F6CE32};Zone Leidschenveen, deelgebied N;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;494
+4632500;{CEC8114A-2736-4B80-B788-23066E16AA10};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;495
+4632501;{404B0904-3D0F-4430-B12B-F2945EEF55AB};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;496
+4632502;{77D83916-8649-4706-9A10-664C0220A7DB};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;497
+4632503;{5103483B-D30B-4BB9-9CB4-7ABDEFDA2136};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;498
+4632504;{4FC7DFFD-3D64-4A47-A0DE-39450FC4F701};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;499
+4632505;{5C689B8D-2263-42C9-AB10-2BA71C16514C};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;500
+4632506;{9E37C7D2-47F8-45A0-99E1-260984EDD2E7};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;501
+4632507;{7403148F-C5DE-41BA-90C4-E8AFFCA18E16};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;502
+4632470;{A13740A5-BD2F-42FF-B498-A8B5093765D9};Zone Middelweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;503
+4632471;{C5F558B5-D0DE-40D2-AE71-EC16A4560173};Zone Middelweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;504
+4632472;{4D3A94ED-C241-4ABE-A5C6-A9919199CBF0};Zone Middelweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;505
+4632473;{5FABE23F-F871-4B11-B69C-9751DE8026DE};Zone Middelweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;506
+4632474;{33EDE39D-961E-4F60-B198-C73523AB4C4B};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;507
+4632475;{5B906DBC-AA2B-4B20-919B-CD19EC413C22};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;508
+4632476;{6636A768-61A3-408C-B9F3-D8D376F5ADC0};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;509
+4632477;{0099A30A-404C-4E32-B016-713D404ADD00};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;510
+4632479;{4717DE13-6F7F-4485-97A5-22373A86B624};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;463
+4632480;{058EB0F8-DF02-49B8-9ED7-44D172158D76};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;464
+4632481;{F12EF0E7-3ED2-441E-A165-B05269E32CD2};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;465
+4632482;{04485845-8667-46ED-9E0B-18649C4F4B43};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;466
+4632483;{E92AE372-D48C-43F0-BD2D-657DE63A0A36};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;467
+4632484;{FD92F821-B73E-4E6D-8466-CD92C9AA6756};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;468
+4632485;{FBCC3017-B8A8-4E3E-B7A6-461392721D24};Zone Ypenburg, deelgebied C1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;469
+4632486;{C6FF760F-2044-47F3-8E41-D474DB96CCC8};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;470
+4632487;{57689CF9-A2B9-479A-8487-9C6198492FDA};Zone Leidschenveen, deelgebied P;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;471
+4632488;{BC6BC890-3B03-468D-8C12-15DE21E3E059};Zone Leidschenveen, deelgebied P;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;472
+4632489;{0D2BF166-DDE6-4199-AEBB-60ADC58C0F91};Zone Leidschenveen, deelgebied W;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;473
+4632490;{95319F85-DF3B-4412-9B91-2C14DF92426A};Zone Leidschenveen, deelgebied W;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;474
+4632491;{0E469100-B4DA-4C3A-9E24-43F9E5E759B3};Zone Leidschenveen, deelgebied W;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;475
+4632492;{3E0C1642-100A-4D68-9C22-F17C656358A5};Zone Leidschenveen, deelgebied X;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;476
+4632493;{597A343C-4AC5-4F7C-B83B-912FC2E84012};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;477
+4632508;{D4B1B071-906B-41DF-8717-605E8045DD8B};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;478
+4632509;{E8551FFA-0D59-4F31-BC60-DC84F2445D26};Zone Leidschenveen, deelgebied L;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;479
+4632510;{AECC0946-0136-4120-B34F-0FB32A57DC32};Zone Leidschenveen, deelgebied L;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;480
+4632511;{15E2394B-FC5A-4B58-9DA8-E424C5FBD81C};Zone Leidschenveen, deelgebied L;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;481
+4632512;{AA88C812-5FC3-4274-B769-979CE1F08BBD};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;482
+4632513;{4DFDD726-A61C-4ACC-A05A-D3708981DD85};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;483
+4632514;{891685D1-DB3F-4C63-8D89-18A178FA9894};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;484
+4632515;{B0A5A24A-6FD0-41B8-8405-D6049310BA90};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;485
+4632516;{9BC2D475-11C7-4DAC-8557-ACDD25BCB5C7};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;486
+4632517;{00E5D09A-6106-4E57-833D-153B4F13E5BB};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;487
+4632518;{0FE8125F-43F4-4C05-B9FD-E30C702EA163};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;488
+4632494;{76A32338-A0A1-4BCA-8B59-D7FA9F63F82B};Zone Leidschenveen, deelgebied V;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;489
+4632534;{80B81E3F-A551-4A2D-85B3-B1B816B96DD5};Zone Haringkade;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;560
+4632535;{E4AFBB90-5AF7-48C2-A36A-F423F4906319};Scheveningse Zone, deelgebied R;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;561
+4632536;{335D4E50-C355-48AA-A4CB-FE135345CFDB};Scheveningse Zone, deelgebied R;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;562
+4632537;{4A9A453A-3FA0-400C-BCDD-9ED28EA0762B};Zone Assumburgweg;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;Erasmusweg;563
+4632538;{E1F56F91-6F58-43B0-A3CC-B3DBB81E1272};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;80;Morgenstond-zuid;2;Escamp;34;Morgenstond;;564
+4632539;{9517EB16-61BB-43AA-8F4D-8F6540B2874C};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;565
+4632540;{8211697C-4BA5-4B9B-A8EB-D09F5BF28A94};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;88;Morgenstond-west;2;Escamp;34;Morgenstond;;566
+4632541;{9FA9CD94-34C2-4893-9F8D-F7F2D92F7F59};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;567
+4632542;{68F93E5C-7826-49D3-948E-EFCDE20A6D73};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;88;Morgenstond-west;2;Escamp;34;Morgenstond;;568
+4632543;{2B57869A-2526-4664-B976-E5499CBF1F98};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;569
+4632544;{179C3A65-2584-4FCE-847F-DD61D02F6492};Zone Rijnerwatering;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;105;Zonne Veld;2;Escamp;40;Wateringse Veld;Middenweg;570
+4632545;{22E68E19-E4C6-4977-8908-FDC1454D8828};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;87;Venen, Oorden en Raden;2;Escamp;33;Bouwlust;;571
+4632546;{BFA46A81-F162-4B0F-B512-C7E771E3496E};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;87;Venen, Oorden en Raden;2;Escamp;33;Bouwlust;;572
+4632547;{88DB0ED2-4C70-4542-8E04-127A6FDBD5DE};Zone Ypenburg, deelgebied C;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;573
+4632548;{9B38F16B-9737-49E0-92A5-A2374CE42F86};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;112;Morgenweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;574
+4632549;{33EBC96D-1123-42DD-8B5D-0A81BBCFCD15};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;111;De Venen;8;Leidschenveen-Ypenburg;42;Ypenburg;;511
+4632550;{D2523DAC-7B33-46C4-AF5C-6FC460B3B6C4};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;81;Bosjes van Pex;1;Loosduinen;14;Bohemen en Meer en Bos;;512
+4632551;{A2EC9D8F-FA54-42F4-BA1D-3C17DAD602B1};Laakzone, deelgebied I;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;25;Laakkwartier-oost;6;Laak;38;Laakkwartier en Spoorwijk;;513
+4632552;{D21B1A74-061C-4F91-82B8-CB685B3A096C};Zone Guntersteinweg;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;Middachtenweg;514
+4632553;{70C6DAB7-C8B8-4A3B-AB22-E1D4650BB2D3};Zone Guntersteinweg;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;20;Moerwijk-oost;2;Escamp;36;Moerwijk;Middachtenweg;515
+4632554;{6054F1E0-2D15-4E59-816E-95AC51498866};Erasmuszone;;Erasmuszone;Ja;Ja;Nee;Ecologische verbindingszone;39;Moerwijk-zuid;2;Escamp;36;Moerwijk;;516
+4632555;{02B56FB8-F3C9-4CE8-84FA-4BDEE67C6EC0};Houtzone, deelgebied 8;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;75;Uilennest;7;Haagse Hout;4;Benoordenhout;;517
+4632556;{09ECB421-441D-4031-BA91-0815A47E5860};Houtzone, deelgebied 8;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;75;Uilennest;7;Haagse Hout;4;Benoordenhout;;518
+4632557;{AFB9CB86-2F26-4E71-8A49-291C77E769D1};Zone Hildebrandplein / Station Moerwijk;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;23;Spoorwijk;6;Laak;38;Laakkwartier en Spoorwijk;;519
+4632558;{16761675-B8FC-42CC-8F98-085209F8B0A4};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;24;Laakkwartier-west;6;Laak;38;Laakkwartier en Spoorwijk;;520
+4632559;{A095E8F3-DDF3-45CF-BE43-47705AD38FA0};Eco-lint;;Eco-lint;Nee;Nee;Nee;Uitbreiding ecologische verbindingszone;101;Erasmus Veld;2;Escamp;40;Wateringse Veld;;521
+4632560;{686F4BBA-DE7B-4D2F-BE7D-4165BAA020D2};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;522
+4632561;{330E15CB-CB49-4F65-8DF2-3E31BCCB90FB};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;523
+4632562;{6858B82B-9841-4BCA-BD70-678A936677D6};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;524
+4632563;{82F58FCC-E2BA-46E7-94EF-BD907864E8CA};Eco-lint;;Eco-lint;Nee;Nee;Nee;Uitbreiding ecologische verbindingszone;101;Erasmus Veld;2;Escamp;40;Wateringse Veld;;525
+4632564;{969A2653-6352-4A0A-8061-21E1A7EEF6B4};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;98;Dreven en Gaarden;2;Escamp;33;Bouwlust;;526
+4632565;{5781E6BC-3F9B-4BE0-9C91-B9379ADD7653};Laakzone, deelgebied M;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;60;Binckhorst;6;Laak;39;Binckhorst;;527
+4632566;{80A98CA8-A04A-424D-9DC7-ECD6C3C235EF};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;19;Laakhaven-oost;6;Laak;38;Laakkwartier en Spoorwijk;;528
+4632567;{29281B99-D236-484B-A717-C57038399F03};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;19;Laakhaven-oost;6;Laak;38;Laakkwartier en Spoorwijk;;529
+4632568;{2843A852-2D16-4665-8460-A6AE5D1C7BDD};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;19;Laakhaven-oost;6;Laak;38;Laakkwartier en Spoorwijk;;530
+4632569;{FF3CD9AA-9517-469A-9C58-5B77F8CBD611};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;19;Laakhaven-oost;6;Laak;38;Laakkwartier en Spoorwijk;;531
+4632570;{95525016-30F9-47F7-87A3-613391F678CA};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;24;Laakkwartier-west;6;Laak;38;Laakkwartier en Spoorwijk;;532
+4632571;{18BD4580-4C8C-4365-A010-7770E94D02BC};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;24;Laakkwartier-west;6;Laak;38;Laakkwartier en Spoorwijk;;533
+4632572;{1622560C-03BE-4EB5-9D82-629738AC8A99};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;24;Laakkwartier-west;6;Laak;38;Laakkwartier en Spoorwijk;;534
+4632573;{29550110-0BB5-42B1-AB83-36EADE0F94FE};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;24;Laakkwartier-west;6;Laak;38;Laakkwartier en Spoorwijk;;535
+4632574;{E8264DD1-27EE-49A8-8581-5BB0FEF36F8A};Haagse Beekzone, deelgebied P;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;90;Ockenburgh;1;Loosduinen;15;Kijkduin en Ockenburgh;;536
+4632575;{56B5CBDC-BB4B-47B1-9959-1A68EE6EC548};Haagse Beekzone, deelgebied P;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;90;Ockenburgh;1;Loosduinen;15;Kijkduin en Ockenburgh;;537
+4632576;{4B35032A-5339-43AA-9147-6008FED940CD};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;92;Bohemen en Meer en Bos;1;Loosduinen;14;Bohemen en Meer en Bos;;538
+4632577;{21223FBE-6A59-4B43-98C8-30576C19620C};Haagse Beekzone, deelgebied B;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;41;Zorgvliet;4;Scheveningen;10;Zorgvliet;;539
+4632578;{285B7194-B748-4C64-868B-BB3E9F9A4773};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;41;Zorgvliet;4;Scheveningen;10;Zorgvliet;;540
+4632579;{5272D1A3-8A2D-46F9-8F0D-3B8B561D1922};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;41;Zorgvliet;4;Scheveningen;10;Zorgvliet;;541
+4632580;{66F019CE-5BFC-4777-A7A7-1CC190CFD2A0};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;542
+4632581;{DE2BD3FF-6245-430B-AA44-3898475F8D26};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;543
+4632582;{43146E3B-FE9F-42F4-8E15-0B6B14D6330F};Houtzone, deelgebied N;Houtwal aanleggen. Mantel en zoomvegetatie ontwikkelen voor schuilmogelijkheden, deels uitgevoerd, deels onderhoud;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;544
+4632519;{3AA40E5B-F539-42F6-8F63-83A7D2751FD0};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;545
+4632520;{4C2157CD-5910-40ED-AFA1-B75ED8342836};Schenkzone, deelgebied B;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;;546
+4632521;{8FAD90D0-8DDB-4423-805B-6851398367CD};Schenkzone, deelgebied B;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;;547
+4632522;{C0125692-C748-40C9-8882-32BB3C30B790};Schenkzone, deelgebied B;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;;548
+4632523;{E891FE53-C313-4D90-AA06-D992441B5F68};Schenkzone, deelgebied A;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;549
+4632524;{DF5ED70A-9027-4A6D-BCE8-BFA0243DEBC2};Schenkzone, deelgebied A;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;550
+4632525;{EA8F5FB3-1A56-4A6A-B7C6-732ECA1A4A69};Schenkzone, deelgebied A;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;551
+4632526;{C1D5C8AE-494B-43AE-8612-ACA64BFB1959};Schenkzone, deelgebied A;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;552
+4632527;{97F3CDA8-2244-42DC-8CAB-D5B2BC5725C4};Schenkzone, deelgebied A;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;553
+4632528;{9BFA7FC5-6623-4486-957F-61710FE61773};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;554
+4632529;{5B8AEAB9-979E-4D3C-A5F9-697F8029D920};Scheveningse Zone, deelgebied M;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;4;Visserijbuurt;4;Scheveningen;7;Scheveningen;;555
+4632530;{45227C8B-23AE-49CC-86B9-51296CA15628};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;556
+4632531;{D14A9C78-E892-4E77-9D20-0ED1C3065B5E};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;557
+4632532;{3EA0518A-66E4-4C91-83BA-51AB87755336};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;558
+4632533;{04577429-B810-4E66-AB7B-6775EBF93259};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;559
+4632613;{81270838-BB0E-4846-9047-7BA389348075};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;610
+4632614;{10235C1F-568D-4FCB-BC50-E5829D7236C2};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;611
+4632615;{92439757-3CC8-47C2-8016-96DFD9D55CAF};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;612
+4632616;{EEFF3D3F-8B75-48C0-B3C5-B790A97CA2B8};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;613
+4632617;{111AA3AB-3E29-4FB8-BDB5-261571A9C4BE};Zone Ypenburg, deelgebied B1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;614
+4632618;{8BC213AD-03E4-486E-B210-AB28D88C02C9};Zone Ypenburg, deelgebied B1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;615
+4632619;{B5AFA869-A3F9-4CEA-ACCE-F19C33AE7844};Zone Ypenburg, deelgebied B1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;616
+4632620;{4F861B5A-7B52-4D79-A253-C37E767D935F};Zone Ypenburg, deelgebied B1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;114;Waterbuurt;8;Leidschenveen-Ypenburg;42;Ypenburg;;617
+4632621;{EB35EAAF-6F5A-46E1-B2B5-A440F5044C05};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;618
+4632622;{8370025B-93EE-4B00-B9D5-C86CFE560353};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;619
+4632623;{1B4125D4-2384-42BC-932E-C593E84E7D4E};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;620
+4632624;{53C49263-1723-4173-B372-66E1417BD98D};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;621
+4632625;{077B9C5D-85E5-4AF3-BAEE-A75F6E3C0B9E};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;622
+4632626;{59CA9125-7FA8-486A-99A9-240EA10235A2};Zone Middelweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;623
+4632627;{963B1EEC-F64B-4CB2-BC8D-BF6B1A4EF181};Zone Middelweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;624
+4632628;{F5FED919-995C-40ED-9DB6-0144C33CD982};Zone Middelweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;625
+4632629;{7CFBC13B-96FC-4BE5-B33B-E71426D628FC};Zone Middelweg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;115;De Bras;8;Leidschenveen-Ypenburg;42;Ypenburg;;626
+4632630;{F890D217-720F-4E05-BCBC-3AB3DFF7E9E9};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;627
+4632631;{BE588F51-4804-43DD-83A1-204362D0290E};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;628
+4632583;{7ED0344B-AAAB-44B4-814F-EB40503905AB};Houtzone, deelgebied N;Houtwal aanleggen. Mantel en zoomvegetatie ontwikkelen voor schuilmogelijkheden, deels uitgevoerd, deels onderhoud;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;629
+4632584;{74FE16B9-5F42-4A0C-B12F-1560F53AEBD1};Houtzone, deelgebied N;Houtwal aanleggen. Mantel en zoomvegetatie ontwikkelen voor schuilmogelijkheden, deels uitgevoerd, deels onderhoud;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;630
+4632585;{07F5D7D3-9311-4C64-9BC7-008C661C8914};Houtzone, deelgebied N;Houtwal aanleggen. Mantel en zoomvegetatie ontwikkelen voor schuilmogelijkheden, deels uitgevoerd, deels onderhoud;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;631
+4632586;{D8045FD1-5237-477E-8614-1279A3F5A5B3};Houtzone, deelgebied N;Houtwal aanleggen. Mantel en zoomvegetatie ontwikkelen voor schuilmogelijkheden, deels uitgevoerd, deels onderhoud;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;632
+4632587;{21DEDFDA-DC5A-43ED-B6D5-D27370D1B8A0};Houtzone, deelgebied N;Houtwal aanleggen. Mantel en zoomvegetatie ontwikkelen voor schuilmogelijkheden, deels uitgevoerd, deels onderhoud;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;633
+4632588;{83ED8BAB-B60D-4760-BED5-CA4E26536957};Houtzone, deelgebied O;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;634
+4632589;{9D37C95A-2EED-4FEC-8F34-B0801057A662};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;635
+4632590;{F6441BDC-360D-4A2E-B40B-120AB4A1F95C};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;636
+4632591;{BABD9F88-CFB2-472D-83D4-836D3649EEC3};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;637
+4632592;{DB780623-DBE9-40C1-8768-A07E3D305803};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;638
+4632593;{AFA7A79E-C171-4934-B252-BEF0736008DF};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;575
+4632594;{43A5B7B4-2865-4C09-81A5-D9CDA2F17698};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;576
+4632595;{CEDF9114-B460-43BA-9992-691F36CF92BD};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;577
+4632596;{D553BC63-889F-455D-AB19-D8456F77D60E};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;578
+4632597;{171DB3A5-D39B-4D82-A959-19EFAB772D9C};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;579
+4632598;{4862B917-13C0-44CD-BC4D-39354308367D};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;580
+4632599;{8B7CEC5A-767B-4621-A46C-4ECAC0525939};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;581
+4632600;{FB49D973-CDCC-4203-A485-212D227EF815};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;582
+4632601;{E4D26E40-244F-4DE8-B448-277965B82BE7};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;583
+4632602;{B5E9AFDD-2142-42D1-A2A2-1EE91591F55A};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;584
+4632603;{483ED957-1681-4EBD-AAE0-0DA0769E8331};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;585
+4632604;{666229CE-DAF3-487B-BAA9-067CC07775B9};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;586
+4632605;{96E0B68D-4675-44DD-AA6A-6EA6682899C8};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;587
+4632606;{87851F94-E80A-4C1C-B317-041A396661B9};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;588
+4632607;{7D8772A9-F7A0-40E0-AECB-4E75581FF742};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;589
+4632608;{DA2954E0-4BF3-46A3-96F9-13FDBED3AEB4};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;590
+4632609;{563BD6E2-3AA8-4EEC-9369-626E076CD00E};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;591
+4632610;{00C4B268-2A0A-473A-80D6-9D2BBA21A2A5};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;592
+4632611;{43EB837D-F41E-4101-BEAD-20161C1CF70A};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;593
+4632612;{8ABEE800-EFD5-464C-885E-673CA60C6A44};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;594
+4632632;{0AC024D6-F26E-49AB-9847-DCC4238D3C23};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;595
+4632633;{170ADB8C-72F5-4604-9FFF-B649F157F6F3};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;596
+4632634;{E3631B1B-8A26-43AF-A6E3-0B1590401759};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;597
+4632635;{D79E6B31-552F-41C5-8D32-216E5601653B};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;598
+4632636;{343A0BF7-1F85-4689-B1C1-CC96C8AA4871};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;599
+4632637;{CCD29BA7-A582-4511-A2A4-76AAD1792B95};Zone Leidschenveen, deelgebied A;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;600
+4632638;{DF5AB51E-EF2D-4355-8C59-58FE7FDDA93F};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;601
+4632639;{2FA97CC5-A318-455F-A57E-F6F045470215};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;602
+4632640;{E4419ED5-5C8F-4497-8276-AE6EBED5460C};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;603
+4632641;{5FE7DD0A-5DDC-4183-B7B6-68D156C66293};Zone Leidschenveen, deelgebied S;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;120;De Vissen;8;Leidschenveen-Ypenburg;44;Leidschenveen;;604
+4632642;{E181D722-3FD1-406F-9C7C-86911B0EC77D};Scheveningse Zone, deelgebied R;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;;;;;;;;605
+4632643;{232A5D0D-A07E-431C-BBB4-144C07B97DCB};Haagse Beekzone, deelgebied P;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;;;;;;;;606
+4632644;{DD0096DB-CFB8-465C-9FCC-991EA8A75BE7};Laakzone;;Laakzone;Ja;Ja;Nee;Ecologische verbindingszone;25;Laakkwartier-oost;6;Laak;38;Laakkwartier en Spoorwijk;Laakkade;607
+4632645;{3FF824C1-D391-4F45-91A1-D5798F66D80E};Zone Ypenburg, deelgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;Koolhovenlaan;608
+4632646;{D25A0A86-EC8D-4EE0-81AF-58C738D45E29};Zone Ypenburg, deelgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;Blériotlaan;609
+4632655;{66C4BA69-D1ED-4E08-A37E-9BBF402FDAAE};Zone Ridderlaan;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;669
+4632656;{06FF333C-7508-4CA0-B8C2-1167E515B8F2};Zone van Montfortlaan;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;78;Arendsdorp;7;Haagse Hout;4;Benoordenhout;;670
+4632657;{1575D4C2-B7C3-4AC7-B842-2FC656EBFDBB};Groene Assen -Sportpark;;Groene Assen Zuidwestzone;Nee;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;671
+4632658;{C8FF755C-ED28-4657-93DF-C2C4EA3077C0};Houtzone, deelgebied Q, patch;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;672
+4632659;{B20F24EB-41CC-4496-B5D7-E45743590954};Zone Oude Middenweg;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;;673
+4632660;{3EF4CDE9-D6D6-41FC-900E-4EFE22E3EBCE};Groene Assen, Drentheplantsoen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;88;Morgenstond-west;2;Escamp;34;Morgenstond;;674
+4632661;{4A0BC393-9269-4EDA-B8E4-57E830F8B30A};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;675
+4632662;{5F6852E9-063C-42C1-BF48-7A8231F03B54};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;676
+4632791;{214CCC3C-20B1-42FA-80C9-5BB61F6203A2};Zone Lozerlaan;;Groene Assen Zuidwestzone;Nee;Nee;Nee;Ecologische verbindingszone;95;Kom Loosduinen;1;Loosduinen;17;Loosduinen;;677
+4632792;{C8C5F3B6-8255-4983-A70E-C35B7C17A490};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;94;Waldeck-noord;1;Loosduinen;18;Waldeck;;678
+4632663;{2D5531A8-21D6-4E3A-BE48-812EFF555FBD};Zone Lozerlaan;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;639
+4632664;{C4D5F9F3-DEFB-4E1E-ADE8-18D6F9B8D2BA};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;640
+4632665;{1C4EA55A-6848-45E5-A992-72B7090D4AF6};Groene Assen Zuidwest - patch;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;96;Zijden, Steden en Zichten;2;Escamp;33;Bouwlust;;641
+4632666;{C80705C4-365D-4D39-BD6D-88923570B674};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;642
+4632667;{6C0BB8FD-D267-4636-8A83-A10956953F57};Schenkzone;;Schenkzone;Ja;Nee;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;643
+4632668;{097DFACF-70FC-4488-AD02-33411B3845AA};Zone Ypenburgse Boslaan;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;108;Bosweide;8;Leidschenveen-Ypenburg;42;Ypenburg;;644
+4632669;{94497CF3-6773-4F89-831C-3389F8F868A1};Zone Leidschenveen, deelgebied J;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;119;De Velden;8;Leidschenveen-Ypenburg;44;Leidschenveen;;645
+4632670;{5C4EBA6D-A3F6-493A-9A4C-40485F17E6EC};Zone Ypenburg;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;110;De Reef;8;Leidschenveen-Ypenburg;41;Hoornwijk;;646
+4632671;{D91FC8F7-7CB1-4F65-AE82-092327DBBCCD};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;647
+4632672;{DBB3EE31-2F26-4C0B-B539-0BB33FCFA93F};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;648
+4632673;{6682EB9C-4DE0-4E78-ABDF-BBE7D5DBC539};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;649
+4632674;{F57D24AE-097A-40AF-B14B-2F6D877764FF};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;650
+4632675;{C594C8FB-8FB0-44C4-8C82-8CD742270F48};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;651
+4632676;{EF452D00-B91B-4CA0-A1F7-0F5E8CE106EE};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;652
+4632677;{CF6F06A1-9E42-44C5-9CBE-4C7A57560E2C};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;653
+4632678;{9DD7E1B8-DCD5-44C0-9653-B8418EB28A07};Zone Tomatenlaan;;Wateringse Veldzone;Ja;Ja;Nee;Ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;Tomatenlaan;654
+4632679;{EA6F5ABA-A5DF-4CE1-9482-FAED6771D927};Schenkzone;;Schenkzone;Ja;Ja;Nee;Ecologische verbindingszone;61;Landen;7;Haagse Hout;25;Mariahoeve en Marlot;;655
+4632680;{15FFA36D-1E1A-4BE1-A79D-B0642BE26579};Zone Haringkade;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;656
+4632681;{B9400379-4A0E-47C8-A701-7AB60E569916};Zone Haringkade;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;657
+4632682;{708C7A71-04E6-4A70-A7AC-AA48B5A4A8CE};Zone Haringkade;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;658
+4632683;{C715854B-9E9F-4A29-98E1-96686C7693E3};Scheveningse Zone, deelgebied J;Mantel- en zoomvegetatie ontwikkelen, uitheemse soorten vervangen inheemse soorten;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;659
+4632684;{68353CBB-6CFF-427F-875A-0E68D6880828};Haagse Beekzone, deelgebied K;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;50;Bloemenbuurt-west;3;Segbroek;12;Bomen- en Bloemenbuurt;;660
+4632647;{896146D6-221F-45B2-9EAC-F0CF443AECA2};Zone Ypenburg, deelgebied F1;;Ypenburgzone;Ja;Ja;Nee;Ecologische verbindingszone;113;Singels;8;Leidschenveen-Ypenburg;42;Ypenburg;Hopmanstraat;661
+4632648;{B2C74E65-0DE1-42BB-ACFF-BD915A94DF74};Haagse Beekzone, deelgebied L;Waterkwaliteit verbeteren, samenwerking DSB, R&W en HHD, Uitvoering ca. 2017;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;81;Bosjes van Pex;1;Loosduinen;14;Bohemen en Meer en Bos;;662
+4632649;{FB7B36F7-823A-46B2-887A-6051113587D4};Haagse Beekzone;;Haagse Beekzone;Ja;Nee;Nee;Ecologische verbindingszone;50;Bloemenbuurt-west;3;Segbroek;12;Bomen- en Bloemenbuurt;;663
+4632650;{C0167C52-4D4D-4E20-A55D-9B536C2BCBD8};Schenkzone;;Schenkzone;Ja;Nee;Nee;Ecologische verbindingszone;61;Landen;7;Haagse Hout;25;Mariahoeve en Marlot;;664
+4632651;{CE6136A9-3BFC-4EA4-9168-64B9A49529CC};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;87;Venen, Oorden en Raden;2;Escamp;33;Bouwlust;;665
+4632652;{CACEC7C7-CBA8-46F6-8496-1B27A4CF087C};Groene Assen;;Groene Assen Zuidwestzone;Ja;Ja;Nee;Ecologische verbindingszone;87;Venen, Oorden en Raden;2;Escamp;33;Bouwlust;;666
+4632653;{87CD0325-6487-49B5-93D5-6EBF5167BE1E};Zone Groenhovenstraat;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;78;Arendsdorp;7;Haagse Hout;4;Benoordenhout;;667
+4632654;{A1C7B4F3-7388-4960-A5BE-6414B7C82A8E};Zone Ridderlaan;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;77;Waalsdorp;7;Haagse Hout;4;Benoordenhout;;668
+4632803;{16834E58-DEB0-4984-B835-695F7FC12578};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;697
+4632804;{FCFDCEE3-0A2D-417C-92BF-D5780671215F};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;698
+4632805;{4A84C5F4-BAEB-46A2-AEFC-9E1EFCA21A8B};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;699
+4632806;{B488571B-5DAC-47F1-86E3-E309C536989B};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;700
+4632807;{5A0C4390-9A1E-4C8F-8DEB-0230A82B7AD6};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;701
+4632693;{2CED4402-D0F3-4967-BBEA-0C8E9CC42081};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;702
+4632694;{FB002E8E-3EBE-4C45-960D-35AAEC78BAC7};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;703
+4632695;{58D7B3AD-8A0F-4AB7-96DB-1EF84E02A510};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;704
+4632696;{CFCCAB25-9B63-40FB-B952-0628CA4AD4CF};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;705
+4632697;{25A6D9DB-FEE4-4892-9E5F-E2C30990A913};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;706
+4632698;{478CE18E-9D48-4B78-B872-4289109ACEDC};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;707
+4632699;{CB424A2D-F6F7-4808-A68B-D70B1AD0B0A5};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;708
+4632700;{4C2033BE-583A-48BA-A607-01DB6E9A972D};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;709
+4632701;{9781F961-7553-4696-AB6E-075F147C2029};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;710
+4632702;{4FA30C16-5977-40CF-9385-CA11BED3F81A};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;711
+4632703;{6587178D-9FA0-4C64-AE87-88C8D204751D};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;712
+4632808;{7E3EB1CA-55C8-4561-9793-8B72B4DFB9DF};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;713
+4632809;{EA35C1F1-66C5-4AD1-9B69-D73D989D4C1B};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;714
+4632810;{BF2960A6-B453-4F2F-961A-C58204D997EA};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;92;Bohemen en Meer en Bos;1;Loosduinen;14;Bohemen en Meer en Bos;;715
+4632811;{32B5B8B0-4529-4A91-BCE5-8E92516ECC19};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;92;Bohemen en Meer en Bos;1;Loosduinen;14;Bohemen en Meer en Bos;;716
+4860096;{57431124-9C7E-4CDB-AC53-FEC54DD84086};Zone Leidschenveen;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;121;Rietbuurt;8;Leidschenveen-Ypenburg;44;Leidschenveen;Donau;717
+4860097;{FE82CF84-7962-4022-88C7-2C48AD76975F};Zone Nieuweveensepad;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;117;De Rivieren;8;Leidschenveen-Ypenburg;43;Forepark;Donau;718
+4860098;{85EBBE53-4202-4F33-986D-9B1E4FD441D8};Zone Leidschenveen;;Leidschenveenzone;Ja;Ja;Nee;Ecologische verbindingszone;121;Rietbuurt;8;Leidschenveen-Ypenburg;44;Leidschenveen;Donau;719
+4632704;{5B2FD576-4A24-4731-A647-47338760A2D7};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;720
+4632705;{CA22086C-794A-44FA-A75F-20EEABA5841D};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;721
+4632706;{FBEE9D09-28C2-4E20-8979-C4D508324D2F};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;722
+4632707;{1305F465-D5C9-4A02-89AC-2DD6771DFA99};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;723
+4632708;{4A198530-F96B-4B3A-B3F4-DAFC01833215};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;724
+4632709;{6D13CAEE-65DF-43A9-82E5-8CC2EB7A76E2};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;725
+4632710;{F3FC7336-1916-4501-A42E-3BEA79D52E78};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;726
+4632711;{3B19ACCD-D040-4035-AD92-88BCBD1737EB};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;727
+4632712;{866D0088-D90B-44D2-956C-7175B3E17538};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;728
+4632713;{63B5A2F5-BC34-4518-A63E-CBF6E2BFE671};Zone Haringkade;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;729
+4632714;{B042A885-9CE5-4C9B-8628-441A78F07FF7};Zone Haringkade;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;730
+4632715;{C17DD6E8-31ED-44F9-B4E8-773D46DE2CB2};Scheveningse Zone;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;731
+4632716;{2BDF3C25-35F8-4D66-AB35-1A54124630F8};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;732
+4632717;{91790ADD-5B76-4B63-AB0A-0B19F5877385};Scheveningse Zone;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;733
+4632718;{A1394BAE-EC47-40BD-97C2-67AC7FF1C77D};Scheveningse Zone;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;734
+4632719;{D44FCFC9-44BE-4F8E-888F-82A813F1F578};Scheveningse Zone;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;735
+4632720;{79DB9969-DBE0-4616-B5E9-E470E4DF5B79};Scheveningse Zone, deelgebied J;Mantel- en zoomvegetatie ontwikkelen, uitheemse soorten vervangen inheemse soorten;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;736
+4632721;{7D809F6C-C0E0-4217-AD0B-07FEF9428BDE};Scheveningse Zone, deelgebied J;Mantel- en zoomvegetatie ontwikkelen, uitheemse soorten vervangen inheemse soorten;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;74;Duttendel;4;Scheveningen;3;Westbroekpark en Duttendel;;737
+4632722;{9FC62D94-1DCC-4B9F-8672-3096B9D90F88};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;73;Westbroekpark;4;Scheveningen;3;Westbroekpark en Duttendel;;738
+4632723;{237F2D40-1E4A-478F-B497-95CE4662232D};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;739
+4632724;{774E130D-68F3-4A8F-9C22-AB5DC760998F};Scheveningse Zone, deelgebied L;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;5;Van Stolkprk./Schev.Bosjes;4;Scheveningen;6;Van Stolkpark en Scheveningse Bosjes;;740
+4632725;{4AE0C45E-1040-488C-8832-8D0815F930CF};Haagse Beekzone, deelgebieden D en E;voldoet aan wensbeeld, uitgevoerd 2009;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;52;Bomenbuurt;3;Segbroek;12;Bomen- en Bloemenbuurt;;741
+4632726;{69A75B6F-1321-47B0-93B9-8094C5F20D55};Zone langs Verversingskanaal;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;52;Bomenbuurt;3;Segbroek;12;Bomen- en Bloemenbuurt;;742
+4632727;{3A6D377F-6354-491E-A21A-6BCCD0BBB2A0};Haagse Beekzone, deelgebied P;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;91;Kijkduin;1;Loosduinen;15;Kijkduin en Ockenburgh;;743
+4632728;{5D005CA4-5C5C-4A04-976C-4FBFAD1A33AF};Schenkzone;;Schenkzone;Nee;Nee;Nee;Ecologische verbindingszone;66;Bezuidenhout-oost;7;Haagse Hout;26;Bezuidenhout;;744
+4632729;{D9DB0E8A-8D86-4F64-8A1C-CA44367B8ACE};Schenkzone;;Schenkzone;Nee;Nee;Nee;Ecologische verbindingszone;66;Bezuidenhout-oost;7;Haagse Hout;26;Bezuidenhout;;745
+4632730;{97378FF8-E1D7-406F-9954-CB2AD02D8AAC};Laakzone;;Laakzone;Nee;Nee;Nee;Ecologische verbindingszone;22;Laakhaven-west;6;Laak;38;Laakkwartier en Spoorwijk;;746
+4632731;{7245F056-061D-4039-8167-AB77A68740F7};Schenkzone;;Schenkzone;Nee;Nee;Nee;Ecologische verbindingszone;69;Burgen en Hosten;7;Haagse Hout;25;Mariahoeve en Marlot;;747
+4632732;{25F98341-5968-47BC-8932-04820168C762};Haagse Beekzone;;Haagse Beekzone;Nee;Nee;Nee;Ecologische verbindingszone;2;Vissershaven;4;Scheveningen;7;Scheveningen;;748
+4632733;{10F1E25A-883A-4BF9-B671-5CD40EFBDAAA};Erasmuszone;;Erasmuszone;Nee;Nee;Nee;Ecologische verbindingszone;39;Moerwijk-zuid;2;Escamp;36;Moerwijk;;749
+4632734;{110ABCFA-23B3-4E93-AC9A-BABF3381DDB3};Erasmuszone;;Erasmuszone;Nee;Nee;Nee;Ecologische verbindingszone;39;Moerwijk-zuid;2;Escamp;36;Moerwijk;;750
+4632735;{85A3571B-8F41-4E14-90F8-448E0E71BD86};Erasmuszone;;Erasmuszone;Nee;Nee;Nee;Ecologische verbindingszone;39;Moerwijk-zuid;2;Escamp;36;Moerwijk;;751
+4632736;{9C9FBD41-A14B-43EF-B48B-AC42BDA831A6};Haagse Beekzone;;Haagse Beekzone;Ja;Nee;Nee;Ecologische verbindingszone;50;Bloemenbuurt-west;3;Segbroek;12;Bomen- en Bloemenbuurt;;752
+4632737;{19DC2E11-4187-4553-9ABA-FA4D5B6AE80D};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;90;Ockenburgh;1;Loosduinen;15;Kijkduin en Ockenburgh;;753
+4632738;{F243A7A3-243F-41D7-95F1-9C37C3820DC3};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;95;Kom Loosduinen;1;Loosduinen;17;Loosduinen;;754
+4632739;{73462FA0-58C4-4138-B21F-90A915D33B40};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;95;Kom Loosduinen;1;Loosduinen;17;Loosduinen;;755
+4632740;{DE35B45D-C95C-464D-BE5A-5E06D3B1AE53};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;17;Loosduinen;;756
+4632741;{0D4613EF-65CC-4A4A-B53C-4E3F175084A3};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;757
+4632742;{CA1D02C0-91C9-43DC-9A51-0F2DB4BABD05};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;758
+4632743;{FECCCFC9-2455-4D18-8798-07BDBAFD532D};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;759
+4632744;{69A4E3FB-D6F7-40F1-A46E-3FFA4AD738E0};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;760
+4632745;{567C6260-7755-4942-BB03-D55CE1724879};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;761
+4632746;{E26D34E7-554E-4F55-AEB4-9007DE2200A5};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;762
+4632747;{ACEE03C1-82A3-4465-9F9E-549E34F5901B};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;763
+4632748;{A4E263D0-7EA4-429A-B73C-EEE7B40DA72A};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;764
+4632749;{6FAAEA22-8923-469E-88EA-A3DC401FA1C8};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;765
+4632750;{BF4AB9D6-18A7-4D47-804E-34455B6D1120};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;766
+4632751;{3FF55153-F04C-48DA-AD04-5093C42C1512};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;767
+4632752;{251DA906-BDC4-4A29-99C4-33EA7BF1CD2E};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;768
+4632753;{A28AF7BE-7B92-4B79-BC4D-E35340D9213F};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;769
+4632754;{E68A25C4-7AFD-4C96-948B-EBCB4ABB715C};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;770
+4632755;{45486856-EEAA-4987-898C-DDF9BFD6D931};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;771
+4632756;{E0A37E64-F44D-4BBF-85CC-51E0BE7A21DC};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;772
+4632757;{AD13C6ED-A3F6-478F-A0FC-6C2941BAA068};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;773
+4632758;{9115CC2C-C586-411F-B09C-2AF8DB24C730};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;6;Waldeck-zuid;1;Loosduinen;18;Waldeck;;774
+4632759;{E72406BF-11AB-4F3E-A4E5-076E26451843};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;775
+4632760;{C3F5F5EC-9B25-4192-A0C7-91C8A1B18C10};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;776
+4632761;{6BBFB89D-5117-473C-ABA6-37663A0190AC};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;777
+4632762;{5BC7C981-048A-4EE2-838C-450C32F087A5};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;778
+4632763;{A4F81A7A-6934-47B8-8E31-E5F6D15A974C};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;779
+4632764;{8CAE7496-E959-4618-AC6C-2DCD62E8A719};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;780
+4632765;{25AB86BE-E806-483F-B3A1-FA6E1EB1F27E};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;781
+4632766;{0F79F549-BCA1-42EA-9985-423F37742ED3};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;782
+4632767;{A815AC52-1A06-48DD-A113-214B07DE8C65};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;783
+4632768;{F8A16FE1-0C4C-40CC-86EE-C44AEC20AD42};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;784
+4632769;{8D0E4653-BD73-49CD-9007-F062FCC75833};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;785
+4632770;{DEFD9450-E43B-45A2-BBC2-ABD0FCEF420C};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;40;Nieuw Waldeck;1;Loosduinen;18;Waldeck;;786
+4632771;{FC107174-7184-4A31-B116-0FCC831D8EE0};Haagse Beekzone;;Haagse Beekzone;Nee;Nee;Nee;Ecologische verbindingszone;91;Kijkduin;1;Loosduinen;15;Kijkduin en Ockenburgh;;787
+4632772;{EED0EA61-B113-45BF-BF81-5341454AA82F};Haagse Beekzone;;Haagse Beekzone;Nee;Nee;Nee;Ecologische verbindingszone;91;Kijkduin;1;Loosduinen;15;Kijkduin en Ockenburgh;;788
+4632773;{580DC04F-99F1-4AA7-8D7F-D7397EE043D3};Haagse Beekzone;;Haagse Beekzone;Nee;Nee;Nee;Ecologische verbindingszone;90;Ockenburgh;1;Loosduinen;15;Kijkduin en Ockenburgh;Strand Zuid;789
+4632774;{9C6D54B4-C15A-4FBD-BAB1-A9815FD38D65};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;90;Ockenburgh;1;Loosduinen;15;Kijkduin en Ockenburgh;;790
+4632775;{2646FFCB-6E6F-4A6A-8928-0C61AD1B233D};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;90;Ockenburgh;1;Loosduinen;15;Kijkduin en Ockenburgh;;791
+4632776;{B9548AA2-79B9-4361-9EAA-0B6AABE29A8E};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;90;Ockenburgh;1;Loosduinen;15;Kijkduin en Ockenburgh;Duinvallei;792
+4632777;{7E8CAE93-7A1E-48AD-B3C3-46C4DCC10F66};Schenkzone;;Schenkzone;Nee;Nee;Nee;Ecologische verbindingszone;67;Kampen;7;Haagse Hout;25;Mariahoeve en Marlot;;793
+4632778;{E3398A60-25AB-47E5-8B1D-BFC89AE8A4BE};Eco-lint;;Eco-lint;Nee;Nee;Nee;Uitbreiding ecologische verbindingszone;102;Hoge Veld;2;Escamp;40;Wateringse Veld;;794
+4632779;{F65A91E5-3BE5-4210-9B0C-9755D8B8333C};Loosduinse zone;;Loosduinse zone;Nee;Nee;Nee;Ecologische verbindingszone;94;Waldeck-noord;1;Loosduinen;18;Waldeck;Robert Stolzplantsoen;795
+4632780;{0C3F77F6-66E1-4560-BBC7-9E5D3D548957};Haagse Beekzone;;Haagse Beekzone;Nee;Ja;Nee;Uitbreiding ecologische verbindingszone;2;Vissershaven;4;Scheveningen;7;Scheveningen;;796
+4632781;{F0251DD8-9CA7-493C-BFFF-71C7AB830427};Haagse Beekzone;;Haagse Beekzone;Nee;Ja;Nee;Uitbreiding ecologische verbindingszone;2;Vissershaven;4;Scheveningen;7;Scheveningen;;797
+4632782;{C6065AB3-8868-4DD0-B788-D32054BD2AD2};Haagse Beekzone;;Haagse Beekzone;Nee;Ja;Nee;Uitbreiding ecologische verbindingszone;2;Vissershaven;4;Scheveningen;7;Scheveningen;;798
+4632783;{AB16FD65-93D6-4593-AD8B-A16892B4D694};EVZ;;Scheveningse zone;Ja;Ja;Ja;Ecologische verbindingszone;71;Belgisch Park;4;Scheveningen;2;Belgisch Park;;799
+4632793;{5FC11341-B0B3-4825-AFCF-15D23E13E029};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;81;Bosjes van Pex;1;Loosduinen;14;Bohemen en Meer en Bos;;679
+4632794;{4A5BD734-49AC-4D64-BA6C-4D8C7D94035C};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;81;Bosjes van Pex;1;Loosduinen;14;Bohemen en Meer en Bos;;680
+4632795;{AA7E4ECA-336A-4C04-9397-48AABA2D8339};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;81;Bosjes van Pex;1;Loosduinen;14;Bohemen en Meer en Bos;;681
+4632796;{6E37D3BE-8936-40CC-A0D9-A4C2B77ECA43};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;81;Bosjes van Pex;1;Loosduinen;14;Bohemen en Meer en Bos;;682
+4632797;{4C84C238-3DD8-41D1-9CDA-892832C4BF64};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;81;Bosjes van Pex;1;Loosduinen;14;Bohemen en Meer en Bos;;683
+4632798;{8348BFAC-7174-4540-BC32-384939657D9F};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;50;Bloemenbuurt-west;1;Loosduinen;12;Bomen- en Bloemenbuurt;;684
+4632685;{85C33EA0-AA0A-4700-A28C-4DA1F0C3EE53};Haagse Beekzone, deelgebieden H en I;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;685
+4632686;{73ADBAC7-AD95-48CA-A61B-1AF3140F206C};Zone Waalsdorperweg;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;686
+4632687;{A0E2315D-B960-47D9-A095-550646F3D1BC};Zone Waalsdorperweg;;Houtzone;Ja;Ja;Nee;Ecologische verbindingszone;76;Duinzigt;7;Haagse Hout;4;Benoordenhout;;687
+4632784;{C51D55FF-B0D9-4106-9D30-8E5442FA1729};Zone Lozerlaan;;Groene Assen Zuidwestzone;Nee;Nee;Nee;Ecologische verbindingszone;97;Kraayenstein;1;Loosduinen;16;Kraayenstein en Vroondaal;;800
+4632785;{BABC5DCD-13EF-4F39-99CF-AB44B6A009E7};Zone Lozerlaan;;Groene Assen Zuidwestzone;Nee;Nee;Nee;Ecologische verbindingszone;97;Kraayenstein;1;Loosduinen;16;Kraayenstein en Vroondaal;;801
+4632786;{4A389F68-BC30-4CAA-A53A-EDAC35EF1691};Zone Lozerlaan;;Groene Assen Zuidwestzone;Nee;Nee;Nee;Ecologische verbindingszone;97;Kraayenstein;1;Loosduinen;16;Kraayenstein en Vroondaal;;802
+4632787;{A4DBB7F7-893C-4AA9-8C83-FE9A9B076730};Zone Lozerlaan;;Groene Assen Zuidwestzone;Nee;Nee;Nee;Ecologische verbindingszone;95;Kom Loosduinen;1;Loosduinen;16;Kraayenstein en Vroondaal;;803
+4632788;{EF797806-3173-491F-A5FF-E85539053AC4};Zone Lozerlaan;;Groene Assen Zuidwestzone;Nee;Nee;Nee;Ecologische verbindingszone;97;Kraayenstein;1;Loosduinen;16;Kraayenstein en Vroondaal;;804
+4632789;{980C533C-A3E6-4EB6-AFA7-5AF12DECCAB1};Zone Lozerlaan;;Groene Assen Zuidwestzone;Nee;Nee;Nee;Ecologische verbindingszone;95;Kom Loosduinen;1;Loosduinen;16;Kraayenstein en Vroondaal;;805
+4632790;{82588E1A-D295-455A-9B90-6EB17262C130};Zone Lozerlaan;;Groene Assen Zuidwestzone;Nee;Nee;Nee;Ecologische verbindingszone;97;Kraayenstein;1;Loosduinen;16;Kraayenstein en Vroondaal;;806
+4632688;{6E6499B2-1AE1-487F-BDF4-F731E2495EB4};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;688
+4632689;{7F91D634-283D-4CD5-BB9E-1EDD2AB6E59A};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;689
+4632690;{48CD8AF1-0ED7-4493-922E-ABF903037A51};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;690
+4632691;{78ADD3DD-FCA9-42A4-815A-7718C8262D91};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;691
+4632692;{289C43C3-84E0-4C34-A3CF-B4BA49598CB8};Scheveningse Zone, deelgebied I;;Scheveningse zone;Ja;Ja;Nee;Ecologische verbindingszone;72;Rijslag;4;Scheveningen;7;Scheveningen;;692
+4632799;{617A0FFE-29A4-4EE0-AEF3-8E19F6DB8095};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;50;Bloemenbuurt-west;3;Segbroek;12;Bomen- en Bloemenbuurt;;693
+4632800;{3039D273-866D-46E5-A953-B0E1834EBD95};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;50;Bloemenbuurt-west;3;Segbroek;12;Bomen- en Bloemenbuurt;;694
+4632801;{4F1A3980-2E0F-4A16-8076-28D781890522};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;50;Bloemenbuurt-west;3;Segbroek;12;Bomen- en Bloemenbuurt;;695
+4632802;{102EDFFC-B38D-4DFC-B72B-592AFF95DAA0};Haagse Beekzone;;Haagse Beekzone;Ja;Ja;Nee;Ecologische verbindingszone;51;Bloemenbuurt-oost;3;Segbroek;12;Bomen- en Bloemenbuurt;;696

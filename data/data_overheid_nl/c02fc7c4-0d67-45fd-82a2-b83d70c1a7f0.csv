@@ -1,0 +1,833 @@
+Nummer;Totaal van;Jaar;Maand;Procedure categorie;Verblijfscluster;Nationaliteit;Aantal aanvragen
+1;Jaar, Procedure categorie;2020;*Alle*;EU-document;*Alle*;*Alle*;5600
+2;Jaar, Maand, Procedure categorie;2020;01;EU-document;*Alle*;*Alle*;670
+2;Jaar, Maand, Procedure categorie;2020;02;EU-document;*Alle*;*Alle*;510
+2;Jaar, Maand, Procedure categorie;2020;03;EU-document;*Alle*;*Alle*;410
+2;Jaar, Maand, Procedure categorie;2020;04;EU-document;*Alle*;*Alle*;230
+2;Jaar, Maand, Procedure categorie;2020;05;EU-document;*Alle*;*Alle*;220
+2;Jaar, Maand, Procedure categorie;2020;06;EU-document;*Alle*;*Alle*;230
+2;Jaar, Maand, Procedure categorie;2020;07;EU-document;*Alle*;*Alle*;350
+2;Jaar, Maand, Procedure categorie;2020;08;EU-document;*Alle*;*Alle*;440
+2;Jaar, Maand, Procedure categorie;2020;09;EU-document;*Alle*;*Alle*;680
+2;Jaar, Maand, Procedure categorie;2020;10;EU-document;*Alle*;*Alle*;660
+2;Jaar, Maand, Procedure categorie;2020;11;EU-document;*Alle*;*Alle*;590
+2;Jaar, Maand, Procedure categorie;2020;12;EU-document;*Alle*;*Alle*;610
+3;Jaar, Procedure categorie, Verblijfscluster;2020;*Alle*;EU-document;Derdelanders;*Alle*;5590
+3;Jaar, Procedure categorie, Verblijfscluster;2020;*Alle*;EU-document;EU-burgers;*Alle*;10
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;01;EU-document;Derdelanders;*Alle*;670
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;02;EU-document;Derdelanders;*Alle*;510
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;03;EU-document;Derdelanders;*Alle*;410
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;04;EU-document;Derdelanders;*Alle*;230
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;05;EU-document;Derdelanders;*Alle*;220
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;06;EU-document;Derdelanders;*Alle*;230
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;07;EU-document;Derdelanders;*Alle*;350
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;08;EU-document;Derdelanders;*Alle*;440
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;09;EU-document;Derdelanders;*Alle*;680
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;10;EU-document;Derdelanders;*Alle*;660
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;11;EU-document;Derdelanders;*Alle*;590
+4;Jaar, Maand, Procedure categorie, Verblijfscluster;2020;12;EU-document;Derdelanders;*Alle*;600
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Afghaanse;60
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Albanese;70
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Algerijnse;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Amerikaans burger;270
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Angolese;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Argentijnse;80
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Armeense;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Australische;60
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Azerbeidzjaanse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Belarussische;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Bengalese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Boliviaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Braziliaanse;430
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;British National (overseas);10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Brits burger;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Burger van Bosnië-Herzegovina;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Burger van Congo;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Burger van de Republiek Noord-Macedonië;50
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Burger van Democratische Republiek Congo;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Burger van Trinidad en Tobago;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Burundese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Canadese;60
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Chileense;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Chinese;120
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Colombiaanse;150
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Costa Ricaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Cubaanse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Dominicaanse;60
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Ecuadoraanse;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Egyptische;120
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Eritrese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Ethiopische;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Filipijnse;130
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Gambiaanse;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Georgische;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Ghanese;140
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Guinese;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Hondurese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Indiase;70
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Indonesische;110
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Iraakse;120
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Iraanse;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Israëlische;70
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Ivoriaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Jamaicaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Japanse;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Jordaanse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Kaapverdische;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Kameroense;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Kazachse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Kenyaanse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Kirgizische;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Kosovaarse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Libanese;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Libische;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Maleisische;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Marokkaanse;610
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Mexicaanse;90
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Moldavische;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Montenegrijnse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Mozambikaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Nepalese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Nicaraguaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Nieuw-Zeelandse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Nigeriaanse;150
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Oekraïense;150
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Oezbeekse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Onbekend;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Pakistaanse;60
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Paraguayaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Peruaanse;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Poolse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Russische;150
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Salvadoraanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Senegalese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Servische;70
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Sierra Leoonse;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Singaporese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Soedanese;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Somalische;20
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Sri Lankaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Staatloos;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Surinaamse;240
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Syrische;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Taiwanese;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Tanzaniaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Thaise;60
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Tunesische;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Turkse;410
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Ugandese;30
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Uruguayaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Venezolaanse;80
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Vietnamese;40
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Zimbabwaanse;10
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Zuid-Afrikaanse;150
+5;Jaar, Procedure categorie, Verblijfscluster, Nationaliteit;2020;*Alle*;EU-document;Derdelanders;Zuid-Koreaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Afghaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Algerijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Amerikaans burger;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Armeense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Braziliaanse;50
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Burger van de Republiek Noord-Macedonië;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Chinese;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Colombiaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Dominicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Egyptische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Filipijnse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Ghanese;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Guinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Indonesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Iraakse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Iraanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Kaapverdische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Marokkaanse;70
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Mexicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Nieuw-Zeelandse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Pakistaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Peruaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Russische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Surinaamse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Tunesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Turkse;50
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;01;EU-document;Derdelanders;Zuid-Afrikaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Afghaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Angolese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Braziliaanse;50
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Indonesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Marokkaanse;80
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Onbekend;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Peruaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Surinaamse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Tunesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Turkse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;02;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Afghaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Braziliaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Burger van de Republiek Noord-Macedonië;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Colombiaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Dominicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Filipijnse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Ghanese;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Iraanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Marokkaanse;50
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Mexicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Surinaamse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Turkse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Ugandese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;03;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Braziliaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Dominicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Indonesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Kenyaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Marokkaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Surinaamse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;04;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Braziliaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Marokkaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Surinaamse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;05;EU-document;Derdelanders;Vietnamese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Amerikaans burger;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Marokkaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Surinaamse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Turkse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Vietnamese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;06;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Amerikaans burger;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Braziliaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Marokkaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Surinaamse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Turkse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;07;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Afghaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Amerikaans burger;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Braziliaanse;40
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Egyptische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Ghanese;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Indonesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Marokkaanse;50
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Oekraïense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Surinaamse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Turkse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Vietnamese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;08;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Amerikaans burger;50
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Argentijnse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Braziliaanse;50
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Burger van Bosnië-Herzegovina;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Burger van de Republiek Noord-Macedonië;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Chileense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Chinese;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Colombiaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Egyptische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Filipijnse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Ghanese;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Indonesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Japanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Maleisische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Marokkaanse;40
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Mexicaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Nigeriaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Oekraïense;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Peruaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Russische;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Surinaamse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Turkse;60
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Ugandese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;09;EU-document;Derdelanders;Zuid-Afrikaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Afghaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Amerikaans burger;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Braziliaanse;50
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Burger van de Republiek Noord-Macedonië;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Chileense;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Colombiaanse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Dominicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Egyptische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Filipijnse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Indonesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Iraanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Marokkaanse;70
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Mexicaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Moldavische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Oekraïense;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Onbekend;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Peruaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Russische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Surinaamse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Turkse;40
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Ugandese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Zimbabwaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;10;EU-document;Derdelanders;Zuid-Afrikaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Amerikaans burger;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Braziliaanse;60
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Burger van de Republiek Noord-Macedonië;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Dominicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Egyptische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Filipijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Gambiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Georgische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Ghanese;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Indonesische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Marokkaanse;60
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Mexicaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Moldavische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Nigeriaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Oekraïense;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Pakistaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Russische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Surinaamse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Thaise;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Turkse;40
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;11;EU-document;Derdelanders;Zuid-Afrikaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Afghaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Albanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Amerikaans burger;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Argentijnse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Australische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Braziliaanse;40
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Canadese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Chinese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Colombiaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Dominicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Ecuadoraanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Egyptische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Filipijnse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Georgische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Ghanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Indiase;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Indonesische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Iraakse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Israëlische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Libanese;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Marokkaanse;70
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Mexicaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Moldavische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Nigeriaanse;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Oekraïense;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Russische;20
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Servische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Sierra Leoonse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Surinaamse;30
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Tunesische;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Turkse;40
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Venezolaanse;10
+6;Jaar, Maand, Procedure categorie, Verblijfscluster, Nationaliteit;2020;12;EU-document;Derdelanders;Zuid-Afrikaanse;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Afghaanse;60
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Albanese;70
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Algerijnse;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Amerikaans burger;270
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Angolese;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Argentijnse;80
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Armeense;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Australische;60
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Azerbeidzjaanse;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Belarussische;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Bengalese;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Boliviaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Braziliaanse;430
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;British National (overseas);10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Brits burger;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Burger van Bosnië-Herzegovina;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Burger van Congo;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Burger van de Republiek Noord-Macedonië;50
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Burger van Democratische Republiek Congo;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Burger van Trinidad en Tobago;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Burundese;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Canadese;60
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Chileense;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Chinese;120
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Colombiaanse;150
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Costa Ricaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Cubaanse;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Dominicaanse;60
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Ecuadoraanse;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Egyptische;120
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Eritrese;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Ethiopische;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Filipijnse;130
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Gambiaanse;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Georgische;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Ghanese;140
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Guinese;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Hondurese;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Indiase;70
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Indonesische;110
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Iraakse;120
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Iraanse;40
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Israëlische;70
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Ivoriaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Jamaicaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Japanse;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Jordaanse;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Kaapverdische;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Kameroense;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Kazachse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Kenyaanse;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Kirgizische;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Kosovaarse;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Libanese;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Libische;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Maleisische;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Marokkaanse;610
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Mexicaanse;90
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Moldavische;40
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Montenegrijnse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Mozambikaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Nepalese;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Nicaraguaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Nieuw-Zeelandse;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Nigeriaanse;150
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Oekraïense;150
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Oezbeekse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Onbekend;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Pakistaanse;60
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Paraguayaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Peruaanse;40
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Poolse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Russische;150
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Salvadoraanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Senegalese;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Servische;70
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Sierra Leoonse;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Singaporese;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Soedanese;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Somalische;20
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Sri Lankaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Staatloos;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Surinaamse;240
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Syrische;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Taiwanese;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Tanzaniaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Thaise;60
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Tunesische;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Turkse;410
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Ugandese;30
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Uruguayaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Venezolaanse;80
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Vietnamese;40
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Zimbabwaanse;10
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Zuid-Afrikaanse;150
+7;Jaar, Procedure categorie, Nationaliteit;2020;*Alle*;EU-document;*Alle*;Zuid-Koreaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Afghaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Albanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Algerijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Amerikaans burger;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Argentijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Armeense;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Australische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Braziliaanse;50
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Burger van de Republiek Noord-Macedonië;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Canadese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Chinese;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Colombiaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Dominicaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Egyptische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Filipijnse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Ghanese;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Guinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Indiase;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Indonesische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Iraakse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Iraanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Israëlische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Kaapverdische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Marokkaanse;70
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Mexicaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Nieuw-Zeelandse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Oekraïense;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Pakistaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Peruaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Russische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Surinaamse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Thaise;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Tunesische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Turkse;50
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Venezolaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;01;EU-document;*Alle*;Zuid-Afrikaanse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Afghaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Albanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Amerikaans burger;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Angolese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Argentijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Braziliaanse;50
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Canadese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Chinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Colombiaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Egyptische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Filipijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Ghanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Indiase;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Indonesische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Iraakse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Israëlische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Marokkaanse;80
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Oekraïense;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Onbekend;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Peruaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Russische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Servische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Surinaamse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Tunesische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Turkse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Venezolaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;02;EU-document;*Alle*;Zuid-Afrikaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Afghaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Albanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Amerikaans burger;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Argentijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Australische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Braziliaanse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Burger van de Republiek Noord-Macedonië;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Chinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Colombiaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Dominicaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Egyptische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Filipijnse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Ghanese;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Iraakse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Iraanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Marokkaanse;50
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Mexicaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Oekraïense;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Pakistaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Russische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Surinaamse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Thaise;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Turkse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Ugandese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;03;EU-document;*Alle*;Zuid-Afrikaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Amerikaans burger;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Braziliaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Chinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Colombiaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Dominicaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Egyptische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Ghanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Indonesische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Kenyaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Marokkaanse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Oekraïense;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Russische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Surinaamse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Turkse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;04;EU-document;*Alle*;Zuid-Afrikaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Amerikaans burger;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Braziliaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Colombiaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Egyptische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Filipijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Ghanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Marokkaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Surinaamse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Turkse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;05;EU-document;*Alle*;Vietnamese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Amerikaans burger;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Argentijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Braziliaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Chinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Colombiaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Ghanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Iraakse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Marokkaanse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Servische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Surinaamse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Turkse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Vietnamese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;06;EU-document;*Alle*;Zuid-Afrikaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Amerikaans burger;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Braziliaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Chinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Colombiaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Egyptische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Filipijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Ghanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Iraakse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Israëlische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Marokkaanse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Oekraïense;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Russische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Surinaamse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Thaise;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Turkse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Venezolaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;07;EU-document;*Alle*;Zuid-Afrikaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Afghaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Albanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Amerikaans burger;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Argentijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Braziliaanse;40
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Canadese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Chinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Colombiaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Egyptische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Filipijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Ghanese;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Indiase;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Indonesische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Marokkaanse;50
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Oekraïense;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Russische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Surinaamse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Thaise;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Turkse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Venezolaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Vietnamese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;08;EU-document;*Alle*;Zuid-Afrikaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Albanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Amerikaans burger;50
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Argentijnse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Australische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Braziliaanse;50
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Burger van Bosnië-Herzegovina;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Burger van de Republiek Noord-Macedonië;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Canadese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Chileense;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Chinese;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Colombiaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Egyptische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Filipijnse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Ghanese;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Indiase;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Indonesische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Iraakse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Israëlische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Japanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Maleisische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Marokkaanse;40
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Mexicaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Nigeriaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Oekraïense;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Pakistaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Peruaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Russische;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Servische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Surinaamse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Thaise;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Turkse;60
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Ugandese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Venezolaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;09;EU-document;*Alle*;Zuid-Afrikaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Afghaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Albanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Amerikaans burger;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Argentijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Australische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Braziliaanse;50
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Burger van de Republiek Noord-Macedonië;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Canadese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Chileense;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Chinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Colombiaanse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Dominicaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Egyptische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Filipijnse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Ghanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Indiase;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Indonesische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Iraakse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Iraanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Israëlische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Marokkaanse;70
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Mexicaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Moldavische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Oekraïense;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Onbekend;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Pakistaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Peruaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Russische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Servische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Surinaamse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Thaise;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Turkse;40
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Ugandese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Venezolaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Zimbabwaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;10;EU-document;*Alle*;Zuid-Afrikaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Albanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Amerikaans burger;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Braziliaanse;60
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Burger van de Republiek Noord-Macedonië;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Canadese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Chinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Colombiaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Dominicaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Egyptische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Filipijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Gambiaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Georgische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Ghanese;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Indiase;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Indonesische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Iraakse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Israëlische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Marokkaanse;60
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Mexicaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Moldavische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Nigeriaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Oekraïense;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Pakistaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Russische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Servische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Surinaamse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Thaise;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Turkse;40
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Venezolaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;11;EU-document;*Alle*;Zuid-Afrikaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Afghaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Albanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Amerikaans burger;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Argentijnse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Australische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Braziliaanse;40
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Canadese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Chinese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Colombiaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Dominicaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Ecuadoraanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Egyptische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Filipijnse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Georgische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Ghanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Indiase;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Indonesische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Iraakse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Israëlische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Libanese;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Marokkaanse;70
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Mexicaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Moldavische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Nigeriaanse;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Oekraïense;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Russische;20
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Servische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Sierra Leoonse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Surinaamse;30
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Tunesische;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Turkse;40
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Venezolaanse;10
+8;Jaar, Maand, Procedure categorie, Nationaliteit;2020;12;EU-document;*Alle*;Zuid-Afrikaanse;20

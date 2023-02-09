@@ -1,0 +1,611 @@
+﻿ID,VERSIE,OBJECTTYPE,OBJECTCODE,NIVEAU,LENGTE,GEOCODE,SUBCODE,GEOCODE_NR,GEOSUBCODE,GEOCODE_NAAM,KM_GEOCODE_VAN,KM_GEOCODE_VAN_T,KM_GEOCODE_TOT,KM_GEOCODE_TOT_T,KMLINT,KMLINT_OMSCHRIJVING,GELDIG_VANAF,PUBLICATIEDATUM,SE_ANNO_CAD_DATA,Shape__Length
+1,,,,,4721.611,781,a,781,781_a,Aachen (D) - Herzogenrath (D),14.09,"14,090",18.812,"18,812",A-Hz,Aachen (D) - Herzogenrath (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+2,,,,,801.06,820,,820,820__,Almelo Dollegoor,200,"200,000",200.8,"200,800",Aml-Amldol,Almelo - Almelo Dollegoor ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+3,,,,,2773.099,857,a,857,857_a,Almelo Gem. Stamlijn,0,"0,000",2.737,"2,737",Aml-Amlbp,Almelo - Almelo Racc. Bedrijvenpark N.W. Twente  ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+4,,,,,13836.246,025,,25,025__,Almelo - Hengelo,1.1,"1,100",14.9,"14,900",Aml-Hgl,Almelo - Hengelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+5,,,,,100.501,543,a,543,543_a,Hengelo,14.9,"14,900",15,"15,000",Aml-Hgl,Almelo - Hengelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+6,,,,,1098.816,606,a,606,606_a,Almelo,0,"0,000",1.1,"1,100",Aml-Hgl,Almelo - Hengelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+7,,,,,499.427,857,b,857,857_b,Almelo Gem. Stamlijn,100,"100,000",100.5,"100,500",Amlbp-Amlbps,Almelo Racc. Bedrijvenpark N.W. Twente Singel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+8,,,,,1207.657,837,,837,837__,Alphen a/d Rijn Industrieterrein Rijnhaven,300,"300,000",301.208,"301,208",Apn-Apnir,Alphen a/d Rijn - Alphen a/d Rijn Industrieterrein Rijnhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+9,,,,,1262.927,900,,900,900__,Amersfoort Hoofdwerkplaats,200.256,"200,256",201.5,"201,500",Amf-Amfwph,Amersfoort - Amersfoort Hoofdwerkplaats ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+10,,,,,58831.947,017,,17,017__,Amersfoort Aansl. - Hattemerbroek,24,"24,000",82.8,"82,800",Ama-Htba,Amersfoort Aansluiting - Hattemerbroek Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+11,,,,,499.912,505,a,505,505_a,Amersfoort Aansl.,23.5,"23,500",24,"24,000",Ama-Htba,Amersfoort Aansluiting - Hattemerbroek Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+12,,,,,1603.77,604,b,604,604_b,Hattemerbroek,82.8,"82,800",84.4,"84,400",Ama-Htba,Amersfoort Aansluiting - Hattemerbroek Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+13,,,,,1217.995,940,,940,940__,Amersfoort Bokkeduinen,42.672,"42,672",43.8,"43,800",Bkd-Amf,Amersfoort Bokkeduinen - Amersfoort ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+14,,,,,22625.917,035,,35,035__,Lunetten - De Haar Aansl.,38.2,"38,200",60.8,"60,800",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+15,,,,,13514.549,036,,36,036__,Ede=Wageningen - Arnhem,76.4,"76,400",89.9,"89,900",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+16,,,,,1200.897,037,,37,037__,Arnhem - Velperbroek Aansl.,92.3,"92,300",93.5,"93,500",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+17,,,,,9908.601,038,,38,038__,Velperbroek Aansl. - Zevenaar,95.1,"95,100",105,"105,000",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+18,,,,,3830.092,039,,39,039__,Zevenaar - Zevenaar Grens,107.2,"107,200",111.03,"111,030",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+19,,,,,12199.466,080,,80,080__,Amsterdam Bijlmer - Nieuwersluis=Loenen,6,"6,000",18.2,"18,200",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+20,,,,,2338.554,096,a,96,096_a,Amsterdam Muiderpoort - Duivendrecht,1.458,"1,458",3.8,"3,800",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+21,,,,,3110.12,097,,97,097__,Nieuwersluis=Loenen - Breukelen,19.4,"19,400",22.5,"22,500",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+22,,,,,9507.986,098,,98,098__,Breukelen - Utrecht Centraal,23.4,"23,400",32.9,"32,900",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+23,,,,,13208.468,108,,108,108__,De Haar Aansl. - Ede=Wageningen,61.7,"61,700",74.9,"74,900",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+24,,,,,1602.604,507,b,507,507_b,Velperbroek Aansl.,93.5,"93,500",95.1,"95,100",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+25,,,,,2403.678,508,,508,508__,Arnhem,89.9,"89,900",92.3,"92,300",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+26,,,,,901.627,529,,529,529__,Breukelen,22.5,"22,500",23.4,"23,400",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+27,,,,,4303.453,531,c,531,531_c,Utrecht Centraal,32.9,"32,900",37.2,"37,200",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+28,,,,,799.361,535,a,535,535_a,Amsterdam Bijlmer Arena,5.2,"5,200",6,"6,000",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+29,,,,,995.839,547,c,547,547_c,Lunetten Aansl.,37.2,"37,200",38.2,"38,200",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+30,,,,,900.282,562,b,562,562_b,De Haar Aansl.,60.8,"60,800",61.7,"61,700",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+31,,,,,1401.835,589,b,589,589_b,Duivendrecht,3.8,"3,800",5.2,"5,200",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+32,,,,,2201.896,611,b,611,611_b,Zevenaar,105,"105,000",107.2,"107,200",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+33,,,,,1501.459,613,,613,613__,Ede=Wageningen,74.9,"74,900",76.4,"76,400",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+34,,,,,1203.718,621,,621,621__,Nieuwersluis=Loenen,18.2,"18,200",19.4,"19,400",Asa-Zvg,Amsterdam Amstel - Zevenaar Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+35,,,,,12895.977,020,,20,020__,Amersfoort Aansl. - Barneveld Noord,47.4,"47,400",60.3,"60,300",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+36,,,,,25729.129,021,,21,021__,Barneveld Noord - Apeldoorn,61.3,"61,300",87,"87,000",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+37,,,,,2199.806,050,,50,050__,Amsterdam Muiderpoort - Diemen,4.2,"4,200",6.4,"6,400",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+38,,,,,11338.308,087,,87,087__,Weesp Aansl. - Hilversum,16.4,"16,400",27.8,"27,800",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+39,,,,,5817.802,088,,88,088__,Hilversum - Baarn,29.2,"29,200",35,"35,000",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+40,,,,,1099.617,089,,89,089__,Amersfoort - Amersfoort Aansl.,45.5,"45,500",46.6,"46,600",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+41,,,,,5220.952,092,,92,092__,Baarn - Amersfoort,37.4,"37,400",42.6,"42,600",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+42,,,,,3824.308,128,,128,128__,Diemen Aansl. - Weesp Aansl.,9.8,"9,800",13.6,"13,600",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+43,,,,,15355.664,208,,208,208__,Apeldoorn - Zutphen,89.2,"89,200",104.55,"104,550",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+44,,,,,789.032,505,b,505,505_b,Amersfoort Aansl.,46.6,"46,600",47.4,"47,400",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+45,,,,,3009.311,506,b,506,506_b,Amersfoort,42.6,"42,600",45.5,"45,500",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+46,,,,,2406.416,509,a,509,509_a,Baarn,35,"35,000",37.4,"37,400",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+47,,,,,990.266,526,a,526,526_a,Amsterdam Muiderpoort,3.2,"3,200",4.2,"4,200",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+48,,,,,1404.705,528,b,528,528_b,Hilversum,27.8,"27,800",29.2,"29,200",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+49,,,,,2779.744,541,b,541,541_b,Weesp Aansl.,13.6,"13,600",16.4,"16,400",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+50,,,,,1693.409,585,,585,585__,Diemen Aansl.,8.1,"8,100",9.8,"9,800",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+51,,,,,1699.581,587,a,587,587_a,Diemen,6.4,"6,400",8.1,"8,100",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+52,,,,,2305.157,588,,588,588__,Amsterdam Dijksgracht,0.869,"0,869",3.2,"3,200",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+53,,,,,2201.827,608,b,608,608_b,Apeldoorn,87,"87,000",89.2,"89,200",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+54,,,,,1004.442,612,b,612,612_b,Barneveld Noord,60.3,"60,300",61.3,"61,300",Asd-Zp,Amsterdam Centraal - Zutphen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+55,,,,,1478.995,490,d,490,490_d,Amsterdam Houtrakpolder (gebied),150,"150,000",151.467,"151,467",Hrp-Hrtl,Amsterdam Houtrakpolder - Havenbedrijf Rietlanden ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+56,,,,,1551.229,096,b,96,096_b,Amsterdam Muiderpoort - Duivendrecht,104.3,"104,300",105.854,"105,854",Asdm-Asa,Amsterdam Muiderpoort - Amsterdam Amstel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+57,,,,,702.338,526,b,526,526_b,Amsterdam Muiderpoort,103.6,"103,600",104.3,"104,300",Asdm-Asa,Amsterdam Muiderpoort - Amsterdam Amstel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+58,,,,,1359.934,485,e,485,485_e,Amsterdam Hemhaven (gebied),150,"150,000",151.36,"151,360",Phv-Chv,Amsterdam Petroleumhaven - Amsterdam Coenhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+59,,,,,28488.995,133,a,133,133_a,Amsterdam Riekerpolder - Warmond,8.505,"8,505",37,"37,000",Asra-Wmd,Amsterdam Riekerpolder Aansl. - Warmond ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+60,,,,,3000.231,145,,145,145__,Amsterdam Sloterdijk - Amsterdam Riekerpolder,54.1,"54,100",57.1,"57,100",Sgra-Asra,Amsterdam Singelgracht Aansl. - Amsterdam Riekerpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+61,,,,,3502.782,523,a,523,523_a,Amsterdam Sloterdijk,50.6,"50,600",54.1,"54,100",Sgra-Asra,Amsterdam Singelgracht Aansl. - Amsterdam Riekerpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+62,,,,,399.415,525,a,525,525_a,Amsterdam Singelgracht Aansl.,50.2,"50,200",50.6,"50,600",Sgra-Asra,Amsterdam Singelgracht Aansl. - Amsterdam Riekerpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+63,,,,,1416.707,558,a,558,558_a,Amsterdam Riekerpolder,57.1,"57,100",58.505,"58,505",Sgra-Asra,Amsterdam Singelgracht Aansl. - Amsterdam Riekerpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+64,,,,,12091.7,084,,84,084__,Amsterdam Sloterdijk - Haarlem,4.1,"4,100",16.2,"16,200",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+65,,,,,23023.257,085,,85,085__,Haarlem - Warmond,18.2,"18,200",41.2,"41,200",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+66,,,,,9700.659,104,,104,104__,Leiden Centraal - Den Haag Mariahoeve,47,"47,000",56.7,"56,700",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+67,,,,,16624.201,112,,112,112__,Den Haag HS - Schiedam Centrum,62.4,"62,400",79,"79,000",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+68,,,,,1701.678,146,,146,146__,Warmond - Leiden Centraal,42.8,"42,800",44.5,"44,500",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+69,,,,,2026.31,527,c,527,527_c,Haarlem,16.2,"16,200",18.2,"18,200",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+70,,,,,2500.24,534,b,534,534_b,Leiden Centraal,44.5,"44,500",47,"47,000",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+71,,,,,1998.28,536,,536,536__,Den Haag HS,60.4,"60,400",62.4,"62,400",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+72,,,,,1803.686,539,,539,539__,Schiedam Centrum,79,"79,000",80.8,"80,800",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+73,,,,,1655.45,540,d,540,540_d,Rotterdam Westelijke Splitsing,80.8,"80,800",82.5,"82,500",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+74,,,,,1916.905,555,,555,555__,Rotterdam Centraal,82.5,"82,500",84.425,"84,425",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+75,,,,,1603.553,559,,559,559__,Warmond,41.2,"41,200",42.8,"42,800",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+76,,,,,2004.607,561,,561,561__,Den Haag Laan van NOI,57.8,"57,800",59.8,"59,800",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+77,,,,,1109.688,563,,563,563__,Den Haag Mariahoeve,56.7,"56,700",57.8,"57,800",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+78,,,,,599.361,564,c,564,564_c,Den Haag Binckhorst,59.8,"59,800",60.4,"60,400",Ass-Rtd,Amsterdam Sloterdijk - Rotterdam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+79,,,,,499.575,081,,81,081__,Zaandam - Amsterdam Singelgracht Aansl.,74.3,"74,300",74.8,"74,800",Awhv-Asd,Amsterdam Westhaven (gebied) - Amsterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+80,,,,,2850.114,486,b,486,486_b,Amsterdam Westhaven (gebied),74.8,"74,800",77.7,"77,700",Awhv-Asd,Amsterdam Westhaven (gebied) - Amsterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+81,,,,,2127.423,525,b,525,525_b,Amsterdam Singelgracht Aansl.,77.7,"77,700",79.8,"79,800",Awhv-Asd,Amsterdam Westhaven (gebied) - Amsterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+82,,,,,1896.987,586,,586,586__,Amsterdam Centraal,79.8,"79,800",81.7,"81,700",Awhv-Asd,Amsterdam Westhaven (gebied) - Amsterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+83,,,,,1400.295,485,d,485,485_d,Amsterdam Hemhaven (gebied),100,"100,000",101.4,"101,400",Awhv-Chv,Amsterdam Westhaven (gebied) - Amsterdam Coenhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+84,,,,,498.69,523,f,523,523_f,Amsterdam Sloterdijk,1.3,"1,300",1.8,"1,800",Awhv-Ass,Amsterdam Westhaven (gebied) - Amsterdam Sloterdijk ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+85,,,,,5688.954,486,c,486,486_c,Amsterdam Westhaven (gebied),200.017,"200,017",205.725,"205,725",Awhv-Asho,Amsterdam Westhaven (gebied) - Amsterdam Sloterdijk Noord Hornweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+86,,,,,706.632,486,f,486,486_f,Amsterdam Westhaven (gebied),350,"350,000",350.7,"350,700",Awhv-Awhvh,Amsterdam Westhaven (gebied) - Amsterdam Westhaven Hornhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+87,,,,,334.405,486,k,486,486_k,Amsterdam Westhaven (gebied),500,"500,000",500.34,"500,340",Awhv-Awhvmh,Amsterdam Westhaven (gebied) - Amsterdam Westhaven Mainhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+88,,,,,1022.904,486,e,486,486_e,Amsterdam Westhaven (gebied),300,"300,000",301.023,"301,023",Awhv-Awhvm,Amsterdam Westhaven (gebied) - Amsterdam Westhaven Maltaweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+89,,,,,247.598,486,r,486,486_r,Amsterdam Westhaven (gebied),625,"625,000",625.25,"625,250",Awhv-Awhvtma,Amsterdam Westhaven (gebied) - Amsterdam Westhaven Maltaweg Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+90,,,,,1451.35,486,d,486,486_d,Amsterdam Westhaven (gebied),250,"250,000",251.45,"251,450",Awhv-Awhvsh,Amsterdam Westhaven (gebied) - Amsterdam Westhaven Sonthaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+91,,,,,1540.111,486,a,486,486_a,Amsterdam Westhaven (gebied),0,"0,000",1.54,"1,540",Awhv-Awhvs,Amsterdam Westhaven (gebied) - Amsterdam Westhaven Suezhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+92,,,,,34981.174,787,,787,787__,Hazeldonk Grens - Noorderkempen (B),48.8,"48,800",83.781,"83,781",Andd-Bdgr,Antwerpen Noorderdokken - Breda Grens  ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+93,,,,,12895.459,023,,23,023__,Apeldoorn - Deventer,1.1,"1,100",14,"14,000",Apd-Dv,Apeldoorn - Deventer ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+94,,,,,300.748,503,b,503,503_b,Deventer,14,"14,000",14.3,"14,300",Apd-Dv,Apeldoorn - Deventer ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+95,,,,,7704.113,041,,41,041__,Arnhem - Elst,0.5,"0,500",8.2,"8,200",Ah-Vl,Arnhem - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+96,,,,,4608.473,044,,44,044__,Ressen=Bemmel - Nijmegen,11.6,"11,600",16.2,"16,200",Ah-Vl,Arnhem - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+97,,,,,16100.138,049,,49,049__,Nijmegen - Beugen,18.6,"18,600",34.7,"34,700",Ah-Vl,Arnhem - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+98,,,,,38076.189,052,,52,052__,Beugen - Blerick,36.4,"36,400",74.4,"74,400",Ah-Vl,Arnhem - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+99,,,,,2299.679,510,b,510,510_b,Elst,8.2,"8,200",10.5,"10,500",Ah-Vl,Arnhem - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+100,,,,,1102.55,512,a,512,512_a,Ressen = Bemmel,10.5,"10,500",11.6,"11,600",Ah-Vl,Arnhem - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+101,,,,,2396.909,514,a,514,514_a,Nijmegen,16.2,"16,200",18.6,"18,600",Ah-Vl,Arnhem - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+102,,,,,1106.894,516,b,516,516_b,Blerick,74.4,"74,400",75.5,"75,500",Ah-Vl,Arnhem - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+103,,,,,1701.117,756,,756,756__,Beugen,34.7,"34,700",36.4,"36,400",Ah-Vl,Arnhem - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+104,,,,,27751.741,018,,18,018__,Deventer - Zwolle,44.4,"44,400",72.1,"72,100",Ah-Zl,Arnhem - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+105,,,,,10740.965,030,,30,030__,Zutphen - Deventer,29.9,"29,900",40.6,"40,600",Ah-Zl,Arnhem - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+106,,,,,11457.768,033,,33,033__,Dieren - Zutphen,15,"15,000",26.4,"26,400",Ah-Zl,Arnhem - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+107,,,,,13644.83,034,,34,034__,Velperbroek Aansl. - Dieren,0.3,"0,300",13.9,"13,900",Ah-Zl,Arnhem - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+108,,,,,3811.683,503,c,503,503_c,Deventer,40.6,"40,600",44.4,"44,400",Ah-Zl,Arnhem - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+109,,,,,101.102,603,b,603,603_b,Zwolle,72.1,"72,100",72.2,"72,200",Ah-Zl,Arnhem - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+110,,,,,3506.503,609,,609,609__,Zutphen,26.4,"26,400",29.9,"29,900",Ah-Zl,Arnhem - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+111,,,,,1107.201,610,,610,610__,Dieren,13.9,"13,900",15,"15,000",Ah-Zl,Arnhem - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+112,,,,,297.183,437,b,437,437_b,Arnhem Goederenstation - Velperbroek Aansl.,100,"100,000",100.3,"100,300",Ahg-Ahi,Arnhem Goederenstation - Arnhem Industrie ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+113,,,,,1910.436,858,,858,858__,Arnhem Gem. Stamlijn,100.3,"100,300",102.2,"102,200",Ahg-Ahi,Arnhem Goederenstation - Arnhem Industrie ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+114,,,,,199.165,507,c,507,507_c,Velperbroek Aansl.,201.3,"201,300",201.5,"201,500",Ahg-IJbw,Arnhem Goederenstation - IJsselbrug Westervoort Westzijde ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+115,,,,,1302.892,437,a,437,437_a,Arnhem Goederenstation - Velperbroek Aansl.,0,"0,000",1.3,"1,300",Ahg-Va,Arnhem Goederenstation - Velperpoort Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+116,,,,,198.661,507,a,507,507_a,Velperbroek Aansl.,1.3,"1,300",1.5,"1,500",Ahg-Va,Arnhem Goederenstation - Velperpoort Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+117,,,,,399.555,490,g,490,490_g,Amsterdam Houtrakpolder (gebied),200,"200,000",200.4,"200,400",Aslhw-Nzlw,Australiëhavenweg - Nieuw-Zeelandweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+118,,,,,4298.555,852,a,852,852_a,Axel Axelse Vlakte,156.435,"156,435",160.742,"160,742",Axa-Axi,Axel Aansl. - Axel Industrie ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+119,,,,,1986.043,130,c,130,130_c,Axel Aansl. - Terneuzen Aansl.,200,"200,000",202,"202,000",Axa-Sluo1,Axel Aansl. - Sluiskil Oost 1 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+120,,,,,1398.991,130,d,130,130_d,Axel Aansl. - Terneuzen Aansl.,300,"300,000",301.4,"301,400",Axa-Sluo2,Axel Aansl. - Sluiskil Oost 2 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+121,,,,,2661.912,130,a,130,130_a,Axel Aansl. - Terneuzen Aansl.,60.743,"60,743",63.4,"63,400",Axa-Tnzz,Axel Aansl. - Terneuzen Zuidzijde (Racc.)  ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+122,,,,,98.705,557,b,557,557_b,Terneuzen Aansl.,63.4,"63,400",63.5,"63,500",Axa-Tnzz,Axel Aansl. - Terneuzen Zuidzijde (Racc.)  ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+123,,,,,1614.999,852,c,852,852_c,Axel Axelse Vlakte,200,"200,000",201.615,"201,615",Axia-Axah,Axel Industrie Aansluiting - Axel Autrichehaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+124,,,,,9278.754,777,,777,777__,Oldenzaal Grens - Bad Bentheim (D),12.5,"12,500",21.779,"21,779",Bh-Odzg,Bad Bentheim (D) - Oldenzaal Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+125,,,,,3157.549,116,c,116,116_c,Dordrecht - Rotterdam Barendrecht,209.488,"209,488",212.6,"212,600",Brda-Bdgr,Barendrecht Aansl. - Breda Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+126,,,,,2281.641,119,b,119,119_b,Lage Zwaluwe - Dordrecht,225.91,"225,910",228.191,"228,191",Brda-Bdgr,Barendrecht Aansl. - Breda Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+127,,,,,9294.528,121,b,121,121_b,Breda - Lage Zwaluwe,232.206,"232,206",241.5,"241,500",Brda-Bdgr,Barendrecht Aansl. - Breda Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+128,,,,,10393.299,164,,164,164__,Prinsenbeek - Hazeldonk Grens,244.1,"244,100",254.492,"254,492",Brda-Bdgr,Barendrecht Aansl. - Breda Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+129,,,,,13311.398,165,,165,165__,Kijfhoek - Moerdijkbrug,212.6,"212,600",225.91,"225,910",Brda-Bdgr,Barendrecht Aansl. - Breda Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+130,,,,,4014.673,625,c,625,625_c,Lage Zwaluwe,228.191,"228,191",232.206,"232,206",Brda-Bdgr,Barendrecht Aansl. - Breda Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+131,,,,,446.418,663,g,663,663_g,Rotterdam Barendrecht,209.002,"209,002",209.488,"209,488",Brda-Bdgr,Barendrecht Aansl. - Breda Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+132,,,,,2600.005,667,a,667,667_a,Prinsenbeek,241.5,"241,500",244.1,"244,100",Brda-Bdgr,Barendrecht Aansl. - Breda Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+133,,,,,1400.266,663,c,663,663_c,Rotterdam Barendrecht,199.9,"199,900",201.3,"201,300",Brda-Whz,"Barendrecht Aansl. - Rotterdam, Emplacement Waalhaven Zuid ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+134,,,,,4810.881,950,d,950,950_d,Barendrecht Vork - Rotterdam Maasvlakte,201.3,"201,300",206.115,"206,115",Brda-Whz,"Barendrecht Aansl. - Rotterdam, Emplacement Waalhaven Zuid ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+135,,,,,1398.528,663,d,663,663_d,Rotterdam Barendrecht,399.8,"399,800",401.2,"401,200",Brdva-Brdv,Barendrecht Vork Aansl. - Barendrecht Vork ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+136,,,,,17007.103,211,,211,211__,Barneveld Noord - Ede=Wageningen,12.3,"12,300",29.3,"29,300",Bnn-Ed,Barneveld Noord - Ede=Wageningen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+137,,,,,399.794,612,a,612,612_a,Barneveld Noord,11.9,"11,900",12.3,"12,300",Bnn-Ed,Barneveld Noord - Ede=Wageningen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+138,,,,,32949.597,155,b,155,155_b,Meteren Aansl. - Ressen = Bemmel,55.6,"55,600",88.5,"88,500",Brech-Brzv,Betuweroute Echteld - Betuweroute Zevenaar ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+139,,,,,12588.766,158,,158,158__,Ressen = Bemmel - Zevenaar,91.5,"91,500",104.1,"104,100",Brech-Brzv,Betuweroute Echteld - Betuweroute Zevenaar ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+140,,,,,2999.996,512,b,512,512_b,Ressen = Bemmel,88.5,"88,500",91.5,"91,500",Brech-Brzv,Betuweroute Echteld - Betuweroute Zevenaar ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+141,,,,,25622.989,152,b,152,152_b,Kijfhoek - Meteren Aansl.,21,"21,000",46.5,"46,500",Brgnd-Brech,Betuweroute Giessendam - Betuweroute Echteld ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+142,,,,,6381.72,155,a,155,155_a,Meteren Aansl. - Ressen = Bemmel,49.1,"49,100",55.484,"55,484",Brgnd-Brech,Betuweroute Giessendam - Betuweroute Echteld ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+143,,,,,2599.496,666,b,666,666_b,Meteren Aansl.,46.5,"46,500",49.1,"49,100",Brgnd-Brech,Betuweroute Giessendam - Betuweroute Echteld ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+144,,,,,1409.853,666,c,666,666_c,Meteren Aansl.,146.232,"146,232",147.633,"147,633",Brmet-Mbtwan,Betuweroute Meteren - Meteren Betuweroute Aansl. Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+145,,,,,1196.477,666,e,666,666_e,Meteren Aansl.,346.091,"346,091",347.285,"347,285",Brmet-Mbtwaz,Betuweroute Meteren - Meteren Betuweroute Aansl. Zuid ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+146,,,,,20775.779,152,a,152,152_a,Kijfhoek - Meteren Aansl.,0,"0,000",20.769,"20,769",Brppd-Brgnd,Betuweroute Papendrecht - Betuweroute Giessendam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+147,,,,,554.017,512,c,512,512_c,Ressen = Bemmel,189.9,"189,900",190.455,"190,455",Brvalo-Ebtwa,Betuweroute Valburg Oost - Elst Betuweroute Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+148,,,,,612.119,512,d,512,512_d,Ressen = Bemmel,289.9,"289,900",290.515,"290,515",Brvalo-Rsa,Betuweroute Valburg Oost - Ressen Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+149,,,,,3745.409,938,,938,938__,CUP Valburg,0,"0,000",3.746,"3,746",Brvalw-Brvalo,Betuweroute Valburg West - Betuweroute Valburg Oost ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+150,,,,,3044.67,611,c,611,611_c,Zevenaar,601.8,"601,800",604.843,"604,843",Brzv-Zvbtwa,Betuweroute Zevenaar - Zevenaar Betuweroute Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+151,,,,,500.305,804,a,804,804_a,"Beverwijk Hoogovens, Van Gelder",0.1,"0,100",0.6,"0,600",Bv-Bvhg,Beverwijk - Beverwijk Hoogovens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+152,,,,,1661.835,804,b,804,804_b,"Beverwijk Hoogovens, Van Gelder",200.6,"200,600",202.259,"202,259",Bvhca-Bvhc,Beverwijk Hoogovens Centraal Aansl. - Beverwijk Hoogovens Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+153,,,,,299.354,546,a,546,546_a,Blauwkapel,0.2,"0,200",0.5,"0,500",Bln-Blw,Blauwkapel Noord - Blauwkapel West ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+154,,,,,200.053,546,g,546,546_g,Blauwkapel,100.1,"100,100",100.3,"100,300",Blo-Blz,Blauwkapel Oost - Blauwkapel Zuid ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+155,,,,,789.812,851,b,851,851_b,Born Franciscushaven,110,"110,000",110.8,"110,800",Bon-Boniw,Born - Born Industrieweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+156,,,,,624.623,851,c,851,851_c,Born Franciscushaven,120,"120,000",120.64,"120,640",Bon-Bonlw,Born - Born Loswal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+157,,,,,1322.196,851,d,851,851_d,Born Franciscushaven,130,"130,000",131.32,"131,320",Bon-Bonfh,Born-Born Franciscushaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+158,,,,,1624.802,851,a,851,851_a,Born Franciscushaven,100.1,"100,100",101.72,"101,720",Bon-Bonoh,Born-Born Overlaadhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+159,,,,,3122.93,476,b,476,476_b,Rotterdam Europoort 2,200,"200,000",203.1,"203,100",Bottha-Botbh,Botlek Theemsweg Aansl. - Botlek Brittanniëhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+160,,,,,797.707,476,c,476,476_c,Rotterdam Europoort 2,250.1,"250,100",250.9,"250,900",Bottha-Botsh,Botlek Theemsweg Aansl. - Botlek Seinehaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+161,,,,,2751.025,469,g,469,469_g,Pernis,600,"600,000",602.751,"602,751",Boto-Pstw,"Botlektunnel Oost - Rotterdam, Emplacement Pernis Tankweg ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+162,,,,,279.203,470,i,470,470_i,Botlek,320.12,"320,120",320.4,"320,400",Botwg-Botmw,Botlekweg - Botlek Montrealweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+163,,,,,1179.294,470,j,470,470_j,Botlek,350.12,"350,120",351.3,"351,300",Botwg-Slhvn,Botlekweg - Sint Laurenshaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+164,,,,,16813.301,213,,213,213__,Boxtel - Uden,1.4,"1,400",18.2,"18,200",Btl-Veg,Boxtel - Veghel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+165,,,,,15208.259,054,a,54,054_a,Boxtel - Eindhoven,42.6,"42,600",57.8,"57,800",Bd-Ehv,Breda - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+166,,,,,18941.043,123,,123,123__,Breda - Tilburg,2.6,"2,600",21.5,"21,500",Bd-Ehv,Breda - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+167,,,,,14214.88,125,,125,125__,Tilburg - Boxtel,24.2,"24,200",38.4,"38,400",Bd-Ehv,Breda - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+168,,,,,2501.363,544,a,544,544_a,Breda,0.1,"0,100",2.6,"2,600",Bd-Ehv,Breda - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+169,,,,,2704.878,551,b,551,551_b,Tilburg,21.5,"21,500",24.2,"24,200",Bd-Ehv,Breda - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+170,,,,,4199.236,617,a,617,617_a,Boxtel,38.4,"38,400",42.6,"42,600",Bd-Ehv,Breda - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+171,,,,,1099.814,618,c,618,618_c,Eindhoven,57.8,"57,800",58.9,"58,900",Bd-Ehv,Breda - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+172,,,,,9213.409,116,a,116,116_a,Dordrecht - Rotterdam Barendrecht,30.6,"30,600",39.8,"39,800",Bd-Rtd,Breda - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+173,,,,,11085.661,119,a,119,119_a,Lage Zwaluwe - Dordrecht,17.4,"17,400",28.5,"28,500",Bd-Rtd,Breda - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+174,,,,,10912.443,121,a,121,121_a,Breda - Lage Zwaluwe,2.5,"2,500",13.4,"13,400",Bd-Rtd,Breda - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+175,,,,,5424.118,163,,163,163__,Rotterdam Lombardijen - Rotterdam Centraal,43.3,"43,300",48.7,"48,700",Bd-Rtd,Breda - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+176,,,,,2110.497,542,a,542,542_a,Dordrecht,28.5,"28,500",30.6,"30,600",Bd-Rtd,Breda - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+177,,,,,4013.819,625,b,625,625_b,Lage Zwaluwe,13.4,"13,400",17.4,"17,400",Bd-Rtd,Breda - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+178,,,,,1504.376,663,a,663,663_a,Rotterdam Barendrecht,39.8,"39,800",41.3,"41,300",Bd-Rtd,Breda - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+179,,,,,2012.893,664,b,664,664_b,Rotterdam Lombardijen,41.3,"41,300",43.3,"43,300",Bd-Rtd,Breda - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+180,,,,,6941.902,099,,99,099__,Breukelen - Harmelen Aansl.,0.4,"0,400",7.33,"7,330",Bkl-Hmla,Breukelen - Harmelen Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+181,,,,,8525.772,058,,58,058__,Budel Grens - Weert,53.982,"53,982",62.5,"62,500",Bdl-Rm,Budel - Roermond ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+182,,,,,22013.656,059,,59,059__,Weert - Roermond,65.1,"65,100",87.1,"87,100",Bdl-Rm,Budel - Roermond ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+183,,,,,2607.406,518,,518,518__,Weert,62.5,"62,500",65.1,"65,100",Bdl-Rm,Budel - Roermond ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+184,,,,,3700.338,862,,862,862__,Budel Zinkfabriek,100,"100,000",103.7,"103,700",Bdla-Bdlz,Budel Aansl. - Budel Zinkfabriek ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+185,,,,,567.644,485,j,485,485_j,Amsterdam Hemhaven (gebied),375.1,"375,100",375.67,"375,670",Chw-Chv,Coenhavenweg - Amsterdam Coenhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+186,,,,,502.651,485,k,485,485_k,Amsterdam Hemhaven (gebied),400.1,"400,100",400.6,"400,600",Chw-Chvpa,Coenhavenweg - Amsterdam Coenhaven Pier Azië,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+187,,,,,698.878,485,l,485,485_l,Amsterdam Hemhaven (gebied),450,"450,000",450.7,"450,700",Chw-Phw,Coenhavenweg - Petroleumhavenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+188,,,,,594.643,485,h,485,485_h,Amsterdam Hemhaven (gebied),325.1,"325,100",325.695,"325,695",Chw-Vhv,Coenhavenweg - Vlothaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+189,,,,,899.858,451,a,451,451_a,Coevorden - Coevorden Grens,0.7,"0,700",1.6,"1,600",Co-Coep,Coevorden - Coevorden Europark ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+190,,,,,99.787,031,b,31,031_b,Zutphen - Hengelo,100,"100,000",100.1,"100,100",Ddn-Ddnr,Delden - Delden raccordement ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+191,,,,,599.841,861,,861,861__,Delden Raccordement,100.1,"100,100",100.7,"100,700",Ddn-Ddnr,Delden - Delden raccordement ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+192,,,,,605.716,540,b,540,540_b,Rotterdam Westelijke Splitsing,1.2,"1,200",1.8,"1,800",Dhs-Wspl,Delfshavense Schie (brug o/d - bij Schiedam) - Rotterdam Westelijke Splitsing ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+193,,,,,1108.532,803,a,803,803_a,Delfzijl Stamlijn Havenschap,10,"10,000",11.1,"11,100",Dz-Dzh,Delfzijl - Delfzijl Haven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+194,,,,,6506.427,803,h,803,803_h,Delfzijl Stamlijn Havenschap,100.4,"100,400",106.9,"106,900",Dz-Dzsh,Delfzijl - Delfzijl Stamlijn Havenschap ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+195,,,,,1301.722,803,l,803,803_l,Delfzijl Stamlijn Havenschap,150,"150,000",151.3,"151,300",Dzsh-Dzmp,Delfzijl Stamlijn Havenschap - Delfzijl Metaalpark ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+196,,,,,531.971,803,m,803,803_m,Delfzijl Stamlijn Havenschap,160,"160,000",160.53,"160,530",Dzsh-Dzvw,Delfzijl Stamlijn Havenschap - Delfzijl Valgenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+197,,,,,637.118,803,f,803,803_f,Delfzijl Stamlijn Havenschap,80,"80,000",80.63,"80,630",Dzsh-Ohm1,Delfzijl Stamlijn Havenschap - Oosterhorn Midden 1 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+198,,,,,106.727,803,g,803,803_g,Delfzijl Stamlijn Havenschap,90,"90,000",90.1,"90,100",Dzsh-Ohm2,Delfzijl Stamlijn Havenschap - Oosterhorn Midden 2 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+199,,,,,441.338,803,i,803,803_i,Delfzijl Stamlijn Havenschap,120,"120,000",120.44,"120,440",Dzsh-Ohm3,Delfzijl Stamlijn Havenschap - Oosterhorn Midden 3 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+200,,,,,400.658,803,j,803,803_j,Delfzijl Stamlijn Havenschap,130,"130,000",130.4,"130,400",Dzsh-Oho1,Delfzijl Stamlijn Havenschap - Oosterhorn Oost 1 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+201,,,,,483.623,803,k,803,803_k,Delfzijl Stamlijn Havenschap,140,"140,000",140.483,"140,483",Dzsh-Oho2,Delfzijl Stamlijn Havenschap - Oosterhorn Oost 2 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+202,,,,,621.547,803,e,803,803_e,Delfzijl Stamlijn Havenschap,69.917,"69,917",70.539,"70,539",Dzsh-Ohw,Delfzijl Stamlijn Havenschap - Oosterhorn West ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+203,,,,,362.676,803,n,803,803_n,Delfzijl Stamlijn Havenschap,170,"170,000",170.364,"170,364",Dzvw-Dzvwi,Delfzijl Valgenweg - Delfzijl Valgenweg Industrie ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+204,,,,,7396.446,091,,91,091__,Den Dolder - Baarn,1.6,"1,600",9,"9,000",Dld-Brn,Den Dolder - Baarn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+205,,,,,99.998,509,b,509,509_b,Baarn,9,"9,000",9.1,"9,100",Dld-Brn,Den Dolder - Baarn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+206,,,,,100.9,530,a,530,530_a,Den Dolder,1.5,"1,500",1.6,"1,600",Dld-Brn,Den Dolder - Baarn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+207,,,,,652.875,564,d,564,564_d,Den Haag Binckhorst,100,"100,000",100.654,"100,654",Bkh-Gv,Den Haag Binckhorst - Den Haag HS ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+208,,,,,99.97,560,b,560,560_b,Den Haag Centraal,300.2,"300,200",300.3,"300,300",Gvc-Gv,Den Haag Centraal - Den Haag HS ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+209,,,,,204.401,564,f,564,564_f,Den Haag Binckhorst,300.3,"300,300",300.5,"300,500",Gvc-Gv,Den Haag Centraal - Den Haag HS ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+210,,,,,201.81,564,a,564,564_a,Den Haag Binckhorst,22.4,"22,400",22.6,"22,600",Laa-Gvc,Den Haag Laan van NOI - Den Haag Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+211,,,,,633.828,110,,110,110__,Den Haag Ypenburg - Leidschenveen,100.4,"100,400",101.035,"101,035",Ypb-Ldvn,Den Haag Ypenburg - Leidschenveen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+212,,,,,792.504,565,b,565,565_b,Leidschenveen,101.035,"101,035",101.827,"101,827",Ypb-Ldvn,Den Haag Ypenburg - Leidschenveen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+213,,,,,33935.668,073,,73,073__,Den Helder - Heerhugowaard,0.6,"0,600",34.5,"34,500",Hdr-Zd,Den Helder - Zaandam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+214,,,,,5707.102,074,,74,074__,Heerhugowaard - Alkmaar,35.6,"35,600",41.3,"41,300",Hdr-Zd,Den Helder - Zaandam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+215,,,,,14523.65,075,,75,075__,Alkmaar - Uitgeest,42.7,"42,700",57.2,"57,200",Hdr-Zd,Den Helder - Zaandam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+216,,,,,11213.078,078,,78,078__,Uitgeest - Zaandam,58.4,"58,400",69.6,"69,600",Hdr-Zd,Den Helder - Zaandam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+217,,,,,1203.44,522,b,522,522_b,Uitgeest,57.2,"57,200",58.4,"58,400",Hdr-Zd,Den Helder - Zaandam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+218,,,,,2002.626,524,b,524,524_b,Zaandam,69.6,"69,600",71.6,"71,600",Hdr-Zd,Den Helder - Zaandam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+219,,,,,1101.596,619,,619,619__,Heerhugowaard,34.5,"34,500",35.6,"35,600",Hdr-Zd,Den Helder - Zaandam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+220,,,,,1406.156,620,,620,620__,Alkmaar,41.3,"41,300",42.7,"42,700",Hdr-Zd,Den Helder - Zaandam ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+221,,,,,1138.563,817,f,817,817_f,Vlissingen Sloehaven,210.062,"210,062",211.2,"211,200",Dmkw-Eglw,Denemarkenweg - Engelandweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+222,,,,,2499.05,817,j,817,817_j,Vlissingen Sloehaven,500,"500,000",502.5,"502,500",Dmkw-Eupww,Denemarkenweg - Europaweg West ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+223,,,,,3001.502,019,,19,019__,Wierden - Almelo,34.2,"34,200",37.2,"37,200",Dv-Aml,Deventer - Almelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+224,,,,,30408.426,024,,24,024__,Deventer - Wierden,2.8,"2,800",33.2,"33,200",Dv-Aml,Deventer - Almelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+225,,,,,199.59,503,a,503,503_a,Deventer,2.6,"2,600",2.8,"2,800",Dv-Aml,Deventer - Almelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+226,,,,,999.095,605,,605,605__,Wierden,33.2,"33,200",34.2,"34,200",Dv-Aml,Deventer - Almelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+227,,,,,423.968,606,b,606,606_b,Almelo,37.2,"37,200",37.623,"37,623",Dv-Aml,Deventer - Almelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+228,,,,,20418.371,209,,209,209__,Dieren - Apeldoorn,0.6,"0,600",21,"21,000",Dr-Apd,Dieren - Apeldoorn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+229,,,,,305.475,608,a,608,608_a,Apeldoorn,21,"21,000",21.3,"21,300",Dr-Apd,Dieren - Apeldoorn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+230,,,,,5709.719,805,a,805,805_a,Dordrecht Zeehaventerrein,100,"100,000",105.7,"105,700",Ddr-Ddrz,Dordrecht - Dordrecht Zeehaventerrein ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+231,,,,,1306.471,810,b,810,810_b,Dordrecht Industrieterrein Aansl. De Staart,100,"100,000",101.3,"101,300",Ddri-Ddrbhh,Dordrecht Aansl. Industrieterrein De Staart ¿ Dordrecht Baanhoekhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+232,,,,,908.085,810,c,810,810_c,Dordrecht Industrieterrein Aansl. De Staart,200,"200,000",200.9,"200,900",Ddri-Ddrgvl,Dordrecht Aansl. Industrieterrein De Staart ¿ Dordrecht Grevelingenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+233,,,,,421.32,805,e,805,805_e,Dordrecht Zeehaventerrein,700,"700,000",700.4,"700,400",Ddrz-Ddrjh,Dordrecht Zeehaventerrein - Dordrecht Julianahaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+234,,,,,560.566,805,d,805,805_d,Dordrecht Zeehaventerrein,500,"500,000",500.56,"500,560",Ddrz-Ddrkw,Dordrecht Zeehaventerrein - Dordrecht Kreckweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+235,,,,,709.391,805,b,805,805_b,Dordrecht Zeehaventerrein,600,"600,000",600.7,"600,700",Ddrz-Ddrmg,Dordrecht Zeehaventerrein - Dordrecht Malle Gat ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+236,,,,,750.293,144,b,144,144_b,Duivendrecht - Amsterdam Riekerpolder,300.077,"300,077",300.833,"300,833",Dvaw-Asb,Duivendrecht Aansl. West - Amsterdam Bijlmer ArenA ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+237,,,,,253.14,535,b,535,535_b,Amsterdam Bijlmer Arena,302.1,"302,100",302.344,"302,344",Dvaw-Asb,Duivendrecht Aansl. West - Amsterdam Bijlmer ArenA ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+238,,,,,1265.329,589,e,589,589_e,Duivendrecht,300.833,"300,833",302.1,"302,100",Dvaw-Asb,Duivendrecht Aansl. West - Amsterdam Bijlmer ArenA ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+239,,,,,861.191,589,a,589,589_a,Duivendrecht,0.035,"0,035",0.9,"0,900",Dvaz-Vspa,Duivendrecht Aansl. Zuid - Venserpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+240,,,,,3016.643,815,c,815,815_c,Roodeschool Eemshaven,200,"200,000",203.016,"203,016",Eem-Bkkd,Eemshaven - Borkumkade ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+241,,,,,699.838,815,b,815,815_b,Roodeschool Eemshaven,100,"100,000",100.7,"100,700",Eem-Eemwt,Eemshaven - Eemshaven West ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+242,,,,,25199.493,057,,57,057__,Eindhoven - Weert,2,"2,000",27.2,"27,200",Ehv-Wt,Eindhoven - Weert ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+243,,,,,300.68,618,a,618,618_a,Eindhoven,1.7,"1,700",2,"2,000",Ehv-Wt,Eindhoven - Weert ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+244,,,,,18616.606,042,,42,042__,Vork - Kesteren,2.9,"2,900",21.5,"21,500",Est-Gdm,Elst - Geldermalsen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+245,,,,,22469.13,043,,43,043__,Kesteren - Geldermalsen,21.5,"21,500",43.9,"43,900",Est-Gdm,Elst - Geldermalsen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+246,,,,,501.506,510,a,510,510_a,Elst,1.3,"1,300",1.8,"1,800",Est-Gdm,Elst - Geldermalsen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+247,,,,,1102.113,511,,511,511__,Vork,1.8,"1,800",2.9,"2,900",Est-Gdm,Elst - Geldermalsen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+248,,,,,300.817,513,b,513,513_b,Geldermalsen,43.9,"43,900",44.2,"44,200",Est-Gdm,Elst - Geldermalsen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+249,,,,,524.564,844,b,844,844_b,Emmen Emmtec,100,"100,000",100.525,"100,525",Emnr1-Emnr2,Emmen Raccordement 1 - Emmen Raccordement 2 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+250,,,,,2227.35,844,a,844,844_a,Emmen Emmtec,0.1,"0,100",2.32,"2,320",Emnra-Emnr1,Emmen Raccordement Aansluiting - Emmen Raccordement 1 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+251,,,,,346.17,126,b,126,126_b,Roosendaal - Roosendaal Grens,75.236,"75,236",75.582,"75,582",Esn-Np,Essen (B) - Nispen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+252,,,,,1861.729,788,,788,788__,Roosendaal Grens - Essen (B),73.374,"73,374",75.236,"75,236",Esn-Np,Essen (B) - Nispen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+253,,,,,536.218,819,,819,819__,Etten=Leur Gem. Industrieterrein,0.1,"0,100",0.637,"0,637",Etnva-Etnv,Etten-Leur Racc. Vossendaal Aansl. - Etten-Leur Racc. Vossendaal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+254,,,,,699.988,817,k,817,817_k,Vlissingen Sloehaven,600,"600,000",600.7,"600,700",Eupwo-IJslw,Europaweg Oost - IJslandweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+255,,,,,3314.151,817,g,817,817_g,Vlissingen Sloehaven,300,"300,000",303.3,"303,300",Eupwo-Qh,Europaweg Oost - Quarleshaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+256,,,,,1350.023,817,b,817,817_b,Vlissingen Sloehaven,130,"130,000",131.35,"131,350",Eupwz-Adw,Europaweg Zuid - Achterduinweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+257,,,,,700.643,817,c,817,817_c,Vlissingen Sloehaven,140,"140,000",140.695,"140,695",Eupwz-Albw,Europaweg Zuid - Albaniëweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+258,,,,,1018.086,817,d,817,817_d,Vlissingen Sloehaven,159.98,"159,980",161,"161,000",Eupwz-Spjw,Europaweg Zuid - Spanjeweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+259,,,,,374.748,477,e,477,477_e,Rotterdam Europoort 3,500.2,"500,200",500.574,"500,574",Erpmww-Mzlwg,Europoort Merwedeweg - Europoort Moezelweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+260,,,,,2459.99,474,c,474,474_c,Rotterdam Europoort 1,200.1,"200,100",202.565,"202,565",Erpw-Erpmw,Europoort West - Stamlijn Marktweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+261,,,,,853.381,817,h,817,817_h,Vlissingen Sloehaven,310,"310,000",310.85,"310,850",Frkw-Qh,Frankrijkweg - Quarleshaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+262,,,,,3128.563,817,i,817,817_i,Vlissingen Sloehaven,400,"400,000",403.13,"403,130",Frkws-Bww,Frankrijkweg Sloegebied - Belgiëweg West ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+263,,,,,2002.674,027,,27,027__,Diemen - Duivendrecht,147.5,"147,500",149.5,"149,500",Gpda-Asra,Gaasperdammerweg Aansl. - Amsterdam Riekerpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+264,,,,,6596.115,144,a,144,144_a,Duivendrecht - Amsterdam Riekerpolder,151,"151,000",157.6,"157,600",Gpda-Asra,Gaasperdammerweg Aansl. - Amsterdam Riekerpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+265,,,,,907.374,558,b,558,558_b,Amsterdam Riekerpolder,157.6,"157,600",158.505,"158,505",Gpda-Asra,Gaasperdammerweg Aansl. - Amsterdam Riekerpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+266,,,,,1102.561,587,c,587,587_c,Diemen,146.4,"146,400",147.5,"147,500",Gpda-Asra,Gaasperdammerweg Aansl. - Amsterdam Riekerpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+267,,,,,1511.671,589,c,589,589_c,Duivendrecht,149.5,"149,500",151,"151,000",Gpda-Asra,Gaasperdammerweg Aansl. - Amsterdam Riekerpolder Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+268,,,,,47292.252,118,,118,118__,Geldermalsen - Dordrecht,46.3,"46,300",93.5,"93,500",Gdm-Ddr,Geldermalsen - Dordrecht ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+269,,,,,200.519,513,c,513,513_c,Geldermalsen,46.1,"46,100",46.3,"46,300",Gdm-Ddr,Geldermalsen - Dordrecht ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+270,,,,,100.575,542,b,542,542_b,Dordrecht,93.5,"93,500",93.6,"93,600",Gdm-Ddr,Geldermalsen - Dordrecht ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+271,,,,,1299,790,,790,790__,Gent (B) - Zelzate (B),25.101,"25,101",26.4,"26,400",Gent-Fsz,Gent (B) - Zelzate (B) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+272,,,,,1101.336,106,,106,106__,Gouda - Moordrecht Aansl. Noord,1.1,"1,100",2.2,"2,200",Gd-Apn,Gouda - Alphen a/d Rijn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+273,,,,,12699.062,226,,226,226__,Gouda - Alphen a/d Rijn,3.8,"3,800",16.5,"16,500",Gd-Apn,Gouda - Alphen a/d Rijn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+274,,,,,1600.228,537,a,537,537_a,Moordrecht Aansl.,2.2,"2,200",3.8,"3,800",Gd-Apn,Gouda - Alphen a/d Rijn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+275,,,,,239.997,624,b,624,624_b,Gouda,0.86,"0,860",1.1,"1,100",Gd-Apn,Gouda - Alphen a/d Rijn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+276,,,,,22624.259,107,,107,107__,Moordrecht Aansl. - Den Haag Binckhorst,0.8,"0,800",23.4,"23,400",Gd-Gvc,Gouda - Den Haag Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+277,,,,,800.821,537,c,537,537_c,Moordrecht Aansl.,0,"0,000",0.8,"0,800",Gd-Gvc,Gouda - Den Haag Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+278,,,,,909.785,560,a,560,560_a,Den Haag Centraal,24.5,"24,500",25.415,"25,415",Gd-Gvc,Gouda - Den Haag Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+279,,,,,1098.911,564,b,564,564_b,Den Haag Binckhorst,23.4,"23,400",24.5,"24,500",Gd-Gvc,Gouda - Den Haag Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+280,,,,,12987.915,048,,48,048__,Nijmegen Grens - Nijmegen,0,"0,000",13,"13,000",Gb-Nm,Groesbeek - Nijmegen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+281,,,,,4392.933,778,,778,778__,Gronau (D) - Enschede Grens,54.578,"54,578",58.971,"58,971",G-Esg,Gronau (D) - Enschede Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+282,,,,,9392.553,006,,6,006__,Groningen - Sauwerd,1.1,"1,100",10.5,"10,500",Gn-Dz,Groningen - Delfzijl ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+283,,,,,26962.116,201,,201,201__,Sauwerd - Delfzijl,11.3,"11,300",38.245,"38,245",Gn-Dz,Groningen - Delfzijl ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+284,,,,,801.35,600,b,600,600_b,Sauwerd,10.5,"10,500",11.3,"11,300",Gn-Dz,Groningen - Delfzijl ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+285,,,,,2071.228,167,,167,167__,Zevenbergschenhoek Aansluiting,300,"300,000",302.071,"302,071",Hszha-Zha,HSL - Zevenbergschen Hoek Aansl. - Zevenbergschen Hoek Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+286,,,,,2458.129,667,b,667,667_b,Prinsenbeek,399.965,"399,965",402.457,"402,457",Hsbda-Bda,HSL Breda Aansluiting - Breda Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+287,,,,,435.006,527,f,527,527_f,Haarlem,500.665,"500,665",501.1,"501,100",Hlm-Hlmjl,Haarlem - Haarlem Julianalaan ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+288,,,,,10927.085,076,,76,076__,Santpoort Noord - Uitgeest,6.6,"6,600",17.5,"17,500",Hlm-Utg,Haarlem - Uitgeest ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+289,,,,,4005.906,082,,82,082__,Haarlem - Santpoort Noord,1.1,"1,100",5.1,"5,100",Hlm-Utg,Haarlem - Uitgeest ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+290,,,,,100.655,522,a,522,522_a,Uitgeest,17.5,"17,500",17.6,"17,600",Hlm-Utg,Haarlem - Uitgeest ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+291,,,,,599.501,527,b,527,527_b,Haarlem,0.5,"0,500",1.1,"1,100",Hlm-Utg,Haarlem - Uitgeest ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+292,,,,,1500.555,556,,556,556__,Santpoort Noord,5.1,"5,100",6.6,"6,600",Hlm-Utg,Haarlem - Uitgeest ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+293,,,,,7063.855,083,,83,083__,Haarlem - Zandvoort aan Zee,1.1,"1,100",8.17,"8,170",Hlmjl-Zvt,Haarlem Julianalaan - Zandvoort aan Zee ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+294,,,,,400.188,527,a,527,527_a,Haarlem,200.1,"200,100",200.5,"200,500",Hlmzzg-Hlmnwr,Haarlem Zuid Zijlweg - Haarlem Noord Westelijke Randweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+295,,,,,1897.158,022,,22,022__,Haren - Waterhuizen Aansl.,0.4,"0,400",2.3,"2,300",Hrna-Wha,Haren Aansl. - Waterhuizen Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+296,,,,,199.495,549,a,549,549_a,Haren,0.2,"0,200",0.4,"0,400",Hrna-Wha,Haren Aansl. - Waterhuizen Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+297,,,,,550.014,001,b,1,001_b,Harlingen Haven - Leeuwarden,100,"100,000",100.55,"100,550",Hlg-Hlgh,Harlingen - Harlingen Haven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+298,,,,,24252.873,001,a,1,001_a,Harlingen Haven - Leeuwarden,0.4,"0,400",24.6,"24,600",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+299,,,,,52362.513,002,,2,002__,Leeuwarden - Groningen,27,"27,000",79.3,"79,300",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+300,,,,,2304.403,003,,3,003__,Groningen Losplaats - Waterhuizen Aansl.,83.8,"83,800",86.1,"86,100",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+301,,,,,14820.279,004,,4,004__,Waterhuizen Aansl. - Zuidbroek,87,"87,000",101.8,"101,800",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+302,,,,,24682.527,005,,5,005__,Zuidbroek - Nieuweschans Grens,103,"103,000",127.642,"127,642",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+303,,,,,2494.863,501,,501,501__,Groningen,79.3,"79,300",81.8,"81,800",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+304,,,,,901.371,548,,548,548__,Waterhuizen Aansl.,86.1,"86,100",87,"87,000",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+305,,,,,2404.462,550,,550,550__,Leeuwarden,24.6,"24,600",27,"27,000",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+306,,,,,2003.624,552,b,552,552_b,Groningen Losplaats,81.8,"81,800",83.8,"83,800",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+307,,,,,1211.758,653,a,653,653_a,Zuidbroek,101.8,"101,800",103,"103,000",Hlg-Nscg,Harlingen - Nieuweschans Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+308,,,,,1147.969,785,,785,785__,Lanaken (B) - Maastricht grens,11.603,"11,603",12.751,"12,751",Has-Glk,Hasselt (B) - Lanaken (B) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+309,,,,,15113.483,216,,216,216__,Heerhugowaard - Hoorn,7.4,"7,400",22.5,"22,500",Hwd-Hn,Heerhugowaard - Hoorn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+310,,,,,100.687,626,b,626,626_b,Hoorn,22.5,"22,500",22.6,"22,600",Hwd-Hn,Heerhugowaard - Hoorn ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+311,,,,,7302.179,067,,67,067__,Heerlen - Schin op Geul,0.2,"0,200",7.5,"7,500",Hrl-Sog,Heerlen - Schin op Geul ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+312,,,,,99.037,504,a,504,504_a,Heerlen,0.1,"0,100",0.2,"0,200",Hrl-Sog,Heerlen - Schin op Geul ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+313,,,,,299.404,521,a,521,521_a,Schin op Geul,7.5,"7,500",7.8,"7,800",Hrl-Sog,Heerlen - Schin op Geul ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+314,,,,,1201.216,490,c,490,490_c,Amsterdam Houtrakpolder (gebied),104.5,"104,500",105.7,"105,700",Hmta-Hrp,Hemtunnel Aansl. - Amsterdam Houtrakpolder ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+315,,,,,5455.65,490,b,490,490_b,Amsterdam Houtrakpolder (gebied),4.5,"4,500",9.9,"9,900",Hmta-Law,Hemtunnel Aansl. - Latexweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+316,,,,,2282.453,405,,405,405__,Hengelo - Hengelo Zoutindustrie,0.08,"0,080",2.36,"2,360",Hgl-Hglz,Hengelo - Hengelo Zoutindustrie ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+317,,,,,17412.744,026,,26,026__,Hengelo - Oldenzaal Grens,16.1,"16,100",33.466,"33,466",Hgl-Odzg,Hengelo - Oldenzaal Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+318,,,,,409.256,543,b,543,543_b,Hengelo,15.7,"15,700",16.1,"16,100",Hgl-Odzg,Hengelo - Oldenzaal Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+319,,,,,41330.496,203,,203,203__,Mariënberg - Emmen,34.5,"34,500",75.8,"75,800",Hea-Emn,Herfte Aansl. - Emmen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+320,,,,,29412.19,204,,204,204__,Herfte Aansl. - Mariënberg,4.3,"4,300",33.7,"33,700",Hea-Emn,Herfte Aansl. - Emmen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+321,,,,,300.3,400,,400,400__,Emmen - Weerdinge,75.8,"75,800",76.1,"76,100",Hea-Emn,Herfte Aansl. - Emmen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+322,,,,,87.962,602,a,602,602_a,Herfte Aansl.,4.21,"4,210",4.3,"4,300",Hea-Emn,Herfte Aansl. - Emmen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+323,,,,,801.5,751,,751,751__,Mariënberg,33.7,"33,700",34.5,"34,500",Hea-Emn,Herfte Aansl. - Emmen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+324,,,,,1448.041,782,,782,782__,Herzogenrath (D),17.757,"17,757",19.2,"19,200",Hz-Stolb,Herzogenrath (D) - Stolberg (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+325,,,,,2666.747,032,,32,032__,Blauwkapel - Lunetten,14,"14,000",16.67,"16,670",Hvs-Utm,Hilversum - Utrecht Maliebaan ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+326,,,,,11808.38,095,,95,095__,Hilversum - Blauwkapel,0.9,"0,900",12.7,"12,700",Hvs-Utm,Hilversum - Utrecht Maliebaan ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+327,,,,,401.344,528,a,528,528_a,Hilversum,0.5,"0,500",0.9,"0,900",Hvs-Utm,Hilversum - Utrecht Maliebaan ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+328,,,,,1301.334,546,c,546,546_c,Blauwkapel,12.7,"12,700",14,"14,000",Hvs-Utm,Hilversum - Utrecht Maliebaan ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+329,,,,,7050.888,823,a,823,823_a,Oosterhout Weststad,0,"0,000",7.1,"7,100",Hzl-Otw,Hooge Zwaluwe - Oosterhout Weststad ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+330,,,,,19029.37,435,,435,435__,Hoorn - Medemblik,1.4,"1,400",20.431,"20,431",Hn-Mbk,Hoorn - Medemblik ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+331,,,,,100.429,626,a,626,626_a,Hoorn,1.3,"1,300",1.4,"1,400",Hn-Mbk,Hoorn - Medemblik ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+332,,,,,820.753,663,b,663,663_b,Rotterdam Barendrecht,99.584,"99,584",100.405,"100,405",IJsma-Brdv,IJsselmonde Aansl. - Barendrecht Vork ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+333,,,,,683.702,664,a,664,664_a,Rotterdam Lombardijen,98.9,"98,900",99.584,"99,584",IJsma-Brdv,IJsselmonde Aansl. - Barendrecht Vork ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+334,,,,,2525.902,780,,780,780__,Venlo Grens - Keulen (D),16.804,"16,804",19.33,"19,330",Kn-Vlgr,Kaldenkirchen (D) - Venlo Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+335,,,,,1387.481,541,c,541,541_c,Weesp Aansl.,150,"150,000",151.388,"151,388",Kv-Mbga,Keverdijk - Muiderberg Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+336,,,,,899.792,924,b,924,924_b,Kijfhoek,524.831,"524,831",525.735,"525,735",Kfhz-Brppd,Kijfhoek Zuid - Betuweroute Papendrecht ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+337,,,,,4221.177,924,a,924,924_a,Kijfhoek,33.2,"33,200",37.4,"37,400",Kfhz-Kfhn,Kijfhoek Zuid - Kijfhoek Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+338,,,,,340.166,485,a,485,485_a,Amsterdam Hemhaven (gebied),0,"0,000",0.34,"0,340",Kmbw-Kjtw,Kombuisweg - Kajuitweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+339,,,,,1219.64,451,b,451,451_b,Coevorden - Coevorden Grens,73.65,"73,650",74.869,"74,869",Lar-Coep,Laarwald (D) - Coevorden Europark ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+340,,,,,2949.319,776,,776,776__,Laarwald (D) - Coevorden Grens,70.7,"70,700",73.65,"73,650",Lar-Coep,Laarwald (D) - Coevorden Europark ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+341,,,,,10900.674,228,,228,228__,Lage Zwaluwe - s Hertogenbosch,1.1,"1,100",12,"12,000",Zlw-Hzl,Lage Zwaluwe - Hooge Zwaluwe ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+342,,,,,12174.946,801,a,801,801_a,Moerdijk Industrieterrein,0.4,"0,400",12.591,"12,591",Zlw-Mdk,Lage Zwaluwe - Moerdijk (Racc.) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+343,,,,,19918.876,120,a,120,120_a,Lage Zwaluwe - Roosendaal,1.5,"1,500",21.5,"21,500",Zlw-Np,Lage Zwaluwe - Nispen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+344,,,,,6197.672,126,a,126,126_a,Roosendaal - Roosendaal Grens,24.6,"24,600",30.8,"30,800",Zlw-Np,Lage Zwaluwe - Nispen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+345,,,,,3085.668,545,b,545,545_b,Roosendaal,21.5,"21,500",24.6,"24,600",Zlw-Np,Lage Zwaluwe - Nispen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+346,,,,,500.345,625,a,625,625_a,Lage Zwaluwe,1,"1,000",1.5,"1,500",Zlw-Np,Lage Zwaluwe - Nispen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+347,,,,,11314.593,309,,309,309__,Landgraaf - Simpelveld,0.8,"0,800",12.1,"12,100",Lg-Spv,Landgraaf - Simpelveld ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+348,,,,,498.618,661,a,661,661_a,Landgraaf,0.3,"0,300",0.8,"0,800",Lg-Spv,Landgraaf - Simpelveld ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+349,,,,,48007.042,008,,8,008__,Leeuwarden - Stavoren,2.5,"2,500",50.46,"50,460",Lw-Stv,Leeuwarden - Stavoren ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+350,,,,,1105.857,143,,143,143__,Leidschenveen - Leidschendam Lijnwerkplaats,16.8,"16,800",17.9,"17,900",Ldvn-Ldvwpl,Leidschenveen - Leidschendam werkplaats ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+351,,,,,200.588,565,a,565,565_a,Leidschenveen,16.6,"16,600",16.8,"16,800",Ldvn-Ldvwpl,Leidschenveen - Leidschendam werkplaats ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+352,,,,,560.131,922,,922,922__,Leidschendam Lijnwerkplaats,17.9,"17,900",18.456,"18,456",Ldvn-Ldvwpl,Leidschenveen - Leidschendam werkplaats ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+353,,,,,41011.17,161,,161,161__,Lelystad Industrieterrein - Hattemerbroek,3.195,"3,195",44.2,"44,200",Llsoa-Zl,Lelystad Opstelterrein Aansl. - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+354,,,,,833.515,603,d,603,603_d,Zwolle,47.6,"47,600",48.428,"48,428",Llsoa-Zl,Lelystad Opstelterrein Aansl. - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+355,,,,,3392.017,604,a,604,604_a,Hattemerbroek,44.2,"44,200",47.6,"47,600",Llsoa-Zl,Lelystad Opstelterrein Aansl. - Zwolle ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+356,,,,,6300.081,040,,40,040__,Leusden - Amersfoort,44.1,"44,100",50.4,"50,400",Lsd-Amf,Leusden - Amersfoort ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+357,,,,,500.936,506,c,506,506_c,Amersfoort,50.4,"50,400",50.9,"50,900",Lsd-Amf,Leusden - Amersfoort ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+358,,,,,298.873,127,b,127,127_b,Roosendaal - Vlissingen,700,"700,000",700.3,"700,300",Lwd-Sloe,Lewedorp - Sloehaven Emplacement ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+359,,,,,2761.616,817,l,817,817_l,Vlissingen Sloehaven,700.3,"700,300",703.063,"703,063",Lwd-Sloe,Lewedorp - Sloehaven Emplacement ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+360,,,,,830.767,822,c,822,822_c,Zwijndrecht Groote Lindt,300.1,"300,100",300.93,"300,930",Lindk-Nrdwg,Lindtsedijk - Noordweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+361,,,,,743.427,822,b,822,822_b,Zwijndrecht Groote Lindt,200.1,"200,100",200.844,"200,844",Lindk-Zwdmww,Lindtsedijk - Zwijndrecht Merwedeweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+362,,,,,2362.645,802,,802,802__,Utrecht Industrieterrein Lage Weide,100,"100,000",102.362,"102,362",Mas-Utlg,Maarssen - Utrecht Lage Weide ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+363,,,,,2126.663,814,a,814,814_a,Maastricht Racc. Beatrixhaven,100.2,"100,200",102.33,"102,330",Mt-Bha,Maastricht - Beatrixhaven Aansl. (Maastricht) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+364,,,,,2003.663,814,b,814,814_b,Maastricht Racc. Beatrixhaven,200.1,"200,100",202.1,"202,100",Mt-Klprwg,Maastricht - Klipperweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+365,,,,,3574.714,072,a,72,072_a,Maastricht - Maastricht Grens,37,"37,000",40.57,"40,570",Mt-Glk,Maastricht - Lanaken (B) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+366,,,,,466.67,520,c,520,520_c,Maastricht,36.535,"36,535",37,"37,000",Mt-Glk,Maastricht - Lanaken (B) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+367,,,,,20841.22,060,,60,060__,Roermond - Venlo,47.8,"47,800",68.6,"68,600",Mt-Vl,Maastricht - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+368,,,,,22871.896,062,,62,062__,Sittard - Roermond,22.8,"22,800",45.6,"45,600",Mt-Vl,Maastricht - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+369,,,,,19111.909,063,,63,063__,Maastricht - Sittard,1.6,"1,600",20.7,"20,700",Mt-Vl,Maastricht - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+370,,,,,1354.562,517,b,517,517_b,Venlo,68.6,"68,600",69.95,"69,950",Mt-Vl,Maastricht - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+371,,,,,2196.048,519,a,519,519_a,Roermond,45.6,"45,600",47.8,"47,800",Mt-Vl,Maastricht - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+372,,,,,1610.028,520,a,520,520_a,Maastricht,0,"0,000",1.6,"1,600",Mt-Vl,Maastricht - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+373,,,,,2105.323,553,c,553,553_c,Sittard,20.7,"20,700",22.8,"22,800",Mt-Vl,Maastricht - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+374,,,,,598.236,072,b,72,072_b,Maastricht - Maastricht Grens,200.2,"200,200",200.8,"200,800",Mtb-Mtf,Maastricht Boschpoort - Maastricht Frontenkwartier ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+375,,,,,5198.357,478,a,478,478_a,Rotterdam Europoort 4,0,"0,000",5.146,"5,146",Mvta-Mvtn,Maasvlakte Aansl. - Maasvlakte Noordwesthoek ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+376,,,,,1261.824,478,d,478,478_d,Rotterdam Europoort 4,200,"200,000",201.265,"201,265",Mvtn-Mvtnwe,Maasvlakte Noordwesthoek - Maasvlakte Noordwesthoek Europahaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+377,,,,,13512.343,479,a,479,479_a,Maasvlakte 2,300,"300,000",313.5,"313,500",Mvtnwa-Mvtyn,Maasvlakte Noordwesthoek Aansl. - Maasvlakte Yangtzehaven Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+378,,,,,2700.018,479,b,479,479_b,Maasvlakte 2,500,"500,000",502.7,"502,700",Mvtah-Mvtahw,Maasvlakte Prinses Amaliahaven - Maasvlakte Prinses Amaliahaven west ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+379,,,,,2871.437,478,c,478,478_c,Rotterdam Europoort 4,100,"100,000",102.875,"102,875",Mvtyz-Mvtn,Maasvlakte Yangtzehaven Zuid - Maasvlakte Noordwesthoek ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+380,,,,,17403.628,205,,205,205__,Mariënberg - Almelo,0.2,"0,200",17.6,"17,600",Mrb-Aml,Mariënberg - Almelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+381,,,,,99.82,606,c,606,606_c,Almelo,17.6,"17,600",17.7,"17,700",Mrb-Aml,Mariënberg - Almelo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+382,,,,,2400.872,010,,10,010__,Haren - Groningen Losplaats,71.4,"71,400",73.8,"73,800",Mp-Gn,Meppel - Groningen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+383,,,,,20245.019,011,,11,011__,Assen - Haren,50.6,"50,600",70.8,"70,800",Mp-Gn,Meppel - Groningen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+384,,,,,47409.854,012,,12,012__,Meppel - Assen,0.8,"0,800",48.1,"48,100",Mp-Gn,Meppel - Groningen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+385,,,,,200.577,502,a,502,502_a,Meppel,0.6,"0,600",0.8,"0,800",Mp-Gn,Meppel - Groningen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+386,,,,,599.989,549,b,549,549_b,Haren,70.8,"70,800",71.4,"71,400",Mp-Gn,Meppel - Groningen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+387,,,,,200.644,552,a,552,552_a,Groningen Losplaats,73.8,"73,800",74,"74,000",Mp-Gn,Meppel - Groningen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+388,,,,,2510.647,654,,654,654__,Assen,48.1,"48,100",50.6,"50,600",Mp-Gn,Meppel - Groningen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+389,,,,,1825.612,666,d,666,666_d,Meteren Aansl.,245.664,"245,664",247.488,"247,488",Mbtwan-Brmet,Meteren Betuweroute Aansl. Noord - Betuweroute Meteren ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+390,,,,,578.79,801,f,801,801_f,Moerdijk Industrieterrein,500,"500,000",500.57,"500,570",Mdw-Cih,Middenweg - Centrale Insteekhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+391,,,,,549.822,801,e,801,801_e,Moerdijk Industrieterrein,400,"400,000",400.54,"400,540",Mdw-Wstlih,Middenweg - Westelijke Insteekhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+392,,,,,700.253,805,c,805,805_c,Dordrecht Zeehaventerrein,400,"400,000",400.7,"400,700",Mwg-Kilkd,Mijlweg - Kilkade ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+393,,,,,399.996,054,c,54,054_c,Boxtel - Eindhoven,200,"200,000",200.4,"200,400",Mph-Awn,Mispelhoef - Achtseweg Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+394,,,,,800,054,b,54,054_b,Boxtel - Eindhoven,100,"100,000",100.8,"100,800",Mph-Tebw,Mispelhoef - Tegenboschweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+395,,,,,6511.114,801,p,801,801_p,Moerdijk Industrieterrein,900,"900,000",906.505,"906,505",Mdk-Chwg,Moerdijk (Racc) - Chemieweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+396,,,,,2758.227,801,d,801,801_d,Moerdijk Industrieterrein,300,"300,000",302.75,"302,750",Mdk-Mdnw,Moerdijk (Racc.) - Industrie en Havenschap Moerdijk Middenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+397,,,,,3148.415,801,b,801,801_b,Moerdijk Industrieterrein,100,"100,000",103.147,"103,147",Mdk-Ostlrw,Moerdijk (Racc.) - Oostelijke Randweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+398,,,,,976.4,801,g,801,801_g,Moerdijk Industrieterrein,600,"600,000",600.97,"600,970",Mdk-Trw,Moerdijk (Racc.) - Transitoweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+399,,,,,2241.496,541,d,541,541_d,Weesp Aansl.,200.007,"200,007",202.248,"202,248",Mbga-Kv,Muiderberg Aansl. - Keverdijk ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+400,,,,,10424.301,786,,786,786__,Neerpelt (B) - Budel Grens,22.48,"22,480",32.9,"32,900",Lnp-Bdl,Neerpelt (B) - Budel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+401,,,,,599.935,490,e,490,490_e,Amsterdam Houtrakpolder (gebied),175,"175,000",175.6,"175,600",Nzlw-Amkhw,Nieuw-Zeelandweg - Amerikahavenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+402,,,,,10347.959,775,,775,775__,Nieuweschans Grens - Weener (D),7.143,"7,143",17.491,"17,491",Nscg-Wr,Nieuweschans Grens - Weener (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+403,,,,,1199.999,066,b,66,066_b,Landgraaf - Haanrade Grens,100,"100,000",101.2,"101,200",Nvss-Bvss,Nievelsteenstraat - Bart van Slobbestraat ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+404,,,,,721.786,801,k,801,801_k,Moerdijk Industrieterrein,775,"775,000",775.716,"775,716",Ostlrw-Apw,Oostelijke Randweg - Apolloweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+405,,,,,465.405,801,q,801,801_q,Moerdijk Industrieterrein,925,"925,000",925.455,"925,455",Ostlrw-Ihrv,Oostelijke Randweg - Insteekhaven Roode Vaart ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+406,,,,,701.813,801,l,801,801_l,Moerdijk Industrieterrein,800,"800,000",800.7,"800,700",Ostlrw-Vlw,Oostelijke Randweg - Vlasweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+407,,,,,883.152,823,c,823,823_c,Oosterhout Weststad,200.2,"200,200",201.081,"201,081",Otw-Otwbw,Oosterhout Weststad - Oosterhout Weststad Bovensteweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+408,,,,,1496.57,823,b,823,823_b,Oosterhout Weststad,100.069,"100,069",101.565,"101,565",Otw-Otwrw,Oosterhout Weststad - Oosterhout Weststad Rederijweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+409,,,,,2350.132,831,a,831,831_a,Oss Racc. Elzenburg,100.1,"100,100",102.45,"102,450",O-Oelz,Oss - Oss Racc. Elzenburg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+410,,,,,1400.677,831,b,831,831_b,Oss Racc. Elzenburg,200,"200,000",201.4,"201,400",Oelz-Owk,Oss Racc. Elzenburg - Oss Waalkade ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+411,,,,,951.8,469,f,469,469_f,Pernis,500.9,"500,900",501.85,"501,850",Ps1phv-Pspw,Pernis 1e Petroleumhaven - Pernis Petroleumweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+412,,,,,755.295,469,e,469,469_e,Pernis,410.4,"410,400",411.15,"411,150",Ps2phv-Pspw,Pernis 2e Petroleumhaven - Pernis Petroleumweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+413,,,,,510.144,485,g,485,485_g,Amsterdam Hemhaven (gebied),250,"250,000",250.51,"250,510",Phw-Ctl,Petroleumhavenweg - Coentunnel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+414,,,,,1777.028,523,c,523,523_c,Amsterdam Sloterdijk,200.581,"200,581",202.345,"202,345",Rdwa-Aeg,Radarweg Aansl. - Amsterdam Erasmusgracht = Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+415,,,,,13489.716,109,,109,109__,Rhenen - De Haar Aansl.,23.7,"23,700",37.2,"37,200",Rhn-Har,Rhenen - De Haar Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+416,,,,,243.849,562,a,562,562_a,De Haar Aansl.,37.2,"37,200",37.443,"37,443",Rhn-Har,Rhenen - De Haar Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+417,,,,,7255.4,815,a,815,815_a,Roodeschool Eemshaven,0.1,"0,100",7.355,"7,355",Rda-Eem,Rodeschool Aansl. - Eemshaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+418,,,,,12848.183,061,,61,061__,Roermond - Vlodrop Grens,89.4,"89,400",102.226,"102,226",Rm-Vdpg,Roermond - Vlodrop Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+419,,,,,345.833,519,b,519,519_b,Roermond,89.056,"89,056",89.4,"89,400",Rm-Vdpg,Roermond - Vlodrop Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+420,,,,,289.853,468,c,468,468_c,Rotterdam Eemhaven,110.1,"110,100",110.4,"110,400",Rol-Rhpw,Rondolaan - Rotterdam Heijplaatweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+421,,,,,826.879,468,b,468,468_b,Rotterdam Eemhaven,104.2,"104,200",105.015,"105,015",Rol-Rzbs,Rondolaan - Rotterdam Zaltbommelstraat ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+422,,,,,19466.665,122,,122,122__,Roosendaal - Breda,2.1,"2,100",21.5,"21,500",Rsd-Bd,Roosendaal - Breda ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+423,,,,,1992.357,544,b,544,544_b,Breda,21.5,"21,500",23.486,"23,486",Rsd-Bd,Roosendaal - Breda ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+424,,,,,597.186,545,a,545,545_a,Roosendaal,1.5,"1,500",2.1,"2,100",Rsd-Bd,Roosendaal - Breda ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+425,,,,,1273.073,850,,850,850__,Roosendaal Borchwerf,100.2,"100,200",101.5,"101,500",Rsd-Rsdbw1,Roosendaal - Roosendaal Borchwerf 1 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+426,,,,,2450.739,120,b,120,120_b,Lage Zwaluwe - Roosendaal,199.949,"199,949",202.4,"202,400",Rsd-Rsdbw2,Roosendaal - Roosendaal Borchwerf 2 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+427,,,,,378.577,825,,825,825__,Roosendaal Majoppeveld Noord,100.5,"100,500",100.878,"100,878",Rsd-Rsdmn,Roosendaal - Roosendaal Majoppeveld Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+428,,,,,73731.468,127,a,127,127_a,Roosendaal - Vlissingen,0.7,"0,700",74.35,"74,350",Rsd-Vs,Roosendaal - Vlissingen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+429,,,,,906.003,114,b,114,114_b,Rotterdam Kleiweg - Rotterdam Westelijke Splitsing,101.9,"101,900",102.9,"102,900",Rtd-Hfd,Rotterdam Centraal - Hoofddorp ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+430,,,,,1706.584,133,b,133,133_b,Amsterdam Riekerpolder - Warmond,145.9,"145,900",147.609,"147,609",Rtd-Hfd,Rotterdam Centraal - Hoofddorp ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+431,,,,,42997.915,166,,166,166__,Rotterdam Westelijke Splitsing - Nieuw Vennep,102.9,"102,900",145.9,"145,900",Rtd-Hfd,Rotterdam Centraal - Hoofddorp ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+432,,,,,642.63,540,g,540,540_g,Rotterdam Westelijke Splitsing,101.258,"101,258",101.9,"101,900",Rtd-Hfd,Rotterdam Centraal - Hoofddorp ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+433,,,,,881.567,467,b,467,467_b,Rotterdam Waalhaven Oost,20.2,"20,200",21.075,"21,075",Who-Whks,Rotterdam Waalhaven Oost - Rotterdam Waalhaven Kesterenstraat ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+434,,,,,1077.906,467,a,467,467_a,Rotterdam Waalhaven Oost,10,"10,000",11.07,"11,070",Who-Whns,Rotterdam Waalhaven Oost - Rotterdam Waalhaven Nijmegenstraat ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+435,,,,,1697.925,475,b,475,475_b,Rotterdam Maasvlakte,100.3,"100,300",102,"102,000",Ecta-Ect,Rotterdam Waalhaven Racc. ECT Aansl. - Rotterdam Waalhaven Racc. ECT ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+436,,,,,715.246,470,b,470,470_b,Botlek,110,"110,000",110.72,"110,720",Bot-Bot3ph1,"Rotterdam, Botlek - Botlek 3e Petroleumhaven 1 ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+437,,,,,430.395,470,c,470,470_c,Botlek,120,"120,000",120.428,"120,428",Bot-Bot3ph2,"Rotterdam, Botlek - Botlek 3e Petroleumhaven 2 ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+438,,,,,1100.815,470,l,470,470_l,Botlek,400.1,"400,100",401.2,"401,200",Bot-Bot3ph3,"Rotterdam, Botlek - Botlek 3e Petroleumhaven 3 ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+439,,,,,996.117,470,m,470,470_m,Botlek,410,"410,000",410.995,"410,995",Bot-Bot3ph4,"Rotterdam, Botlek - Botlek 3e Petroleumhaven 4 ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+440,,,,,497.665,470,h,470,470_h,Botlek,310,"310,000",310.5,"310,500",Bot-Botch1,"Rotterdam, Botlek - Botlek Chemiehaven 1 ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+441,,,,,971.405,470,n,470,470_n,Botlek,450,"450,000",450.97,"450,970",Bot-Botch2,"Rotterdam, Botlek - Botlek Chemiehaven 2 ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+442,,,,,4644.952,476,a,476,476_a,Rotterdam Europoort 2,100,"100,000",104.65,"104,650",Bot-Bottha,"Rotterdam, Botlek - Botlek Theemsweg Aansl. ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+443,,,,,2054.049,470,a,470,470_a,Botlek,100.1,"100,100",102.16,"102,160",Bot-Odma,"Rotterdam, Botlek - Oude Maas ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+444,,,,,6002.977,470,g,470,470_g,Botlek,300.4,"300,400",306.43,"306,430",Bot-Qbst,"Rotterdam, Botlek - Quebeckstraat ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+445,,,,,21247.386,950,e,950,950_e,Barendrecht Vork - Rotterdam Maasvlakte,21.039,"21,039",42.3,"42,300",Bot-Mvt,"Rotterdam, Botlek - Rotterdam, Emplacement Maasvlakte",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+446,,,,,1699.794,470,k,470,470_k,Botlek,375,"375,000",376.689,"376,689",Bot-Vopk,"Rotterdam, Botlek - VOPAK ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+447,,,,,3260.224,470,e,470,470_e,Botlek,200,"200,000",203.27,"203,270",Bot-Wplw,"Rotterdam, Botlek - Welplaatweg ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+448,,,,,1497.918,477,a,477,477_a,Rotterdam Europoort 3,100,"100,000",101.47,"101,470",Erp-Erpch,"Rotterdam, Emplacement Europoort - EUROCHEMIE ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+449,,,,,3965.544,474,a,474,474_a,Rotterdam Europoort 1,100,"100,000",103.97,"103,970",Erp-Erpelbw,"Rotterdam, Emplacement Europoort - Europoort Elbeweg ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+450,,,,,803.464,474,b,474,474_b,Rotterdam Europoort 1,110.1,"110,100",110.9,"110,900",Erp-Erpsw,"Rotterdam, Emplacement Europoort - Europoort Scheldeweg ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+451,,,,,2041.38,477,b,477,477_b,Rotterdam Europoort 3,200,"200,000",202.045,"202,045",Erp-Kon,"Rotterdam, Emplacement Europoort - Kolenoverslag ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+452,,,,,1575.357,475,c,475,475_c,Rotterdam Maasvlakte,200,"200,000",201.57,"201,570",Mvt-Mvtazh,"Rotterdam, Emplacement Maasvlakte - Maasvlakte Amazonehaven ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+453,,,,,2800.916,475,a,475,475_a,Rotterdam Maasvlakte,0,"0,000",2.9,"2,900",Mvt-Mvtm,"Rotterdam, Emplacement Maasvlakte - Maasvlakte Missouriweg ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+454,,,,,977.893,478,b,478,478_b,Rotterdam Europoort 4,602,"602,000",603,"603,000",Mvt-Ecta,"Rotterdam, Emplacement Maasvlakte - Rotterdam Waalhaven Racc. ECT Aansl. ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+455,,,,,1458.131,469,d,469,469_d,Pernis,400,"400,000",401.5,"401,500",Ps-Ps2phv,"Rotterdam, Emplacement Pernis - Pernis 2e Petroleumhaven ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+456,,,,,3115.009,952,,952,952__,Botlektunnel,813.184,"813,184",816.3,"816,300",Ps-Bot,"Rotterdam, Emplacement Pernis - Rotterdam, Botlek ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+457,,,,,2241.689,469,b,469,469_b,Pernis,200,"200,000",202.265,"202,265",Ps-Shell1,"Rotterdam, Emplacement Pernis - SHELL1 ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+458,,,,,1313.545,469,a,469,469_a,Pernis,100,"100,000",101.35,"101,350",Ps-Strww,"Rotterdam, Emplacement Pernis - Streefwaalseweg ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+459,,,,,632.936,468,f,468,468_f,Rotterdam Eemhaven,300,"300,000",300.6,"300,600",Whz-Prmat,"Rotterdam, Emplacement Waalhaven Zuid - Prinses Margriet Terminal ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+460,,,,,3743.458,468,a,468,468_a,Rotterdam Eemhaven,100,"100,000",103.77,"103,770",Whz-Rol,"Rotterdam, Emplacement Waalhaven Zuid - Rondolaan ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+461,,,,,1554.862,468,g,468,468_g,Rotterdam Eemhaven,400,"400,000",401.555,"401,555",Whz-Rdhw,"Rotterdam, Emplacement Waalhaven Zuid - Rotterdam Den Hamweg ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+462,,,,,14454.209,950,a,950,950_a,Barendrecht Vork - Rotterdam Maasvlakte,6.1,"6,100",20.5,"20,500",Whz-Bot,"Rotterdam, Emplacement Waalhaven Zuid - Rotterdam, Botlek",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+463,,,,,3996.013,467,c,467,467_c,Rotterdam Waalhaven Oost,100,"100,000",104,"104,000",Whz-Who,"Rotterdam, Emplacement Waalhaven Zuid - Rotterdam, Emplacement Waalhaven Oost ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+464,,,,,2999.6,951,,951,951__,Waalhaven Zuid aansl. Noord - Waalhaven Zuid,304.3,"304,300",307.3,"307,300",Whzan-Whz,"Rotterdam, Waalhaven Aansl. Noord - Rotterdam, Emplacement Waalhaven Zuid ",2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+465,,,,,3304.726,490,h,490,490_h,Amsterdam Houtrakpolder (gebied),300,"300,000",303.304,"303,304",Row-Nzkw,Ruijgoordweg - Noordzeekanaalweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+466,,,,,4702.961,007,,7,007__,Sauwerd - Winsum,0.4,"0,400",5.1,"5,100",Swd-Rd,Sauwerd - Roodeschool ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+467,,,,,22047.199,200,,200,200__,Winsum - Roodeschool,5.1,"5,100",27.12,"27,120",Swd-Rd,Sauwerd - Roodeschool ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+468,,,,,100.225,600,a,600,600_a,Sauwerd,0.3,"0,300",0.4,"0,400",Swd-Rd,Sauwerd - Roodeschool ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+469,,,,,520.406,115,a,115,115_a,Schiedam Centrum - Vlaardingen Vulcaanhaven,0.684,"0,684",1.204,"1,204",Sdm-Sdmga,Schiedam Centrum - Schiedam Goederenoverdrachtspoor Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+470,,,,,3995.834,115,d,115,115_d,Schiedam Centrum - Vlaardingen Vulcaanhaven,501.204,"501,204",505.2,"505,200",Sdmga-Vdgvch,Schiedam Goederenoverdrachtspoor Aansluiting -  Vlaardingen Vulcaanhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+471,,,,,6557.661,433,,433,433__,Sittard - Born,0.2,"0,200",6.76,"6,760",Std-Bon,Sittard - Born ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+472,,,,,101.05,553,a,553,553_a,Sittard,0.1,"0,100",0.2,"0,200",Std-Bon,Sittard - Born ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+473,,,,,15926.193,064,,64,064__,Sittard - Heerlen,1,"1,000",16.9,"16,900",Std-Hz,Sittard - Herzogenrath (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+474,,,,,1299.198,065,,65,065__,Heerlen - Landgraaf,19.8,"19,800",21.1,"21,100",Std-Hz,Sittard - Herzogenrath (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+475,,,,,4552.334,066,a,66,066_a,Landgraaf - Haanrade Grens,22.7,"22,700",27.25,"27,250",Std-Hz,Sittard - Herzogenrath (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+476,,,,,2911.25,504,b,504,504_b,Heerlen,16.9,"16,900",19.8,"19,800",Std-Hz,Sittard - Herzogenrath (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+477,,,,,199.263,553,b,553,553_b,Sittard,0.8,"0,800",1,"1,000",Std-Hz,Sittard - Herzogenrath (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+478,,,,,1601.15,661,b,661,661_b,Landgraaf,21.1,"21,100",22.7,"22,700",Std-Hz,Sittard - Herzogenrath (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+479,,,,,1670,781,b,781,781_b,Aachen (D) - Herzogenrath (D),27.25,"27,250",28.92,"28,920",Std-Hz,Sittard - Herzogenrath (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+480,,,,,656.218,817,m,817,817_m,Vlissingen Sloehaven,800,"800,000",800.65,"800,650",Sloe-Blvh,Sloehaven Emplacement - Bijleveldhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+481,,,,,6854.501,817,e,817,817_e,Vlissingen Sloehaven,200.1,"200,100",206.945,"206,945",Sloe-Qh,Sloehaven Emplacement - Quarleshaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+482,,,,,7793.25,817,a,817,817_a,Vlissingen Sloehaven,114.204,"114,204",122.02,"122,020",Sloe-Vck,Sloehaven Emplacement - Van Citterskanaal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+483,,,,,10693.823,818,a,818,818_a,Terneuzen Dow Chemical,100,"100,000",110.68,"110,680",Slua-Sludow,Sluiskil Aansl. - Sluiskil Racc. DOW CHEMICAL ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+484,,,,,1230.55,818,e,818,818_e,Terneuzen Dow Chemical,500,"500,000",501.23,"501,230",Sludow-Tnzdbw,SluiskilRacc. DOW CHEMICAL - Terneuzen Braakmanweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+485,,,,,1098.785,818,b,818,818_b,Terneuzen Dow Chemical,200,"200,000",201.1,"201,100",Sludow-Tnzdn1,SluiskilRacc. DOW CHEMICAL - Terneuzen Nieuw Neuzenweg 1 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+486,,,,,1361.218,818,c,818,818_c,Terneuzen Dow Chemical,300,"300,000",301.36,"301,360",Sludow-Tnzdn2,SluiskilRacc. DOW CHEMICAL - Terneuzen Nieuw Neuzenweg 2 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+487,,,,,1609.81,818,d,818,818_d,Terneuzen Dow Chemical,400,"400,000",401.6,"401,600",Sludow-Tnzdn3,SluiskilRacc. DOW CHEMICAL - Terneuzen Nieuw Neuzenweg 3 ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+488,,,,,238.563,818,f,818,818_f,Terneuzen Dow Chemical,600,"600,000",600.238,"600,238",Sludow-Tnzdzs,SluiskilRacc. DOW CHEMICAL - Terneuzen Zandstraat ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+489,,,,,1013.364,901,,901,901__,Haarlem Hoofdwerkplaats,100,"100,000",101,"101,000",Spbr-Hlmwph,Spaarne (brug o/h - bij Haarlem) - Haarlem Hoofdwerkplaats ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+490,,,,,9714.547,463,,463,463__,Stadskanaal Hoofdstation - Musselkanaal=Valthermond,0,"0,000",9.7,"9,700",Skn-Mkv,Stadskanaal Hoofdstation - Musselkanaal-Valthermond ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+491,,,,,21410.3,305,,305,305__,Stadskanaal Hoofdstation - Zuidbroek,0,"0,000",21.4,"21,400",Skn-Zb,Stadskanaal Hoofdstation - Zuidbroek ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+492,,,,,200.678,653,b,653,653_b,Zuidbroek,21.4,"21,400",21.6,"21,600",Skn-Zb,Stadskanaal Hoofdstation - Zuidbroek ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+493,,,,,1606.392,557,c,557,557_c,Terneuzen Aansl.,99.8,"99,800",101.4,"101,400",Tnzz-Frkw,Terneuzen Zuidzijde (Racc.) - Frankrijkweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+494,,,,,1118.28,557,g,557,557_g,Terneuzen Aansl.,500.1,"500,100",501.205,"501,205",Tnzz-Tnzew,Terneuzen Zuidzijde (Racc.) - Terneuzen Engelandweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+495,,,,,1000.826,557,d,557,557_d,Terneuzen Aansl.,200.2,"200,200",201.2,"201,200",Tnzz-Tnznw,Terneuzen Zuidzijde (Racc.) - Terneuzen Noorwegenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+496,,,,,379.297,557,e,557,557_e,Terneuzen Aansl.,300.12,"300,120",300.5,"300,500",Tnzz-Tnzow,Terneuzen Zuidzijde (Racc.) - Terneuzen Osloweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+497,,,,,421.735,557,f,557,557_f,Terneuzen Aansl.,400.122,"400,122",400.542,"400,542",Tnzz-Tnzzw,Terneuzen Zuidzijde (Racc.) - Terneuzen Zwedenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+498,,,,,1264.46,828,b,828,828_b,Tiel Gem. Stamlijn,200,"200,000",201.26,"201,260",Tla-Tlzhw,Tiel Aansl. Industrieterrein  - Tiel Zuiderhavenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+499,,,,,2034.282,828,a,828,828_a,Tiel Gem. Stamlijn,100.2,"100,200",102.235,"102,235",Tla-Tlpow,Tiel Aansl. Industrieterrein. - Tiel Panovenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+500,,,,,16924.606,124,a,124,124_a,Tilburg - Vught Aansl.,1.9,"1,900",18.8,"18,800",Tb-Vga,Tilburg - Vught Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+501,,,,,200.166,515,a,515,515_a,Vught Aansl.,18.8,"18,800",19,"19,000",Tb-Vga,Tilburg - Vught Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+502,,,,,101.146,551,a,551,551_a,Tilburg,1.8,"1,800",1.9,"1,900",Tb-Vga,Tilburg - Vught Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+503,,,,,100.624,124,b,124,124_b,Tilburg - Vught Aansl.,100,"100,000",100.1,"100,100",Tbi-Tbio,Tilburg Industrieterrein - Tilburg De Loven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+504,,,,,1017.229,839,a,839,839_a,Tilburg de Loven,100.1,"100,100",101.117,"101,117",Tbi-Tbio,Tilburg Industrieterrein - Tilburg De Loven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+505,,,,,199.934,839,b,839,839_b,Tilburg de Loven,200,"200,000",200.2,"200,200",Tbio-Tbih,Tilburg de Loven - Tilburg Industriehaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+506,,,,,450.05,485,b,485,485_b,Amsterdam Hemhaven (gebied),50,"50,000",50.45,"50,450",Ahwusl-Ahwbzw,Usselincxhaven - Benzolweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+507,,,,,6904.449,090,,90,090__,Den Dolder - Amersfoort,13.3,"13,300",20.2,"20,200",Ut-Amf,Utrecht - Amersfoort ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+508,,,,,6500.039,093,,93,093__,Blauwkapel - Den Dolder,4.6,"4,600",11.1,"11,100",Ut-Amf,Utrecht - Amersfoort ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+509,,,,,2695.669,094,,94,094__,Utrecht Centraal - Blauwkapel,0.9,"0,900",3.6,"3,600",Ut-Amf,Utrecht - Amersfoort ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+510,,,,,2200.876,530,b,530,530_b,Den Dolder,11.1,"11,100",13.3,"13,300",Ut-Amf,Utrecht - Amersfoort ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+511,,,,,199.265,531,a,531,531_a,Utrecht Centraal,0.7,"0,700",0.9,"0,900",Ut-Amf,Utrecht - Amersfoort ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+512,,,,,997.073,546,b,546,546_b,Blauwkapel,3.6,"3,600",4.6,"4,600",Ut-Amf,Utrecht - Amersfoort ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+513,,,,,15797.379,046,,46,046__,Meteren Aansl. - s Hertogenbosch,30.9,"30,900",46.7,"46,700",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+514,,,,,2208.532,051,,51,051__,s Hertogenbosch - Vught Aansl.,48.7,"48,700",50.9,"50,900",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+515,,,,,8000.294,053,,53,053__,Vught Aansl. - Boxtel,51.4,"51,400",59.4,"59,400",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+516,,,,,20883.255,117,,117,117__,Lunetten - Geldermalsen,3.3,"3,300",24.2,"24,200",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+517,,,,,2398.062,513,a,513,513_a,Geldermalsen,24.2,"24,200",26.6,"26,600",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+518,,,,,501.338,515,b,515,515_b,Vught Aansl.,50.9,"50,900",51.4,"51,400",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+519,,,,,399.873,547,a,547,547_a,Lunetten Aansl.,2.9,"2,900",3.3,"3,300",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+520,,,,,2002.754,614,c,614,614_c,s Hertogenbosch,46.7,"46,700",48.7,"48,700",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+521,,,,,200.886,617,b,617,617_b,Boxtel,59.4,"59,400",59.6,"59,600",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+522,,,,,4295.997,666,a,666,666_a,Meteren Aansl.,26.6,"26,600",30.9,"30,900",Ut-Btl,Utrecht Centraal - Boxtel ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+523,,,,,8793.743,100,,100,100__,Utrecht Centraal - Harmelen Aansl.,2,"2,000",10.8,"10,800",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+524,,,,,2700.312,101,,101,101__,Harmelen Aansl. - Woerden,12.1,"12,100",14.8,"14,800",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+525,,,,,13987.336,105,,105,105__,Woerden - Gouda,17.6,"17,600",31.6,"31,600",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+526,,,,,1395.762,114,a,114,114_a,Rotterdam Kleiweg - Rotterdam Westelijke Splitsing,52.6,"52,600",54,"54,000",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+527,,,,,15899.774,132,,132,132__,Moordrecht Aansl. - Rotterdam Kleiweg,36,"36,000",51.9,"51,900",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+528,,,,,930.989,134,,134,134__,Gouda - Moordrecht Aansl.,33.3,"33,300",34.2,"34,200",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+529,,,,,1011.376,531,d,531,531_d,Utrecht Centraal,1,"1,000",2,"2,000",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+530,,,,,1299.328,532,,532,532__,Harmelen Aansl.,10.8,"10,800",12.1,"12,100",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+531,,,,,2796.096,533,,533,533__,Woerden,14.8,"14,800",17.6,"17,600",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+532,,,,,1795.466,537,b,537,537_b,Moordrecht Aansl.,34.2,"34,200",36,"36,000",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+533,,,,,700.912,538,,538,538__,Rotterdam Kleiweg,51.9,"51,900",52.6,"52,600",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+534,,,,,593.171,540,c,540,540_c,Rotterdam Westelijke Splitsing,54,"54,000",54.6,"54,600",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+535,,,,,1700.131,624,a,624,624_a,Gouda,31.6,"31,600",33.3,"33,300",Ut-Rtd,Utrecht Centraal - Rotterdam Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+536,,,,,2142.08,808,,808,808__,VAM-terrein Wijster,100,"100,000",102.14,"102,140",Vama-Vam,VAM Aansl. - VAM - terrein Wijster ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+537,,,,,1481.658,859,,859,859__,Sas van Gent Cerestar,100,"100,000",101.5,"101,500",Vlkw-Wkd,Valckeweg - Westkade ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+538,,,,,46934.156,055,,55,055__,Blerick - Eindhoven,2.5,"2,500",49.4,"49,400",Vl-Ehv,Venlo - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+539,,,,,1501.673,516,a,516,516_a,Blerick,1,"1,000",2.5,"2,500",Vl-Ehv,Venlo - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+540,,,,,999.43,517,a,517,517_a,Venlo,0,"0,000",1,"1,000",Vl-Ehv,Venlo - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+541,,,,,2194.271,618,b,618,618_b,Eindhoven,49.4,"49,400",51.595,"51,595",Vl-Ehv,Venlo - Eindhoven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+542,,,,,975.78,855,,855,855__,Venlo Tradeport,100.063,"100,063",101.039,"101,039",Vl-Vltp,Venlo - Venlo Tradeport ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+543,,,,,1999.276,056,,56,056__,Venlo Grens - Venlo,0,"0,000",2,"2,000",Vlgr-Vl,Venlo Grens - Venlo ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+544,,,,,281.535,535,c,535,535_c,Amsterdam Bijlmer Arena,200.119,"200,119",200.4,"200,400",Vspa-Dvaz,Venserpolder Aansl. - Duivendrecht Aansl. Zuid ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+545,,,,,1196.376,589,d,589,589_d,Duivendrecht,200.4,"200,400",201.6,"201,600",Vspa-Dvaz,Venserpolder Aansl. - Duivendrecht Aansl. Zuid ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+546,,,,,3441.717,068,,68,068__,Simpelveld Grens - Simpelveld,8.5,"8,500",11.9,"11,900",Vet-Mtn,Verschau (D) - Maastricht Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+547,,,,,8343.65,069,,69,069__,Simpelveld - Schin op Geul,13.5,"13,500",21.9,"21,900",Vet-Mtn,Verschau (D) - Maastricht Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+548,,,,,10204.841,070,,70,070__,Schin op Geul - Maastricht,23,"23,000",33.2,"33,200",Vet-Mtn,Verschau (D) - Maastricht Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+549,,,,,1099.965,521,b,521,521_b,Schin op Geul,21.9,"21,900",23,"23,000",Vet-Mtn,Verschau (D) - Maastricht Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+550,,,,,1618.435,662,,662,662__,Simpelveld,11.9,"11,900",13.5,"13,500",Vet-Mtn,Verschau (D) - Maastricht Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+551,,,,,1350,783,,783,783__,Vetschau (D) - Simpelveld Grens,7.15,"7,150",8.5,"8,500",Vet-Mtn,Verschau (D) - Maastricht Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+552,,,,,9706.68,071,,71,071__,Eijsden - Maastricht,18.195,"18,195",27.9,"27,900",Fvs-Mt,Visé (B) - Maastricht ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+553,,,,,597.864,520,b,520,520_b,Maastricht,27.9,"27,900",28.5,"28,500",Fvs-Mt,Visé (B) - Maastricht ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+554,,,,,3448,784,,784,784__,Visé (B) - Eijsden Grens,14.747,"14,747",18.195,"18,195",Fvs-Mt,Visé (B) - Maastricht ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+555,,,,,485.599,801,m,801,801_m,Moerdijk Industrieterrein,825,"825,000",825.48,"825,480",Vlw-Cih,Vlasweg - Centrale Insteekhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+556,,,,,726.785,801,r,801,801_r,Moerdijk Industrieterrein,950,"950,000",950.727,"950,727",Vlw-Cihn,Vlasweg - Centrale Insteekhaven Noord ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+557,,,,,2647.545,485,f,485,485_f,Amsterdam Hemhaven (gebied),200.1,"200,100",202.755,"202,755",Vhw-Kmbw,Vlothavenweg - Kombuisweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+558,,,,,1070.376,485,c,485,485_c,Amsterdam Hemhaven (gebied),76.774,"76,774",77.9,"77,900",Vhw-Nhw,Vlothavenweg - Nieuwe Hemweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+559,,,,,754.994,485,m,485,485_m,Amsterdam Hemhaven (gebied),300,"300,000",300.755,"300,755",Vhw-Vhv,Vlothavenweg - Vlothaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+560,,,,,3205.508,810,a,810,810_a,Dordrecht Industrieterrein Aansl. De Staart,0.4,"0,400",3.6,"3,600",Wijb-Ddri,Wantij (brug o/h - bij Dordrecht) - Dordrecht Aansl. Industrieterrein De Staart ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+561,,,,,1491.128,587,d,587,587_d,Diemen,906.6,"906,600",908.1,"908,100",Wgm-Dmn,Watergraafsmeer - Diemen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+562,,,,,2399.661,927,,927,927__,Watergraafsmeer,904.2,"904,200",906.6,"906,600",Wgm-Dmn,Watergraafsmeer - Diemen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+563,,,,,302.342,587,b,587,587_b,Diemen,100.6,"100,600",100.9,"100,900",Wgm-Gpda,Watergraafsmeer - Gaasperdammerweg Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+564,,,,,44303.415,135,,135,135__,Weesp Aansl. - Lelystad Industrieterrein,2.4,"2,400",46.7,"46,700",Wp-Llso,Weesp - Lelystad Opstel. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+565,,,,,2370.885,541,a,541,541_a,Weesp Aansl.,0.022,"0,022",2.4,"2,400",Wp-Llso,Weesp - Lelystad Opstel. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+566,,,,,399.255,801,c,801,801_c,Moerdijk Industrieterrein,200,"200,000",200.396,"200,396",Wstlrw-Wstlra,Westelije Randweg - Westelijke Randweg Aansluiting ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+567,,,,,48432.755,212,,212,212__,Winterswijk - Zevenaar,0.6,"0,600",49,"49,000",Ww-Zv,Winterswijk-Zevenaar ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+568,,,,,195.471,607,a,607,607_a,Winterswijk,0.4,"0,400",0.6,"0,600",Ww-Zv,Winterswijk-Zevenaar ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+569,,,,,89.275,611,a,611,611_a,Zevenaar,49,"49,000",49.1,"49,100",Ww-Zv,Winterswijk-Zevenaar ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+570,,,,,16106.824,102,,102,102__,Woerden - Alphen a/d Rijn,0.2,"0,200",16.3,"16,300",Wd-Ledn,Woerden - Leiden Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+571,,,,,13509.293,103,,103,103__,Alphen a/d Rijn - Leiden Centraal,18,"18,000",31.5,"31,500",Wd-Ledn,Woerden - Leiden Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+572,,,,,300.404,534,a,534,534_a,Leiden Centraal,31.5,"31,500",31.8,"31,800",Wd-Ledn,Woerden - Leiden Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+573,,,,,1703.2,623,,623,623__,Alphen a/d Rijn,16.3,"16,300",18,"18,000",Wd-Ledn,Woerden - Leiden Centraal ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+574,,,,,5800.611,139,,139,139__,Zaandam - Amsterdam Sloterdijk,171.6,"171,600",177.4,"177,400",Zd-Sgra,Zaandam - Amsterdam Singelgracht Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+575,,,,,2600.118,523,b,523,523_b,Amsterdam Sloterdijk,177.4,"177,400",180,"180,000",Zd-Sgra,Zaandam - Amsterdam Singelgracht Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+576,,,,,699.563,525,c,525,525_c,Amsterdam Singelgracht Aansl.,180,"180,000",180.7,"180,700",Zd-Sgra,Zaandam - Amsterdam Singelgracht Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+577,,,,,30198.938,079,,79,079__,Zaandam - Hoorn,1.3,"1,300",31.5,"31,500",Zd-Ekz,Zaandam - Enkhuizen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+578,,,,,16009.634,217,,217,217__,Hoorn - Enkhuizen,34,"34,000",50,"50,000",Zd-Ekz,Zaandam - Enkhuizen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+579,,,,,202.535,524,a,524,524_a,Zaandam,1.1,"1,100",1.3,"1,300",Zd-Ekz,Zaandam - Enkhuizen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+580,,,,,2504.111,626,c,626,626_c,Hoorn,31.5,"31,500",34,"34,000",Zd-Ekz,Zaandam - Enkhuizen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+581,,,,,699.768,801,h,801,801_h,Moerdijk Industrieterrein,700,"700,000",700.7,"700,700",Zhw-Cih,Zeehavenweg - Centrale Insteekhaven ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+582,,,,,2604.139,129,,129,129__,Terneuzen Aansl. - Terneuzen,28.3,"28,300",30.905,"30,905",Fsz-Tnz,Zelzate (B) - Terneuzen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+583,,,,,10818.902,131,,131,131__,Sas van Gent Grens - Terneuzen Aansl.,15.585,"15,585",26.4,"26,400",Fsz-Tnz,Zelzate (B) - Terneuzen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+584,,,,,1900.536,557,a,557,557_a,Terneuzen Aansl.,26.4,"26,400",28.3,"28,300",Fsz-Tnz,Zelzate (B) - Terneuzen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+585,,,,,1213,789,,789,789__,Zelzate (B) - Sas van Gent Grens,14.372,"14,372",15.585,"15,585",Fsz-Tnz,Zelzate (B) - Terneuzen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+586,,,,,13113.965,779,,779,779__,Emmerich (D) - Zevenaar Grens,59.5,"59,500",72.614,"72,614",Zvg-Em,Zevenaar Grens - Emmerich (D) ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+587,,,,,2508.658,121,c,121,121_c,Breda - Lage Zwaluwe,300,"300,000",302.509,"302,509",Zha-Hszha,Zevenbergschen Hoek Aansl. - HSL - Zevenbergschen Hoek Aansl. ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+588,,,,,653.008,801,i,801,801_i,Moerdijk Industrieterrein,725,"725,000",725.65,"725,650",Zdlrw-Zhw,Zuidelijke Randweg - Zeehavenweg ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+589,,,,,13035.733,028,,28,028__,Hengelo - Enschede Grens,46.7,"46,700",59.727,"59,727",Zp-Esg,Zutphen - Enschede Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+590,,,,,42152.731,031,a,31,031_a,Zutphen - Hengelo,2.4,"2,400",44.4,"44,400",Zp-Esg,Zutphen - Enschede Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+591,,,,,2316.307,543,c,543,543_c,Hengelo,44.4,"44,400",46.7,"46,700",Zp-Esg,Zutphen - Enschede Grens ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+592,,,,,41163.754,210,,210,210__,Zutphen - Winterswijk,1.8,"1,800",42.9,"42,900",Zp-Ww,Zutphen - Winterswijk ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+593,,,,,1402.084,607,b,607,607_b,Winterswijk,42.9,"42,900",44.3,"44,300",Zp-Ww,Zutphen - Winterswijk ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+594,,,,,700.932,116,b,116,116_b,Dordrecht - Rotterdam Barendrecht,99.8,"99,800",100.5,"100,500",Zwd-Zwdi,Zwijndrecht - Zwijndrecht Groote Lindt ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+595,,,,,4058.488,822,a,822,822_a,Zwijndrecht Groote Lindt,100.5,"100,500",104.564,"104,564",Zwd-Zwdi,Zwijndrecht - Zwijndrecht Groote Lindt ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+596,,,,,12708.223,015,,15,015__,Zwolle - Kampen,88.4,"88,400",101.1,"101,100",Zl-Kpn,Zwolle - Kampen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+597,,,,,199.753,603,c,603,603_c,Zwolle,88.2,"88,200",88.4,"88,400",Zl-Kpn,Zwolle - Kampen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+598,,,,,64540.985,009,,9,009__,Meppel - Leeuwarden,101.6,"101,600",165.9,"165,900",Zl-Lw,Zwolle - Leeuwarden ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+599,,,,,22313.8,013,,13,013__,Herfte Aansl. - Meppel,77.7,"77,700",99.9,"99,900",Zl-Lw,Zwolle - Leeuwarden ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+600,,,,,2111.956,014,,14,014__,Zwolle - Herfte Aansl.,74.9,"74,900",77,"77,000",Zl-Lw,Zwolle - Leeuwarden ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+601,,,,,1715.595,502,b,502,502_b,Meppel,99.9,"99,900",101.6,"101,600",Zl-Lw,Zwolle - Leeuwarden ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+602,,,,,704.682,602,b,602,602_b,Herfte Aansl.,77,"77,000",77.7,"77,700",Zl-Lw,Zwolle - Leeuwarden ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+603,,,,,250.064,603,f,603,603_f,Zwolle,74.65,"74,650",74.9,"74,900",Zl-Lw,Zwolle - Leeuwarden ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+604,,,,,37817.581,206,,206,206__,Zwolle - Wierden,1.6,"1,600",39.4,"39,400",Zl-Wdn,Zwolle - Wierden ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+605,,,,,200.01,603,e,603,603_e,Zwolle,1.4,"1,400",1.6,"1,600",Zl-Wdn,Zwolle - Wierden ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+606,,,,,2153.842,603,a,603,603_a,Zwolle,2,"2,000",4.149,"4,149",Zlr-Zlge,Zwolle Rangeerterrein - Zwolle Goederenemplacement ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+607,,,,,1742.804,926,,926,926__,Zwolle Rangeerterrein,0.3,"0,300",2,"2,000",Zlr-Zlge,Zwolle Rangeerterrein - Zwolle Goederenemplacement ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+608,,,,,40922.322,047,,47,047__,s Hertogenbosch - Nijmegen,23.6,"23,600",64.5,"64,500",Ht-Nm,s-Hertogenbosch - Nijmegen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+609,,,,,903.046,514,b,514,514_b,Nijmegen,64.5,"64,500",65.4,"65,400",Ht-Nm,s-Hertogenbosch - Nijmegen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0
+610,,,,,99.601,614,a,614,614_a,s Hertogenbosch,23.5,"23,500",23.6,"23,600",Ht-Nm,s-Hertogenbosch - Nijmegen ,2022/12/21 18:01:08+00,2022/12/22 01:00:00+00,,0

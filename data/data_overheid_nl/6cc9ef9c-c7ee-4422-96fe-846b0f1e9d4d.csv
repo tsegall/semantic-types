@@ -1,0 +1,2000 @@
+buurt;wijk;woonplaats;gemeente;type_proces;type_aanvraag;status;resultaat;periode;aantal_aanvragen
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;*NB;209902;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;*NB;209912;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201501;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201502;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201503;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201504;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201505;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201506;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201507;6
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201508;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201509;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201510;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201601;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201602;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201606;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201609;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201903;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201501;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201503;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201505;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201506;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201507;6
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201508;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201509;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201510;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201511;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201512;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201602;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201603;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201604;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201606;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201608;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201902;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201501;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201502;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201503;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201504;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201505;6
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201506;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201507;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201508;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201509;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201510;10
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201511;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201512;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201601;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201602;11
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201603;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201604;11
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201605;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201606;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201607;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201608;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201609;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201610;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201811;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201901;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201902;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afgewezen;201903;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201609;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201610;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201611;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201612;10
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201701;11
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201702;12
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201703;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201704;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201705;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201706;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201707;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201708;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201709;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201710;12
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201711;10
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201712;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201801;10
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201802;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201803;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201804;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201805;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201806;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201807;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201808;6
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201809;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201810;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201811;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201812;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201901;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201902;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201903;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201904;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201905;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201906;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201907;6
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201908;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201909;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201910;6
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;201912;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202001;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202002;12
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202003;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202004;14
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202005;10
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202006;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202007;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202008;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202009;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202011;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202101;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202102;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202103;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202105;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202106;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202107;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202108;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202109;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202110;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Afwijzing;202111;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201609;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201610;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201611;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201612;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201701;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201702;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201703;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201704;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201705;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201706;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201707;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201708;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201710;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201711;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201712;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201801;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201802;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201803;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201804;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201805;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201806;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201807;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201809;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201810;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201811;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201812;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201903;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201904;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201905;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201906;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201907;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201908;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201909;6
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201910;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201911;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201912;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202001;6
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202002;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202003;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202004;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202005;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202006;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202007;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202009;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202010;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202012;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202101;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202102;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202103;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202104;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202105;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202106;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202107;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202108;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202109;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201504;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201506;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201507;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201508;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201509;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201510;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201511;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201512;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201601;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201602;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201603;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201604;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201606;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201607;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201608;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201812;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201901;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201902;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;202103;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201608;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201609;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201611;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201612;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201701;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201702;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201703;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201704;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201705;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201707;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201711;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201712;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201801;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201804;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201805;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201806;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201807;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201808;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201809;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201810;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201811;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201902;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201904;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201905;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201906;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201907;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201908;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201909;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;201911;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202002;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202003;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202004;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202005;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202006;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202007;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202008;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202009;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202010;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202011;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202012;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202101;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202102;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202103;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202104;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202105;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202106;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202107;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202109;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Intrekking;202110;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201502;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201503;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201504;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201505;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201506;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201511;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201601;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201602;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201605;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Onbekend;201612;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201501;28
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;25
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;28
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;22
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201505;21
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;25
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;27
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;26
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;23
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;34
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201511;26
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201512;23
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201601;19
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;18
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;23
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201604;22
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;28
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201606;31
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;25
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201608;21
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201609;14
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201610;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201811;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201812;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;12
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201902;15
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toegekend;201903;5
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201604;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201606;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201607;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201608;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201609;17
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;14
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;34
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201612;25
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;29
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;37
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;29
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201704;21
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;28
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;19
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;27
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;18
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;23
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;24
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;26
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;20
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;30
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201802;31
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;16
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;20
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201805;20
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;18
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;17
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201808;12
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;24
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;28
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;25
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;14
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201902;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201903;21
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;16
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;18
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;26
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201907;23
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;21
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;20
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;16
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;26
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;12
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;24
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;19
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;15
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;16
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202005;17
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202006;14
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;11
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;11
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;15
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;15
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;11
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;11
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;7
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;9
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;8
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;4
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202106;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;3
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202109;1
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Toekenning;202111;2
+;;* Anders;;Minima;Aanvraag BB;afgehandeld;Werkproces ingetrokken;201502;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201507;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201608;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201609;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201605;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201607;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201902;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201610;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201702;2
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201710;2
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201802;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201809;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202004;2
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202006;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202009;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201709;2
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202108;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201902;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201807;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202003;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201505;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201512;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201601;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;2
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201608;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201612;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;2
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;1
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;2
+Langeheit;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;*NB;209912;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201502;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201606;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201506;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201507;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201510;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201512;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201901;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201903;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201503;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201506;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201508;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201509;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201512;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201601;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201604;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201605;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201608;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201609;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201808;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201809;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201610;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201612;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201701;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201702;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201703;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201704;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201706;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201707;4
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201710;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201801;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201803;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201805;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201806;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201807;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201808;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201810;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201811;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201901;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201903;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201905;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201909;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202002;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202003;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202006;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202007;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202008;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202011;6
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202102;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202103;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202105;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202108;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202109;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202111;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201702;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201708;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201805;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201807;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201809;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201810;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201812;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201904;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201906;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201910;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201912;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202003;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202008;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202102;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202105;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202108;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201603;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201604;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201701;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201801;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201908;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202002;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202011;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202012;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202103;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202109;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Onbekend;201604;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201501;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;4
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201505;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;7
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;6
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201512;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;4
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201604;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201606;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;4
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201811;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201903;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;7
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201704;7
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;5
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;4
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;4
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201805;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201808;4
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201902;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201903;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;4
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201907;6
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;6
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;5
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;4
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;5
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202005;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;5
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202106;3
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;1
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;2
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202109;9
+Parkrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201503;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201508;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201510;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201601;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201503;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201507;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201509;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201708;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201709;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201901;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201905;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201908;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201909;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201912;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202007;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202009;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;3
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201710;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201802;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201809;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201908;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202001;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202011;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202101;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202108;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201504;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201507;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201609;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201611;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201909;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202109;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;3
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201511;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201606;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201609;3
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201902;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201903;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;3
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201903;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;4
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202006;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;2
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;3
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;5
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;1
+Waterrijk;Assendelft-Noord;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201510;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201504;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201506;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201508;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201509;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201511;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201901;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201507;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201508;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201509;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201605;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201608;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201609;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201811;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201611;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201701;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201706;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201707;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201712;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201805;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201806;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201808;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201811;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201901;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201904;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201907;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202004;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202005;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202006;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202011;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202101;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202102;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202106;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202107;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202108;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201703;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201711;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201806;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201808;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201903;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201908;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201911;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202001;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202005;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202006;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202008;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202009;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202012;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202101;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202106;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202107;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202108;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202109;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201602;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201604;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201607;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201612;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201801;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202002;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202005;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202006;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202007;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202008;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202010;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202102;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202106;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202107;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202110;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Onbekend;201505;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Onbekend;201812;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201501;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201505;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201511;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201512;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201601;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201608;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201609;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201902;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201903;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201612;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201802;5
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201805;6
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201902;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201907;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;3
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;5
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;5
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202005;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202006;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;5
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;1
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202106;2
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;9
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202109;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;4
+Centrum;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202111;3
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201507;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201509;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201604;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201606;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201710;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201712;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201802;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201906;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202008;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202109;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202110;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201710;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202103;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201511;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201601;2
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201606;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201608;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;2
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;3
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;3
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201802;4
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201805;2
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;2
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;2
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;2
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;2
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;2
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;2
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;1
+De Zuid;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202111;1
+Westerpolder;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201809;1
+Westerpolder;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201901;1
+Westerpolder;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;1
+Westerpolder;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201609;1
+Westerpolder;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;1
+Westerpolder;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;1
+Westerpolder;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;1
+Westerpolder;Assendelft-Zuid;Assendelft;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201506;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201508;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201903;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201502;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201504;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201505;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201511;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201603;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201604;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201605;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201607;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201608;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201810;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201902;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201611;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201612;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201701;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201703;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201705;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201706;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201708;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201709;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201710;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201711;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201801;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201803;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201804;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201805;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201806;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201807;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201809;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201810;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201811;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201901;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201903;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201904;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201907;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201909;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201910;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202001;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202002;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202003;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202004;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202005;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202007;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202008;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202011;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202101;7
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202102;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202103;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202105;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202106;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202109;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202111;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201704;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201705;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201707;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201710;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201802;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201803;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201805;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201808;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201810;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201812;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201905;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201907;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201908;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201909;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202002;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202003;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202008;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202009;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202010;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202012;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202101;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202102;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202103;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202104;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202107;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202110;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201601;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201604;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201812;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201710;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201812;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201908;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202002;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202007;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202010;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202012;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202101;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202104;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202105;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202106;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202109;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Onbekend;201504;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201501;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201505;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;6
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201512;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201601;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201604;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201606;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201608;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201609;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201610;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201811;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201812;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201902;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201903;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201612;7
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201704;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;6
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;7
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201802;9
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201805;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;6
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201808;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;9
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;11
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201903;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201907;8
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;8
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;4
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;7
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202005;13
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202006;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;6
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;1
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202106;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;3
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202109;5
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;2
+Boerejonkerbuurt;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202111;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201601;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201603;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201505;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201507;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201508;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201902;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201501;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201509;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201601;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201603;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201605;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201608;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201609;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201902;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201903;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201611;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201612;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201702;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201703;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201704;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201705;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201706;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201707;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201708;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201709;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201712;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201801;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201802;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201803;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201804;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201806;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201807;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201808;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201810;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201901;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201902;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201903;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201905;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201908;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201910;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201912;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202001;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202002;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202003;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202004;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202006;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202007;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202008;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202009;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202011;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202101;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202102;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202103;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202105;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202107;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202108;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202109;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202110;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201611;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201702;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201803;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201804;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201806;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201807;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201811;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201902;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201905;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201907;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201909;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202001;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202002;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202004;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202009;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202010;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202103;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202104;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202108;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202109;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201506;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201601;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201606;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201608;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201901;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201701;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201802;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201904;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202001;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202002;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202009;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202104;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202106;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202109;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202111;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Onbekend;201901;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201501;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201505;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201511;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201512;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201604;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201606;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201902;7
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201612;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;5
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201704;5
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;7
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;11
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;7
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201802;5
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201805;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;8
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201808;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;6
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;10
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;7
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201903;7
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;10
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;6
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201907;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;14
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;6
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;5
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;8
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;5
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202005;1
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202006;5
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;8
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;11
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;8
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;7
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;5
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;4
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202106;6
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;6
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;2
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202109;9
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;3
+Kogerveld;Kogerveldwijk;Zaandam;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202111;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201510;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201509;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201510;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201507;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201508;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201602;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201603;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201604;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201605;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201606;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201607;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201812;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201901;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201903;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201611;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201612;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201701;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201703;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201704;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201706;5
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201707;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201709;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201711;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201801;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201802;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201803;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201804;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201808;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201809;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201810;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201812;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201901;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201903;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201904;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201907;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201908;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201909;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201910;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202002;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202004;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202005;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202006;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202007;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202008;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202009;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202011;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202101;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202103;4
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202106;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202107;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202109;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202110;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202111;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201703;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201711;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201810;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201812;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201910;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201912;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202001;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202004;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202010;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201602;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201709;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201711;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201809;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202008;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202012;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202104;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201501;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201511;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201601;5
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201604;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;4
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201609;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201610;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201902;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201903;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201609;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;5
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201612;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;6
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201704;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;4
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;6
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201802;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;6
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;5
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;5
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;5
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201903;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;4
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201907;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;6
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;5
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202005;4
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202006;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;4
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;2
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;6
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202106;6
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;4
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;1
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202109;5
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;3
+Noorderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202111;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201503;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201501;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201504;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201506;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201509;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201610;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201502;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201506;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201507;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201508;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201512;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201603;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201604;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201607;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201609;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201610;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201611;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201702;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201705;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201706;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201707;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201708;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201709;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201710;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201711;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201801;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201804;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201806;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201807;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201808;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201811;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201812;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201904;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201905;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201907;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201908;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202001;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202002;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202006;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202009;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202102;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202103;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202106;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202108;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202110;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201712;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201801;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201808;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201908;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201912;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202002;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202003;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202005;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202006;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202012;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202103;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201508;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201509;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201510;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201603;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201608;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201611;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201612;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201701;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201801;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201805;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201807;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201901;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201905;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201908;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201910;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201911;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202001;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202004;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202006;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202009;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202011;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202106;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202109;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202111;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Onbekend;201603;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201501;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201505;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201511;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201601;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201608;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201608;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201609;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201612;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;5
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201704;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;5
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201802;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201805;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201808;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;5
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201902;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201903;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;5
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202005;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;5
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;4
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;2
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202109;3
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;1
+Rosariumbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202111;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201505;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201504;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201507;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201603;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201604;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201501;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201507;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201510;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201605;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201608;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201903;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201701;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201702;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201704;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201705;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201711;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201712;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201801;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201807;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201808;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201810;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201811;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201812;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201912;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202007;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202009;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202011;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202101;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202106;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202107;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202108;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202109;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202110;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201611;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201812;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201905;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201908;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201910;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202001;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202009;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202101;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202103;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202110;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201505;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201812;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201901;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201704;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201803;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201903;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202106;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202110;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201501;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201505;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201511;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201606;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201608;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201609;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201903;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201609;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;4
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201612;4
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;4
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201704;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;4
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;4
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201808;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201907;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202006;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;1
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202106;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;2
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;3
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202109;6
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;4
+Snuiverbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202111;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201501;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201509;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201504;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201506;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201510;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201506;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201603;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201607;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201702;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201706;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201709;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201712;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201804;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201904;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201906;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202001;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202008;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202110;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201907;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202005;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202106;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201807;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202002;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202106;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;3
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201604;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201606;3
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201608;3
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201609;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201902;3
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201608;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201704;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;3
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;4
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201802;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201805;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201808;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201903;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201907;3
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;5
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;4
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202005;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202006;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;3
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;3
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;1
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;2
+Zuiderhoofdbuurt;Krommenie Oost;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;1
+Krommeniedijk;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201606;1
+Krommeniedijk;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201704;1
+Krommeniedijk;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;1
+Krommeniedijk;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;1
+Krommeniedijk;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;1
+Krommeniedijk;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201507;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201902;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201501;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201502;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201503;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201505;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201509;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201511;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201512;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201601;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201603;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201604;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201606;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201607;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201608;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201901;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201902;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201903;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201608;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201609;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201610;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201612;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201702;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201704;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201705;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201707;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201708;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201710;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201712;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201801;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201802;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201805;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201806;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201807;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201810;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201811;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201812;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201901;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201903;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201904;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201905;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201907;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201909;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201910;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201912;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202001;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202002;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202003;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202004;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202005;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202006;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202007;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202008;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202009;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202010;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202011;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202101;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202102;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202103;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202104;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202106;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202107;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202110;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201612;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201701;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201703;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201708;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201709;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201711;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201801;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201803;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201804;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201805;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201809;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201810;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201902;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201903;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201904;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201905;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201906;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201907;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201908;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201912;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202001;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202003;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202004;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202006;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202007;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202009;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202010;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202104;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202109;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202110;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201506;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201510;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201511;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201607;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201902;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201704;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201711;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201801;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201802;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201811;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201901;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201906;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201907;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;201908;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202001;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202004;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202008;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202108;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202109;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Intrekking;202110;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201501;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201502;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201503;7
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201504;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201505;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201506;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201507;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201508;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201509;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201510;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201511;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201512;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201601;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201602;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201603;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201604;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201605;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201606;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201607;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201608;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201609;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201610;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201901;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201902;8
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201610;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201611;9
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201612;8
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201701;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201702;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201703;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201704;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201706;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201707;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201708;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201709;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201710;11
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201711;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201712;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201801;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201802;8
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201803;7
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201804;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201805;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201806;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;8
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201808;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201809;8
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201810;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201811;12
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201812;7
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201901;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201902;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201903;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201904;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201905;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201906;7
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201907;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201908;1
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201909;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201910;13
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201911;8
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201912;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202001;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202002;8
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202003;2
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202004;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202005;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202006;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202007;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202008;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202009;5
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202010;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202011;9
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202012;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202101;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202102;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202103;3
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202104;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202105;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202106;15
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202107;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202108;4
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202109;10
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202110;6
+Noorderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;202111;3
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201509;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201606;2
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201607;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201612;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201712;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201904;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;202107;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201506;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201508;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201601;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201603;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling gesteld;201604;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toegekend;201601;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201705;1
+Willis;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Toekenning;201807;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201504;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvr. niet in behand. genomen;201509;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201504;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Aanvraag ingetrokken;201508;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201502;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201507;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201508;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201510;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201512;3
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201602;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201603;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201605;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afgewezen;201903;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201610;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201702;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201703;3
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201709;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201710;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201804;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201805;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201806;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201807;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201809;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201811;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201812;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201904;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201908;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201910;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;201911;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202001;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202002;3
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202003;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202004;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202005;3
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202006;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202007;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202008;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202009;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202011;4
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202012;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202103;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202105;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202106;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202107;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202108;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202110;2
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Afwijzing;202111;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201710;1
+Zuiderham;Krommenie West;Krommenie;Zaanstad;Minima;Aanvraag BB;afgehandeld;Buiten behandeling;201711;1

@@ -1,0 +1,118 @@
+﻿X,Y,OBJECTID,KWKIDENT,KWKAFSL1,KWKSTATU,KWKDATUM,OSMOMSCH,IWS_LEGGERSTATUS,IWS_MEMO,KWKNAAM,IWS_OH_RENOVATIEJAAR,IWS_AFST_B_OUD,RICHTING,OBJECTID_1,KWKIDENT_1,ONDERHOUDSPLICHTIGE_1,ONDERHOUDSVERPLICHTING_1,ONDERHOUDSPLICHTIGE_2,ONDERHOUDSVERPLICHTING_2,GlobalID
+6.34693089358295,52.316520804547,1,AS.70.28-DB0001,,,,Debietbegrenzer,1,Debietdoorgang ± Ø 150 mm.,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,481066cd-bc03-4cf2-aec9-0d400b0c3eb1
+6.27589811308075,52.2783193039259,2,AS.45.12-DB0002,,,,Debietbegrenzer,1,Debietbegrenzer rond 12 cm.,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,4ac5b317-1071-47e2-ab53-9ae495aebe8d
+6.20757282772746,52.2439654832792,3,AS.25.4-DB0004,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,85cf4ac2-078b-4deb-93e0-c49da91e833b
+6.26697653817656,52.4091882659329,4,SW.55.134-DB0013,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,49c5538a-8d59-43c9-8370-6f2cf182b9bb
+6.19663343591485,52.5882544875912,5,DV.5.2-DB0001,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,84fc90ac-04c0-4157-ab44-78dc9f4b4afd
+6.23367046970853,52.5914372129924,6,DV.15.8-DB0002,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,334b7b86-04a8-42f0-954a-a406b2e0d7b3
+6.24380440481491,52.5944324135412,7,DV.15.14-DB0003,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,cda57aec-b737-45c9-8982-1d7b51520fb4
+6.21260907848842,52.601663510141,8,DV.5.108-DB0004,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,292cc2de-9916-4a4d-a7cf-e7a6dba543db
+6.21715655515292,52.6061739769115,9,DV.5.118-DB0006,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,b30a926c-68e3-419f-813a-67a2ea56859f
+6.1992557767641,52.5928626913173,10,DV.5.82-DB0008,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,4f71b3e7-5804-49b7-b419-50b92a4931ee
+6.22413044091235,52.5941316991672,11,DV.5.94-DB0009,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,c68cd2b2-26e8-452d-8d03-2c75cd37814e
+6.20210838454329,52.5977689497367,12,DV.5.95-DB0010,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,35899c3b-f79e-4196-9cd0-325b1e973100
+5.91004986774794,52.56465716666,13,IWK-11-0190,,,,riooloverstort,1,,riooloverstort Veerweg,,,,,,,,,,292a8035-d63d-4b49-9116-527a55d7bd11
+6.08824823173902,52.5101949878187,14,IWK-534-0060,,,,riooloverstort,1,,riooloverstort Emmawijk,,,,,,,,,,17a0993b-0c04-47fb-baba-ac0fa5858f14
+6.08169225865556,52.5177586918232,15,IWK-53-1310,,,,open leiding,1,,rioolafsluiter holterbroekerbrug katerdijk,,,,,,,,,,9280f7a9-27c8-48b0-bbaf-c594416b2fea
+6.06911515788858,52.5183489826083,16,IWK-53-1220,,,,riooloverstort,1,,riooloverstort Rieteweg Katwolderhaven,,,,,,,,,,664222bf-691d-41b4-a171-51cde2c00125
+6.09352285211431,52.5888674911053,17,IWK-09-0260,,,,riooloverstort Eikenlaan,1,,riooloverstort Eikenlaan,,,,,,,,,,e1fd483f-16ec-465a-8df4-5a28a0e57d1b
+5.87354779352077,52.5682114557915,18,IWK-11-0080,,,,rioolpersleiding,1,,rioolpersleiding MBI,,,,,,,,,,dca1228b-6521-4f88-a278-b57dce5ed60c
+6.08213488629704,52.5174298337861,19,IWK-53-1320,,,,riooloverstort,1,,riooloverstort Gasthuislanden,,,,,,,,,,dee4cd71-9a81-40b0-a9ff-95938a929aa3
+6.13567236342485,52.3966646647547,20,IWK-53-0510,,,,Wijhe riooloverstort Stegeman,1,"object is gewijzigd, status onbekend, zie 'Y:\GEO\GISProducten\Keringen\kunstwerken\Dijkring53a\IWK-53-0510' voor tekening vergunning",Wijhe riooloverstort Stegeman,,,,,,,,,,b331dcc2-23fd-4154-a238-2a83f6edcfec
+6.06446712833886,52.5155573805749,21,IWK-53-1190,,,,riooloverstort,1,,riooloverstort Scaniahaven,,,,,,,,,,a919e7fc-5669-4ca9-90cb-9862982bba6c
+5.89778520116544,52.5677527275141,22,IWK-11-0120,,,,rioolleiding,1,,rioolleiding Werfweg,,,,,,,,,,0a2d4b97-f757-4fc7-a3da-66e719b9d403
+6.26543448200908,52.42159964028,23,SW.55.128-DB0016,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,d866f25f-d9df-49d8-aa5c-f739bc05c6c7
+6.11076991314355,52.3166429639904,24,SW.75.28-DB0017,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,24a5a4e8-49d5-47dc-9a9d-2c2336298b78
+6.26133062063867,52.3893994243514,25,SW.55.108-DB0014,,,,Debietbegrenzer,1,ZP=WP= +3.10 NAP.,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,eca01825-289e-4ff5-83ce-875e1ae8c1f4
+6.09135438267564,52.5895983639739,26,IWK-09-0280,,,,riooloverstort Meyersbolwerk,1,,riooloverstort Meyersbolwer,,,,,,,,,,08ae139b-1395-40af-8020-e3f1686ac4ca
+5.84410506899771,52.5800734355074,27,IWK-11-0050,,,,rioolpersleiding,1,afsl1=extern overloop riool huis buitendijks,rioolpersleiding nabji gemaal 't Vosje,,,,,,,,,,a87949ee-b5dd-4f6c-9751-ab7f657102ef
+6.07409587675741,52.5261462613632,28,IWK-53-1430,,,,riooloverstort Holtenbroek,1,,riooloverstort Holtenbroek,,,,,,,,,,0861db51-2d78-4f5d-83d7-2705d8074f56
+6.07475375363657,52.5255374477475,29,IWK-53-1420,,,,riooloverstort + persleiding Holtenbroek,1,,ontluchtingsleiding rioolgemaal Holtenbroek,,,,,,,,,,42be0c19-5f0e-423e-a61c-91a75df90240
+5.90193589337277,52.5664492065286,30,IWK-11-0130,,,,rioolleiding,1,,rioolleiding Loswalweg,,,,,,,,,,3f131e15-5626-4d33-a974-b6c3cc936b7f
+6.09263735059998,52.5160894645967,31,IWK-535-0240,,,,riooloverstort,1,,riooloverstort Schuttevaerkade,,,,,,,,,,d4eaa731-2aaa-4f98-b597-9c6b5e5d5043
+6.09902182655629,52.5163153482532,32,SW.12-D1182,,,,riooloverstort,1,,riooloverstort Zamenhofsingel/van Wevelinkhovenstraat,,,,,,,,,,868fc0f3-f625-421e-892b-c29d6887b326
+6.09622284028212,52.5088093919446,33,IWK-534-0090,,,,riooloverstort,1,,riooloverstort Groot Wezenland/Karnebeekstraat,,,,,,,,,,b40d26a2-b746-4988-9e5c-d4e2655fe143
+6.09728147553779,52.5087324230537,34,IWK-534-0100,,,,riooloverstort,1,,riooloverstort Groot Wezenland/Assendorperstraat,,,,,,,,,,227557f0-95c9-4f1f-830b-c18ac3b784c4
+6.10178631377198,52.5150056625381,35,IWK-535-0200,,,,riooloverstort,1,,riooloverstort Brink/Blekerweg,,,,,,,,,,0af8be34-3d95-4c4b-9f69-3cb7b1dc40c7
+6.10330384461201,52.5125373826773,36,IWK-535-0190,,,,riooloverstort,1,,riooloverstort Turfmarkt,,,,,,,,,,e92a2db8-aa8d-4b6d-ae1e-467884101144
+6.14118314099972,52.3757919713017,37,SW.70-DB0002,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,97564471-3f45-4461-8c96-19e3c39887f9
+6.25169326046595,52.3714544709996,38,SW.55.50-DB0004,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,a3ed2248-9872-46ae-87e9-d83ca68a53b5
+6.11907787645765,52.3320995117497,39,SW.75.10-DB0005,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,1a915446-6a14-4a2c-9cef-84c8fc797b56
+6.27440440073981,52.330391431296,40,SW.90.54-DB0007,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,754ede41-4914-4aef-acef-acad5bf5f18d
+6.18423604332072,52.3019715383503,41,SW.130-DB0008,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,e38f7f7e-58e6-48f3-89a8-444743e1916c
+6.30655829006732,52.4647640828424,42,OK.5.10-DB0006,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,a4b963c4-4b9a-4010-855f-dfc3c0ee0490
+6.30696649963483,52.4585901599043,43,OK.5.10-DB0008,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,ae51f107-5af6-4c47-b21f-9447c59d6f40
+6.05919944138879,52.6116586134903,44,CM.55.DB0001,,,,Debietbegrenzer,1,Vorm debiet is rechthoekig 40 x 40 cm.,,,,,,,Waterschap,Gewoon en buitengewoon,,,6ddba590-e844-4019-9129-6425ef16e0aa
+6.21098923953312,52.2533743128631,45,AS.40.2-DB0006,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,9b915fb8-65fc-4ce7-8448-e9442a6c0411
+6.20116531591406,52.3654367192581,46,SW.55.77-DB0015,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,5ab042c5-4ded-4366-a2fd-800e82932f76
+6.15454063711585,52.4915296091979,47,SW.20.106-DB0001,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,46169024-b2e5-4408-88d5-7b227b2657f8
+5.93320718317449,52.5338408468199,48,RB.75-DB0001,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,bed395d5-539e-4e71-b041-c776bc532f4e
+6.22872283844573,52.6363641829943,49,ST.10.8-DB0001,,,,Debietbegrenzer,1,Vorm debiet is rechthoekig 15 x 15 cm.,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,af012f07-5cce-4565-a81b-d1004f953d29
+6.30681129223915,52.4627663259604,50,OK.5.10-DB0007,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,599daa8b-2ff5-4b32-ae2b-88b0f27d1029
+6.29122264023155,52.3703821890805,51,SW.55.70-DB0019,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,673d9ab9-0b1c-4367-ad12-cee843a2aa03
+6.26236208655773,52.3919037947123,52,SW.55.100-DB0021,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,13081f15-4f08-4dce-94aa-1c332280bf6d
+6.24443789283228,52.3818673208422,53,SW.55.28-DB0022,,,,Debietbegrenzer,1,Afsluitmiddel KWT afsluiter met draaispindel Ø 300,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,7e9dc9d8-2404-4fcf-b041-186bd893e040
+6.31940545956232,52.3753719202861,54,OK.20.160-DB0002,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,8ca010fa-b9fa-44aa-8ed2-769f40261b39
+6.31299931037833,52.394730139015,55,OK.20.166-DB0005,,,2014,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,8e61593a-9618-4d95-a3e9-83e7602ff76f
+6.20708963731539,52.5902898719878,56,DV.5.202-DB0013,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,4f33a3fe-e87c-467c-81e4-ac609227839d
+6.28826304380249,52.3273619501205,57,SW.90.63-DB0020,,,,Debietbegrenzer,1,"Hardhouten overstortconstructie
+doorvoerhoogte 6.09 +NAP
+constructiehoogte 6.39 +NAP",,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,f65c9cb1-06d5-49a0-bf62-17a0f9cfae6a
+6.31064905603679,52.3953626546622,58,OK.20.164-DB0004,,,2014,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,91564eac-c9a4-4c48-b3f4-3a46dbe51bad
+6.3202467438382,52.3751315346464,59,OK.20.162-DB0003,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,c0087c70-db71-4f52-bec8-685d6d9102e8
+6.37285508283339,52.3599729097565,60,OK.20.154-DB0007,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,5664e492-7e5e-4d94-a7ea-6be7ff4cc8ca
+6.33607605110259,52.3934864026958,61,OK.20.170-DB0010,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,e057f99c-15ed-436f-8226-23e4b455ac20
+6.33442609925674,52.3957170141722,62,OK.20.168-DB0011,,,2014,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,cd7a309c-b497-45a3-b0c9-25b02beb4250
+6.18521809290973,52.5407847745197,63,SZ.240.25-DB0002,,,,Debietbegrenzer,1,"Kunstof debietbegrenzer  van 1,1m x 1,4m x 0,02m groot met een Ø 450 mm
+
+RVS geleiders 25mm. lang 1,4m.
+
+Debietbegrenzer voorzien van opheelketting
+
+NAP hoogte bout = 0,034 + NAP.",Hessenpoort,,,,,,Waterschap,Gewoon en buitengewoon,Gemeente,Gewoon en buitengewoon en constructie,a980b138-f94e-4519-a195-bc4e194f19f0
+6.28195749510044,52.4010781860891,64,SW.55.141-DB0018,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,893cec40-351c-44a6-bbb6-da360dfe735c
+6.35435200983185,52.4045442080688,65,OK.20.42-DB0001,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,c866521b-ce06-4f94-9b6c-96fe0fcb4d0c
+6.11664684346825,52.3494299690113,66,SW.55.40-DB0003,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,a3ec895e-6ff4-4c3e-808b-54ac04e6ced7
+6.10291451033001,52.3277381878401,67,SW.75.14-DB0006,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,7d6e17ee-4bd0-45e6-a6fb-b550d56d5836
+6.18358677864169,52.2992980490218,68,SW.130-DB0009,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,b75eceae-4489-4404-92c2-06466b80fa9a
+6.15889465218901,52.2891508545854,69,SW.75.52-DB0010,,,,Debietbegrenzer,1, met aanvoerbuis eronder,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,44a05f40-b174-4b21-b2ba-ea1102f1cd59
+6.16625508398686,52.2738067583415,70,SW.75.58-DB0011,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,e9078070-027f-4304-9c22-75c3e6fe540b
+6.21089700006562,52.2632037484511,71,SW.75.82-DB0012,,,,Debietbegrenzer,1,doorstroomopening 350 x 350 mm,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,a49bbfeb-5487-4124-abe6-f60d76234a33
+6.20787062380756,52.6108158414166,72,DV.5.118-DB0005,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,5d98b67e-50aa-4729-b970-d502b612d15c
+6.19817624237441,52.5906554178929,73,DV.5.8-DB0007,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,d1188435-16e8-4559-8628-3f83c6c3090b
+6.21524572252476,52.6073510912302,74,DV.5.126-DB0011,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,cee139b1-edab-4757-b2c0-17d3f37d1c6a
+6.12777484687399,52.514878749814,75,SW.20.10-DB0015,,,,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,d96490c0-e7c2-4575-9bae-fc5048439a33
+5.95778265928918,52.5653234846368,76,MB.65.21-DB0001,,,,Debietbegrenzer,1,Debietbegrenzer rond 15 cm,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,471a0c4f-6299-473b-b0c8-9476bd5f07d4
+6.19933423083851,52.2618065738912,77,AS.35.12-DB0005,,,2002,Debietbegrenzer,1,,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,85a2ecaa-9408-412d-a6e8-7643e4cdaaed
+6.22994869697974,52.3977080160251,78,NW.30.2-DB0001,,,,Debietbegrenzer,1,Afsluitmiddel KWT afsluiter met draaispindel Ø400,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,6caec305-25fa-4cf3-b39f-66bd88209230
+6.24604103659421,52.3789682429755,79,SW.55.24-DB0023,,,,Debietbegrenzer,1,Afsluitmiddel KWT afsluiter met draaispindel Ø400,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,11d1d78b-f8d6-4a8a-bc8f-e9b6c6f4c4af
+6.17532538126552,52.3580368661015,80,SW.60.26-DB0024,,,,Debietbegrenzer,1,Afsluitmiddel KWT afsluiter met draaispindel Ø400,,,,,,,Waterschap,Gewoon en buitengewoon en constructie,,,addbe909-bd64-4670-9499-e40f91809adc
+6.15255327099134,52.2531901596083,81,IWK-53-0300,,,,Rioolafsluiter,1,"stond vermeld als dichtgemetseld, was fout",Rioolafsluiter Noordebergstraat/klooster,,,,,,,,,,3a9a72d9-bd01-4fed-9bad-e7d2abafd506
+6.1622176450108,52.2482867309554,82,IWK-53-0180,,,,Rioolafsluiter,1,tweede sluitmiddel spindel afsluiter in put,Rioolafsluiter Pothoofd/Raambrug,,,,,,,,,,eb0f0ff3-bf0a-4a38-b870-a585adde08e8
+6.1677570843543,52.2443715650364,83,IWK-53-0130,,, ,Rioolafsluiter,1,schuifafsluiter in rioolgemaal ,Rioolafsluiter Hartenhaasje,,,,,,,,,,f1c9c80c-4e00-4cc3-b493-141722f83560
+6.15480572434156,52.251112463219,84,IWK-53-0265,,,,Rioolafsluiter,1,"kunstwerken IWK-53-0260/0265/0270 zijn direct verbonden per rioolbuis
+0265 is eerste keermiddel",Rioolsafluiter Duimpoort,,,,,,,,,,64e9e83f-c798-43e8-8aa1-26102d80c0d6
+6.15349659107702,52.251908418833,85,IWK-53-0285,,,,Rioolafsluiter,1,"kunstwerken IWK-53-0280/0285/0290 zijn direct verbonden per rioolbuis
+0285 is eerste keermiddel
+",Rioolafsluiter Nieuwe Markt,,,,,,,,,,884059ed-3851-4b47-830f-ecc03925a318
+6.15159397924447,52.2533392445828,86,IWK-53-0315,,,,Rioolafsluiter,1,"kunstewerken IWK-53-0310/0315 direct verbonden dmv rioolbuis 
+0315 is eerste keermiddel",Rioolafsluiter Muggenplein/Achter de muren Vispoort,,,,,,,,,,854fb9e3-f1d7-4956-a492-83e0317b7b57
+6.15038846545502,52.2538430245047,87,WK-53-0332,,,,Rioolafsluiter,1,,Rioolafsluiter Kapjeswelle/Lindenstraat,,,,,,,,,,159bf78a-2aa2-4c4d-b6c8-f2a8cadf258b
+6.14984001979049,52.2545023417635,88,IWK-53-0340,,,,Rioolafsluiter,1,,Rioolafsluiter Graaf van Burenstraat,,,,,,,,,,18dc2ad6-09f5-44f3-9d57-ce931e4f16c4
+6.15790683536487,52.4079837927147,89,IWK-534-0360,,,,Rioolafsluiter,1,IWK-534-0360/0370/0380/0390 zijn gelijk aan elkaar,Rioolafsluiter,,,,,,,,,,f1a1817b-5529-4c24-a2ec-c7eb6850287b
+6.15830433021738,52.4050856996081,90,IWK-534-0370,,,,Rioolafsluiter,1,IWK-534-0360/0370/0380/0390 zijn gelijk aan elkaar,Rioolafsluiter,,,,,,,,,,347548ca-9380-40b7-8a9c-8338ee5ab4e6
+6.15808112532358,52.401911988205,91,IWK-534-0380,,,,Rioolafsluiter,1,IWK-534-0360/0370/0380/0390 zijn gelijk aan elkaar,Rioolafsluiter,,,,,,,,,,84d33a73-89db-4d3d-8d1a-7e0ce3d26525
+6.15902755452736,52.3987496791375,92,IWK-534-0390,,,,Rioolafsluiter,1,IWK-534-0360/0370/0380/0390 zijn gelijk aan elkaar,Rioolafsluiter,,,,,,,,,,6e52705f-c48f-4a46-946a-cb7ec435eab7
+6.15934968094671,52.2496641815257,93,IWK-53-0191,,,,Rioolafsluiter,1,"De 3 afsluiters IWK-53-0189/0190/0191 werken samen, 0190 in de kade is het eerste keermiddel.",rioolafsluiter Brinkgarage 2,,,,,,Gemeente,Gewoon en buitengewoon en constructie,,,911439a4-18f7-4e12-aa21-b017551f1eba
+6.15912890807948,52.2493124389755,94,IWK-53-0190,,,,Rioolafsluiter,1,"De 3 afsluiters IWK-53-0189/0190/0191 werken samen, 0190 in de kade is het eerste keermiddel.",Rioolafsluiter Wilhelminabrug Pothoofdkade,,,,,,,,,,475b6ef2-bca2-4eaf-a748-216ca5db1b84
+6.159355622901,52.2496573961631,95,IWK-53-0189,,,,Rioolafsluiter,1,"De 3 afsluiters IWK-53-0189/0190/0191 werken samen, 0190 in de kade is het eerste keermiddel.",rioolafsluiter Brinkgarage 1,,,,,,Railinfratrust B.V.,Gewoon en buitengewoon en constructie,,,f6587dea-b4e0-4afe-98a9-acd25735d21f
+6.15841989307119,52.2499889644378,96,IWK-53-0220,,,,Rioolafsluiter,1,,rioolafsluiter CitySide,,,,,,,,,,73cc83bf-0200-4e6e-a652-b8a72f7163ff
+6.08637832820892,52.5114987624672,97,IWK-534-0040,,,,riooloverstort,1,,riooloverstort Harm Smeengekade,,,,,,,,,,066b4a57-37a5-4720-b371-1c1d3e0a9201
+6.08752717717277,52.513785485059,98,IWK-534-0020,,,,riooloverstort,1,,riooloverstort Pannenkoekendijk,,,,,,,,,,00d1448b-8bb3-4fb2-a9f0-2a92b2e997e3
+6.1008411581764,52.5109934894833,99,IWK-534-0110,,,,riooloverstort,1,,riooloverstort Groot Wezenland/Schuurmanstraat,,,,,,,,,,c58dcf07-286a-4c49-b83e-8275f1df5439
+6.11279214528289,52.50712530426,100,IWK-534-0160,,,,riooloverstort,1,,riooloverstort Park Wezenlanden,,,,,,,,,,944d7a3a-a03a-4350-99ee-28494f443d62
+6.11474205333761,52.5063418034487,101,IWK-534-0180,,,,rioolleiding,1,,rioolleiding Weteringkade,,,,,,,,,,8850853f-7a49-41b5-99e1-32652af1af25
+5.92812602989741,52.5758163717208,102,IWK-10-0100,,,,Rioolleiding sportvelden Grafhorst,1,,Rioolleiding sportvelden Grafhorst,,,,,,,,,,138f9d67-30b5-44e1-98e1-a579bd0a96ab
+6.26023248580711,52.5030967075651,103,IWK-09-0100,,,,riooloverstort Vechtdijk,1,,riooloverstort Vechtdijk,,,,,,,,,,d1897f71-8318-4d94-834b-711c5084c784
+6.09487615693508,52.5888247792492,104,IWK-09-0250,,,,afvoer persriool,1,,afvoer persriool woonschepen,,,,,,,,,,7262c902-697f-4db2-8b81-aba2ce14a76d
+5.89446863129044,52.5684772635504,105,IWK-11-0110,,,,rioolleiding,1,,rioolleiding t.h.v. Schotte,,,,,,,,,,16d54d7d-08ab-4c0e-bc3b-60114d52c28a

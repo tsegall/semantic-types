@@ -1,0 +1,45 @@
+﻿OBJECTID,KSLSOORT,KSLNAAM,KSLKLENG,KWKAFSL1,KWKDATUM,KWKOPME,KWKPLAAN,KWKAFSL2,IWS_MEMO,KWKNAAM,IWS_LEGGERSTATUS,KSLIDENT,KERIDENT,GLOBALID,IWS_AFST_B,KWKKEREN,WSZDEELGEBIED,ONDERHOUDSPLICHTIGE_1,ONDERHOUDSVERPLICHTING_1,ONDERHOUDSPLICHTIGE_2,ONDERHOUDSVERPLICHTING_2,SHAPE_Length
+1,1,DE WHAA,,,2001,,,,,sluis de Whaa,1,890 DE WHAA,IWK-09-0440,{E3F69ED0-E24E-4FCD-A471-953E299DCB4A},,1,,Waterschap,Gewoon en buitengewoon en constructie,,,8.7350439734169e-05
+2,5,Arembergerschutsluis Zwartsluis,,,,,,,,Arembergerschutsluis Zwartsluis,1,891 SLUIS ZWARTSLUIS,IWK,{6A786324-9C8A-4484-8BB1-0383C8EF2B39},,1,,Provincie,Gewoon en buitengewoon en constructie,,,0.000287793889603272
+3,5,NIEUWEBRUGSLUIS,,,1968,,,,"NAP hoogte. zie gemaal
+20221117HR Hoogte deur HWZ 11,5834
+20221117HR Hoogte deur LWZ 11,6435
+20221117HR Hoogte betonwerk 12,3278
+",NIEUWEBRUGSLUIS,1,NIEUWEBRUGSLUIS,IWK-906-0300,{6F3D4489-32E7-4DC3-A409-FB41BDE9ADD3},,1,,Provincie,Gewoon en buitengewoon en constructie,,,0.00110216769584507
+4,5,NOORDSCHESCHUTSLUIS,,,1928,,,,"20221117HR Hoogte deur HWZ 13,1472
+20221117HR Hoogte deur LWZ 13,1435
+20221117HR Hoogte betonwerk 13,38",NOORDSCHESCHUTSLUIS,1,NOORDSCHESCHUTSLUIS,IWK,{C9867608-6BF4-44D9-BF69-7AD3E893B546},,,,Provincie,Gewoon en buitengewoon en constructie,,,0.0005797201363727
+5,5,Sluis Holthe,,,,,,,"20221117HR Hoogte deur HWZ 13,1243
+20221117HR Hoogte deur LWZ 13,0893
+20221117HR Hoogte betonwerk 13,4471
+",LHK_A_12,1,LHK_A_12,IWK,{E10FEEC3-CE2F-41E4-805A-B482A58732F6},,1,,Waterschap,Gewoon en buitengewoon en constructie,,,0.000449283907571694
+6,1,BLOKZIJL-KEERSLUIS,,,,,,,,BLOKZIJL-KEERSLUIS,1,BLOKZIJL-KEERSLUIS,IWK,{F4FC6D78-E79F-4D57-B45C-A04CEA652DEF},,1,,Provincie,Gewoon en buitengewoon en constructie,,,0.000152763133221344
+7,2,Uitwateringssluis Meppelerdiep,,,,,,,Onderhoud Bijlage 3 Artikel 3.2 Waterbesluit,Uitwateringssluis Mediep,1,Uitwateringssluis Mediep,IWK-09-0350,{E49B426B-5275-4FB6-B0B2-C5D7ED8F11D6},,1,,Rijkswaterstaat,Gewoon en buitengewoon en constructie,,,0.000493539884422865
+8,5,Grote Kolksluis,,,,,,,Onderhoud Bijlage 3 Artikel 3.2 Waterbesluit,Grote Kolksluis,1,Grote Kolksluis,IWK-09-0380,{A273B9B5-1E3C-4ACD-B42A-875A72DA52ED},,1,,Rijkswaterstaat,Gewoon en buitengewoon en constructie,,,0.00106236345162187
+9,4,Sluis Kuinre,,,,,,,,Sluis Kuinre,1,Sluis Kuinre,IWK,{A1496298-EDC4-4A9F-96F0-BFD05090F5F3},,1,,Provincie,Gewoon en buitengewoon en constructie,,,0.000547521707248942
+10,4,Beukersschutsluis,,,,,,,Ivm waterkering,Beukersschutsluis,1,Beukerssluis,IWK-903-1000,{5EBD79AC-FE0F-483E-A109-D42D7C440110},,1,,Provincie,Gewoon en buitengewoon en constructie,,,0.000718282303242535
+11,1,De Cock's Polder,,,,,,,,De Cock's Polder,1,MW.10-SL1,IWK,{42B3F171-3318-4DF1-9664-E804BB86F1EF},2,1,,Waterschap,Gewoon en buitengewoon en constructie,,,0.000201987283895641
+12,4,Rademakerszijl,,,1900,"permanent gesloten, om schotbalken te kunnen plaatsen in het najaar wordt deze geinspecteerd, schuif in deur wordt gebruikt voor water inlaat",,,,Schutsluis Rademakerszijl,1,VR.15.134-SL2,IWK-10-0230,{C8321116-C79E-4BF8-A42E-6C11B3D829CD},2,1,,Waterschap,Gewoon en buitengewoon en constructie,,,0.000457867673637255
+13,1,Prinsensluis,,,1900,2 openingen dicht met schotbalken,,,standaard 2 van de 3 openingen dicht,Prinsensluis,1,VR-SL1,IWK-10-0130,{F337B5B5-6863-4887-82D6-F3320EB6DFBF},2,1,,Waterschap,Gewoon en buitengewoon en constructie,,,0.000223523475050611
+14,5,Prins Bernhardsluis Deventer,,,,,,,,Prins Bernhardsluis Deventer,1,AS.15-SL1,IWK-53-0140,{28791359-53B1-4430-806F-416BCF0CCF1D},2,1,,Gemeente,Gewoon en buitengewoon en constructie,,,0.00178644319132737
+15,4,Katerveersluis,,,1975,,,,,Kleine Sluis Katerveer,1,WV-SL1,IWK-53-1140,{B541F5AF-0086-4663-9A4B-C3CE51D492A4},2,1,,Gemeente,Gewoon en buitengewoon en constructie,,,0.00145472821999296
+16,5,Sluis Nieuwe Verlaat,,,,,,,,Sluis Nieuwe Verlaat,1,OV.20.2-SL1,IWK-53-1560,{BCF0384B-3562-4937-B8C8-4132F84FC764},2,1,,Waterschap,Gewoon en buitengewoon en constructie,,,0.000830024666523203
+17,5,Ganzensluis,,,,,,,,Ganzensluis,1,IWK-25-0010,IWK-25-0010,{F355054B-851A-41CE-822F-F67B60D0C289},1,1,,Provincie,Gewoon en buitengewoon en constructie,,,0.000577065152335537
+18,4,schutsluis Hasselt,,,,,,,"Meetspijker in metselwerk - Sluis Hasselt Ridderstraat/Brouwersgracht
+De schutsluis heeft op dit moment alleen nog een functie in de waterhuishouding en in gesloten toestand als waterkering in de primaire waterkering van dijkring 9.",Schutsluis Hasselt,1,IWK-09-0270,IWK-09-0270,{4FBD991F-8D10-4230-9DA6-B57697E23D18},2,1,,Gemeente,Gewoon en buitengewoon en constructie,,,0.00114207767790774
+19,1,Gelderse sluis,,,,landhoofd,,,,Gelderse sluis,1,IWK-11-0010,IWK-11-0010,{80CEDBE6-8E27-44D4-9C10-3D049F668B23},2,1,,Waterschap,Gewoon en buitengewoon en constructie,,,0.000282422965913928
+20,1,Sassluis,,,,,,,"Meetspijker bij datalogger west - Sassluis Genemuiden Westerkaai/Blokhuisweg
+De keersluis is aangelegd na de stormvloeden van 1862 en 1863 met als doel de bescherming van het achterland, dat gevormd wordt door de polder Mastenbroek.
+De sluis werd in 1866 gebouwd naar een ontwerp van ir. A.L. de Bruijn Kops van rijkswaterstaat.
+De eerste steen werd gelegd op 10 augustus 1866. Een gedenkplaat bij de sluis herinnert aan dit gebeuren.
+De keersluis ligt in Genemuiden tussen de binnen- en de buitenhaven.
+De buitenhaven vormt de directe verbinding met het Zwarte Water, het Zwolsche Diep en het IJsselmeer. Voor de aanleg van de Afsluitdijk in 1932 was er een directe verbinding met de Zuiderzee.
+De sluisdeuren zijn van hout, de wanden van baksteen en deels van natuursteen.
+Op de sluis is een rollenbaan waarover een witgeverfde stalen loopbrug bewogen kan worden.
+Bij de sluis hoort een petroleumkelder.
+In 1987 werd de sluis gerestaureerd.
+De sluis is erkend als rijksmonument vanwege de beeldbepalende ligging tussen de beide havens, de zeldzaamheid, de gaafheid en de typologie.
+",Sassluis,1,IWK-10-0170,IWK-10-0170,{F83C8C2C-FD99-4A50-98AC-02CB60EF4A97},2,1,,Gemeente,Gewoon en buitengewoon en constructie,,,0.000256898370294782
+21,5,Spooldersluis,,,1961,Rijkswaterstaat,,,,Spooldersluis,1,IWK-10-0370,IWK-10-0370,{D401B22B-8466-4C0E-894A-B210295DB535},2,1,,Rijkswaterstaat,Gewoon en buitengewoon en constructie,,,0.00343073526614673
+22,1,,,,,,"Menistenstraat, Zwolle",,,Menistensluis - Menistenbrug,1,SW.16-SL1,IWK-535-0170,{367EED06-9BA8-4B2C-8881-6DBE27EECE6E},2,1,,Gemeente,Gewoon en buitengewoon en constructie,,,0.000194504481885573
+23,3,Oorgatsluis,,,,KM66,,,,Oorgatsluis,1,5271,IWK-11-1030,{0F3175D2-CABF-4B30-97BF-ADFDEAF6CF64},,1,,Waterschap,Gewoon en buitengewoon en constructie,,,0.000101624334702095
