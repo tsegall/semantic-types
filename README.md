@@ -7,9 +7,10 @@ The intention is to select files at random to provide a robust corpus to objecti
 the Semantic Type of a data stream.  Prior analyses have attempted to use crowdsourcing (Mechanical Turk), column headers, etc to validate their process, however, this is clearly not as robust as having a source of 'truth' (see caveats below).
 
 Notes:
- * This corpus currently only includes English and Spanish data.
+ * This corpus currently only includes English, Spanish, and Dutch data.
  * For any given CSV file, there may be an associated csv.ignore which indicates that this file is not included in the reference.csv set.
  * For any given CSV file, there may be an associated csv.locale which contains the locale the file should be interpreted in.
+ * For any given CSV file, there may be an associated csv.options which contains options that should be used to interpret the CSV file (e.g. delimiter, charset, ...).
 
 ## Reference Fields  ##
 
