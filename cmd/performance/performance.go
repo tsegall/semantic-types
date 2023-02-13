@@ -112,13 +112,15 @@ func main() {
 
 		// Check to see if we are processing a single Locale
 		if options.Locale != "" && options.Locale != recordRef[LocaleIndex] {
-			continue;
+			continue
 		}
 
 		totalRecords++
-		if recordRef[TypeModifierIndex] != "NULL" && recordRef[TypeModifierIndex] != "BLANK" && recordRef[TypeModifierIndex] != "BLANKORNULL" {
-			totalDataRecords++
+		if recordRef[TypeModifierIndex] == "NULL" || recordRef[TypeModifierIndex] == "BLANK" || recordRef[TypeModifierIndex] == "BLANKORNULL" {
+			continue
 		}
+
+		totalDataRecords++
 
 		baseType := recordCurrent[BaseTypeIndex]
 		val, exists := simpleStatistics[baseType]
@@ -246,23 +248,29 @@ func main() {
 
 	if options.SemanticType == "" {
 		fmt.Printf("\nSemantic Types: %d, TotalPrecision: %.4f, TotalRecall: %.4f, F1 Score: %.4f (TP: %d, FP: %d, FN: %d), NotDetected: %d, Record# (Non-null/blank): %d (%d) (ID%%: %.2f)\n",
-			len(statistics) - len(notDetectedSet), totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives, notDetected,
+			len(statistics)-len(notDetectedSet), totalPrecision, totalRecall, totalF1Score, totalTruePositives, totalFalsePositives, totalFalseNegatives, notDetected,
 			totalRecords, totalDataRecords, float32((totalTruePositives+totalFalseNegatives)*100)/float32(totalDataRecords))
 	}
 
 	if options.BaseType {
-		fmt.Printf("Base Types: ")
+		keys := make([]string, 0, len(simpleStatistics))
+
+		for key := range simpleStatistics {
+			keys = append(keys, key)
+		}
+		sort.SliceStable(keys, func(i, j int) bool {
+			return simpleStatistics[keys[i]].Count > simpleStatistics[keys[j]].Count
+		})
+
+		fmt.Printf("Base Types: \n")
 		index := 0
 		totalBaseTypes := 0
-		for _, baseType := range simpleStatistics {
-			if index != 0 {
-				fmt.Print(", ")
-			}
+		for _, baseType := range keys {
 			index++
-			totalBaseTypes += baseType.Count
-			fmt.Printf("%s: %d", baseType.BaseType, baseType.Count)
+			totalBaseTypes += simpleStatistics[baseType].Count
+			fmt.Printf("\t%s: %d (%.4f%%)\n", simpleStatistics[baseType].BaseType, simpleStatistics[baseType].Count, float32(simpleStatistics[baseType].Count*100)/float32(totalDataRecords))
 		}
-		fmt.Printf(" (Errors: %.4f%% (%d))\n", float32(totalBaseTypeErrors*100)/float32(totalBaseTypes), totalBaseTypeErrors)
+		fmt.Printf("\tErrors: %d (%.4f%%)\n", totalBaseTypeErrors, float32(totalBaseTypeErrors*100)/float32(totalBaseTypes))
 	}
 }
 
@@ -301,9 +309,9 @@ func isKnownBaseType(lookup string) bool {
 		"Double",
 	}
 	for _, val := range list {
-	    if val == lookup {
-		return true
-	    }
+		if val == lookup {
+			return true
+		}
 	}
 	return false
 }
