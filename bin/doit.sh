@@ -29,6 +29,12 @@ do
                 OPTIONS="$OPTIONS $(cat "$1".options)"
         fi
 
-	$FTA $OPTIONS --json --output --xMaxCharsPerColumn 20000 --debug 1 --records 1000 "$i"
+	$FTA $OPTIONS --validate 1 --json --output --xMaxCharsPerColumn 20000 --debug 1 --records 1000 "$i"
+
+	if [ $? -eq 1 ]
+	then
+		echo "Problem with $i" 1>&2
+		exit 1
+	fi
 done
 
