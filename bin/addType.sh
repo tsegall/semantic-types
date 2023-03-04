@@ -16,6 +16,6 @@ sed -i .bak "s+^\($1,.*\),\"\",\"\"$+\1,\"$2\",\"\"+" reference.csv
 cmp -s reference.csv reference.csv.bak
 if [ $? -eq 0 ]
 then
-	echo "Warning: No update!!" 1>&2
+	echo "Warning: $1 - No update!!" 1>&2
 	exit 1
 fi
