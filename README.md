@@ -44,3 +44,6 @@ Please feel free to use this Corpus to measure the success of your process.  Wit
 The reference file which purports to be the arbiter of truth certainly has errors.  Some of these will be simple errors where fields have been incorrectly classified (if you see any,
 feel free to raise an issue or better still a Pull Request), others may be the result of a close call.
 
+## Building ##
+```$ go build -o bin/makedb cmd/makedb/makedb.go```
+```$ go build -o bin/performance cmd/performance/performance.go```
