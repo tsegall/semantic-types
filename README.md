@@ -9,8 +9,7 @@ the Semantic Type of a data stream.  Prior analyses have attempted to use crowds
 Notes:
  * This corpus currently only includes English, Spanish, and Dutch data.
  * For any given CSV file, there may be an associated csv.ignore which indicates that this file is not included in the reference.csv set.
- * For any given CSV file, there may be an associated csv.locale which contains the locale the file should be interpreted in.
- * For any given CSV file, there may be an associated csv.options which contains options that should be used to interpret the CSV file (e.g. delimiter, charset, ...).
+ * For any given CSV file, there is an associated csv.options which contains options that should be used to interpret the CSV file (e.g. locale, delimiter, charset, ...).
 
 ## Reference Fields  ##
 
