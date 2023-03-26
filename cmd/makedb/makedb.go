@@ -66,8 +66,14 @@ func main() {
 			outputName = outputName[:len(fileName)-4]
 		}
 		for i := 0; i < len(fields); i++ {
-			versions := strings.Split(fields[i].FtaVersion, ".")
-			major, _ := strconv.Atoi(versions[0])
+			var major int
+			if fields[i].FtaVersion == ""  {
+				fmt.Printf("****** WARNING NO VERSION ******");
+				major = 12;
+			} else {
+				versions := strings.Split(fields[i].FtaVersion, ".")
+				major, _ = strconv.Atoi(versions[0])
+			}
 			var semanticType string
 			var typeModifier string
 			if (major >= 12) {
