@@ -143,7 +143,7 @@ func main() {
 			totalBaseTypeErrors++
 		}
 
-		// Only look for String, Boolean, Long, or Double BaseTypes where we have something to say in either the reference set or the detected set
+		// Only look for known BaseTypes where we have something to say in either the reference set or the detected set
 		if isKnownBaseType(recordRef[BaseTypeIndex]) && (recordRef[SemanticTypeIndex] != "" || recordCurrent[SemanticTypeIndex] != "") {
 			if recordRef[BaseTypeIndex] != recordCurrent[BaseTypeIndex] {
 				log.Printf("Key: %s - baseTypes do not match, reference: %s, current: %s\n", key, recordRef[BaseTypeIndex], recordCurrent[BaseTypeIndex])
@@ -307,6 +307,8 @@ func isKnownBaseType(lookup string) bool {
 		"Boolean",
 		"Long",
 		"Double",
+		"LocalDate",
+		"LocalDateTime",
 	}
 	for _, val := range list {
 		if val == lookup {
