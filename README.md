@@ -20,7 +20,7 @@ The Reference file has a set of attributes keyed by the name of the file (File) 
  * RecordCount - the number of records in the file
  * BaseType - one of Boolean, LocalDate, LocalDateTime, LocalTime, Long, OffsetDateTime, String, ZonedDateTime
  * TypeModifier - A modifier for the BaseType e.g. SIGNED, GROUPING, NON_LOCALIZED, ...
- * SemanticType - the identified Semantic Type if determined (See https://github.com/tsegall/fta - for a list of Semantic Types currently identified)
+ * SemanticType - the identified Semantic Type if determined (See https://github.com/tsegall/fta#semantic-type-detection - for a list of Semantic Types currently identified)
  * Notes - any notes to indicate observations made, typically to indicate why the field does not correspond to an expected Semantic Type
 
 ## F1-Score ##
