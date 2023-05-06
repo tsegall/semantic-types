@@ -143,6 +143,10 @@ func main() {
 			totalBaseTypeErrors++
 		}
 
+		if recordRef[TypeModifierIndex] != recordCurrent[TypeModifierIndex] {
+			log.Printf("Key: %s - modifiers do not match, reference: %s, current: %s\n", key, recordRef[TypeModifierIndex], recordCurrent[TypeModifierIndex])
+		}
+
 		// Only look for known BaseTypes where we have something to say in either the reference set or the detected set
 		if isKnownBaseType(recordRef[BaseTypeIndex]) && (recordRef[SemanticTypeIndex] != "" || recordCurrent[SemanticTypeIndex] != "") {
 			if recordRef[BaseTypeIndex] != recordCurrent[BaseTypeIndex] {
