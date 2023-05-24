@@ -47,6 +47,18 @@ type FieldAnalysis struct {
 	DataSignature      string   `json:"dataSignature"`
 }
 
+func sloshCSV(input string) string {
+	output := ""
+	for _, char := range input {
+		if char == '"' {
+			output += "\""
+		}
+		output += string(char)
+	}
+
+	return output
+}
+
 func main() {
 	flag.Parse()
 
@@ -87,7 +99,7 @@ func main() {
 				}
 			}
 			fmt.Printf(`%s,%d,"%s",%d,"%s","%s","%s","%s","%s"`,
-				outputName, i, fields[i].DetectionLocale, fields[i].SampleCount, fields[i].FieldName, fields[i].Type, typeModifier, semanticType, "")
+				outputName, i, fields[i].DetectionLocale, fields[i].SampleCount, sloshCSV(fields[i].FieldName), fields[i].Type, typeModifier, semanticType, "")
 			fmt.Println()
 		}
 	}
