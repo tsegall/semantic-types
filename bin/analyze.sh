@@ -4,12 +4,17 @@ for i in `cat /tmp/$$.1`
 do
 	F=`egrep $i reference.csv | cut -f5 -d','`
 	R=`egrep $i reference.csv | cut -f8 -d','`
+	COMMENT=`egrep $i reference.csv | cut -f9 -d','`
+	if [ ! -z "$COMMENT" ]
+	then
+		COMMENT=", $COMMENT"
+	fi
 	N=`egrep $i ncurrent.csv | cut -f8 -d','`
 	C=`egrep $i current.csv | cut -f8 -d','`
 
 	if [ "$R" != "$N" ]
 	then
-		echo "---- $i, field $F, R = $R, N = $N, C = $C"
+		echo "---- $i, field $F, R = $R, N = $N, C = $C$COMMENT"
 	else
 		if [ "$R" == '""' -a "$N" == '""' ]
 		then
