@@ -20,7 +20,10 @@ do
 		then
 			R=`egrep $i reference.csv | cut -f6,7 -d','`
 			N=`egrep $i ncurrent.csv | cut -f6,7 -d','`
-			C=`egrep $i current.csv | cut -f6,7 -d','`
+			if [ "$C" == '""' ]
+			then
+				C=`egrep $i current.csv | cut -f6,7 -d','`
+			fi
 		fi
 
 		echo "++++ $i, field $F, R = $R, N = $N, C = $C"
