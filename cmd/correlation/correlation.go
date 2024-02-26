@@ -206,7 +206,7 @@ func calculateFacts(statistics map[string]*Statistic, options Options, keys []st
 		log.Fatal(err)
 	}
 
-	// Now we know how many Semantic Types we have allocate space and set the Index
+	// We know how many Semantic Types we have, allocate space and set the Index
 	for index, key := range keys {
 		statistics[key].CorrelationCount = make([]int, len(statistics))
 		statistics[key].Correlation = make([]float32, len(statistics))
@@ -255,6 +255,7 @@ func calculateFacts(statistics map[string]*Statistic, options Options, keys []st
 								continue
 							}
 							seen.Add(valueCorr)
+							fmt.Printf("%s -> %s: %d -> %d\n", value, valueCorr, index, indexCorr)
 							semanticOffset := statistics[valueCorr].Index
 							statistics[value].TotalDistance[semanticOffset] += Abs(indexCorr - index)
 							if indexCorr < index {
@@ -262,7 +263,7 @@ func calculateFacts(statistics map[string]*Statistic, options Options, keys []st
 							} else {
 								statistics[value].Direction[semanticOffset]--
 							}
-							// fmt.Printf("%s -> %s: %d -> %d(%d) (%f)\n", value, valueCorr, index, indexCorr, semanticOffset, correlation)
+							fmt.Printf("%s -> %s: %d -> %d(%d)\n", value, valueCorr, index, indexCorr, semanticOffset)
 							statistics[value].CorrelationCount[semanticOffset]++
 						}
 					}

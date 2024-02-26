@@ -1,16 +1,17 @@
+GREP=rg
 diff ncurrent.csv current.csv | egrep '^<' | sed 's/^..//' | cut -f1,2 -d',' | sed 's/$/,/' > /tmp/$$.1
 echo "Differences: $(wc -l < /tmp/$$.1)"
 for i in `cat /tmp/$$.1`
 do
-	F=`egrep $i reference.csv | cut -f5 -d','`
-	R=`egrep $i reference.csv | cut -f8 -d','`
-	COMMENT=`egrep $i reference.csv | cut -f9 -d','`
+	F=`$GREP $i reference.csv | cut -f5 -d','`
+	R=`$GREP $i reference.csv | cut -f8 -d','`
+	COMMENT=`$GREP $i reference.csv | cut -f9 -d','`
 	if [ ! -z "$COMMENT" ]
 	then
 		COMMENT=", $COMMENT"
 	fi
-	N=`egrep $i ncurrent.csv | cut -f8 -d','`
-	C=`egrep $i current.csv | cut -f8 -d','`
+	N=`$GREP $i ncurrent.csv | cut -f8 -d','`
+	C=`$GREP $i current.csv | cut -f8 -d','`
 
 	if [ "$R" != "$N" ]
 	then
@@ -18,11 +19,11 @@ do
 	else
 		if [ "$R" == '""' -a "$N" == '""' ]
 		then
-			R=`egrep $i reference.csv | cut -f6,7 -d','`
-			N=`egrep $i ncurrent.csv | cut -f6,7 -d','`
+			R=`$GREP $i reference.csv | cut -f6,7 -d','`
+			N=`$GREP $i ncurrent.csv | cut -f6,7 -d','`
 			if [ "$C" == '""' ]
 			then
-				C=`egrep $i current.csv | cut -f6,7 -d','`
+				C=`$GREP $i current.csv | cut -f6,7 -d','`
 			fi
 		fi
 
