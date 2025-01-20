@@ -18,7 +18,9 @@ then
 	exit 0
 fi
 
-$FTA $OPTIONS --validate 1 --json --output --xMaxCharsPerColumn 20000 --debug 1 --records 1000  $files
+# Add '--testmerge' if you want to run and exercise merging
+# Add --formatDetection if you want to check the content format
+$FTA $OPTIONS --validate 1 --output --xMaxCharsPerColumn 20000 --debug 1 --records 1000  $files
 
 if [ $? -eq 1 ]
 then
